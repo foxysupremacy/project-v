@@ -1,0 +1,393 @@
+{
+  "title": "Linh Hồn Ấy Đang Lạc Lối",
+  "jptitle": "その魂は迷っている",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Groove",
+      "text": "(――Khí tức mà mình cảm nhận được từ cô ta... Cứ như một loài quái vật khôn lường――)",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "（――彼女から感じた、あの気配……。\nまるで、得体の知れない怪物――）"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "――Thật nực cười. ...Rõ ràng người thắng là mình cơ mà...?",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "――バカバカしい。\n……勝ったのは私なのよ……？"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Rốt cuộc thì mình đang sợ hãi điều gì chứ...?",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "私はいったい、なにを恐れてるっていうの……？"
+    },
+    {
+      "name": "",
+      "text": "Bóng lưng Admire Groove sau khi cùng chạy với một cô gái Uma Musume lạ mặt đang dần khuất xa khỏi sân tập.",
+      "jpname": "モノローグ",
+      "jptext": "見知らぬウマ娘と併走していたアドマイヤグルーヴの背中が、\nグラウンドから遠ざかっていく。",
+      "choice_data_list": [
+        "Có vẻ như cô ấy không được thoải mái cho lắm",
+        "Trông cô ấy có vẻ đang căng thẳng"
+      ],
+      "jpchoice_data_list": [
+        "なんだか、余裕がなさそうだ",
+        "なんだか、余裕がなさそう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kết quả là chiến thắng thuyết phục của Admire Groove. Thế nhưng cô ấy, người đáng lẽ phải vui vì chiến thắng, lại bực dọc bỏ đi――",
+      "jpname": "モノローグ",
+      "jptext": "結果は、アドマイヤグルーヴの危なげない勝利。\nなのに勝ったはずの彼女のほうが苛立ちながら去っていった――"
+    },
+    {
+      "name": "???",
+      "text": "\"LOST\"――",
+      "jpname": "？？？",
+      "jptext": "“LOST”――",
+      "choice_data_list": [
+        "...Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"Tín hiệu\"... đang hướng về \"LOST\"... nhỉ.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "“シグナル”が……“LOST”へ向かってる……ね。"
+    },
+    {
+      "name": "",
+      "text": "Cô bé này... nếu tôi nhớ không nhầm, là một trong những hạt giống triển vọng được kỳ vọng sẽ ra mắt cùng thời điểm với Admire Groove... hình như tên là Neo Universe thì phải.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は……たしか、アドマイヤグルーヴと同時期デビューと\n目される有望株のひとり……ネオユニヴァースと言っただろうか。",
+      "choice_data_list": [
+        "Tín hiệu... lost...? Cậu đang nói chuyện gì thế...?"
+      ],
+      "jpchoice_data_list": [
+        "シグナル……ロスト……？何の話を……？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Linh hồn... đang \"lạc lối\"...",
+      "jpname": "ネオユニヴァース",
+      "jptext": "魂が……“迷子”……。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Admire Groove――có lẽ...\"không thể chạm tới\". Cần phải \"khôi phục\"... \"CONT\"――",
+      "jpname": "ネオユニヴァース",
+      "jptext": "アドマイヤグルーヴは――“辿り着けない”……かも。\n“CONT”の“修復”が必要――"
+    },
+    {
+      "name": "",
+      "text": "Kể từ đó, Neo Universe chẳng mảy may đáp lại tiếng gọi của tôi mà cứ thế rời đi nơi khác.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースはあれからこちらの呼びかけに応じることなく、\n何処かへ行ってしまった。",
+      "choice_data_list": [
+        "――Cậu ấy... rốt cuộc muốn nói điều gì chứ?"
+      ],
+      "jpchoice_data_list": [
+        "――彼女は……何が言いたかったんだろう？"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Hửm? Trainer đằng kia, có thể nói chuyện một chút không.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……む？\nそこのトレーナー、ちょっといいか。",
+      "choice_data_list": [
+        "Hả...? Ơ kìa... tôi sao?",
+        "Hả...? Ơ kìa... tôi ư?"
+      ],
+      "jpchoice_data_list": [
+        "え……？ええと……俺？",
+        "え……？ええと……私？"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Ngoài cậu ra thì làm gì còn ai ở đây nữa. Cậu có qua lại với Admire Groove đúng không. Tôi đã thấy hai người nói chuyện.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……他にそれらしい者もおらんだろう。\n貴様、アドマイヤグルーヴと交流があるな。話しているのを見た。",
+      "choice_data_list": [
+        "K-Không, giao lưu... cũng chưa tới mức đó..."
+      ],
+      "jpchoice_data_list": [
+        "い、いや交流……というほどでは……"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Chuyện đó lúc này không quan trọng. Cậu có biết em ấy gặp chuyện gì không? Vừa nãy tôi thoáng thấy em ấy... nhưng bầu không khí toát ra lại bất thường vô cùng.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……この際なんでも構わん。彼女に何かあったか知らんか？\n先ほども見かけたのだが……尋常ならざる雰囲気だった。"
+    },
+    {
+      "name": "",
+      "text": "Tôi nói trước rằng bản thân không nắm rõ chi tiết nội tình, rồi kể lại chuyện hai người cùng chạy đua mà mình vừa chứng kiến...",
+      "jpname": "モノローグ",
+      "jptext": "細かい事情はわからないと前置きしたうえで、\n先ほど目撃した併走の事を話した……。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "――Hừm. Theo những gì cậu kể thì chỉ là \"cùng chạy với ai đó rồi giành chiến thắng\". Nếu xâu chuỗi sự thật lại thì chỉ có chừng ấy. ...Tình hình hiện tại chưa thể kết luận được gì.",
+      "jpname": "エアグルーヴ",
+      "jptext": "――ふむ。貴様の話を聞く限り“誰かと併走して、勝った”。\n事実を並べれば、それだけか。……現状ではなんとも言えんな。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Thôi được rồi. Sau này nếu nhận thấy điều gì bất thường thì hãy chia sẻ với tôi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "まあいい。\n今後何か気づいた事があれば共有してくれ。",
+      "choice_data_list": [
+        "Cô lo lắng cho cô bé ấy nhiều thật đấy",
+        "Cô lo lắng cho em ấy nhiều thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "彼女のこと、すごく心配してるんだな",
+        "彼女のこと、すごく心配してるんだね"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Hừm. Dù có quen biết, nhưng cũng chẳng phải thân thiết gì cho cam... thế mà chẳng hiểu sao tôi cứ bận lòng――",
+      "jpname": "エアグルーヴ",
+      "jptext": "……ふむ。見知っているとはいえ、特段付き合いがあるわけでも\nないんだがな……どうにも気になって――"
+    },
+    {
+      "name": "Air Groove",
+      "text": "――Không. Thứ lỗi, là chuyện riêng của tôi thôi. Dù sao thì nếu phát hiện điều gì thì báo cho tôi nhé.",
+      "jpname": "エアグルーヴ",
+      "jptext": "――いや。すまん、こっちの話だ。\nとにかく、何か気づいたら教えてくれ。"
+    },
+    {
+      "name": "",
+      "text": "Rất nhiều chuyện xảy ra trong ngày hôm nay cứ quanh quẩn không dứt trong đầu tôi.",
+      "jpname": "モノローグ",
+      "jptext": "今日あったいろんなことが、頭の中をぐるぐると回っていた。"
+    },
+    {
+      "name": "",
+      "text": "Sự bực dọc kỳ lạ của Admire Groove dù đã thắng cuộc đua. Từ \"LOST\" mà Neo Universe đã thốt ra khi nhắc tới cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "併走で勝ったはずのアドマイヤグルーヴが見せた、謎の苛立ち。\n彼女に関してネオユニヴァースが口にした、“ロスト”という言葉。"
+    },
+    {
+      "name": "",
+      "text": "Cả việc Air Groove chẳng hiểu sao lại quan tâm lo lắng cho Admire Groove. Tất cả những hiện tượng này rốt cuộc mang ý nghĩa gì?",
+      "jpname": "モノローグ",
+      "jptext": "アドマイヤグルーヴがなぜか気にかかると言うエアグルーヴ。\nこれらの事象は、何を意味しているのだろうか。",
+      "choice_data_list": [
+        "Thực sự... không hiểu nổi. Dù có nghĩ bao nhiêu đi nữa..."
+      ],
+      "jpchoice_data_list": [
+        "よく……わからない。いくら考えても……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Có lẽ vì vừa chìm vào giấc ngủ vừa mải suy nghĩ. Nơi ranh giới chập chờn, tôi đã thấy một giấc mơ kỳ lạ.",
+      "jpname": "モノローグ",
+      "jptext": "――考え事をしながら眠ったからだろうか。\nまどろみの縁で、奇妙な夢を見た。"
+    },
+    {
+      "name": "Phát thanh viên",
+      "text": "Là Admire Groove! Cô ấy vừa siết chặt nắm tay rồi!!",
+      "jpname": "アナウンサー",
+      "jptext": "アドマイヤグルーヴだッ！\n今、拳を握りしめましたッ！！"
+    },
+    {
+      "name": "Phát thanh viên",
+      "text": "Suýt soát đẩy lùi Still in Love, cuối cùng cô ấy đã chinh phục đỉnh cao GI...! Người thống trị Cúp Nữ Hoàng Elizabeth chính là Admire Groove...!",
+      "jpname": "アナウンサー",
+      "jptext": "スティルインラブを際どく退け、ついにGⅠ制覇……！\n『エリザベス女王杯』を制したのはアドマイヤグルーヴ……！"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cuối cùng――em cũng đã phục thù thành công rồi nhỉ.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ようやく――雪辱を果たせたな。"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Khoảnh khắc khi con tưởng chừng đã đánh mất tất cả――chính mẹ là người đã nắm lấy bàn tay này.",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "……。一度全てを失くしかけたとき――\nこの手を掴んでくださったのは、貴方でした。"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "――Tất cả những gì mẹ trao cho con... đều đã ngấm sâu vào trong con. Cả đôi chân này... lẫn con tim này.",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "――貴方からいただいたものの全てが……私には宿っていました。\nこの脚にも……心にも。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Phù. Nghe những lời này từ một đứa hậu bối từng khiến ta tốn bao công sức, quả thực xúc động khôn nguôi. Thế nhưng... thực sự――thực sự em đã làm rất tốt.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……ふふ。散々手を焼いた後輩の言葉と考えると、感慨深いものだ。\nだが……本当に――本当に、よくやった。"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "――...! ...Vâng...!",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "――……！\n……はい……！",
+      "choice_data_list": [
+        "(Cảm giác như đây là một giấc mơ rất――dịu dàng...)"
+      ],
+      "jpchoice_data_list": [
+        "（なんだかとても――優しい夢だ……）"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Ơ kìa!? ...Hà... hà... Lại là giấc mơ đó...!",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "っ！？　……はぁっ……はぁっ……。\nまた、あの夢……！"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Triple Tiara... Cúp Nữ Hoàng Elizabeth, tất cả đều bị cướp mất...)",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "（トリプルティアラ……『エリザベス女王杯』、\n全てを奪われ…………）"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(...Cả vinh quang, sự tự tin, ngay cả tương lai... mọi thứ đều tan biến! Mình còn phải tiếp tục chịu đựng cơn ác mộng này tới bao giờ nữa đây...!?)",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "（……栄誉も、自信も、未来さえ……なにもかも失って！\nいつまで、こんな悪夢を見続ければいいっていうの……！？）"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Một chiến thắng hình thức đơn thuần không thể dứt điểm cơn ác mộng. Nguyên nhân chắc chắn... nằm ở sâu thẳm nội tâm mình.)",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "（形式的な勝利だけでは、悪夢は終わらなかった。\n原因はきっと……私の内心にある）"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Nỗi sợ hãi đối với cô ta mà mình đang cảm thấy đâu đó... Bằng mọi giá, mình phải chặt đứt nó――)",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "（彼女に対してどこかで感じている……恐れ。\nなんとしても、断ち切らなければ――）"
+    },
+    {
+      "name": "",
+      "text": "Vì hình ảnh trong giấc mơ đêm qua cứ quanh quẩn trong tâm trí, tôi bước ra sân tập thì thấy nàng Uma Musume cô độc đang cặm cụi tập luyện với vẻ mặt đằng đằng sát khí.",
+      "jpname": "モノローグ",
+      "jptext": "昨晩の夢の事がどうにも頭から離れずグラウンドを訪れると、\n孤高のウマ娘は鬼気迫る表情で黙々とトレーニングをしていた。",
+      "choice_data_list": [
+        "...Vất vả cho cô rồi. Trông cô tràn đầy khí thế nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "……お疲れ様。気合い入ってるね"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Hà... hà... ...Tôi chỉ ngủ không ngon giấc nên tâm trạng hơi bức bối thôi.",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "……はぁっ……はぁっ……。\n……夢見が悪くて気が立っているだけです。"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Quả thực là một \"giấc mơ\" ác ý――cứ lặp đi lặp lại không biết bao nhiêu lần...! Cả Tiara, cả những trận sau đó nữa... đều bị cướp mất...! Bởi cô ta!",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "……本当に悪趣味な“夢”――何度も何度も……何度も何度も……！\nティアラも、その先も……全て奪われる……！　彼女に！",
+      "choice_data_list": [
+        "Sau đó... là Cúp Nữ Hoàng Elizabeth sao...?"
+      ],
+      "jpchoice_data_list": [
+        "先って……『エリザベス女王杯』……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không ngờ Admire Groove cũng gặp phải giấc mơ tương tự. Chỉ có điều, \"bị cô ta cướp mất\" có nghĩa là... kết cục dường như hoàn toàn trái ngược.",
+      "jpname": "モノローグ",
+      "jptext": "まさかアドマイヤグルーヴも、似たような夢を見ていたとは。\nただ、“彼女に奪われる”ということは……結末は異なるようだ。",
+      "choice_data_list": [
+        "Đối thủ... là Still in Love sao?"
+      ],
+      "jpchoice_data_list": [
+        "相手は……スティルインラブ？"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "...Anh, làm sao anh biết được chuyện đó――",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "……貴方、どうしてそれを――",
+      "choice_data_list": [
+        "A, không... tôi nhớ hôm trước hai người có cùng chạy――"
+      ],
+      "jpchoice_data_list": [
+        "あ、いや……この間、併走してた気が――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nghĩ rằng nếu nói mình thấy trong mơ thì chỉ khiến cô ấy nghĩ mình là kẻ kỳ quặc, tôi vội vàng tìm cách chống chế.",
+      "jpname": "モノローグ",
+      "jptext": "夢で見たなんて話をしても変に思われるだけと考え、\n咄嗟に取り繕った。"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "――...ực! ...Dù sao đi nữa, chuyện đó cũng chẳng liên quan gì tới anh cả. Tôi vẫn còn bài tập, xin phép đi trước.",
+      "jpname": "アドマイヤグルーヴ",
+      "jptext": "――……っ！　……ともかく、貴方には関係のないことです。\nまだトレーニングがありますので、失礼します。"
+    },
+    {
+      "name": "",
+      "text": "Triple Tiara và Cúp Nữ Hoàng Elizabeth của Admire Groove. Liệu có chuyện ngẫu nhiên đến mức cả hai cùng mơ về hồi kết hoàn toàn trái ngược nhau như thế không?",
+      "jpname": "モノローグ",
+      "jptext": "アドマイヤグルーヴのトリプルティアラと『エリザベス女王杯』。\nその真逆とも言える顛末の夢を偶然見るなんてあるのだろうか。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "...\"Cửa sổ\"... xác nhận đang \"kích thích\"... Admire Groove và... bạn.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“窓”の“励起”を確認……。\nアドマイヤグルーヴと……あなた。",
+      "choice_data_list": [
+        "!... Này, tôi có chuyện muốn hỏi cậu――",
+        "!... Ơ này, tôi có chuyện muốn hỏi cậu――"
+      ],
+      "jpchoice_data_list": [
+        "！……なあ、君に聞きたい事が――",
+        "！……あの、貴方に聞きたい事が――"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"Cửa sổ\" của bạn là――\"khôi phục\"... Admire Groove... \"có thể chạm tới\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "あなたの“窓”は――“修復”……。\nアドマイヤグルーヴは……“辿り着ける”。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Nhưng mà...\"Ether\"... đang \"bất ổn\"... \"Cửa sổ\"... đang định khép lại... \"Quan sát\"... sắp bị gián đoạn.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "でも……“エーテル”が、“不安定”……。\n“窓”は……閉じようとしてる……。“観測”が……途切れそう。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "... \"Cửa sổ\" của Admire Groove là――\"mất mát\"... Admire Groove... \"không thể chạm tới\"...",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……。アドマイヤグルーヴの“窓”は――“喪失”……。\nアドマイヤグルーヴは……“辿り着けない”……。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "...\"Tín hiệu\" của cậu ấy sắp \"LOST\". \"Ether\" rất đậm đặc... \"cường độ quan sát\" cũng... rất cao.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……彼女の“シグナル”は、“LOST”する。\n“エーテル”は濃い……“観測強度”も……高い。"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "――\"Linh hồn\" của Admire Groove... \"CONT\" đã \"mất mát\". Cần phải...\"khôi phục\". ...Đừng để \"cửa sổ\" của bạn――khép lại.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "――アドマイヤグルーヴの“魂”……“CONT”が“喪失”。\n“修復”が……必要。……あなたの“窓”を――閉じないで。"
+    }
+  ]
+}
