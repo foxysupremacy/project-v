@@ -1,0 +1,385 @@
+{
+  "title": "Thánh Nữ giáng lâm",
+  "jptitle": "聖女の降臨",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Trainer tân binh A",
+      "text": "——Cảm ơn mọi người đã chúc mừng nhé! Ái chà, ngại quá đi mất. Tôi vẫn còn phải học hỏi nhiều lắm.",
+      "jpname": "新人トレーナーA",
+      "jptext": "――みんな、祝ってくれてありがとう！\nいやぁ、照れるな。自分なんてまだまだなのに。"
+    },
+    {
+      "name": "Trainer tân binh B",
+      "text": "Đỉnh thật đấy, mới là tân binh mà đã được biểu dương vì nghiên cứu lý thuyết huấn luyện rồi! Không ngờ đó lại là bạn đồng khóa với mình…… Đúng là trên đời có những người đặc biệt thật đấy.",
+      "jpname": "新人トレーナーB",
+      "jptext": "すごいな～、新人なのにトレーニング理論の研究で表彰なんて！\nあれが同期とはねぇ……いるんだなぁ、特別な人って。",
+      "choice_data_list": [
+        "Ừ, thật sự quá đỉnh……!",
+        "Ừm, thật sự quá đỉnh……!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、本当にすごい……！",
+        "うん、本当にすごい……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi thật lòng vui mừng trước thành công của người bạn đồng khóa. Cảm xúc ấy không hề có chút giả tạo. ……Chỉ là nơi sâu thẳm trong lồng ngực, có một cảm giác nhói buốt âm thầm len lỏi.",
+      "jpname": "モノローグ",
+      "jptext": "同期の活躍を心から嬉しく思う。その気持ちに偽りはない。\n……ただ胸の奥で、密やかに疼くものがある。",
+      "choice_data_list": [
+        "(Quả nhiên mình chỉ là một kẻ \"bình thường\" mà thôi——)",
+        "(Quả nhiên mình chỉ là một kẻ \"bình thường\" mà thôi——)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり俺は、ただの『凡人』だ――）",
+        "（やっぱり私は、ただの『凡人』だ――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Vào giờ tan học của cái ngày diễn ra chuyện như thế. Vừa dõi theo các Uma Musume đang nỗ lực luyện tập, tôi vừa bần thần suy nghĩ.",
+      "jpname": "モノローグ",
+      "jptext": "……なんて、ことがあった日の放課後。\nトレーニングに励むウマ娘たちを見ながらぼんやりと考える。"
+    },
+    {
+      "name": "",
+      "text": "Bản thân mình chẳng có gì nổi bật. Thực lực thì vẫn còn non nớt lắm. Trong tình cảnh này, có lẽ việc nhận quản lý một Uma Musume vẫn còn là quá sớm……",
+      "jpname": "モノローグ",
+      "jptext": "自分はどうにもパッとしない。実力はまだまだだ。\nこんな状況では、担当ウマ娘を持つには早いだろう……。"
+    },
+    {
+      "name": "？？？",
+      "text": "——A, xin Người đừng than vãn. Hỡi trời cao. Người đang sầu muộn điều chi mà lại rơi những giọt lệ lạnh lẽo thế này?",
+      "jpname": "？？？",
+      "jptext": "――あぁ、どうかお嘆きにならないで。\n天よ。貴方はいったいなにを憂い、冷たい涙を零すというの？",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "えっ？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trong thoáng chốc, tôi ngỡ như cô ấy đang nói với mình. Thế nhưng khi dõi theo ánh mắt của cô, tôi chỉ thấy trên bầu trời từng đám mây đen đang ùn ùn kéo đến……",
+      "jpname": "モノローグ",
+      "jptext": "一瞬、自分に言われたのかと思ってしまった。\nしかし、彼女の視線を追うと空には雨雲が流れてきていて……。"
+    },
+    {
+      "name": "",
+      "text": "(Đùng đùng đoàng đoàng…… ĐOÀNGGGG!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ゴロゴロゴロ……ピシャーーーーーンッ！！）"
+    },
+    {
+      "name": "？？？",
+      "text": "Ngay cả lưỡi kiếm sấm sét cũng……! Vừa lúc tôi xuất hiện lại xảy ra cơ sự này…… Hả!",
+      "jpname": "？？？",
+      "jptext": "雷の剣まで……！\n私が現れた途端、このような……はっ！"
+    },
+    {
+      "name": "？？？",
+      "text": "Chẳng lẽ, đây cũng là một thử thách dành cho Thánh Nữ sao……!? A a a a…………!",
+      "jpname": "？？？",
+      "jptext": "まさか、これも聖女への試練だというのですか……！？\nああぁぁっ…………！",
+      "choice_data_list": [
+        "…………???"
+      ],
+      "jpchoice_data_list": [
+        "…………？？？"
+      ]
+    },
+    {
+      "name": "Các Uma Musume",
+      "text": "Sấm sét hình như đang tới gần hơn rồi kìa? Sợ quá đi! Mọi người ơi! Giảng viên bảo \"Nguy hiểm lắm nên mau vào nhà thể chất lánh nạn đi\" kìa!",
+      "jpname": "ウマ娘たち",
+      "jptext": "雷、どんどん近づいてきてない？　こわ～い！\nみんなー！　教官が『危ないから体育館に避難～』って！",
+      "choice_data_list": [
+        "A, này! Em cũng mau đi lánh nạn đi!",
+        "A, này! Cô cũng mau mau lánh nạn đi!"
+      ],
+      "jpchoice_data_list": [
+        "あっ、あの！君も早く避難してっ！",
+        "あっ、あの！貴方も早く避難してっ！"
+      ]
+    },
+    {
+      "name": "Các Uma Musume",
+      "text": "Sấm sét ghê thật đấy. Sợ quá đi…… Haizz, hôm nay mình đang muốn chạy ở ngoài trời thế mà.",
+      "jpname": "ウマ娘たち",
+      "jptext": "雷やばー。怖いなぁ……。\nあーあ、今日は外で走りたかったのに～。"
+    },
+    {
+      "name": "？？？",
+      "text": "Mọi người ơi, xin hãy ngẩng cao đầu lên. Tôi sẽ dùng sức mạnh từ lời cầu nguyện thiêng liêng để xoa dịu trời cao.",
+      "jpname": "？？？",
+      "jptext": "みなさん、どうかお顔を上げて下さい。\n私が、聖なる祈りの力で天を鎮めて参ります。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Hãy cứ để đó cho Thánh Nữ Red Desire này……!",
+      "jpname": "レッドディザイア",
+      "jptext": "この聖女レッドディザイアに、お任せを……！"
+    },
+    {
+      "name": "Red Desire",
+      "text": "……Nào, tôi sẽ mở cửa sổ ra. Mọi người hãy lùi lại phía sau đi nhé.",
+      "jpname": "レッドディザイア",
+      "jptext": "……さぁ、窓をお開けしますよ。\nみなさんは下がっていらして。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Hỡi trời cao, hỡi đất dày, hỡi các tinh linh khắp muôn nơi nơi \"vùng đất ấy\"……! Hãy ban sức mạnh mana cho lời nguyện cầu của ta——!",
+      "jpname": "レッドディザイア",
+      "jptext": "天よ、地よ、“かの地”のあまねく精霊よ……！\n我が祈りにマナの力を――！",
+      "choice_data_list": [
+        "(Gió……! Đang yếu dần đi sao——?)"
+      ],
+      "jpchoice_data_list": [
+        "（風が……！弱まって――？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(VÙ VÙ VÙ! ĐÙNG ĐÙNG ĐOÀNGGG!)",
+      "jpname": "モノローグ",
+      "jptext": "（ビュオオオオッ！　ゴロゴロピッシャーン！）"
+    },
+    {
+      "name": "",
+      "text": "——Không hề! Sau một khoảnh khắc lặng gió, cơn mưa quất xối xả làm rung bần bật khung cửa sổ thổi tạt vào!",
+      "jpname": "モノローグ",
+      "jptext": "――いなかった！　一瞬の凪のあと、\n窓をびりびりと震わすような横殴りの雨が吹きつける！"
+    },
+    {
+      "name": "Red Desire",
+      "text": "A…… a a……! Thật là tà ác làm sao! Hự…… Xem ra bây giờ chỉ còn cách nhẫn nại thôi.",
+      "jpname": "レッドディザイア",
+      "jptext": "あぁ……あぁぁ……！　なんて邪悪な！\nく……今は、耐えるしかないようです。"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "Oa oa oa! Này, cậu có sao không đấy!? Ướt như chuột lột rồi kìa!!",
+      "jpname": "ウマ娘A",
+      "jptext": "わ～～～っ！　ちょっと、大丈夫！？\nずぶ濡れじゃない！！"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Cảm ơn bạn nhé. Người tốt bụng. Nhưng không sao đâu ạ.",
+      "jpname": "レッドディザイア",
+      "jptext": "ありがとうございます。お優しい方。\nですが、大丈夫です。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Bởi vì tôi…… là Thánh Nữ mà!",
+      "jpname": "レッドディザイア",
+      "jptext": "私……聖女ですから！",
+      "choice_data_list": [
+        "(C-Cái quái gì thế này, cô bé này là……)",
+        "(C-Cô bé này là sao thế này……)"
+      ],
+      "jpchoice_data_list": [
+        "（な、なんだこの子は……）",
+        "（な、なにこの子は……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "——Kể từ sau vụ việc đó, hình bóng của Red Desire bắt đầu đập vào mắt tôi thường xuyên hơn trong khuôn viên học viện.",
+      "jpname": "モノローグ",
+      "jptext": "――そんなことがあってからというもの、\n校内ではレッドディザイアの姿が目につくようになった。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Á! Dây giày bị đứt rồi……! Thế này thì làm sao chạy đến lớp học được đây. Hự, lại thêm một thử thách nữa sao……!",
+      "jpname": "レッドディザイア",
+      "jptext": "あぁっ！　靴紐が、切れて……！\nこれでは教室まで走れないわ。く、またしても試練が……！"
+    },
+    {
+      "name": "Uma Musume C",
+      "text": "Mình xin lỗi nhé! Lúc đang bưng nước lau dọn thì bị trượt tay……! Ai ngờ ở dưới lại có người chứ……",
+      "jpname": "ウマ娘C",
+      "jptext": "ごめんなさ～い！　掃除用の水を運んでたら手が滑って……！\nまさか下に人がいるなんて……。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Không sao đâu. Đây cũng chỉ là thử thách dành cho Thánh Nữ. Chút nước tầm thường làm sao dập tắt được ngọn lửa đỏ thiêng liêng.",
+      "jpname": "レッドディザイア",
+      "jptext": "よいのです。これも聖女への試練。\nただの水に、聖なる赤い炎を消せはしません。",
+      "choice_data_list": [
+        "(Một cô bé…… kỳ lạ hết chỗ nói!!!!)"
+      ],
+      "jpchoice_data_list": [
+        "（だいぶ……変な子だ！！！！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau đó. Red Desire tham gia vào một cuộc đua tập. Ở đó, cũng có sự góp mặt của một nhân tố tâm điểm cực kỳ được săn đón……",
+      "jpname": "モノローグ",
+      "jptext": "さらに数日後。レッドディザイアは模擬レースに出ていた。\nそこには、大人気の注目株も出走していて……。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Chào mọi người, hôm nay nhờ cả vào các cậu nhé. Tớ sẽ cố gắng hết sức để chúng ta có một cuộc đua thật tuyệt vời!",
+      "jpname": "ブエナビスタ",
+      "jptext": "みんな、今日はよろしくね。\nいいレースができるように頑張るから！"
+    },
+    {
+      "name": "",
+      "text": "Tên của cô ấy là Buena Vista. Cô được kỳ vọng là ứng cử viên số một cho tuyến Tiara vào năm tới, một gương mặt sáng giá cho danh hiệu \"nữ chính\" của thế hệ tiếp theo.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の名はブエナビスタ。早くも来年のティアラ路線の\n大本命と目されている、次代の“ヒロイン”候補だ。"
+    },
+    {
+      "name": "Các Uma Musume",
+      "text": "Thì chắc chắn quán quân là cậu ấy rồi. Đẳng cấp khác bọt mà. Đúng là tỏa ra khí chất đặc biệt ghê! Hầy, không biết mình có bám đuổi nổi không đây?",
+      "jpname": "ウマ娘たち",
+      "jptext": "まあ、優勝はあの子でしょ。レベチだもん。\nやっぱ特別なオーラあるよね！　うぅ、ついてけるかなぁ？",
+      "choice_data_list": [
+        "(Đặc biệt ư…… Đúng là như vậy thật)",
+        "(Đặc biệt ư…… Đúng là như thế thật)"
+      ],
+      "jpchoice_data_list": [
+        "（特別、か……確かにそうだな）",
+        "（特別、か……確かにそうだ）"
+      ]
+    },
+    {
+      "name": "Red Desire",
+      "text": "Cảm ơn cậu vì đã chỉ giáo, bạn Buena. Thánh Nữ Red Desire này xin thề sẽ dốc hết toàn lực……!",
+      "jpname": "レッドディザイア",
+      "jptext": "ブエナさん、胸を貸していただき感謝いたします。\n聖女レッドディザイアは、全力を尽くすと誓います……！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Desire-chan! Tớ cũng vậy nhé. Tớ sẽ không thua đâu.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ディザイアちゃんっ！\nこちらこそだよ。私も負けない。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Được chứ…… Tôi nhất định sẽ vượt qua thử thách mang tên cậu……!",
+      "jpname": "レッドディザイア",
+      "jptext": "ええ……\n私は必ず、貴方という試練をも越えてみせる……！",
+      "choice_data_list": [
+        "(Không hề chùn bước chút nào, cô bé này……)"
+      ],
+      "jpchoice_data_list": [
+        "（ひるまないんだ、この子……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phải chăng cô bé có sự tự tin vô cùng lớn? ……Và rồi vào giai đoạn cuối cuộc đua. Red Desire duy trì vị trí thuận lợi và tiến vào đoạn thẳng cuối cùng!",
+      "jpname": "モノローグ",
+      "jptext": "よほどの自信があるのだろうか？　……そしてレース終盤。\nレッドディザイアは、いい位置取りのまま最終直線へ入った！"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Hự——! Hỡi số phận, xin hãy cứ thế này mà tiếp tục……!",
+      "jpname": "レッドディザイア",
+      "jptext": "ふっ――！\n運命よ、どうかこのまま……！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Chính là lúc này! Hự……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "ここだっ！　ふっ……！"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Ư……! Đã là gì chứ……! Haaaaaa——!",
+      "jpname": "レッドディザイア",
+      "jptext": "くっ……！　なんの……っ！\nはぁああぁぁぁーーーっ！"
+    },
+    {
+      "name": "",
+      "text": "Red Desire kiên cường chống đỡ trước màn bứt tốc kinh hoàng của Buena Vista. Bước chạy ấy thể hiện thực lực vững vàng, và đâu đó còn phảng phất nét thần thánh——",
+      "jpname": "モノローグ",
+      "jptext": "ブエナビスタの驚異的な追い上げに耐える、レッドディザイア。\nその走りは確かな実力を持ち、どこか神々しく――",
+      "choice_data_list": [
+        "(Chẳng lẽ cứ thế này mà……!?)"
+      ],
+      "jpchoice_data_list": [
+        "（まさか、このまま……！？）"
+      ]
+    },
+    {
+      "name": "Các Uma Musume",
+      "text": "Đúng là Buena-chan có khác! Mình biết ngay là cậu ấy sẽ thắng mà! Quả nhiên là thiên tài!",
+      "jpname": "ウマ娘たち",
+      "jptext": "さっすがブエナちゃーん！　勝つと思ってた！\nやっぱり、天才だよね！"
+    },
+    {
+      "name": "",
+      "text": "——Thế nhưng, cô ấy đã không thể giành chiến thắng. Xung quanh ngập tràn những lời tán dương dành cho Buena Vista.",
+      "jpname": "モノローグ",
+      "jptext": "――しかし、勝てはしなかった。\n辺りはブエナビスタへの賞賛の声に包まれる。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Hà…… hà…… Lại một lần nữa không thể chạm tới rồi……",
+      "jpname": "レッドディザイア",
+      "jptext": "はぁ……はぁ……、\nまたしても届かなかった……。"
+    },
+    {
+      "name": "",
+      "text": "Đã tự tin bước vào cuộc đua đến mức ấy. Cứ ngỡ dù là Red Desire đi chăng nữa cũng sẽ suy sụp, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "あれだけ自信を持って挑んだのだ。\nさすがのレッドディザイアも落ち込むか、そう思いきや……。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Tuyệt vời lắm, bạn Buena. Bức tường mang tên cậu quả thực cứ cao mãi không thôi nhỉ.",
+      "jpname": "レッドディザイア",
+      "jptext": "素晴らしいわ、ブエナさん。\n貴方という壁は、どこまでも高くなるのね。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Nhưng tôi biết rõ…… Thử thách chỉ tìm đến với những ai có khả năng vượt qua nó.",
+      "jpname": "レッドディザイア",
+      "jptext": "けれど私は知っている……。\n試練とは、乗り越えられる者の元へやってくるの。"
+    },
+    {
+      "name": "Red Desire",
+      "text": "——Lần tới tôi sẽ không thua đâu. Bởi vì tôi là Thánh Nữ mà.",
+      "jpname": "レッドディザイア",
+      "jptext": "――次は負けない。\nだって私は、聖女ですもの。",
+      "choice_data_list": [
+        "……!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "——Dù trời đã về đêm, đôi mắt ấy vẫn không ngừng quẩn quanh trong tâm trí tôi. Dù cô bé không hề nản lòng với lý do \"vì mình là Thánh Nữ\", thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "――夜になっても、あの瞳が頭から離れなかった。\n彼女は『自分は聖女だから』とめげずにいるようだが……。",
+      "choice_data_list": [
+        "Hồi xưa mình cũng từng có thời kỳ như thế nhỉ……",
+        "Hồi xưa mình cũng từng có thời kỳ như thế nhỉ……"
+      ],
+      "jpchoice_data_list": [
+        "俺にもああいう時期があったなぁ……",
+        "私にもああいう時期があったなぁ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cái cảm giác đặc trưng của tuổi dậy thì khi đinh ninh rằng \"mình là người đặc biệt\"…… Khiến tôi thấy vừa hoài niệm lại vừa có chút ngượng ngùng.",
+      "jpname": "モノローグ",
+      "jptext": "『自分は特別だ』と思い込む、思春期特有のあの感じ……。\nなんだか懐かしくて、むずがゆい気分になる。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, có lẽ chính nhờ niềm tin ấy mà cô bé mới có thể nỗ lực đến nhường kia. ……Một cô bé thú vị thật đấy. Tôi nghĩ nếu có cơ hội, mình muốn được trò chuyện cùng cô.",
+      "jpname": "モノローグ",
+      "jptext": "けれど、その想いのおかげであんなに頑張れるのだろう。\n……面白い子だ。機会があったら話してみたいと思った。"
+    }
+  ]
+}
