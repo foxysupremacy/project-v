@@ -1,0 +1,367 @@
+{
+  "title": "Tình yêu cất lời",
+  "jptitle": "愛は語る",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày hôm sau sau khi ký hợp đồng Trainer với Mejiro Ramonu. Sực nhớ ra do quá phấn khởi mà mình quên trao đổi phương thức liên lạc, tôi bèn đi tìm cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "メジロラモーヌとトレーナー契約を結んだ翌日。浮かれて連絡先を\n交換し忘れていたことを思い出し、彼女を捜しに来ていた。",
+      "choice_data_list": [
+        "(Mình cũng muốn bàn bạc về những dự định tiếp theo nữa!)"
+      ],
+      "jpchoice_data_list": [
+        "（この先のことも相談したい！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Những ước mơ muốn cùng cô ấy theo đuổi cứ rộn ràng nhảy múa trong tâm trí tôi. Trận đua đó, cả trận đua này nữa…… Kìm nén con tim đang rộn ràng, tôi đi tìm nàng khắp nơi――",
+      "jpname": "モノローグ",
+      "jptext": "彼女と追いかけたい夢が頭の中で躍っている。あのレースも、\nこのレースも……逸る胸を抑え、彼女を捜し回った――"
+    },
+    {
+      "name": "",
+      "text": "――Thế nhưng…… chẳng hiểu sao suốt cả ngày hôm đó, tôi hoàn toàn không thể gặp được cô ấy. Tình trạng ấy cứ tiếp diễn sang cả những ngày sau……",
+      "jpname": "モノローグ",
+      "jptext": "――のだが……その日はなぜか、全く彼女と会えなかった。\nそれは、翌日以降も続き……。"
+    },
+    {
+      "name": "",
+      "text": "Ngày này qua ngày khác――",
+      "jpname": "モノローグ",
+      "jptext": "来る日も――"
+    },
+    {
+      "name": "",
+      "text": "Hết ngày này tới ngày khác――",
+      "jpname": "モノローグ",
+      "jptext": "来る日も――"
+    },
+    {
+      "name": "",
+      "text": "Chẳng biết có phải trò đùa của số phận hay không mà tôi mãi không bắt gặp được Mejiro Ramonu. Hôm nay là ngày nghỉ, đoán chừng cô ấy đang luyện tập nên tôi đến phòng gym――nhưng quả nhiên, vẫn chẳng thấy bóng dáng đâu.",
+      "jpname": "モノローグ",
+      "jptext": "運命の悪戯か、メジロラモーヌを捕まえられない。今日は休日、\nトレーニング中と踏んでジムに来たが――やはり、いない。",
+      "choice_data_list": [
+        "Cô ở đâu rồi, Ramonu……!",
+        "Em ở đâu rồi, Ramonu……!"
+      ],
+      "jpchoice_data_list": [
+        "どこだ、ラモーヌ……！",
+        "どこにいるの、ラモーヌ……！"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Xin lỗi…… Người đang tìm kiếm chị gái của em ạ?",
+      "jpname": "？？？",
+      "jptext": "あの……姉をお捜しですか？",
+      "choice_data_list": [
+        "Em là……",
+        "Bạn là……"
+      ],
+      "jpchoice_data_list": [
+        "君は……",
+        "貴方は……"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Em tên là Mejiro Ardan. Là em gái…… của chị hai Mejiro Ramonu.",
+      "jpname": "メジロアルダン",
+      "jptext": "メジロアルダンと申します。\n姉様……メジロラモーヌの、妹の。",
+      "choice_data_list": [
+        "(Em gái……!)"
+      ],
+      "jpchoice_data_list": [
+        "（妹……！）"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Người là Trainer của chị ấy phải không ạ? Em đã được nghe người nhà kể lại rồi.",
+      "jpname": "メジロアルダン",
+      "jptext": "貴方は、姉のトレーナーさんですね？\nお話は家の者から伺っております。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Nếu người đang tìm chị em thì em có manh mối đấy ạ. Tầm giờ này thì…… gần như chắc chắn luôn.",
+      "jpname": "メジロアルダン",
+      "jptext": "もし姉をお捜しでしたら、心当たりがございます。\nこの時間であれば……ほぼ、間違いなく。",
+      "choice_data_list": [
+        "Em chỉ cho tôi với được không?!"
+      ],
+      "jpchoice_data_list": [
+        "教えてくれる！？"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "D-Dạ đương nhiên rồi ạ. ……Chỉ là…… liệu em có thể đi cùng người được không?",
+      "jpname": "メジロアルダン",
+      "jptext": "も、もちろんです。……ただ……\n私もご一緒して、よろしいでしょうか。"
+    },
+    {
+      "name": "",
+      "text": "Nơi Mejiro Ardan dẫn tôi đến――chính là trường đua. Lúc này sắp sửa diễn ra trận đua tâm điểm, khắp khán đài ngập tràn sự phấn khích tột độ.",
+      "jpname": "モノローグ",
+      "jptext": "メジロアルダンが連れてきてくれたのは――レース場だった。\nメインレースが行われる直前で、場内は興奮で満ち溢れている。",
+      "choice_data_list": [
+        "Ramonu đang ở…… hàng ghế VIP hay chỗ nào sao?"
+      ],
+      "jpchoice_data_list": [
+        "ラモーヌは……指定席とか？"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Dạ không, chị hai lúc nào cũng đứng ở vị trí thật gần đường đua cỏ cơ ạ. Có lẽ ở quanh khu này…… A.",
+      "jpname": "メジロアルダン",
+      "jptext": "いえ、姉様はいつもターフに近いところにいらっしゃいます。\n恐らく、このあたりに……あ。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……。",
+      "choice_data_list": [
+        "(Cô ấy trông vô cùng nghiêm túc……)"
+      ],
+      "jpchoice_data_list": [
+        "（すごく、真剣だ……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhìn cô ấy chăm chú dõi mắt về phía đường đua cỏ, tôi không nỡ cất lời gọi…… Đúng lúc đó, khúc nhạc kèn hiệu báo hiệu cuộc đua bắt đầu vang lên.",
+      "jpname": "モノローグ",
+      "jptext": "一心にターフを見つめる彼女に、声をかけるのがためらわれ……\nそのうち、レースの始まりを告げるファンファーレが鳴った。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……――"
+    },
+    {
+      "name": "",
+      "text": "Kể từ vạch xuất phát, cô ấy không hề rời mắt dù chỉ một tích tắc, nàng tập trung cao độ…… hay nói đúng hơn, cô như đang đắm chìm hoàn toàn vào thế giới của cuộc đua.",
+      "jpname": "モノローグ",
+      "jptext": "スタートから少しも目を離さず、彼女は集中して……というよりも、\nレースの世界にのめり込んでいるようだった。"
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt nàng mê đắm nhìn xuống đường cỏ rực sáng, gò má cũng phơn phớt ửng hồng. Nơi cô không còn vẻ uy nghi áp đảo hay sự bí hiểm trêu ngươi thường thấy, mà trông hệt như――",
+      "jpname": "モノローグ",
+      "jptext": "ターフをうっとり眺める瞳は輝き、頬もどこか紅潮している。\n他を圧倒する凄まじさ、人を翻弄する底知れなさはなく、まるで――",
+      "choice_data_list": [
+        "(――Hệt như một kẻ đang yêu)"
+      ],
+      "jpchoice_data_list": [
+        "（――恋をしているような）"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……――"
+    },
+    {
+      "name": "",
+      "text": "Tiếng reo hò càng lúc càng vang dội hơn. Cuộc đua đã bước vào đoạn thẳng cuối cùng, một màn tranh đua quyết liệt nổ ra. Bị cuốn hút trong chớp mắt, tôi bất giác thốt lên――",
+      "jpname": "モノローグ",
+      "jptext": "より一層歓声が大きくなる。レースは最後の直線に入り、激しい\n競り合いが始まっていた。一瞬にして惹き込まれ、気づけば――",
+      "choice_data_list": [
+        "Mọi người, cố lên……!"
+      ],
+      "jpchoice_data_list": [
+        "みんな、頑張れ……っ！"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "――Người thích nhỉ.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "――好きなのね。"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi vẫn còn đang đắm chìm trong dư âm của trận đua và chăm chú nhìn về vạch đích…… bất chợt Mejiro Ramonu cất tiếng. Có lẽ nàng đang nói với tôi.",
+      "jpname": "モノローグ",
+      "jptext": "レース後の余韻に浸り、じっとゴール板を見つめていると……\n不意にメジロラモーヌが言葉を発した。恐らく、自分にだろう。",
+      "choice_data_list": [
+        "Cô cũng…… rất yêu những cuộc đua nhỉ",
+        "Cô cũng…… rất thích những cuộc đua nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "君も……レースが大好きなんだな",
+        "貴方も……レースが大好きなんだね"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Không đâu.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "いいえ。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Tôi yêu nó.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "愛しているわ。",
+      "choice_data_list": [
+        "……!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "A, bởi vì…… đúng là như thế mà? Hơi ấm thiêu đốt cõi lòng, đến mức điên cuồng…… Nhiệt huyết. Nỗi đau. Niềm hân hoan……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "ああ、だって……そうでしょう？\n胸を焦がす、狂おしいほどの……熱。痛み。歓び……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Thứ duy nhất…… thôi thúc tôi tiến bước. Cuộc đua chính là――tình yêu của tôi.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "私を駆り立てる……たったひとつのもの。\nレースこそ――私の愛。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Những Uma Musume chuẩn bị cho ngày hôm ấy, chỉnh trang hoàn hảo…… và dốc trọn toàn bộ bản thân để chạy. Tiếng bước chân khi đôi chân ấy cào xới mặt đất, nện thẳng linh hồn xuống mặt đường――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "その日のために準備をし、完璧に整え……己の全てを賭して走る\nウマ娘たち。その脚が土を抉り、魂を叩きつける足音――"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Hơi thở dốc nghẹn ngào xung quanh, sát khí như cứa rách da thịt, nhịp đập con tim dính chặt lấy vành tai. Những tiếng hò reo, thét gào, kỳ vọng, phấn khích dồn dập tràn qua hàng rào……――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "周りの必死な呼吸、皮膚を削ぐような殺気、耳に貼りつく心臓の音。\n柵を超えて圧しかかる歓声、怒号、期待、興奮……――"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Hành động cao quý khi chỉ dùng thân xác này để tranh tài và mưu cầu chiến thắng…… Mọi thứ, đều đáng yêu đến mức không thể kìm lòng.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "この身ひとつで競い合い、勝利を求める尊い行い……\n全てが、たまらなく愛おしい。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Và đối với những cuộc đua tuyệt ngọc được tạo nên như thế…… thì việc dâng hiến một chiến thắng hoàn mỹ và trọn vẹn nhất…… mới chính là minh chứng cho tình yêu của tôi.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "そうして生み出される、珠玉のレースへ……\n完璧で、完全なる勝利を捧げることこそが……私の愛の証明。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Để làm được điều đó――quả nhiên phải là Triple Tiara rồi.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "それには――やはり、トリプルティアラね。",
+      "choice_data_list": [
+        "Triple Tiara……!"
+      ],
+      "jpchoice_data_list": [
+        "トリプルティアラ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi bất giác thốt lên. Cô ấy quả thực cũng đang nhắm tới Triple Tiara…… Trực giác mà tôi cảm nhận được khi ấy có vẻ như không hề sai chút nào.",
+      "jpname": "モノローグ",
+      "jptext": "思わず反応する。彼女もまた、トリプルティアラを狙っていた……\nあの時感じた直感は、間違いではなかったようだ。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "…… Thế rồi…… Ardan.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……。\nそれで……アルダン。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A, dạ……?",
+      "jpname": "メジロアルダン",
+      "jptext": "あ、はい……？"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Vị này là ai thế? Người của em à?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "こちらは？\n貴方の？",
+      "choice_data_list": [
+        "(……Chẳng lẽ, mình bị quên rồi sao!?)"
+      ],
+      "jpchoice_data_list": [
+        "（……もしかして、忘れられてる！？）"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "C-Chị hai…… Là Trainer của chị mà. Chị đã ký hợp đồng rồi cơ mà?",
+      "jpname": "メジロアルダン",
+      "jptext": "ね、姉様……姉様のトレーナーさんですよ。\n契約なさったのでしょう？"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……À. Ngươi, việc chuẩn bị cho trận ra mắt đã tiến hành đến đâu rồi?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……ああ。\n貴方、デビューの準備は進めていらして？",
+      "choice_data_list": [
+        "Trước đó, tôi muốn bàn bạc nhiều chuyện……"
+      ],
+      "jpchoice_data_list": [
+        "その前に、色々と相談が……"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Không cần thiết đâu. Chỉ việc chuẩn bị thôi, nhờ người nhé.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "要らないわ。\n準備だけ、お願いね。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A, chị hai……! ……Anh Trainer ơi.",
+      "jpname": "メジロアルダン",
+      "jptext": "あっ、姉様……！\n……あの、トレーナーさん。",
+      "choice_data_list": [
+        "Tôi không sao đâu, cảm ơn em……"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫、ありがとう……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bị quên mất quả thực có chút bàng hoàng…… nhưng nhờ vậy mà tôi đã biết được tình yêu dành cho cuộc đua cũng như giấc mơ của cô ấy. Đây chính là bước đầu tiên để xây dựng mối quan hệ tin cậy.",
+      "jpname": "モノローグ",
+      "jptext": "忘れられていたことはショックだったが……こうして、彼女の\nレース愛や、夢も知ることができた。信頼関係を結ぶ第一歩だ。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "……Dạ. Em có thể hỏi một chuyện được không ạ? Trainer đã ký hợp đồng với chị hai như thế nào vậy?",
+      "jpname": "メジロアルダン",
+      "jptext": "……あの。お聞きしてもよろしいでしょうか。\nトレーナーさんは姉と、どのように契約なさったのですか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi giải thích rằng sau khi theo dõi xong trận đua của cô ấy, tôi liền chạy tới bắt chuyện thì nàng bảo tôi là người đầu tiên, và thế là đi đến việc ký hợp đồng……",
+      "jpname": "モノローグ",
+      "jptext": "彼女のレースを見終わった後、すぐに声をかけに行ったところ、\n自分が最初だと言われ、契約に至った……そう説明した。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "……Quả nhiên là vậy.",
+      "jpname": "メジロアルダン",
+      "jptext": "……やっぱり。"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Thực ra thì…… Trainer không phải là người đầu tiên đâu ạ. Người từng ký hợp đồng với chị hai――",
+      "jpname": "メジロアルダン",
+      "jptext": "実は……トレーナーさんが最初ではないのです。\n姉と契約した方は――"
+    }
+  ]
+}

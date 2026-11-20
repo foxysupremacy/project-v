@@ -1,0 +1,399 @@
+{
+  "title": "Tình yêu tôi luyện",
+  "jptitle": "愛が磨く",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nhân viên bốc thăm",
+      "text": "Có rồi đây! Giải nhì! Một \"Vé mời trải nghiệm Resort Spa trong ngày\" nhé! Xin chúc mừnggg quý kháaach!",
+      "jpname": "福引スタッフ",
+      "jptext": "出ました！　2等！　『リゾートスパ日帰り招待券』でーす！\nおめでとうございま～～すっ！",
+      "choice_data_list": [
+        "Tuyệt quá, trúng thưởng rồi!"
+      ],
+      "jpchoice_data_list": [
+        "やった、当たった！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Và thế là, tôi liền tới đây ngay. Khu phức hợp nghỉ dưỡng ven biển này mang lại cảm giác vô cùng thoáng đãng, chỉ cần đặt chân đến thôi cũng thấy tâm hồn được xoa dịu.",
+      "jpname": "モノローグ",
+      "jptext": "――というわけで、さっそく来てみた。海沿いに建てられた\n複合リゾート施設はとても開放感があり、いるだけで癒されそうだ。",
+      "choice_data_list": [
+        "Ủa, khoan đã…… Ramonu?"
+      ],
+      "jpchoice_data_list": [
+        "って、あれ……ラモーヌ？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Ô kìa.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "あら。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Người cũng lui tới những nơi như thế này cơ đấy.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "貴方、こういうところへいらっしゃるのね。",
+      "choice_data_list": [
+        "Tôi trúng thưởng bốc thăm…… Còn cô thì hay đến đây à?",
+        "Tôi trúng thưởng bốc thăm…… Còn cô thì hay đến đây à?"
+      ],
+      "jpchoice_data_list": [
+        "福引で当たって……君はよく来るのか？",
+        "福引で当たって……貴方はよく来るの？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Những khi có hứng thôi.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "気が向けばね。"
+    },
+    {
+      "name": "",
+      "text": "……Cách cô ấy tận hưởng ngày nghỉ khiến tôi có chút tò mò. Nếu biết thêm về nếp sống thường nhật của nàng, biết đâu tôi sẽ hiểu sâu hơn về con người cô.",
+      "jpname": "モノローグ",
+      "jptext": "……彼女の休日の過ごし方は、少し気になった。\n彼女のウマとなりをもっと知れば、理解を深められるかもしれない。",
+      "choice_data_list": [
+        "Nếu được, tôi đi cùng cô có được không?"
+      ],
+      "jpchoice_data_list": [
+        "よければ、ついていってもいいかな？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Tùy người tự nhiên.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "ご自由になさったら？"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, tôi bắt đầu đi theo Mejiro Ramonu. Trước tiên, cô rảo bước đến một cửa hàng mỹ phẩm ngoại nhập nằm trong khu mua sắm.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、メジロラモーヌについていくことになった。\n彼女はまずショッピングエリアにある海外コスメの店へ向かった。"
+    },
+    {
+      "name": "Nhân viên cửa hàng",
+      "text": "――Kính chào tiểu thư Mejiro Ramonu. Rất cảm ơn tiểu thư đã luôn ủng hộ. Cửa hàng chúng tôi vừa nhập về bộ sưu tập mới của mùa này, xin phép được giới thiệu đến tiểu thư ạ.",
+      "jpname": "店員",
+      "jptext": "――メジロラモーヌさま。いつもありがとうございます。\n今期の新作が入荷いたしましたので、ぜひご紹介させてください。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Chà, món này đã có thể mua được ở Nhật Bản rồi sao.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "まあ、日本でも手に入るようになったんですのね。"
+    },
+    {
+      "name": "Nhân viên cửa hàng",
+      "text": "Dạ, tiểu thư cũng đã biết tới rồi ạ. Đây là phiên bản mới nhất đã được nâng cấp thành phần, xin mời tiểu thư dùng thử lên da trải nghiệm trước ạ……",
+      "jpname": "店員",
+      "jptext": "あぁ、ご存じでしたか。こちらは成分をリニューアルした\n最新版でございますので、まずはぜひタッチアップを……。",
+      "choice_data_list": [
+        "(Chắc cô ấy là khách quen nhỉ……?)"
+      ],
+      "jpchoice_data_list": [
+        "（常連なのかな……？）"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Từ món này đến món này…… gói lại giúp tôi được chứ?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "ここからここまで……包んでくださる？"
+    },
+    {
+      "name": "Nhân viên cửa hàng",
+      "text": "Xin chân thành cảm ơn tiểu thư.",
+      "jpname": "店員",
+      "jptext": "ありがとうございます。"
+    },
+    {
+      "name": "",
+      "text": "Điểm đến tiếp theo là khu spa. Cô ấy một mình bước vào phòng VIP, nghe đâu đã xông hơi đá nóng, tắm hơi sương mù để toát mồ hôi, rồi tận hưởng liệu trình mát xa bằng tinh dầu thơm……",
+      "jpname": "モノローグ",
+      "jptext": "次はスパ。彼女は1人VIPルームへ向かい、岩盤浴や\nミストサウナで汗をかき、アロママッサージを受けた……らしい。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……Người tắm qua loa như quạ tắm thế. Cứ ngồi đợi ở đó mãi à?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……カラスの行水だこと。ずっとそこに？",
+      "choice_data_list": [
+        "Tôi vừa đọc sách vừa thong thả đợi mà"
+      ],
+      "jpchoice_data_list": [
+        "読書してのんびり待ってたから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thực tế, cơ thể sảng khoái sau khi tắm xong, vừa nhâm nhi đồ uống vừa thảnh thơi đợi cô ấy là một khoảng thời gian vô cùng êm đềm và thư thái.",
+      "jpname": "モノローグ",
+      "jptext": "実際、風呂上がりの体でドリンクを飲みながら\nのんびりと彼女を待つのは、穏やかで安らぐ時間だった。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Vậy à…… A, đã đến giờ hẹn chăm sóc bàn chân rồi――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "そう……あぁ、もうフットケアの予約時間――"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chúng tôi dùng bữa tối sớm một chút. Thoạt nhìn, trông nó như một set thực đơn nhẹ nhàng đặc trưng của các khu nghỉ dưỡng, nhưng mà……",
+      "jpname": "モノローグ",
+      "jptext": "そして、少し早めのディナーへ。\n一見、リゾートらしいカジュアルめのコース料理に見えたが……。",
+      "choice_data_list": [
+        "Hàm lượng protein cao, lại giàu dinh dưỡng ghê",
+        "Hàm lượng protein cao, lại giàu dinh dưỡng ghê"
+      ],
+      "jpchoice_data_list": [
+        "高タンパクで、栄養豊富だな",
+        "高タンパクで、栄養豊富だね"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Phải đấy. Hương vị tươi ngon theo mùa cũng rất phong phú……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "そうね。旬の味わいも豊かで……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Những gì nuôi dưỡng da thịt này đều phải được tuyển chọn kỹ càng. Bởi khi bước lên đường đua cỏ, tôi chỉ có thể trông cậy vào duy nhất tấm thân này mà thôi……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "血肉になるものは吟味しなければ。\nターフの上には、この身1つで臨むのだから……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Một thứ có thể thỏa hiệp được, thì tôi không bao giờ gọi đó là tình yêu.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "妥協ができるものを、私は愛とは呼ばない。"
+    },
+    {
+      "name": "",
+      "text": "Từ việc chăm chút bản thân hôm nay, cho đến từng món ăn trước mắt, tất cả đều là vì \"cuộc đua\"……",
+      "jpname": "モノローグ",
+      "jptext": "今日の自分磨きも、目の前の食事も、\nすべては“レース”のため……。",
+      "choice_data_list": [
+        "(Tất cả đều vì \"tình yêu\" ấy nhỉ……)",
+        "(Tất cả đều vì \"tình yêu\" ấy nhỉ……)"
+      ],
+      "jpchoice_data_list": [
+        "（“愛”の、ためなんだな……）",
+        "（“愛”の、ためなんだね……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Khi dùng bữa xong và bước ra ngoài, màn đêm chập choạng đã bao trùm lấy bốn bề.",
+      "jpname": "モノローグ",
+      "jptext": "食事を終えて外へ出ると、辺りは夕闇に包まれていた。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Kìa, một buổi hoàng hôn thật đẹp.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "あら、いい夕べ。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "…………Có khi tôi nên vẽ nhỉ.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "…………描こうかしら。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "えっ？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Cắt vụn từng khoảnh khắc và thu nhặt từng mảnh vỡ. Chồng xếp chúng lên nhau, phá vỡ rồi hòa quyện lại, để nơi tận cùng ấy…… bức họa của tôi sẽ hiện hữu.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "刹那を切り取り、欠片を蒐めるの。\nそれらを重ね、崩し、かけ合わせた先に……私の絵は在る。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "A, phải nhanh lên thôi…… Mặt trời sắp lặn mất rồi……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "あぁ、早く……。沈んでしまう……。"
+    },
+    {
+      "name": "",
+      "text": "Mejiro Ramonu quay lại lấy dụng cụ vẽ đã gửi ở quầy giữ đồ, dựng giá vẽ lên rồi bắt đầu phác thảo.",
+      "jpname": "モノローグ",
+      "jptext": "メジロラモーヌはクロークに預けていた道具を取りに行き、\nイーゼルを立ててスケッチをし始めた。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……Ngôi sao chiều…… Lấy nơi đó…… làm điểm khởi đầu……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……夕星が……。\nあそこを……起点に……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……… Góc này…… trống trải quá.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "………。隅が……空虚ね。",
+      "choice_data_list": [
+        "Nếu không chê, để tôi ra đó đứng nhé?",
+        "Nếu không chê, để tôi ra đó đứng nhé?"
+      ],
+      "jpchoice_data_list": [
+        "俺でよければ立とうか？",
+        "私でよければ立とうか？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Vậy thì ra đó đi. Cứ đứng yên như tượng là được.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "じゃあ、そこへ。棒立ちでいいわ。"
+    },
+    {
+      "name": "",
+      "text": "Tôi bước ra đứng vào vị trí được chỉ định. Đứng yên giữ nguyên một tư thế cũng khá là vất vả, nhưng nếu đó là điều cô ấy muốn thì bấy nhiêu đây chẳng đáng là bao.",
+      "jpname": "モノローグ",
+      "jptext": "言われた場所に立った。同じ姿勢で立ち続けるのも\nなかなか大変だったが、彼女が望むならこのくらいなんでもない。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "…………?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "…………？"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Hừm……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "ふぅん……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "――Này người.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "――貴方。",
+      "choice_data_list": [
+        "Hửm?"
+      ],
+      "jpchoice_data_list": [
+        "ん？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Hóa ra người lại có gương mặt như thế này nhỉ……",
+      "jpname": "メジロラモーヌ",
+      "jptext": "そんな顔をなさっていたのね……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Chà…………",
+      "jpname": "メジロラモーヌ",
+      "jptext": "へぇ…………。",
+      "choice_data_list": [
+        "(Đ-Đến giờ cô mới nhận ra sao……?)"
+      ],
+      "jpchoice_data_list": [
+        "（い、今さら……？）"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Người đừng làm vẻ mặt kỳ quặc như thế được không?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "おかしな顔はしないでいただける？",
+      "choice_data_list": [
+        "A…… rõ!"
+      ],
+      "jpchoice_data_list": [
+        "あ……はいっ！"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……Lạ lùng thật đấy. Khi nghiêm túc nhìn thẳng vào chính diện như thế này.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……不思議ね。改まって正面から見ると。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Từ bao giờ rồi nhỉ……?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "いつからかしら……？",
+      "choice_data_list": [
+        "Hả……?"
+      ],
+      "jpchoice_data_list": [
+        "え……？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Cứ mỗi khi nhận ra thì người đã \"ở đó\". Người lúc nào cũng――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "気づけば“いる”。貴方は、いつも――"
+    },
+    {
+      "name": "",
+      "text": "――Và rồi hoàng hôn buông hẳn, tiếng đặt bút chì vang lên. Chẳng rõ vì sao sau đó, cô cứ đứng lặng ngắm nhìn bức tranh rất lâu giữa ánh sáng chập choạng của màn đêm……",
+      "jpname": "モノローグ",
+      "jptext": "――そして夕日は沈み、鉛筆を置く音が響いた。\nその後もなぜか、彼女は長いこと薄闇の中で絵を見つめていた……。"
+    },
+    {
+      "name": "",
+      "text": "Trời tối hẳn, chúng tôi cùng nhau sánh bước trên đường về. Trong lúc chờ taxi, tôi thử hỏi cô về thành quả bức tranh thì……",
+      "jpname": "モノローグ",
+      "jptext": "すっかり暗くなった頃、並んで帰路へついた。\nタクシーを待つあいだ、絵のできばえを尋ねてみると……。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Ai biết được chứ?",
+      "jpname": "メジロラモーヌ",
+      "jptext": "さあ？",
+      "choice_data_list": [
+        "Chắc là do tôi làm mẫu không được tốt lắm nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "あまりいいモデルじゃなかったからかな"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "…………",
+      "jpname": "メジロラモーヌ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "……?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "Người tự hạ thấp bản thân thái quá rồi đấy.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "卑下が過ぎてよ。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "……A. Xe đến rồi kìa.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……あぁ。来たわね。"
+    },
+    {
+      "name": "",
+      "text": "Tuy không được khen…… nhưng có vẻ tôi cũng chẳng hề bị chê bai. Mejiro Ramonu xưa nay vẫn là con người khó đoán như vậy.",
+      "jpname": "モノローグ",
+      "jptext": "褒められてはいない……のだろうが、貶されてはいないようだ。\n相変わらず真意の掴めないメジロラモーヌだった。"
+    }
+  ]
+}
