@@ -1,0 +1,421 @@
+{
+  "title": "Từ giờ nhờ anh hết đó nha, Trecchi?",
+  "jptitle": "よろしくしようね、トレっち？",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vivlos",
+      "text": "Nè nè Trecchi ơiii. Đống này bộ em phải ăn hết sạch thật hả anh?",
+      "jpname": "ヴィブロス",
+      "jptext": "ね～～～トレっちぃ～～～。\nこれほんとに、全部食べなきゃダメ？",
+      "choice_data_list": [
+        "Ừ, ăn hết sạch nhé",
+        "Đúng rồi, ăn hết cả luôn đó"
+      ],
+      "jpchoice_data_list": [
+        "ああ、全部だ",
+        "うん、全部だよ"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trời ơi là trời... Nào là mì ramen, salad bơ, khoai lang, cả một núi trứng luộc... rồi còn bao nhiêu món nữa chứ...",
+      "jpname": "ヴィブロス",
+      "jptext": "うへ～……ラーメンに、アボカドサラダに、さつまいも、\nゆでたまご山盛り……他にもたくさん……。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Nạp chừng này calo vào thì dáng người em hỏng bét mất thôi! Ít nhất cho em đổi sợi mì thành thạch konjac được hông nè?",
+      "jpname": "ヴィブロス",
+      "jptext": "こんなにカロリー摂ったらスタイル悪くなっちゃうよー！\nせめて麺だけ、こんにゃくに変えてもいい？",
+      "choice_data_list": [
+        "Không được, em phải nạp thêm nhiều calo vào!",
+        "Không được đâu, em cần nạp thật nhiều calo hơn nữa!"
+      ],
+      "jpchoice_data_list": [
+        "いや、君はもっとカロリーを摂れ！",
+        "いや、貴方はもっとカロリーを摂って！"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Thầy ơi, đang quay video hả thầy? Dêê♪ Nè nè, có bật filter chỉnh ảnh lên hông dạ?\"",
+      "jpname": "ヴィブロス",
+      "jptext": "『先生、これ撮ってるの？\nいえーい♪　ねえねえ、加工フィルターつけてる？』"
+    },
+    {
+      "name": "Huấn luyện viên của Vivlos",
+      "text": "\"Em Vivlos, đừng có giỡn hớt nữa mà mau――\"",
+      "jpname": "ヴィブロスの教官",
+      "jptext": "『ヴィブロスさん。ふざけていないで――』"
+    },
+    {
+      "name": "Vivlos",
+      "text": "\"Em biết rồi mà! Chạy cự ly 1600 mét đúng hông, em đi chạy liền đâyy!\"",
+      "jpname": "ヴィブロス",
+      "jptext": "『わかってるって！　1600mね、走ってきまーす』"
+    },
+    {
+      "name": "",
+      "text": "Khi xem những đoạn ghi hình các buổi huấn luyện của Vivlos... tôi nhận thấy nếu muốn đồng hành cùng em ấy sau này, điều cấp thiết nhất là phải bồi dưỡng thêm thể lực cho cô bé.",
+      "jpname": "モノローグ",
+      "jptext": "ヴィブロスのトレーニング映像を見た時……\nもしこの先彼女と歩むならば、もっと体力をつけさせたいと感じた。"
+    },
+    {
+      "name": "",
+      "text": "Các cuộc đua vô cùng khốc liệt. Sau mỗi trận đấu, thể lực bị bào mòn ghê gớm và đôi khi phải mất hàng tuần mới hồi phục hoàn toàn. Với một người mảnh mai như Vivlos thì lại càng gian nan bội phần.",
+      "jpname": "モノローグ",
+      "jptext": "レースとは過酷なものだ。走った後は激しく消耗し、全回復に\n数週を費やすこともある。華奢なヴィブロスにはより厳しいだろう。"
+    },
+    {
+      "name": "",
+      "text": "Nếu đã nhắm tới việc du đấu nước ngoài thì việc rèn luyện thể chất để chịu đựng cường độ thi đấu liên miên lại càng là điều bắt buộc... Trước mắt, tôi muốn em ấy làm quen với việc ăn uống đầy đủ.",
+      "jpname": "モノローグ",
+      "jptext": "海外遠征を視野に入れているのであればなおさら、レース生活を\n耐え抜くための体づくりは必須……今は食べることに慣れさせたい。",
+      "choice_data_list": [
+        "Đây là để chuẩn bị cho một ngày đặt chân tới Dubai đấy!",
+        "Đây là sự chuẩn bị để một ngày nào đó em chinh phục Dubai đó!"
+      ],
+      "jpchoice_data_list": [
+        "いつかドバイに挑むために備えるんだ！",
+        "いつかドバイに挑むために備えるの！"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "...!",
+      "jpname": "ヴィブロス",
+      "jptext": "……！"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Em hiểu rồi, em... sẽ cố gắng ăn cho thật giỏi! Vì tương lai thượng lưu sang chảnh, xin mời cả nhà cùng ăn với em nha!",
+      "jpname": "ヴィブロス",
+      "jptext": "わかった、私……ちゃんとがんばって食べる！\nセレブに向かって、いただきまーす！"
+    },
+    {
+      "name": "Vivlos",
+      "text": "――Hic no quá chừng... Chắc đây là lần đầu tiên trong đời bụng em no căng đến mức này luôn á...",
+      "jpname": "ヴィブロス",
+      "jptext": "――んえええ……こんなにお腹いっぱいなの、\nはじめてかも……。",
+      "choice_data_list": [
+        "Em làm tốt lắm",
+        "Em đã cố gắng nhiều rồi nè"
+      ],
+      "jpchoice_data_list": [
+        "よく頑張ったな",
+        "よく頑張ったね"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Dạ vâng... anh khen em thêm nữa đi?",
+      "jpname": "ヴィブロス",
+      "jptext": "うん……もっと褒めて？",
+      "choice_data_list": [
+        "Ngoan lắm luôn!",
+        "Bé cưng ngoan ghê á!"
+      ],
+      "jpchoice_data_list": [
+        "いい子だ！",
+        "いい子だね！"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hưm, nữa đi mà!",
+      "jpname": "ヴィブロス",
+      "jptext": "んん～、もっと！",
+      "choice_data_list": [
+        "Vậy thì lần sau tiếp tục cố gắng nhé",
+        "Vậy thì lần sau cùng nhau cố gắng hơn nữa nha"
+      ],
+      "jpchoice_data_list": [
+        "じゃあもっと頑張ろうな",
+        "じゃあもっと頑張ろうね"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ủa kìa, tới đây là hết rồi hả trời.",
+      "jpname": "ヴィブロス",
+      "jptext": "ありゃ、ここまでかー。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hi hi... Giống cách chị gái khen ghê nè♪",
+      "jpname": "ヴィブロス",
+      "jptext": "んへへ……。\nちょっとお姉ちゃんっぽい♪",
+      "choice_data_list": [
+        "Là người chị nào vậy?"
+      ],
+      "jpchoice_data_list": [
+        "どっちのお姉さん？"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Là chị cả đó ạ! Chứ chị Shuva thì hổng có chịu chiều chuộng em chút xíu nào luôn.",
+      "jpname": "ヴィブロス",
+      "jptext": "1番上のお姉ちゃん！\nシュヴァちはぜーんぜん、甘やかしてくれないもん。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Chị cả vừa ngầu lòi, vừa xinh đẹp, lại siêu dịu dàng nữa chứ. Trên hết là chị ấy chạy siêu mạnh mẽ luôn...――",
+      "jpname": "ヴィブロス",
+      "jptext": "お姉ちゃんはかっこよくてー、キレイでー、\nちょー優しいんだよ。なにより、ちょー強くて……――"
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Nè, Trainer-san ơi. Cho em nũng nịu thêm một chút xíu nữa được hông dạ?",
+      "jpname": "ヴィブロス",
+      "jptext": "……ね、トレーナーさん。\nあともーちょっとだけ、甘えさせて？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Thật ra á... ngoài Dubai ra, em còn một mục tiêu nữa nè. Đó chính là... Triple Tiara!",
+      "jpname": "ヴィブロス",
+      "jptext": "私ね、実は……ドバイの他に、もう1つ目標があるの。\nそれは……トリプルティアラ！",
+      "choice_data_list": [
+        "Triple Tiara...!"
+      ],
+      "jpchoice_data_list": [
+        "トリプルティアラ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đó là danh hiệu cao quý dành cho người chiến thắng cả ba giải Oka Sho, Oaks và Shuka Sho... Một đỉnh cao mà cách đây không lâu, đã có một Uma Musume chạm tới.",
+      "jpname": "モノローグ",
+      "jptext": "それは『桜花賞』『オークス』『秋華賞』を勝利した者が\n得られる称号……その頂につい最近、達したウマ娘がいる。"
+    },
+    {
+      "name": "",
+      "text": "Gentildonna――cô ấy đã xuất sắc trở thành một Uma Musume đoạt Triple Tiara, và người ngậm ngùi về nhì liên tiếp sau lưng cô ấy... chính là Verxina.",
+      "jpname": "モノローグ",
+      "jptext": "ジェンティルドンナ――彼女は見事トリプルティアラウマ娘になり、\nその陰で連続で2着だったのが……ヴィルシーナだった。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Muốn trở thành người thượng lưu sang chảnh lấp lánh ở Dubai thì trước hết phải làm nữ hoàng tại Nhật Bản đã chứ lị.",
+      "jpname": "ヴィブロス",
+      "jptext": "ドバイでキラキラセレブになるには、\nまず日本でクイーンにならないとだしー。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Vì đó là những cuộc đua mà chị cả đã để vuột mất. Là em gái, nếu em có thể thay chị ấy phục thù... chẳng phải sẽ cực kỳ cảm động và ý nghĩa sao?",
+      "jpname": "ヴィブロス",
+      "jptext": "……お姉ちゃんが負けちゃったレースだから。\n妹として、リベンジみたいな……私が勝てたら、エモくない？",
+      "choice_data_list": [
+        "Có thể rất ý nghĩa thật nhưng..."
+      ],
+      "jpchoice_data_list": [
+        "エモいかもしれないけど……"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "A, anh muốn bảo suy nghĩ của em còn non nớt ngây thơ đúng không? Yên tâm đi, em hiểu mà! Vì chị cả của em... thật sự rất là mạnh mẽ luôn đó.",
+      "jpname": "ヴィブロス",
+      "jptext": "あ、考えが甘いって言いたいんでしょ？　大丈夫、わかってるよ！\nだって、お姉ちゃんは……ほんとに、すっごく強かったんだよ。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Ấy thế mà chị ấy vẫn không thể thắng được. Cả chị Shuva cũng siêu tài năng, vậy mà giờ đây vẫn đang chật vật nỗ lực từng ngày...",
+      "jpname": "ヴィブロス",
+      "jptext": "だけど、勝てなかった。シュヴァちだってちょーすごいのに、\n今もがいてるなって思うし……。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Đến mức cả hai người chị ấy còn phải gian nan đến vậy, thì các cuộc đua khốc liệt đến dường nào em biết chứ. Chính vì thế! Em lại càng phải làm được, đúng hông nào?",
+      "jpname": "ヴィブロス",
+      "jptext": "あの2人が苦労するくらい、レースって大変なんだよね。\nだからこそ！　私がやらなきゃでしょ？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Bởi vì em chắc chắn có tài năng mà lị! Đúng hông nè anh?",
+      "jpname": "ヴィブロス",
+      "jptext": "だって絶対、才能あるもんね！\nねー？"
+    },
+    {
+      "name": "Verxina",
+      "text": "――Chuyện vừa rồi... em nói thật đấy à?",
+      "jpname": "ヴィルシーナ",
+      "jptext": "――今の話……本気なの？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "A, chị cả! Cả chị Shuva nữa kìa!",
+      "jpname": "ヴィブロス",
+      "jptext": "あ、お姉ちゃん！　シュヴァちも～！"
+    },
+    {
+      "name": "Verxina",
+      "text": "Mấy hôm nay thấy em ủ rũ cứ ngỡ làm sao... hóa ra đã lấy lại được tinh thần rồi đấy nhỉ. Chuyện đó thì tốt thật, nhưng mà...",
+      "jpname": "ヴィルシーナ",
+      "jptext": "最近しょげてると思ってたら……\nもうすっかり元気なのね。それはよかったけど……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Đây là lần đầu tiên chị nghe em bảo muốn giành Triple Tiara đấy. Nhưng em biết không... Twinkle Series vô cùng gian nan và khốc liệt đấy nhé?",
+      "jpname": "ヴィルシーナ",
+      "jptext": "トリプルティアラをとりたいだなんて、初めて聞いた。\nでもね……トゥインクル・シリーズって、とっても大変なのよ？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hứ. Mấy chuyện đó――",
+      "jpname": "ヴィブロス",
+      "jptext": "むう。\nそんなの――",
+      "choice_data_list": [
+        "Tôi nghĩ là Vivlos đã hiểu rất rõ đấy"
+      ],
+      "jpchoice_data_list": [
+        "ヴィブロスはわかってると思うよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dĩ nhiên những khó khăn gian khổ thì sau này mới thật sự thấm thía, nhưng cô bé là một đứa trẻ rất thông minh và biết quan sát xung quanh. Em ấy cũng dành sự tôn trọng chân thành cho cả hai người chị của mình.",
+      "jpname": "モノローグ",
+      "jptext": "もちろん大変さを実感するのはこれからだろうが、彼女は周りが\nよく見えているとても賢い子だ。姉2人への尊敬もきちんとある。",
+      "choice_data_list": [
+        "Không cần phải lo lắng đâu, mọi chuyện sẽ ổn thôi"
+      ],
+      "jpchoice_data_list": [
+        "心配しなくても大丈夫"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Trainer-san...",
+      "jpname": "ヴィブロス",
+      "jptext": "トレーナーさん……。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hi hi. Thấy chưa nè, chuẩn quá Trecchi ơi♪ Giờ anh xoa đầu khen bé ngoan tiếp đi mà?",
+      "jpname": "ヴィブロス",
+      "jptext": "えへへっ。だよねー、トレっち♪\nいい子の続き、してしてー？"
+    },
+    {
+      "name": "Verxina",
+      "text": "!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ơ kìa, em có thân thiết quá mức rồi không đấy...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "ちょ、馴れ馴れしすぎるんじゃ……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Nhưng mà, với những người mà nó cảm thấy chưa thể tin tưởng được, con bé sẽ không bao giờ nhõng nhẽo vòi vĩnh như vậy đâu. Thế nên...",
+      "jpname": "ヴィルシーナ",
+      "jptext": "でも、気を許せないと判断した相手には、\nあんなふうに甘えないわ。だから……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "...Chị xin lỗi nhé, Vivlos. Thật ra chị cũng hiểu mà. Chị biết em là một đứa trẻ luôn suy nghĩ chín chắn.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "……ごめんね、ヴィブロス。私も本当はわかってる。\n貴方がちゃんと考えている子だって。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Chị cả...",
+      "jpname": "ヴィブロス",
+      "jptext": "お姉ちゃん……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Nhưng trong lòng chị lúc nào cũng lo ngay ngáy thôi hà. Bởi vì đối với chị, em lúc nào cũng là cô bé ngây thơ hay cười đáng yêu như thuở nào vậy.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "でもどうしても心配になっちゃうのよ。私の中で、\n貴方はいつもニコニコでふわふわの赤ちゃんなんだもの。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Cả Cheval nữa đấy. Thế nên chị mới hay quản thúc can thiệp hai đứa quá đà... Nhưng giờ đây hai đứa đều đã tự bước đi trên con đường riêng của mình rồi nhỉ.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "シュヴァル、貴方もね。だから、どうしても2人には\n過干渉になっちゃって……。でももう、自分の道を歩むんだもんね。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer-san, xin nhờ anh chăm sóc tốt cho Vivlos giùm tôi nhé! Các chị sẽ luôn dõi theo em từng bước đấy. Luôn ủng hộ em hết mình luôn! Đúng không nè?",
+      "jpname": "ヴィルシーナ",
+      "jptext": "トレーナーさん、ヴィブロスのことをよろしくお願いします！\nお姉ちゃんたちも、見守ってるからね。応援してる！　ね？"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Nếu là em thì chắc sẽ ổn thôi mà. C-cố gắng lên nhé...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……キミなら、大丈夫なんだろうけど。\nが、頑張って……。"
+    },
+    {
+      "name": "Vivlos",
+      "text": "...Dạ vâng! Chị cả, chị Shuva... em cảm ơn hai chị nhiều lắm!",
+      "jpname": "ヴィブロス",
+      "jptext": "……うんっ。\nお姉ちゃん、シュヴァち……ありがとう！"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Nè nè, hiếm khi tụi mình mới ký xong hợp đồng nè. Hay là tụi mình tổ chức tiệc trên du thuyền để ăn mừng đi anh?",
+      "jpname": "ヴィブロス",
+      "jptext": "ねえ、せっかく私たち契約したんだし～。\nお祝いに船上パーティーしたいな？",
+      "choice_data_list": [
+        "Tiệc trên du thuyền á!?"
+      ],
+      "jpchoice_data_list": [
+        "船上パーティー！？"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "A khoan đã, hay là tổ chức tiệc trên xe limousine cũng được á? Trecchi thích cái nào nè? Hay là bao trọn cả cái hồ bơi luôn nha?",
+      "jpname": "ヴィブロス",
+      "jptext": "あ、待って。ふつーにリムジンパーティーでもいいかも？\nトレっちはなにがいい？　プールとか貸し切っちゃう？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Nhưng mà, đối với một quý cô thượng lưu tương lai thì chuẩn nhất vẫn phải là tiệc trên du thuyền rồi! Từ nay nhờ hết vào anh đó nha, Trecchi♪",
+      "jpname": "ヴィブロス",
+      "jptext": "でもでも、未来のセレブには、やっぱり船上パーティーかな！\nよろしくね、トレっち♪"
+    },
+    {
+      "name": "",
+      "text": "...Linh cảm thấy việc tích lũy tiền tiết kiệm từ giờ trở đi sẽ vô cùng gian nan, nhưng việc tôi đồng hành cùng Vivlos chinh chiến tại Twinkle Series đã chính thức được định đoạt. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "……これから貯金が重要になる予感がしつつ、ヴィブロスと\nトゥインクル・シリーズに挑んでいくことが決まった。のだが――",
+      "choice_data_list": [
+        "Trước khi nói chuyện đó..."
+      ],
+      "jpchoice_data_list": [
+        "その前に……"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Dạ?",
+      "jpname": "ヴィブロス",
+      "jptext": "ん？",
+      "choice_data_list": [
+        "Đừng có gọi là Trecchi nữa"
+      ],
+      "jpchoice_data_list": [
+        "トレっちはやめなさい"
+      ]
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hổng bỏ đâu nè♪ Tại vì... anh đâu có ghét cái tên đó đâu, đúng hông?",
+      "jpname": "ヴィブロス",
+      "jptext": "やめなーい♪\nだって～……イヤじゃないでしょ？"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Hi hi, nhìn vào mắt anh là em biết tỏng rồi nha♪ Hai tụi mình sẽ cùng nhau bay lượn ra khắp thế giới nha, Trecchi♡",
+      "jpname": "ヴィブロス",
+      "jptext": "にひひ、目を見ればわかるもーん♪\nいっしょに世界まで飛んでっちゃおーね、トレっち♡"
+    }
+  ]
+}
