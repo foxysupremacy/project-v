@@ -1,0 +1,388 @@
+{
+  "title": "San sẻ nỗi đau",
+  "jptitle": "痛みに寄り添いて",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "——Vào ngày hôm ấy. Tôi nghĩ chắc chắn mình đã gặp được một thiên thần.",
+      "jpname": "モノローグ",
+      "jptext": "――あの日。\n自分はたしかに、天使に出会ったのだと思う。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Không sao đâu…… không sao đâu mà. Em không phải sợ đâu nhé. Lại đây với chị một chút nào, được không? Nào——",
+      "jpname": "金髪のウマ娘",
+      "jptext": "大丈夫……大丈夫ですから。怖がることはありませんよ。\n少しだけ、こちらへ来てみませんか？　さあ――"
+    },
+    {
+      "name": "",
+      "text": "Trong công viên mà tôi ghé qua khi đi dạo sáng sớm. Cô bé Uma Musume ấy đang ngồi xổm trước bụi cây, thủ thỉ trò chuyện với thứ gì đó.",
+      "jpname": "モノローグ",
+      "jptext": "早朝の散歩で訪れた公園。\nそのウマ娘は茂みの前にしゃがみ込んで、何かに話しかけていた。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……Xem ra em vẫn chưa muốn ra nhỉ. Phù... Khi nào thấy thoải mái thì ra nhé, chị vẫn ở đây đợi mà.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……やはりまだ、そういう気分ではありませんか。\nふふ。気が向いたらで構いませんよ、ここに居ますから。"
+    },
+    {
+      "name": "",
+      "text": "Một cô bé mang lại ấn tượng vô cùng dịu dàng và nhẹ nhàng. Không biết em ấy đang nói chuyện với ai? Lần theo hướng ánh mắt của em thì——",
+      "jpname": "モノローグ",
+      "jptext": "なんだかとてもふわりとした、柔らかな印象の子だ。\n何と話をしているのだろうか。その視線の先を追うと――"
+    },
+    {
+      "name": "Mèo",
+      "text": "…….",
+      "jpname": "ネコ",
+      "jptext": "……。",
+      "choice_data_list": [
+        "Mèo ư...? Không biết có phải sống ở công viên này không nhỉ...?"
+      ],
+      "jpchoice_data_list": [
+        "猫……？この公園に住んでるのかな……？"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……? A... vâng, đúng vậy ạ.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……？\nああ……はい、そうです。",
+      "choice_data_list": [
+        "A... xin lỗi nhé, tự nhiên tôi lại bắt chuyện thế này"
+      ],
+      "jpchoice_data_list": [
+        "あ……ごめん、いきなり話しかけたりして"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Dạ không sao đâu, xin đừng bận tâm ạ. Em cũng chỉ đang độc thoại một mình với bé mèo này thôi mà.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "いえいえ、お気になさらず。\n私も一方的に猫さんに話しかけていただけですので。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Đúng như người nói đấy ạ, bé mèo dường như coi công viên này là nhà…… Theo em biết thì lúc nào bé cũng chỉ lủi thủi ở đây một mình.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "仰るとおり、猫さんはこの公園を住処にしているようで……。\n私が知っている限り、いつもひとりでここに居ます。",
+      "choice_data_list": [
+        "Ra là vậy——"
+      ],
+      "jpchoice_data_list": [
+        "そうなんだ――"
+      ]
+    },
+    {
+      "name": "Mèo",
+      "text": "………….",
+      "jpname": "ネコ",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Khi tôi cúi người xuống bên cạnh cô bé để nhìn vào, bé mèo vừa lườm tôi vừa lùi sâu vào trong bụi rậm. Hoàn toàn không có cơ hội tiếp cận.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の隣で身をかがめて覗き込んだところ、猫はこちらを睨みつつ、\n茂みの奥へ後ずさりしてしまった。取りつく島もない。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Bé con này…… hẳn là sợ con người lắm. Hơn nữa hình như trong người còn đang đau ở đâu đó, nên lại càng sợ hơn.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "この子……きっと、人が怖いんだと思います。\nそれに、どこか悪いみたいですから、余計に。",
+      "choice_data_list": [
+        "Hả, bé bị ốm sao?",
+        "Hả, bé bị ốm à?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、病気なのか？",
+        "えっ、病気なの？"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Có lẽ vậy ạ. Thỉnh thoảng bé lại đưa chân sờ vùng bụng…… đấy, lại nữa rồi. ……Cả ánh mắt lẫn tiếng kêu đều như đang lẫn sự đau đớn và khó chịu.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "恐らく。時々、お腹のあたりを気にしています……ほら、また。\n……目つきも、声色も、痛みや不快感が混じっているようです。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Nếu được thì em muốn đưa bé đi bệnh viện. Nhưng hễ em định lại gần là bé lại lùi sâu vào trong. Em muốn làm gì đó giúp bé quá mà……",
+      "jpname": "金髪のウマ娘",
+      "jptext": "できれば病院へ、と思ったんです。でも近づこうとすると、\nどんどん奥に行ってしまって。なんとかしてあげたいのですが……。",
+      "choice_data_list": [
+        "Để tôi đi mua gì đó cho bé nhé? Thức ăn chẳng hạn"
+      ],
+      "jpchoice_data_list": [
+        "何か、その子に買ってこようか？餌とか"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Cảm ơn lòng tốt của người nhiều ạ. Thật ra em cũng có mang theo rồi ạ. Thế nhưng nếu bé không chịu buông cảnh giác thì sẽ không ăn đâu……",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ありがとうございます。実は私も持ってきたんです。\nですが、警戒を解かないと食べてくれないので……。",
+      "choice_data_list": [
+        "Ra thế…… Mong là bé sẽ sớm chịu mở lòng với em"
+      ],
+      "jpchoice_data_list": [
+        "なるほど……心を許してくれるといいね"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Vâng ạ. Cảm ơn sự quan tâm chu đáo của người ạ. Em định sẽ ở lại đây cho đến khi bé mèo chịu ra ngoài.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "はい。お心遣い、ありがとうございます。\n私は猫さんが出てきてくれるまで、一緒にいようと思います。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó tôi chia tay cô bé rồi đi giải quyết công việc của mình, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "その後彼女と別れ、自分の用事を片付けていると――"
+    },
+    {
+      "name": "",
+      "text": "Trái ngược với bầu trời trong xanh ban sáng, từng hạt mưa bắt đầu rơi rớt từ những đám mây u ám sà xuống thấp.",
+      "jpname": "モノローグ",
+      "jptext": "早朝の晴天が嘘のように、\n垂れこめた雲からは雨粒が落ち始めていた。"
+    },
+    {
+      "name": "",
+      "text": "——Đến chiều tối, trên đường trở về từ chỗ làm. Dưới cơn mưa rào nặng hạt, hình ảnh cô bé Uma Musume và bé mèo gặp ban sáng lại hiện lên trong đầu tôi.",
+      "jpname": "モノローグ",
+      "jptext": "――夕方になり、出先から帰る途中。\n本降りの雨の中で、今朝出会ったウマ娘と猫の事が再び頭を過ぎる。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "\"Em định sẽ ở lại đây cho đến khi bé mèo chịu ra ngoài.\"",
+      "jpname": "金髪のウマ娘",
+      "jptext": "『私は猫さんが出てきてくれるまで、一緒にいようと思います』",
+      "choice_data_list": [
+        "……Không lẽ nào...",
+        "……Chẳng lẽ lại..."
+      ],
+      "jpchoice_data_list": [
+        "……まさか、な",
+        "……まさか、ね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trên ngọn đồi đã tối mịt, chỉ còn nghe thấy tiếng mưa rơi trầm lắng. Tôi nghĩ chắc hẳn em ấy đã về nhà rồi, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "すっかり暗くなった高台には、静かな雨音だけが聞こえていた。\nさすがにもう帰ったかと思ったが――"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Trời bắt đầu lạnh rồi nhỉ…… Bị cảm lạnh thì khổ lắm đấy. Chị có mang khăn này, em có thể quấn lại như chăn đắp cũng được nhé.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "少し冷えてきましたね……風邪をひいたら大変です。\nタオルもありますから、お布団代わりにくるまっても大丈夫ですよ。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Rồi nếu được…… em có muốn đến bệnh viện khám một lần không? Không có gì phải sợ đâu. Chị sẽ luôn ở bên cạnh em mà.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "それで、もしよかったら……一度病院で診てもらいませんか？\n怖がることはありません。私もずっと、隣で付き添いますから。"
+    },
+    {
+      "name": "",
+      "text": "——Cô bé vẫn ở đó. Giữa cơn mưa tầm tã. Ngay tại vị trí của ban sáng.",
+      "jpname": "モノローグ",
+      "jptext": "――彼女は居た。\n雨の降る中。今朝と同じ場所で。",
+      "choice_data_list": [
+        "Này em……! Đến ô cũng không che sao……!",
+        "Em kia ơi……! Sao lại không che ô thế kia……!"
+      ],
+      "jpchoice_data_list": [
+        "君……！傘もささないで……！",
+        "貴方……！傘もささないで……！"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "A—— là người hồi sáng…… Cảm ơn người đã quan tâm ạ.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "あ――今朝お会いした……。\nお気遣い、ありがとうございます。",
+      "choice_data_list": [
+        "……Em ở đây suốt từ nãy đến giờ sao?",
+        "……Em ở đây suốt từ sáng đến giờ à?"
+      ],
+      "jpchoice_data_list": [
+        "……ずっとここにいたのか？",
+        "……ずっとここにいたの？"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Vâng ạ. Em muốn ở bên cạnh để bé an tâm hơn. Để bé biết rằng…… \"Em không hề đơn độc một mình đâu\".",
+      "jpname": "金髪のウマ娘",
+      "jptext": "はい。傍に居て安心させてあげたかったんです。\n『あなたは、ひとりきりではありませんよ』……と。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Vì thế—— chỉ một chút nữa thôi ạ. Khó khăn lắm mới tiến được tới bước này mà.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ですから――もう少し。\nやっと、ここまで来たので。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Kìa, nhìn xem này. Bé đã chịu tiến lại gần hơn hồi sáng nhiều rồi đấy ạ.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ほら、見てください。\n今朝よりもずいぶん近くまで来てくれたんですよ。",
+      "choice_data_list": [
+        "! ……Đúng thật này"
+      ],
+      "jpchoice_data_list": [
+        "！……本当だ"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……Bé mèo chắc chắn cần được chữa trị. Vậy nên—— Chỉ cần thêm chút nữa thôi, cho đến khi bé hiểu rằng \"Không sao đâu, đừng sợ hãi nữa nhé\".",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……猫さんは、きっと治療が必要です。ですから――\n『不安に思わなくて大丈夫ですよ』と。そう伝わるまで、もう少し。"
+    },
+    {
+      "name": "",
+      "text": "Dưới màn mưa không có dấu hiệu dứt hạt, tôi cùng em kiên nhẫn bầu bạn trong cuộc giao tiếp tĩnh lặng với bé mèo. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "止む気配のない雨の中、彼女と猫の静かな交流に付き合う。\nそして――"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……. ……Lại đây nào.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……。\n……おいで。"
+    },
+    {
+      "name": "Mèo",
+      "text": "……Meeeo.",
+      "jpname": "ネコ",
+      "jptext": "……ナ～ォ。"
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng, bé mèo cũng tiến lại gần bàn tay đang chìa ra của em, ban đầu còn rụt rè sợ sệt—— rồi chẳng mấy chốc đã bắt đầu dụi trán vào tay em.",
+      "jpname": "モノローグ",
+      "jptext": "ついに猫は彼女が伸ばした手に近づき、最初は恐る恐る――\nやがて額を擦りつけるようにし始めた。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……Hi hi. Em đã chịu tin chị rồi nhỉ. Không cần phải lo nữa đâu. Chắc chắn em sẽ mau khỏi thôi mà.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……ふふ。信じてくれたんですね。\n心配は要りません。きっとよくなりますから。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chúng tôi tìm một bệnh viện thú y cấp cứu ban đêm và đưa bé đi. Dường như em ấy đã chuẩn bị sẵn lồng và đồ đạc để vận chuyển bé mèo từ trước.",
+      "jpname": "モノローグ",
+      "jptext": "その後、夜間救急対応の動物病院を探し、付き添う事になった。\nどうやら猫を搬送するために準備はしていたらしい。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Hi hi, nằm ở đây có vẻ cũng không tệ lắm nhỉ. Tuy còn một quãng nữa mới tới bệnh viện, nhưng tạm thời có thể yên tâm rồi.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ふふ、寝心地は悪くないようですね。\n病院まではもう少しかかりますけれど、ひとまず安心です。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Mèo ngoan ơi. Khám bệnh xong, chị em mình cùng đi tìm ngôi nhà mới nhé. Chị sẽ liên hệ khắp nơi xem có ai nhận nuôi em không.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "猫さん。病院のあとは、一緒に新しいお家を探しましょうか。\n里親になれるかたが居ないか、いろいろと当たってみますから。",
+      "choice_data_list": [
+        "Phía tôi cũng sẽ thử hỏi xem có ai nhận nuôi được không"
+      ],
+      "jpchoice_data_list": [
+        "こっちでも飼えそうな人、あたってみるよ"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Cảm ơn lòng tốt của người nhiều ạ. Mèo ngoan, chị nhất định sẽ tìm cho em một người chủ thật tốt nhé.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ありがとうございます。\n猫さん、きっといい里親さんを紹介しますからね。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Cho đến lúc đó…… chị sẽ luôn ở bên để em không thấy cô đơn. Để em có thể kết nối với một người tốt bụng…… và sống thật hạnh phúc.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "それまでは……寂しくならないように、寄り添います。\nあなたが優しいかたと繋がって……幸せになれるように。"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Khi nào em ăn cơm ngoan trở lại rồi, chị sẽ thưởng cho em pate mèo thật ngon để chúc mừng nhé.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ちゃんとご飯が食べられるようになったら、\nお祝いにおいしい猫缶をあげますからね。"
+    },
+    {
+      "name": "Mèo",
+      "text": "Meo——♪",
+      "jpname": "ネコ",
+      "jptext": "ナ～ォ♪"
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "Hi hi. Không biết có phải em ấy hiểu được những gì mình đang nói không nhỉ.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "ふふ。\n私の話していることがわかるのでしょうかね。"
+    },
+    {
+      "name": "",
+      "text": "Liệu có nên gọi đây là \"thuần khiết vô ngần\"? Tôi cảm thấy hành động của em bắt nguồn từ một nơi hoàn toàn khác biệt so với cảm xúc thông thường như \"thấy dễ thương nên cưu mang\".",
+      "jpname": "モノローグ",
+      "jptext": "“純真無垢”というのだろうか。可愛いから保護するという普通の\n感情とは根本的に違う所に、彼女の行動は根差している気がした。",
+      "choice_data_list": [
+        "Haha, em thật là…… ơ mà khoan——",
+        "Hi hi, em đúng thật là…… ơ mà khoan——"
+      ],
+      "jpchoice_data_list": [
+        "はは、君は本当に……って――",
+        "ふふ、貴方は本当に……って――"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "……?",
+      "jpname": "金髪のウマ娘",
+      "jptext": "……？",
+      "choice_data_list": [
+        "……Nhắc mới nhớ, tôi vẫn chưa biết tên em"
+      ],
+      "jpchoice_data_list": [
+        "……そういえば名前、聞いてなかった"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc vàng",
+      "text": "A…… hi hi♪ Đúng thật là vậy nhỉ.",
+      "jpname": "金髪のウマ娘",
+      "jptext": "あー……ふふっ♪\nそうでしたね。"
+    },
+    {
+      "name": "Victoire Pisa",
+      "text": "Em là—— Victoire Pisa ạ. Hiện đang theo học tại Học viện Tracen. Rất mong được giúp đỡ.",
+      "jpname": "ヴィクトワールピサ",
+      "jptext": "私は――ヴィクトワールピサ、と申します。\nトレセン学園に通っております。よろしくお願いいたします。"
+    },
+    {
+      "name": "",
+      "text": "Dưới ánh đèn đường lung linh, thiếu nữ khẽ mỉm cười.",
+      "jpname": "モノローグ",
+      "jptext": "街灯の明かりに照らされて、少女が微笑む。"
+    },
+    {
+      "name": "",
+      "text": "——Nụ cười của một thiên thần, có lẽ chính là như thế này.",
+      "jpname": "モノローグ",
+      "jptext": "――天使の微笑みとは、こういうものなのかもしれない。"
+    },
+    {
+      "name": "",
+      "text": "Nụ cười của em thuần khiết đến mức khiến bất cứ ai trông thấy cũng phải nghĩ như vậy.",
+      "jpname": "モノローグ",
+      "jptext": "見る者にそう思わせるほど、少女の笑顔は清らかなものだった。"
+    }
+  ]
+}
