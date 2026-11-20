@@ -1,0 +1,418 @@
+{
+  "title": "Đôi Chân Pha Lê Mong Manh...",
+  "jptitle": "Legs of Fragile Glass...",
+  "text_block_list": [
+    {
+      "name": "Sakura Laurel",
+      "text": "Em sẽ là――nàng Uma Musume đánh bại Brian-chan, người mà không một ai có thể vượt qua! ……Em là Laurel! Sakura Laurel ạ♪",
+      "jpname": "サクラローレル",
+      "jptext": "私は――誰も勝てないブライアンちゃんに勝つウマ娘！\n……ローレル！　サクラローレルです♪"
+    },
+    {
+      "name": "",
+      "text": "Một Uma Musume không thể chạy, Sakura Laurel, lại quả quyết rằng mình sẽ đánh bại Narita Brian lừng danh ấy. Thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "走れないウマ娘、サクラローレルは\nあのナリタブライアンに勝つと言い切った。だが……。"
+    },
+    {
+      "name": "",
+      "text": "Ít nhất thì nếu không thể chạy, em ấy tuyệt đối chẳng có cơ may nào chiến thắng cả. Điều khiến tôi băn khoăn là……",
+      "jpname": "モノローグ",
+      "jptext": "少なくとも走れなければ勝てるわけがない。\n気になるのは……。",
+      "choice_data_list": [
+        "Kể cho tôi nghe được không? Vì sao em lại không thể chạy?",
+        "Nếu được thì kể cho tôi nghe với. Vì sao em lại không thể chạy thế?"
+      ],
+      "jpchoice_data_list": [
+        "聞かせてほしい。どうして走れないんだ？",
+        "よかったら聞かせて。どうして走れないの？"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "A, dạ thì…… chuyện đó là…… Dĩ nhiên là không phải em hoàn toàn không chạy được đâu ạ……",
+      "jpname": "サクラローレル",
+      "jptext": "あ、えーと……それはですね……。\nもちろん、まったく走れないわけではなくて……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "……Ừm, chỉ chạy một chút cho Trainer-san xem thì chắc không sao đâu nhỉ. Nếu vậy thì bây giờ mình ra đường chạy……",
+      "jpname": "サクラローレル",
+      "jptext": "……うん、少しくらいなら見せても平気かな。\nでしたら今からコースへ……。"
+    },
+    {
+      "name": "Hai nàng Uma Musume",
+      "text": "Khoan đã nào!!",
+      "jpname": "ウマ娘2人",
+      "jptext": "ちょっと待った！"
+    },
+    {
+      "name": "",
+      "text": "Đúng lúc Sakura Laurel định bước vào đường chạy, hai nàng Uma Musume vội vã hớt hải chạy tới.",
+      "jpname": "モノローグ",
+      "jptext": "サクラローレルがコースインしようとした時、\n2人のウマ娘が慌てて駆け寄ってきた。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Laurel ơi, em đừng làm liều thế chứ! Chưa khởi động gì mà đã chạy ngay thì nguy hiểm lắm đó nha――",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ローレルさんっ、無茶はしないでください～！\n準備もしてないのに、いきなり走ったりしたら～。"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Chính xác là như vậy! Bản thân tôi đây cũng không thể nhắm mắt làm ngơ được! Dù sao thì tôi cũng là lớp trưởng cơ mà!",
+      "jpname": "サクラバクシンオー",
+      "jptext": "そうですとも！　この私とてスルーできません！\nなんたって学級委員長ですから！",
+      "choice_data_list": [
+        "Hai người là……",
+        "Hai tiền bối là……"
+      ],
+      "jpchoice_data_list": [
+        "君たちは……",
+        "貴方たちは……"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Xin chào! Tôi là Sakura Bakushin O! Lớp trưởng luôn Bakushin hết mình trong mọi hoàn cảnh!",
+      "jpname": "サクラバクシンオー",
+      "jptext": "どうも、こんにちは！　私はサクラバクシンオー！\nいつでも全力でバクシンする学級委員長です！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Em là Sakura Chiyono O ạ. Em với Laurel gắn bó từ lúc còn bé tí cơ. Vâng, tụi em cũng giống như Laurel――",
+      "jpname": "サクラチヨノオー",
+      "jptext": "私はサクラチヨノオーです。ローレルさんには小さい頃から\nお世話になってて。そう、私たちはローレルさんと同じ――"
+    },
+    {
+      "name": "Cả hai",
+      "text": "Đều là những Uma Musume xuất thân từ CLB Victory ạ!",
+      "jpname": "2人",
+      "jptext": "『ヴィクトリー倶楽部』出身のウマ娘です！",
+      "choice_data_list": [
+        "CLB…… Victory!?"
+      ],
+      "jpchoice_data_list": [
+        "ヴィクトリー……倶楽部！？"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Vâng! Chuyện này kể ra thì dài dòng lắm, nhưng mà……",
+      "jpname": "サクラバクシンオー",
+      "jptext": "はい！　話せば長くなるのですが……。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Trước đó thì! Laurel à, em nhớ phải giữ gìn thân thể của mình nhé. Bởi vì, ừm, đôi chân của em……",
+      "jpname": "サクラチヨノオー",
+      "jptext": "その前に！　ローレルさん、どうかご自愛をお願いしますね。\nだって、その、脚が……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Fufu, cảm ơn chị đã lo lắng cho em nhé chị Chiyo. Đúng rồi nhỉ, đôi chân của em từ hồi nhỏ……",
+      "jpname": "サクラローレル",
+      "jptext": "ふふっ、心配してくれてありがとうチヨちゃん。\nそうだね、私の脚は小さい頃から……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Vẫn luôn bị gọi là \"đôi chân pha lê\" mà.",
+      "jpname": "サクラローレル",
+      "jptext": "『ガラスの脚』って言われてたもんね。",
+      "choice_data_list": [
+        "\"Đôi chân pha lê\"……?"
+      ],
+      "jpchoice_data_list": [
+        "『ガラスの脚』……？"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "À, về chuyện đó thì cứ để tôi giải thích cho!",
+      "jpname": "サクラバクシンオー",
+      "jptext": "あー、それについては私から説明しましょう。"
+    },
+    {
+      "name": "",
+      "text": "Nói đoạn, Sakura Bakushin O liền kể cho tôi nghe về quãng thời gian thơ ấu của ba người họ.",
+      "jpname": "モノローグ",
+      "jptext": "そう言うとサクラバクシンオーは、3人の幼少期の話をしてくれた。"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "CLB Victory nơi chúng tôi cùng gắn bó là một câu lạc bộ đào tạo trứ danh, quy tụ rất nhiều bé Uma Musume nhí tài năng.",
+      "jpname": "サクラバクシンオー",
+      "jptext": "私たちが共に過ごした『ヴィクトリー倶楽部』は\nちびっこウマ娘たちが集う、有名な育成クラブです。"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Phương châm đào tạo ở đó là \"Tinh thần luôn phải kiên cường!\" và \"Tích cực tràn trề năng lượng!\". Có lẽ cũng bởi vậy mà……",
+      "jpname": "サクラバクシンオー",
+      "jptext": "その育成方針は『常に気持ちは強く！』\n『ポジティブに元気いっぱいに！』 というもの。そのせいか……。"
+    },
+    {
+      "name": "Bé Uma Musume A",
+      "text": "A hèm! Toàn thể thần dân, tránh đường mau! Ta đây chính là vị vua cai quản xứ Yamato này đó!",
+      "jpname": "ウマ娘の幼女A",
+      "jptext": "あー。みなの者、どけどけい！\n我こそはこの大和国を治める王であるぞ！"
+    },
+    {
+      "name": "Bé Uma Musume B",
+      "text": "Nhằm nhò gì! Ta đây còn là vua của cả thế giới cơ! Một khi đã chạy thì hiển nhiên phải là số một thế giới rồi nha!",
+      "jpname": "ウマ娘の幼女B",
+      "jptext": "なんのなんの。吾輩なんて世界の王なんだからっ。\n走れば、もちろん世界一～！"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Biết bao cô bé vừa mang chữ \"Vương\" trong tên, vừa có phong thái vương giả cùng tề tựu. Và giữa chốn ấy, Laurel thì……",
+      "jpname": "サクラバクシンオー",
+      "jptext": "名前もオー、態度もオーなウマ娘たちが集まりました。\nその中でローレルさんは……。"
+    },
+    {
+      "name": "Laurel hồi nhỏ",
+      "text": "À ừm, mình xin lỗi nhé. Mình vẫn chưa chạy được nhiều lắm. Thế nhưng……",
+      "jpname": "幼いローレル",
+      "jptext": "あのっ、ごめんなさい。\n私、まだあんまり走れなくて。だけど……。"
+    },
+    {
+      "name": "Laurel hồi nhỏ",
+      "text": "Mình sẽ cố gắng thật nhiều để không làm phiền mọi người đâu! Với lại có việc gì giúp được là mình sẽ làm hết sức nha♪",
+      "jpname": "幼いローレル",
+      "jptext": "迷惑かけないよう、ちゃんと頑張るから！\nそれから手伝えることはなんでもするね♪"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Khác với những đứa trẻ khác, em ấy tuy khiêm nhường nhưng vô cùng lạc quan. Lại còn chu đáo biết chăm lo cho mọi người, hễ ai gây ra rắc rối long trời lở đất gì là em ấy luôn đứng ra giúp đỡ.",
+      "jpname": "サクラバクシンオー",
+      "jptext": "他の子と違って、控えめながら前向き。そして面倒見がよく、\n誰かが盛大にやらかした時はいつも助けてくれたのです。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Laurel hồi ấy cứ như người chị lớn của tất cả tụi mình vậy. Kiểu như luôn suy nghĩ mọi việc thấu đáo, chu toàn ấy ạ.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ローレルさんは、みんなのお姉さんでしたもんね。\n物事をちゃんと考えられるっていうか。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Tại vì…… chân em vốn yếu ớt ngay từ đầu rồi mà♪ Nếu thỉnh thoảng không giữ được bình tĩnh thì đâu thể nào đỡ đần cho mọi người được cơ chứ.",
+      "jpname": "サクラローレル",
+      "jptext": "私は……最初から脚が弱かったから♪\n時々は冷静にならないと、うまくカバーできなかっただけだよ。",
+      "choice_data_list": [
+        "Vậy ra \"đôi chân pha lê\" nghĩa là……",
+        "Vậy chuyện \"đôi chân pha lê\" là……"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ『ガラスの脚』というのは……",
+        "じゃあ『ガラスの脚』っていうのは……"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Dạ vâng. Từ nhỏ chân em đã không được cứng cáp cho lắm, nên em không thể chạy nhiều được ạ.",
+      "jpname": "サクラローレル",
+      "jptext": "はい。私、小さい頃から脚があまり丈夫じゃなくて、\nたくさんは走れないんです。",
+      "choice_data_list": [
+        "Hóa ra là như vậy sao……",
+        "Hóa ra là thế à……"
+      ],
+      "jpchoice_data_list": [
+        "そうだったのか……",
+        "そうだったんだ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Là một Uma Musume mang định mệnh phải sải bước trên đường chạy, vậy mà lại chẳng thể chạy…… Điều đó hẳn phải mang lại nỗi đau đớn và dồn nén đến nhường nào.",
+      "jpname": "モノローグ",
+      "jptext": "走ることを宿命づけられたウマ娘なのに走れない……。\nそれは、どれほどのストレスだったことだろう。"
+    },
+    {
+      "name": "",
+      "text": "Nàng Uma Musume mang \"đôi chân pha lê\", Sakura Laurel. Vậy thì rốt cuộc tại sao em ấy lại……",
+      "jpname": "モノローグ",
+      "jptext": "『ガラスの脚』を持つウマ娘、サクラローレル。\nでは彼女はなぜ……。",
+      "choice_data_list": [
+        "Dù không thể chạy, cớ sao em lại tới Học viện Tracen?"
+      ],
+      "jpchoice_data_list": [
+        "走れないのに、どうしてトレセン学園に？"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Dạ thì, chuyện đó là thế này ạ――",
+      "jpname": "サクラローレル",
+      "jptext": "えーと、それはですねー。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "A, xin đợi một chút đã ạ! Chắc là do cái tên \"đôi chân pha lê\" đó nên khiến Trainer-san có chút hiểu lầm rồi. Nếu đã vậy thì……",
+      "jpname": "サクラチヨノオー",
+      "jptext": "あ、ちょっと待ってください。『ガラスの脚』っていう呼び方の\nせいで、少し誤解されちゃってるかも。でしたら……。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Em sẽ cho Trainer-san xem video cuộc đua tập dượt nhé. Đây là đoạn phim ba đứa tụi em cùng chạy vào lúc Laurel đạt phong độ tốt nhất đấy ạ.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "模擬レースの映像をお見せします。ローレルさんの\n調子がいいときに、3人で走った映像がありますので。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi Sakura Chiyono O liền mở video trên điện thoại cho tôi xem. Và xuất hiện trong màn hình khi ấy là……",
+      "jpname": "モノローグ",
+      "jptext": "そう言うとサクラチヨノオーは、スマホの動画を見せてくれた。\nと、そこには……。"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Tiên hạ thủ vi cường!! Ối giời ơiiiiiii!! Dù có thế nào đi chăng nữa cũng phải Bakushin Bakushin!",
+      "jpname": "サクラバクシンオー",
+      "jptext": "先手必勝ー！！　おりゃああああああ！！\nとにもかくにもバクシンバクシン！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hự…… chị Bakushin O nhanh quá……! Nhưng mà…… nếu mình cố bám đuổi tới cùng thì……",
+      "jpname": "サクラチヨノオー",
+      "jptext": "くぅぅぅっ、バクシンオーさん、速い……！\nでも……最後までついていければ～……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "(Chị Baku…… chị Chiyo…… cả hai tiền bối đều tuyệt vời quá…… So với hai chị thì khối lượng tập luyện của mình chẳng thấm vào đâu……)",
+      "jpname": "サクラローレル",
+      "jptext": "（バクちゃん……チヨちゃん……2人ともすごい……。\n2人に比べたら、私のトレーニング量なんて全然……）"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "(Nhưng mà, dù vậy thì…… mình vẫn thấy vui lắm! Hạnh phúc quá……! Được thỏa sức chạy như thế này…… chính khoảnh khắc này……!)",
+      "jpname": "サクラローレル",
+      "jptext": "（でも、それでも……嬉しい！　楽しい……！\n好きに走れる……この瞬間が……！）"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "(Phải rồi…… hãy bung nở đi nào! Chẳng cần bận tâm chuyện mai sau――chỉ cần sống hết mình cho hiện tại!!)",
+      "jpname": "サクラローレル",
+      "jptext": "（そう……咲くんだ！\n後のことなんて考えず――ただ今を！！）"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Haaaaaa!!",
+      "jpname": "サクラローレル",
+      "jptext": "はぁぁぁぁぁっ！！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hảảả!? Laurel……!? Chỉ trong chớp mắt mà đã bắt kịp tới đây rồi sao……!?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "えええっ、ローレルさん……！？\nたった一瞬で、ここまで……！？"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Yaaaaa a a a a a a a!!",
+      "jpname": "サクラローレル",
+      "jptext": "やぁぁぁああああああああっ！！"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Úi chà chà!? Chẳng lẽ nào……!? Đến tôi đây đang tràn đầy thể lực và dốc toàn lực Bakushin mà cũng bị……!?",
+      "jpname": "サクラバクシンオー",
+      "jptext": "ちょわー！？　まさか……！？\nスタミナ満点、全開バクシン中の私を……！？"
+    },
+    {
+      "name": "",
+      "text": "Tốc độ và dáng chạy ấy――thật sự gây chấn động tột cùng. Đôi chân dộng mạnh xuống mặt đất, tạo ra một lực đẩy dữ dội để lao đi. Đúng vậy, hệt như――",
+      "jpname": "モノローグ",
+      "jptext": "その走りのスピードとフォームは――衝撃的だった。脚を激しく\n地面に叩きつけ、強烈な推進力を得る走り。そう、まるで――"
+    },
+    {
+      "name": "",
+      "text": "――Một cánh hoa anh đào đang bay lượn giữa không trung. Đổi lại cho tốc độ phi nước đại tựa như đang bay lượn ấy, ai nấy đều thấy rõ đôi chân vốn đã yếu ớt kia sẽ phải gánh chịu một áp lực nặng nề đến cùng cực.",
+      "jpname": "モノローグ",
+      "jptext": "――宙を舞う桜の花びら。飛ぶが如く速く走れる代わりに、\nそうでなくても弱い脚に、極大の負荷がかかるのは一目瞭然だった。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Đúng là như vậy đấy ạ. Vì dáng chạy của em hơi đặc biệt một chút nên không thể chạy nhiều được, nhưng chừng này thì em vẫn chạy tốt nha♪ Và hơn nữa……",
+      "jpname": "サクラローレル",
+      "jptext": "そうなんです。フォームも少し変わっているので、たくさんは\n無理ですけど、このくらいは走れるんです♪　そして……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Em có――một \"giấc mơ\" muốn biến thành hiện thực.",
+      "jpname": "サクラローレル",
+      "jptext": "私には――叶えたい“夢”があります。",
+      "choice_data_list": [
+        "……Một giấc mơ ư?"
+      ],
+      "jpchoice_data_list": [
+        "……夢？"
+      ]
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "……Dạ vâng. Em đang tìm kiếm một người có thể cùng em dõi theo \"giấc mơ\" ấy. Và để làm được điều đó……",
+      "jpname": "サクラローレル",
+      "jptext": "……はい。その“夢”を一緒に見てくれる人を探しています。\nそのために……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Em đang nghĩ mình cũng nên tham gia vào cuộc đua tuyển chọn rồi. Dù với đôi chân thế này thì dẫu có dốc hết sức, cơ hội cũng chỉ có một lần duy nhất……",
+      "jpname": "サクラローレル",
+      "jptext": "そろそろ選抜レースに出てみたいって思ってるんです。\nもっとも脚が脚ですから、全力で走れてもチャンスは1度……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Thế nhưng, em dự định sẽ đặt cược tất cả vào lần duy nhất ấy!",
+      "jpname": "サクラローレル",
+      "jptext": "でも、その1度に全てを懸けてみるつもりです！"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ồ ồ ồ, cuộc đua tuyển chọn! Cuối cùng em cũng đã hạ quyết tâm rồi sao, Laurel!",
+      "jpname": "サクラバクシンオー",
+      "jptext": "おおお、選抜レース！\nついに覚悟を決めたのですね、ローレルさん！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Huhu…… bọn chị rất muốn cổ vũ cho em, nhưng trong lòng vẫn thấy lo lắm―― Xin em tuyệt đối đừng làm gì quá sức đấy nhé……",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ううう……応援したいけど、でもやっぱり\n心配になっちゃいますよ～。どうか無理だけは……。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Dạ vâng! Em đâu có định làm liều đâu nè. Em chỉ muốn thể hiện trọn vẹn những gì bản thân có thể làm tốt nhất lúc này thôi mà.",
+      "jpname": "サクラローレル",
+      "jptext": "うん！　無茶するつもりはないよ。\n今の私にできる、せいいっぱいを見せたいだけだから。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Vì vậy, nếu không phiền thì Trainer-san có thể tới xem được không ạ? ――Dáng chạy của em ấy.",
+      "jpname": "サクラローレル",
+      "jptext": "ですから、もしよろしければ観に来てくれませんか、\nトレーナーさん？　――私の走りを。"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Để xem liệu mai sau em có thực sự là một Uma Musume có thể tỏa sáng tại Twinkle Series và biến giấc mơ thành hiện thực hay không……!",
+      "jpname": "サクラローレル",
+      "jptext": "私が本当にこれから、トゥインクル・シリーズで活躍して、\n夢を叶えられるウマ娘なのかどうか……！",
+      "choice_data_list": [
+        "Được chứ…… chắc chắn rồi!",
+        "Dĩ nhiên rồi em!"
+      ],
+      "jpchoice_data_list": [
+        "ああ……もちろん！",
+        "うん……もちろん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kỳ vọng trào dâng. Và cùng lúc đó――nỗi bất an cũng dâng lên theo.",
+      "jpname": "モノローグ",
+      "jptext": "高まる期待。\nそして同時に――高まる不安。"
+    },
+    {
+      "name": "",
+      "text": "Liệu với đôi chân pha lê ấy, Sakura Laurel có thực sự chạy hết chặng đường đua tuyển chọn và chứng minh ánh hào quang của mình được hay không?",
+      "jpname": "モノローグ",
+      "jptext": "サクラローレルは本当に、そのガラスの脚で\n選抜レースを走り切り、輝きを示すことができるのだろうか？"
+    }
+  ]
+}
