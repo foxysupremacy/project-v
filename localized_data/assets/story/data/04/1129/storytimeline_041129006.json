@@ -1,0 +1,534 @@
+{
+  "title": "Không ngần ngại vươn tay tới ánh hào quang",
+  "jptitle": "躊躇わず、その輝きへ手を伸ばす",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "——Vào một buổi trưa ngày nghỉ. Vừa tình cờ gặp Ai khi đang đi dạo phố, em ấy đã nhờ tôi cùng tham gia một thử thách đố vui theo cặp.",
+      "jpname": "モノローグ",
+      "jptext": "――休日の昼下がり。外出先でアイに出会うなり、\nあるクイズのペアチャレンジに付き合ってほしいと頼まれた。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em vừa bước vào tiệm thì thấy người ta đang tổ chức…… Nếu trả lời đúng hết tất cả các câu hỏi thì sẽ nhận được một cặp thú bông Kyumaru đấy ạ! Em xin Trainer đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "お店に入ったら、ちょうど開催してて……\n全問正解だと、キューまるのペア人形をもらえるの！　お願いっ！",
+      "choice_data_list": [
+        "Kyumaru……?"
+      ],
+      "jpchoice_data_list": [
+        "キューまる……？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Là bé Kappa ôm quả dưa leo trông tròn trĩnh đáng yêu này này. Trông cưng xỉu luôn đúng không ạ♪",
+      "jpname": "アーモンドアイ",
+      "jptext": "このほんわかした感じの、きゅうりを持ったカッパの子よ。\nとってもかわいいでしょ♪"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Từ bé em đã thích Kyumaru lắm rồi…… Thế nên em xin Trainer giúp em nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "わたし、キューまるのことが昔から大好きで……だからお願い！",
+      "choice_data_list": [
+        "Được chứ, nếu không chê tôi",
+        "Được thôi, nếu tôi có thể giúp được gì"
+      ],
+      "jpchoice_data_list": [
+        "いいよ、俺でよければ",
+        "いいよ、私でよければ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "——Người trả lời câu hỏi tiếp theo sẽ là Trainer nhé. Em đặt trọn niềm tin vào vận may của người mới đấy nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――次の問題の解答者は、トレーナーね。\nビギナーズラック、信じてるわよ！"
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Sau đây là câu hỏi! Bé Kappa Kyumaru này đây——Vậy chú cá hề mà cô cháu gái của bác Puffin sống cạnh nhà Kyumaru nuôi tên là gì nào?",
+      "jpname": "ショップの店長",
+      "jptext": "では問題です！　こちらのカッパのキューまる――の隣に住む、\nパフィンおじさんの姪が飼っているクマノミの名前はなんでしょう？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "K-Khoan đã chứ! Câu hỏi này đối với Trainer thì chuyên sâu quá mức rồi đấy ạ……!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ちょ、ちょっと！\nその問題、トレーナーにはコアすぎるわよ……！",
+      "choice_data_list": [
+        "(A-Ai mà biết cho nổi chứ!!) Chắc là…… Bé Gấu chẳng hạn?"
+      ],
+      "jpchoice_data_list": [
+        "（わ、わかるか～！！）クマちゃん、とか？"
+      ]
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Rất tiếc, câu trả lời không chính xác! Thử thách lần này của hai bạn đành dừng lại ở đây nhé! Khi nào có dịp mời hai bạn lại ghé chơi nữa nha!",
+      "jpname": "ショップの店長",
+      "jptext": "残念っ、不正解！　これにて今回のチャレンジは終了です！\nよかったらまた挑戦してくださいね～！",
+      "choice_data_list": [
+        "Aaaaa…… Tiếc quá……"
+      ],
+      "jpchoice_data_list": [
+        "あぁぁぁぁ～……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tức thật sự luôn ấy chứ! Thật không ngờ toàn là những câu hỏi ngóc ngách đến vậy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ほんっと悔しい！\nまさか、あんなコアな問題ばかりだなんて！",
+      "choice_data_list": [
+        "Xin lỗi vì tôi không giúp được gì cho em……"
+      ],
+      "jpchoice_data_list": [
+        "力になれなくてごめん……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chuyện khó tránh mà, đừng bận tâm nhé! Cỡ câu hỏi đó thì ngay cả fan ruột của Kyumaru chưa chắc đã trả lời nổi đâu……",
+      "jpname": "アーモンドアイ",
+      "jptext": "しょうがないわよ、気にしないで！\nあんなの、熱心なキューまるファンでも答えられるかどうか……。"
+    },
+    {
+      "name": "",
+      "text": "Dù Almond Eye an ủi tôi, nhưng nét mặt em vẫn lộ rõ vẻ ấm ức khôn nguôi vì thất bại trong thử thách.",
+      "jpname": "モノローグ",
+      "jptext": "フォローしてくれるアーモンドアイだが、\nその表情からはチャレンジに失敗した悔しさがにじみ出ている。",
+      "choice_data_list": [
+        "……Vậy thì lần tới, chúng ta hãy chuẩn bị thật kỹ càng nhé!"
+      ],
+      "jpchoice_data_list": [
+        "……じゃあ、今度はがっつり準備しよう！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ? Lần tới là sao——",
+      "jpname": "アーモンドアイ",
+      "jptext": "えっ？　今度って――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer lại chịu đi cùng em lần nữa thật sao……?",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー、また付き合ってくれるの……？",
+      "choice_data_list": [
+        "Tất nhiên rồi. Cùng nhau phục thù nào!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん。やろうよ、リベンジ！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……!! Vâng, đúng ý em rồi! Lần tới nhất định hai ta sẽ trả lời đúng tất cả các câu hỏi cho xem!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ！！\nええ、望むところよ！　次こそ全問正解してみせるわ！"
+    },
+    {
+      "name": "",
+      "text": "Nói là làm ngay, thế là tôi bị Almond Eye kéo đi để bước vào một đợt dùi mài kinh sử phục vụ cho các câu đố hóc búa.",
+      "jpname": "モノローグ",
+      "jptext": "思い立ったら即行動、ということでアーモンドアイに連れられて、\n難問クイズに向けた勉強を行うことになった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Quán karaoke này có thể chiếu cả phim nữa đấy. ——Chúng ta cùng nhau cày lại các phần phim anime điện ảnh trước đây nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ここのカラオケ、映像作品の再生もできるのよ。\n――過去の劇場版アニメ、一緒に観ましょう？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu……♪ Quả nhiên Kyumaru đáng yêu thật đấy. Cả cái sở thích mê dưa chuột cũng làm em thấy đồng cảm ghê gớm.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふ……♪　やっぱりキューまるはかわいいわね。\nきゅうりが好きってところも、シンパシー感じちゃう。",
+      "choice_data_list": [
+        "Vì thế nên em mới mê Kyumaru sao?",
+        "Thế nên em mới thích Kyumaru đến vậy à?"
+      ],
+      "jpchoice_data_list": [
+        "だからキューまるが好きなのか？",
+        "だからキューまるが好きなの？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ưm…… đó cũng là một lý do, nhưng mà. Em thích sự mạnh mẽ dám đương đầu với mọi nghịch cảnh chỉ để tìm lại người mẹ thất lạc của bé ấy cơ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "うーん……それもあるけど。生き別れのお母さんを探すためなら、\nどんな困難にも真っすぐ挑む強さがいいと思うわ。",
+      "choice_data_list": [
+        "Luôn một lòng hướng thẳng về mục tiêu…… Giống hệt Ai nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "目標に向かって一直線……アイみたいだね"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ô kìa, có khi đúng vậy thật. ……A, nhìn kìa! Phân đoạn này là em thích nhất luôn đấy! Cảnh Kyumaru gom hết dũng khí vì mẹ xem mà không kìm được lòng.",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら、そうかも。……あっ、観て。このシーンは特にオススメ！\nお母さんのためにって勇気を振り絞るキューまるがたまらないの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……Ủa kìa? Mắt Trainer hơi đỏ hoe rồi kìa? Có sao không thế?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……あら？\nトレーナー、ちょっと目が赤いわよ？　大丈夫？",
+      "choice_data_list": [
+        "Cảnh kết phim làm tôi nghẹn ngào quá……"
+      ],
+      "jpchoice_data_list": [
+        "最後のシーンが、胸にきて……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "À, cảnh đó hả……! Hồi em xem lần đầu cũng rơm rớm nước mắt luôn ấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ああ、あれね……！\nわたしも初めて観た時は、うるっときちゃったわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thế nhưng…… dẫu phải trải qua những cuộc chia ly đau đớn, bé ấy vẫn tiếp tục cuộc hành trình vì mẹ. Bộ phim này đã giúp em cảm nhận lại một lần nữa sự kiên cường của Kyumaru.",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも……つらい別れが訪れても、お母さんのために旅を続ける。\nキューまるの強さを再確認できた作品だったわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "——Nào. Coi xong một lượt rồi, sau khi tổng hợp lại các chi tiết dễ vào đề đố vui, chúng ta đi đến địa điểm tiếp theo nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――さて。ひと通り観終わったことだし、\nクイズに出そうな情報をまとめた後は、次に行きましょうか！",
+      "choice_data_list": [
+        "Địa điểm tiếp theo là ở đâu thế?"
+      ],
+      "jpchoice_data_list": [
+        "次って？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Quán cà phê chủ đề Collab! Giờ cũng gần trưa rồi, vừa ăn uống vừa học được luôn thì một công đôi việc còn gì nữa đúng không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "コラボカフェ！　そろそろお昼も近づいてきたし、\n勉強もできて一石二鳥でしょ？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Bánh pancake kem Bá tước Hải cẩu với mì xào trứng Todosuke——Em phân vân mãi, nhưng gọi cả hai quả là quyết định đúng đắn♪",
+      "jpname": "アーモンドアイ",
+      "jptext": "アザラシ伯爵のクリームパンケーキに、トド助のオムそば――\nすごく迷ったけど、どっちも頼んで正解だったわ♪"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A, phần đĩa thập cẩm hảo hạng của Trainer nhìn cũng cưng quá đi……! Cho em chụp một bức ảnh nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ、トレーナーのよくばりプレートもかわいいわね……！\nちょっと写真撮らせてもらえない？"
+    },
+    {
+      "name": "",
+      "text": "——Cứ thế, hai chúng tôi vui vẻ thưởng thức các món ăn trong thực đơn Collab. Khi bụng dạ đã no nê thoải mái, em hớn hở lấy cuốn sổ tay ra.",
+      "jpname": "モノローグ",
+      "jptext": "――そんなこんなで、ふたりでコラボメニューに舌鼓を打った。\n満腹感も落ち着いた頃、彼女が嬉々として手帳を取り出す。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em đã tổng hợp toàn bộ thông tin về Kyumaru vào đây rồi này! \"Cùng nhau cố gắng học thật chăm chỉ nha Kyu——♪\", đại loại vậy đó.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ここにキューまる情報をまとめてあるの！\n『一緒にお勉強、頑張るキュ～♪』、なんてね。",
+      "choice_data_list": [
+        "Ồ, bắt chước giống Kyumaru y đúc luôn!",
+        "Oa, giọng bắt chước Kyumaru y hệt luôn này!"
+      ],
+      "jpchoice_data_list": [
+        "おお、キューまるそっくりだ！",
+        "わあ、キューまるそっくりだね！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, giống lắm đúng không? Biết đâu người ta lại yêu cầu vừa trả lời vừa nhại giọng nhân vật thì sao, một khi đã làm thì phải chuẩn từng milimet chứ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふ、似てるでしょ？\n声真似で答えろって言われるかもしれないし、寄せるなら完璧にね！",
+      "choice_data_list": [
+        "L-Lường trước được cả chuyện đó luôn cơ à……!"
+      ],
+      "jpchoice_data_list": [
+        "そ、そんなことまで見越して……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Mẩu truyện ngắn in trên mác treo của mỗi con thú bông lại khác nhau đấy. Phải kiểm tra thật kỹ cả phần đó nữa mới được.",
+      "jpname": "アーモンドアイ",
+      "jptext": "タグに書いてあるエピソードは、ぬいぐるみごとに違うのよね。\nしっかりそれも確かめないと。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Được rồi, em sẽ thu thập bằng hết! Trước tiên là bé Kyumaru cưỡi dưa leo này nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "よーし、全部ゲットするわよ！\nまずはきゅうりに乗ってるキューまるから！",
+      "choice_data_list": [
+        "(Tính cách tỉ mỉ đến cùng này đúng là trước sau như một)"
+      ],
+      "jpchoice_data_list": [
+        "（とことん突き詰めるのは相変わらずだな）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kể cả những điều mà người bình thường sẽ thốt lên \"Cần phải làm đến mức ấy cơ à?\", Almond Eye vẫn không một chút ngần ngại mà dấn thân đón nhận.",
+      "jpname": "モノローグ",
+      "jptext": "常人であれば、『そこまでやるか？』と言われることですら、\nアーモンドアイは厭わず、挑戦していく。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "——Được rồi! Gắp trúng cả ba con cùng một lúc luôn! Fufufu…… Đúng như những gì em đã hình dung nhé!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――やったわ！　三つ同時ゲット！\nふふふっ……イメージ通りにいけたわね！！"
+    },
+    {
+      "name": "",
+      "text": "Lúc nào em cũng dốc hết mình——và lúc nào trông em cũng ngập tràn niềm vui.",
+      "jpname": "モノローグ",
+      "jptext": "いつだって全力で――いつだって、楽しそうだ。",
+      "choice_data_list": [
+        "(Mình cũng không thể chịu thua kém được……!)",
+        "(Chính tôi cũng không được phép để bị tụt lại……!)"
+      ],
+      "jpchoice_data_list": [
+        "（俺だって、負けていられない……！）",
+        "（私だって、負けていられない……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đứng cạnh một người luôn dốc toàn tâm toàn ý, với tư cách là người bạn đồng hành cùng em phục thù——tôi phải nỗ lực tương xứng để đáp lại sự cố gắng ấy của em.",
+      "jpname": "モノローグ",
+      "jptext": "全力の彼女の隣で、共にリベンジするペアとして――\nその頑張りに応えられるだけの努力をしなければ。",
+      "choice_data_list": [
+        "……Mình cũng phải tự ôn luyện thật chăm chỉ để chuẩn bị cho lần tới mới được!"
+      ],
+      "jpchoice_data_list": [
+        "……自習もしっかりして、次に臨もう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế là vào ngày nghỉ tiếp theo——hai chúng tôi bước vào trận chiến phục thù thử thách câu đố hóc búa. Lượt trả lời luân phiên nhau, cả hai thay phiên trả lời hết câu này đến câu khác——",
+      "jpname": "モノローグ",
+      "jptext": "こうして次の休養日――難問クイズのリベンジに挑む。\n解答権は交互に与えられ、ふたりで次々と答えていく――",
+      "choice_data_list": [
+        "Thần tượng mà Kyumaru ngưỡng mộ là Chim cánh cụt Lãng tử Dandy!"
+      ],
+      "jpchoice_data_list": [
+        "キューまるの憧れはダンディーペンギン！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Số dưa leo vẽ trên biểu trưng kỷ niệm ba năm ra mắt sao? ——3 nhân 3, dĩ nhiên là 9 quả rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "生誕三周年のエンブレムに描かれたきゅうり？\n――3×3で、もちろん9本よ！"
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Tuyệt hảo! Sau đây rốt cuộc đã tới câu hỏi cuối cùng rồi! ——Vị khách đằng kia, bạn đã sẵn sàng chưa nào?",
+      "jpname": "ショップの店長",
+      "jptext": "お見事！　お次は、とうとう最終問題です！\n――そちらのお兄さん、準備はよろしいですか？",
+      "choice_data_list": [
+        "D-Dạ vâng!"
+      ],
+      "jpchoice_data_list": [
+        "は、はいっ！"
+      ]
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Tuyệt hảo! Sau đây rốt cuộc đã tới câu hỏi cuối cùng rồi! ——Vị tiểu thư đằng kia, bạn đã sẵn sàng chưa nào?",
+      "jpname": "ショップの店長",
+      "jptext": "お見事！　お次は、とうとう最終問題です！\n――そちらのお姉さん、準備はよろしいですか？",
+      "choice_data_list": [
+        "D-Dạ vâng!"
+      ],
+      "jpchoice_data_list": [
+        "は、はいっ！"
+      ]
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Vậy thì, trích từ bộ phim điện ảnh \"Đại phiêu lưu của Kyumaru\"——",
+      "jpname": "ショップの店長",
+      "jptext": "それでは、劇場版『キューまるの大冒険』から――"
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Các sọc trên thân của chú cá bướm nhiều sọc xuất hiện trong phim rốt cuộc có bao nhiêu sọc? Xin mời bạn trả lời chi tiết tách riêng mặt trước, mặt sau, sọc dài và sọc ngắn!",
+      "jpname": "ショップの店長",
+      "jptext": "作中に出てくるマルチバンド・バタフライフィッシュの体の線は、\nいったい何本？　表と裏、長い線と短い線に分けてお答えください！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Ặc, đúng là câu hỏi quyết định có khác…… Chi tiết đó nếu không quan sát cực kỳ cẩn thận thì sao mà biết được chứ)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（うっ、さすがは最終問題……。\nそんなの、じっくり観ていないとわからないわ）",
+      "choice_data_list": [
+        "Mặt trước hai bên mỗi bên 2 sọc. Mặt sau có 3 sọc dài——"
+      ],
+      "jpchoice_data_list": [
+        "表は両方2本ずつ。裏は長いのが3本――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……!",
+      "jpname": "アーモンドアイ",
+      "jptext": "っ……！",
+      "choice_data_list": [
+        "Và thêm 1 sọc ngắn bình thường giấu dưới vây nữa ạ!!"
+      ],
+      "jpchoice_data_list": [
+        "あと、普段はひれに隠れた短いのが1本！！"
+      ]
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "——Chính xác hoàn toàn!! Hai bạn đã trả lời đúng tất cả các câu, xuất sắc vượt qua thử thách!",
+      "jpname": "ショップの店長",
+      "jptext": "――大正解っ！！\n全問答えられたので、見事チャレンジ成功です！"
+    },
+    {
+      "name": "Chủ cửa hàng",
+      "text": "Trời đất, quá đỉnh luôn! Lúc nãy bạn bảo là mới chỉ vừa biết đến Kyumaru gần đây thôi mà sao lại nắm rõ đến mức ấy chứ!",
+      "jpname": "ショップの店長",
+      "jptext": "いや～、すごい！　キューまるのことは、\n最近知ったばかりだとおっしゃっていたのに、よくわかりましたね！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tuyệt thật đấy…… Tuyệt vời quá, Trainer!",
+      "jpname": "アーモンドアイ",
+      "jptext": "すごい……すごいわ、トレーナー！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chi tiết ấy hôm nọ cùng nhau ôn bài em còn chưa kịp nhắc tới đâu đấy? Sao nhớ tài tình thế……!",
+      "jpname": "アーモンドアイ",
+      "jptext": "そこ、この前の勉強会でも話さなかった箇所よ？\nよく覚えていたわね……！",
+      "choice_data_list": [
+        "Bởi vì cũng giống như em, tôi là người ghét bị thua cuộc mà",
+        "Vì cũng giống như em, tôi đâu muốn chịu thua bao giờ"
+      ],
+      "jpchoice_data_list": [
+        "君と同じく、俺も負けず嫌いだから",
+        "貴方と同じく、私も負けず嫌いだから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhìn thấy Almond Eye ấm ức, bản thân tôi cũng cảm thấy cay cú chẳng kém. Nếu em đã quyết tâm phục thù, bằng mọi giá tôi muốn được giúp sức cho em——",
+      "jpname": "モノローグ",
+      "jptext": "悔しがるアーモンドアイを見るのは、自分だって悔しい。\n彼女がリベンジするというなら、どうしても力になりたかった――"
+    },
+    {
+      "name": "",
+      "text": "Tôi kể rằng chính vì thế tôi đã tự mình tìm hiểu thêm, và toàn bộ những gì học được từ em hôm đó tôi đều đã ôn lại thật kỹ càng.",
+      "jpname": "モノローグ",
+      "jptext": "だから自習も行ったし、あの日アーモンドアイから学んだ内容も\n全部、復習し直したのだと話す。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Toàn bộ ư…… Cả phần phim điện ảnh xem ở quán karaoke, những gì trò chuyện ở quán Collab, rồi mọi thứ chúng ta cùng học hôm đó——tất cả luôn sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "全部って……カラオケで観た劇場版も、\nコラボカフェで話したことも、一緒に勉強したこと――全部？",
+      "choice_data_list": [
+        "Dĩ nhiên là tất cả rồi"
+      ],
+      "jpchoice_data_list": [
+        "もちろん、そうだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cả bộ phim ngồi xem cạnh nhau mà tôi lỡ xúc động rơi nước mắt——",
+      "jpname": "モノローグ",
+      "jptext": "並んで観て、うっかり涙してしまった作品も――"
+    },
+    {
+      "name": "",
+      "text": "Cả quán cà phê Collab nơi chúng tôi thưởng thức các món ngon rồi em nhại giọng nhân vật hoàn hảo để dạy tôi——",
+      "jpname": "モノローグ",
+      "jptext": "おいしいメニューに舌鼓を打った後、\n完璧なモノマネ交じりで勉強会をしてくれたコラボカフェも――"
+    },
+    {
+      "name": "",
+      "text": "Tôi đã hồi tưởng lại vô số lần những điều từng xem và những nơi từng đi qua cùng Almond Eye, dốc lòng tìm hiểu tỉ mỉ đến tận cùng chẳng kém gì em, chuẩn bị mọi thứ một cách chu toàn nhất.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイと観たものや巡った場所を何度も辿り、\n彼女と同じぐらい突き詰めて、念入りに準備したのだ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tất cả những điều đó…… chỉ là để phục thù cho thất bại hôm nọ thôi sao……?",
+      "jpname": "アーモンドアイ",
+      "jptext": "全部、この間のリベンジを果たすために……？",
+      "choice_data_list": [
+        "Ừ, khoảng thời gian bên em ùa về khiến tôi thấy vui lắm",
+        "Đúng vậy, được sống lại những khoảnh khắc bên em làm tôi thấy rất vui"
+      ],
+      "jpchoice_data_list": [
+        "ああ、君との時間が蘇って楽しかったよ",
+        "うん、貴方との時間が蘇って楽しかったよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "——……Ra vậy ạ……",
+      "jpname": "アーモンドアイ",
+      "jptext": "――……そっか……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……Fufu. ……Fufu…… Fufu, ahahaha!! Đúng rồi nhỉ. Trainer…… quả thật chính là người như vậy mà!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふ。……ふふっ……ふふ、あははははっ！！\nそうね。貴方って……そういう人だものね！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em cảm ơn Trainer nhé! Nhờ có Trainer mà chúng ta đã giành được chiến thắng tuyệt vời nhất rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとう、トレーナー！\nおかげで最高の勝利を収められたわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A, đúng rồi! Tặng Trainer này——hãy nhận lấy phần thưởng chú thú bông Kyumaru này nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ、そうだ！　トレーナーにも――\nはい、賞品のキューまる人形！",
+      "choice_data_list": [
+        "Cả hai con Ai cứ giữ lấy hết cũng được mà"
+      ],
+      "jpchoice_data_list": [
+        "両方、アイがもらっていいのに"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không được đâu! Đây là chiến thắng do cả hai ta cùng nhau giành được, nên Trainer phải nhận lấy một con đấy nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "だめよ！　ふたりで掴んだ勝利だし、\n片方は貴方が受け取ってちょうだい！",
+      "choice_data_list": [
+        "Vậy thì tôi xin nhận nhé…… Tôi sẽ trân trọng nó thật tốt"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、お言葉に甘えて……大事にするよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng, em cũng sẽ giữ gìn thật cẩn thận. ——Bởi vì đây là báu vật kỷ niệm màn phục thù thành công cùng Trainer mà♪",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ、わたしも大事にするわ。\n――貴方との、リベンジ成功記念の宝物だもの♪"
+    }
+  ]
+}
