@@ -1,6 +1,7 @@
 {
   "title": "Tại vì đó là sự thật mà",
   "jptitle": "だって、ほんとなんだもん",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -34,7 +35,7 @@
     },
     {
       "name": "",
-      "text": "Verxina... Uma Musume đầu tiên trong lịch sử lập cú đúp vô địch Victoria Mile liên tiếp. Bằng sự nghiêm túc và ý chí kiên cường vốn có, cô ấy đã vượt qua chuỗi ngày cay đắng để chạm tay tới vinh quang.",
+      "text": "Verxina... Mã Nương đầu tiên trong lịch sử lập cú đúp vô địch Victoria Mile liên tiếp. Bằng sự nghiêm túc và ý chí kiên cường vốn có, cô ấy đã vượt qua chuỗi ngày cay đắng để chạm tay tới vinh quang.",
       "jpname": "モノローグ",
       "jptext": "ヴィルシーナ……史上初の『ヴィクトリアM』を連覇したウマ娘。\n持ち前の真面目さと根性で、悔しい時期を乗り越え栄光を掴んだ。"
     },
@@ -46,7 +47,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...Mình phải cố gắng nhiều hơn nữa. Nếu không thì... sẽ chẳng bao giờ trở thành một Uma Musume vĩ đại được...!",
+      "text": "...Mình phải cố gắng nhiều hơn nữa. Nếu không thì... sẽ chẳng bao giờ trở thành một mã nương vĩ đại được...!",
       "jpname": "シュヴァルグラン",
       "jptext": "……もっと頑張るんだ。\nじゃないと……偉大なウマ娘になんかなれない……！"
     },
@@ -172,7 +173,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Trời ơi, nó tuyệt vời dã man luôn...! Quá đỗi lộng lẫy khiến em mê mẩn ngay tức khắc! Trường đua, khán giả đến xem, cho đến các Uma Musume... tất cả đều tỏa sáng lấp lánh!",
+      "text": "Trời ơi, nó tuyệt vời dã man luôn...! Quá đỗi lộng lẫy khiến em mê mẩn ngay tức khắc! Trường đua, khán giả đến xem, cho đến các mã nương... tất cả đều tỏa sáng lấp lánh!",
       "jpname": "ヴィブロス",
       "jptext": "もー、すっごかった……！　眩しくって、すぐトリコになったの！\nレース場も、そこに来る人たちも、ウマ娘たちも……全部キラキラ！"
     },
@@ -291,7 +292,7 @@
       "jptext": "……。\n私をダメって、思ったんじゃないってこと？",
       "choice_data_list": [
         "Làm sao em có thể kém cỏi được chứ",
-        "Một cô bé như em làm sao vô vọng được chứ"
+        "Một bạn bé như bạn làm sao vô vọng được chứ"
       ],
       "jpchoice_data_list": [
         "君がダメなわけがない",
@@ -311,7 +312,7 @@
       "jptext": "模擬レースやトレーニング風景を見て、彼女から光るものを感じた。\n適切な指導をしていけば、この先いくらでも伸びていくだろう。",
       "choice_data_list": [
         "Nếu là em, chắc chắn có thể vươn tới Dubai",
-        "Nếu là em thì mục tiêu Dubai hoàn toàn trong tầm tay"
+        "Nếu là bạn thì mục tiêu Dubai hoàn toàn trong tầm tay"
       ],
       "jpchoice_data_list": [
         "君ならドバイを目指せる",
@@ -337,7 +338,7 @@
       "jptext": "期待に潤んだ眼差しで見つめられる。しかし、\n『おねだり』されなくても、心はもう前に動いていた――",
       "choice_data_list": [
         "Anh sẽ trở thành Trainer của em!",
-        "Tôi sẽ trở thành Trainer của em!"
+        "Tôi sẽ trở thành Trainer của bạn!"
       ],
       "jpchoice_data_list": [
         "君のトレーナーになるよ！",
@@ -358,7 +359,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "...Đúng rồi đó! Mắt nhìn người của em lúc nào mà chẳng chuẩn xác chứ! Trecchi là đỉnh nhất! Em cũng là đỉnh nhất luôn nè♡",
+      "text": "...Đúng rồi đó! Mắt nhìn người của em lúc nào mà chẳng chuẩn xác chứ! Torecchi là đỉnh nhất! Em cũng là đỉnh nhất luôn nè♡",
       "jpname": "ヴィブロス",
       "jptext": "……そうっ！　私の目は、いつだって正しいもんね！\nトレっちって最高！　私も最高～♡",
       "choice_data_list": [

@@ -1,6 +1,7 @@
 {
   "title": "Tình yêu tôi luyện",
   "jptitle": "愛が磨く",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nhân viên bốc thăm",
@@ -38,8 +39,8 @@
       "jpname": "メジロラモーヌ",
       "jptext": "貴方、こういうところへいらっしゃるのね。",
       "choice_data_list": [
-        "Tôi trúng thưởng bốc thăm…… Còn cô thì hay đến đây à?",
-        "Tôi trúng thưởng bốc thăm…… Còn cô thì hay đến đây à?"
+        "Anh trúng thưởng bốc thăm…… Còn em thì hay đến đây à?",
+        "Tôi trúng thưởng bốc thăm…… Còn bạn thì hay đến đây à?"
       ],
       "jpchoice_data_list": [
         "福引で当たって……君はよく来るのか？",
@@ -66,7 +67,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Tùy người tự nhiên.",
+      "text": "Tùy anh tự nhiên.",
       "jpname": "メジロラモーヌ",
       "jptext": "ご自由になさったら？"
     },
@@ -102,7 +103,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Từ món này đến món này…… gói lại giúp tôi được chứ?",
+      "text": "Từ món này đến món này…… gói lại giúp em được chứ?",
       "jpname": "メジロラモーヌ",
       "jptext": "ここからここまで……包んでくださる？"
     },
@@ -242,7 +243,7 @@
       "jpname": "メジロラモーヌ",
       "jptext": "………。隅が……空虚ね。",
       "choice_data_list": [
-        "Nếu không chê, để tôi ra đó đứng nhé?",
+        "Nếu không chê, để anh ra đó đứng nhé?",
         "Nếu không chê, để tôi ra đó đứng nhé?"
       ],
       "jpchoice_data_list": [
@@ -276,7 +277,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "――Này người.",
+      "text": "――Này anh.",
       "jpname": "メジロラモーヌ",
       "jptext": "――貴方。",
       "choice_data_list": [
@@ -288,7 +289,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Hóa ra người lại có gương mặt như thế này nhỉ……",
+      "text": "Hóa ra anh lại có gương mặt như thế này nhỉ……",
       "jpname": "メジロラモーヌ",
       "jptext": "そんな顔をなさっていたのね……。"
     },
@@ -336,7 +337,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Cứ mỗi khi nhận ra thì người đã \"ở đó\". Người lúc nào cũng――",
+      "text": "Cứ mỗi khi nhận ra thì người đã \"ở đó\". Anh lúc nào cũng――",
       "jpname": "メジロラモーヌ",
       "jptext": "気づけば“いる”。貴方は、いつも――"
     },

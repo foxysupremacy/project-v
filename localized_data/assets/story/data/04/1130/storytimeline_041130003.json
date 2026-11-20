@@ -1,10 +1,11 @@
 {
   "title": "Hoàng hôn buông xuống, nhưng khi bình minh lên",
   "jptitle": "暮れなずむ、されど明ければ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Lucky Lilac",
-      "text": "Vâng, thế là pha chặt chém đầu tiên đã xuất hiện rồi đó quý vị. Ái chà, hình tượng này khác xa một Rara thướt tha, yêu kiều dịu dàng quá ta?",
+      "text": "Vâng, thế là pha chặt chém đầu tiên đã xuất hiện rồi đó quý vị. Ái chà, hình tượng này khác xa một Lala thướt tha, yêu kiều dịu dàng quá ta?",
       "jpname": "ラッキーライラック",
       "jptext": "はい、初ツッコミが入ったわけですけれども。\nいやぁ、たおやかで麗し～いララさんのイメージとちゃいますなぁ？",
       "choice_data_list": [
@@ -157,8 +158,8 @@
       "jpname": "モノローグ",
       "jptext": "オルフェーヴルに認められるために、必要なものは何か探るべく――\n今日からラッキーライラックのトレーニングを見ることになった。",
       "choice_data_list": [
-        "Trước hết tôi muốn xem em có thể làm được tới đâu",
-        "Trước hết tôi muốn xem em có thể làm được tới đâu"
+        "Trước hết anh muốn xem em có thể làm được tới đâu",
+        "Trước hết tôi muốn xem bạn có thể làm được tới đâu"
       ],
       "jpchoice_data_list": [
         "まずは君がどこまでできるのかを見たい",
@@ -245,7 +246,7 @@
       "jpname": "モノローグ",
       "jptext": "出口の見えないなか、どんな言葉をかければ正解なのかわからない。\nそれでも、憂いを含んだ横顔になんとか明るさを取り戻したくて――",
       "choice_data_list": [
-        "...Nhìn tay tôi này, Rara",
+        "...Nhìn tay anh này, Rara",
         "...Nhìn tay tôi này, Rara"
       ],
       "jpchoice_data_list": [
@@ -452,7 +453,7 @@
     },
     {
       "name": "",
-      "text": "Khơi dậy điểm mạnh của đối phương... điều đó cũng hoàn toàn đúng với mối quan hệ giữa Uma Musume và Trainer. Đúng lúc ấy, tôi chợt nhớ lại buổi tập luyện hồi ban ngày.",
+      "text": "Khơi dậy điểm mạnh của đối phương... điều đó cũng hoàn toàn đúng với mối quan hệ giữa mã nương và Trainer. Đúng lúc ấy, tôi chợt nhớ lại buổi tập luyện hồi ban ngày.",
       "jpname": "モノローグ",
       "jptext": "相手のよさを引き出す……それは、ウマ娘とトレーナーの関係にも\n当てはまる。その時、ふと――昼間のトレーニングを思い出した。",
       "choice_data_list": [

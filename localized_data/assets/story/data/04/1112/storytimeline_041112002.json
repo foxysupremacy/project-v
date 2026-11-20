@@ -1,6 +1,7 @@
 {
   "title": "Trái tim sắc sảo",
   "jptitle": "A Keen Heart",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -40,7 +41,7 @@
     },
     {
       "name": "",
-      "text": "Rhein Kraft, Cesario, Air Messiah―― Những Uma Musume đầy thực lực cùng chung chí hướng chinh phục con đường Tiara với Daring Heart.",
+      "text": "Rhein Kraft, Cesario, Air Messiah―― Những mã nương đầy thực lực cùng chung chí hướng chinh phục con đường Tiara với Daring Heart.",
       "jpname": "モノローグ",
       "jptext": "ラインクラフト、シーザリオ、エアメサイア――\nデアリングハートと同じティアラ路線志望の、強力なウマ娘たち。"
     },
@@ -210,8 +211,8 @@
       "jpname": "デアリングハート",
       "jptext": "そうよ……あなたのトレーナー生活も、私のクイーンへの道も、\n全部これから。ああ……とってもワクワクするわね！",
       "choice_data_list": [
-        "Nữ hoàng... ra là vậy, cô――",
-        "Nữ hoàng... ra là vậy, cô――"
+        "Nữ hoàng... ra là vậy, em――",
+        "Nữ hoàng... ra là vậy, bạn――"
       ],
       "jpchoice_data_list": [
         "クイーン……そうか、君は――",
@@ -310,8 +311,8 @@
       "jpname": "デアリングハート",
       "jptext": "……？　どうかした？",
       "choice_data_list": [
-        "――...Tôi thật sự rất lo cho cô...",
-        "――...Tôi thật sự rất lo cho cô..."
+        "――...Tôi thật sự rất lo cho em...",
+        "――...Tôi thật sự rất lo cho bạn..."
       ],
       "jpchoice_data_list": [
         "――……君が、心配だよ……",
@@ -362,7 +363,7 @@
     },
     {
       "name": "",
-      "text": "Cô ấy thật mạnh mẽ. Từ tâm hồn, ánh mắt cho đến niềm tin. Trước một Uma Musume kiên cường nhường này... có lẽ sức mọn của mình là không cần thiết.",
+      "text": "Cô ấy thật mạnh mẽ. Từ tâm hồn, ánh mắt cho đến niềm tin. Trước một mã nương kiên cường nhường này... có lẽ sức mọn của mình là không cần thiết.",
       "jpname": "モノローグ",
       "jptext": "彼女は強い。心も、眼差しも、信念も。\nこれほど強いウマ娘に……自分の力など、不要かもしれない。",
       "choice_data_list": [

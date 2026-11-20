@@ -1,6 +1,7 @@
 {
   "title": "Một là, cùng nhau thực thi chính nghĩa",
   "jptitle": "一、共に正義を行なうこと",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fenomeno",
@@ -62,7 +63,7 @@
       "jpname": "フェノーメノ",
       "jptext": "――ボス。",
       "choice_data_list": [
-        "Chúng tôi có thể cùng tham gia tìm kiếm với mọi người được không?",
+        "Chúng anh có thể cùng tham gia tìm kiếm với mọi người được không?",
         "Chúng tôi có thể góp sức vào việc tìm kiếm cùng mọi người được không?"
       ],
       "jpchoice_data_list": [
@@ -182,8 +183,8 @@
       "jpname": "フェノーメノ",
       "jptext": "ボス。この子たちを安全な場所まで連れて行ってください。\nそれと捜索隊に連絡し、万一に備えて水難救助の要請も。",
       "choice_data_list": [
-        "Còn cô định làm thế nào?",
-        "Còn em định làm sao?"
+        "Còn em định làm thế nào?",
+        "Còn bạn định làm sao?"
       ],
       "jpchoice_data_list": [
         "君はどうするんだ？",

@@ -1,10 +1,11 @@
 {
   "title": "Từ giờ nhờ anh hết đó nha, Trecchi?",
   "jptitle": "よろしくしようね、トレっち？",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Vivlos",
-      "text": "Nè nè Trecchi ơiii. Đống này bộ em phải ăn hết sạch thật hả anh?",
+      "text": "Nè nè Torecchi ơiii. Đống này bộ em phải ăn hết sạch thật hả anh?",
       "jpname": "ヴィブロス",
       "jptext": "ね～～～トレっちぃ～～～。\nこれほんとに、全部食べなきゃダメ？",
       "choice_data_list": [
@@ -29,7 +30,7 @@
       "jptext": "こんなにカロリー摂ったらスタイル悪くなっちゃうよー！\nせめて麺だけ、こんにゃくに変えてもいい？",
       "choice_data_list": [
         "Không được, em phải nạp thêm nhiều calo vào!",
-        "Không được đâu, em cần nạp thật nhiều calo hơn nữa!"
+        "Không được đâu, bạn cần nạp thật nhiều calo hơn nữa!"
       ],
       "jpchoice_data_list": [
         "いや、君はもっとカロリーを摂れ！",
@@ -184,13 +185,13 @@
     },
     {
       "name": "",
-      "text": "Đó là danh hiệu cao quý dành cho người chiến thắng cả ba giải Oka Sho, Oaks và Shuka Sho... Một đỉnh cao mà cách đây không lâu, đã có một Uma Musume chạm tới.",
+      "text": "Đó là danh hiệu cao quý dành cho người chiến thắng cả ba giải Oka Sho, Oaks và Shuka Sho... Một đỉnh cao mà cách đây không lâu, đã có một mã nương chạm tới.",
       "jpname": "モノローグ",
       "jptext": "それは『桜花賞』『オークス』『秋華賞』を勝利した者が\n得られる称号……その頂につい最近、達したウマ娘がいる。"
     },
     {
       "name": "",
-      "text": "Gentildonna――cô ấy đã xuất sắc trở thành một Uma Musume đoạt Triple Tiara, và người ngậm ngùi về nhì liên tiếp sau lưng cô ấy... chính là Verxina.",
+      "text": "Gentildonna――cô ấy đã xuất sắc trở thành một mã nương đoạt Triple Tiara, và người ngậm ngùi về nhì liên tiếp sau lưng cô ấy... chính là Verxina.",
       "jpname": "モノローグ",
       "jptext": "ジェンティルドンナ――彼女は見事トリプルティアラウマ娘になり、\nその陰で連続で2着だったのが……ヴィルシーナだった。"
     },
@@ -292,7 +293,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hi hi. Thấy chưa nè, chuẩn quá Trecchi ơi♪ Giờ anh xoa đầu khen bé ngoan tiếp đi mà?",
+      "text": "Hi hi. Thấy chưa nè, chuẩn quá Torecchi ơi♪ Giờ anh xoa đầu khen bé ngoan tiếp đi mà?",
       "jpname": "ヴィブロス",
       "jptext": "えへへっ。だよねー、トレっち♪\nいい子の続き、してしてー？"
     },
@@ -370,13 +371,13 @@
     },
     {
       "name": "Vivlos",
-      "text": "A khoan đã, hay là tổ chức tiệc trên xe limousine cũng được á? Trecchi thích cái nào nè? Hay là bao trọn cả cái hồ bơi luôn nha?",
+      "text": "A khoan đã, hay là tổ chức tiệc trên xe limousine cũng được á? Torecchi thích cái nào nè? Hay là bao trọn cả cái hồ bơi luôn nha?",
       "jpname": "ヴィブロス",
       "jptext": "あ、待って。ふつーにリムジンパーティーでもいいかも？\nトレっちはなにがいい？　プールとか貸し切っちゃう？"
     },
     {
       "name": "Vivlos",
-      "text": "Nhưng mà, đối với một quý cô thượng lưu tương lai thì chuẩn nhất vẫn phải là tiệc trên du thuyền rồi! Từ nay nhờ hết vào anh đó nha, Trecchi♪",
+      "text": "Nhưng mà, đối với một quý cô thượng lưu tương lai thì chuẩn nhất vẫn phải là tiệc trên du thuyền rồi! Từ nay nhờ hết vào anh đó nha, Torecchi♪",
       "jpname": "ヴィブロス",
       "jptext": "でもでも、未来のセレブには、やっぱり船上パーティーかな！\nよろしくね、トレっち♪"
     },
@@ -412,7 +413,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hi hi, nhìn vào mắt anh là em biết tỏng rồi nha♪ Hai tụi mình sẽ cùng nhau bay lượn ra khắp thế giới nha, Trecchi♡",
+      "text": "Hi hi, nhìn vào mắt anh là em biết tỏng rồi nha♪ Hai tụi mình sẽ cùng nhau bay lượn ra khắp thế giới nha, Torecchi♡",
       "jpname": "ヴィブロス",
       "jptext": "にひひ、目を見ればわかるもーん♪\nいっしょに世界まで飛んでっちゃおーね、トレっち♡"
     }

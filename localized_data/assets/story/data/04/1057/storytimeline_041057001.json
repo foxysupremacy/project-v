@@ -1,16 +1,17 @@
 {
   "title": "Rốt Cuộc Cậu Là Ai?",
   "jptitle": "お前は一体何者なのだ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "――Từng có một Uma Musume được xưng tụng là thần thoại.",
+      "text": "――Từng có một mã nương được xưng tụng là thần thoại.",
       "jpname": "モノローグ",
       "jptext": "――かつて、神話と呼ばれたウマ娘がいた。"
     },
     {
       "name": "",
-      "text": "15 chiến thắng trong 19 trận, Uma Musume thứ hai trong lịch sử đoạt Tam Miện Classic. Cô ấy đã để lại một niềm cuồng nhiệt vô bờ bến trên đường đua, thế nhưng――",
+      "text": "15 chiến thắng trong 19 trận, mã nương thứ hai trong lịch sử đoạt Tam Miện Classic. Cô ấy đã để lại một niềm cuồng nhiệt vô bờ bến trên đường đua, thế nhưng――",
       "jpname": "モノローグ",
       "jptext": "19戦中15勝、史上2人目のクラシック三冠ウマ娘。\n彼女はターフに大きな熱狂を残したが――"
     },
@@ -22,7 +23,7 @@
     },
     {
       "name": "",
-      "text": "Như muốn xé toạc bầu không khí bế tắc đến ngột ngạt ấy―― Có một cô gái Uma Musume đang mải miết phi nước đại giữa màn mưa trắng xóa.",
+      "text": "Như muốn xé toạc bầu không khí bế tắc đến ngột ngạt ấy―― Có một Mã Nương đang mải miết phi nước đại giữa màn mưa trắng xóa.",
       "jpname": "モノローグ",
       "jptext": "そんな、どこか行き詰まった空気を打ち破るかのように――\n雨の中、一心不乱に走るウマ娘がいた。"
     },
@@ -66,7 +67,7 @@
     },
     {
       "name": "",
-      "text": "Một Uma Musume làm rung chuyển mặt đất, rẽ màn mưa và lướt đi tựa cơn gió. Đến khi nhận ra thì tôi đã quên cả thở, bóng hình cô ấy rực rỡ đến choáng ngợp――",
+      "text": "Một mã nương làm rung chuyển mặt đất, rẽ màn mưa và lướt đi tựa cơn gió. Đến khi nhận ra thì tôi đã quên cả thở, bóng hình cô ấy rực rỡ đến choáng ngợp――",
       "jpname": "モノローグ",
       "jptext": "大地を揺らし、雨をはねのけて、風のように駆けるウマ娘。\n気づけば息をするのも忘れるほどに、彼女は鮮烈だった――"
     },
@@ -162,8 +163,8 @@
       "jpname": "モノローグ",
       "jptext": "その速さにくぎ付けになって、思わず立ち止まって見ていたこと、\nきっと他では見られない景色を見られると思ったこと。",
       "choice_data_list": [
-        "Nếu là cậu――",
-        "Chỉ cần là cậu――"
+        "Nếu là em――",
+        "Chỉ cần là bạn――"
       ],
       "jpchoice_data_list": [
         "君なら――",
@@ -214,7 +215,7 @@
     },
     {
       "name": "Trainer mới A",
-      "text": "Mẹ của cô ấy là một Uma Musume danh tiếng, còn bố là Trainer của bà ấy đấy! Là con gái của họ nên từ trước khi nhập học cô ấy đã nổi đình nổi đám rồi.",
+      "text": "Mẹ của cô ấy là một mã nương danh tiếng, còn bố là Trainer của bà ấy đấy! Là con gái của họ nên từ trước khi nhập học cô ấy đã nổi đình nổi đám rồi.",
       "jpname": "新人トレーナーA",
       "jptext": "母親が名ウマ娘で、父親がそのトレーナーだったのよ！\nその娘ってことで、入学前から噂になってて。",
       "choice_data_list": [
@@ -252,7 +253,7 @@
     },
     {
       "name": "",
-      "text": "Hóa ra cô ấy là một Uma Musume được săn đón vượt xa tưởng tượng của tôi. Giữa lúc tôi đang thất vọng rũ vai vì thấy mình không đủ tầm... người đồng nghiệp liền hạ giọng đầy ẩn ý.",
+      "text": "Hóa ra cô ấy là một mã nương được săn đón vượt xa tưởng tượng của tôi. Giữa lúc tôi đang thất vọng rũ vai vì thấy mình không đủ tầm... người đồng nghiệp liền hạ giọng đầy ẩn ý.",
       "jpname": "モノローグ",
       "jptext": "想像以上に人気のあるウマ娘だったようだ。分不相応だったのだと、\n肩を落としていると……同僚が、意味ありげに声を落とした。"
     },

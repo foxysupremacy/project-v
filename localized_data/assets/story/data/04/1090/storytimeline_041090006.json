@@ -1,6 +1,7 @@
 {
   "title": "Cơn mưa thuở nào",
   "jptitle": "いつかの、雨",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -62,7 +63,7 @@
       "jpname": "ヴィルシーナ",
       "jptext": "……フ？",
       "choice_data_list": [
-        "Không sao đâu―― tôi cũng vừa mới tới đây thôi mà",
+        "Không sao đâu―― anh cũng vừa mới tới đây thôi mà",
         "Đừng bận tâm―― tôi cũng chỉ vừa mới đến thôi"
       ],
       "jpchoice_data_list": [
@@ -142,8 +143,8 @@
       "jpname": "ヴィルシーナ",
       "jptext": "大人しくしていれば、刺してはきません。\nこのまま離れるのを待ちましょう。",
       "choice_data_list": [
-        "Nhưng mà nó đang bay về phía cô kìa……!",
-        "Nhưng con ong đang nhắm thẳng về phía Verxina đấy……!"
+        "Nhưng mà nó đang bay về phía em kìa……!",
+        "Nhưng con ong đang nhắm thẳng về phía bạn đấy……!"
       ],
       "jpchoice_data_list": [
         "でも、君のほうに飛んで……！",
@@ -304,7 +305,7 @@
       "jpname": "ヴィルシーナ",
       "jptext": "あら……。どうしましょう。\nこの辺りに、雨宿りできる場所は――",
       "choice_data_list": [
-        "Cứ giao cho tôi!",
+        "Cứ giao cho anh!",
         "Cứ để việc đó cho tôi!"
       ],
       "jpchoice_data_list": [
@@ -350,7 +351,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Nhưng làm vậy thì Trainer-san sẽ bị…… Tôi thì dính chút mưa cũng chẳng sao đâu――",
+      "text": "Nhưng làm vậy thì Trainer-san sẽ bị…… Em thì dính chút mưa cũng chẳng sao đâu――",
       "jpname": "ヴィルシーナ",
       "jptext": "でも、それだとトレーナーさんが……\n私なら、多少のことでは――",
       "choice_data_list": [
@@ -400,7 +401,7 @@
     },
     {
       "name": "Verxina",
-      "text": "……Tôi hiểu rồi. Vậy xin nhận lòng tốt của anh nhé.",
+      "text": "……Em hiểu rồi. Vậy xin nhận lòng tốt của anh nhé.",
       "jpname": "ヴィルシーナ",
       "jptext": "……わかりました。お言葉に甘えますね。"
     },

@@ -1,6 +1,7 @@
 {
   "title": "Thành phần gia đình: Bố, mẹ, chị gái, em, em gái",
   "jptitle": "家族構成：父、母、姉、僕、妹",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Cheval Grand",
@@ -130,13 +131,13 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Ứng cử viên số một khi ấy là một Uma Musume đoạt Tam Quan rực rỡ. Chị cả và Vivlos đều là người hâm mộ cuồng nhiệt của cô ấy, dán chặt mắt vào màn hình cổ vũ. Nhưng người chiến thắng lại là...",
+      "text": "Ứng cử viên số một khi ấy là một mã nương đoạt Tam Quan rực rỡ. Chị cả và Vivlos đều là người hâm mộ cuồng nhiệt của cô ấy, dán chặt mắt vào màn hình cổ vũ. Nhưng người chiến thắng lại là...",
       "jpname": "シュヴァルグラン",
       "jptext": "1番人気は、煌びやかな三冠ウマ娘。姉さんとヴィブロスは彼女の\nファンで、テレビに張りついて応援していた。でも勝ったのは――"
     },
     {
       "name": "Cheval Grand",
-      "text": "Là một Uma Musume từng bị che khuất dưới ánh hào quang chói lọi của cô nàng Tam Quan ấy.",
+      "text": "Là một mã nương từng bị che khuất dưới ánh hào quang chói lọi của cô nàng Tam Quan ấy.",
       "jpname": "シュヴァルグラン",
       "jptext": "三冠ウマ娘のまばゆい光に隠されていた、あるウマ娘だった。"
     },
@@ -160,7 +161,7 @@
     },
     {
       "name": "Cheval hồi nhỏ",
-      "text": "Dù có chuyện gì xảy ra cũng không chùn bước, tự tay đoạt lấy những tràng pháo tay tán thưởng... Trở thành một \"Uma Musume vĩ đại\" như cô ấy!",
+      "text": "Dù có chuyện gì xảy ra cũng không chùn bước, tự tay đoạt lấy những tràng pháo tay tán thưởng... Trở thành một \"mã nương vĩ đại\" như cô ấy!",
       "jpname": "幼いシュヴァル",
       "jptext": "何があってもくじけず、自ら喝采を奪い取れるような――\n彼女のような“偉大なウマ娘”に！"
     },
@@ -190,7 +191,7 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "Dạ vâng! Mình là Kitasan Black! Mục tiêu của mình là trở thành một Uma Musume mạnh mẽ và tỏa sáng lấp lánh như chị Tokai Teio!",
+      "text": "Dạ vâng! Mình là Kitasan Black! Mục tiêu của mình là trở thành một mã nương mạnh mẽ và tỏa sáng lấp lánh như chị Tokai Teio!",
       "jpname": "キタサンブラック",
       "jptext": "はいっ！　キタサンブラックです！　目標はトウカイテイオーさん\nみたいな強くてピッカピカなウマ娘になること！"
     },
@@ -238,7 +239,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "...Một đứa hèn nhát nhút nhát như mình... làm sao mà trở thành một Uma Musume vĩ đại được chứ...",
+      "text": "...Một đứa hèn nhát nhút nhát như mình... làm sao mà trở thành một mã nương vĩ đại được chứ...",
       "jpname": "シュヴァルグラン",
       "jptext": "……こんな弱虫な僕が……、\n偉大なウマ娘になんか、なれるわけ、ない……。",
       "choice_data_list": [
@@ -262,7 +263,7 @@
     },
     {
       "name": "",
-      "text": "Em ấy là một Uma Musume có tài. Dù chưa rõ khái niệm \"Uma Musume vĩ đại\" cụ thể ra sao, nhưng tôi không nghĩ rằng em lại không thể tạo nên thành tích nào trong tương lai.",
+      "text": "Em ấy là một mã nương có tài. Dù chưa rõ khái niệm \"mã nương vĩ đại\" cụ thể ra sao, nhưng tôi không nghĩ rằng em lại không thể tạo nên thành tích nào trong tương lai.",
       "jpname": "モノローグ",
       "jptext": "彼女は才能のあるウマ娘だ。“偉大なウマ娘”――がどういった\nものかはともかく、今後全く結果を残せないとは思えない。"
     },

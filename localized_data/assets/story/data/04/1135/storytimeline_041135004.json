@@ -1,6 +1,7 @@
 {
   "title": "Khởi đầu đằng đẵng",
   "jptitle": "永き始まり",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -40,8 +41,8 @@
       "jpname": "モノローグ",
       "jptext": "……あまりにも突飛な話だ。しかし自分はもう、\n不可思議な現象と、その実在感に触れてしまっている……――",
       "choice_data_list": [
-        "Thứ đó của cậu... tựa như kiếp trước sao?",
-        "Chuyện đó của cậu... giống như tiền kiếp à?"
+        "Thứ đó của em... tựa như kiếp trước sao?",
+        "Chuyện đó của bạn... giống như tiền kiếp à?"
       ],
       "jpchoice_data_list": [
         "君のそれは…………前世、みたいなものか？",
@@ -104,8 +105,8 @@
       "jpname": "ステイゴールド",
       "jptext": "ハハッ。やっぱあんた、変わってるよ。ま、だからこそか。\n……とりあえず、今話せるのはこんな感じだな。満足したかい？",
       "choice_data_list": [
-        "...Cậu lần theo ký ức ấy rồi định làm gì?",
-        "...Dõi theo những ký ức ấy rồi cậu tính làm sao?"
+        "...Em lần theo ký ức ấy rồi định làm gì?",
+        "...Dõi theo những ký ức ấy rồi bạn tính làm sao?"
       ],
       "jpchoice_data_list": [
         "……君は、記憶を辿ってどうするつもりだ？",
@@ -156,7 +157,7 @@
     },
     {
       "name": "",
-      "text": "...Một tâm niệm dần kết tinh trong lòng tôi. Đó là tiềm năng vô hạn mà tôi đã nhìn thấy ở cô nàng Uma Musume mang tên Stay Gold...",
+      "text": "...Một tâm niệm dần kết tinh trong lòng tôi. Đó là tiềm năng vô hạn mà tôi đã nhìn thấy ở cô nàng mã nương mang tên Stay Gold...",
       "jpname": "モノローグ",
       "jptext": "……ひとつの想いが、胸の内で結実していく。\nそれは自分が見た、ステイゴールドというウマ娘への可能性――"
     },
@@ -203,7 +204,7 @@
       "jptext": "1着はステイゴールドッ！！\n力強い走りでねじ伏せ、選抜レースを制した！！"
     },
     {
-      "name": "Uma Musume tham gia",
+      "name": "Mã Nương tham gia",
       "text": "Hà... hà... c-chưa từng nghe nói... tiền bối lại mạnh đến mức này...! Chẳng phải tiền bối... chỉ là người suốt ngày la cà trốn việc thôi sao...!?",
       "jpname": "出走ウマ娘",
       "jptext": "はぁっ……はぁっ……き、聞いてない……こんな強いとか……！\nフラフラして、サボってる先輩じゃ……なかったの……！？"
@@ -276,8 +277,8 @@
       "jpname": "ステイゴールド",
       "jptext": "提案？　……どんな？",
       "choice_data_list": [
-        "Hãy để tôi làm cho chuyến hành trình của cậu trở nên thú vị hơn nữa",
-        "Hãy để tôi biến chuyến đi của cậu thành một hành trình thú vị hơn"
+        "Hãy để tôi làm cho chuyến hành trình của em trở nên thú vị hơn nữa",
+        "Hãy để tôi biến chuyến đi của bạn thành một hành trình thú vị hơn"
       ],
       "jpchoice_data_list": [
         "君の旅を、俺にもっと面白くさせてくれ",
@@ -286,7 +287,7 @@
     },
     {
       "name": "",
-      "text": "Từ khoảnh khắc đầu tiên được tận mắt chứng kiến những bước chạy ấy ở cự ly gần, tôi vẫn luôn tin rằng Stay Gold là một Uma Musume tuyệt vời đang ẩn giấu tố chất hoàng kim.",
+      "text": "Từ khoảnh khắc đầu tiên được tận mắt chứng kiến những bước chạy ấy ở cự ly gần, tôi vẫn luôn tin rằng Stay Gold là một mã nương tuyệt vời đang ẩn giấu tố chất hoàng kim.",
       "jpname": "モノローグ",
       "jptext": "初めてその走りを間近で見たときから、ずっと思っていた。\nステイゴールドは、黄金の素質を秘めた素晴らしいウマ娘だと。"
     },
@@ -310,8 +311,8 @@
       "jpname": "モノローグ",
       "jptext": "彼女は言った。今の自分は、別世界の自分とはまるで違う形だと。\nそれはつまり、すでに違う道を歩み始めているということだ。",
       "choice_data_list": [
-        "Lần đầu tiên gặp nhau, cậu đã từng nói rồi đấy",
-        "Ngày đầu tao ngộ, cậu từng bảo rồi mà"
+        "Lần đầu tiên gặp nhau, em đã từng nói rồi đấy",
+        "Ngày đầu tao ngộ, bạn từng bảo rồi mà"
       ],
       "jpchoice_data_list": [
         "初めて会った時、君は言っていたよ",

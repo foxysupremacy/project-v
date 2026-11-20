@@ -1,6 +1,7 @@
 {
   "title": "Cuộc hành quân của Thánh Nữ",
   "jptitle": "聖女の行進",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -40,7 +41,7 @@
       "jpname": "レッドディザイア",
       "jptext": "この目で確かめに行こうと思うのです。\nそれで……よろしければ、ご一緒にいかがでしょうか？",
       "choice_data_list": [
-        "Cảnh sắc đặc biệt à. Có khi tôi cũng muốn xem thử đấy",
+        "Cảnh sắc đặc biệt à. Có khi anh cũng muốn xem thử đấy",
         "Cảnh sắc đặc biệt à. Có khi tôi cũng muốn xem thử đấy"
       ],
       "jpchoice_data_list": [
@@ -138,8 +139,8 @@
       "jpname": "モノローグ",
       "jptext": "ウキウキと先を進むレッドディザイア。クッキーの用意を考えると、\nおそらく以前からこのピクニックを計画していたのだろう。",
       "choice_data_list": [
-        "(Cô bé rủ mình đi cùng thế này, vui thật đấy)",
-        "(Cô bé rủ mình đi cùng thế này, vui thật đấy)"
+        "(Em bé rủ mình đi cùng thế này, vui thật đấy)",
+        "(Bạn bé rủ mình đi cùng thế này, vui thật đấy)"
       ],
       "jpchoice_data_list": [
         "（そこに俺を誘ってくれて、嬉しいな）",
@@ -316,7 +317,7 @@
       "jpname": "レッドディザイア",
       "jptext": "天よ、地よ、“かの地”のあまねく精霊よ……！\n我が祈りにマナの力を――！",
       "choice_data_list": [
-        "(Lời cầu nguyện của chúng tôi…… hãy chạm tới trời cao!)",
+        "(Lời cầu nguyện của chúng anh…… hãy chạm tới trời cao!)",
         "(Lời cầu nguyện của chúng tôi…… hãy chạm tới trời cao!)"
       ],
       "jpchoice_data_list": [
@@ -408,7 +409,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "……Trainer-san. Tôi là Uma Musume được người quản lý——và cũng là Thánh Nữ.",
+      "text": "……Trainer-san. Tôi là mã nương được người quản lý——và cũng là Thánh Nữ.",
       "jpname": "レッドディザイア",
       "jptext": "……トレーナーさん。\n私は貴方の担当ウマ娘で――そして、聖女です。"
     },

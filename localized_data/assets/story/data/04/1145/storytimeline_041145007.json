@@ -1,6 +1,7 @@
 {
   "title": "Tương Tác Bằng Chiến Thuật Chính Thống",
   "jptitle": "正攻法インタラクション",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -29,7 +30,7 @@
       "choice_data_list": []
     },
     {
-      "name": "Umamusume A",
+      "name": "Mã Nương A",
       "text": "Này này, Ruler với Trainer-san ơi! Hai người đã nghe chuyện về lễ hội đền chưa? Chiều tối nay ở ngôi đền gần đây có tổ chức đấy!",
       "jpname": "ウマ娘A",
       "jptext": "ねぇねぇ、ルーラーとトレーナーさん！　縁日の話聞いた？\n夕方から近くの神社でやるんだって～♪",
@@ -64,7 +65,7 @@
       "choice_data_list": []
     },
     {
-      "name": "Umamusume A",
+      "name": "Mã Nương A",
       "text": "Thế nên cả lớp đang rủ nhau cùng đi đấy! Ruler có muốn đi cùng bọn tớ không?",
       "jpname": "ウマ娘A",
       "jptext": "それでね、クラスのみんなで行こうって話してたの！\nルーラーも来ない？",
@@ -441,12 +442,12 @@
     },
     {
       "name": "Rulership",
-      "text": "Chẳng phải vì là Umamusume mình phụ trách nên mới bất đắc dĩ chiều theo đấy chứ? Không phải trong bụng đang nghĩ \"cô bé này phiền phức quá đi\" sao?",
+      "text": "Chẳng phải vì là mã nương mình phụ trách nên mới bất đắc dĩ chiều theo đấy chứ? Không phải trong bụng đang nghĩ \"cô bé này phiền phức quá đi\" sao?",
       "jpname": "ルーラーシップ",
       "jptext": "担当ウマ娘だから、仕方なく付き合ってるんじゃないですかぁ？\n『こいつめんどくせぇ～』って思ってません？",
       "choice_data_list": [
         "Đó cũng là một phần con người em mà.",
-        "Đó cũng là một phần con người em mà."
+        "Đó cũng là một phần con người bạn mà."
       ],
       "jpchoice_data_list": [
         "それも含めて君だし",
@@ -467,7 +468,7 @@
     },
     {
       "name": "",
-      "text": "Đó mới chính là một cô nàng Umamusume mang tên Rulership. Tôi bộc bạch rằng mình đã sẵn sàng đồng hành cùng em ấy đến bất cứ chân trời góc bể nào.",
+      "text": "Đó mới chính là một cô nàng mã nương mang tên Rulership. Tôi bộc bạch rằng mình đã sẵn sàng đồng hành cùng em ấy đến bất cứ chân trời góc bể nào.",
       "jpname": "モノローグ",
       "jptext": "それがルーラーシップというウマ娘だ。\nどこまでも付き合う覚悟はできている、と伝えた。",
       "choice_data_list": []
@@ -486,7 +487,7 @@
     },
     {
       "name": "Rulership",
-      "text": "...! T-Thì, một Umamusume tầm cỡ như ta đâu phải dễ tìm.",
+      "text": "...! T-Thì, một mã nương tầm cỡ như ta đâu phải dễ tìm.",
       "jpname": "ルーラーシップ",
       "jptext": "っ…………！\nま、まぁ俺ほどのウマ娘は、そうそういないからな。",
       "choice_data_list": []
@@ -524,7 +525,7 @@
     },
     {
       "name": "",
-      "text": "Quả thực Rulership là một Umamusume rất khó chiều... Nhưng những lời em ấy nói chẳng hề, phải nói là hoàn toàn không sai chút nào...",
+      "text": "Quả thực Rulership là một mã nương rất khó chiều... Nhưng những lời em ấy nói chẳng hề, phải nói là hoàn toàn không sai chút nào...",
       "jpname": "モノローグ",
       "jptext": "やはりルーラーシップは難しいウマ娘だ……。\nだが彼女の言葉はあながち、いや全然、間違いではない――",
       "choice_data_list": []

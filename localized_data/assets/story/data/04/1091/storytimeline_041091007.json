@@ -1,16 +1,17 @@
 {
   "title": "Trái tim em rộn ràng đập nhanh ♡",
   "jptitle": "My Heart Is Racing ♡",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "Bầu trời trong xanh. Ánh mặt trời chói chang. Đợt tập huấn mùa hè, nơi các Uma Musume nỗ lực vươn mình bứt phá, cuối cùng đã đến! Đáng lẽ phải là như thế, nhưng――",
+      "text": "Bầu trời trong xanh. Ánh mặt trời chói chang. Đợt tập huấn mùa hè, nơi các mã nương nỗ lực vươn mình bứt phá, cuối cùng đã đến! Đáng lẽ phải là như thế, nhưng――",
       "jpname": "モノローグ",
       "jptext": "青い空。照りつける太陽。\nウマ娘たちが成長を争う、夏合宿がやってきた！　はずなのだが――"
     },
     {
       "name": "Vivlos",
-      "text": "Trecchi ơiii! Đằng này nè anh ơi♪",
+      "text": "Torecchi ơiii! Đằng này nè anh ơi♪",
       "jpname": "ヴィブロス",
       "jptext": "トレっち～！　こっちこっち♪"
     },
@@ -28,7 +29,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Chuyện là Trecchi ơi, em có điều này muốn xin anh nè♪ Đợt tập huấn mùa hè em sẽ cố gắng thật nhiều, thật là nhiều luôn! Thế nên là♪",
+      "text": "Chuyện là Torecchi ơi, em có điều này muốn xin anh nè♪ Đợt tập huấn mùa hè em sẽ cố gắng thật nhiều, thật là nhiều luôn! Thế nên là♪",
       "jpname": "ヴィブロス",
       "jptext": "あのねートレっち～、お願いがあるの♪\n私ね、夏合宿いっぱい、い～っぱいがんばるから！　だからっ♪"
     },
@@ -40,7 +41,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Ngày nào tụi mình cũng cày cuốc cật lực rồi mà! Hôm nay phải bung xõa xả hơi cho lại sức chứ, Trecchi ha♡",
+      "text": "Ngày nào tụi mình cũng cày cuốc cật lực rồi mà! Hôm nay phải bung xõa xả hơi cho lại sức chứ, Torecchi ha♡",
       "jpname": "ヴィブロス",
       "jptext": "私たち、毎日ちょーがんばってるもん！\n今日はリフレッシュしちゃおーね、トレっち♡"
     },
@@ -52,7 +53,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Và chính vì thế... Trecchi muốn làm gì trước nè!?",
+      "text": "Và chính vì thế... Torecchi muốn làm gì trước nè!?",
       "jpname": "ヴィブロス",
       "jptext": "と、いうわけで……トレっち、なにしたい！？",
       "choice_data_list": [
@@ -64,7 +65,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hưm♡ Món sinh tố này ngon ghê á! Hơi mằn mặn một xíu mà uống vào thấy tỉnh cả người luôn nè! Chuẩn không Trecchi♡",
+      "text": "Hưm♡ Món sinh tố này ngon ghê á! Hơi mằn mặn một xíu mà uống vào thấy tỉnh cả người luôn nè! Chuẩn không Torecchi♡",
       "jpname": "ヴィブロス",
       "jptext": "ん～♡　このスムージー、おいし！\nちょびっとしょっぱくて、めっちゃ元気になる味だね！　トレっち♡",
       "choice_data_list": [
@@ -78,7 +79,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Dạ chuẩn luôn! Bình thường em chẳng bao giờ chọn loại này đâu nha! Hừm, hóa ra gu của Trecchi là kiểu này ta.",
+      "text": "Dạ chuẩn luôn! Bình thường em chẳng bao giờ chọn loại này đâu nha! Hừm, hóa ra gu của Torecchi là kiểu này ta.",
       "jpname": "ヴィブロス",
       "jptext": "うんうんっ！　いつも選ばないタイプ！\nふーん、トレっちこういうの好きなんだ。"
     },
@@ -89,7 +90,7 @@
       "jptext": "それでそれで、次はどーする？？\nここけっこー広いし、エンタメ施設もいっぱいだよ～！",
       "choice_data_list": [
         "...Em không cần làm những việc mình thích sao?",
-        "...Em không làm những gì em muốn làm à?"
+        "...Bạn không làm những gì bạn muốn làm à?"
       ],
       "jpchoice_data_list": [
         "……君のやりたいこと、しないでいいのか？",
@@ -98,7 +99,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Ủa? Việc em thích thì em đang làm rồi mà? \"Làm những điều Trecchi thích!\" Hôm nay phương châm là vậy đó nha♡",
+      "text": "Ủa? Việc em thích thì em đang làm rồi mà? \"Làm những điều Torecchi thích!\" Hôm nay phương châm là vậy đó nha♡",
       "jpname": "ヴィブロス",
       "jptext": "えー？　やりたいことなら、やってるよ？\n『トレっちのやりたいことをする！』今日はこれっ♡"
     },
@@ -124,7 +125,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "A ha ha! Mắt Trecchi sáng rực lên luôn rồi kìa! Trong đầu anh lúc nào cũng chỉ có đua với chạy thôi hà!",
+      "text": "A ha ha! Mắt Torecchi sáng rực lên luôn rồi kìa! Trong đầu anh lúc nào cũng chỉ có đua với chạy thôi hà!",
       "jpname": "ヴィブロス",
       "jptext": "あははっ！　トレっちってば、目キラキラ！\nレース脳なんだから～！"
     },
@@ -160,7 +161,7 @@
     },
     {
       "name": "???",
-      "text": "――... ...――... Nè... Trecchi... ơi...?",
+      "text": "――... ...――... Nè... Torecchi... ơi...?",
       "jpname": "？？？",
       "jptext": "――……\n……――……っ……ぉーぃ……ぉ……～？"
     },
@@ -214,7 +215,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "――Dạ đúng rồi đó! Gia đình em với bác ấy là chỗ quen biết thân thiết từ lâu rồi. Bác ơi, cháu vừa cùng Trecchi đi spa về nè!",
+      "text": "――Dạ đúng rồi đó! Gia đình em với bác ấy là chỗ quen biết thân thiết từ lâu rồi. Bác ơi, cháu vừa cùng Torecchi đi spa về nè!",
       "jpname": "ヴィブロス",
       "jptext": "――そそ！　家族ぐるみでお友だちなの。\nあのねオーナーちゃん、今トレっちとスパしてきたんだ～！"
     },
@@ -244,7 +245,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Giờ mình đi thôi nào! Trecchi muốn ăn món gì nè?",
+      "text": "Giờ mình đi thôi nào! Torecchi muốn ăn món gì nè?",
       "jpname": "ヴィブロス",
       "jptext": "じゃ、いこっか！　トレっち、なに食べたいー？",
       "choice_data_list": [
@@ -264,7 +265,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Em đã nói rồi mà? Hôm nay em chỉ muốn làm những điều mà Trecchi thích thôi♪",
+      "text": "Em đã nói rồi mà? Hôm nay em chỉ muốn làm những điều mà Torecchi thích thôi♪",
       "jpname": "ヴィブロス",
       "jptext": "言ったでしょ？　今日はトレっちのやりたいこと、したいの♪"
     },
@@ -302,7 +303,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Dêêê thắng lớn rồiii...! Kế hoạch \"Yêu thương chăm sóc Trecchi\" thành công rực rỡ luôn♡♡♡",
+      "text": "Dêêê thắng lớn rồiii...! Kế hoạch \"Yêu thương chăm sóc Torecchi\" thành công rực rỡ luôn♡♡♡",
       "jpname": "ヴィブロス",
       "jptext": "やっっっったぁ～～……！\n『トレっちを大事に作戦』だいせいこー♡♡♡"
     },
@@ -319,7 +320,7 @@
       "jptext": "確かに、彼女が『大事に』してくれたおかげで、\n今日はとても癒された。……の、だが――",
       "choice_data_list": [
         "Em không cảm thấy buồn chán sao...",
-        "Em đâu có được vui chơi thỏa thích theo ý mình..."
+        "Bạn đâu có được vui chơi thỏa thích theo ý mình..."
       ],
       "jpchoice_data_list": [
         "君は楽しめなかったんじゃ……",
@@ -352,7 +353,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hệt như chiếc túi của ông lão hay chiếc túi của Trecchi vậy, em cũng tự hỏi liệu mình... có thể tìm thấy một niềm xao xuyến mà bản thân muốn nâng niu trân trọng mãi mãi hay không.",
+      "text": "Hệt như chiếc túi của ông lão hay chiếc túi của Torecchi vậy, em cũng tự hỏi liệu mình... có thể tìm thấy một niềm xao xuyến mà bản thân muốn nâng niu trân trọng mãi mãi hay không.",
       "jpname": "ヴィブロス",
       "jptext": "おじいさんの鞄やトレっちの鞄みたいに、\n私も……ずっと大事にしたいようなときめき、あるかなーって。"
     },

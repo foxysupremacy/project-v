@@ -1,6 +1,7 @@
 {
   "title": "Mối Quan Hệ Giữa Nghỉ Ngơi Và Hiệu Suất",
   "jptitle": "『休養とパフォーマンスの関係』",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -26,8 +27,8 @@
       "jpname": "エアメサイア",
       "jptext": "――あ、トレーナーさん。こんにちは。\nお買い物ですか？",
       "choice_data_list": [
-        "À, tôi đi tìm giáo trình ấy mà. Còn cô thì sao?",
-        "À, tôi đi tìm giáo trình ấy mà. Còn cô thì sao?"
+        "À, anh đi tìm giáo trình ấy mà. Còn em thì sao?",
+        "À, tôi đi tìm giáo trình ấy mà. Còn bạn thì sao?"
       ],
       "jpchoice_data_list": [
         "ああ、教本をね。君は？",
@@ -66,7 +67,7 @@
       "jpname": "エアメサイア",
       "jptext": "トレーナーさんのほうは、いかがでしょうか。\n本日はどのような休養をお過ごしに？",
       "choice_data_list": [
-        "Hả, tôi á?",
+        "Hả, anh á?",
         "Hả, tôi á?"
       ],
       "jpchoice_data_list": [
@@ -276,8 +277,8 @@
       "jpname": "モノローグ",
       "jptext": "久々に訪れた穏やかな時間。\nいつもよりすごく、時間がゆっくり流れている気がする……。",
       "choice_data_list": [
-        "Nhờ có cô mà hôm nay tôi đã có một ngày thật ý nghĩa",
-        "Nhờ có cô mà hôm nay tôi đã có một ngày thật ý nghĩa"
+        "Nhờ có em mà hôm nay anh đã có một ngày thật ý nghĩa",
+        "Nhờ có bạn mà hôm nay tôi đã có một ngày thật ý nghĩa"
       ],
       "jpchoice_data_list": [
         "君のおかげで、充実した1日を過ごせたよ",
@@ -314,8 +315,8 @@
       "jpname": "モノローグ",
       "jptext": "そして、オンとオフをきっちり分けているエアメサイアの姿に、\nすごくいい影響をもらったこと。",
       "choice_data_list": [
-        "Từ giờ tôi cũng muốn học theo cô xem sao",
-        "Từ giờ tôi cũng muốn học theo cô xem sao"
+        "Từ giờ anh cũng muốn học theo em xem sao",
+        "Từ giờ tôi cũng muốn học theo bạn xem sao"
       ],
       "jpchoice_data_list": [
         "俺もこれからは、君のようにしたいと思う",
@@ -384,7 +385,7 @@
     },
     {
       "name": "",
-      "text": "Nếu vì lơ là việc nghỉ ngơi mà khiến hiệu suất giảm sút, công tác hướng dẫn cho Uma Musume do mình phụ trách chắc chắn cũng sẽ bị ảnh hưởng theo.",
+      "text": "Nếu vì lơ là việc nghỉ ngơi mà khiến hiệu suất giảm sút, công tác hướng dẫn cho mã nương do mình phụ trách chắc chắn cũng sẽ bị ảnh hưởng theo.",
       "jpname": "モノローグ",
       "jptext": "休養をおろそかにすることでパフォーマンスが落ちてしまっては、\n担当するウマ娘への指導にも影響が出てくる。"
     },

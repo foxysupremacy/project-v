@@ -1,16 +1,17 @@
 {
   "title": "Bản hợp đồng",
   "jptitle": "Contract",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "Quỹ đạo của nàng Uma Musume ấy... tựa như một \"chuyến lữ hành\" thật dài. Mọi ký ức về cô ấy đều tỏa sáng lấp lánh như hoàng kim——",
+      "text": "Quỹ đạo của nàng mã nương ấy... tựa như một \"chuyến lữ hành\" thật dài. Mọi ký ức về cô ấy đều tỏa sáng lấp lánh như hoàng kim——",
       "jpname": "モノローグ",
       "jptext": "そのウマ娘の軌跡は……長い長い、“旅”に似ていた。\n思い出す彼女の全てが、まるで黄金のように輝いている――"
     },
     {
       "name": "",
-      "text": "Những Uma Musume từng cạnh tranh cùng cô ấy ai nấy đều vô cùng tài năng và rực rỡ. Dù là bạn cùng thế hệ, tiền bối hay hậu bối... cô ấy vẫn miệt mài đuổi theo bóng lưng của họ.",
+      "text": "Những mã nương từng cạnh tranh cùng cô ấy ai nấy đều vô cùng tài năng và rực rỡ. Dù là bạn cùng thế hệ, tiền bối hay hậu bối... cô ấy vẫn miệt mài đuổi theo bóng lưng của họ.",
       "jpname": "モノローグ",
       "jptext": "彼女の競い合ったウマ娘たちはみな、実に才能豊かで華やかだった。\n同世代も、先輩も、後輩も……彼女はひたすら、背中を追い続けた。"
     },
@@ -28,7 +29,7 @@
     },
     {
       "name": "",
-      "text": "Kể từ ngày ấy, tôi đã xác định được ước mơ của đời mình. Rằng với tư cách một Trainer, một ngày nào đó tôi sẽ đào tạo nên một Uma Musume \"không thể nào quên\" như cô ấy——",
+      "text": "Kể từ ngày ấy, tôi đã xác định được ước mơ của đời mình. Rằng với tư cách một Trainer, một ngày nào đó tôi sẽ đào tạo nên một mã nương \"không thể nào quên\" như cô ấy——",
       "jpname": "モノローグ",
       "jptext": "その日から、自分の夢は決まった。トレーナーとして、\nいつか彼女のような、“忘れられない”ウマ娘を育てるのだと――",
       "choice_data_list": [
@@ -40,13 +41,13 @@
     },
     {
       "name": "",
-      "text": "Một kẻ còn non nớt như tôi vẫn chưa có Uma Musume nào phụ trách. Thực tế là những cô bé tôi nhắm đến đều lần lượt từ chối lời chiêu mộ.",
+      "text": "Một kẻ còn non nớt như tôi vẫn chưa có mã nương nào phụ trách. Thực tế là những cô bé tôi nhắm đến đều lần lượt từ chối lời chiêu mộ.",
       "jpname": "モノローグ",
       "jptext": "未熟な自分には、まだ担当ウマ娘はいない。\n能力を見込んだ子に、軒並みスカウトを断られているのが現状だ。"
     },
     {
       "name": "",
-      "text": "Nếu đã vậy, việc tôi cần làm là tích cực nỗ lực để trở thành một Trainer đáng tin cậy. Hôm nay khi ghé thư viện để học tập, tôi bỗng chú ý đến một Uma Musume.",
+      "text": "Nếu đã vậy, việc tôi cần làm là tích cực nỗ lực để trở thành một Trainer đáng tin cậy. Hôm nay khi ghé thư viện để học tập, tôi bỗng chú ý đến một mã nương.",
       "jpname": "モノローグ",
       "jptext": "であれば、信頼に足るトレーナーとして前向きに努力をするのみだ。\n今日も勉強のため図書室を訪れると――1人のウマ娘が気になった。",
       "choice_data_list": [
@@ -168,7 +169,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Những chuyến viễn chinh là điều thường nhật đối với các Uma Musume... chính vì vậy nó mới vô cùng quan trọng. Hỗ trợ toàn diện cho hành trình của mọi người, đó là sứ mệnh của tôi.",
+      "text": "Những chuyến viễn chinh là điều thường nhật đối với các mã nương... chính vì vậy nó mới vô cùng quan trọng. Hỗ trợ toàn diện cho hành trình của mọi người, đó là sứ mệnh của tôi.",
       "jpname": "ドリームジャーニー",
       "jptext": "遠征とは、ウマ娘にとって日常的なもの……故に重要なのです。\n皆さんの旅を万全にサポートする、それが使命だと思っています。",
       "choice_data_list": [
@@ -186,7 +187,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Lần tới, Trainer-san cũng hãy cùng Uma Musume phụ trách của mình ghé qua nhé. Bất cứ điều gì tôi cũng sẵn lòng tư vấn cho anh.",
+      "text": "Lần tới, Trainer-san cũng hãy cùng mã nương phụ trách của mình ghé qua nhé. Bất cứ điều gì tôi cũng sẵn lòng tư vấn cho anh.",
       "jpname": "ドリームジャーニー",
       "jptext": "トレーナーさんも今度、是非、担当ウマ娘といらしてください。\nなんでも、ご相談に乗りますよ。",
       "choice_data_list": [
@@ -198,7 +199,7 @@
     },
     {
       "name": "",
-      "text": "Ngày mai, tôi có hẹn tới xem buổi tập của một Uma Musume. Dù vẫn còn chút băn khoăn, nhưng biết đâu lần này tôi có thể ký hợp đồng phụ trách.",
+      "text": "Ngày mai, tôi có hẹn tới xem buổi tập của một mã nương. Dù vẫn còn chút băn khoăn, nhưng biết đâu lần này tôi có thể ký hợp đồng phụ trách.",
       "jpname": "モノローグ",
       "jptext": "明日、あるウマ娘のトレーニングを見ることになっていた。\n気がかりはあるものの、今回こそ担当契約を結べるかもしれない。"
     },
@@ -334,7 +335,7 @@
     },
     {
       "name": "",
-      "text": "Nàng Uma Musume mà tôi từng ủng hộ ngày trước cũng thuộc dạng nhỏ nhắn. Thế nhưng cô ấy vẫn bền bỉ bước qua từng trận đấu và giành lấy chiến thắng lẫy lừng.",
+      "text": "nàng mã nương mà tôi từng ủng hộ ngày trước cũng thuộc dạng nhỏ nhắn. Thế nhưng cô ấy vẫn bền bỉ bước qua từng trận đấu và giành lấy chiến thắng lẫy lừng.",
       "jpname": "モノローグ",
       "jptext": "自分が応援していたウマ娘だって、小柄なほうではあった。\nそれでも彼女はタフにレースを重ね、大金星を手にした。",
       "choice_data_list": [
@@ -356,8 +357,8 @@
       "jpname": "モノローグ",
       "jptext": "少し胸が痛くなった。彼女の才能を思えば、このまま\nじりじりしているのはもったいない。何か力になってあげたいが――",
       "choice_data_list": [
-        "Nếu cô không chê, tôi có thể hướng dẫn tập luyện cho cô chứ?",
-        "Nếu cô không chê, để tôi hướng dẫn tập luyện cho cô nhé?"
+        "Nếu em không chê, anh có thể hướng dẫn tập luyện cho em chứ?",
+        "Nếu bạn không chê, để tôi hướng dẫn tập luyện cho bạn nhé?"
       ],
       "jpchoice_data_list": [
         "俺でよければ、トレーニングを見ようか？",
@@ -378,13 +379,13 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Giữa Uma Musume và Trainer luôn có bản hợp đồng phụ trách được ký kết. Đó là bản khế ước quan trọng để cùng nhau sát cánh trên đấu trường Twinkle Series...",
+      "text": "Giữa mã nương và Trainer luôn có bản hợp đồng phụ trách được ký kết. Đó là bản khế ước quan trọng để cùng nhau sát cánh trên đấu trường Twinkle Series...",
       "jpname": "ドリームジャーニー",
       "jptext": "ウマ娘とトレーナーの間には、担当契約が締結されます。\nともにトゥインクル・シリーズを駆け抜けるための大事な契約……。"
     },
     {
       "name": "Dream Journey",
-      "text": "Một Trainer ưu tú như anh đến giờ vẫn chưa có Uma Musume phụ trách... chắc hẳn là vì anh đang cẩn trọng cân nhắc một gương mặt xứng đáng với bản hợp đồng trọng đại ấy, đúng không?",
+      "text": "Một Trainer ưu tú như anh đến giờ vẫn chưa có mã nương phụ trách... chắc hẳn là vì anh đang cẩn trọng cân nhắc một gương mặt xứng đáng với bản hợp đồng trọng đại ấy, đúng không?",
       "jpname": "ドリームジャーニー",
       "jptext": "貴方のような優秀なトレーナーに、まだ担当ウマ娘がいないのは……\n重要な契約に値するウマ娘を、吟味していらっしゃるからですよね。",
       "choice_data_list": [
@@ -396,7 +397,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Thế nên, việc để anh phải san sẻ khoảng thời gian quý báu ấy... thật khiến tôi áy náy trong lòng. ...Chỉ vì một Uma Musume chẳng ai kỳ vọng như tôi.",
+      "text": "Thế nên, việc để anh phải san sẻ khoảng thời gian quý báu ấy... thật khiến tôi áy náy trong lòng. ...Chỉ vì một mã nương chẳng ai kỳ vọng như tôi.",
       "jpname": "ドリームジャーニー",
       "jptext": "なのに、その貴重な時間を割いていただくのは……心苦しいです。\n……私のような、誰も期待していないウマ娘のために。",
       "choice_data_list": [
@@ -444,8 +445,8 @@
       "jpname": "モノローグ",
       "jptext": "今、引き留めなければ……2度と機会はないかもしれない。\nそう思うと、気がつけば――叫んでいた。",
       "choice_data_list": [
-        "Tôi sẽ——chiêu mộ cô!",
-        "Tôi muốn——chiêu mộ cô!"
+        "Anh sẽ——chiêu mộ em!",
+        "Tôi muốn——chiêu mộ bạn!"
       ],
       "jpchoice_data_list": [
         "俺が――君を、スカウトする！",
@@ -482,8 +483,8 @@
       "jpname": "ドリームジャーニー",
       "jptext": "……ありがとうございます。\nそう仰っていただけて、とても嬉しいです。",
       "choice_data_list": [
-        "Cô có chắc một người như tôi là ổn chứ?",
-        "Cô có chắc chọn một người như tôi là ổn không?"
+        "Em có chắc một người như anh là ổn chứ?",
+        "Bạn có chắc chọn một người như tôi là ổn không?"
       ],
       "jpchoice_data_list": [
         "君こそ、俺でいいのか？",

@@ -1,6 +1,7 @@
 {
   "title": "Tôi cũng đã bị biến thành một chú hươu mất rồi",
   "jptitle": "私もまた、鹿に変えられてしまったのだ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -36,7 +37,7 @@
     },
     {
       "name": "",
-      "text": "Đúng như danh tiếng đồn đại trước đó, rất nhiều Uma Musume tài năng đang cùng tranh tài. Bầu không khí căng thẳng chẳng kém gì một cuộc đua Graded khiến tôi bất giác siết chặt nắm tay.",
+      "text": "Đúng như danh tiếng đồn đại trước đó, rất nhiều mã nương tài năng đang cùng tranh tài. Bầu không khí căng thẳng chẳng kém gì một cuộc đua Graded khiến tôi bất giác siết chặt nắm tay.",
       "jpname": "モノローグ",
       "jptext": "前評判の通り、才あるウマ娘たちが多く出走しているようだ。\n重賞さながらの緊張感で、自然と拳に力が入る。",
       "choice_data_list": [],
@@ -82,7 +83,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume bám đuổi phía sau",
+      "name": "Mã Nương bám đuổi phía sau",
       "text": "……………………ự! Haaaaa aaaa aaaaa!!!",
       "jpname": "後方から狙うウマ娘",
       "jptext": "……………………っ！\nはぁぁぁあああああッッッ！！！",
@@ -91,7 +92,7 @@
     },
     {
       "name": "",
-      "text": "Một cơn gió lốc màu xanh hoàng kim bùng nổ, thế trận đường đua lập tức đảo chiều dữ dội. Một Uma Musume dũng mãnh lách qua toán đông, lao lên sánh ngang cùng Rhein Kraft.",
+      "text": "Một cơn gió lốc màu xanh hoàng kim bùng nổ, thế trận đường đua lập tức đảo chiều dữ dội. Một mã nương dũng mãnh lách qua toán đông, lao lên sánh ngang cùng Rhein Kraft.",
       "jpname": "モノローグ",
       "jptext": "金青の疾風が爆ぜ、レースが大きく動く。\n1人のウマ娘が猛然とバ群を捌き、ラインクラフトの隣に躍り出た。",
       "choice_data_list": [
@@ -231,7 +232,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Đó là trở thành nền móng cho tương lai của các thế hệ Uma Musume―― Chính vì vậy, để chứng minh bản lĩnh và tầm vóc của mình, tôi bắt buộc phải chiến thắng trên đường đua.",
+      "text": "Đó là trở thành nền móng cho tương lai của các thế hệ mã nương―― Chính vì vậy, để chứng minh bản lĩnh và tầm vóc của mình, tôi bắt buộc phải chiến thắng trên đường đua.",
       "jpname": "シーザリオ",
       "jptext": "それは、未来のウマ娘の礎となること――\n故に私は、器を示すために、レースで勝たなければならないのです。",
       "choice_data_list": [],
@@ -352,7 +353,7 @@
     },
     {
       "name": "Cesario",
-      "text": "À ừm, ly của người đã cạn rồi, người có muốn dùng thêm nước không? Người thích nước ở nhiệt độ phòng hay nước ấm hơn? Để tôi đi lấy giúp nhé.",
+      "text": "À ừm, ly của anh đã cạn rồi, anh có muốn dùng thêm nước không? Anh thích nước ở nhiệt độ phòng hay nước ấm hơn? Để tôi đi lấy giúp nhé.",
       "jpname": "シーザリオ",
       "jptext": "あの、グラスが空ですけど、お水の追加はいかがですか？\n常温のお水か、白湯のほうがいいですか？　私、いただいてきます。",
       "choice_data_list": [
@@ -442,7 +443,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Người cũng muốn nghỉ ngơi một chút chứ? Tôi có mang theo chăn mỏng, để tôi cho người mượn nhé.",
+      "text": "Anh cũng muốn nghỉ ngơi một chút chứ? Em có mang theo chăn mỏng, để em cho anh mượn nhé.",
       "jpname": "シーザリオ",
       "jptext": "貴方も少し休憩しますか？\nブランケットを持ってるので、お貸ししますよ。",
       "choice_data_list": [
@@ -463,7 +464,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Vậy sao…… Thế thì, người có thể chìa tay ra được không?",
+      "text": "Vậy sao…… Thế thì, anh có thể chìa tay ra được không?",
       "jpname": "シーザリオ",
       "jptext": "そうですか……。なら、手を出していただけますか？",
       "choice_data_list": [
@@ -492,7 +493,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Fufu, sắc mặt người trông đã tươi tỉnh hơn rồi. Buổi chiều người cũng đừng làm việc quá sức nhé.",
+      "text": "Fufu, sắc mặt anh trông đã tươi tỉnh hơn rồi. Buổi chiều anh cũng đừng làm việc quá sức nhé.",
       "jpname": "シーザリオ",
       "jptext": "ふふ、少し顔色がよくなりました。\n午後も無理しないでくださいね。",
       "choice_data_list": [

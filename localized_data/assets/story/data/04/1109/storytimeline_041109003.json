@@ -1,6 +1,7 @@
 {
   "title": "Kết nối, rồi tiếp nối...",
   "jptitle": "繋がって、続いて……",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Bình luận viên",
@@ -55,7 +56,7 @@
     },
     {
       "name": "",
-      "text": "Sau đó, tôi cùng Rhein Kraft hào hứng bàn luận về những cuộc đua vang dội của các Uma Musume tuyến Tiara. Ánh mắt của em ấy ngồi bên cạnh thực sự lấp lánh rạng ngời――",
+      "text": "Sau đó, tôi cùng Rhein Kraft hào hứng bàn luận về những cuộc đua vang dội của các mã nương tuyến Tiara. Ánh mắt của em ấy ngồi bên cạnh thực sự lấp lánh rạng ngời――",
       "jpname": "モノローグ",
       "jptext": "その後もラインクラフトと共に、ティアラウマ娘たちの名レースで\n盛り上がった。隣の彼女の眼差しは、本当に眩しく輝いていて――",
       "choice_data_list": [
@@ -94,7 +95,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Và rồi, ở đó có một Uma Musume với những bước chạy vô cùng hoa lệ và đẹp đẽ. Dáng vẻ chiến thắng ấy khiến em say mê... từ đó mà em bắt đầu yêu thích thế giới đua xe.",
+      "text": "Và rồi, ở đó có một mã nương với những bước chạy vô cùng hoa lệ và đẹp đẽ. Dáng vẻ chiến thắng ấy khiến em say mê... từ đó mà em bắt đầu yêu thích thế giới đua xe.",
       "jpname": "ラインクラフト",
       "jptext": "そしたら、すっごく華やかで、きれいな走りをするウマ娘がいて。\n勝つ姿に夢中になって……レースそのものに、興味がわきました。",
       "choice_data_list": [],
@@ -118,14 +119,14 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Mãi sau này tìm hiểu em mới vỡ lẽ. Hóa ra cô bé ấy... chính là học trò được chỉ bảo bởi Uma Musume mà em từng ngưỡng mộ trong đoạn băng đầu tiên.",
+      "text": "Mãi sau này tìm hiểu em mới vỡ lẽ. Hóa ra cô bé ấy... chính là học trò được chỉ bảo bởi mã nương mà em từng ngưỡng mộ trong đoạn băng đầu tiên.",
       "jpname": "ラインクラフト",
       "jptext": "後から調べて、わかったんです。その子は、わたしが最初に映像で\n見て憧れたあのウマ娘に……教えを受けたんだって。",
       "choice_data_list": [],
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume giải Oaks",
+      "name": "Mã Nương giải Oaks",
       "text": "Cảm ơn tất cả mọi người đã luôn cổ vũ cho mình! Để có thể trở thành tấm gương ngưỡng mộ cho ai đó giống như tiền bối... từ giờ mình cũng sẽ dốc hết sức sải bước chạy tiếp!",
       "jpname": "オークスウマ娘",
       "jptext": "みなさん、応援ありがとうございました！\nこの勝利は……私を導いてくれた師匠に、捧げたいです。",
@@ -134,7 +135,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Bước chạy của một người được ngưỡng mộ lại được gửi gắm cho một người tiếp theo. Rồi chính Uma Musume ấy lại trở thành ước mơ được noi theo của một ai khác――",
+      "text": "Bước chạy của một người được ngưỡng mộ lại được gửi gắm cho một người tiếp theo. Rồi chính mã nương ấy lại trở thành ước mơ được noi theo của một ai khác――",
       "jpname": "オークスウマ娘",
       "jptext": "このままティアラ路線を駆け抜け、私もいつか、師匠のように。\n次に続く誰かへ教えを繋いでいける、そんなウマ娘になります！",
       "choice_data_list": [],
@@ -150,7 +151,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Các Uma Musume tuyến Tiara, như thể từng người một đang trao lại chiếc gậy tiếp sức cho thế hệ mai sau... tiếp nối và gắn kết bền chặt.",
+      "text": "Các mã nương tuyến Tiara, như thể từng người một đang trao lại chiếc gậy tiếp sức cho thế hệ mai sau... tiếp nối và gắn kết bền chặt.",
       "jpname": "ラインクラフト",
       "jptext": "ティアラ路線のウマ娘たちは、次の世代へ、ひとりひとり\nバトンを手渡していくように……継いでいく。繋がっていく。",
       "choice_data_list": [],
@@ -158,7 +159,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Có thể không mang cảm giác vĩ đại như việc dựng xây nên cả một kỷ nguyên giống các Uma Musume tuyến Tam Quan. Thế nhưng――",
+      "text": "Có thể không mang cảm giác vĩ đại như việc dựng xây nên cả một kỷ nguyên giống các mã nương tuyến Tam Quan. Thế nhưng――",
       "jpname": "ラインクラフト",
       "jptext": "三冠路線のウマ娘たちのように、一時代を築き上げるみたいな、\n大それた感じはないかもしれません。それでも――",
       "choice_data_list": [],
@@ -166,7 +167,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Với tư cách tiền bối, người thầy chỉ dẫn, hay một người mẹ. Các Uma Musume tuyến Tiara đã luôn tự tay mình gìn giữ và kết nối sợi dây ấy.",
+      "text": "Với tư cách tiền bối, người thầy chỉ dẫn, hay một người mẹ. Các mã nương tuyến Tiara đã luôn tự tay mình gìn giữ và kết nối sợi dây ấy.",
       "jpname": "ラインクラフト",
       "jptext": "先輩として、指導者として、あるいは母として。\nティアラウマ娘たちはずっと、自分の手で繋いでいきました。",
       "choice_data_list": [],
@@ -178,7 +179,7 @@
       "jpname": "ラインクラフト",
       "jptext": "先をゆく子たちから、次の子たちへ。\n想いのバトンは届けられて、そしてまた引き継がれていく。",
       "choice_data_list": [
-        "Sự kế thừa giữa các Uma Musume tuyến Tiara..."
+        "Sự kế thừa giữa các mã nương tuyến Tiara..."
       ],
       "jpchoice_data_list": [
         "ティアラウマ娘たちによる、継承……"
@@ -226,7 +227,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Bởi vì em tin rằng có những điều chỉ có Uma Musume tuyến Tiara mới phô diễn được, có những tâm tư chỉ có chúng em mới truyền tải được!",
+      "text": "Bởi vì em tin rằng có những điều chỉ có mã nương tuyến Tiara mới phô diễn được, có những tâm tư chỉ có chúng em mới truyền tải được!",
       "jpname": "ラインクラフト",
       "jptext": "ティアラウマ娘にしか見せられないものが。\n伝えられないものがあるって、信じてるから！",
       "choice_data_list": [],
@@ -239,7 +240,7 @@
       "jptext": "真っ直ぐな……最初からずっと変わらない、\nどこまでも揺るがぬ宣言を受けて、ふと、口にする。",
       "choice_data_list": [
         "Nếu là em thì nhất định sẽ trở thành hình mẫu ngưỡng mộ của ai đó thôi.",
-        "Nếu là em thì nhất định sẽ là tấm gương ngưỡng mộ cho ai đó thôi."
+        "Nếu là bạn thì nhất định sẽ là tấm gương ngưỡng mộ cho ai đó thôi."
       ],
       "jpchoice_data_list": [
         "君ならきっと、誰かの憧れになれるよ",
@@ -253,8 +254,8 @@
       "jpname": "ラインクラフト",
       "jptext": "えっ？　トレーナーさん――",
       "choice_data_list": [
-        "Bằng chứng là ngay lúc này, tôi đã bắt đầu gửi gắm ước mơ vào em rồi.",
-        "Bằng chứng là ngay lúc này, tôi đã bắt đầu đặt trọn ước mơ vào em rồi."
+        "Bằng chứng là ngay lúc này, anh đã bắt đầu gửi gắm ước mơ vào em rồi.",
+        "Bằng chứng là ngay lúc này, tôi đã bắt đầu đặt trọn ước mơ vào bạn rồi."
       ],
       "jpchoice_data_list": [
         "現に俺はもう、君に夢を見始めてる",
@@ -518,7 +519,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Tôi cũng là một Uma Musume mang hoài bão đoạt lấy Triple Tiara. Muốn khắc ghi tên mình vào trang sử vĩ đại được kế thừa qua bao thế hệ của giải Tiara――",
+      "text": "Tôi cũng là một mã nương mang hoài bão đoạt lấy Triple Tiara. Muốn khắc ghi tên mình vào trang sử vĩ đại được kế thừa qua bao thế hệ của giải Tiara――",
       "jpname": "シーザリオ",
       "jptext": "私もまた、トリプルティアラを志すウマ娘。\n連綿と受け継がれてきた、偉大なティアラの歴史に名を残し――",
       "choice_data_list": [],

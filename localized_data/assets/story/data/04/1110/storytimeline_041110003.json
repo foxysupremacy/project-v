@@ -1,6 +1,7 @@
 {
   "title": "Màn đêm tình yêu chính là giữa ban trưa",
   "jptitle": "恋の夜中は真昼なのだ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Groove",
@@ -67,7 +68,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "A, tiền bối ở đây rồi! Chị nghe tụi em kể này. Em lại xuất phát chậm một nhịp nữa rồi…… Nếu không mắc lỗi đó thì chắc chắn em đã thắng rồi cơ!",
       "jpname": "ウマ娘A",
       "jptext": "あ、先輩いた！　聞いてくださいよ～。アタシってば\nまたスタートで出遅れちゃって……。ミスしなければ勝ってたのに！",
@@ -75,7 +76,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Em cũng vậy, độ rướn ở đoạn cuối còn thiếu một tẹo…… Chỉ cách nhau có gang tấc thôi đó, đúng một cái mũi thôi! Uất ức ghê luôn á!",
       "jpname": "ウマ娘B",
       "jptext": "うちも、最後の伸びがちょーっと足りなくて……。\nハナ差ですよ、ハナ差！　もう悔しくって！",
@@ -115,7 +116,7 @@
     },
     {
       "name": "",
-      "text": "Tôi thấy điều đó hoàn toàn dễ hiểu. Bản thân Air Groove cũng từng lựa chọn tuyến đường Tiara, và là một Uma Musume có những thành tích lẫy lừng, mở đầu bằng chiến thắng vang dội tại Oaks.",
+      "text": "Tôi thấy điều đó hoàn toàn dễ hiểu. Bản thân Air Groove cũng từng lựa chọn tuyến đường Tiara, và là một mã nương có những thành tích lẫy lừng, mở đầu bằng chiến thắng vang dội tại Oaks.",
       "jpname": "モノローグ",
       "jptext": "納得できる話だと思った。エアグルーヴもまたティアラ路線を選び、\n『オークス』での勝利をはじめ、華々しい活躍をしてきたウマ娘だ。",
       "choice_data_list": [],
@@ -215,7 +216,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Đó chính là…… trở thành \"nền móng cho tương lai của các thế hệ Uma Musume\"―― Điều mà tôi muốn dốc trọn cả cuộc đời này để hoàn thành.",
+      "text": "Đó chính là…… trở thành \"nền móng cho tương lai của các thế hệ mã nương\"―― Điều mà tôi muốn dốc trọn cả cuộc đời này để hoàn thành.",
       "jpname": "シーザリオ",
       "jptext": "それが……『未来のウマ娘の礎』となること――\nこの生涯をかけて、私が成し遂げたいことなのです。",
       "choice_data_list": [],
@@ -231,7 +232,7 @@
     },
     {
       "name": "",
-      "text": "Phả hệ của các Uma Musume cứ thế trải dài miên viễn qua từng thế hệ. Tựa như từ thượng nguồn xa xăm đổ ra biển cả phương xa, quá khứ và tương lai luôn gắn liền mật thiết.",
+      "text": "Phả hệ của các mã nương cứ thế trải dài miên viễn qua từng thế hệ. Tựa như từ thượng nguồn xa xăm đổ ra biển cả phương xa, quá khứ và tương lai luôn gắn liền mật thiết.",
       "jpname": "モノローグ",
       "jptext": "世代を超え、脈々と続くウマ娘たちの系譜。\n遥か上流から彼方の海へ注ぐように、過去と未来は繋がっている。",
       "choice_data_list": [
@@ -314,7 +315,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Nói cách khác, một sự hiện diện tựa như \"người bạn đồng hành trọn đời\". Một người mang lại cho tôi cảm nhận ấy, tôi mới mong muốn chọn làm Trainer của mình.",
+      "text": "Nói cách khác, một sự hiện diện tựa như \"người bạn đồng hành trọn đời\". Một anh mang lại cho em cảm nhận ấy, em mới mong muốn chọn làm Trainer của mình.",
       "jpname": "シーザリオ",
       "jptext": "いうなれば、生涯を通しての『パートナー』ともいえるような存在。\nそう思わせてくださる御方を、トレーナーにしたく存じます。",
       "choice_data_list": [
@@ -402,8 +403,8 @@
       "jpname": "エアグルーヴ",
       "jptext": "シーザリオの先達？　私が？",
       "choice_data_list": [
-        "Tôi tin chắc nếu là cô, cô sẽ hiểu được suy nghĩ của Cesario",
-        "Tôi tin chắc rằng cô có thể thấu hiểu được lòng Cesario"
+        "Anh tin chắc nếu là em, em sẽ hiểu được suy nghĩ của Cesario",
+        "Tôi tin chắc rằng bạn có thể thấu hiểu được lòng Cesario"
       ],
       "jpchoice_data_list": [
         "きっと君なら、シーザリオの考えがわかる",

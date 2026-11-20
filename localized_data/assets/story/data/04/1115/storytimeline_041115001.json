@@ -1,6 +1,7 @@
 {
   "title": "Thế nào là \"Quân vương\"",
   "jptitle": "“王”とは",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Orfevre",
@@ -44,7 +45,7 @@
     },
     {
       "name": "",
-      "text": "――Sáng nay. Tôi đang định đi xem buổi triển lãm đặc biệt tôn vinh các Uma Musume và Huấn luyện viên huyền thoại, được tổ chức tại bảo tàng bên trong Trường đua Tokyo.",
+      "text": "――Sáng nay. Tôi đang định đi xem buổi triển lãm đặc biệt tôn vinh các mã nương và Huấn luyện viên huyền thoại, được tổ chức tại bảo tàng bên trong Trường đua Tokyo.",
       "jpname": "モノローグ",
       "jptext": "――今朝。自分は東京レース場内ミュージアムで開催の、伝説的な\nウマ娘とトレーナーを特集した、特別展示を見に行こうとしていた。",
       "choice_data_list": [
@@ -147,7 +148,7 @@
     },
     {
       "name": "",
-      "text": "...Nơi Orfevre dừng bước chính là điểm nhấn sáng giá nhất của buổi triển lãm lần này. Nơi đây khắc họa những khoảnh khắc oai phong của các Uma Musume huyền thoại cùng Huấn luyện viên của họ.",
+      "text": "...Nơi Orfevre dừng bước chính là điểm nhấn sáng giá nhất của buổi triển lãm lần này. Nơi đây khắc họa những khoảnh khắc oai phong của các mã nương huyền thoại cùng Huấn luyện viên của họ.",
       "jpname": "モノローグ",
       "jptext": "……オルフェーヴルが足を止めたのは、今回の展示の目玉。\nここでは、伝説となったウマ娘とトレーナーの勇姿が並んでいた。",
       "choice_data_list": [
@@ -175,7 +176,7 @@
     },
     {
       "name": "",
-      "text": "Tôi mơ mộng. Ước gì mình cũng có thể dẫn dắt một Uma Musume tuyệt vời như thế, để một ngày nào đó chạm tay vào vinh quang――",
+      "text": "Tôi mơ mộng. Ước gì mình cũng có thể dẫn dắt một mã nương tuyệt vời như thế, để một ngày nào đó chạm tay vào vinh quang――",
       "jpname": "モノローグ",
       "jptext": "夢を見る。自分もあんなふうに、\n素晴らしいウマ娘を育てあげて、いつか栄光を掴みたいと――",
       "choice_data_list": [],
@@ -191,7 +192,7 @@
     },
     {
       "name": "",
-      "text": "Lời nói đanh thép ấy lập tức kéo ánh nhìn của tôi lại. ...Nơi cô ấy đang trừng trừng mắt nhìn chính là chân dung của những Uma Musume Tam Miện.",
+      "text": "Lời nói đanh thép ấy lập tức kéo ánh nhìn của tôi lại. ...Nơi cô ấy đang trừng trừng mắt nhìn chính là chân dung của những mã nương Tam Miện.",
       "jpname": "モノローグ",
       "jptext": "鋭い言葉に、視線が引き寄せられる。\n……彼女が睨みつける先には、三冠ウマ娘の姿があった。",
       "choice_data_list": [
@@ -218,8 +219,8 @@
       "jpname": "オルフェーヴル",
       "jptext": "貴様は、憧れのみでここに来たと言うつもりか？\n……ならば、己の内も知らぬと見える。",
       "choice_data_list": [
-        "Cô đang nói điều gì――",
-        "Cô muốn nói gì cơ――"
+        "Em đang nói điều gì――",
+        "Bạn muốn nói gì cơ――"
       ],
       "jpchoice_data_list": [
         "君は、何を――",
@@ -237,7 +238,7 @@
     },
     {
       "name": "Phóng viên",
-      "text": "Vừa rồi bạn vừa ngắm nhìn khu triển lãm về các Uma Musume Tam Miện đúng không ạ? Phải chăng cùng là Uma Musume, bạn cũng mang trong mình lòng ngưỡng mộ sâu sắc đối với họ?",
+      "text": "Vừa rồi bạn vừa ngắm nhìn khu triển lãm về các mã nương Tam Miện đúng không ạ? Phải chăng cùng là mã nương, bạn cũng mang trong mình lòng ngưỡng mộ sâu sắc đối với họ?",
       "jpname": "インタビュアー",
       "jptext": "今、こちらの三冠ウマ娘の展示をご覧になっていましたよね？\nやはり、同じウマ娘として憧れるものがあるのでしょうか？",
       "choice_data_list": [],
@@ -322,7 +323,7 @@
     },
     {
       "name": "Phóng viên",
-      "text": "――V-Vậy ý bạn là... bạn sẽ trở thành Uma Musume Tam Miện sao...!?",
+      "text": "――V-Vậy ý bạn là... bạn sẽ trở thành mã nương Tam Miện sao...!?",
       "jpname": "インタビュアー",
       "jptext": "――で、では貴方は、その……三冠ウマ娘になると……！？",
       "choice_data_list": [],
@@ -354,7 +355,7 @@
     },
     {
       "name": "Khách tham quan A",
-      "text": "Này này...! Cô nàng Uma Musume đó rốt cuộc là ai thế...? Khí thế ngút trời luôn ấy chứ...!? Nhìn mà tôi nổi cả da gà...!",
+      "text": "Này này...! Cô nàng mã nương đó rốt cuộc là ai thế...? Khí thế ngút trời luôn ấy chứ...!? Nhìn mà tôi nổi cả da gà...!",
       "jpname": "来場者A",
       "jptext": "おいおい……！　あのウマ娘、何者だよ……？\n迫力やばくなかったか……！？　見てて震えたぞ……！",
       "choice_data_list": [],
@@ -396,7 +397,7 @@
     },
     {
       "name": "",
-      "text": "Thứ đang đong đầy trong tôi lúc này chỉ là sự hứng thú tột cùng dành cho Uma Musume mang tên Orfevre. Tuy nhiên, tôi vẫn ngập ngừng chẳng biết phải diễn tả thành lời thế nào và bản thân nên làm gì.",
+      "text": "Thứ đang đong đầy trong tôi lúc này chỉ là sự hứng thú tột cùng dành cho mã nương mang tên Orfevre. Tuy nhiên, tôi vẫn ngập ngừng chẳng biết phải diễn tả thành lời thế nào và bản thân nên làm gì.",
       "jpname": "モノローグ",
       "jptext": "今あるのは、オルフェーヴルというウマ娘への強い興味。\nしかし、それをどう言葉にし、何をすればよいのかで逡巡する。",
       "choice_data_list": [],
@@ -444,7 +445,7 @@
     },
     {
       "name": "",
-      "text": "Tôi không khỏi kinh ngạc khi thấy Uma Musume vừa xuất hiện gọi Orfevre là \"em gái\". Bởi lẽ cô ấy chính là một nhân vật lẫy lừng đang làm mưa làm gió trong giới đua ngựa những năm gần đây.",
+      "text": "Tôi không khỏi kinh ngạc khi thấy mã nương vừa xuất hiện gọi Orfevre là \"em gái\". Bởi lẽ cô ấy chính là một nhân vật lẫy lừng đang làm mưa làm gió trong giới đua ngựa những năm gần đây.",
       "jpname": "モノローグ",
       "jptext": "現れたウマ娘がオルフェーヴルを『妹』と呼び、驚く。\n何故なら彼女は、近年レース界で名を轟かせている存在だからだ。",
       "choice_data_list": [],
@@ -460,7 +461,7 @@
     },
     {
       "name": "",
-      "text": "Cô ấy là một Uma Musume đẳng cấp hàng đầu từng lập nên kỳ tích vô tiền khoáng hậu: thâu tóm cả hai giải Grand Prix danh giá là Takarazuka Kinen và Arima Kinen trong cùng một năm.",
+      "text": "Cô ấy là một mã nương đẳng cấp hàng đầu từng lập nên kỳ tích vô tiền khoáng hậu: thâu tóm cả hai giải Grand Prix danh giá là Takarazuka Kinen và Arima Kinen trong cùng một năm.",
       "jpname": "モノローグ",
       "jptext": "『宝塚記念』と『有馬記念』。2つのグランプリを\n同年に連覇するという偉業をなした、超一線級のウマ娘だ。",
       "choice_data_list": [],
@@ -468,7 +469,7 @@
     },
     {
       "name": "",
-      "text": "Và em gái của Dream Journey ấy chính là Orfevre này. ...Cả hai chị em họ chắc chắn đều là những Uma Musume phi phàm không cần bàn cãi.",
+      "text": "Và em gái của Dream Journey ấy chính là Orfevre này. ...Cả hai chị em họ chắc chắn đều là những mã nương phi phàm không cần bàn cãi.",
       "jpname": "モノローグ",
       "jptext": "そのドリームジャーニーの妹が、このオルフェーヴル。\n……姉妹揃って、非凡なウマ娘であることは間違いない。",
       "choice_data_list": [],
@@ -508,7 +509,7 @@
     },
     {
       "name": "",
-      "text": "...Nhiều ngày sau. Vẫn không thể gạt hình bóng Orfevre ra khỏi tâm trí, tôi đã đến theo dõi một cuộc đua tuyển chọn dành cho các Uma Musume chuẩn bị ra mắt――",
+      "text": "...Nhiều ngày sau. Vẫn không thể gạt hình bóng Orfevre ra khỏi tâm trí, tôi đã đến theo dõi một cuộc đua tuyển chọn dành cho các mã nương chuẩn bị ra mắt――",
       "jpname": "モノローグ",
       "jptext": "……後日。オルフェーヴルのことが忘れられないまま観にきた、\nデビュー前のウマ娘たちによる選抜レースの場にて――",
       "choice_data_list": [

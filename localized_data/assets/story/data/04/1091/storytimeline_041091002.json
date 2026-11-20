@@ -1,6 +1,7 @@
 {
   "title": "Mạnh mẽ chẳng phải siêu ngầu sao?",
   "jptitle": "強いのって、ちょーよくない？",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -82,7 +83,7 @@
     },
     {
       "name": "",
-      "text": "――Được một Uma Musume đích thân mời đến xem, dĩ nhiên tôi không thể chối từ. Tôi vừa muốn biết thực lực của em ấy, vừa tò mò nhất về...",
+      "text": "――Được một mã nương đích thân mời đến xem, dĩ nhiên tôi không thể chối từ. Tôi vừa muốn biết thực lực của em ấy, vừa tò mò nhất về...",
       "jpname": "モノローグ",
       "jptext": "――ウマ娘から観戦に誘われて、足を運ばないわけにはいかない。\n彼女の実力も気になるし、1番知りたいのは……。",
       "choice_data_list": [
@@ -94,13 +95,13 @@
     },
     {
       "name": "",
-      "text": "Nhắc đến Dubai là nhắc đến nơi tổ chức các giải đua G1 quốc tế danh giá. Nơi đây quy tụ những Uma Musume cự phách hàng đầu thế giới trong những cuộc so tài đỉnh cao.",
+      "text": "Nhắc đến Dubai là nhắc đến nơi tổ chức các giải đua G1 quốc tế danh giá. Nơi đây quy tụ những mã nương cự phách hàng đầu thế giới trong những cuộc so tài đỉnh cao.",
       "jpname": "モノローグ",
       "jptext": "ドバイといえば、国際GⅠの開催国だ。世界でも指折りの\nウマ娘たちが集まる、ハイレベルなレースが行われている。"
     },
     {
       "name": "",
-      "text": "Những năm gần đây, đã có Uma Musume của Nhật Bản giành chiến thắng sau nhiều năm chờ đợi, khiến cho sự quan tâm dành cho các giải đua tại Dubai ngày một tăng cao trong nước.",
+      "text": "Những năm gần đây, đã có mã nương của Nhật Bản giành chiến thắng sau nhiều năm chờ đợi, khiến cho sự quan tâm dành cho các giải đua tại Dubai ngày một tăng cao trong nước.",
       "jpname": "モノローグ",
       "jptext": "近年では、数年ぶりに日本のウマ娘が優勝したレースもあり、\n国内でもドバイのレースへの注目度はますます高まっている。"
     },
@@ -112,7 +113,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "A! Biết ngay là anh sẽ tới mà! Hú hu, Trecchi ơi♪",
+      "text": "A! Biết ngay là anh sẽ tới mà! Hú hu, Torecchi ơi♪",
       "jpname": "ヴィブロス",
       "jptext": "あ！　やっぱり来てくれた！\nおーい、トレっち～♪",
       "choice_data_list": [
@@ -172,13 +173,13 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hì hì, Trecchi ơiii! Em đỉnh ghê chưa nèee!",
+      "text": "Hì hì, Torecchi ơiii! Em đỉnh ghê chưa nèee!",
       "jpname": "ヴィブロス",
       "jptext": "えへへっ、トレっち～～～～！\n私、すごいでしょーーーー！"
     },
     {
       "name": "",
-      "text": "Bứt phá bỏ xa các Uma Musume khác ở đoạn đường thẳng, chặng cuối hoàn toàn là sân khấu độc diễn của em ấy. Thậm chí còn ung dung giảm tốc mà vẫn cán đích ở vị trí số một――",
+      "text": "Bứt phá bỏ xa các mã nương khác ở đoạn đường thẳng, chặng cuối hoàn toàn là sân khấu độc diễn của em ấy. Thậm chí còn ung dung giảm tốc mà vẫn cán đích ở vị trí số một――",
       "jpname": "モノローグ",
       "jptext": "直線で他のウマ娘を突き放すと、最後は彼女の独擅場だった。\n流して走る余裕さえ見せて、見事1着をとった――",
       "choice_data_list": [
@@ -248,7 +249,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Trecchi ơiii! Nè nè, hồi nãy anh vừa nói chuyện với chị Shuva đúng hông!?",
+      "text": "Torecchi ơiii! Nè nè, hồi nãy anh vừa nói chuyện với chị Shuva đúng hông!?",
       "jpname": "ヴィブロス",
       "jptext": "トレっち～～～～！\nねね、今シュヴァちと話してたでしょ！？",
       "choice_data_list": [
@@ -278,7 +279,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Rồi rồi, còn Trecchi thì sao nè? Màn chạy của em đỉnh lắm đúng không?",
+      "text": "Rồi rồi, còn Torecchi thì sao nè? Màn chạy của em đỉnh lắm đúng không?",
       "jpname": "ヴィブロス",
       "jptext": "それでそれで、トレっちは？\n私の走り、よかったでしょ？",
       "choice_data_list": [
@@ -304,12 +305,12 @@
     },
     {
       "name": "Vivlos",
-      "text": "Vẫn chưa chịu nữa sao? Công việc của Trainer là giúp các Uma Musume chiến thắng mà đúng không? Biết rõ em chạy giỏi thế nào rồi thì quyết luôn đi chứ còn gì nữa nè?",
+      "text": "Vẫn chưa chịu nữa sao? Công việc của Trainer là giúp các mã nương chiến thắng mà đúng không? Biết rõ em chạy giỏi thế nào rồi thì quyết luôn đi chứ còn gì nữa nè?",
       "jpname": "ヴィブロス",
       "jptext": "まだダメ？　トレーナーって、ウマ娘を勝たせるのがお仕事でしょ？\nどんな走りをするのかわかってたら、もーよくない？",
       "choice_data_list": [
-        "Nhưng anh vẫn chưa hiểu rõ em là một cô bé như thế nào",
-        "Nhưng tôi vẫn chưa hiểu rõ em là người thế nào"
+        "Nhưng anh vẫn chưa hiểu rõ em là một em bé như thế nào",
+        "Nhưng tôi vẫn chưa hiểu rõ bạn là người thế nào"
       ],
       "jpchoice_data_list": [
         "でも君がどんな子なのかわかってない",
@@ -318,7 +319,7 @@
     },
     {
       "name": "Vivlos",
-      "text": "Hửm... Trecchi muốn biết điều gì về em nào?",
+      "text": "Hửm... Torecchi muốn biết điều gì về em nào?",
       "jpname": "ヴィブロス",
       "jptext": "ふむ～……。\nトレっちはなにを知りたいの？"
     },
@@ -329,7 +330,7 @@
       "jptext": "実力が見えてきた今、他に知りたいのは彼女の“夢”のことだ。\n何を目指し、なぜ走るのか。気になるキーワードは……。",
       "choice_data_list": [
         "Mục tiêu của em là các giải đua ở Dubai sao?",
-        "Mục tiêu của em thật sự là các giải đua tại Dubai à?"
+        "Mục tiêu của bạn thật sự là các giải đua tại Dubai à?"
       ],
       "jpchoice_data_list": [
         "君はドバイのレースを目指してるのか？",

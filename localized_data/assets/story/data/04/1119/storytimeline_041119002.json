@@ -1,6 +1,7 @@
 {
   "title": "Phối hợp",
   "jptitle": "Coordinate",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Dream Journey",
@@ -68,7 +69,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Tôi đã phân tích dữ liệu tập luyện của bản thân cho đến hôm nay, cùng với dữ liệu của các Uma Musume có chỉ số tương đồng trên biểu đồ phân bố để thiết lập mục tiêu cho 3 năm.",
+      "text": "Tôi đã phân tích dữ liệu tập luyện của bản thân cho đến hôm nay, cùng với dữ liệu của các mã nương có chỉ số tương đồng trên biểu đồ phân bố để thiết lập mục tiêu cho 3 năm.",
       "jpname": "ドリームジャーニー",
       "jptext": "今日までの自分のトレーニングデータや、分布図で値の近い\nウマ娘のデータを分析して、3年間の目標を設定しました。"
     },
@@ -110,12 +111,12 @@
     },
     {
       "name": "",
-      "text": "Hôm nay có một điều tôi nhất định phải xác nhận. Đó là điều mà một Trainer và Uma Musume cần phải thấu hiểu ở nhau——",
+      "text": "Hôm nay có một điều tôi nhất định phải xác nhận. Đó là điều mà một Trainer và mã nương cần phải thấu hiểu ở nhau——",
       "jpname": "モノローグ",
       "jptext": "今日は1つ、絶対に確認したいことがあった。それは、\nトレーナーとウマ娘が互いに知っておくべきもの――",
       "choice_data_list": [
-        "Tôi muốn nghe về giấc mơ của cô",
-        "Tôi rất muốn biết ước mơ của cô"
+        "Anh muốn nghe về giấc mơ của em",
+        "Tôi rất muốn biết ước mơ của bạn"
       ],
       "jpchoice_data_list": [
         "君の夢を聞かせてほしい",
@@ -124,7 +125,7 @@
     },
     {
       "name": "",
-      "text": "Muốn trở thành Derby Uma Musume, muốn khắc tên vào lịch sử, hay đơn thuần chỉ là muốn chiến thắng... Mỗi cô gái đều có động lực để sải bước. Và đó chính là \"ước mơ\" quan trọng hơn bất cứ điều gì.",
+      "text": "Muốn trở thành Derby mã nương, muốn khắc tên vào lịch sử, hay đơn thuần chỉ là muốn chiến thắng... Mỗi cô gái đều có động lực để sải bước. Và đó chính là \"ước mơ\" quan trọng hơn bất cứ điều gì.",
       "jpname": "モノローグ",
       "jptext": "ダービーウマ娘になりたい、歴史に名を残したい、ただ勝ちたい……\n彼女たちは動機を持って走る。それが、何より重要な“夢”だ。"
     },
@@ -147,13 +148,13 @@
       "jptext": "夢ですよ。私の……大切な、ね。\nそこに……望むものが、待っている――"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "——...Quyết định vậy đi. Là do sai sót của con \"em gái\". Cứ để con \"chị gái\" học sinh gương mẫu chịu trách nhiệm. Không thể để nó vênh váo mãi được.",
       "jpname": "大柄なウマ娘",
       "jptext": "――……決まりだな。“妹”の不始末だ。優等生の\n“お姉ちゃん”に責任をとってもらう。もうデカイ顔はさせねぇ。"
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Một khi người nhà yêu quý bị đụng tới thì... hiểu rồi chứ? Haha, để xem lúc đó mặt mũi nó sẽ biến sắc thế nào!",
       "jpname": "不穏なウマ娘",
       "jptext": "大事な家族に手ェ出されたってなったら……ね？\nははっ、どんな顔すっか楽しみだわ！"
@@ -230,8 +231,8 @@
       "jpname": "ドリームジャーニー",
       "jptext": "その人は、私のトレーナーさんだ。\nさっきまで一緒にいたから、匂いが移ってしまったのだろう。",
       "choice_data_list": [
-        "Nói vậy nghĩa là cô...",
-        "Nói vậy nghĩa là cô..."
+        "Nói vậy nghĩa là em...",
+        "Nói vậy nghĩa là bạn..."
       ],
       "jpchoice_data_list": [
         "ってことは、君が……",
@@ -356,7 +357,7 @@
     },
     {
       "name": "",
-      "text": "Dream Journey mà tôi vừa ký hợp đồng là một Uma Musume tài năng, mẫu mực, lễ độ và hết lòng vì gia đình. Thế nhưng...——",
+      "text": "Dream Journey mà tôi vừa ký hợp đồng là một mã nương tài năng, mẫu mực, lễ độ và hết lòng vì gia đình. Thế nhưng...——",
       "jpname": "モノローグ",
       "jptext": "自分の契約したドリームジャーニーは、能力が高く、優等生で、\n礼儀正しく、家族思いなウマ娘だ。しかし……――",
       "choice_data_list": [

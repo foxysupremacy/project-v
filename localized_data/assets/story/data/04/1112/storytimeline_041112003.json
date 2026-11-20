@@ -1,6 +1,7 @@
 {
   "title": "Trái tim bình yên",
   "jptitle": "A Heart at Peace",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daring Heart",
@@ -32,8 +33,8 @@
       "jpname": "デアリングハート",
       "jptext": "あら！　また見てくれてたのね♪　なにかアドバイスはある？\nもう一本走るつもりだから、そのあとでも――",
       "choice_data_list": [
-        "Cô... nên nghỉ ngơi đi. Cô đang cố gắng quá sức rồi đấy!",
-        "Cô... nên nghỉ ngơi đi. Cô đang cố gắng quá sức rồi đấy!"
+        "Em... nên nghỉ ngơi đi. Em đang cố gắng quá sức rồi đấy!",
+        "Bạn... nên nghỉ ngơi đi. Bạn đang cố gắng quá sức rồi đấy!"
       ],
       "jpchoice_data_list": [
         "君は……休むべきだ。頑張りすぎだよ！",
@@ -96,8 +97,8 @@
       "jpname": "モノローグ",
       "jptext": "心のゆとりが、最高のパフォーマンスを生む。\n目指すべき場所へたどり着くための、足がかりになるのだ。",
       "choice_data_list": [
-        "Tôi muốn đưa cho cô cái này.",
-        "Tôi muốn đưa cho cô cái này."
+        "Anh muốn đưa cho em cái này.",
+        "Tôi muốn đưa cho bạn cái này."
       ],
       "jpchoice_data_list": [
         "これを、君に渡そうと思って",

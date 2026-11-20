@@ -1,6 +1,7 @@
 {
   "title": "Bức tường sừng sững",
   "jptitle": "立ちふさがる、壁",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Verxina",
@@ -264,7 +265,7 @@
     },
     {
       "name": "",
-      "text": "Quả thực, sức mạnh của Gentildonna vô cùng kinh ngạc. Đến mức việc một Uma Musume bình thường cảm thấy khiếp sợ cũng là điều hoàn toàn dễ hiểu.",
+      "text": "Quả thực, sức mạnh của Gentildonna vô cùng kinh ngạc. Đến mức việc một mã nương bình thường cảm thấy khiếp sợ cũng là điều hoàn toàn dễ hiểu.",
       "jpname": "モノローグ",
       "jptext": "確かに、ジェンティルドンナの強さは目を瞠るものがあった。\n並のウマ娘であれば臆してしまうのも仕方ないと思えるほどに。"
     },
@@ -274,7 +275,7 @@
       "jpname": "モノローグ",
       "jptext": "ならばヴィルシーナも同じだったのか。\nジェンティルドンナの強さに臆し、諦めてしまったのだろうか。",
       "choice_data_list": [
-        "(Thế nhưng, người con gái mà tôi từng dõi theo lại――)",
+        "(Thế nhưng, người con gái mà anh từng dõi theo lại――)",
         "(Nhưng mà, Verxina mà tôi từng chứng kiến lại――)"
       ],
       "jpchoice_data_list": [

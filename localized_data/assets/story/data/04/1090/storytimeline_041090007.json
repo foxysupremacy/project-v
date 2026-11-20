@@ -1,6 +1,7 @@
 {
   "title": "Hai con người tương đồng",
   "jptitle": "似た者、ふたり",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -9,13 +10,13 @@
       "jptext": "季節はすっかり夏。\n特別トレーニングのため合宿所までやってきた。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Chà, cơ mà đúng là gian khổ thật đấy…… Vừa nóng mà chân lại vừa bị lún sâu xuống cát nữa chứ……!",
       "jpname": "ウマ娘A",
       "jptext": "いやぁ、しかしやっぱハードだなぁ……\nあっついし、めっちゃくちゃ脚は取られるし……！"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Tư thế chạy cũng chẳng thể chuẩn xác như mọi khi được…… ……Ủa?",
       "jpname": "ウマ娘B",
       "jptext": "走るフォームもいつも通りには決まんないよね～……\n……ん？"
@@ -27,20 +28,20 @@
       "jptext": "ふっ……！"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Ôi chao……! Quả nhiên là Verxina-san…… Vẫn giữ được dáng chạy tuyệt đẹp hệt như những gì thường thấy ở học viện!",
       "jpname": "ウマ娘A",
       "jptext": "おお～……！　さすがヴィルシーナさん……\nいつも学園で見る通りの綺麗なフォーム！"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Ngay cả trên bãi cát mà trông chị ấy vẫn đẹp như một bức tranh…… Được rồi, tụi mình cũng phải lên tinh thần thêm chút nữa thôi!",
       "jpname": "ウマ娘B",
       "jptext": "砂浜の上でも絵になるなぁ……\nよし、私らももうちょい気合い入れるか！"
     },
     {
       "name": "Verxina",
-      "text": "……Phù. Cảm ơn Trainer-san nhiều nhé. Làm phiền anh phải mang đồ tiếp tế tới cho tôi rồi.",
+      "text": "……Phù. Cảm ơn Trainer-san nhiều nhé. Làm phiền anh phải mang đồ tiếp tế tới cho em rồi.",
       "jpname": "ヴィルシーナ",
       "jptext": "……ふぅ。すみませんトレーナーさん。\n差し入れをいただいてしまって。"
     },
@@ -88,7 +89,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Tôi hiểu rồi. Vậy thì…… bây giờ tôi sẽ bắt đầu khởi động nhẹ nhàng một chút nhé.",
+      "text": "Tôi hiểu rồi. Vậy thì…… bây giờ tôi sẽ bây giờ em sẽ bắt đầu khởi động nhẹ nhàng một chút nhé.",
       "jpname": "ヴィルシーナ",
       "jptext": "わかりました。それでは……\nそろそろ、軽く体を動かしておきますね。"
     },
@@ -106,7 +107,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Hôm nay anh vất vả rồi, Trainer-san. Cảm ơn anh vì đã chỉ bảo tận tình cho tôi trong ngày hôm nay nhé.",
+      "text": "Hôm nay anh vất vả rồi, Trainer-san. Cảm ơn anh vì đã chỉ bảo tận tình cho em trong ngày hôm nay nhé.",
       "jpname": "ヴィルシーナ",
       "jptext": "お疲れさまでした、トレーナーさん。\n今日もご指導ありがとうございました。",
       "choice_data_list": [
@@ -146,7 +147,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Bụng tôi cũng đã đói cồn cào rồi…… Chắc hôm nay tôi sẽ đánh chén thật no nê mới được.",
+      "text": "Bụng em cũng đã đói cồn cào rồi…… Chắc hôm nay tôi sẽ đánh chén thật no nê mới được.",
       "jpname": "ヴィルシーナ",
       "jptext": "すっかりお腹も空きましたし……\n今日は、たくさんいただいちゃおうかしら。",
       "choice_data_list": [
@@ -165,19 +166,19 @@
       "jptext": "というわけで。期待しながら合宿所に帰ると――"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "C-Cái gì…… không có cồn bén lửa sao!?!? Cả đồ bật lửa cũng không có nốt ư!?",
       "jpname": "ウマ娘A",
       "jptext": "なっ……着火剤がない！？！？　着火器具も！？"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Thịt…… không nướng được sao? Không nướng được……? Thịt của tôi……?",
       "jpname": "ウマ娘B",
       "jptext": "肉が……焼けない？　焼けない……？　肉が……？"
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Sao lại thế được chứ!! Thế này thì tụi mình chỉ toàn được ăn rau sống thôi à!",
       "jpname": "ウマ娘C",
       "jptext": "そんなぁ～！！　生野菜しか食べられないよー！"
@@ -206,7 +207,7 @@
       "jpname": "ヴィルシーナ",
       "jptext": "まずはどうにかして、\n火を点ける方法を考えるところから、かしらね。",
       "choice_data_list": [
-        "……Chuyện đó cứ để tôi lo!",
+        "……Chuyện đó cứ để anh lo!",
         "……Việc đó cứ giao cho tôi!"
       ],
       "jpchoice_data_list": [
@@ -236,7 +237,7 @@
     },
     {
       "name": "Verxina",
-      "text": "――Tôi hiểu rồi. Vậy thì tôi sẽ đi gom những thứ có thể dùng làm củi đốt nhé.",
+      "text": "――Em hiểu rồi. Vậy thì em sẽ đi gom những thứ có thể dùng làm củi đốt nhé.",
       "jpname": "ヴィルシーナ",
       "jptext": "――わかりました。\nでは、私は薪になりそうなものを集めておきますね。"
     },
@@ -266,13 +267,13 @@
     },
     {
       "name": "Verxina",
-      "text": "Trainer-san. Mọi người cũng đã chung tay giúp đỡ, tôi gom được đống củi về rồi đây.",
+      "text": "Trainer-san. Mọi người cũng đã chung tay giúp đỡ, em gom được đống củi về rồi đây.",
       "jpname": "ヴィルシーナ",
       "jptext": "トレーナーさん。みんなも協力してくれて、\n薪を用意してきました。"
     },
     {
       "name": "Verxina",
-      "text": "Lửa…… có vẻ như vẫn chưa lên nhỉ. Để tôi phụ giúp anh một tay nhé?",
+      "text": "Lửa…… có vẻ như vẫn chưa lên nhỉ. Để em phụ giúp anh một tay nhé?",
       "jpname": "ヴィルシーナ",
       "jptext": "火は……まだのようですね。\nお手伝いしましょうか？",
       "choice_data_list": [
@@ -345,13 +346,13 @@
       "jptext": "…………点いた！"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Oa, ban nãy có lúc tưởng chừng bế tắc rồi chứ. Thịt nướng ngon tuyệt cú mèo!",
       "jpname": "ウマ娘A",
       "jptext": "いや～一時はどうなることかと思ったけど。\n肉美味し～。"
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Công nhận luôn…… nhờ có tiền bối Verxina mà tụi mình mới không phải ăn rau sống trừ bữa đấy ạ.",
       "jpname": "ウマ娘C",
       "jptext": "ほんと……ヴィルシーナ先輩のおかげで\n生野菜だけにならずに済みましたよ～。"
@@ -363,7 +364,7 @@
       "jptext": "ううん。私はなにもしていないわ、本当に。\n火を起こしてくれたのはトレーナーさんだもの。"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Ùm…… Chuẩn luôn! Trainer-san! Hãy để tụi em gọi anh là Người Hùng Thịt Nướng nhé!",
       "jpname": "ウマ娘B",
       "jptext": "むむむ……確かに！　トレーナーさん！\n肉英雄と呼ばせてください！",
@@ -380,7 +381,7 @@
       "jpname": "ヴィルシーナ",
       "jptext": "本当に、今日はお疲れさまでした。\nトレーナーさん。",
       "choice_data_list": [
-        "……Hôm nay tôi đã ra dáng một chỗ dựa đáng tin cậy chưa nhỉ?",
+        "……Hôm nay anh đã ra dáng một chỗ dựa đáng tin cậy chưa nhỉ?",
         "……Hôm nay tôi trông có đáng tin cậy chút nào không?"
       ],
       "jpchoice_data_list": [
@@ -414,7 +415,7 @@
     },
     {
       "name": "Verxina",
-      "text": "Lúc nào anh cũng như vậy cả. Kể từ khoảnh khắc trở thành Trainer của tôi, anh đã luôn là niềm tự hào của tôi rồi.",
+      "text": "Lúc nào anh cũng như vậy cả. Kể từ khoảnh khắc trở thành Trainer của em, anh đã luôn là niềm tự hào của tôi rồi.",
       "jpname": "ヴィルシーナ",
       "jptext": "ずっと、そうですよ。担当になったときから、\nトレーナーさんは私の誇りです。"
     },
@@ -424,8 +425,8 @@
       "jpname": "ヴィルシーナ",
       "jptext": "とても一生懸命で。いつも頑張っていて――",
       "choice_data_list": [
-        "……Nếu nói về điều đó thì tôi thấy cô mới là người như vậy đấy",
-        "……Nhưng câu đó tôi nghĩ phải dành cho Verxina mới đúng chứ"
+        "……Nếu nói về điều đó thì anh thấy em mới là người như vậy đấy",
+        "……Nhưng câu đó tôi nghĩ phải dành cho bạn mới đúng chứ"
       ],
       "jpchoice_data_list": [
         "……それを言うなら君だと思うけどなぁ",
@@ -440,7 +441,7 @@
     },
     {
       "name": "Verxina",
-      "text": "……Kể từ khi gặp gỡ Trainer-san―― cảm xúc của các em gái khi dõi nhìn về phía tôi, có lẽ tôi đã phần nào thấu hiểu được rồi.",
+      "text": "……Kể từ khi gặp gỡ Trainer-san―― cảm xúc của các em gái khi dõi nhìn về phía em, có lẽ em đã phần nào thấu hiểu được rồi.",
       "jpname": "ヴィルシーナ",
       "jptext": "……トレーナーさんと出会って――妹たちが私を見る気持ち、\nもしかしたらわかったかもしれません。",
       "choice_data_list": [
@@ -454,13 +455,13 @@
     },
     {
       "name": "Verxina",
-      "text": "Vâng. Vậy thì tôi xin phép nhận lòng tốt của anh nhé――",
+      "text": "Vâng. Vậy thì em xin phép nhận lòng tốt của anh nhé――",
       "jpname": "ヴィルシーナ",
       "jptext": "はい。それでは、お言葉に甘えて――"
     },
     {
       "name": "Verxina",
-      "text": "――Anh có thể nướng thêm cho tôi chút thịt thơm ngon được không nào?",
+      "text": "――Anh có thể nướng thêm cho em chút thịt thơm ngon được không nào?",
       "jpname": "ヴィルシーナ",
       "jptext": "――おいしいお肉、焼いていただけるかしら？"
     }

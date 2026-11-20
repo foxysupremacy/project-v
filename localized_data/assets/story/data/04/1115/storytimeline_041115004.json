@@ -1,6 +1,7 @@
 {
   "title": "Hãy là \"Quân vương\"",
   "jptitle": "“王”であれ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Bầy tôi của Orfe A",
@@ -37,8 +38,8 @@
       "jpname": "オルフェーヴル",
       "jptext": "よい。\n…………先のトレーニングの褒美だ。少し聞いてやる。",
       "choice_data_list": [
-        "Tôi muốn chứng minh thực lực của mình cho cô thấy...!",
-        "Tôi muốn chứng tỏ bản lĩnh của tôi cho cô thấy...!"
+        "Tôi muốn chứng minh thực lực của mình cho em thấy...!",
+        "Tôi muốn chứng tỏ bản lĩnh của tôi cho bạn thấy...!"
       ],
       "jpchoice_data_list": [
         "君に俺の力を示したい……！",
@@ -71,7 +72,7 @@
     },
     {
       "name": "",
-      "text": "Tôi hiểu mối quan hệ giữa Huấn luyện viên và Uma Musume như thế này quả thực rất kỳ lạ. ...Dù vậy, tôi vẫn muốn chứng minh mình là một người có giá trị đối với \"Quân vương\".",
+      "text": "Tôi hiểu mối quan hệ giữa Huấn luyện viên và mã nương như thế này quả thực rất kỳ lạ. ...Dù vậy, tôi vẫn muốn chứng minh mình là một người có giá trị đối với \"Quân vương\".",
       "jpname": "モノローグ",
       "jptext": "担当とウマ娘の関係性として特殊なのは、理解している。\n……それでも自分は“王”にとって価値ある存在だと証明したい。",
       "choice_data_list": [],
@@ -310,8 +311,8 @@
       "jpname": "モノローグ",
       "jptext": "オルフェーヴルの前に、ひとつの資料を突き出す。\nそれは、“王”たる彼女が進むべき未来をまとめたものだ。",
       "choice_data_list": [
-        "Tôi sẽ trở thành \"sức mạnh\" của cô.",
-        "Tôi sẽ biến thành \"sức mạnh\" phò tá cô."
+        "Tôi sẽ trở thành \"sức mạnh\" của em.",
+        "Tôi sẽ biến thành \"sức mạnh\" phò tá bạn."
       ],
       "jpchoice_data_list": [
         "俺は、君の“力”になる",
@@ -370,8 +371,8 @@
       "jpname": "モノローグ",
       "jptext": "自分も、己の力をレース界に焼きつけるのだ。過去の伝説を超え、\n“王”が三冠を……三冠以上の光輝を手にするために。",
       "choice_data_list": [
-        "――Và rồi sẽ cùng cô đứng cạnh nhau trên đỉnh vinh quang!",
-        "――Và rồi sẽ cùng cô sánh vai trên đỉnh vinh quang!"
+        "――Và rồi sẽ cùng em đứng cạnh nhau trên đỉnh vinh quang!",
+        "――Và rồi sẽ cùng bạn sánh vai trên đỉnh vinh quang!"
       ],
       "jpchoice_data_list": [
         "――――そして君と、頂点で並び立つ！",

@@ -1,6 +1,7 @@
 {
   "title": "Nhật nguyệt giao hòa",
   "jptitle": "Eclipse of Sun and Moon",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daring Heart",
@@ -70,8 +71,8 @@
       "jpname": "デアリングハート",
       "jptext": "Checkmate――なんてね！　お待たせ、トレーナー！\nOh!　完璧な『オフィスワーカー風スパイ』じゃない♪",
       "choice_data_list": [
-        "C-Cảm ơn cô. Trang phục của cô là...",
-        "C-Cảm ơn cô. Trang phục của cô là..."
+        "C-Cảm ơn em. Trang phục của em là...",
+        "C-Cảm ơn bạn. Trang phục của bạn là..."
       ],
       "jpchoice_data_list": [
         "あ、ありがとう。君の格好は……",
@@ -109,7 +110,7 @@
       "jptext": "（ウー！　ウー！）"
     },
     {
-      "name": "Uma Musume ban tổ chức",
+      "name": "Mã Nương ban tổ chức",
       "text": "Hello everyone! Nhân lúc mọi người đã đông đủ, chúng tôi xin phép được khai mạc \"Cuộc thi Phong cách Điệp viên Đỉnh nhất\"!",
       "jpname": "主催者ウマ娘",
       "jptext": "Hello everyone!　みんな集まったところで、\n『ベスト・エージェント・ルック・コンテスト』を開催しまーす！",
@@ -163,7 +164,7 @@
       ]
     },
     {
-      "name": "Uma Musume ban tổ chức",
+      "name": "Mã Nương ban tổ chức",
       "text": "Tiếp theo! Mật lệnh dành cho Điệp viên Daring Heart là... \"Tiểu thư đài các chốn khuê phòng\"!",
       "jpname": "主催者ウマ娘",
       "jptext": "ネクスト！　エージェント・デアリングハートへの指令は\n……『深窓の令嬢』！"
@@ -181,13 +182,13 @@
       "jptext": "（ギーギーギー）"
     },
     {
-      "name": "Uma Musume ban tổ chức",
+      "name": "Mã Nương ban tổ chức",
       "text": "Ối giời, hóa ra có biết kéo đàn đâu cơ chứ! ...Và sau đây, thí sinh kế tiếp! Điệp viên tiếp theo chính là vị Huấn luyện viên của nàng tiểu thư ấy!",
       "jpname": "主催者ウマ娘",
       "jptext": "いや、弾けないんか～い！　……ってことで、ネクスト！\n次のエージェントは、そんな令嬢のトレーナーさん！"
     },
     {
-      "name": "Uma Musume ban tổ chức",
+      "name": "Mã Nương ban tổ chức",
       "text": "Mật lệnh dành cho vị điệp viên này là―― \"Thần tượng đỉnh cao vạn người mê\"! Xin mời trình diễn!",
       "jpname": "主催者ウマ娘",
       "jptext": "エージェントへの指令は――『今をときめくトップアイドル』！\nでは、どうぞ！"
@@ -210,7 +211,7 @@
       "jpname": "デアリングハート",
       "jptext": "Wow...",
       "choice_data_list": [
-        "Hôm nay tôi sẽ không để các bạn về đâu... hãy cùng chạy với tôi nhé!",
+        "Hôm nay anh sẽ không để các em về đâu... hãy cùng chạy với anh nhé!",
         "Hôm nay tôi sẽ không để các bạn về đâu... hãy cùng chạy với tôi nhé!"
       ],
       "jpchoice_data_list": [
@@ -260,8 +261,8 @@
       "jpname": "デアリングハート",
       "jptext": "いつもの流れなら、この後しばらくはダンスタイムね。\n私は行ってくるけれど、あなたは少し休んで……。",
       "choice_data_list": [
-        "Đợi đã, tôi cũng đi cùng cô.",
-        "Đợi đã, tôi cũng đi cùng cô."
+        "Đợi đã, anh cũng đi cùng em.",
+        "Đợi đã, tôi cũng đi cùng bạn."
       ],
       "jpchoice_data_list": [
         "待って、俺も行くよ",
@@ -444,8 +445,8 @@
       "jpname": "デアリングハート",
       "jptext": "ね。他の子は？　よかったら他の分析結果を見せてほしいわ！\n答え合わせをしましょうよ！",
       "choice_data_list": [
-        "Tôi thì không sao, nhưng cô bỏ dở bữa tiệc thế có ổn không?",
-        "Tôi thì không sao, nhưng cô bỏ dở bữa tiệc thế có ổn không?"
+        "Anh thì không sao, nhưng em bỏ dở bữa tiệc thế có ổn không?",
+        "Tôi thì không sao, nhưng bạn bỏ dở bữa tiệc thế có ổn không?"
       ],
       "jpchoice_data_list": [
         "俺はいいけど、パーティーはいいのか？",

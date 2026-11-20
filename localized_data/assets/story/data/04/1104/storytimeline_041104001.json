@@ -1,10 +1,11 @@
 {
   "title": "Bên Ngoài Những Ánh Mắt",
   "jptitle": "多くの視線の外に",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Giọng từ TV",
-      "text": "Giấc mơ của biết bao Uma Musume, Twinkle Series! Liệu ai sẽ là người chạm tới đỉnh cao và lưu danh sử sách đây?!",
+      "text": "Giấc mơ của biết bao mã nương, Twinkle Series! Liệu ai sẽ là người chạm tới đỉnh cao và lưu danh sử sách đây?!",
       "jpname": "テレビからの声",
       "jptext": "『多くのウマ娘たちの夢、トゥインクル・シリーズ！\nその頂点、名を残すのは誰か、果たして――！』",
       "choice_data_list": []
@@ -18,7 +19,7 @@
     },
     {
       "name": "Đứa bé vô tư",
-      "text": "Tuyệt quá đi! Chị Uma Musume đằng kia chạy nhanh thật đấy! Vù một cái như ngọn gió luôn!",
+      "text": "Tuyệt quá đi! chị mã nương đằng kia chạy nhanh thật đấy! Vù một cái như ngọn gió luôn!",
       "jpname": "のんびりとした子ども",
       "jptext": "すごいすごい！　あのウマ娘さん、はやーい！\nビュンビューンッて風みたい！",
       "choice_data_list": []
@@ -59,8 +60,8 @@
       "choice_data_list": []
     },
     {
-      "name": "Uma Musume chờ tuyển trạch",
-      "text": "Ước mơ của em ấy ạ? Đương nhiên là chiến thắng các cuộc đua rồi! Đã là Uma Musume thì ai cũng nghĩ vậy thôi ạ.",
+      "name": "Mã Nương chờ tuyển trạch",
+      "text": "Ước mơ của em ấy ạ? Đương nhiên là chiến thắng các cuộc đua rồi! Đã là mã nương thì ai cũng nghĩ vậy thôi ạ.",
       "jpname": "スカウト待ちのウマ娘",
       "jptext": "わたしの夢、ですか？　そりゃレースに勝つことですよ！\nウマ娘なら、みんなそうだと思います。",
       "choice_data_list": [
@@ -79,7 +80,7 @@
     },
     {
       "name": "",
-      "text": "Ước mơ của tôi là dẫn dắt cô nàng Uma Musume mà mình đảm nhận giành vô số chiến thắng G1, đánh bại cả những Uma Musume lừng danh trên khắp thế giới...",
+      "text": "Ước mơ của tôi là dẫn dắt cô nàng mã nương mà mình đảm nhận giành vô số chiến thắng G1, đánh bại cả những mã nương lừng danh trên khắp thế giới...",
       "jpname": "モノローグ",
       "jptext": "自分の夢は、担当するウマ娘がいくつものGⅠに勝利し、\n世界中の名だたるウマ娘たちをも倒せるよう導く――",
       "choice_data_list": [
@@ -90,7 +91,7 @@
       ]
     },
     {
-      "name": "Uma Musume chờ tuyển trạch",
+      "name": "Mã Nương chờ tuyển trạch",
       "text": "Phải ha, Trainer-san mơ mộng như thế cũng dễ hiểu thôi mà. Giấc mơ dẫu có lớn đến đâu thì mơ cũng đâu có mất tiền mua. Cả hai chúng ta cùng cố gắng nhé! Em đi đây ạ!",
       "jpname": "スカウト待ちのウマ娘",
       "jptext": "そうですよね、トレーナーさんもそういう夢見ちゃいますよね。\n大きくても見るだけなら自由だし。頑張りましょ、お互い！　じゃ！",
@@ -184,7 +185,7 @@
       "choice_data_list": []
     },
     {
-      "name": "Uma Musume vẻ mặt lo lắng",
+      "name": "Mã Nương vẻ mặt lo lắng",
       "text": "N-Ngầu quá đi mất...! Cảm giác như đây mới đích thực là chạy vậy... Em, em cũng muốn nói chuyện...",
       "jpname": "緊張した様子のウマ娘",
       "jptext": "か、かっこいい～……！　これぞ本物の走りって感じ……\nあのっ、私も話を……。",
@@ -192,7 +193,7 @@
     },
     {
       "name": "",
-      "text": "Nhận ra tiếng xôn xao, tôi đảo mắt nhìn qua. Ở đó có rất nhiều Trainer và các Uma Musume, và rồi...",
+      "text": "Nhận ra tiếng xôn xao, tôi đảo mắt nhìn qua. Ở đó có rất nhiều Trainer và các mã nương, và rồi...",
       "jpname": "モノローグ",
       "jptext": "ざわめきに気がつき視線を動かす。\nそこにはたくさんのトレーナーたちとウマ娘たち、そして――",
       "choice_data_list": []
@@ -206,14 +207,14 @@
     },
     {
       "name": "",
-      "text": "Cô nàng Uma Musume nhẹ nhàng luồn qua đám đông rồi lao vút ra đường chạy. Nhìn mức độ thu hút sự chú ý thế kia, hẳn là một gương mặt vô cùng nổi tiếng.",
+      "text": "Cô nàng mã nương nhẹ nhàng luồn qua đám đông rồi lao vút ra đường chạy. Nhìn mức độ thu hút sự chú ý thế kia, hẳn là một gương mặt vô cùng nổi tiếng.",
       "jpname": "モノローグ",
       "jptext": "周りの人々をさらりとかわし、コースへと走り出すウマ娘。\n注目度からして、さぞかし名のあるウマ娘なんだろう。",
       "choice_data_list": []
     },
     {
       "name": "",
-      "text": "Thế nhưng bản thân tôi thì... nghĩ đoạn, tôi quay lại nhìn cô nàng Uma Musume ban nãy. Có điều bóng dáng cô ấy đã biến mất tự lúc nào...",
+      "text": "Thế nhưng bản thân tôi thì... nghĩ đoạn, tôi quay lại nhìn cô nàng mã nương ban nãy. Có điều bóng dáng cô ấy đã biến mất tự lúc nào...",
       "jpname": "モノローグ",
       "jptext": "だが、自分は――と、先ほどのウマ娘に視線を戻す。\nしかしそこにその姿はなく……。",
       "choice_data_list": []
@@ -289,7 +290,7 @@
       "choice_data_list": []
     },
     {
-      "name": "Uma Musume vẻ mặt lo lắng",
+      "name": "Mã Nương vẻ mặt lo lắng",
       "text": "Tuyệt quá... Chị C.B. xé gió mà lao đi kìa... Katsuragi Ace-san không tài nào đuổi kịp rồi!",
       "jpname": "緊張した様子のウマ娘",
       "jptext": "すごい……シービーさん、風を切るみたいに走って……。\nカツラギエースさんが追いつけない！",
@@ -317,7 +318,7 @@
       "choice_data_list": []
     },
     {
-      "name": "Uma Musume vẻ mặt lo lắng",
+      "name": "Mã Nương vẻ mặt lo lắng",
       "text": "A, chị C.B. ơiii!",
       "jpname": "緊張した様子のウマ娘",
       "jptext": "あっ、シービーさーんっ！",
@@ -377,7 +378,7 @@
     },
     {
       "name": "",
-      "text": "Hay nên động viên thẳng thắn một câu rằng lần sau hãy cố lên nhỉ? Dù không phải người mình phụ trách, nhưng quả thực chẳng thể nào ngó lơ một Uma Musume đang ủ rũ như thế...",
+      "text": "Hay nên động viên thẳng thắn một câu rằng lần sau hãy cố lên nhỉ? Dù không phải người mình phụ trách, nhưng quả thực chẳng thể nào ngó lơ một mã nương đang ủ rũ như thế...",
       "jpname": "モノローグ",
       "jptext": "もっとストレートに『次は頑張れ』と慰めるべきだろうか？\n担当でなくとも、やはり落ち込んだウマ娘を放っておくことは――",
       "choice_data_list": []

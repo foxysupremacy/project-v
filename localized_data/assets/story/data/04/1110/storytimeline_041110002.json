@@ -1,6 +1,7 @@
 {
   "title": "Dẫu đôi chân có bén rễ cũng quyết chẳng rời",
   "jptitle": "足に根が生えても動きませぬ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -33,7 +34,7 @@
     },
     {
       "name": "",
-      "text": "Ngoảnh lại về phía phát ra giọng nói, tôi thấy Cesario đang chạy đùa đầy vui vẻ cùng một cô bé nhỏ nhắn. Nhìn kỹ hơn, cô bé ấy có đôi tai và chiếc đuôi của một Uma Musume.",
+      "text": "Ngoảnh lại về phía phát ra giọng nói, tôi thấy Cesario đang chạy đùa đầy vui vẻ cùng một cô bé nhỏ nhắn. Nhìn kỹ hơn, cô bé ấy có đôi tai và chiếc đuôi của một mã nương.",
       "jpname": "モノローグ",
       "jptext": "声の方へ振り返ると、シーザリオが幼い少女と楽しげに走っていた。\nよく見れば、少女にはウマ娘の耳と尻尾がある。",
       "choice_data_list": [],
@@ -48,7 +49,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Cô bé Uma Musume",
+      "name": "Cô bé Mã Nương",
       "text": "Ừm để em nghĩ xemmm…… thi chạy ngắn ạ! Rồi sau đó chạy tiếp sức, cả chạy marathon nữa cơ!",
       "jpname": "ウマ娘の少女",
       "jptext": "うーんとねー……かけっこ！\nつぎはりれーで、まらそんもやるの！",
@@ -64,7 +65,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Cô bé Uma Musume",
+      "name": "Cô bé Mã Nương",
       "text": "Em cảm ơn chị nhaaa! Lần sau lại chơi cùng em nữa nhéee!",
       "jpname": "ウマ娘の少女",
       "jptext": "おねえちゃん、ありがとー！　またあそぼーね～！",
@@ -86,7 +87,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Hở? Ôi, Trainer hôm trước……! Chào người. Người đang đi dạo sao?",
+      "text": "Hở? Ôi, anh Trainer hôm trước……! Chào anh. Anh đang đi dạo sao?",
       "jpname": "シーザリオ",
       "jptext": "えっ？　まぁ、先日の……！　こんにちは。お散歩中ですか？",
       "choice_data_list": [
@@ -117,7 +118,7 @@
     },
     {
       "name": "",
-      "text": "Dẫu chỉ là một đứa trẻ, thể lực và tốc độ của một Uma Musume vẫn vô cùng kinh người. Người cha ấy kiệt sức đến thế cũng là điều dễ hiểu.",
+      "text": "Dẫu chỉ là một đứa trẻ, thể lực và tốc độ của một mã nương vẫn vô cùng kinh người. Người cha ấy kiệt sức đến thế cũng là điều dễ hiểu.",
       "jpname": "モノローグ",
       "jptext": "子どもとはいえ、ウマ娘は体力も脚の速さも凄まじい。\n疲れきってしまうのもうなずける。",
       "choice_data_list": [],
@@ -125,7 +126,7 @@
     },
     {
       "name": "",
-      "text": "Nghe nói thường ngày cô bé vẫn hay chạy nhảy cùng mẹ mình là một Uma Musume, nhưng hôm nay vì mẹ bị cảm nhẹ nên chỉ có một mình người cha dẫn bé đi.",
+      "text": "Nghe nói thường ngày cô bé vẫn hay chạy nhảy cùng mẹ mình là một mã nương, nhưng hôm nay vì mẹ bị cảm nhẹ nên chỉ có một mình người cha dẫn bé đi.",
       "jpname": "モノローグ",
       "jptext": "あの少女も普段はウマ娘の母親と走りまわっているそうだが、\n今日は母親が風邪気味のため、父親1人だったという。",
       "choice_data_list": [
@@ -198,7 +199,7 @@
     },
     {
       "name": "Cesario",
-      "text": "A, ý tôi là…… mẹ của cô bé ấy ạ. Xin lỗi người, do thói quen nên tôi lỡ miệng gọi mẹ bé là \"thầy\".",
+      "text": "A, ý tôi là…… mẹ của cô bé ấy ạ. Xin lỗi anh, do thói quen nên tôi lỡ miệng gọi mẹ bé là \"thầy\".",
       "jpname": "シーザリオ",
       "jptext": "あ、えっと……あの子の母君のことです。\nすみません、つい癖で『先生』と呼んでしまって。",
       "choice_data_list": [
@@ -221,7 +222,7 @@
     },
     {
       "name": "",
-      "text": "Cesario vừa trầm ngâm vừa cất bước. Khi tôi rảo bước theo sau, từ đằng xa nơi quảng trường dần hiện ra bóng dáng những bé gái Uma Musume đang chạy nhảy nô đùa.",
+      "text": "Cesario vừa trầm ngâm vừa cất bước. Khi tôi rảo bước theo sau, từ đằng xa nơi quảng trường dần hiện ra bóng dáng những bé gái mã nương đang chạy nhảy nô đùa.",
       "jpname": "モノローグ",
       "jptext": "シーザリオは考え込みながら歩き始める。後を追うと、\n遠くの広場で走り回っている子どものウマ娘たちが見えてきた。",
       "choice_data_list": [],
@@ -229,7 +230,7 @@
     },
     {
       "name": "",
-      "text": "Người đang chăm nom các em dường như cũng là một Uma Musume. Có lẽ đó là câu lạc bộ đang sinh hoạt tại khu vực này.",
+      "text": "Người đang chăm nom các em dường như cũng là một mã nương. Có lẽ đó là câu lạc bộ đang sinh hoạt tại khu vực này.",
       "jpname": "モノローグ",
       "jptext": "彼らの面倒を見ているのもウマ娘のようだ。\nこの辺りで活動しているクラブチームなのだろう。",
       "choice_data_list": [],
@@ -237,7 +238,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Khát khao được chạy tựa như bản năng…… sức mạnh nguyên bản bẩm sinh―― Uma Musume được ban tặng rất nhiều điều mà con người bình thường không có.",
+      "text": "Khát khao được chạy tựa như bản năng…… sức mạnh nguyên bản bẩm sinh―― mã nương được ban tặng rất nhiều điều mà con người bình thường không có.",
       "jpname": "シーザリオ",
       "jptext": "本能にも似た、走りたいという気持ち……生まれ持った力の強さ――\nウマ娘には、ヒトにはない様々なものが備わっています。",
       "choice_data_list": [],
@@ -245,7 +246,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Học được cách đối diện và làm chủ những điều ấy là một việc vô cùng hệ trọng. Bởi đó chính là nền tảng cốt lõi cho lẽ sống của một Uma Musume.",
+      "text": "Học được cách đối diện và làm chủ những điều ấy là một việc vô cùng hệ trọng. Bởi đó chính là nền tảng cốt lõi cho lẽ sống của một mã nương.",
       "jpname": "シーザリオ",
       "jptext": "それらとの向き合い方を知るのは、とても大切なことなんです。\nウマ娘としての生き方の、根幹をなすから。",
       "choice_data_list": [],
@@ -253,7 +254,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Uma Musume dẫn dắt Uma Musume―― Có những đứa trẻ được mẹ trực tiếp truyền dạy, lại có những em cảm nhận được mối duyên định mệnh từ huấn luyện viên câu lạc bộ mà tôn họ làm thầy.",
+      "text": "Mã Nương dẫn dắt mã nương―― Có những đứa trẻ được mẹ trực tiếp truyền dạy, lại có những em cảm nhận được mối duyên định mệnh từ huấn luyện viên câu lạc bộ mà tôn họ làm thầy.",
       "jpname": "シーザリオ",
       "jptext": "ウマ娘を導くウマ娘――母親から直に教わる子もいれば、\n育成クラブのコーチから運命的なものを感じ、師事する子もいます。",
       "choice_data_list": [],
@@ -261,7 +262,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Dù dưới bất kỳ hình thức nào đi chăng nữa…… những thế hệ Uma Musume đi trước dẫn dắt thế hệ kế cận đều đang gánh vác một sứ mệnh vô cùng vĩ đại.",
+      "text": "Dù dưới bất kỳ hình thức nào đi chăng nữa…… những thế hệ mã nương đi trước dẫn dắt thế hệ kế cận đều đang gánh vác một sứ mệnh vô cùng vĩ đại.",
       "jpname": "シーザリオ",
       "jptext": "どんな形であっても……後進を導くウマ娘たちが\nとてつもない大役を担っていることに、変わりはありません。",
       "choice_data_list": [],
@@ -269,7 +270,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Chính vì thế, tôi luôn dùng danh xưng \"thầy\" với tất cả lòng tôn kính. Bởi đó là một vai trò thiêng liêng và đặc biệt mà chỉ Uma Musume mới có thể đảm nhận.",
+      "text": "Chính vì thế, tôi luôn dùng danh xưng \"thầy\" với tất cả lòng tôn kính. Bởi đó là một vai trò thiêng liêng và đặc biệt mà chỉ mã nương mới có thể đảm nhận.",
       "jpname": "シーザリオ",
       "jptext": "だから『先生』と、敬意を込めて呼んでいるんです。\nウマ娘にしかできない、特別な役割として。",
       "choice_data_list": [],
@@ -298,7 +299,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Thực ra thì…… đúng là vậy. Cha mẹ tôi đều làm công việc liên quan đến việc nuôi dưỡng và đào tạo Uma Musume, nên từ thuở nhỏ, tôi đã luôn dõi theo dáng hình mẹ chỉ dạy các thế hệ học trò.",
+      "text": "Thực ra thì…… đúng là vậy. Cha mẹ tôi đều làm công việc liên quan đến việc nuôi dưỡng và đào tạo mã nương, nên từ thuở nhỏ, tôi đã luôn dõi theo dáng hình mẹ chỉ dạy các thế hệ học trò.",
       "jpname": "シーザリオ",
       "jptext": "実は……はい。両親がウマ娘の育成に関わる仕事をしていて\n小さい頃から、母が指導する姿を見てきたんです。",
       "choice_data_list": [],
@@ -337,7 +338,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Một khi đã sinh ra là một Uma Musume, tôi cũng khao khát được trở thành một phần của dòng chảy vĩ đại ấy. Dưới tư cách là một \"người thầy\" dìu dắt biết bao thế hệ Uma Musume…… để rồi một ngày trở thành \"nền móng\"――",
+      "text": "Một khi đã sinh ra là một mã nương, tôi cũng khao khát được trở thành một phần của dòng chảy vĩ đại ấy. Dưới tư cách là một \"người thầy\" dìu dắt biết bao thế hệ mã nương…… để rồi một ngày trở thành \"nền móng\"――",
       "jpname": "シーザリオ",
       "jptext": "私もウマ娘に生まれたからには、その偉大な流れの一部になりたい。\n『先生』としてたくさんのウマ娘を導いて……やがて、『礎』に――",
       "choice_data_list": [
@@ -366,7 +367,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Đó là trở thành nền móng cho tương lai của các thế hệ Uma Musume―― Chính vì vậy, để chứng minh bản lĩnh và tầm vóc của mình, tôi bắt buộc phải chiến thắng trên đường đua.",
+      "text": "Đó là trở thành nền móng cho tương lai của các thế hệ mã nương―― Chính vì vậy, để chứng minh bản lĩnh và tầm vóc của mình, tôi bắt buộc phải chiến thắng trên đường đua.",
       "jpname": "シーザリオ",
       "jptext": "それは、未来のウマ娘の礎となること――\n故に私は、器を示すために、レースで勝たなければならないのです。",
       "choice_data_list": [],
@@ -374,7 +375,7 @@
     },
     {
       "name": "",
-      "text": "Hóa ra câu nói ấy mang ý nghĩa là muốn trở thành \"người thầy\" dìu dắt muôn vàn Uma Musume sau này sao.",
+      "text": "Hóa ra câu nói ấy mang ý nghĩa là muốn trở thành \"người thầy\" dìu dắt muôn vàn mã nương sau này sao.",
       "jpname": "モノローグ",
       "jptext": "あの言葉は、『先生』になってたくさんのウマ娘を導きたい\nという意味だったのか。",
       "choice_data_list": [],
@@ -407,8 +408,8 @@
       "jpname": "シーザリオ",
       "jptext": "え……？",
       "choice_data_list": [
-        "Tôi muốn biết về \"nền móng\" mà cô đã nhắc tới",
-        "Tôi muốn thấu hiểu về \"nền móng\" mà cô hằng ấp ủ"
+        "Anh muốn biết về \"nền móng\" mà em đã nhắc tới",
+        "Tôi muốn thấu hiểu về \"nền móng\" mà bạn hằng ấp ủ"
       ],
       "jpchoice_data_list": [
         "君が言う『礎』について、知りたいんだ",

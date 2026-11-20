@@ -1,6 +1,7 @@
 {
   "title": "Mình Là Mr. C.B.",
   "jptitle": "アタシはミスターシービー",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -82,7 +83,7 @@
     },
     {
       "name": "Mr. C.B.",
-      "text": "(Giá như mình là một Uma Musume có thể chạy đua vì một điều gì đó...)",
+      "text": "(Giá như mình là một mã nương có thể chạy đua vì một điều gì đó...)",
       "jpname": "ミスターシービー",
       "jptext": "（もしも、アタシがなにかのために走れるウマ娘だったら……）"
     },
@@ -206,8 +207,8 @@
       "jpname": "ミスターシービー",
       "jptext": "へ？　うそ、腰抜かしちゃったの？",
       "choice_data_list": [
-        "Cậu có thể vượt qua mọi giới hạn",
-        "Em có thể vượt qua mọi giới hạn"
+        "Em có thể vượt qua mọi giới hạn",
+        "Bạn có thể vượt qua mọi giới hạn"
       ],
       "jpchoice_data_list": [
         "君なら何もかもを超えられる",
@@ -244,8 +245,8 @@
       "jpname": "モノローグ",
       "jptext": "ミスターシービーに感じている可能性を表現したかったのだ……\nと、伝えた。",
       "choice_data_list": [
-        "Cậu là Uma Musume mang lại những giấc mơ",
-        "Em là Uma Musume mang lại những giấc mơ"
+        "Em là mã nương mang lại những giấc mơ",
+        "Bạn là mã nương mang lại những giấc mơ"
       ],
       "jpchoice_data_list": [
         "君は夢を見せてくれるウマ娘なんだ",

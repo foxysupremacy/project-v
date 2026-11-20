@@ -1,6 +1,7 @@
 {
   "title": "Khoảng lặng giữa các hồi, và câu chuyện nối dài vô tận",
   "jptitle": "幕間、そして物語はどこまでも",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -12,7 +13,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Phù…… Trainer, cho tôi chạy thêm một lượt nữa được không ạ?",
+      "text": "Phù…… Anh Trainer, cho em chạy thêm một lượt nữa được không ạ?",
       "jpname": "シーザリオ",
       "jptext": "ふぅ……。\nトレーナー、もう1本いいですか？",
       "choice_data_list": [],
@@ -35,7 +36,7 @@
     },
     {
       "name": "Cesario",
-      "text": "……Tôi hiểu rồi ạ. Vậy thì lượt chạy cuối này, tôi sẽ dốc sức trân trọng từng bước chạy.",
+      "text": "……Em hiểu rồi ạ. Vậy thì lượt chạy cuối này, em sẽ dốc sức trân trọng từng bước chạy.",
       "jpname": "シーザリオ",
       "jptext": "……わかりました。\nではラスト1本、大事にいってきます。",
       "choice_data_list": [],
@@ -93,7 +94,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Cảm ơn sự chỉ đạo của người. ……Trong đợt tập huấn này, tôi nhất định sẽ tạo nên thành quả. Vậy tôi xin phép――",
+      "text": "Cảm ơn sự chỉ đạo của anh. ……Trong đợt tập huấn này, em nhất định sẽ tạo nên thành quả. Vậy tôi xin phép――",
       "jpname": "シーザリオ",
       "jptext": "ご指導、ありがとうございました。\n……合宿中に、必ず結果を出してみせます。それでは――",
       "choice_data_list": [
@@ -106,7 +107,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Vâng, là họp bàn chiến thuật sao ạ? Tôi sẽ đi lấy bút sổ ghi chép, xin người vui lòng đợi một lát――",
+      "text": "Vâng, là họp bàn chiến thuật sao ạ? Tôi sẽ đi lấy bút sổ ghi chép, xin anh vui lòng đợi một lát――",
       "jpname": "シーザリオ",
       "jptext": "はい、ミーティングでしょうか？\n書くものを用意してくるので、少々お待ちいただければ――",
       "choice_data_list": [
@@ -119,7 +120,7 @@
     },
     {
       "name": "Cesario",
-      "text": "……? Thứ người muốn cho tôi xem sao ạ?",
+      "text": "……? Thứ anh muốn cho em xem sao ạ?",
       "jpname": "シーザリオ",
       "jptext": "……？　見せたいもの、ですか？",
       "choice_data_list": [],
@@ -281,7 +282,7 @@
     },
     {
       "name": "Cesario",
-      "text": "T-Trainer ơi. Thật là, người có làm sao không đấy?",
+      "text": "T-Trainer ơi. Thật là, anh có làm sao không đấy?",
       "jpname": "シーザリオ",
       "jptext": "ト、トレーナー。ちょっともう、大丈夫ですか？",
       "choice_data_list": [
@@ -296,7 +297,7 @@
     },
     {
       "name": "Cesario",
-      "text": "May quá…… người không bị thương…… Mà điều người muốn cho tôi xem, là màn vừa rồi sao ạ……?",
+      "text": "May quá…… anh không bị thương…… Mà điều anh muốn cho em xem, là màn vừa rồi sao ạ……?",
       "jpname": "シーザリオ",
       "jptext": "よかった……ケガがなくて……。\nというか見せたいものって、今の……？",
       "choice_data_list": [
@@ -309,7 +310,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Hóa ra là vậy sao. Fufu, x-xin lỗi người nhé……",
+      "text": "Hóa ra là vậy sao. Fufu, x-xin lỗi anh nhé……",
       "jpname": "シーザリオ",
       "jptext": "そう、だったんですね。\nふふっ、す、すみません……。",
       "choice_data_list": [
@@ -322,7 +323,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Không đâu ạ. Chuyện là………… thứ lỗi cho tôi nhé, nhưng màn kịch vừa rồi thực sự rất buồn cười đấy ạ.",
+      "text": "Không đâu ạ. Chuyện là………… thứ lỗi cho em nhé, nhưng màn kịch vừa rồi thực sự rất buồn cười đấy ạ.",
       "jpname": "シーザリオ",
       "jptext": "いえ、そんな。\nその…………失礼ですが、すごく面白かったです。",
       "choice_data_list": [],
@@ -406,7 +407,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Thế nhưng, bên cạnh tôi lại có một điểm tựa còn lớn lao hơn thế. Đó chính là người―― \"người bạn đồng hành\" của tôi.",
+      "text": "Thế nhưng, bên cạnh tôi lại có một điểm tựa còn lớn lao hơn thế. Đó chính là anh―― \"người bạn đồng hành\" của em.",
       "jpname": "シーザリオ",
       "jptext": "ですが、私にはそれ以上に大きな存在がいます。\n貴方という『パートナー』が。",
       "choice_data_list": [],
@@ -414,7 +415,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Điều đó mang lại cho tôi niềm vững tâm to lớn biết bao. Suốt những tháng ngày qua, tôi luôn cảm nhận sâu sắc điều ấy.",
+      "text": "Điều đó mang lại cho em niềm vững tâm to lớn biết bao. Suốt những tháng ngày qua, tôi luôn cảm nhận sâu sắc điều ấy.",
       "jpname": "シーザリオ",
       "jptext": "それがどれほど心強いことか。\nこれまでの日々で、ずっと感じてきました。",
       "choice_data_list": [],
@@ -442,8 +443,8 @@
       "jpname": "モノローグ",
       "jptext": "そう。シーザリオをこのトリプルティアラを巡る\n壮大な物語の主役にするために自分がいる。だから――",
       "choice_data_list": [
-        "Cesario, tôi sẽ đưa cô bước lên ngai vàng của nhân vật chính",
-        "Cesario, tôi nhất định sẽ đưa cô tỏa sáng ở vị trí trung tâm"
+        "Cesario, anh sẽ đưa em bước lên ngai vàng của nhân vật chính",
+        "Cesario, tôi nhất định sẽ đưa bạn tỏa sáng ở vị trí trung tâm"
       ],
       "jpchoice_data_list": [
         "シーザリオ、君を主役の座に座らせる",
@@ -477,7 +478,7 @@
     },
     {
       "name": "Cesario",
-      "text": "Trainer, một khi người là \"người bạn đồng hành\" của tôi, điều ấy chắc chắn sẽ trở thành hiện thực.",
+      "text": "Anh Trainer, một khi anh là \"người bạn đồng hành\" của em, điều ấy chắc chắn sẽ trở thành hiện thực.",
       "jpname": "シーザリオ",
       "jptext": "トレーナー、貴方が『パートナー』であるならば、\nそれも叶うでしょう。",
       "choice_data_list": [

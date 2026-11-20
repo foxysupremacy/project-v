@@ -1,6 +1,7 @@
 {
   "title": "Phương trời xa xăm chẳng thuộc về nơi này",
   "jptitle": "此処ではない彼方",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -32,8 +33,8 @@
       "jpname": "ステイゴールド",
       "jptext": "……お～！\n久しぶり。元気そうだな。",
       "choice_data_list": [
-        "Cậu vẫn còn nhớ tôi sao?",
-        "Cậu vẫn nhớ tôi à?"
+        "Em vẫn còn nhớ tôi sao?",
+        "Bạn vẫn nhớ tôi à?"
       ],
       "jpchoice_data_list": [
         "俺のこと、覚えているのか？",
@@ -46,8 +47,8 @@
       "jpname": "ステイゴールド",
       "jptext": "そりゃそうだろ。\nいい旅は、そうそう忘れられないもんさ。",
       "choice_data_list": [
-        "...Tôi muốn được nói chuyện với cậu thêm một lần nữa",
-        "...Tôi muốn trò chuyện cùng cậu thêm lần nữa"
+        "...Tôi muốn được nói chuyện với em thêm một lần nữa",
+        "...Tôi muốn trò chuyện cùng bạn thêm lần nữa"
       ],
       "jpchoice_data_list": [
         "……君と、もう一度話したくて",
@@ -66,8 +67,8 @@
       "jpname": "ステイゴールド",
       "jptext": "――にしても、よく私を見つけられたな。\nどんな手を使ったんだ？",
       "choice_data_list": [
-        "Dựa vào gợi ý từ \"dấu móng\" mà cậu đã kể",
-        "Lấy manh mối từ \"dấu móng\" mà cậu từng bảo"
+        "Dựa vào gợi ý từ \"dấu móng\" mà em đã kể",
+        "Lấy manh mối từ \"dấu móng\" mà bạn từng bảo"
       ],
       "jpchoice_data_list": [
         "君が教えてくれた“蹄跡”を、ヒントに",
@@ -356,8 +357,8 @@
       "jpname": "ステイゴールド",
       "jptext": "お、あんたか。……どうやら見えたみたいだな。\n正直賭けだったが、あんたはやっぱり私と縁があるらしい。",
       "choice_data_list": [
-        "Cậu biết thứ đó là gì sao...?",
-        "Cậu có biết cảnh tượng vừa rồi là gì không...?"
+        "Em biết thứ đó là gì sao...?",
+        "Bạn có biết cảnh tượng vừa rồi là gì không...?"
       ],
       "jpchoice_data_list": [
         "君はあれが何か、知っているのか……？",

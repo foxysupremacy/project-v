@@ -1,6 +1,7 @@
 {
   "title": "Đồng thuận",
   "jptitle": "Agreement",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -9,14 +10,14 @@
       "jptext": "完璧に、勝敗はついた。ドリームジャーニーの圧倒的な走りは、\n絡んできた彼女たちの心を折るには……十分だった。"
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Không thể nào...! Cái thứ... cái thứ này——",
       "jpname": "不穏なウマ娘",
       "jptext": "ウソじゃん……！\nこんな、こんな――"
     },
     {
       "name": "Dream Journey",
-      "text": "Thua một Uma Musume nhỏ nhắn trông có vẻ yếu ớt thế này... là điều không thể chấp nhận được, có phải không?",
+      "text": "Thua một mã nương nhỏ nhắn trông có vẻ yếu ớt thế này... là điều không thể chấp nhận được, có phải không?",
       "jpname": "ドリームジャーニー",
       "jptext": "こんな、小柄で弱そうなウマ娘に負けるなんて……\nありえない、でしょうか？"
     },
@@ -33,7 +34,7 @@
       "jptext": "ええ、わかりますとも……。貴方がたがどう振舞われるかは、\nきちんと頭に入れておりましたから。"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "...Hự! M-Mày nói cái gì...——",
       "jpname": "大柄なウマ娘",
       "jptext": "……っ！\nは、お前、何を……――"
@@ -51,7 +52,7 @@
       "jptext": "本当に残念だ。オルの糧になっていただければよかったのですが……\n貴方がたを振り払うのに、あの子の大事な脚は使わせられません。"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "M-Mày... chỉ là con học sinh gương mẫu thôi mà...!! Vậy mà... r-rốt cuộc mày là cái thứ quái quỷ gì hả...!!",
       "jpname": "大柄なウマ娘",
       "jptext": "お、お前……ただの、優等生だろ……っ！！\nなのに……な、なんなんだよ、お前……っ！！"
@@ -74,8 +75,8 @@
       "jpname": "モノローグ",
       "jptext": "ドリームジャーニーに変化はない。常に丁寧で、穏やかだ……\nだからこそ、もう違和感をごまかすことはできなかった。",
       "choice_data_list": [
-        "Tôi... chẳng thể hiểu nổi cô",
-        "Tôi... không hiểu nổi con người cô"
+        "Anh... chẳng thể hiểu nổi em",
+        "Tôi... không hiểu nổi con người bạn"
       ],
       "jpchoice_data_list": [
         "俺には……君が、わからない",
@@ -100,8 +101,8 @@
       "jpname": "ドリームジャーニー",
       "jptext": "なんだ、思い出していただけたのですね。\n覚えていないようでしたので、これも配慮したまでですよ。",
       "choice_data_list": [
-        "Quả nhiên là cô vẫn luôn nhớ rõ nhỉ",
-        "Quả nhiên là cô vẫn nhớ chuyện năm xưa nhỉ"
+        "Quả nhiên là em vẫn luôn nhớ rõ nhỉ",
+        "Quả nhiên là bạn vẫn nhớ chuyện năm xưa nhỉ"
       ],
       "jpchoice_data_list": [
         "やっぱり君は、覚えていたんだな",
@@ -224,13 +225,13 @@
     },
     {
       "name": "",
-      "text": "Sau khi giành chiến thắng tại cuộc đua quốc tế, nàng Uma Musume ấy từng chia sẻ rằng muốn ngắm nhìn \"nơi tận cùng\" tiếp theo, rồi lại dấn thân vào chuyến phiêu lưu...",
+      "text": "Sau khi giành chiến thắng tại cuộc đua quốc tế, nàng mã nương ấy từng chia sẻ rằng muốn ngắm nhìn \"nơi tận cùng\" tiếp theo, rồi lại dấn thân vào chuyến phiêu lưu...",
       "jpname": "モノローグ",
       "jptext": "海外レースを勝利した後、\nそのウマ娘は次の“果て”を見たいと話し、旅を求めた……。"
     },
     {
       "name": "",
-      "text": "Nếu Dream Journey có mối quan hệ với nàng Uma Musume ấy... thì \"nơi tận cùng của chuyến lữ hành\" có lẽ chính là——được đặt chân đến bên cạnh cô ấy.",
+      "text": "Nếu Dream Journey có mối quan hệ với nàng mã nương ấy... thì \"nơi tận cùng của chuyến lữ hành\" có lẽ chính là——được đặt chân đến bên cạnh cô ấy.",
       "jpname": "モノローグ",
       "jptext": "ドリームジャーニーがあのウマ娘と関わりがあったのなら……\nその“旅の果て”とは恐らく――彼女のもとに辿りつくこと。",
       "choice_data_list": [
@@ -278,8 +279,8 @@
       "jpname": "モノローグ",
       "jptext": "最初の契約の時から、すでに覚悟は決めていた。ちゃんと彼女と\n契約を結ぶ理由があった……それを反故にはしない。それに――",
       "choice_data_list": [
-        "Tôi muốn được chứng kiến tận mắt nơi tận cùng trong chuyến lữ hành của cô",
-        "Tôi muốn theo dõi cho tới cùng đích đến trong chuyến hành trình của cô"
+        "Anh muốn được chứng kiến tận mắt nơi tận cùng trong chuyến lữ hành của em",
+        "Tôi muốn theo dõi cho tới cùng đích đến trong chuyến hành trình của bạn"
       ],
       "jpchoice_data_list": [
         "君の旅の果てを、見届けたい",
@@ -354,8 +355,8 @@
       "jpname": "ドリームジャーニー",
       "jptext": "おや、そうですか？\n是非、参考までに教えていただきたいですね。",
       "choice_data_list": [
-        "Tôi đã đặt trọn giấc mơ vào chính bước chạy của bản thân cô",
-        "Tôi đã nhìn thấy giấc mơ từ chính bước chạy của riêng cô"
+        "Anh đã đặt trọn giấc mơ vào chính bước chạy của bản thân em",
+        "Tôi đã nhìn thấy giấc mơ từ chính bước chạy của riêng bạn"
       ],
       "jpchoice_data_list": [
         "俺は君自身の走りに、夢を見たんだ",

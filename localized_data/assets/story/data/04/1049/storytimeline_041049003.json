@@ -1,6 +1,7 @@
 {
   "title": "Cơn say nồng nhiệt huyết",
   "jptitle": "熱に浮かされたのは",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Chủ nhiệm cũ của Nakayama",
@@ -16,7 +17,7 @@
     },
     {
       "name": "Chủ nhiệm cũ của Nakayama",
-      "text": "Em ấy đã tình nguyện đứng ra làm đối thủ cho một Uma Musume gốc Pháp vốn đã lừng danh khắp thế giới.",
+      "text": "Em ấy đã tình nguyện đứng ra làm đối thủ cho một mã nương gốc Pháp vốn đã lừng danh khắp thế giới.",
       "jpname": "ナカヤマの元担任",
       "jptext": "世界で名をはせていた、あるフランス出身のウマ娘の\n対戦相手を買って出たんです。",
       "choice_data_list": [
@@ -28,7 +29,7 @@
     },
     {
       "name": "Chủ nhiệm cũ của Nakayama",
-      "text": "Nói là thế nhưng Uma Musume kia dường như chỉ định chạy nhẹ nhàng dạo mát mà thôi. Cô ấy chỉ muốn chạy một chút ở trường đua tự do có mặt cỏ giống với quê nhà của mình.",
+      "text": "Nói là thế nhưng mã nương kia dường như chỉ định chạy nhẹ nhàng dạo mát mà thôi. Cô ấy chỉ muốn chạy một chút ở trường đua tự do có mặt cỏ giống với quê nhà của mình.",
       "jpname": "ナカヤマの元担任",
       "jptext": "と言ってもそのウマ娘は、軽く流す程度のつもりだったようです。\n故郷の芝に似ているフリーのレース場で、少し走りたかっただけで。"
     },
@@ -51,7 +52,7 @@
       "jptext": "『はっ、……ハハハッ！！\nそうだ、手を抜くなよ。求めてんのは……それだァッ！』"
     },
     {
-      "name": "Uma Musume người Pháp",
+      "name": "Mã Nương người Pháp",
       "text": "\"...! ...Aaaaaaa!!\"",
       "jpname": "フランスのウマ娘",
       "jptext": "『……ッ！　……アアアアアアアッ！！』"
@@ -184,8 +185,8 @@
       "jpname": "モノローグ",
       "jptext": "カラカラの口から絞りだされる生唾を飲み込み、喉へと押し込む。\n……今から考えるのはただの妄想だ。非現実的な仮の話。",
       "choice_data_list": [
-        "Vậy ngộ nhỡ tôi có thể giúp cậu ấy được sống thực sự...",
-        "Vậy nếu như tôi có thể giúp cậu ấy được thực sự sống..."
+        "Vậy ngộ nhỡ tôi có thể giúp em ấy được sống thực sự...",
+        "Vậy nếu như tôi có thể giúp bạn ấy được thực sự sống..."
       ],
       "jpchoice_data_list": [
         "じゃあもし、俺が彼女を生かせたなら――",
@@ -210,8 +211,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "……ん？　アンタは――",
       "choice_data_list": [
-        "Tôi nghĩ nếu đứng chờ ở đây thì sẽ gặp được cậu",
-        "Tôi nghĩ đứng đợi ở đây sẽ gặp được cậu"
+        "Tôi nghĩ nếu đứng chờ ở đây thì sẽ gặp được em",
+        "Tôi nghĩ đứng đợi ở đây sẽ gặp được bạn"
       ],
       "jpchoice_data_list": [
         "ここで待っていれば君に会えると思って",
@@ -230,8 +231,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "へぇ、どっかで見た不審者がいると思えばアンタだったのか。\nそれで……ご高説でも垂れに来たのか？　真面目に走れって。",
       "choice_data_list": [
-        "Tôi đã xem đoạn video cậu thi đấu với Uma Musume nước ngoài",
-        "Tôi đã xem video ghi lại trận đấu giữa cậu và Uma Musume nước ngoài"
+        "Tôi đã xem đoạn video em thi đấu với mã nương nước ngoài",
+        "Tôi đã xem video ghi lại trận đấu giữa bạn và mã nương nước ngoài"
       ],
       "jpchoice_data_list": [
         "君が海外のウマ娘と勝負する映像を見た",
@@ -252,12 +253,12 @@
     },
     {
       "name": "Nakayama Festa",
-      "text": "Tệ hơn thì trận ra mắt hay mấy trận chưa thắng cũng dở chứng ăn vạ rồi kết thúc đời Uma Musume luôn cho xem. Cứ hờn dỗi như con nít vì không thấy hứng thú.",
+      "text": "Tệ hơn thì trận ra mắt hay mấy trận chưa thắng cũng dở chứng ăn vạ rồi kết thúc đời mã nương luôn cho xem. Cứ hờn dỗi như con nít vì không thấy hứng thú.",
       "jpname": "ナカヤマフェスタ",
       "jptext": "下手すりゃデビュー戦も未勝利でも駄々こねて、そのまま\n終わるウマ娘になるだろうさ。……燃えねぇって、ガキみてぇに。",
       "choice_data_list": [
-        "Tôi sẽ không để chuyện đó xảy ra, vì tôi sẽ giúp cậu được sống thực sự",
-        "Tôi không để chuyện đó xảy ra đâu, vì tôi sẽ giúp cậu được sống trọn vẹn"
+        "Tôi sẽ không để chuyện đó xảy ra, vì tôi sẽ giúp em được sống thực sự",
+        "Tôi không để chuyện đó xảy ra đâu, vì tôi sẽ giúp bạn được sống trọn vẹn"
       ],
       "jpchoice_data_list": [
         "そうはさせない、俺が君を生かすから",
@@ -318,8 +319,8 @@
       "jpname": "エルコンドルパサー",
       "jptext": "ということで長期遠征プランを企て中デェェス！\nみなさん期待していてくださいね、早ければ来年には――",
       "choice_data_list": [
-        "Trước đó bọn tôi sẽ đấu với cô và giành chiến thắng",
-        "Trước lúc đó chúng tôi sẽ quyết đấu với cậu và giành chiến thắng"
+        "Trước đó bọn tôi sẽ đấu với em và giành chiến thắng",
+        "Trước lúc đó chúng tôi sẽ quyết đấu với bạn và giành chiến thắng"
       ],
       "jpchoice_data_list": [
         "その前に俺たちが君と勝負し、勝ちます",
@@ -334,7 +335,7 @@
     },
     {
       "name": "El Condor Pasa",
-      "text": "...Thất lễ quá đấy. Hiện tại ở đây đang là buổi họp báo của El, Uma Musume mạnh nhất thế giới desu nhé? Vừa xông vào vừa gửi chiến thư... hai người có hiểu hành động đó mang ý nghĩa gì không hả?",
+      "text": "...Thất lễ quá đấy. Hiện tại ở đây đang là buổi họp báo của El, mã nương mạnh nhất thế giới desu nhé? Vừa xông vào vừa gửi chiến thư... hai người có hiểu hành động đó mang ý nghĩa gì không hả?",
       "jpname": "エルコンドルパサー",
       "jptext": "……失敬。今、ここは、世界最強のウマ娘・エルの会見中デスよ？\n乱入したうえに挑戦状とは……その行動の意味、理解してますか？"
     },
@@ -370,8 +371,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "――あのエルに勝負を挑む？　凱旋門賞で結果を出したアイツに？\nデビュー前の私が記者の前であおるって？",
       "choice_data_list": [
-        "Và cứ thế tôi sẽ đưa cậu vươn ra thế giới",
-        "Và sau đó tôi sẽ đưa cậu bước ra tầm thế giới"
+        "Và cứ thế tôi sẽ đưa em vươn ra thế giới",
+        "Và sau đó tôi sẽ đưa bạn bước ra tầm thế giới"
       ],
       "jpchoice_data_list": [
         "そしてそのまま世界に君を連れていく",
@@ -402,8 +403,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "今後を見据える価値すらもないと思われたら、\nその時点で終わりだぜ？",
       "choice_data_list": [
-        "Mấy thứ \"sợ hãi\" đó có cần thiết cho canh bạc của cậu không?",
-        "Thứ \"sợ hãi\" ấy có cần thiết cho cuộc quyết đấu của cậu không?"
+        "Mấy thứ \"sợ hãi\" đó có cần thiết cho canh bạc của em không?",
+        "Thứ \"sợ hãi\" ấy có cần thiết cho cuộc quyết đấu của bạn không?"
       ],
       "jpchoice_data_list": [
         "そんな“恐れ”、君がする勝負に必要？",

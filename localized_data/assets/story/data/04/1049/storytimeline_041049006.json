@@ -1,6 +1,7 @@
 {
   "title": "Nơi bóng râm chốn ban mai tùy hứng phiêu lãng",
   "jptitle": "陰に日向に気の向くままに",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -9,7 +10,7 @@
       "jptext": "休日の午後、路地裏へと足を向けるナカヤマフェスタを見かけた。\n……ふと、先日の噂が頭をよぎる。"
     },
     {
-      "name": "Uma Musume bặm trợn",
+      "name": "Mã Nương bặm trợn",
       "text": "Bọn chúng đỏ hoe cả mắt sục sạo khắp nơi kìa. Ái chà chà, không biết phen này con bé đó sẽ ra nông nỗi gì đây.",
       "jpname": "ガラの悪そうなウマ娘",
       "jptext": "連中、目の色変えてそこら中捜し回ってるぜ。\nあーあー、どうなっちまうのかねえ、あいつ。",
@@ -28,8 +29,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "あん？　なんだ、アンタか。\nどこって、いろいろと野暮用だよ。",
       "choice_data_list": [
-        "...Tôi đi cùng cậu được không?",
-        "...Tôi có thể đi cùng cậu chứ?"
+        "...Tôi đi cùng em được không?",
+        "...Tôi có thể đi cùng bạn chứ?"
       ],
       "jpchoice_data_list": [
         "……俺も一緒についていっていい？",

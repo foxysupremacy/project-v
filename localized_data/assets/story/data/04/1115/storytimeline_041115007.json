@@ -1,17 +1,18 @@
 {
   "title": "Kẻ nắm quyền sở hữu",
   "jptitle": "所有せし者",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "Giữa đỉnh điểm mùa hè. Giữa lúc mọi Uma Musume đều đang trải qua kỳ tập huấn mùa hè đầy sôi động――",
+      "text": "Giữa đỉnh điểm mùa hè. Giữa lúc mọi mã nương đều đang trải qua kỳ tập huấn mùa hè đầy sôi động――",
       "jpname": "モノローグ",
       "jptext": "夏本番。\nどのウマ娘も充実した夏合宿を送るなか――",
       "choice_data_list": [],
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Nè, người kia là Huấn luyện viên của Orfevre-san đúng không nhỉ?",
       "jpname": "ウマ娘A",
       "jptext": "ね、あの人がオルフェーヴルさんのトレーナーさんかな？",
@@ -19,7 +20,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "A, nhìn về phía tụi mình kìa! Chúc người một ngày vất vả nha♪",
       "jpname": "ウマ娘B",
       "jptext": "あ、こっち見た！　お疲れさまでーす♪",
@@ -32,7 +33,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "A ha ha, người ta đang ngượng ngùng kìa!",
       "jpname": "ウマ娘A",
       "jptext": "あははっ、照れてるー！",
@@ -41,7 +42,7 @@
     },
     {
       "name": "",
-      "text": "Dạo gần đây, tôi có cảm giác số lần các Uma Musume khác bắt chuyện với mình ngày càng nhiều hơn.",
+      "text": "Dạo gần đây, tôi có cảm giác số lần các mã nương khác bắt chuyện với mình ngày càng nhiều hơn.",
       "jpname": "モノローグ",
       "jptext": "ここのところ、\nいろんなウマ娘たちから声をかけられる事が増えた気がする。",
       "choice_data_list": [],
@@ -106,7 +107,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Huấn luyện viên đó hài hước ghê cơ. Nói chuyện chút thôi mà thấy có nét ngại ngùng dễ thương ghê.",
       "jpname": "ウマ娘C",
       "jptext": "あのトレーナーさん、面白いよね～。\nなんか話すとちょっとシャイな感じもするし。",
@@ -122,7 +123,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume D",
+      "name": "Mã Nương D",
       "text": "O-Orfevre... san?",
       "jpname": "ウマ娘D",
       "jptext": "オ、オルフェーヴル……さん？",
@@ -146,7 +147,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Dạ... hả? V-Vật sở hữu là sao cơ ạ...?",
       "jpname": "ウマ娘C",
       "jptext": "いや……え？\nしょ、所有物って……？",
@@ -162,7 +163,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume D",
+      "name": "Mã Nương D",
       "text": "Dạ?",
       "jpname": "ウマ娘D",
       "jptext": "え？",
@@ -178,7 +179,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume D",
+      "name": "Mã Nương D",
       "text": "Híiii...!",
       "jpname": "ウマ娘D",
       "jptext": "ひぃ～っ！",
@@ -211,7 +212,7 @@
     },
     {
       "name": "",
-      "text": "Nhân ngày nghỉ ngơi hiếm hoi, các Uma Musume tham gia trại hè đều ra ngoài dạo chơi, tôi cứ ngỡ mình sẽ được thong thả làm đống giấy tờ, thế nhưng――",
+      "text": "Nhân ngày nghỉ ngơi hiếm hoi, các mã nương tham gia trại hè đều ra ngoài dạo chơi, tôi cứ ngỡ mình sẽ được thong thả làm đống giấy tờ, thế nhưng――",
       "jpname": "モノローグ",
       "jptext": "つかの間の休息日とあって、合宿に来ているウマ娘たちも\n外出しており、こちらはのんびり書類仕事と思ったのだが――",
       "choice_data_list": [],

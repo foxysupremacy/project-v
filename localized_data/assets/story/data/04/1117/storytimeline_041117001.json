@@ -1,6 +1,7 @@
 {
   "title": "Thiên nga là ai?",
   "jptitle": "白鳥は誰？",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Shion thuở nhỏ",
@@ -212,7 +213,7 @@
     },
     {
       "name": "",
-      "text": "Vài ngày đã trôi qua kể từ khi tôi bắt đầu tìm kiếm một Uma Musume để chiêu mộ. Hôm nay cũng như mọi ngày, khi đang chăm chú quan sát bước chạy của nhiều Uma Musume khác nhau thì...",
+      "text": "Vài ngày đã trôi qua kể từ khi tôi bắt đầu tìm kiếm một mã nương để chiêu mộ. Hôm nay cũng như mọi ngày, khi đang chăm chú quan sát bước chạy của nhiều mã nương khác nhau thì...",
       "jpname": "モノローグ",
       "jptext": "スカウトするウマ娘を探し始めて、数日が経った。\n今日も今日とて、様々なウマ娘の走りを見ていると――",
       "choice_data_list": [],
@@ -220,7 +221,7 @@
     },
     {
       "name": "",
-      "text": "Từ phía sân tập vang lên một tiếng hét đầy nội lực. Khi tôi hướng mắt về phía đó, bóng dáng của một Uma Musume đang dốc toàn lực chạy thục mạng xuất hiện...",
+      "text": "Từ phía sân tập vang lên một tiếng hét đầy nội lực. Khi tôi hướng mắt về phía đó, bóng dáng của một mã nương đang dốc toàn lực chạy thục mạng xuất hiện...",
       "jpname": "モノローグ",
       "jptext": "トレーニング場から、力の入った声がした。\nそちらに視線を向けると、懸命に走る1人のウマ娘の姿が……。",
       "choice_data_list": [],
@@ -344,7 +345,7 @@
       "jptext": "なんか、やる気が出てきましたっ。もう少し休んだら、\nまたトレーニングっす！　もっともっと、夢に向かって――",
       "choice_data_list": [
         "Ước mơ của em sao?",
-        "Ước mơ của em là gì vậy?"
+        "Ước mơ của bạn là gì vậy?"
       ],
       "jpchoice_data_list": [
         "君の夢？",

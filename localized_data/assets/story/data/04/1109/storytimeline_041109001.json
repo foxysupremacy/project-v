@@ -1,6 +1,7 @@
 {
   "title": "Cô gái tựa ánh mặt trời",
   "jptitle": "お日さまな彼女",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -17,12 +18,12 @@
     },
     {
       "name": "",
-      "text": "Tôi vội vàng chạy xuống bờ sông. Ở đó, một Uma Musume đang nằm ngửa nhắm nghiền mắt. Chẳng lẽ em ấy cảm thấy không khỏe trong người sao...!?",
+      "text": "Tôi vội vàng chạy xuống bờ sông. Ở đó, một mã nương đang nằm ngửa nhắm nghiền mắt. Chẳng lẽ em ấy cảm thấy không khỏe trong người sao...!?",
       "jpname": "モノローグ",
       "jptext": "慌てて河川敷へ降りていく。そこでは、ウマ娘が仰向けになって\n目を閉じていた。もしや具合でも悪いのだろうか……！？",
       "choice_data_list": [
         "E-Em có sao không!?",
-        "E-Em không sao chứ!?"
+        "E-Bạn không sao chứ!?"
       ],
       "jpchoice_data_list": [
         "き、君、大丈夫か！？",
@@ -39,7 +40,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Ơ, dạ... không ạ! Em hoàn toàn không sao đâu ạ. Em chỉ đang nằm phơi nắng chút thôi mà...",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "えっ、ああ……いえ！　全然大丈夫ですっ。\n日向ぼっこしていただけなので～……。",
@@ -52,7 +53,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Ư ưm... Để anh phải hiểu lầm như vậy, em xin lỗi nhé. Ehehe, cảm ơn anh đã lo lắng cho em ạ.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "んん～～っ……紛らわしくてすみません。\nえへへ、心配してくれてありがとうございます。",
@@ -65,7 +66,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Vâng, ngược lại là em đang tràn đầy năng lượng luôn đó! Được tắm mình dưới ánh mặt trời ngập tràn, cả người ấm áp hẳn lên, mệt mỏi cũng――",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "はい、むしろ元気いっぱいです！\nお日さまいーっぱい浴びられたし、体もぽかぽかで、疲れも――",
@@ -73,7 +74,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "A, đúng rồi. Nếu được thì anh có muốn thử một chút không? Tắm nắng ấy ạ.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "あ、そうだ。\nよかったら、あなたもどうですか？　日向ぼっこ。",
@@ -86,7 +87,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Fufufu, đường đột quá em xin lỗi nhé. Nhưng mà nhìn sắc mặt anh... em cứ cảm thấy dường như anh đang khá mệt mỏi ấy ạ.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "ふふふっ、突然すみません。\nでも、なんとなく、顔色とか……お疲れぎみなのかな～って。",
@@ -102,7 +103,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Nằm xuống thong thả thư giãn là sẽ khỏe khoắn lại ngay thôi ạ. Nào nào, nếu được thì dù chỉ một lát thôi cũng tốt lắm đó.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "横になってのんびりすると、元気が出ますよ。\nさあさあっ、よかったら、ちょっとだけでも。",
@@ -123,7 +124,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Oa a a... Ấm áp ghê luôn ha...",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "ほわああぁ……あったかいですね～……。",
@@ -139,7 +140,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Dới nè! Anh thấy thế nào rồi ạ? ...Fufu, sắc mặt anh trông hồng hào tươi tắn hẳn rồi đó!",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "よいしょっ！　お兄さん、どうでしたか？\n……ふふっ、顔色はとってもいい感じですよ！",
@@ -152,7 +153,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Dới nè! Chị thấy thế nào rồi ạ? ...Fufu, sắc mặt chị trông hồng hào tươi tắn hẳn rồi đó!",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "よいしょっ！　お姉さん、どうでしたか？\n……ふふっ、顔色はとってもいい感じですよ！",
@@ -165,7 +166,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Sau khi thư giãn xong, đi bộ một chút sẽ càng khỏe khoắn hơn nữa đấy! Em sau khi phơi nắng xong cũng thường hay đi dạo loanh quanh quanh đây lắm.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "のんびりしたあとは、少し歩くともっと元気が出ますよ！\nわたし、日向ぼっこのあとはよくその辺をぶらぶらするんです。",
@@ -173,7 +174,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Nếu anh vẫn còn thời gian, đi cùng với em nhé?",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "まだ時間があるなら、一緒にどうですか？",
@@ -188,7 +189,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Ở đây lúc nào cũng rộn ràng các gia đình đến chơi ha. Fufu, có nhiều em nhỏ xíu nữa nè, trông đáng yêu quá đi.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "ここ、いつも家族連れで賑やかなんですよね。\nふふっ、ちっちゃい子たちもいっぱいで、かわいいな～。",
@@ -203,7 +204,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Đúng vậy đó ạ. Cứ cảm giác như được tiếp thêm từng luồng sinh lực ấm áp vậy... Hửm?",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "ですね。こう、じわーっと元気をもらえる感じ……\nんっ？",
@@ -211,7 +212,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Oa! Là một bé mèo nè. Dạn người ghê chưa. Fufufu, meo meo nè. Mèo con cũng muốn đi dạo cùng bọn mình không?",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "わあ！　猫ちゃんだー。人懐っこいですね。\nふふふ、にゃーんにゃんっ。あなたも一緒にお散歩する？",
@@ -219,7 +220,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "... Hửm? Gì thế gì thế, em định đi đâu đấy?",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "……ん？　なになに、どこ行くのー？",
@@ -227,7 +228,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Oa, đẹp quá...! Không ngờ lại có con đường như thế này. Mèo con ơi, em muốn dẫn bọn chị tới xem cảnh này sao? ...Ủa, đi đâu mất rồi.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "わぁ、きれい……！　こんな道があったんだ。\n猫ちゃん、これを見せたかったのかな？　……って、いない。",
@@ -242,7 +243,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Ahaha, đúng thật ạ. Để lần tới nếu gặp lại em sẽ nói lời cảm ơn bé mèo vậy.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "あははっ、ですね。\nお礼を言うのは、また今度会えたらかな。",
@@ -250,7 +251,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Cơ mà ở đây rộng thật đấy. Bọn mình đi dạo một vòng xem sao nhé... Oa, đằng kia có bao nhiêu là hoa to nở rộ kìa!",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "にしても広ーいですね。ぐるっと1周してみましょうか……\nわっ、あっち、大きなお花がいっぱいですよ～！",
@@ -266,7 +267,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Uma Musume mơ màng",
+      "name": "Mã Nương mơ màng",
       "text": "Haa, chơi thỏa thích thật đấy ạ! Em―― a, nhắc mới nhớ em vẫn chưa tự giới thiệu về mình nữa.",
       "jpname": "ぽわぽわしたウマ娘",
       "jptext": "はー、たくさん遊びましたね！\nわたし――あ、そういえば自己紹介がまだでした。",
@@ -298,7 +299,7 @@
     },
     {
       "name": "Rhein Kraft",
-      "text": "Ehehe, vì em vẫn chưa ra mắt nên anh không biết cũng là điều đương nhiên thôi ạ. Bởi vì trong học viện toàn là những Uma Musume nổi tiếng lấp lánh rạng ngời mà!",
+      "text": "Ehehe, vì em vẫn chưa ra mắt nên anh không biết cũng là điều đương nhiên thôi ạ. Bởi vì trong học viện toàn là những mã nương nổi tiếng lấp lánh rạng ngời mà!",
       "jpname": "ラインクラフト",
       "jptext": "えへへ、デビュー前なので知られていないのも当然ですが。\nだって、学園はキラッキラの有名ウマ娘さんばかりですもんね～！",
       "choice_data_list": [],
@@ -322,12 +323,12 @@
     },
     {
       "name": "",
-      "text": "Những cái tên mà em ấy say sưa kể với đôi mắt sáng ngời đều là các Uma Musume tỏa sáng rực rỡ ở tuyến giải Triple Tiara.",
+      "text": "Những cái tên mà em ấy say sưa kể với đôi mắt sáng ngời đều là các mã nương tỏa sáng rực rỡ ở tuyến giải Triple Tiara.",
       "jpname": "モノローグ",
       "jptext": "彼女がキラキラした目で語ったのは、\nみなトリプルティアラ路線で活躍したウマ娘たちだ。",
       "choice_data_list": [
-        "Em thích các Uma Musume tuyến Tiara nhỉ.",
-        "Em thích các Uma Musume tuyến Tiara ghê."
+        "Em thích các mã nương tuyến Tiara nhỉ.",
+        "Em thích các mã nương tuyến Tiara ghê."
       ],
       "jpchoice_data_list": [
         "ティアラウマ娘たちが好きなんだな",
@@ -342,7 +343,7 @@
       "jptext": "みなさんすっごくきれいで、凜々しいですもん！　同じ学園に\n通えているなんて夢みたいで……すれ違うたびドキドキですよ～！",
       "choice_data_list": [
         "Vậy em cũng hướng tới tuyến Tiara à?",
-        "Thế em cũng muốn theo tuyến Tiara sao?"
+        "Thế bạn cũng muốn theo tuyến Tiara sao?"
       ],
       "jpchoice_data_list": [
         "じゃあ、君もティアラ路線志望？",
@@ -420,7 +421,7 @@
     },
     {
       "name": "",
-      "text": "Hôm ấy diễn ra một trận đua tập công khai có mời các phóng viên tới đưa tin... Và giữa những Uma Musume đang sải bước trên đường đua, có một bóng hình vô cùng quen thuộc.",
+      "text": "Hôm ấy diễn ra một trận đua tập công khai có mời các phóng viên tới đưa tin... Và giữa những mã nương đang sải bước trên đường đua, có một bóng hình vô cùng quen thuộc.",
       "jpname": "モノローグ",
       "jptext": "その日は記者を招いての公開模擬レースが行われており……\nコースを駆けるウマ娘たちの中に、見覚えのある姿があった。",
       "choice_data_list": [

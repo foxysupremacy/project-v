@@ -1,6 +1,7 @@
 {
   "title": "Người xứng đáng chính là tôi",
   "jptitle": "ふさわしいのは、私",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -28,7 +29,7 @@
     },
     {
       "name": "",
-      "text": "Đã vài tháng kể từ khi tôi đến Học viện Tracen. Nghĩ rằng đã đến lúc tuyển mộ một Uma Musume để đảm nhận huấn luyện, tôi bèn đến xem buổi luyện tập.",
+      "text": "Đã vài tháng kể từ khi tôi đến Học viện Tracen. Nghĩ rằng đã đến lúc tuyển mộ một mã nương để đảm nhận huấn luyện, tôi bèn đến xem buổi luyện tập.",
       "jpname": "モノローグ",
       "jptext": "トレセン学園に来て数か月。そろそろ担当するウマ娘を\nスカウトしたいと考え、トレーニングの見学に来ていた。"
     },
@@ -144,7 +145,7 @@
     },
     {
       "name": "",
-      "text": "Hóa ra Verxina đang trong giờ luyện thanh. Trước dáng vẻ nỗ lực hết mình của cô, rất nhiều Uma Musume xung quanh đều hướng ánh nhìn đầy ngưỡng mộ.",
+      "text": "Hóa ra Verxina đang trong giờ luyện thanh. Trước dáng vẻ nỗ lực hết mình của cô, rất nhiều mã nương xung quanh đều hướng ánh nhìn đầy ngưỡng mộ.",
       "jpname": "モノローグ",
       "jptext": "どうやらヴィルシーナはボイストレーニング中のようだ。\n真摯に取り組む姿に、大勢のウマ娘たちが憧れの視線を向けている。",
       "choice_data_list": [
@@ -155,7 +156,7 @@
       ]
     },
     {
-      "name": "Các Uma Musume tham quan",
+      "name": "Các Mã Nương tham quan",
       "text": "\"Hình như chị ấy sắp ném rồi kìa!\" \"Mọi người né ra cho tôi xem với nào!\" \"Suỵt! Đừng có làm phiền chị ấy chứ.\"",
       "jpname": "見学のウマ娘たち",
       "jptext": "『そろそろ投げるみたい！』『ちょっと見えませんわよ！』\n『しっ！　邪魔しちゃダメだよ』"
@@ -233,7 +234,7 @@
       ]
     },
     {
-      "name": "Uma Musume fan của Viru",
+      "name": "Mã Nương fan của Viru",
       "text": "Này! Hình như tiền bối Verxina về rồi kìa!",
       "jpname": "ヴィルファンのウマ娘",
       "jptext": "ねえ！　ヴィルシーナ先輩、帰ってきたみたいだよ！"
@@ -269,7 +270,7 @@
       "jptext": "――って、う、うわわわわ……！？"
     },
     {
-      "name": "Các Uma Musume hâm mộ",
+      "name": "Các Mã Nương hâm mộ",
       "text": "\"Tiền bối Verxina! Trận đua tập ngày mai chị hãy cố lên nhé!\" \"Tiểu thư Verxina! Ngày mai em nhất định sẽ đến cổ vũ cho chị!\"",
       "jpname": "ファンのウマ娘たち",
       "jptext": "『ヴィルシーナ先輩！　明日の模擬レース頑張ってください！』\n『ヴィルシーナ様！　明日、必ず応援に参りますわ！』"
@@ -342,7 +343,7 @@
     },
     {
       "name": "Bình luận viên",
-      "text": "Bỏ xa nhóm Uma Musume bám đuổi phía sau hơn 1 thân ngựa, Verxina đã giành chiến thắng vang dội trong trận đua tập!!",
+      "text": "Bỏ xa nhóm mã nương bám đuổi phía sau hơn 1 thân ngựa, Verxina đã giành chiến thắng vang dội trong trận đua tập!!",
       "jpname": "実況",
       "jptext": "後続のウマ娘たちに1バ身以上をつけて、\nヴィルシーナ、模擬レースを勝利で飾りましたっ！！"
     },

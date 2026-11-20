@@ -1,6 +1,7 @@
 {
   "title": "Phía Sau Cái Kết Viên Mãn",
   "jptitle": "めでたしめでたしのその先に",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -88,7 +89,7 @@
     },
     {
       "name": "Bình luận viên",
-      "text": "Thời tiết vô cùng ủng hộ, Cuộc đua thứ 10 cự ly 2000m đường đất. Các Uma Musume đã vào vị trí xuất phát... và cuộc đua chính thức bắt đầu!",
+      "text": "Thời tiết vô cùng ủng hộ, Cuộc đua thứ 10 cự ly 2000m đường đất. Các mã nương đã vào vị trí xuất phát... và cuộc đua chính thức bắt đầu!",
       "jpname": "実況",
       "jptext": "好天に恵まれました、第10レース・ダート2000m。\n各ウマ娘ゲートに収まりまして――今、スタートです！"
     },
@@ -100,7 +101,7 @@
     },
     {
       "name": "Chuyên gia phân tích",
-      "text": "Một Uma Musume sở hữu lối chạy Tiên phong dẫn đầu vô cùng mãn nhãn. Nếu để cô ấy tạo khoảng cách quá xa thì việc lội ngược dòng ở phía sau sẽ cực kỳ khó khăn.",
+      "text": "Một mã nương sở hữu lối chạy Tiên phong dẫn đầu vô cùng mãn nhãn. Nếu để cô ấy tạo khoảng cách quá xa thì việc lội ngược dòng ở phía sau sẽ cực kỳ khó khăn.",
       "jpname": "解説",
       "jptext": "鮮烈な逃げ脚が魅力のウマ娘です。\n大差をつけられてしまうと、後から巻き返すのは難しいですよ。"
     },
@@ -160,7 +161,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "(Cậu chưa từng quy chụp Uma Musume thành một khuôn mẫu chung. Cậu đã thẳng thắn đối diện với chính con người tôi...)",
+      "text": "(Cậu chưa từng quy chụp mã nương thành một khuôn mẫu chung. Cậu đã thẳng thắn đối diện với chính con người tôi...)",
       "jpname": "ワンダーアキュート",
       "jptext": "（あなたは決して、ウマ娘をひとくくりで見たりしない。\nあたし自身と、真っすぐ向き合ってくれた……）"
     },
@@ -226,7 +227,7 @@
     },
     {
       "name": "",
-      "text": "Mọi người xung quanh đều đã tin chắc vào chiến thắng của Smart Falcon. Cũng phải thôi. Wonder Acute vốn dĩ vẫn chỉ là một Uma Musume vô danh chưa từng ra mắt.",
+      "text": "Mọi người xung quanh đều đã tin chắc vào chiến thắng của Smart Falcon. Cũng phải thôi. Wonder Acute vốn dĩ vẫn chỉ là một mã nương vô danh chưa từng ra mắt.",
       "jpname": "モノローグ",
       "jptext": "周囲はすでにスマートファルコンの勝ちを確信している。\n当然だ。ワンダーアキュートは、デビュー前のまだ無名のウマ娘だ。"
     },
@@ -264,7 +265,7 @@
     },
     {
       "name": "Chuyên gia phân tích",
-      "text": "Điều này... thật khó tin. Đây liệu có thực sự là màn trình diễn của một Uma Musume trước Make Debut hay không?!",
+      "text": "Điều này... thật khó tin. Đây liệu có thực sự là màn trình diễn của một mã nương trước Make Debut hay không?!",
       "jpname": "解説",
       "jptext": "これは……信じられません。\nこれが本当に、メイクデビュー前のウマ娘が見せる走りでしょうか。"
     },
@@ -346,8 +347,8 @@
       "jpname": "モノローグ",
       "jptext": "だが他人のために、ギリギリまで自分を追い込んでしまえる彼女だ。\nいつか折れてしまわないよう、隣で支える者が必要だとしたら――",
       "choice_data_list": [
-        "Lần này, hãy để tôi làm điểm tựa chống đỡ cho cô nhé?",
-        "Lần này, xin hãy để tôi được ở bên nâng đỡ cô nhé?"
+        "Lần này, hãy để tôi làm điểm tựa chống đỡ cho em nhé?",
+        "Lần này, xin hãy để tôi được ở bên nâng đỡ bạn nhé?"
       ],
       "jpchoice_data_list": [
         "今度は、俺に君を支えさせてくれないか？",
@@ -360,8 +361,8 @@
       "jpname": "ワンダーアキュート",
       "jptext": "はえぇ……そりゃつまり、\nこの先もあたしのトレーナーさんでいてくれるってことかね？",
       "choice_data_list": [
-        "Chỉ cần cô đồng ý, tôi rất sẵn lòng!",
-        "Chỉ cần cô bằng lòng, tôi nhất định sẽ làm!"
+        "Chỉ cần em đồng ý, tôi rất sẵn lòng!",
+        "Chỉ cần bạn bằng lòng, tôi nhất định sẽ làm!"
       ],
       "jpchoice_data_list": [
         "君さえよければ、ぜひ！",

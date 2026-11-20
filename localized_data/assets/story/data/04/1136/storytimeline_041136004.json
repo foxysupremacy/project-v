@@ -1,10 +1,11 @@
 {
   "title": "Lời thề của Thánh Nữ",
   "jptitle": "聖女の誓い",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "——Kể từ dạo ấy, tôi càng thêm hăng say cống hiến cho công việc. Ngay cả việc tìm kiếm một Uma Musume đảm nhiệm vốn tưởng còn quá sớm, nay tôi cũng bắt đầu dốc lòng.",
+      "text": "——Kể từ dạo ấy, tôi càng thêm hăng say cống hiến cho công việc. Ngay cả việc tìm kiếm một mã nương đảm nhiệm vốn tưởng còn quá sớm, nay tôi cũng bắt đầu dốc lòng.",
       "jpname": "モノローグ",
       "jptext": "――あれからというもの、仕事にいっそう邁進するようになった。\nまだ早いと思っていた、担当ウマ娘探しにも身が入る。",
       "choice_data_list": [
@@ -36,12 +37,12 @@
     },
     {
       "name": "",
-      "text": "Bản thân mình cũng có đủ khả năng để nâng bước một Uma Musume…… Giờ đây, tôi hoàn toàn tin vào điều đó. Thế nhưng, cô bé dường như đã hội tụ tất cả mọi điều rồi……",
+      "text": "Bản thân mình cũng có đủ khả năng để nâng bước một mã nương…… Giờ đây, tôi hoàn toàn tin vào điều đó. Thế nhưng, cô bé dường như đã hội tụ tất cả mọi điều rồi……",
       "jpname": "モノローグ",
       "jptext": "自分にもウマ娘を支える力はある……今なら、そう信じられる。\nしかし、彼女はすべてを兼ね備えていると言っていい……。",
       "choice_data_list": [
-        "(Mình có thể làm được gì cho cô ấy đây?)",
-        "(Mình có thể làm được gì cho cô ấy đây?)"
+        "(Mình có thể làm được gì cho em ấy đây?)",
+        "(Mình có thể làm được gì cho bạn ấy đây?)"
       ],
       "jpchoice_data_list": [
         "（俺は彼女のために、何ができるだろう？）",
@@ -187,7 +188,7 @@
       "jptext": "レッドディザイア、最近調子がいいね！　新記録だよ！\nトレーニング効率が上がったのかな。"
     },
     {
-      "name": "Uma Musume F",
+      "name": "Mã Nương F",
       "text": "Chà, Desire-chan cũng đỉnh thật đấy! Gương mặt triển vọng trên tuyến Tiara hình như không chỉ có mỗi Buena-chan rồi……!",
       "jpname": "ウマ娘F",
       "jptext": "へぇ～、ディザイアちゃんもすごいんだ～！\nティアラ路線の注目株は、ブエナちゃんだけじゃないみたい……！"
@@ -258,7 +259,7 @@
       "jpname": "モノローグ",
       "jptext": "彼女の心を動かしたい。その一心で小説と同じシーンを再現した。\n大丈夫、うまくいくはず。なぜなら……！",
       "choice_data_list": [
-        "Tôi là kẻ được đánh thức bởi sức mạnh của Thánh Nữ!",
+        "Anh là kẻ được đánh thức bởi sức mạnh của Thánh Nữ!",
         "Tôi là kẻ được đánh thức bởi sức mạnh của Thánh Nữ!"
       ],
       "jpchoice_data_list": [
@@ -272,8 +273,8 @@
       "jpname": "レッドディザイア",
       "jptext": "……っ！　私の、力で……！？",
       "choice_data_list": [
-        "Hỡi Thánh Nữ, ước mơ của cô là gì?",
-        "Hỡi Thánh Nữ, ước mơ của cô là gì?"
+        "Hỡi Thánh Nữ, ước mơ của em là gì?",
+        "Hỡi Thánh Nữ, ước mơ của bạn là gì?"
       ],
       "jpchoice_data_list": [
         "聖女よ、君の夢は？",
@@ -306,8 +307,8 @@
       "jpname": "レッドディザイア",
       "jptext": "あぁ……！\nやはり、貴方だったのですね……！",
       "choice_data_list": [
-        "Tôi muốn ký hợp đồng với cô. Tôi muốn biến ước mơ của cô thành hiện thực",
-        "Tôi muốn ký hợp đồng với cô. Tôi muốn biến ước mơ của cô thành hiện thực"
+        "Anh muốn ký hợp đồng với em. Tôi muốn biến ước mơ của em thành hiện thực",
+        "Tôi muốn ký hợp đồng với bạn. Tôi muốn biến ước mơ của bạn thành hiện thực"
       ],
       "jpchoice_data_list": [
         "契約してほしい。君の夢を叶えたい",
@@ -402,7 +403,7 @@
     },
     {
       "name": "",
-      "text": "Chạy đến đích cuối cùng, cô bé sẽ chạm đến thế giới nào thì chẳng ai hay. Điều duy nhất tôi có thể làm là hết lòng nâng đỡ cô với tư cách một Uma Musume đua.",
+      "text": "Chạy đến đích cuối cùng, cô bé sẽ chạm đến thế giới nào thì chẳng ai hay. Điều duy nhất tôi có thể làm là hết lòng nâng đỡ cô với tư cách một mã nương đua.",
       "jpname": "モノローグ",
       "jptext": "走り抜けた先で、彼女がどんなセカイへ辿り着くかは知れない。\n自分ができるのは、競走ウマ娘としての彼女を支えることだ。"
     },
@@ -414,7 +415,7 @@
     },
     {
       "name": "",
-      "text": "Và cứ như thế…… Chuyến hành trình giữa Uma Musume tự xưng là Thánh Nữ, Red Desire, cùng người Trainer vừa tìm lại được ước mơ, đã chính thức bắt đầu——!",
+      "text": "Và cứ như thế…… Chuyến hành trình giữa mã nương tự xưng là Thánh Nữ, Red Desire, cùng người Trainer vừa tìm lại được ước mơ, đã chính thức bắt đầu——!",
       "jpname": "モノローグ",
       "jptext": "こうして……聖女を名乗るウマ娘、レッドディザイアと、\n夢を取り戻したトレーナーの旅が、始まったのだった――！"
     },

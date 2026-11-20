@@ -1,15 +1,16 @@
 {
   "title": "Mặt trời lơ lửng giữa vòm trời u ám",
   "jptitle": "曇天の空に漂うおてんとさん",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "Cuộc đua tuyển chọn quy tụ những Uma Musume đã bước vào giai đoạn phát triển toàn diện. Trong số đó có cả bóng dáng của Nakayama Festa.",
+      "text": "Cuộc đua tuyển chọn quy tụ những mã nương đã bước vào giai đoạn phát triển toàn diện. Trong số đó có cả bóng dáng của Nakayama Festa.",
       "jpname": "モノローグ",
       "jptext": "――本格化を迎えたウマ娘たちが出走する選抜レース。\nその中にナカヤマフェスタの姿はあった。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Hự, phù... hồi hộp quá đi mất...! Hôm nay nhất định phải về nhất... à không, chí ít cũng phải lọt vào top 5 mới được.",
       "jpname": "ウマ娘A",
       "jptext": "っ、はぁ～……緊張するぅ～……！\n今日こそ1着……ううん、せめて5着以内にはっ。"
@@ -87,7 +88,7 @@
       "jptext": "……結局ナカヤマフェスタの着順は13着。\nまさに凡走と言える内容に終わってしまった。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Hầy... Quả nhiên vẫn không ăn thua rồi, lần tới phải cố gắng hơn mới được...",
       "jpname": "ウマ娘A",
       "jptext": "はぁ～……やっぱりダメだったかぁ、\n次頑張らなきゃなぁ～……。"
@@ -148,7 +149,7 @@
     },
     {
       "name": "Trainer tiền bối",
-      "text": "Tôi nhớ ra rồi, là \"Nakayama Festa\". Cô bé đó không phải dạng Uma Musume mà cậu có thể cáng đáng nổi đâu.",
+      "text": "Tôi nhớ ra rồi, là \"Nakayama Festa\". Cô bé đó không phải dạng mã nương mà cậu có thể cáng đáng nổi đâu.",
       "jpname": "先輩トレーナー",
       "jptext": "思い出したぞ、“ナカヤマフェスタ”だ。\nあの子はお前の手に負えるようなウマ娘じゃない。"
     },
@@ -178,7 +179,7 @@
     },
     {
       "name": "",
-      "text": "Tôi nghẹn lời trước lời khuyên của tiền bối. Tiền bối đã từng quan sát biết bao Uma Musume. Ý kiến ấy hẳn là vô cùng xác đáng. Nhưng dù vậy...",
+      "text": "Tôi nghẹn lời trước lời khuyên của tiền bối. Tiền bối đã từng quan sát biết bao mã nương. Ý kiến ấy hẳn là vô cùng xác đáng. Nhưng dù vậy...",
       "jpname": "モノローグ",
       "jptext": "先輩からの忠告に言葉が詰まる。先輩は多くのウマ娘を見てきた。\nその意見も至極真っ当なものなのだろう。でも、それでも――"
     },
@@ -260,8 +261,8 @@
       "jpname": "？？？",
       "jptext": "……お前がここ最近、『ナカヤマ』について聞いて回ってる\nトレーナーか？　学園でも路地裏でも話題になってるぜ。",
       "choice_data_list": [
-        "Cậu là ai...?",
-        "Cô là ai...?"
+        "Em là ai...?",
+        "Bạn là ai...?"
       ],
       "jpchoice_data_list": [
         "君は……？",

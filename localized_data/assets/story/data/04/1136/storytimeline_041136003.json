@@ -1,6 +1,7 @@
 {
   "title": "Thánh Nữ cứu rỗi",
   "jptitle": "聖女の救済",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Trainer kỳ cựu A",
@@ -100,7 +101,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "——Ngày xửa ngày xưa, ở một nơi nọ, có một cô bé Uma Musume nhận được muôn vàn tình yêu thương. Làm bất cứ điều gì cũng được khen ngợi, cô bé tin chắc rằng mình là một người đặc biệt.",
+      "text": "——Ngày xửa ngày xưa, ở một nơi nọ, có một cô bé mã nương nhận được muôn vàn tình yêu thương. Làm bất cứ điều gì cũng được khen ngợi, cô bé tin chắc rằng mình là một người đặc biệt.",
       "jpname": "レッドディザイア",
       "jptext": "――昔々あるところに、とても愛されたウマ娘の少女がいました。\nやることなすこと褒められ、自分は特別なのだと信じていました。"
     },
@@ -141,7 +142,7 @@
       "jptext": "少女は不運にも転倒し、ケガを負いました。\n治った後も体質のせいかお腹を壊しやすく、復帰したころには……。"
     },
     {
-      "name": "Các Uma Musume ở CLB",
+      "name": "Các Mã Nương ở CLB",
       "text": "Này, cô bé kia là ai thế? Có đứa nào như thế à? Không biết nữa. Mà quan trọng hơn, nghe bảo tiền bối định thi vào Học viện Tracen đấy——!",
       "jpname": "クラブのウマ娘たち",
       "jptext": "ねぇ、あの子誰？　あんな子いたっけ？\n知らなーい。それよりさ、先輩がトレセン学園目指すって――！"
@@ -164,8 +165,8 @@
       "jpname": "モノローグ",
       "jptext": "……意外だった。彼女はもう経験していたのか。\n『自分は特別ではなかった』と、思い知ることの痛みを……。",
       "choice_data_list": [
-        "Vậy mà…… tại sao cô lại……?",
-        "Vậy mà…… tại sao cô lại……?"
+        "Vậy mà…… tại sao em lại……?",
+        "Vậy mà…… tại sao bạn lại……?"
       ],
       "jpchoice_data_list": [
         "それなのに……なぜ君は……？",
@@ -222,7 +223,7 @@
     },
     {
       "name": "Desire lúc nhỏ",
-      "text": "(Kỳ lạ thật…… mình là một Uma Musume đặc biệt cơ mà. Phải rồi…… thứ kỳ lạ chính là cái thế giới này mới đúng……!)",
+      "text": "(Kỳ lạ thật…… mình là một mã nương đặc biệt cơ mà. Phải rồi…… thứ kỳ lạ chính là cái thế giới này mới đúng……!)",
       "jpname": "幼いディザイア",
       "jptext": "（おかしい……わたしは特別なウマ娘なのに。\nそうよ……おかしいのは、このセカイのほうだわ……！）"
     },

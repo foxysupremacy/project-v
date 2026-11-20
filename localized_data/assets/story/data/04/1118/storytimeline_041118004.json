@@ -1,6 +1,7 @@
 {
   "title": "Bản Khế Ước Tạm Thời",
   "jptitle": "ひとときだけの契約を",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -168,8 +169,8 @@
       "jpname": "アドマイヤグルーヴ",
       "jptext": "……貴方は、何故こんなことを……？",
       "choice_data_list": [
-        "Tôi muốn... thấy cô chiến thắng. Chỉ đơn giản vậy thôi",
-        "Tôi muốn... cô giành chiến thắng. Chỉ có vậy thôi mà"
+        "Anh muốn... thấy em chiến thắng. Chỉ đơn giản vậy thôi",
+        "Tôi muốn... bạn giành chiến thắng. Chỉ có vậy thôi mà"
       ],
       "jpchoice_data_list": [
         "君に……勝ってほしい。ただそれだけだ",
@@ -312,8 +313,8 @@
       "jpname": "アドマイヤグルーヴ",
       "jptext": "……？",
       "choice_data_list": [
-        "Cô có muốn nhận tôi làm người thu thập và phân tích thông tin không?",
-        "Cô có muốn nhờ tôi làm người thu thập và phân tích thông tin không?"
+        "Em có muốn nhận anh làm người thu thập và phân tích thông tin không?",
+        "Bạn có muốn nhờ tôi làm người thu thập và phân tích thông tin không?"
       ],
       "jpchoice_data_list": [
         "情報収集と分析役に、俺を使わないか？",
@@ -356,8 +357,8 @@
       "jpname": "アドマイヤグルーヴ",
       "jptext": "……？",
       "choice_data_list": [
-        "Nếu mục đích của cô chỉ là thanh toán dứt điểm với cô ấy",
-        "Nếu mục tiêu của cô chỉ là phân định thắng thua với cô ấy"
+        "Nếu mục đích của em chỉ là thanh toán dứt điểm với em ấy",
+        "Nếu mục tiêu của bạn chỉ là phân định thắng thua với bạn ấy"
       ],
       "jpchoice_data_list": [
         "君の目的が、彼女との決着だけというなら",
@@ -396,7 +397,7 @@
     },
     {
       "name": "",
-      "text": "――Đó chính là bản hợp đồng đầu tiên tôi ký kết cùng nàng Uma Musume mang đôi mắt băng giá.",
+      "text": "――Đó chính là bản hợp đồng đầu tiên tôi ký kết cùng nàng mã nương mang đôi mắt băng giá.",
       "jpname": "モノローグ",
       "jptext": "――それが、氷の瞳のウマ娘と交わした最初の契約だった。"
     },

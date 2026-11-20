@@ -1,10 +1,11 @@
 {
   "title": "Tình yêu giễu cợt",
   "jptitle": "愛は嘯く",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
-      "text": "――Mejiro Ramonu sắp chạy. Để được chiêm ngưỡng dù chỉ một cái nhìn thoáng qua, rất nhiều Trainer và Uma Musume đã tề tựu trên khán đài. Trong số họ còn có――",
+      "text": "――Mejiro Ramonu sắp chạy. Để được chiêm ngưỡng dù chỉ một cái nhìn thoáng qua, rất nhiều Trainer và mã nương đã tề tựu trên khán đài. Trong số họ còn có――",
       "jpname": "モノローグ",
       "jptext": "――メジロラモーヌが走る。その姿をひとめ見ようと、観客席には\n多くのトレーナーとウマ娘が集まっていた。その中には――"
     },
@@ -39,13 +40,13 @@
       ]
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "U u, tại sao chị Ramonu lại…… Em chẳng nghe ai nói gì cả!",
       "jpname": "ウマ娘A",
       "jptext": "うぅ、どうしてラモーヌさんが……。\n聞いてないんだけど！"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Chỉ riêng khí chất thôi đã thấy sợ rồi…… Khó khăn lắm mới có cơ hội cho bao nhiêu người xem mình chạy…… thế này thì toi mất.",
       "jpname": "ウマ娘B",
       "jptext": "もうオーラだけで怖いし……せっかく、\nたくさんの人に走りを見てもらえるのに……無理かも。",
@@ -75,7 +76,7 @@
       "jptext": "つまらない。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Dạ……?",
       "jpname": "ウマ娘A",
       "jptext": "え……？"
@@ -93,19 +94,19 @@
       "jptext": "それはレースではないわ……。\nどなたか1人くらい、楽しませてくださらないの？"
     },
     {
-      "name": "Các Uma Musume",
+      "name": "Các Mã Nương",
       "text": "Hic……!",
       "jpname": "ウマ娘たち",
       "jptext": "ヒッ……！"
     },
     {
       "name": "",
-      "text": "Những lời lẽ khiêu khích của Ramonu càng khiến các Uma Musume co rúm lại…… Nhưng trong số đó――",
+      "text": "Những lời lẽ khiêu khích của Ramonu càng khiến các mã nương co rúm lại…… Nhưng trong số đó――",
       "jpname": "モノローグ",
       "jptext": "挑発的なラモーヌの言動に、更に怯えるウマ娘たち……\nだが、中には――"
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "……Khốn khiếp! Muốn nói gì thì nói chắc……! Được lắm, cái vẻ ngạo mạn đó…… để tôi đập tan cho xem!",
       "jpname": "ウマ娘C",
       "jptext": "……っ！　好き勝手、言って……！\nいいわ、その高慢な態度……崩してあげる！"
@@ -159,7 +160,7 @@
       "jptext": "少しも過たず、完璧にタイミングを掴むと……一気に突き抜け、\nそこからはもう、誰も追いついてこなかった。"
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Ư…… Chạm tới đi chứ……! Rõ ràng là mình không muốn thua mà……! AAAAAA!",
       "jpname": "ウマ娘C",
       "jptext": "ぐっ……届きなさいよっ……！\n負けたくない、のにぃ……！　あああああ！"
@@ -196,7 +197,7 @@
     },
     {
       "name": "",
-      "text": "――Khoảnh khắc Symboli Rudolf trở thành Uma Musume Triple Crown bất bại…… Không, lồng ngực tôi lúc này còn rạo rực hơn bất kỳ cuộc đua nào tôi từng chứng kiến trước đây.",
+      "text": "――Khoảnh khắc Symboli Rudolf trở thành mã nương Triple Crown bất bại…… Không, lồng ngực tôi lúc này còn rạo rực hơn bất kỳ cuộc đua nào tôi từng chứng kiến trước đây.",
       "jpname": "モノローグ",
       "jptext": "――シンボリルドルフが、無敗の三冠ウマ娘となったあの瞬間……\nいや、今までのどのレースを観た時よりも、胸が高鳴っていた。",
       "choice_data_list": [
@@ -254,7 +255,7 @@
       "jpname": "モノローグ",
       "jptext": "さっさとコースを後にしたメジロラモーヌを追うと、彼女は\n中央広場で立ち止まっていた。そして、駆け寄る自分を一瞥する。",
       "choice_data_list": [
-        "Xin lỗi, tôi――",
+        "Xin lỗi, anh――",
         "Xin lỗi, tôi――"
       ],
       "jpchoice_data_list": [
@@ -282,7 +283,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Liệu người có thể hộ tống tôi chăng? ――Cho đến tận giải Twinkle Series.",
+      "text": "Liệu anh có thể hộ tống em chăng? ――Cho đến tận giải Twinkle Series.",
       "jpname": "メジロラモーヌ",
       "jptext": "エスコートしてくださる？\n――トゥインクル・シリーズまで。"
     },
@@ -348,7 +349,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "……Đúng là người chẳng có chút phong tình nào cả. Đáng tiếc thay, thật sự quá đỗi thô thiển.",
+      "text": "……Đúng là anh chẳng có chút phong tình nào cả. Đáng tiếc thay, thật sự quá đỗi thô thiển.",
       "jpname": "メジロラモーヌ",
       "jptext": "……色気のないひとね。\nとっても無粋よ、残念ながら。"
     },

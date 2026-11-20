@@ -1,6 +1,7 @@
 {
   "title": "Một là, cứu giúp và bảo vệ kẻ yếu",
   "jptitle": "一、弱きを助け護ること",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -144,13 +145,13 @@
     },
     {
       "name": "",
-      "text": "Có chị Uma Musume bảo vệ rồi nên em an toàn rồi. Em không làm gì sai cả. Tôi nhìn thẳng vào mắt đứa trẻ và nhẹ nhàng cất lời.",
+      "text": "Có chị mã nương bảo vệ rồi nên em an toàn rồi. Em không làm gì sai cả. Tôi nhìn thẳng vào mắt đứa trẻ và nhẹ nhàng cất lời.",
       "jpname": "モノローグ",
       "jptext": "ウマ娘のお姉さんが守ってくれたから、もう安全だ。\n君は何も悪くない。子どもに目を合わせ、ゆっくり語りかける。"
     },
     {
       "name": "",
-      "text": "Có chị Uma Musume bảo vệ rồi nên không sao nữa đâu. Em không có lỗi gì hết. Tôi nhìn thẳng vào mắt đứa trẻ và nhẹ nhàng cất lời.",
+      "text": "Có chị mã nương bảo vệ rồi nên không sao nữa đâu. Em không có lỗi gì hết. Tôi nhìn thẳng vào mắt đứa trẻ và nhẹ nhàng cất lời.",
       "jpname": "モノローグ",
       "jptext": "ウマ娘のお姉さんが守ってくれたから、もう安全。\n貴方は何も悪くない。子どもに目を合わせ、ゆっくり語りかける。"
     },
@@ -202,8 +203,8 @@
       "jpname": "モノローグ",
       "jptext": "さながらお巡りさんのように礼儀正しい彼女……フェノーメノは、\nここまでの様子から察するに、登校見守りに慣れているようだ。",
       "choice_data_list": [
-        "Cô lúc nào cũng đứng canh ở đây sao?",
-        "Em lúc nào cũng túc trực ở đây à?"
+        "Em lúc nào cũng đứng canh ở đây sao?",
+        "Bạn lúc nào cũng túc trực ở đây à?"
       ],
       "jpchoice_data_list": [
         "君は、いつもここで見守りを？",
@@ -240,8 +241,8 @@
       "jpname": "フェノーメノ",
       "jptext": "――っと、話し込んでしまいました。\nお引き止めして、申し訳ありません。",
       "choice_data_list": [
-        "Không sao, mà cô có kịp giờ không đấy?",
-        "Không hề, mà em có kịp giờ không thế?"
+        "Không sao, mà em có kịp giờ không đấy?",
+        "Không hề, mà bạn có kịp giờ không thế?"
       ],
       "jpchoice_data_list": [
         "いや、それより君こそ時間は大丈夫か？",

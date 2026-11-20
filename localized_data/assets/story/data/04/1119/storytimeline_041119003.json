@@ -1,6 +1,7 @@
 {
   "title": "Thương lượng",
   "jptitle": "Negotiation",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Dream Journey",
@@ -43,7 +44,7 @@
       ]
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "A, Trainer-san!",
       "jpname": "ウマ娘A",
       "jptext": "あの、トレーナーさん！",
@@ -63,7 +64,7 @@
       "jptext": "その子は、以前トレーニングを見る約束をしていた子だった。\n結局あのあと1度も連絡がとれず、気にかけてはいたのだが……。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Em quên béng mất việc trả lời tin nhắn... nên chỉ muốn tới xin lỗi anh thôi ạ. Cơ mà đúng như em nghĩ, hiện giờ anh đang hướng dẫn cho Journey-san nhỉ. Tốt quá rồi!",
       "jpname": "ウマ娘A",
       "jptext": "返信、すっかり忘れちゃってて……それだけ、謝りたくて。けど、\nやっぱり今はジャーニーさんを見てるんですね。よかったです！",
@@ -75,19 +76,19 @@
       ]
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Ủa, Journey-san chưa kể với anh sao? Chị ấy đã đổi Trainer hướng dẫn cho em đấy!",
       "jpname": "ウマ娘A",
       "jptext": "あれ、ジャーニーさんから聞いてますよね？\n指導するトレーナーさん、代わってもらったの！"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Hôm đó, Journey-san... có hẹn với một Trainer cực kỳ nổi tiếng. Là một nhân vật siêu tên tuổi với sự nghiệp vô cùng lẫy lừng luôn đấy ạ!",
       "jpname": "ウマ娘A",
       "jptext": "あの日、ジャーニーさん……すごく人気のあるトレーナーさんと\n約束してたんです。超有名で、すんごいキャリアのある人ですよ！"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Thấy em khen người đó quá chừng, Journey-san liền bảo đổi lại cho em! Chị ấy bảo sẽ tự mình nói chuyện với anh, thế rồi...——",
       "jpname": "ウマ娘A",
       "jptext": "すごいって話したら、ジャーニーさんが代わってもいいって！\nあなたには自分から話をしておくって言ってくれて、それで……――",
@@ -134,8 +135,8 @@
       "jpname": "モノローグ",
       "jptext": "確かに、それは優しさだったのかもしれない。\nしかし、心にわだかまるものがまだ残っていた。",
       "choice_data_list": [
-        "Cô... thật sự thấy ổn với điều đó sao?",
-        "Cô... thấy như vậy là ổn thật sao?"
+        "Em... thật sự thấy ổn với điều đó sao?",
+        "Bạn... thấy như vậy là ổn thật sao?"
       ],
       "jpchoice_data_list": [
         "君は……これでよかったのか？",
@@ -148,8 +149,8 @@
       "jpname": "モノローグ",
       "jptext": "高い実績を持つトレーナーのほうが、新人である自分よりも、\n力になってくれただろう。だが彼女は……そちらを選ばなかった。",
       "choice_data_list": [
-        "Tại sao cô lại chọn tôi...——",
-        "Tại sao cô lại chọn tôi chứ...——"
+        "Tại sao em lại chọn anh...——",
+        "Tại sao bạn lại chọn tôi chứ...——"
       ],
       "jpchoice_data_list": [
         "君はなんで、俺を……――",
@@ -163,14 +164,14 @@
       "jptext": "…………………………。"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "——Gì đây, có cả Trainer đi cùng cơ à. Mà thôi kệ đi... Cuối cùng cũng tóm được mày rồi, \"bà chị\"?",
       "jpname": "大柄なウマ娘",
       "jptext": "――なんだ、トレーナーも一緒かよ。\nま、いいや……やっと見つけたぜ、“お姉ちゃん”？"
     },
     {
       "name": "",
-      "text": "Đúng lúc ấy, có hai Uma Musume bước tới vây lấy Dream Journey. Thân hình to lớn của họ toát ra một áp lực đầy đe dọa.",
+      "text": "Đúng lúc ấy, có hai mã nương bước tới vây lấy Dream Journey. Thân hình to lớn của họ toát ra một áp lực đầy đe dọa.",
       "jpname": "モノローグ",
       "jptext": "その時、2人のウマ娘がドリームジャーニーを取り囲んだ。\n大きな体格の彼女たちは、どことなく威圧感を放っている。"
     },
@@ -181,19 +182,19 @@
       "jptext": "……私に何か？\n今、お話し中なのですが……。"
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Ngại quá nhưng bọn tao có việc gấp. Là về con em gái Orfevre của mày đấy. Nó vênh váo ngứa mắt quá rồi. Chắc cũng chỉ làm bộ làm tịch chứ mạnh mẽ nỗi gì?",
       "jpname": "不穏なウマ娘",
       "jptext": "悪いけど急用でさぁ。アンタの妹……オルフェーヴルのことだよ。\nデカイ顔しすぎなんだわ。どうせ強そうなのはツラだけだろ？"
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Cơ mà nhìn \"bà chị\" đây trông hiền lành tốt tính ghê ta? Chắc miệng mồm không răn đe nổi nó đâu, nên bọn tao muốn nhờ chị hợp tác một tí ấy mà.",
       "jpname": "不穏なウマ娘",
       "jptext": "けどさ、“お姉ちゃん”ってば、す～んごい優しそうじゃん？\n口で注意できないと思うからぁ、ちょっと協力してほしいのさ。"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "Dù có là con em gái hống hách đến đâu... thì nếu bà chị xảy ra chuyện gì, nó cũng phải cuống cuồng lên thôi.",
       "jpname": "大柄なウマ娘",
       "jptext": "あんな横暴な妹でも……\n姉に何かあったら、さすがに焦るだろ。",
@@ -219,7 +220,7 @@
       ]
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Hả? Chưa biết tính nó à? Nó là cái loại chẳng thể nào nói chuyện nổi đâu. Có nói gì cũng vô ích thôi!",
       "jpname": "不穏なウマ娘",
       "jptext": "は？　知らないの、アイツのこと？\n話なんかさぁ、できない奴なんだって。何言ったって無駄無駄！",
@@ -285,7 +286,7 @@
       "jptext": "……――"
     },
     {
-      "name": "Uma Musume bất hảo",
+      "name": "Mã Nương bất hảo",
       "text": "Chậc, phiền phức thật đấy! Cho nó thấy đẳng cấp chênh lệch nhanh gọn lẹ đi! Haaaa!",
       "jpname": "不穏なウマ娘",
       "jptext": "チッ、面倒だなぁ～もう！\nサクッと格の違い、見せつけてやろうぜ！　ハァァァァ！"
@@ -309,7 +310,7 @@
       "jptext": "…………………………。ふっ。"
     },
     {
-      "name": "Uma Musume to lớn",
+      "name": "Mã Nương to lớn",
       "text": "...Hử! C-Cái quái gì thế... con nhỏ này rợn người quá...! Bứt tốc bỏ xa nó ở đoạn đường thẳng ngay!!",
       "jpname": "大柄なウマ娘",
       "jptext": "……っ！　な、なんだアイツ……気味悪ィ……！\n直線で一気に突き放すぞ！！"
@@ -358,7 +359,7 @@
     },
     {
       "name": "",
-      "text": "Đó là... tại một trận đua Graded Race vào ngày nọ, khi một khoảng thời gian thật dài đã trôi qua kể từ chiến thắng cuối cùng của nàng Uma Musume mà tôi hằng cổ vũ.",
+      "text": "Đó là... tại một trận đua Graded Race vào ngày nọ, khi một khoảng thời gian thật dài đã trôi qua kể từ chiến thắng cuối cùng của nàng mã nương mà tôi hằng cổ vũ.",
       "jpname": "モノローグ",
       "jptext": "あれは……応援していたウマ娘が、最後に勝利してから……\n長い長い時間が経とうとしていたある日の重賞レース。"
     },
@@ -370,7 +371,7 @@
     },
     {
       "name": "",
-      "text": "Khi tôi cũng đang nóng lòng chờ đợi cuộc đua bắt đầu với tâm trạng bồn chồn ấy... tôi chợt nhìn thấy một cô bé Uma Musume với dáng người nhỏ nhắn đang tìm chỗ quan sát.",
+      "text": "Khi tôi cũng đang nóng lòng chờ đợi cuộc đua bắt đầu với tâm trạng bồn chồn ấy... tôi chợt nhìn thấy một cô bé mã nương với dáng người nhỏ nhắn đang tìm chỗ quan sát.",
       "jpname": "モノローグ",
       "jptext": "自分も同じじりじりした気持ちでレースの開始を待っていた時……\nふと、とても小柄なウマ娘が、観戦場所を探しているのを見かけた。",
       "choice_data_list": [
@@ -388,7 +389,7 @@
     },
     {
       "name": "",
-      "text": "Tiện đà nhường chỗ, tôi bắt chuyện với cô bé... và khi nhận ra cô bé cũng đến để cổ vũ cho cùng một Uma Musume, câu chuyện giữa chúng tôi trở nên vô cùng sôi nổi.",
+      "text": "Tiện đà nhường chỗ, tôi bắt chuyện với cô bé... và khi nhận ra cô bé cũng đến để cổ vũ cho cùng một mã nương, câu chuyện giữa chúng tôi trở nên vô cùng sôi nổi.",
       "jpname": "モノローグ",
       "jptext": "場所を譲った流れで、そのまま彼女とお喋りしていると……\n彼女も同じウマ娘を応援しに来たことがわかり、話に熱がこもった。",
       "choice_data_list": [
@@ -406,7 +407,7 @@
     },
     {
       "name": "",
-      "text": "Lời nói ấy tựa như một lời tiên tri... Nàng Uma Musume ấy không màng đến mặt sân nặng lầy lội, đáp lại tiếng hò reo vang dội chẳng kém gì giải G1 của người hâm mộ, giành lại chiến thắng sau bao ngày tháng đợi chờ——",
+      "text": "Lời nói ấy tựa như một lời tiên tri... nàng mã nương ấy không màng đến mặt sân nặng lầy lội, đáp lại tiếng hò reo vang dội chẳng kém gì giải G1 của người hâm mộ, giành lại chiến thắng sau bao ngày tháng đợi chờ——",
       "jpname": "モノローグ",
       "jptext": "その言葉は予言だったのか……彼女は、重いバ場をものともせず、\nGⅠに匹敵するファンの声援に応え、久しぶりの勝利を挙げた――"
     },

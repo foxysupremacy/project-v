@@ -1,10 +1,11 @@
 {
   "title": "Lấm lem bùn đất hướng về ánh bình minh",
   "jptitle": "泥まみれて朝日に向かえば",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nakayama Festa",
-      "text": "\"El Condor Pasa nhận lời thách đấu từ một Uma Musume tân binh. Phát sóng trực tiếp trên mạng\" kìa. Đúng là làm rùm beng như lễ hội rồi.",
+      "text": "\"El Condor Pasa nhận lời thách đấu từ một mã nương tân binh. Phát sóng trực tiếp trên mạng\" kìa. Đúng là làm rùm beng như lễ hội rồi.",
       "jpname": "ナカヤマフェスタ",
       "jptext": "『エルコンドルパサー、新人ウマ娘の挑戦を受ける。\nネット配信にて生放送』――だってよ。すっかり祭り騒ぎだな。"
     },
@@ -38,8 +39,8 @@
       "jpname": "モノローグ",
       "jptext": "求められるのは、国内の芝コースに合わせた走りではない。\n――どんな地面であっても脚を取られない、世界中で通用する走り。",
       "choice_data_list": [
-        "Từ giờ trở đi cậu sẽ vươn ra thế giới để giành chiến thắng",
-        "Sau đây cậu sẽ bước ra thế giới để giành chiến thắng"
+        "Từ giờ trở đi em sẽ vươn ra thế giới để giành chiến thắng",
+        "Sau đây bạn sẽ bước ra thế giới để giành chiến thắng"
       ],
       "jpchoice_data_list": [
         "これから君は世界を相手に勝ちに行くんだ",
@@ -216,7 +217,7 @@
     },
     {
       "name": "Phát thanh viên",
-      "text": "Đây chính là El Condor Pasa của tầm thế giới! Hãy nhìn đôi cánh dang rộng kia! Một bước chạy quá đỗi hoàn hảo! Ngoài cô ấy ra không còn Uma Musume nào xứng đáng thống trị thế giới hơn nữa!",
+      "text": "Đây chính là El Condor Pasa của tầm thế giới! Hãy nhìn đôi cánh dang rộng kia! Một bước chạy quá đỗi hoàn hảo! Ngoài cô ấy ra không còn mã nương nào xứng đáng thống trị thế giới hơn nữa!",
       "jpname": "アナウンサー",
       "jptext": "――これが世界のエルコンドルパサーだ！　この羽ばたきを見よ！\nなんと完璧な走りか！　彼女以外に世界を獲るべきウマ娘はいない！"
     },
@@ -286,8 +287,8 @@
       "jpname": "ナカヤマフェスタ",
       "jptext": "しっかしヤッバいな、このサイアクで……最高の賭けは！\nヒリつくどころじゃねえ。心臓が次を用意しろってうるせえよ！",
       "choice_data_list": [
-        "Vậy cậu có đồng ý ký hợp đồng chính thức với tôi không?",
-        "Vậy cậu có chấp nhận ký hợp đồng chính thức với tôi chứ?"
+        "Vậy em có đồng ý ký hợp đồng chính thức với tôi không?",
+        "Vậy bạn có chấp nhận ký hợp đồng chính thức với tôi chứ?"
       ],
       "jpchoice_data_list": [
         "じゃあ俺と正式に契約してくれるか？",

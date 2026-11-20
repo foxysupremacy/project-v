@@ -1,6 +1,7 @@
 {
   "title": "Một là, xứng đáng nhận lời huấn thị",
   "jptitle": "一、訓辞を受けるに値すること",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -14,8 +15,8 @@
       "jpname": "フェノーメノ",
       "jptext": "ボス！　ここで会うとは奇遇ですね！\nお出かけですか？",
       "choice_data_list": [
-        "Ừ, tôi đi dạo loanh quanh thôi. Còn cô?",
-        "Ừm, tôi đi dạo quanh đây thôi. Còn em?"
+        "Ừ, anh đi dạo loanh quanh thôi. Còn em?",
+        "Ừm, tôi đi dạo quanh đây thôi. Còn bạn?"
       ],
       "jpchoice_data_list": [
         "ああ、適当にブラブラと。君は？",
@@ -34,8 +35,8 @@
       "jpname": "モノローグ",
       "jptext": "休日でも、街の平和のため奮闘するフェノーメノに感心する。\n少しでも、そんな彼女の力になりたいと思った。",
       "choice_data_list": [
-        "Nhân tiện có ở đây, tôi đi tuần cùng cô có được không?",
-        "Nhân tiện có ở đây, tôi đi tuần cùng em có được không?"
+        "Nhân tiện có ở đây, anh đi tuần cùng em có được không?",
+        "Nhân tiện có ở đây, tôi đi tuần cùng bạn có được không?"
       ],
       "jpchoice_data_list": [
         "せっかくだから俺も一緒にいいかな？",
@@ -334,8 +335,8 @@
       "jpname": "モノローグ",
       "jptext": "なにより、正義を貫こうとする強靭な精神力がある。\n彼女ならきっとやり遂げてみせるはずだ。",
       "choice_data_list": [
-        "Tôi chỉ có thể trông cậy vào cô thôi, Meno",
-        "Tôi chỉ có thể đặt niềm tin vào em thôi, Meno"
+        "Anh chỉ có thể trông cậy vào em thôi, Meno",
+        "Tôi chỉ có thể đặt niềm tin vào bạn thôi, Meno"
       ],
       "jpchoice_data_list": [
         "君だけが頼りなんだ、メノ",
@@ -404,8 +405,8 @@
       "jpname": "フェノーメノ",
       "jptext": "……ボスのおかげであの人を救えました。\n貴方の指導で鍛えた、この脚で。",
       "choice_data_list": [
-        "Tôi luôn tin là cô sẽ làm được mà",
-        "Tôi luôn tin là em sẽ làm được mà"
+        "Anh luôn tin là em sẽ làm được mà",
+        "Tôi luôn tin là bạn sẽ làm được mà"
       ],
       "jpchoice_data_list": [
         "君ならできるって信じてたよ",
@@ -460,8 +461,8 @@
       "jpname": "モノローグ",
       "jptext": "自分は正義をまっすぐ信じる彼女に惹かれたのだ。\nだから、返事は決まっている。",
       "choice_data_list": [
-        "Tất nhiên rồi. Bởi tôi là \"Sếp\" của cô mà",
-        "Tất nhiên rồi. Bởi tôi là \"Sếp\" của em mà"
+        "Tất nhiên rồi. Bởi anh là \"Sếp\" của em mà",
+        "Tất nhiên rồi. Bởi tôi là \"Sếp\" của bạn mà"
       ],
       "jpchoice_data_list": [
         "もちろん。俺は君の“ボス”なんだから",

@@ -1,6 +1,7 @@
 {
   "title": "Tình yêu cất lời",
   "jptitle": "愛は語る",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -192,8 +193,8 @@
       "jpname": "モノローグ",
       "jptext": "レース後の余韻に浸り、じっとゴール板を見つめていると……\n不意にメジロラモーヌが言葉を発した。恐らく、自分にだろう。",
       "choice_data_list": [
-        "Cô cũng…… rất yêu những cuộc đua nhỉ",
-        "Cô cũng…… rất thích những cuộc đua nhỉ"
+        "Em cũng…… rất yêu những cuộc đua nhỉ",
+        "Bạn cũng…… rất thích những cuộc đua nhỉ"
       ],
       "jpchoice_data_list": [
         "君も……レースが大好きなんだな",
@@ -232,7 +233,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Những Uma Musume chuẩn bị cho ngày hôm ấy, chỉnh trang hoàn hảo…… và dốc trọn toàn bộ bản thân để chạy. Tiếng bước chân khi đôi chân ấy cào xới mặt đất, nện thẳng linh hồn xuống mặt đường――",
+      "text": "Những mã nương chuẩn bị cho ngày hôm ấy, chỉnh trang hoàn hảo…… và dốc trọn toàn bộ bản thân để chạy. Tiếng bước chân khi đôi chân ấy cào xới mặt đất, nện thẳng linh hồn xuống mặt đường――",
       "jpname": "メジロラモーヌ",
       "jptext": "その日のために準備をし、完璧に整え……己の全てを賭して走る\nウマ娘たち。その脚が土を抉り、魂を叩きつける足音――"
     },
@@ -316,7 +317,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Không cần thiết đâu. Chỉ việc chuẩn bị thôi, nhờ người nhé.",
+      "text": "Không cần thiết đâu. Chỉ việc chuẩn bị thôi, nhờ anh nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "要らないわ。\n準備だけ、お願いね。"
     },

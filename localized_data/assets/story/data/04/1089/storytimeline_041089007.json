@@ -1,6 +1,7 @@
 {
   "title": "Ước nguyện: Một ngày nào đó muốn hỏi",
   "jptitle": "願いごと：いつか聞きたい",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Cheval Grand",
@@ -21,7 +22,7 @@
       "jptext": "（褒められて嬉しい、だけじゃなくて……\nその言葉に胸を張れるようになりたい。一体、どうすれば――）"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "A, này này! Hôm nay có lễ hội đấy! Tớ thấy dán thông báo trên bảng tin này!",
       "jpname": "ウマ娘A",
       "jptext": "あ、ねぇねぇ！　今日、お祭りあるって！\n掲示板に貼ってあったんだけど！"
@@ -33,7 +34,7 @@
       "jptext": "！"
     },
     {
-      "name": "Uma Musume B",
+      "name": "Mã Nương B",
       "text": "Hả, thế thì nhất định phải đi rồi!! Không biết Trainer có bao tụi mình ăn uống để thưởng cho công sức tập luyện vất vả không ta.",
       "jpname": "ウマ娘B",
       "jptext": "えっ、絶対に行かなきゃじゃん！！　トレーニング頑張った\nご褒美に、トレーナーおごってくれないかな～。"
@@ -117,7 +118,7 @@
       "jptext": "す、すみません、トレーナーさん！\n僕、夢中になっちゃって、こんなんじゃつまらな――",
       "choice_data_list": [
         "Khả năng tập trung cao độ đó chính là điểm mạnh của em đấy!",
-        "Khả năng tập trung ấy là điểm mạnh tuyệt vời của em đấy!"
+        "Khả năng tập trung ấy là điểm mạnh tuyệt vời của bạn đấy!"
       ],
       "jpchoice_data_list": [
         "その集中力は君の長所だな！",
@@ -282,7 +283,7 @@
     },
     {
       "name": "Cheval Grand",
-      "text": "Bởi ngoài kia có biết bao Uma Musume rực rỡ, ai nấy... đều chói lọi hơn em gấp bội phần.",
+      "text": "Bởi ngoài kia có biết bao mã nương rực rỡ, ai nấy... đều chói lọi hơn em gấp bội phần.",
       "jpname": "シュヴァルグラン",
       "jptext": "キラキラしたウマ娘は大勢いて、\nみんな……僕よりもずっと眩しいから。"
     },

@@ -1,6 +1,7 @@
 {
   "title": "Một Thoáng Hé Lộ",
   "jptitle": " ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -14,8 +15,8 @@
       "jpname": "アドマイヤグルーヴ",
       "jptext": "……こんにちは。",
       "choice_data_list": [
-        "Chào cô, cô cũng đi dạo sao?",
-        "Chào em, em cũng đi dạo à?"
+        "Chào em, em cũng đi dạo sao?",
+        "Chào bạn, bạn cũng đi dạo à?"
       ],
       "jpchoice_data_list": [
         "こんにちは、君も散歩？",
@@ -174,7 +175,7 @@
     },
     {
       "name": "Người phụ nữ hoạt bát",
-      "text": "Này cô bé Uma Musume đằng kia ơi! Mau qua đây nhìn một chút đi nè. Đáng yêu lắm đó.",
+      "text": "Này cô bé mã nương đằng kia ơi! Mau qua đây nhìn một chút đi nè. Đáng yêu lắm đó.",
       "jpname": "ハキハキとした女性",
       "jptext": "そこのウマ娘さん！\nほら、ちょっと見て見て。かわいいでしょ～。"
     },

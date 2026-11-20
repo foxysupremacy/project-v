@@ -1,6 +1,7 @@
 {
   "title": "Vũ điệu xứ sở táo",
   "jptitle": "りんごの国の踊り",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nhân viên A",
@@ -30,7 +31,7 @@
       "jptext": "あれっ、トレーナーさん？\nお疲れさまっす。偶然ですね。",
       "choice_data_list": [
         "Shion! Chẳng lẽ em cũng tới tham gia lễ hội sao?",
-        "Shion! Không lẽ em cũng đến lễ hội này à?"
+        "Shion! Không lẽ bạn cũng đến lễ hội này à?"
       ],
       "jpchoice_data_list": [
         "シオン！もしかして君もフェスに？",
@@ -479,7 +480,7 @@
       "jptext": "えっ、じゃあなんで……？",
       "choice_data_list": [
         "Bởi vì em rất thích táo mà.",
-        "Vì tôi biết em mê táo đến chừng nào."
+        "Vì tôi biết bạn mê táo đến chừng nào."
       ],
       "jpchoice_data_list": [
         "君が、りんご好きだから",

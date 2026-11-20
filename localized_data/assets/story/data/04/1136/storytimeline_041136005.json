@@ -1,6 +1,7 @@
 {
   "title": "Thánh Nữ tôi luyện",
   "jptitle": "聖女の研鑽",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Red Desire",
@@ -36,7 +37,7 @@
     },
     {
       "name": "Red Desire",
-      "text": "Tôi đã tìm thấy cuốn \"Đại toàn thư cà rốt thời trung cổ\" và \"Từ những tòa cổ thành trên thế giới\", nhưng không hiểu sao cuốn \"Từ điển truyền thuyết liên quan đến Uma Musume\" lại không thấy đâu.",
+      "text": "Tôi đã tìm thấy cuốn \"Đại toàn thư cà rốt thời trung cổ\" và \"Từ những tòa cổ thành trên thế giới\", nhưng không hiểu sao cuốn \"Từ điển truyền thuyết liên quan đến mã nương\" lại không thấy đâu.",
       "jpname": "レッドディザイア",
       "jptext": "『中世にんじん大全』と『世界の古城から』は見つけましたが、\n『ウマ娘にまつわる伝説辞典』がなぜか見当たらなくて。",
       "choice_data_list": [
@@ -59,7 +60,7 @@
       "jptext": "レッドディザイアの担当になって数日。日常生活の端々から\n改めて、彼女の『異セカイ』への憧れは本物なのだと思い知る。"
     },
     {
-      "name": "Uma Musume ban vệ sinh",
+      "name": "Mã Nương ban vệ sinh",
       "text": "Đúng là cây đương dược hay diên mệnh thảo không phải là không trồng được tại nhà. Nhưng mà chúng đắng dữ dội lắm đấy nhé?",
       "jpname": "美化委員のウマ娘",
       "jptext": "たしかに、センブリもヒキオコシも家庭で育てられなくはないです。\nでも、ほんとにほんとに苦いんですよ？"
@@ -71,7 +72,7 @@
       "jptext": "うふふ、ご心配なく。調合の際は、\n聖なる力で美味しいポーションに仕上げてみせますので！"
     },
     {
-      "name": "Uma Musume ban vệ sinh",
+      "name": "Mã Nương ban vệ sinh",
       "text": "Dạ…… Thế, thế ạ……?",
       "jpname": "美化委員のウマ娘",
       "jptext": "はあ……。そう、なんですね……？"
@@ -89,14 +90,14 @@
       "jptext": "うふふ、ルーン文字よ♪　聖女として、神秘なる文字の読み書きは\n嗜みだもの。……あら、ここ、なんという意味だったかしら？"
     },
     {
-      "name": "Uma Musume vừa dọn dẹp xong",
+      "name": "Mã Nương vừa dọn dẹp xong",
       "text": "A, bực thế! Đang muốn cất cây lau nhà mà tủ lại kẹt cứng không mở ra được này! Mọi người nhét đồ ẩu tả quá mức rồi đấy!",
       "jpname": "掃除を終えたウマ娘",
       "jptext": "あ～、もう！　モップしまいたいのに開かないじゃん！\nみんなテキトーに詰め込み過ぎだし！"
     },
     {
       "name": "Red Desire",
-      "text": "——Hỡi Uma Musume đang gặp cơn phiền muộn. Ngay lúc này, tại nơi đây, Thánh Nữ cứu rỗi đã giáng lâm.",
+      "text": "——Hỡi mã nương đang gặp cơn phiền muộn. Ngay lúc này, tại nơi đây, Thánh Nữ cứu rỗi đã giáng lâm.",
       "jpname": "レッドディザイア",
       "jptext": "――悩めるウマ娘に告げます。\n今、ここに、救いの聖女が降臨しました。"
     },
@@ -107,7 +108,7 @@
       "jptext": "固く封じられし、その扉……\n聖女の力で解き放ってみせましょう。"
     },
     {
-      "name": "Uma Musume vừa dọn dẹp xong",
+      "name": "Mã Nương vừa dọn dẹp xong",
       "text": "Hả? Ờ thì…… nghĩa là cậu làm hộ mình hả? A, nhưng mà mình đang vội nên may quá! Cảm ơn nhé, nhờ cậu cả đấy!",
       "jpname": "掃除を終えたウマ娘",
       "jptext": "え？　えーと……代わりにやってくれるってコト？\nああ、でも急いでたから助かる！　ごめん、あとは任せるね！"
@@ -248,8 +249,8 @@
       "jpname": "モノローグ",
       "jptext": "……どんな災難も“試練”として前向きに取り組む\nレッドディザイア。その強いメンタルは素直に見習いたい。",
       "choice_data_list": [
-        "Để tôi dọn tủ đồ cùng em nhé",
-        "Để tôi dọn tủ đồ cùng em nhé"
+        "Để anh dọn tủ đồ cùng em nhé",
+        "Để tôi dọn tủ đồ cùng bạn nhé"
       ],
       "jpchoice_data_list": [
         "ロッカーの片づけ、俺も手伝うよ",

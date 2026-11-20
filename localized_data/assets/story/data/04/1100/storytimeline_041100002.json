@@ -1,6 +1,7 @@
 {
   "title": "Đối Thủ Là Nàng Umadol Sân Cát",
   "jptitle": "ライバルは砂のウマドルさん",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Wonder Acute",
@@ -32,8 +33,8 @@
       "jpname": "モノローグ",
       "jptext": "こうして折に触れて褒めてくれるワンダーアキュートだが、\n感心しているのはむしろこちらのほうだ。",
       "choice_data_list": [
-        "Chính sự bền bỉ của cô đã trở thành vũ khí đấy",
-        "Chính sự kiên trì dẻo dai của cô là vũ khí lợi hại đấy"
+        "Chính sự bền bỉ của em đã trở thành vũ khí đấy",
+        "Chính sự kiên trì dẻo dai của bạn là vũ khí lợi hại đấy"
       ],
       "jpchoice_data_list": [
         "君の粘り強さが武器になってるんだよ",
@@ -226,7 +227,7 @@
     },
     {
       "name": "",
-      "text": "Nghĩ vậy nhưng đầu óc tôi chẳng thể thông suốt. Đối thủ là một Uma Musume đã Make Debut và đang thi đấu trên tuyến đầu. Sự chênh lệch đẳng cấp là điều không thể phủ nhận.",
+      "text": "Nghĩ vậy nhưng đầu óc tôi chẳng thể thông suốt. Đối thủ là một mã nương đã Make Debut và đang thi đấu trên tuyến đầu. Sự chênh lệch đẳng cấp là điều không thể phủ nhận.",
       "jpname": "モノローグ",
       "jptext": "そう思うのに、どうしても頭が働かない。相手はすでにデビューし、\n第一線で活躍しているウマ娘だ。格の違いは認めざるを得ない。"
     },
@@ -324,7 +325,7 @@
     },
     {
       "name": "",
-      "text": "Tôi không rõ \"lý do phải thắng\" mà cô ấy nói là gì. Dù vậy, một khi Uma Musume khao khát chiến thắng, thì biến ước muốn ấy thành hiện thực chính là sứ mệnh của người làm Trainer.",
+      "text": "Tôi không rõ \"lý do phải thắng\" mà cô ấy nói là gì. Dù vậy, một khi mã nương khao khát chiến thắng, thì biến ước muốn ấy thành hiện thực chính là sứ mệnh của người làm Trainer.",
       "jpname": "モノローグ",
       "jptext": "彼女の言う『勝ちたい理由』が何なのかはわからない。それでも、\nウマ娘が勝利を求めるなら、それを叶えるのがトレーナーの役目だ。",
       "choice_data_list": [

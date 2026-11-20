@@ -1,6 +1,7 @@
 {
   "title": "Dành trọn cho tình yêu của người",
   "jptitle": "貴方の愛に",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -74,7 +75,7 @@
     },
     {
       "name": "Trainer đồng nghiệp",
-      "text": "Thôi cứ suy nghĩ xem nhé. Mấy Trainer khác với các Uma Musume phụ trách cũng rủ nhau đi theo nhóm đông lắm đấy. Gom lại đi chung thế quản lý cho tiện mà, hahaha.",
+      "text": "Thôi cứ suy nghĩ xem nhé. Mấy Trainer khác với các mã nương phụ trách cũng rủ nhau đi theo nhóm đông lắm đấy. Gom lại đi chung thế quản lý cho tiện mà, hahaha.",
       "jpname": "同僚トレーナー",
       "jptext": "ま、考えといてくれ。他のトレーナーと担当ウマ娘もけっこう\nまとまって行くそうだ。そのほうが引率が楽だからな～、はははっ。",
       "choice_data_list": [
@@ -152,7 +153,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Được hóng gió đêm mát mẻ cũng thích đấy chứ…… Giấy xin phép ra ngoài, nhờ người nhé.",
+      "text": "Được hóng gió đêm mát mẻ cũng thích đấy chứ…… Giấy xin phép ra ngoài, nhờ anh nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "夜風で涼めそうだわ……外出届、お願いね。",
       "choice_data_list": [
@@ -194,12 +195,12 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Tôi đâu có nhờ người làm việc đó?",
+      "text": "Em đâu có nhờ anh làm việc đó?",
       "jpname": "メジロラモーヌ",
       "jptext": "頼んでいないけれど？",
       "choice_data_list": [
-        "Tôi muốn được đi đến bất kỳ nơi nào cô tới",
-        "Tôi muốn được đi đến bất kỳ nơi nào cô tới"
+        "Anh muốn được đi đến bất kỳ nơi nào em tới",
+        "Tôi muốn được đi đến bất kỳ nơi nào bạn tới"
       ],
       "jpchoice_data_list": [
         "俺が君の行くところへ行きたいんだ",
@@ -250,7 +251,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Người ta bảo thế kìa…… May cho người rồi nhé.",
+      "text": "Người ta bảo thế kìa…… May cho anh rồi nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "ですって……よかったわね。"
     },
@@ -364,7 +365,7 @@
       "jpname": "セレブC",
       "jptext": "へぇ、あなたの故郷でしたか！　いやぁ、いいところですね。\n写真もたくさん撮ったんです、ほら！",
       "choice_data_list": [
-        "A, chỗ này thì tôi cũng từng đến rồi……!",
+        "A, chỗ này thì anh cũng từng đến rồi……!",
         "A, chỗ này thì tôi cũng từng đến rồi……!"
       ],
       "jpchoice_data_list": [
@@ -404,7 +405,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Chẳng lẽ…… người lại nghĩ tôi là một Uma Musume đến điều cỏn con đó cũng không làm được sao?",
+      "text": "Chẳng lẽ…… anh lại nghĩ em là một mã nương đến điều cỏn con đó cũng không làm được sao?",
       "jpname": "メジロラモーヌ",
       "jptext": "まさか……そんなことすらできないウマ娘だと思って？",
       "choice_data_list": [
@@ -446,7 +447,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Đúng là người thích làm quá lên.",
+      "text": "Đúng là anh thích làm quá lên.",
       "jpname": "メジロラモーヌ",
       "jptext": "大袈裟な人。"
     }

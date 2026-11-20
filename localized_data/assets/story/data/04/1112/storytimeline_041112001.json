@@ -1,6 +1,7 @@
 {
   "title": "Sẵn sàng đón nhận Heart chưa?",
   "jptitle": "Ready for Heart?",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -16,7 +17,7 @@
     },
     {
       "name": "",
-      "text": "Nỗi âu lo của một Huấn luyện viên tân binh khiến tôi cứ mãi tốn thời gian vào khâu chuẩn bị... đến mức chẳng thể cất lời bắt chuyện với bất kỳ Uma Musume nào.",
+      "text": "Nỗi âu lo của một Huấn luyện viên tân binh khiến tôi cứ mãi tốn thời gian vào khâu chuẩn bị... đến mức chẳng thể cất lời bắt chuyện với bất kỳ mã nương nào.",
       "jpname": "モノローグ",
       "jptext": "新人トレーナーゆえの不安から、準備ばかりに時間をかけ……\nウマ娘に声をかけることすら、なかなかできなかった。",
       "choice_data_list": [
@@ -48,7 +49,7 @@
     },
     {
       "name": "",
-      "text": "Khuấy động cả đám đông khán giả là một đội cổ vũ đầy rực rỡ. Và ở chính giữa, nổi bật hơn tất cả là hình bóng của một Uma Musume――",
+      "text": "Khuấy động cả đám đông khán giả là một đội cổ vũ đầy rực rỡ. Và ở chính giữa, nổi bật hơn tất cả là hình bóng của một mã nương――",
       "jpname": "モノローグ",
       "jptext": "ギャラリーを沸かせていたのは、華やかなチア集団だった。\n真ん中には、ひと際目を引くウマ娘の姿が――"
     },
@@ -72,13 +73,13 @@
     },
     {
       "name": "",
-      "text": "Nếu đã bước chân vào giới này thì chẳng ai là không biết đến cô ấy... niềm hy vọng xuất thân từ học viện đào tạo Uma Musume danh tiếng \"Hilesta Academy\".",
+      "text": "Nếu đã bước chân vào giới này thì chẳng ai là không biết đến cô ấy... niềm hy vọng xuất thân từ học viện đào tạo mã nương danh tiếng \"Hilesta Academy\".",
       "jpname": "モノローグ",
       "jptext": "その道を行くならば知らぬ者はいない……\n名門ウマ娘育成クラブ“ヒルエスタ・アカデミー”出身のホープ。"
     },
     {
       "name": "",
-      "text": "――Một Uma Musume đang được vô số người mong mỏi ngày ra mắt.",
+      "text": "――Một mã nương đang được vô số người mong mỏi ngày ra mắt.",
       "jpname": "モノローグ",
       "jptext": "――今、多くの人からデビューを待ち望まれているウマ娘だ。"
     },
@@ -190,8 +191,8 @@
       "jpname": "モノローグ",
       "jptext": "彼女の射抜くような瞳の輝きに、ハートがひとつ高鳴った。\nもし……本当に。自分の分析データが、役に立つのなら……――",
       "choice_data_list": [
-        "Được rồi... tôi hiểu rồi, tôi sẽ cho cô mượn!",
-        "Vâng... tôi hiểu rồi, tôi sẽ cho cô mượn!"
+        "Được rồi... anh hiểu rồi, anh sẽ cho em mượn!",
+        "Vâng... tôi hiểu rồi, tôi sẽ cho bạn mượn!"
       ],
       "jpchoice_data_list": [
         "ああ……わかった、君に貸すよ！",
@@ -240,8 +241,8 @@
       "jpname": "デアリングハート",
       "jptext": "並走ってこと？　その自転車で？",
       "choice_data_list": [
-        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của cô ở cự ly gần nhất!",
-        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của cô ở cự ly gần nhất!"
+        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của em ở cự ly gần nhất!",
+        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của bạn ở cự ly gần nhất!"
       ],
       "jpchoice_data_list": [
         "ああ……！君の走りを、近くで見たいんだ！",

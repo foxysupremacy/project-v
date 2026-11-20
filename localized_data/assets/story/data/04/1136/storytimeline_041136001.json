@@ -1,6 +1,7 @@
 {
   "title": "Thánh Nữ giáng lâm",
   "jptitle": "聖女の降臨",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Trainer tân binh A",
@@ -38,13 +39,13 @@
     },
     {
       "name": "",
-      "text": "……Vào giờ tan học của cái ngày diễn ra chuyện như thế. Vừa dõi theo các Uma Musume đang nỗ lực luyện tập, tôi vừa bần thần suy nghĩ.",
+      "text": "……Vào giờ tan học của cái ngày diễn ra chuyện như thế. Vừa dõi theo các mã nương đang nỗ lực luyện tập, tôi vừa bần thần suy nghĩ.",
       "jpname": "モノローグ",
       "jptext": "……なんて、ことがあった日の放課後。\nトレーニングに励むウマ娘たちを見ながらぼんやりと考える。"
     },
     {
       "name": "",
-      "text": "Bản thân mình chẳng có gì nổi bật. Thực lực thì vẫn còn non nớt lắm. Trong tình cảnh này, có lẽ việc nhận quản lý một Uma Musume vẫn còn là quá sớm……",
+      "text": "Bản thân mình chẳng có gì nổi bật. Thực lực thì vẫn còn non nớt lắm. Trong tình cảnh này, có lẽ việc nhận quản lý một mã nương vẫn còn là quá sớm……",
       "jpname": "モノローグ",
       "jptext": "自分はどうにもパッとしない。実力はまだまだだ。\nこんな状況では、担当ウマ娘を持つには早いだろう……。"
     },
@@ -91,13 +92,13 @@
       ]
     },
     {
-      "name": "Các Uma Musume",
+      "name": "Các Mã Nương",
       "text": "Sấm sét hình như đang tới gần hơn rồi kìa? Sợ quá đi! Mọi người ơi! Giảng viên bảo \"Nguy hiểm lắm nên mau vào nhà thể chất lánh nạn đi\" kìa!",
       "jpname": "ウマ娘たち",
       "jptext": "雷、どんどん近づいてきてない？　こわ～い！\nみんなー！　教官が『危ないから体育館に避難～』って！",
       "choice_data_list": [
         "A, này! Em cũng mau đi lánh nạn đi!",
-        "A, này! Cô cũng mau mau lánh nạn đi!"
+        "A, này! Bạn cũng mau mau lánh nạn đi!"
       ],
       "jpchoice_data_list": [
         "あっ、あの！君も早く避難してっ！",
@@ -105,7 +106,7 @@
       ]
     },
     {
-      "name": "Các Uma Musume",
+      "name": "Các Mã Nương",
       "text": "Sấm sét ghê thật đấy. Sợ quá đi…… Haizz, hôm nay mình đang muốn chạy ở ngoài trời thế mà.",
       "jpname": "ウマ娘たち",
       "jptext": "雷やばー。怖いなぁ……。\nあーあ、今日は外で走りたかったのに～。"
@@ -159,7 +160,7 @@
       "jptext": "あぁ……あぁぁ……！　なんて邪悪な！\nく……今は、耐えるしかないようです。"
     },
     {
-      "name": "Uma Musume A",
+      "name": "Mã Nương A",
       "text": "Oa oa oa! Này, cậu có sao không đấy!? Ướt như chuột lột rồi kìa!!",
       "jpname": "ウマ娘A",
       "jptext": "わ～～～っ！　ちょっと、大丈夫！？\nずぶ濡れじゃない！！"
@@ -197,7 +198,7 @@
       "jptext": "あぁっ！　靴紐が、切れて……！\nこれでは教室まで走れないわ。く、またしても試練が……！"
     },
     {
-      "name": "Uma Musume C",
+      "name": "Mã Nương C",
       "text": "Mình xin lỗi nhé! Lúc đang bưng nước lau dọn thì bị trượt tay……! Ai ngờ ở dưới lại có người chứ……",
       "jpname": "ウマ娘C",
       "jptext": "ごめんなさ～い！　掃除用の水を運んでたら手が滑って……！\nまさか下に人がいるなんて……。"
@@ -233,7 +234,7 @@
       "jptext": "彼女の名はブエナビスタ。早くも来年のティアラ路線の\n大本命と目されている、次代の“ヒロイン”候補だ。"
     },
     {
-      "name": "Các Uma Musume",
+      "name": "Các Mã Nương",
       "text": "Thì chắc chắn quán quân là cậu ấy rồi. Đẳng cấp khác bọt mà. Đúng là tỏa ra khí chất đặc biệt ghê! Hầy, không biết mình có bám đuổi nổi không đây?",
       "jpname": "ウマ娘たち",
       "jptext": "まあ、優勝はあの子でしょ。レベチだもん。\nやっぱ特別なオーラあるよね！　うぅ、ついてけるかなぁ？",
@@ -307,7 +308,7 @@
       ]
     },
     {
-      "name": "Các Uma Musume",
+      "name": "Các Mã Nương",
       "text": "Đúng là Buena-chan có khác! Mình biết ngay là cậu ấy sẽ thắng mà! Quả nhiên là thiên tài!",
       "jpname": "ウマ娘たち",
       "jptext": "さっすがブエナちゃーん！　勝つと思ってた！\nやっぱり、天才だよね！"

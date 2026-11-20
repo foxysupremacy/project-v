@@ -1,6 +1,7 @@
 {
   "title": "Điều Chẳng Thể Bỏ Mặc",
   "jptitle": "ほっとけないもの",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -10,7 +11,7 @@
     },
     {
       "name": "",
-      "text": "Độ tập trung trong lúc luyện tập của cô ấy cũng rất cao, các kỹ năng thực chiến cũng bắt đầu được lĩnh hội thuần thục. Đem so với những Uma Musume đã Make Debut chắc cũng chẳng hề kém cạnh. Thế nhưng...",
+      "text": "Độ tập trung trong lúc luyện tập của cô ấy cũng rất cao, các kỹ năng thực chiến cũng bắt đầu được lĩnh hội thuần thục. Đem so với những mã nương đã Make Debut chắc cũng chẳng hề kém cạnh. Thế nhưng...",
       "jpname": "モノローグ",
       "jptext": "トレーニング中の集中力も高く、実戦的なスキルも身につき始めた。\nメイクデビュー後のウマ娘と比べても遜色ないだろう。しかし――",
       "choice_data_list": [
@@ -252,7 +253,7 @@
     },
     {
       "name": "Wonder Acute",
-      "text": "Liệu trên đời có được mấy ai, lại chịu thức trắng đêm để suy nghĩ giáo án tập luyện cho một Uma Musume thậm chí còn chưa thuộc quyền quản lý của mình chứ.",
+      "text": "Liệu trên đời có được mấy ai, lại chịu thức trắng đêm để suy nghĩ giáo án tập luyện cho một mã nương thậm chí còn chưa thuộc quyền quản lý của mình chứ.",
       "jpname": "ワンダーアキュート",
       "jptext": "いったいどのくらいいるかしらって。担当でもないウマ娘のために、\n徹夜でトレーニングメニュー考えてくれる人。"
     },
@@ -287,7 +288,7 @@
       "jptext": "彼女が勝ちを目指すのが、自分のためだとは思わなかった。\nしかし、思えば彼女は初めからこちらのことを考えてくれていて――",
       "choice_data_list": [
         "Tại sao lại vì một người mới quen như tôi chứ...?",
-        "Tại sao cô lại làm đến vậy vì một người vừa mới gặp như tôi...?"
+        "Tại sao bạn lại làm đến vậy vì một người vừa mới gặp như tôi...?"
       ],
       "jpchoice_data_list": [
         "会ったばかりの俺に、どうして……？",
@@ -342,8 +343,8 @@
       "jpname": "ワンダーアキュート",
       "jptext": "あたしの走りで救われる人がいるなら、精いっぱい走りたいのよ。\nがんばる理由なんて、それで充分でしょう？",
       "choice_data_list": [
-        "Cô thật kiên cường biết bao...",
-        "Cô quả là một người mạnh mẽ..."
+        "Em thật kiên cường biết bao...",
+        "Bạn quả là một người mạnh mẽ..."
       ],
       "jpchoice_data_list": [
         "君は、強いんだな……",

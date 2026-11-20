@@ -1,6 +1,7 @@
 {
   "title": "Tĩnh Lặng",
   "jptitle": "静穏",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -29,8 +30,8 @@
       "jpname": "ドゥラメンテ",
       "jptext": "――ん。\n……なぜ、ここに君が。",
       "choice_data_list": [
-        "Tôi đi mua sắm... Còn cô tham gia sự kiện này sao?",
-        "Tôi đang tiện đường mua đồ... Cô là khách mời ở đây à?"
+        "Anh đi mua sắm... Còn em tham gia sự kiện này sao?",
+        "Tôi đang tiện đường mua đồ... Bạn là khách mời ở đây à?"
       ],
       "jpchoice_data_list": [
         "買い物してて……君は、これに出るのか？",
@@ -213,7 +214,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Khách hàng Umamusume A",
+      "name": "Khách hàng Mã Nương A",
       "text": "Oa, kia chẳng phải là Duramente sao...!?",
       "jpname": "利用客のウマ娘A",
       "jptext": "わっ、あれドゥラメンテじゃない……！？",
@@ -221,7 +222,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Khách hàng Umamusume B",
+      "name": "Khách hàng Mã Nương B",
       "text": "Tin đồn bạn ấy tập ở phòng gym này là thật kìa... Quả nhiên hôm nay bạn ấy nhắm tới chiếc máy mới rồi đúng không?",
       "jpname": "利用客のウマ娘B",
       "jptext": "ここ利用してるってウワサ本当だったんだ……。\nやっぱり今日は新しいマシンが目当てかな？",
@@ -328,8 +329,8 @@
       "color_text_info_list": []
     },
     {
-      "name": "Khách hàng Umamusume A",
-      "text": "Này, qua xem đi! Tớ muốn tận mắt thấy đẳng cấp khác biệt so với Umamusume bình thường quá đi mất!",
+      "name": "Khách hàng Mã Nương A",
+      "text": "Này, qua xem đi! Tớ muốn tận mắt thấy đẳng cấp khác biệt so với mã nương bình thường quá đi mất!",
       "jpname": "利用客のウマ娘A",
       "jptext": "ねえ、見てこ見てこ！\n普通のウマ娘とレベチなとこ、見てみたいー！",
       "choice_data_list": [],
@@ -414,7 +415,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Khách hàng Umamusume A",
+      "name": "Khách hàng Mã Nương A",
       "text": "Oa, vẫn tập tiếp cơ á!? Sức mạnh lẫn thể lực đều ở một đẳng cấp hoàn toàn khác biệt...!",
       "jpname": "利用客のウマ娘A",
       "jptext": "――うわ、まだ続けるの！？\nパワーもスタミナも桁違いだよ……！",
@@ -422,7 +423,7 @@
       "color_text_info_list": []
     },
     {
-      "name": "Khách hàng Umamusume B",
+      "name": "Khách hàng Mã Nương B",
       "text": "Quả nhiên Duramente đỉnh thật đấy...!",
       "jpname": "利用客のウマ娘B",
       "jptext": "やっぱりドゥラメンテってすごい……！",

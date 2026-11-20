@@ -1,6 +1,7 @@
 {
   "title": "Giselle bất tận",
   "jptitle": "終わらないジゼル",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Win Variation",
@@ -62,7 +63,7 @@
       "jptext": "ランニング……そっか。トレーナーさんも、\nなんだかんだ肉体労働ですもんね。すごいな、頑張ってて……。",
       "choice_data_list": [
         "Em cũng vậy còn gì?",
-        "Chẳng phải em cũng vậy sao?"
+        "Chẳng phải bạn cũng vậy sao?"
       ],
       "jpchoice_data_list": [
         "君もだろ？",
@@ -135,7 +136,7 @@
       "jptext": "忘れてください、今のは――",
       "choice_data_list": [
         "Em đang kiềm nén―",
-        "Em rốt cuộc là đang―"
+        "Bạn rốt cuộc là đang―"
       ],
       "jpchoice_data_list": [
         "君は何を――",

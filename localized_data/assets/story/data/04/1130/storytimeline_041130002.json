@@ -1,6 +1,7 @@
 {
   "title": "Nụ hoa e ấp, lay động trước uy phong",
   "jptitle": "まだ蕾、威風に揺れ",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "",
@@ -84,7 +85,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Gọi em là Rara cũng được ạ, mọi người đều gọi em như vậy mà. Mà cuốn sổ tay đó... Hèn chi em cứ thấy có người dõi theo em chăm chú quá chừng.",
+      "text": "Gọi em là Lala cũng được ạ, mọi người đều gọi em như vậy mà. Mà cuốn sổ tay đó... Hèn chi em cứ thấy có người dõi theo em chăm chú quá chừng.",
       "jpname": "ラッキーライラック",
       "jptext": "ララで構いませんよ。みんなそう呼びますので。で、そのメモ帳……\n……なんや、熱心に見てくれてはる方がおるとは思うとりましたが。",
       "color_text_info_list": []
@@ -102,8 +103,8 @@
       "jpname": "ラッキーライラック",
       "jptext": "『ラッキーライラックがオルフェーヴルに認められるには、\nどうすればいいのか』……。",
       "choice_data_list": [
-        "...Nhìn thấy em, tôi lại bất giác muốn suy nghĩ về điều đó",
-        "...Nhìn thấy em, tôi lại bất giác muốn suy nghĩ về điều đó"
+        "...Nhìn thấy em, anh lại bất giác muốn suy nghĩ về điều đó",
+        "...Nhìn thấy bạn, tôi lại bất giác muốn suy nghĩ về điều đó"
       ],
       "jpchoice_data_list": [
         "……君を見てたら、考えたくなっちゃって",
@@ -127,7 +128,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Ngày xưa, khi xem bước chạy của một Uma Musume trên tivi... Giữa một cuộc đua, nơi vốn chỉ là một môn giải trí \"chạy và chạy\", thì ở đó...",
+      "text": "Ngày xưa, khi xem bước chạy của một mã nương trên tivi... Giữa một cuộc đua, nơi vốn chỉ là một môn giải trí \"chạy và chạy\", thì ở đó...",
       "jpname": "ラッキーライラック",
       "jptext": "昔、テレビで見たあるウマ娘の走り……レースという、\nいわば“駆けるだけ”のエンターテインメント、その中で――",
       "color_text_info_list": []
@@ -141,7 +142,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "\"Mình muốn trở thành một Uma Musume như thế. Một ngôi sao sáng chói... khiến mọi người không thể rời mắt\"... Lòng ngưỡng mộ ấy đã sớm biến thành ước mơ của em.",
+      "text": "\"Mình muốn trở thành một mã nương như thế. Một ngôi sao sáng chói... khiến mọi người không thể rời mắt\"... Lòng ngưỡng mộ ấy đã sớm biến thành ước mơ của em.",
       "jpname": "ラッキーライラック",
       "jptext": "『あんなウマ娘になりたい。みんなの目を惹きつけて止まない……\nあんな、花形のウマ娘に』……憧れは、すぐ夢へと変わったんです。",
       "color_text_info_list": []
@@ -324,8 +325,8 @@
       "jpname": "ラッキーライラック",
       "jptext": "……それは……。オルフェさんとのレースのこと？\nそれとも……うちのこと、でしょうか？",
       "choice_data_list": [
-        "Tôi muốn được theo dõi các buổi tập luyện của em",
-        "Tôi muốn được theo dõi các buổi tập luyện của em"
+        "Anh muốn được theo dõi các buổi tập luyện của em",
+        "Tôi muốn được theo dõi các buổi tập luyện của bạn"
       ],
       "jpchoice_data_list": [
         "君のトレーニングを見させてほしい",
@@ -339,8 +340,8 @@
       "jpname": "ラッキーライラック",
       "jptext": "……そちらは、ご冗談やないみたいですね。",
       "choice_data_list": [
-        "Tôi cũng... rất muốn biết em đang cần điều gì",
-        "Tôi cũng... rất muốn biết em đang cần điều gì"
+        "Anh cũng... rất muốn biết em đang cần điều gì",
+        "Tôi cũng... rất muốn biết bạn đang cần điều gì"
       ],
       "jpchoice_data_list": [
         "俺も……君に何が必要か、気になるんだ",

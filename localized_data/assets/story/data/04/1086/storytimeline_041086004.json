@@ -1,10 +1,11 @@
 {
   "title": "Dành trọn cho tình yêu của tôi",
   "jptitle": "私の愛に",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ardan",
-      "text": "――Gia tộc Mejiro chúng em luôn mưu cầu vinh quang trong giới đua ngựa, và đã sản sinh ra biết bao thế hệ Uma Musume xuất chúng.",
+      "text": "――Gia tộc Mejiro chúng em luôn mưu cầu vinh quang trong giới đua ngựa, và đã sản sinh ra biết bao thế hệ mã nương xuất chúng.",
       "jpname": "メジロアルダン",
       "jptext": "――我がメジロ家は、レース界での栄誉を求め、\n優秀なウマ娘を数多く輩出して参りました。"
     },
@@ -148,7 +149,7 @@
     },
     {
       "name": "",
-      "text": "――Vừa đi vừa suy nghĩ mông lung, tôi đã bước chân tới đường đua từ lúc nào. Giữa muôn vàn Uma Musume đang miệt mài chạy trên sân, bóng hình tỏa sáng rực rỡ nhất chính là……",
+      "text": "――Vừa đi vừa suy nghĩ mông lung, tôi đã bước chân tới đường đua từ lúc nào. Giữa muôn vàn mã nương đang miệt mài chạy trên sân, bóng hình tỏa sáng rực rỡ nhất chính là……",
       "jpname": "モノローグ",
       "jptext": "――考え事をしながら歩いていると、コースに辿りついていた。\nいろんなウマ娘が走っている中で、異彩を放っているのは……。",
       "choice_data_list": [
@@ -262,7 +263,7 @@
     },
     {
       "name": "",
-      "text": "Chỉ đơn thuần là chạy, nhưng tôi yêu cuộc đua có thể khiến lồng ngực mình sục sôi đến thế. Tôi yêu những cuộc đua nơi các Uma Musume dồn hết tâm sức để theo đuổi một giấc mơ duy nhất.",
+      "text": "Chỉ đơn thuần là chạy, nhưng tôi yêu cuộc đua có thể khiến lồng ngực mình sục sôi đến thế. Tôi yêu những cuộc đua nơi các mã nương dồn hết tâm sức để theo đuổi một giấc mơ duy nhất.",
       "jpname": "モノローグ",
       "jptext": "走る、ただそれだけのことで、胸が熱くなれるレースが好きだ。\nウマ娘たちが、全精力を傾けて1つの夢を追うレースが好きだ。"
     },
@@ -278,7 +279,7 @@
       "jpname": "モノローグ",
       "jptext": "だから今、ハッキリと言える。レースのために、何かできるなら……\nその歴史の礎になれるのなら、この身を焦がしたっていいほどに――",
       "choice_data_list": [
-        "Tôi cũng yêu những cuộc đua này!",
+        "Anh cũng yêu những cuộc đua này!",
         "Tôi cũng yêu những cuộc đua này!"
       ],
       "jpchoice_data_list": [
@@ -292,8 +293,8 @@
       "jpname": "メジロラモーヌ",
       "jptext": "……――",
       "choice_data_list": [
-        "Danh hiệu Triple Tiara đầu tiên trong lịch sử, tôi muốn cùng cô……",
-        "Danh hiệu Triple Tiara đầu tiên trong lịch sử, tôi muốn cùng cô……"
+        "Danh hiệu Triple Tiara đầu tiên trong lịch sử, anh muốn cùng em……",
+        "Danh hiệu Triple Tiara đầu tiên trong lịch sử, tôi muốn cùng bạn……"
       ],
       "jpchoice_data_list": [
         "史上初のトリプルティアラを、君と……",
@@ -318,8 +319,8 @@
       "jpname": "モノローグ",
       "jptext": "完璧なトリプルティアラに、自分が宝石を足して完全にする……\n前哨戦を含めた全てのレースに勝利する、その称号は――",
       "choice_data_list": [
-        "――Nếu là cùng cô, tôi còn muốn nhắm đến cả vương miện hoàn hảo toàn thắng",
-        "――Nếu là cùng cô, tôi còn muốn nhắm đến cả vương miện hoàn hảo toàn thắng"
+        "――Nếu là cùng em, anh còn muốn nhắm đến cả vương miện hoàn hảo toàn thắng",
+        "――Nếu là cùng bạn, tôi còn muốn nhắm đến cả vương miện hoàn hảo toàn thắng"
       ],
       "jpchoice_data_list": [
         "――君となら、完全三冠だって狙いたい",
@@ -338,8 +339,8 @@
       "jpname": "モノローグ",
       "jptext": "彼女が走ることでレースへの愛を表すなら……\nその夢を支えるのが、トレーナーとして愛を注ぐ手段になるはずだ。",
       "choice_data_list": [
-        "Cho cuộc đua…… và cho cô, tôi sẽ dâng hiến tất cả",
-        "Cho cuộc đua…… và cho cô, tôi sẽ dâng hiến tất cả"
+        "Cho cuộc đua…… và cho em, anh sẽ dâng hiến tất cả",
+        "Cho cuộc đua…… và cho bạn, tôi sẽ dâng hiến tất cả"
       ],
       "jpchoice_data_list": [
         "レースに……君に、全て捧げる",
