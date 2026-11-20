@@ -1,0 +1,560 @@
+{
+  "title": "Hoàn Hảo",
+  "jptitle": "完璧",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sau cuộc đua tuyển chọn. Tôi dõi theo tình hình của Duramente một thời gian, quả nhiên những bước chạy của cô ấy đã khác hẳn so với trước kia.",
+      "jpname": "モノローグ",
+      "jptext": "選抜レース後。しばらくドゥラメンテの様子を\nうかがっていたが――彼女の走りは、やはり前とは異なっていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Hà... hộc... Chết tiệt... phù...!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "はあっ、……っ。くっ……ふっ……！",
+      "choice_data_list": [
+        "(Cô ấy lại càng bị gồng lực thừa thãi hơn nữa...)"
+      ],
+      "jpchoice_data_list": [
+        "（さらに余計な力が入っている……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Kể từ cuộc đua tuyển chọn, rốt cuộc đã xảy ra chuyện bất thường gì sao? Dù có thể chỉ là lo hão, nhưng tôi vẫn...",
+      "jpname": "モノローグ",
+      "jptext": "選抜レース以降から、何か異変があったのだろうか。\n余計な気回しかもしれないが、それでも――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Phù. ...Hà... hộc.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……ふぅ。……はぁ……っ。",
+      "choice_data_list": [
+        "Duramente! Cô có đang gặp khó khăn gì không?!",
+        "Duramente! Cô đang gặp phiền toái gì sao?!"
+      ],
+      "jpchoice_data_list": [
+        "ドゥラメンテ！何か困ってたりしないか！？",
+        "ドゥラメンテ！何か困ってたりしない！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Cậu là... ...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "君は……。\n………………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "... ...Chết tiệt.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "………………。\n…………くっ。",
+      "choice_data_list": [
+        "Có vẻ là chuyện khó nói sao...?"
+      ],
+      "jpchoice_data_list": [
+        "話しづらい内容だったかな……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Không. Tôi có chuyện muốn nhờ cậu.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……いや。頼みたいことがある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Cậu có biết khiêu vũ không?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "君はダンスができるか？",
+      "choice_data_list": [
+        "Khiêu vũ ư...?"
+      ],
+      "jpchoice_data_list": [
+        "ダンス……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Đừng nâng cả bờ vai lên, hãy nâng khuỷu tay lên. Đúng rồi... đó là tư thế cơ bản.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "肩ごと持ち上げずに――肘を上げて。\nそう……それが基本の型だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và hiện tại, tôi đang được Duramente chỉ dạy những quy tắc cần biết khi làm người hộ tống tại buổi dạ vũ khiêu vũ.",
+      "jpname": "モノローグ",
+      "jptext": "そして今、自分はドゥラメンテから、\nダンスパーティーでのエスコート役の心得を教わっていた。",
+      "choice_data_list": [
+        "...Để tôi làm bạn nhảy thật sự ổn chứ?",
+        "...Tôi làm bạn nhảy của cô thật sự không sao chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……俺が相手で本当によかったのか？",
+        "……私が相手で本当によかったの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Ừ. Cảm ơn cậu đã nhận lời mời.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ああ。\n誘いを受けてくれたこと、感謝する。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Thế nhưng lúc đầu nghe lời thỉnh cầu ấy, tôi đã rất ngạc nhiên. Bởi đó lại là chuyện \"khiêu vũ\", vốn chẳng liên quan gì tới các cuộc đua.",
+      "jpname": "モノローグ",
+      "jptext": "……だが、その頼みを最初聞いた時には驚いた。\nまったくレースと関係がない“ダンス”の話だったのだから。",
+      "choice_data_list": [
+        "Phải tham dự cả những buổi dạ tiệc thế này vất vả thật đấy",
+        "Phải đi dự cả tiệc khiêu vũ thế này cực ghê nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "パーティーにも参加するなんて大変だな",
+        "パーティーにも参加するなんて大変だね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Không vất vả chút nào.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……大変ではない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Đó là điều đương nhiên phải làm được. Cả mẹ và bà ngoại tôi đều hoàn thành xuất sắc bổn phận của một người tham gia, không sai sót dù chỉ một bước chuẩn bị. Hơn nữa...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "できて当然のことだ。母も祖母も、段取りひとつ零さず、\n参加者としての務めを立派に果たした。それに……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Cậu đã bao giờ nhìn thấy cha hay ông của tôi chưa?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……君は私の父や、祖父を見たことがあるか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Chỉ cần họ bước chân vào, ngọn lửa cuồng nhiệt liền bùng lên. Bất kỳ ai có mặt tại đấu trường đều mường tượng ra vinh quang mà thử thách của họ sẽ mang lại.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "踏み入れただけで、生まれる熱。\n競技場にいる人が想像するんだ。彼の挑戦が導く栄光を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Rồi mọi người hò reo. Tiếng reo hò đua nhau vang dội vượt qua cả biên giới quốc gia, gửi gắm niềm kỳ vọng rằng: \"Đứng trên đỉnh cao ngoài người ấy ra thì chẳng thể là ai khác\".",
+      "jpname": "ドゥラメンテ",
+      "jptext": "そして叫ぶ。我先にと轟く声が国境を越えて、期待する。\n『頂に立つのは彼しか考えられない』と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Không chỉ riêng cha tôi. Những ai được người đời tôn sùng là \"kẻ mạnh nhất\" đều sở hữu tốc độ, thể lực và tinh thần thép. Hơn hết thảy...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "父たちだけではない。人々が“最強”と奉る者は、\nスピード、スタミナ、精神力を有していて。何より――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Họ hoàn hảo, và là kẻ mạnh nhất.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――完璧で、最強なんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khoảnh khắc ấy, cô ấy nắm lấy tay tôi một cách uyển chuyển, xoay người hai vòng dưới cánh tay giơ cao...",
+      "jpname": "モノローグ",
+      "jptext": "その瞬間、こちらの手を流れるように取ると、\n高く掲げた腕の下、2度くるりと回り――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô ấy khiêu vũ, như thể không cho phép bất kỳ động tác thừa thãi nào, tuyệt đẹp và... \"hoàn hảo\" đến rợn ngợp.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は踊った――それ以外の動きを許さないというように、\n美しく、怖いくらいに……“完璧に”。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi ngày dạ vũ khiêu vũ đã đến.",
+      "jpname": "モノローグ",
+      "jptext": "そしてダンスパーティー当日。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nơi đó quy tụ bóng dáng của các nàng Umamusume đại diện cho giới đua ngựa, từ gia tộc Symboli, gia tộc Mejiro cho đến Hoa Lệ Nhất Tộc...",
+      "jpname": "モノローグ",
+      "jptext": "そこにはシンボリ家やメジロ家に、華麗なる一族……\nレース界を代表するウマ娘たちの姿が揃っていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách dự tiệc",
+      "text": "Giờ khiêu vũ năm nay lộng lẫy thật đấy. Những người vừa bước vào giai đoạn chín muồi có tiểu thư Satono Crown này... và cả tiểu thư Duramente nữa nhỉ.",
+      "jpname": "パーティーの参加者",
+      "jptext": "今年のダンスタイムも華やかだわ。本格化を果たしたのは、\nサトノクラウンさんに……ふふっ、ドゥラメンテさんもよね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Đi thôi.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……行こう。",
+      "choice_data_list": [
+        "...Đ-Được!",
+        "...Ừ-Ừm!"
+      ],
+      "jpchoice_data_list": [
+        "……あ、ああ！",
+        "……う、うん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Đưa tay cho tôi.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "手を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô ấy chắc chắn sẽ khiêu vũ một cách hoàn hảo. Dưới muôn vàn ánh mắt dõi theo của mọi người, tôi chìa tay ra cho Duramente...",
+      "jpname": "モノローグ",
+      "jptext": "彼女はこれから完璧に踊るのだろう。\n人々の眼差しを浴びながら、ドゥラメンテに手を差し出し――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Để rồi nhận ra bàn tay Duramente chạm vào tay tôi đang lạnh ngắt và run rẩy.",
+      "jpname": "モノローグ",
+      "jptext": "――受け取ったドゥラメンテの手が、\n冷たく、震えていたことに気づいた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...! Xin lỗi. Đợi đã... Chậc.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――！　――……失礼。待て。\n――…………っ。",
+      "choice_data_list": [
+        "Ơ kìa... Duramente?"
+      ],
+      "jpchoice_data_list": [
+        "えっと……ドゥラメンテ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Không phải. Tôi...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……っ、違う。\n私は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách dự tiệc A",
+      "text": "Công trạng của gia tộc đó quả là khôn lường. Nhìn vào bất kỳ ngóc ngách nào của giới thể thao cũng thấy bóng dáng những \"gương mặt tiêu biểu\" của họ... Và cô bé ấy cũng sẽ là một trong số đó.",
+      "jpname": "パーティー参加者A",
+      "jptext": "あの一族の功績は計り知れないわ。スポーツ界のどこを見ても、\n“顔”がいるんだもの……そして、あの子もそうなるひとり。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách dự tiệc B",
+      "text": "Phải rồi. Cuối cùng cũng đến lượt \"giới đua ngựa\"! Kết tinh của gia tộc đó lần này sẽ thay đổi lịch sử giới đua ngựa...!",
+      "jpname": "パーティー参加者B",
+      "jptext": "ええ。やっと、“レース界”の番が来たんです！\nあの一族の結晶が、今度はレース界の歴史を変える……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...!!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………――ッ！！\n………………。",
+      "choice_data_list": [
+        "(...Ủa?)"
+      ],
+      "jpchoice_data_list": [
+        "（……あれ？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cơn run rẩy của Duramente ngày một dữ dội hơn. Sự run rẩy ấy gợi lại trong tôi \"cảm giác bất thường\" từng thấy trước đây.",
+      "jpname": "モノローグ",
+      "jptext": "ドゥラメンテの震えが一層強くなる。\nその震えは、以前抱いた“違和感”を思い起こさせる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó là cuộc đua tuyển chọn mà Duramente đã không thể phát huy hết toàn bộ năng lực của mình.",
+      "jpname": "モノローグ",
+      "jptext": "――それは能力を発揮しきれずに終わった、\nドゥラメンテの選抜レース。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khi ấy, cô ấy gánh trên vai kỳ vọng phải giành được kết quả rực rỡ. Với tư cách \"ái nữ của gia tộc\", chiến thắng được xem là điều hiển nhiên.",
+      "jpname": "モノローグ",
+      "jptext": "あの時、彼女は成果を出すことを期待されていた。\n“一族の娘”として。勝利することが当然と思われて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chống chọi với áp lực nặng nề đến nhường ấy, suốt bấy lâu nay cô ấy...",
+      "jpname": "モノローグ",
+      "jptext": "そんな重圧を受け止めて、彼女はずっと――",
+      "choice_data_list": [
+        "(...Cô ấy đã căng thẳng đến thế sao?)",
+        "(...Thì ra cô ấy đã luôn lo lắng đến vậy sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（……緊張していたのか？）",
+        "（……緊張していたの？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phải rồi, làm sao có thể bình thản cho được. Ngay cả tình cảnh hiện tại, cô ấy cũng đang gánh trên vai vô số kỳ vọng với tư cách là niềm hy vọng của giới đua ngựa.",
+      "jpname": "モノローグ",
+      "jptext": "――そうだ、平気なわけがない。今のこの状況も\n彼女はレース界の希望として、無数の期待が寄せられている。",
+      "choice_data_list": [
+        "(Trong tình cảnh này, căng thẳng là chuyện hoàn toàn bình thường mà)"
+      ],
+      "jpchoice_data_list": [
+        "（こんな状況、緊張して当然なのに）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, lý do cô ấy không cầu cứu bất kỳ ai, lý do cô ấy phủ lấp cơn run rẩy bằng cách tự dối lòng rằng đó là \"chiến ý rạo rực\" là vì...",
+      "jpname": "モノローグ",
+      "jptext": "……なのに、誰にも助けを求めないのは。\n震えも『武者震い』で上塗りして、ごまかしてしまうのは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Họ hoàn hảo, và là kẻ mạnh nhất.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――完璧で、最強なんだ。",
+      "choice_data_list": [
+        "(Cô ấy nghĩ rằng bản thân bắt buộc phải như thế sao?)",
+        "(Cô ấy luôn tự ép mình phải trở nên như vậy sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（そうでなければと、思い込んでるのか？）",
+        "（そうでなければと、思い込んでるの？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô ấy đinh ninh rằng mình phải toàn vẹn như những người mà cô tôn kính, và tuyệt đối không bao giờ được phép để lộ một bản thân chưa hoàn hảo.",
+      "jpname": "モノローグ",
+      "jptext": "尊敬する人たちのように、完成された姿こそが当然だと思い込み、\n……不完全な自分を決して見せてはならないと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có phải cô ấy đã luôn tự dồn ép chính mình, tự nhủ rằng không bao giờ được để lộ sự căng thẳng ra bên ngoài hay không?",
+      "jpname": "モノローグ",
+      "jptext": "緊張なんかを表に出してはならないのだと、\n自分で自分を追い込み続けてきたのだろうか。",
+      "choice_data_list": [
+        "(Cứ thế mà gượng ép bản thân suốt thời gian qua sao?)",
+        "(Cứ thế tự ép mình đến kiệt cùng sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（そうして、無理をし続けていたのか？）",
+        "（そうして、無理をし続けていたの？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Không sao cả. Tôi...!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……――問題ない。\n私は……！",
+      "choice_data_list": [
+        "...Này, Duramente",
+        "...Này cô, Duramente"
+      ],
+      "jpchoice_data_list": [
+        "……なあ、ドゥラメンテ",
+        "……ねえ、ドゥラメンテ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước khi nghe hết câu từ cô ấy, miệng tôi đã tự động cất lời.",
+      "jpname": "モノローグ",
+      "jptext": "――彼女からの一言が聞こえる前に、口が動いていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vắt óc nghĩ ra những lời cần phải nói. Nếu cô ấy cứ ngoan cố gượng ép bản thân đến thế...",
+      "jpname": "モノローグ",
+      "jptext": "かけるべき言葉を頭から必死にひねり出す。\n彼女が頑なに、無理を続けようとするのなら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thì trước tiên, hãy chia sẻ rằng mình cũng \"giống hệt như vậy\".",
+      "jpname": "モノローグ",
+      "jptext": "まずは“同じ”だと話してみよう。",
+      "choice_data_list": [
+        "Tôi đang cực kỳ cực kỳ căng thẳng đây này",
+        "Thực ra tôi đang vô cùng vô cùng run đây này"
+      ],
+      "jpchoice_data_list": [
+        "俺は、すっっっごく緊張しているぞ",
+        "私は、すっっっごく緊張しているよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Hả?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……は？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Dura",
+      "text": "Có chuyện gì thế, Dura? Con thấy trong người không khỏe à?",
+      "jpname": "ドゥラの父親",
+      "jptext": "どうした、ドゥラ。\n体調が悪いのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "! Cha...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "！　父さん――",
+      "choice_data_list": [
+        "Xin lỗi bác, thực ra là do cháu đang quá căng thẳng ạ!",
+        "Xin lỗi bác, thực ra là tại cháu đang hồi hộp quá ạ!"
+      ],
+      "jpchoice_data_list": [
+        "すみません、実は俺が緊張しちゃって！",
+        "すみません、実は私が緊張しちゃって！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Dura",
+      "text": "...? Bạn là...",
+      "jpname": "ドゥラの父親",
+      "jptext": "……？　貴方は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Người vừa xuất hiện trước mặt chính là biểu tượng cho sự \"hoàn hảo\" của Duramente. Vậy thì... hãy hỏi bác ấy xem.",
+      "jpname": "モノローグ",
+      "jptext": "目の前に現れた彼こそが、ドゥラメンテの“完璧”の象徴だ。\nならば彼に……聞いてみよう。",
+      "choice_data_list": [
+        "Nhưng ai mà chẳng có lúc căng thẳng trong lần đầu tiên, đúng không bác?"
+      ],
+      "jpchoice_data_list": [
+        "でも誰だって、最初は緊張しますよね？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Dura",
+      "text": "...!",
+      "jpname": "ドゥラの父親",
+      "jptext": "……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...!? Cậu, trước mặt ai mà lại dám nói những lời như...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……！？　お前、誰を前にしてそんなことを――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Dura",
+      "text": "...Phải. Hồi còn trẻ, ta cũng thường xuyên run rẩy đến mức chùn cả chân.",
+      "jpname": "ドゥラの父親",
+      "jptext": "……ええ。\n私も若い頃は、よく。足がすくんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...! Cha...?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――！　父さん……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Dura",
+      "text": "Dura và... cả bạn nữa. Hai đứa có thể dành cho ta một chút thời gian được không? Ta có thứ này muốn cho hai đứa xem.",
+      "jpname": "ドゥラの父親",
+      "jptext": "ドゥラと……貴方も。少しばかりお時間をよろしいですか？\n……お見せしたいものがあります。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

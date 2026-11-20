@@ -1,0 +1,521 @@
+{
+  "title": "Kết Tinh",
+  "jptitle": "結晶",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Duramente",
+      "text": "Thứ đang say ngủ trong dòng máu này là niềm kiêu hãnh. Và thứ tất yếu phải ngự trị là...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――この血に眠るは誇り。宿って然るは……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...\"Kẻ mạnh nhất\"...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……“最強”。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vừa ngước nhìn bầu trời rạng đông vừa vươn vai. Đồng hồ chỉ vừa điểm qua 5 giờ sáng một chút.",
+      "jpname": "モノローグ",
+      "jptext": "朝焼けの空を見上げながら、伸びをする。\n時間は午前5時を少し回ったところだ。",
+      "choice_data_list": [
+        "(Mình dậy sớm quá rồi...)"
+      ],
+      "jpchoice_data_list": [
+        "（早起きしすぎたな……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Những cô gái tập sáng vào giờ này vẫn còn thưa thớt. Trên đường chạy chỉ có chừng hai người...",
+      "jpname": "モノローグ",
+      "jptext": "朝練をする娘もまだ少ない。\nコースにいるのも2人くらいで――……。",
+      "choice_data_list": [
+        "...! Kia chẳng phải là..."
+      ],
+      "jpchoice_data_list": [
+        "……！あれって――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tấm lưng ấy, tôi biết rất rõ. Bởi ở Học viện Tracen, nàng Umamusume ấy quá đỗi nổi tiếng.",
+      "jpname": "モノローグ",
+      "jptext": "――その後ろ姿は知っている。知っていた。\nトレセン学園において、そのウマ娘はあまりにも有名すぎたから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume tiền bối khóa trên",
+      "text": "Cảm ơn em đã tập cùng chị nhé. Dù chắc em cũng bận rộn lắm...",
+      "jpname": "1世代上の先輩ウマ娘",
+      "jptext": "トレーニングに付き合ってくれてありがとう。\nあなたも忙しかったでしょう……――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume tiền bối khóa trên",
+      "text": "Duramente.",
+      "jpname": "1世代上の先輩ウマ娘",
+      "jptext": "ドゥラメンテ。",
+      "choice_data_list": [
+        "(Đúng rồi, cô ấy chính là... \"Duramente\")"
+      ],
+      "jpchoice_data_list": [
+        "（そうだ、彼女は――“ドゥラメンテ”）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngay từ khi mới nhập học, cô ấy đã vô cùng nổi bật. Xung quanh cô ấy lúc nào cũng có những tiếng xôn xao bàn tán.",
+      "jpname": "モノローグ",
+      "jptext": "入学当初から彼女は目立っていた。\n……その周りには常にざわめきがあったから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume nhìn từ lớp học",
+      "text": "Bạn Duramente là tiểu thư của gia tộc đó đúng không? Gia tộc huyền thoại có tầm ảnh hưởng lên toàn bộ giới thể thao chứ không chỉ riêng gì các cuộc đua ấy.",
+      "jpname": "教室から眺めるウマ娘",
+      "jptext": "ドゥラメンテさんって、あのお家の娘だよね。\nレースだけじゃなくて、スポーツ界全体に関わる……伝説のさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer đội mũ len",
+      "text": "Từ bà ngoại cho đến cả cụ cố của con bé, ai cũng là những vận động viên lừng lẫy mà ngay cả tôi cũng biết. Gia tộc đó hễ tham gia bộ môn nào là chắc chắn sẽ tạo nên bước ngoặt lịch sử ở bộ môn đó.",
+      "jpname": "ニット帽のトレーナー",
+      "jptext": "おばあ様も、そのまたひいお爺様も。俺ですらわかるアスリートだ。\nあの一族は関わった競技で、必ず歴史の転換点を作る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer thoa son đỏ",
+      "text": "Dù bộ môn thi đấu khác với ông ngoại, nhưng là cháu gái của ông ấy thì sức chân chắc chắn phải phi thường rồi. Nhất định... con bé sẽ trở thành nhân vật dẫn dắt cả giới đua ngựa.",
+      "jpname": "赤い口紅のトレーナー",
+      "jptext": "お爺様とは競技が違えど、その孫なら脚力は格別のはずよ。\nきっと……レース界をけん引する存在になる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer phong độ",
+      "text": "Tư thế chạy cũng đẹp mắt, hệt như mẹ và bà ngoại của em ấy vậy. Hai người họ trước kia cũng có những bước chạy tuyệt vời. À...",
+      "jpname": "風格のあるトレーナー",
+      "jptext": "姿勢も綺麗で、お母様やおばあ様のようだ。\nあの2人も素晴らしい走りだった。ああ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mọi người đang nhìn Dura",
+      "text": "Phải rồi, cô bé ấy chính là... \"kết tinh của dòng máu\".",
+      "jpname": "ドゥラを見る人々",
+      "jptext": "そう、あの娘は――……“血の結晶”。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Kết tinh mà dòng máu của những vận động viên khao khát vị thế \"kẻ mạnh nhất\" trên mọi lĩnh vực đã mang đến cho thời đại này.",
+      "jpname": "モノローグ",
+      "jptext": "分野を問わず“最強”を求めるアスリートの血族が、\nこの時代に送り出した結晶。",
+      "choice_data_list": [
+        "(Đó chính là cô ấy... \"Duramente\")"
+      ],
+      "jpchoice_data_list": [
+        "（それがあの娘――“ドゥラメンテ”）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Cự ly chạy kèm là 3 furlong, chỉ 600m. Có đúng như vậy không ạ?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……距離は3ハロン、600mのみの併走。\n間違いないでしょうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume tiền bối khóa trên",
+      "text": "Ừ. Nhớ dốc hết sức đấy nhé. Chị đã chuẩn bị xong rồi... cả quyết tâm nữa.",
+      "jpname": "1世代上の先輩ウマ娘",
+      "jptext": "ええ。本気でお願い。\n準備は済んだわ。……覚悟もね。",
+      "choice_data_list": [
+        "(...! Bây giờ họ chuẩn bị chạy sao?!)",
+        "(...! Bây giờ họ sẽ chạy sao?!)"
+      ],
+      "jpchoice_data_list": [
+        "（……！今から走るのか！！）",
+        "（……！今から走るんだ！！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vã lao xuống cầu thang. Đã cất công xem thì phải ra sát mép hàng rào đường đua để chứng kiến bước chạy của cô ấy ngay trước mắt...!",
+      "jpname": "モノローグ",
+      "jptext": "急いで階段を駆け降りる。どうせ見るならラチ沿いギリギリへ。\n目の前で彼女の走りを――！",
+      "choice_data_list": [
+        "(Gay rồi, họ đã xuất phát mất rồi...!)"
+      ],
+      "jpchoice_data_list": [
+        "（やばい、もうスタートして――！！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cả hai",
+      "text": "Hộc... hộc... hộc! Hộc... hộc... phù!",
+      "jpname": "2人",
+      "jptext": "はっ……はっ……はっ！\nはっ……はっ……ふっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "A a a a a a a a a a a a!!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "アアアアアアアアアアッ！！",
+      "choice_data_list": [
+        "(Nhanh quá...!)"
+      ],
+      "jpchoice_data_list": [
+        "（速い……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bước chạy ấy chắc chắn khiến mười người thì cả mười người đều phải say đắm. Bởi lẽ nó...",
+      "jpname": "モノローグ",
+      "jptext": "その走りには、10人中10人が見惚れたはずだ。\nなぜならそれは――",
+      "choice_data_list": [
+        "(Hoàn toàn \"áp đảo\"...!)"
+      ],
+      "jpchoice_data_list": [
+        "（『圧倒的』だ……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume tiền bối khóa trên",
+      "text": "Hà... hộc... ha ha... Nhanh thật đấy... Chị bị đánh bại hoàn toàn rồi.",
+      "jpname": "1世代上の先輩ウマ娘",
+      "jptext": "はあ……ぜぇ……ははっ……。\nはっっやいなぁ……打ち負かされちゃった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Nếu cự ly dài hơn thì chưa biết kết quả ra sao đâu ạ. Sau khi đạt tốc độ tối đa, chị không hề giảm tốc một chút nào.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "距離が延びれば、結果はわかりません。\nトップスピードに乗った後、貴方は一切緩まなかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Dung tích phổi và cơ bắp đó là vũ khí của chị. Tôi cũng muốn học hỏi điều đó.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "その肺活量と筋力は武器。\n……私も見習いたい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Umamusume tiền bối khóa trên",
+      "text": "...! A ha ha, khen thật lòng thế này thì gian xảo quá đấy nhé. Cảm ơn em nhiều vì đã dành thời gian.",
+      "jpname": "1世代上の先輩ウマ娘",
+      "jptext": "……！　あははっ、素でそれってズルいなぁ。\nありがとね、時間取ってくれて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Tôi cũng vậy. Nếu có cơ hội, hẹn gặp lại chị lần sau.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "こちらこそ。機会があれば、また。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Phù... ...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………フー……。\n………………………………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Duramente cứ thế ngồi thụp xuống. Rồi cô ấy dùng cả hai tay xoa bóp cổ chân mình...",
+      "jpname": "モノローグ",
+      "jptext": "ドゥラメンテはそのまましゃがみ込んだ。\nそして足首を両手でさすり――",
+      "choice_data_list": [
+        "(!? Vừa chạy kèm xong đã bị đau chân rồi sao...?!)"
+      ],
+      "jpchoice_data_list": [
+        "（！？さっきの併走で脚を痛めて……！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khoảnh khắc ấy, lý do khiến tôi lao tới có lẽ cũng xen lẫn chút toan tính cá nhân. Bởi nếu bỏ lỡ cơ hội này, có thể tôi sẽ vĩnh viễn không bao giờ có dịp tiếp xúc với cô ấy nữa.",
+      "jpname": "モノローグ",
+      "jptext": "瞬間、駆け出せた理由には、下心があったのかもしれない。\nこの機を逃せば、彼女と接する機会など永遠になかっただろうから。",
+      "choice_data_list": [
+        "Xin chào! Duramente!"
+      ],
+      "jpchoice_data_list": [
+        "あの！ドゥラメンテ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Cậu là ai?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……貴方は？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước ánh mắt nghi ngại của cô ấy, tôi vội vàng giải thích thân phận của mình. Tất nhiên, không quên kèm theo lý do chính khiến tôi chạy tới.",
+      "jpname": "モノローグ",
+      "jptext": "怪しむ視線に、慌てて自分の立場を説明する。\n……もちろん、駆け寄った本題も添えて。",
+      "choice_data_list": [
+        "Cô có bị chấn thương ở đâu không vậy...?",
+        "Cô có bị đau chân hay chấn thương không...?"
+      ],
+      "jpchoice_data_list": [
+        "君、もしかしてケガしたんじゃ……？",
+        "貴方、もしかしてケガしたんじゃ……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...? Băng bó và thả lỏng là cần thiết, nhưng chân tôi không hề đau. Vả lại vào thời điểm này, tôi sẽ không làm điều gì thiếu suy nghĩ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……？　テーピングと柔軟は必要だが、\n脚を痛めてはいない。それにこの時期に無茶などしない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Đây là biện pháp phòng ngừa.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "これは予防だ。",
+      "choice_data_list": [
+        "...Phòng ngừa ư?"
+      ],
+      "jpchoice_data_list": [
+        "……予防？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Cổ chân của tôi bị cứng. Đó là thế mạnh nhưng cũng là con dao hai lưỡi dễ dẫn đến chấn thương. Huấn luyện viên thể thao của gia đình cũng từng nhắc nhở tôi như vậy.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "私は足首が固い。それは強みであり、ケガにも繋がる諸刃の剣。\n家のスポーツトレーナーにも、そう注意された。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi từng nghe nói qua. Những người chạy có cổ chân cứng luôn có cả ưu điểm lẫn nhược điểm.",
+      "jpname": "モノローグ",
+      "jptext": "聞いたことがある。足首が固いランナーには、\nメリット、デメリットがあると。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vốn dĩ muốn chạy nhanh thì góc đặt của cổ chân khi tiếp đất là vô cùng quan trọng. Nếu góc này ổn định, lực phản hồi từ mặt đất sẽ rất dễ chuyển hóa thành lực đẩy về phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "そもそも速く走るには、地面につく時の足首の角度が重要だ。\nこれが安定していると地面からの反発力を前に進む力に変えやすい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói cách khác, nếu cổ chân cứng thì góc tiếp đất sẽ luôn giữ được sự ổn định qua từng bước chạy. Thời gian tiếp đất của bàn chân cũng ngắn hơn, phát huy hiệu quả đặc biệt trong những màn so kè tốc độ.",
+      "jpname": "モノローグ",
+      "jptext": "つまり足首が固ければ、その角度が毎回安定しやすい。\n脚の接地時間も短くなり、特にスピード勝負で効果を発揮するのだ。",
+      "choice_data_list": [
+        "(Bù lại, cần phải hết sức cẩn thận với chấn thương...)"
+      ],
+      "jpchoice_data_list": [
+        "（その分、ケガには注意が必要で……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Còn chuyện gì nữa không?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ほかに、何か？",
+      "choice_data_list": [
+        "A...!! Không, chỉ là..."
+      ],
+      "jpchoice_data_list": [
+        "あ……！！いや、その……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hai má tôi nóng bừng. Hóa ra sự lo lắng của tôi dành cho cô ấy là hoàn toàn thừa thãi. Nhưng nếu cứ thế rút lui, e rằng cơ hội nói chuyện với cô ấy trong tương lai sẽ...",
+      "jpname": "モノローグ",
+      "jptext": "頬が熱くなる。彼女には自分の心配など全く必要なかったのだ。\nだがこのまま引いたなら、これから先彼女と話すチャンスなど――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Vậy tôi xin phép.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………それでは。",
+      "choice_data_list": [
+        "T-Thực lòng mà nói thì! Tôi rất quan tâm đến cô!!",
+        "T-Thú thật là! Tôi thực sự rất ấn tượng về cô!!"
+      ],
+      "jpchoice_data_list": [
+        "しょ、正直言うと！君に興味があって！！",
+        "しょ、正直言うと！貴方に興味があって！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Xin lỗi, nhưng hiện tại tôi từ chối mọi lời chiêu mộ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "すまないが、今はスカウトは断っている。",
+      "choice_data_list": [
+        "V-Vậy sao...",
+        "R-Ra là thế..."
+      ],
+      "jpchoice_data_list": [
+        "そ、そうなのか……",
+        "そ、そうなんだ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Sắp tới sẽ có cuộc đua tuyển chọn. Đó là nơi những Umamusume bước vào giai đoạn chín muồi thể hiện thực lực của mình trước các Trainer.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……間もなく選抜レースがある。\n本格化を迎えたウマ娘が、トレーナーに能力を示す場だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Sự chứng minh của tôi sẽ bắt đầu từ chính cuộc đua tuyển chọn đó.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "私の証明は、選抜レースから始まる。",
+      "choice_data_list": [
+        "Chứng minh...?"
+      ],
+      "jpchoice_data_list": [
+        "証明……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...\"Kẻ mạnh nhất\"...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……“最強”。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Như việc cha và ông tôi từng theo đuổi vị thế mạnh nhất để thay đổi lịch sử. Tôi cũng sẽ thay đổi lịch sử trên đấu trường đua ngựa này.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "父や、祖父が最強を求め、歴史を変えたように。\n私はレース界で歴史を変える。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Tôi sẽ viết lại tất cả. Kỷ lục, nhận thức, lẫn cảm xúc. Để chứng minh rằng \"Kẻ mạnh nhất\" chính là tôi.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "全てを塗り替える。\n記録も、認識も、感情も。“最強”とは私であると。",
+      "choice_data_list": [
+        "...!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù chưa rõ tường tận những gì cô ấy định \"viết lại\", nhưng cảnh tượng cô ấy đánh bại nàng Umamusume tiền bối dày dặn kinh nghiệm hôm nay lại hiện rõ mồn một trong tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が“塗り替えるもの”。その正体を知らずとも、\n今日彼女が格上のウマ娘を下した光景が、頭によみがえる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô ấy sau này nhất định sẽ đứng trên đỉnh cao. Trông cô ấy tỏa sáng rực rỡ đến mức khiến tôi tin chắc rằng cô ấy sẽ trở thành \"kẻ mạnh nhất\" vô song...",
+      "jpname": "モノローグ",
+      "jptext": "彼女はこれから先、必ず頂点に立つ。\n無二の最強になると、確信できるくらいに輝いて見えて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Phải, chính vì khoảnh khắc ấy tôi đã hoàn toàn tin chắc. Cho nên cảnh tượng sau đó mới càng khó tin đến nhường nào.",
+      "jpname": "モノローグ",
+      "jptext": "……そう、その時に確信してしまったから。\nその光景がなおさら信じられなかったのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cuộc đua tuyển chọn! Một ngôi sao mới đã trỗi dậy, đánh bại nàng Umamusume nhận được nhiều sự kỳ vọng nhất! Cán đích ở vị trí số một là...!",
+      "jpname": "実況",
+      "jptext": "選抜レース、大注目のウマ娘を破り、\n新星が立ち上がった！　1着は――……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cảnh tượng cô ấy nếm mùi thất bại.",
+      "jpname": "モノローグ",
+      "jptext": "――彼女の敗北した姿が。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

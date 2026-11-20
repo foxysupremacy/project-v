@@ -1,0 +1,508 @@
+{
+  "title": "Tĩnh Lặng",
+  "jptitle": "静穏",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Khi đến trung tâm thương mại mua sắm, tôi thấy có một đám đông đang tụ tập xôn xao.",
+      "jpname": "モノローグ",
+      "jptext": "ショッピングモールに買い物に来たところ、\n何やら人だかりができているのを見かけた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ghé mắt nhìn vào khu vực sự kiện, tôi thấy tấm biển giới thiệu buổi ra mắt sản phẩm mới của một thương hiệu thể thao nổi tiếng. Và vị khách mời đặc biệt lại chính là...",
+      "jpname": "モノローグ",
+      "jptext": "イベントスペースを覗いてみると、有名なスポーツブランドの\n新作発表会と書いてある。さらにスペシャルゲストとして――",
+      "choice_data_list": [
+        "Hả, Duramente!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、ドゥラメンテ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Hử. Sao cậu lại ở đây?",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――ん。\n……なぜ、ここに君が。",
+      "choice_data_list": [
+        "Tôi đi mua sắm... Còn cô tham gia sự kiện này sao?",
+        "Tôi đang tiện đường mua đồ... Cô là khách mời ở đây à?"
+      ],
+      "jpchoice_data_list": [
+        "買い物してて……君は、これに出るのか？",
+        "買い物してて……貴方は、これに出るの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Ừ. Đây là thương hiệu mà gia đình tôi đã tin dùng suốt bấy lâu nay.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ああ。我が家が長らく愛用しているブランドだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Chúng tôi cũng tham gia đóng quảng cáo và giám sát phát triển sản phẩm. Mẫu mới lần này cũng không ngoại lệ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "広告出演、商品開発の監修なども行っている。\n今回の新作もそうだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên sự kiện",
+      "text": "Tiểu thư Duramente! Em đã chuẩn bị sẵn sàng chưa ạ?",
+      "jpname": "イベントスタッフ",
+      "jptext": "ドゥラメンテさん！　ご準備よろしいでしょうか～？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên sự kiện",
+      "text": "Ôi, đúng là tiểu thư Duramente có khác, đôi giày thể thao mẫu mới hợp với em lắm!",
+      "jpname": "イベントスタッフ",
+      "jptext": "ああ、さすがドゥラメンテさんです、\n新作のスニーカーもよくお似合いで！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên sự kiện",
+      "text": "Chúng tôi rất trông đợi vào phần giao lưu hôm nay của em đấy! Rất muốn lắng nghe những nguyên tắc khắt khe cùng triết lý thể thao của gia tộc danh giá nhà em!",
+      "jpname": "イベントスタッフ",
+      "jptext": "本日のトークも期待していますよ！　名門一家の様々なこだわりや\nスポーツ理論などについても、いろいろお聞きしたいですし！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Vâng. Hôm nay xin được các anh chị giúp đỡ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……ええ。本日はよろしくお願いします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô ấy đáp lời nhân viên một cách mực thước trước vẻ mặt tràn đầy kỳ vọng của họ... Thế nhưng nét mặt cô trông có phần hơi cứng lại, phảng phất vẻ căng thẳng.",
+      "jpname": "モノローグ",
+      "jptext": "期待に満ちた表情のスタッフにそつなく受け答える彼女……\nだが、少々表情が硬く、緊張しているように見えた。",
+      "choice_data_list": [
+        "Tiện đây tôi xin phép đứng lại theo dõi nhé"
+      ],
+      "jpchoice_data_list": [
+        "せっかくだし、見ていかせてもらおうかな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Cậu cứ tùy ý.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……好きにするといい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người dẫn chương trình",
+      "text": "Gia đình của tiểu thư Duramente đã đồng hành cùng chúng tôi phát triển mẫu giày công nghệ cao lần này từ những bước đầu tiên. Em có thể chia sẻ đôi điều về điểm tâm đắc nhất không?",
+      "jpname": "司会者",
+      "jptext": "今回のハイテクスニーカーには、ドゥラメンテさんご一家に\n開発から携わっていただきました。こだわりを伺っても？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Chúng tôi chú trọng tối đa vào việc giảm tải áp lực cho đôi chân. Đặc biệt đã dành rất nhiều thời gian để nghiên cứu thiết kế tinh vi nhất.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "脚への負担軽減に注力しました。\n緻密な設計の考案には、特に時間をかけました。",
+      "choice_data_list": [
+        "(Dù hơi cứng nhắc một chút... nhưng phong thái ứng đối quả là xuất sắc)",
+        "(Dù có chút căng thẳng... nhưng câu trả lời rất mực thước)"
+      ],
+      "jpchoice_data_list": [
+        "（少し硬いけど……さすがの受け答えだな）",
+        "（少し硬いけど……さすがの受け答えだね）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người dẫn chương trình",
+      "text": "Đối với một vận động viên đang thi đấu trên đường đua như Duramente, việc giảm thiểu gánh nặng cho đôi chân trong sinh hoạt thường ngày hẳn là bài toán vô cùng quan trọng phải không nào.",
+      "jpname": "司会者",
+      "jptext": "レース界で活躍されているドゥラメンテさんにとって、\nやはり日常生活における脚への負担は重要な課題ですよね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người dẫn chương trình",
+      "text": "Nghĩa là việc mang đôi giày này thường ngày để nâng niu đôi chân cũng sẽ tạo nên sự khác biệt lớn trong phong độ thi đấu đúng không ạ!",
+      "jpname": "司会者",
+      "jptext": "このスニーカーを普段から着用し、脚を気遣うことで、\nレースでのパフォーマンスも違ってくるということでしょうか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Vâng. ...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……ええ。\n――……。",
+      "choice_data_list": [
+        "...?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Đôi giày thể thao này nâng đỡ đôi chân của người chạy ở mức tối đa. Tính năng của sản phẩm này... đích thân tôi sẽ chứng minh trên đường đua.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "走る者の脚に最大限に寄り添ったスニーカーです。\nその商品性能は――私が、レースで証明します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người dẫn chương trình",
+      "text": "Ồ tuyệt vời quá! Thật đáng mong đợi làm sao! Cả cuộc đua sắp tới của Duramente lẫn doanh số bán ra sau những thắng lợi của em!",
+      "jpname": "司会者",
+      "jptext": "おお～！！　これは楽しみですね！\nドゥラメンテさんのレースも、その結果に伴っての売れ行きも！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên sự kiện",
+      "text": "Cảm ơn em rất nhiều vì buổi hôm nay!",
+      "jpname": "イベントスタッフ",
+      "jptext": "本日はありがとうございました！",
+      "choice_data_list": [
+        "Vất vả cho cô rồi, Dura! Xong việc cô có về luôn không?"
+      ],
+      "jpchoice_data_list": [
+        "ドゥラ、お疲れ様！この後はもう帰る？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Không, tôi sẽ đến phòng gym. Tôi phải thử chiếc máy tập vừa mới được trang bị.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――いや、ジムに行く。\n新しく導入されたマシンを試さなくては。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi có chút kinh ngạc trước lịch trình dày đặc đến vậy... nhưng chiếc máy mới cũng khiến tôi tò mò. Sẵn tiện dịp này, tôi quyết định đi cùng cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "あまりのハードスケジュールぶりに驚いたが……新しいマシンには\n興味を惹かれる。せっかくなので、同行させてもらうことにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Chính là nó. Máy Hack Squat. Tôi muốn kiểm tra cảm giác sử dụng và hiệu quả của nó...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "あれだ。ハックスクワットマシン。\n使用感や効果を見極めようと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng Umamusume A",
+      "text": "Oa, kia chẳng phải là Duramente sao...!?",
+      "jpname": "利用客のウマ娘A",
+      "jptext": "わっ、あれドゥラメンテじゃない……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng Umamusume B",
+      "text": "Tin đồn bạn ấy tập ở phòng gym này là thật kìa... Quả nhiên hôm nay bạn ấy nhắm tới chiếc máy mới rồi đúng không?",
+      "jpname": "利用客のウマ娘B",
+      "jptext": "ここ利用してるってウワサ本当だったんだ……。\nやっぱり今日は新しいマシンが目当てかな？",
+      "choice_data_list": [
+        "Quả nhiên đi đâu cô cũng bị chú ý hết nhỉ",
+        "Đúng là đi tới đâu cô cũng thành tâm điểm chú ý"
+      ],
+      "jpchoice_data_list": [
+        "やっぱり注目されちゃうな",
+        "やっぱり注目されちゃうね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Tôi quen rồi. Khởi động xong tôi sẽ qua thử chiếc máy đó ngay.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……慣れている。\n準備運動をしたら、すぐにあれを試してくる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thấy hơi bận tâm về vẻ mặt của Duramente, tôi cứ thế đứng lại dõi theo các động tác khởi động của cô ấy...",
+      "jpname": "モノローグ",
+      "jptext": "ドゥラメンテの様子が気になり、なんとなくそのまま\n準備運動を見守っていると……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng nam",
+      "text": "Duramente sắp sửa phô diễn đẳng cấp thế nào đây...!?",
+      "jpname": "利用客の男性",
+      "jptext": "ドゥラメンテ、どんなパフォーマンスを見せるんだ……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bàn tay Duramente cứ trắng bệch dần đi, trông như thể máu đang rút sạch khỏi đôi tay vậy. Thế này là...",
+      "jpname": "モノローグ",
+      "jptext": "ドゥラメンテの手がどんどん白くなって、\n血の気が引いているように見える。これは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "(...Không ổn, cơ thể mình lại càng co cứng lại rồi...)",
+      "jpname": "ドゥラメンテ",
+      "jptext": "（……っ、ダメだ、かえって体が硬くなって――）",
+      "choice_data_list": [
+        "Hay là cô tạm dừng để giãn cơ lại từ đầu nhé?",
+        "Hay là giãn cơ lại một chút từ đầu đã nhé?"
+      ],
+      "jpchoice_data_list": [
+        "いったんストレッチからやり直さないか？",
+        "いったんストレッチからやり直さない？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị săm soi chú ý thế này rồi liên tục gánh chịu những ánh mắt ngây thơ đầy kỳ vọng, căng thẳng cũng là điều dễ hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "こう注目を集めて、無邪気な期待を浴びせられ続ければ、\n緊張するのも無理はない。",
+      "choice_data_list": [
+        "Nếu thấy phiền vì tiếng xung quanh thì có tai nghe này"
+      ],
+      "jpchoice_data_list": [
+        "周りが気になるならイヤホンとかもあるし"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Ừ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……ああ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Hộc...! Hộc...!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ふっ……！　ふっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng nam",
+      "text": "Kinh thật, mức tạ kia không phải quá khủng rồi sao...!? Em ấy định nâng tới mức nào nữa đây...!?",
+      "jpname": "利用客の男性",
+      "jptext": "すっげ、あれ重量ヤバくねぇ……！？\nどこまで上げちまうんだ……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng Umamusume A",
+      "text": "Này, qua xem đi! Tớ muốn tận mắt thấy đẳng cấp khác biệt so với Umamusume bình thường quá đi mất!",
+      "jpname": "利用客のウマ娘A",
+      "jptext": "ねえ、見てこ見てこ！\n普通のウマ娘とレベチなとこ、見てみたいー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――……っ。",
+      "choice_data_list": [
+        "Dừng lại đã, nghỉ giữa hiệp một chút nào"
+      ],
+      "jpchoice_data_list": [
+        "ストップ、インターバルを挟もう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Hà. Phù...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――っは。\nふぅーー…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――……。",
+      "choice_data_list": [
+        "3 phút rồi. Hết thời gian nghỉ rồi nhé"
+      ],
+      "jpchoice_data_list": [
+        "――3分。インターバル終了だよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Đã hết rồi.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――……止まった。",
+      "choice_data_list": [
+        "Hết ư...?"
+      ],
+      "jpchoice_data_list": [
+        "止まった……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Không, chuyện của tôi thôi. Tiếp tục thêm một hiệp nữa nào.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……いや、こちらの話だ。\nもう1セットいこう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Phù... hộc! Phù!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ふぅーー…………はっ！　ふっ！",
+      "choice_data_list": [
+        "Tốt lắm! Nhớ điều hòa nhịp thở nhé!",
+        "Làm tốt lắm! Chú ý giữ đều nhịp thở nhé!"
+      ],
+      "jpchoice_data_list": [
+        "いい感じだよ！呼吸整えてな！",
+        "いい感じだよ！呼吸整えてね！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Hà...!",
+      "jpname": "ドゥラメンテ",
+      "jptext": "はぁっ――！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng Umamusume A",
+      "text": "Oa, vẫn tập tiếp cơ á!? Sức mạnh lẫn thể lực đều ở một đẳng cấp hoàn toàn khác biệt...!",
+      "jpname": "利用客のウマ娘A",
+      "jptext": "――うわ、まだ続けるの！？\nパワーもスタミナも桁違いだよ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Khách hàng Umamusume B",
+      "text": "Quả nhiên Duramente đỉnh thật đấy...!",
+      "jpname": "利用客のウマ娘B",
+      "jptext": "やっぱりドゥラメンテってすごい……！",
+      "choice_data_list": [
+        "Tải trọng thế nào rồi?"
+      ],
+      "jpchoice_data_list": [
+        "負荷はどう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Ừ, mức tải vừa vặn và cảm giác dùng cũng rất tốt. Tôi sẽ cân nhắc việc trang bị nó.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……ああ、適度にかかっているし、使用感もいい。\n導入を検討する。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Tại sao...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――……なぜ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Rốt cuộc lại để cậu phải đi theo tới tận lúc này.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "……結局最後まで付き合わせたな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bảo rằng mình đã biết thêm về ngày nghỉ của Duramente và chuyến đi này rất có ý nghĩa. Chưa kể ở phòng gym cũng thu được những kết quả rõ ràng.",
+      "jpname": "モノローグ",
+      "jptext": "ドゥラメンテの休日の様子を知ることができたし、\n有意義だった、と伝える。ジムでは明確な収穫もあった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngày mai lại tiếp tục bước vào luyện tập. Tôi cần phải lên dây cót tinh thần để tiếp tục hỗ trợ cô ấy thật tốt.",
+      "jpname": "モノローグ",
+      "jptext": "明日はまたトレーニングだ。\n引き続き彼女をサポートしていけるよう、気合いをいれなくては。",
+      "choice_data_list": [
+        "Vậy thì hẹn gặp lại cô vào ngày mai nhé!"
+      ],
+      "jpchoice_data_list": [
+        "それじゃ、また明日！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "Ừ...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "ああ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Thật là ấm áp...",
+      "jpname": "ドゥラメンテ",
+      "jptext": "――……。\n…………温かい、な……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Duramente",
+      "text": "...Thật là một con người kỳ lạ.",
+      "jpname": "ドゥラメンテ",
+      "jptext": "…………不思議な人だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
