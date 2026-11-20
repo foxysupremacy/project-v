@@ -1,0 +1,560 @@
+{
+  "title": "Gửi trọn tấm lòng",
+  "jptitle": "心入るかな",
+  "text_block_list": [
+    {
+      "name": "Phalaenopsis",
+      "text": "Khử... Chừng này ăn thua gì...!\n...Tăng thêm 10 hiệp nữa, cứ thế này mà tiếp tục!",
+      "jpname": "ファレノプシス",
+      "jptext": "くっ……この程度……！\n……あと10セット追加だ、このまま続ける！",
+      "choice_data_list": [
+        "...Không, phải là 20 hiệp!"
+      ],
+      "jpchoice_data_list": [
+        "……いや、あと20！"
+      ]
+    },
+    {
+      "name": "Uma Musume đang tập thể lực",
+      "text": "...Con bé đó, lại tăng thêm số lần nữa rồi kìa...!? Trainer-san bên kia cũng thuộc hàng siêu Sparta luôn ấy chứ...!",
+      "jpname": "筋トレ中のウマ娘",
+      "jptext": "……あの子、また回数増やしてる……！？\nトレーナーさんも、超スパルタじゃん……！"
+    },
+    {
+      "name": "",
+      "text": "Trải qua một thời gian làm đệ tử dưới trướng Phalaenopsis...\nGiáo án huấn luyện của cô ấy dần dà trở nên vô cùng khắc nghiệt.",
+      "jpname": "モノローグ",
+      "jptext": "ファレノプシスの弟子としての生活もしばらく経ち……\n彼女のメニューは、徐々にとても苛烈なものになっていった。",
+      "choice_data_list": [
+        "(...Cô ấy thực sự... rất mạnh mẽ)"
+      ],
+      "jpchoice_data_list": [
+        "（本当に……彼女は強い）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dẫu bài tập có nặng nhọc đến đâu, cô ấy vẫn không hề nao núng mà bền bỉ đương đầu.\nMỗi ngày trôi qua, tôi đều được tận mắt chứng kiến quyết tâm sắt đá biểu lộ qua từng hành động.",
+      "jpname": "モノローグ",
+      "jptext": "どれだけ厳しいメニューにも、怯まず挑み続けている。\n強い覚悟は行動に表れると、目の当たりにする毎日だ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Phù... Đã chạy xong 5 cữ 1600 mét rồi.\nNào, tiếp theo là——",
+      "jpname": "ファレノプシス",
+      "jptext": "ふっ……1600mを5本、走り終えたぞ。\nさて、次は――",
+      "choice_data_list": [
+        "Chờ đã, trước tiên——"
+      ],
+      "jpchoice_data_list": [
+        "待って、まずは――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi vội đưa cô ấy vào chỗ bóng râm, lấy nước uống cùng bình xịt làm mát ra.\nĐặc biệt là vận động ngoài trời, thân nhiệt lại càng dễ bị ảnh hưởng.",
+      "jpname": "モノローグ",
+      "jptext": "すぐに彼女を日陰に移動させ、ドリンクと冷却スプレーを取り出す。\n特に屋外での運動は、体温に影響が出やすい。",
+      "choice_data_list": [
+        "Hãy đợi cơ thể ổn định lại rồi hãy tiếp tục nhé"
+      ],
+      "jpchoice_data_list": [
+        "体が落ち着いてから、再開しよう"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Thì ra là thế. Các bài tập ngoài trời\nđược chia nhỏ ra nhiều đợt như vậy là vì lý do này sao.",
+      "jpname": "ファレノプシス",
+      "jptext": "……なるほど。屋外メニューが\nやけに小分けになっていたのは、このためか。",
+      "choice_data_list": [
+        "Phải nghỉ ngơi từng chút một rồi mới tiến hành tiếp chứ",
+        "Cần phải chia nhỏ nghỉ ngơi điều độ mới được chứ"
+      ],
+      "jpchoice_data_list": [
+        "こまめに休憩しながら進めないとな",
+        "こまめに休憩しながら進めないとね"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Được rồi.\nCuộc đua tuyển chọn cũng sắp tới gần. Từng bước tiến lên... mục tiêu duy nhất chỉ có chiến thắng.",
+      "jpname": "ファレノプシス",
+      "jptext": "ああ。\n選抜レースも近い。歩みを重ね……目指すは、勝利のみ。",
+      "choice_data_list": [
+        "——! Phải rồi, tất nhiên!",
+        "——! Vâng, đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "――！ああ、もちろん",
+        "――！うん、もちろん"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Nếu là cô ấy, vì cuộc đua chắc hẳn sẽ không tiếc bất kỳ nỗ lực rèn luyện nào.\nDẫn dắt quyết tâm ấy chạm tới chiến thắng chính là bổn phận của một người đệ tử—— Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "……彼女なら、レースのためにどんな鍛錬も惜しまないだろう。\nその覚悟を勝利へ導くのが、弟子の務め――しかし。",
+      "choice_data_list": [
+        "(...Có một điều tôi cần phải đưa ra quyết định)"
+      ],
+      "jpchoice_data_list": [
+        "（……ひとつ、決めるべきことがある）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đêm đó, tôi xem xét lại các thông tin của cuộc đua tuyển chọn.\nMột cuộc đua được tổ chức với điều kiện tương đương Twinkle Series sẽ tạo ra gánh nặng rất lớn lên người tham gia.",
+      "jpname": "モノローグ",
+      "jptext": "その夜、選抜レースの概要を見直す。トゥインクル・シリーズと\n同等の条件で行われるレースは、出走者への負担も大きい。",
+      "choice_data_list": [
+        "(...Liệu có nên để cô ấy chạy không?)"
+      ],
+      "jpchoice_data_list": [
+        "（……彼女に、走らせていいのだろうか？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Quyết định này có thể sẽ ảnh hưởng sâu sắc đến tương lai của cô ấy.\nNỗi sợ hãi đã tạo nên một thoáng ngập ngừng. Thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "……この決断は、彼女の未来に大きく影響するかもしれない。\n恐怖が、一瞬の躊躇いを生んだ。しかし――",
+      "choice_data_list": [
+        "...Tôi phải thể hiện quyết tâm của mình"
+      ],
+      "jpchoice_data_list": [
+        "……覚悟を、見せるんだ"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Người muốn đổi cuộc đua tuyển chọn sang đường cát sao?",
+      "jpname": "ファレノプシス",
+      "jptext": "選抜レースを、ダートに変更したい？",
+      "choice_data_list": [
+        "Phải. Hiện tại, tôi muốn giảm bớt gánh nặng hết mức có thể",
+        "Vâng. Bây giờ, tôi muốn hạn chế tối đa gánh nặng cho cô"
+      ],
+      "jpchoice_data_list": [
+        "ああ。今は、少しでも負荷を抑えたい",
+        "うん。今は、少しでも負荷を抑えたい"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "............\nĐúng là chạy trên đường cát sẽ ít ảnh hưởng lên đôi chân hơn—— nhưng mà.",
+      "jpname": "ファレノプシス",
+      "jptext": "…………。\n確かに、ダートの方が脚への影響は小さい――しかしだ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Tôi đã bảo người phải rèn giũa để chiến thắng cả thể chất của tôi.\nĐể chịu đựng áp lực của đường cỏ, chúng ta hoàn toàn có thể tiếp tục khổ luyện cơ mà.",
+      "jpname": "ファレノプシス",
+      "jptext": "私は、体質に打ち勝てと伝えた。\n芝の負荷に耐えるべく、鍛錬を積むこともできるはずだ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Quyết định này—— người định chạy trốn khỏi đường cỏ sao.\nTôi không nhớ mình từng thu nhận một kẻ hèn nhát làm đệ tử đâu.",
+      "jpname": "ファレノプシス",
+      "jptext": "この決断――芝から逃げるつもりか。\n臆病者を、弟子にとった記憶はないぞ。",
+      "choice_data_list": [
+        "——Không, không phải thế!"
+      ],
+      "jpchoice_data_list": [
+        "――いや、違う"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi trải toàn bộ nhật ký huấn luyện bấy lâu nay lên bàn.\nTừng cường độ dự kiến của mỗi nội dung... cùng vô số con số viết mực đỏ vượt xa những dự liệu ấy.",
+      "jpname": "モノローグ",
+      "jptext": "机の上に、これまでのトレーニング記録を広げた。\n種目ごとの想定負荷と……その数値を上回る、赤字の数々。",
+      "choice_data_list": [
+        "Cô lúc nào cũng vượt xa những gì tôi đã dự tính",
+        "Cô luôn nỗ lực vượt trên cả mong đợi của tôi"
+      ],
+      "jpchoice_data_list": [
+        "君はいつも、俺の想定を超えてきた",
+        "貴方はいつも、私の想定を超えてきた"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Với thực lực của cô ấy, chắc chắn dẫu chạy trên đường cỏ cũng sẽ thể hiện vô cùng xuất sắc.\nThế nhưng... tôi không thể vì thắng lợi trước mắt mà bắt cô phải chịu đựng gánh nặng khôn lường.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の実力であれば、間違いなく芝でも必ず好走できるだろう。\nしかし……今だけのために、負担を強いるわけにはいかない。",
+      "choice_data_list": [
+        "Bởi cuộc đua tuyển chọn này là bước đi đầu tiên hướng tới tương lai của cô",
+        "Bởi vì cuộc đua này là bước đệm đầu tiên cho tương lai của cô"
+      ],
+      "jpchoice_data_list": [
+        "選抜レースは、君の未来への第一歩だから",
+        "選抜レースは、貴方の未来への第一歩だから"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "——!",
+      "jpname": "ファレノプシス",
+      "jptext": "――！",
+      "choice_data_list": [
+        "Tôi muốn dành tặng cho cô một chiến thắng kết nối tới tương lai!",
+        "Tôi muốn mang lại cho cô thắng lợi mở ra cả một tương lai!"
+      ],
+      "jpchoice_data_list": [
+        "未来に繋がる勝利を、君に贈りたいんだ！",
+        "未来に繋がる勝利を、貴方に贈りたいの！"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "——... Tôi hiểu rồi.",
+      "jpname": "ファレノプシス",
+      "jptext": "――……あいわかった。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Từ ngày mai, chúng ta sẽ bắt đầu đợt tinh chỉnh cuối cùng cho trận đua đường cát.\nHãy sắp xếp lại toàn bộ giáo án đi. ...Người làm được chứ?",
+      "jpname": "ファレノプシス",
+      "jptext": "明日からダート戦に向け、最終調整を始めよう。\nメニューをすべて組み直しなさい。……できるな？",
+      "choice_data_list": [
+        "...Được, cứ giao cho tôi!",
+        "...Vâng, cứ để tôi lo!"
+      ],
+      "jpchoice_data_list": [
+        "……ああ、任せて！",
+        "……うん、任せて！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và rồi... cuộc tranh tài đã đến chỉ trong chớp mắt.",
+      "jpname": "モノローグ",
+      "jptext": "そして……戦いは、瞬く間に訪れる。"
+    },
+    {
+      "name": "Trainer mới A",
+      "text": "Cậu có biết con bé đằng kia không?\nNghe bảo gần đây đang tập luyện theo kiểu siêu Sparta lắm——",
+      "jpname": "新人トレーナーA",
+      "jptext": "あそこにいる子、知ってるか？\n最近、超スパルタなトレーニングをしてるっていう――"
+    },
+    {
+      "name": "Trainer mới B",
+      "text": "À, chắc Trainer của em ấy cũng nghiêm khắc dữ lắm... Ơ, mà khoan đã?\nCuộc đua tuyển chọn lại chạy đường cát à? Cứ tưởng chắc chắn phải chạy đường cỏ chứ——",
+      "jpname": "新人トレーナーB",
+      "jptext": "あぁ、トレーナーもさぞ厳しいんだろうな……って、あれ？\n選抜レースはダートなのか。てっきり芝だとばかり――"
+    },
+    {
+      "name": "",
+      "text": "Từ hàng ghế khán giả, tôi chăm chú dõi theo hiệu lệnh xuất phát.\nTiếng bàn tán của đông đảo khán giả lọt vào tai khiến tôi cũng bất giác thẳng người căng thẳng.",
+      "jpname": "モノローグ",
+      "jptext": "観客席から、スタートの様子を見守る。\n多くのギャラリーの声が耳に届き、こちらの背筋も伸びた。",
+      "choice_data_list": [
+        "(Phaleno... hãy cho mọi người thấy sức mạnh của cô đi!)",
+        "(Phaleno... hãy thể hiện bản lĩnh của cô cho họ thấy!)"
+      ],
+      "jpchoice_data_list": [
+        "（ファレノ……君の力、見せつけてやれ！）",
+        "（ファレノ……貴方の力、見せつけて！）"
+      ]
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cuộc đua tuyển chọn với bao niềm kỳ vọng dâng trào, ngay lúc này—— đã chính thức bắt đầu!",
+      "jpname": "実況",
+      "jptext": "期待高まる選抜レース、今――スタートしました！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Người bứt lên dẫn trước đầu tiên là Phalaenopsis!\nVới đà xuất phát tuyệt vời, cô đang bám sát ngay nhóm dẫn đầu!",
+      "jpname": "実況",
+      "jptext": "まず前に抜け出したのはファレノプシス！\n行き脚ついて、先頭にぴたりと追走しています！"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Cảm giác trên cát rất tốt, vị trí cũng đúng như dự liệu.\nCứ giữ đà tiên phong này, tới đoạn thẳng bứt lên thì...)",
+      "jpname": "ファレノプシス",
+      "jptext": "（砂の感触は良好、位置取りも想定内。\nこのまま先行し、直線で抜け出せば……）"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Thế nhưng... bấy nhiêu vẫn chưa đủ!)",
+      "jpname": "ファレノプシス",
+      "jptext": "（しかし……足りぬ！）"
+    },
+    {
+      "name": "",
+      "text": "Tôi nín thở dõi theo từng bước chạy của cô ấy.\nNhóm dẫn đầu đang tiến vào đoạn thẳng cuối cùng một cách thuận lợi—— chính vào khoảnh khắc ấy.",
+      "jpname": "モノローグ",
+      "jptext": "固唾を呑みながら、彼女の走りを見つめる。\n前方が、スムーズに最終直線へ差し掛かった――その時。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và đây rồi, cục diện cuộc đua đã có sự biến chuyển!\nCắt đuôi được Uma Musume chạy thoát ly, một người đã hoàn toàn bứt phá vượt lên!",
+      "jpname": "実況",
+      "jptext": "さあ、ここでレースが動きます！\n逃げウマ娘を振り切り、ひとり完全に抜け出した！"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Đaaaaaa aaaaaaa——!!!",
+      "jpname": "ファレノプシス",
+      "jptext": "だぁぁああああああああっ！！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Là Phalaenopsis! Phalaenopsis đã vươn lên dẫn đầu!\nMột pha tăng tốc kinh hoàng, hoàn toàn không cho nhóm bám đuổi bất kỳ cơ hội nào!",
+      "jpname": "実況",
+      "jptext": "ファレノプシスだ！　ファレノプシス先頭！\nなんという加速、後続を一切寄せ付けません！"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Đừng vội tự mãn khi dẫn đầu... Phải tiến xa hơn nữa, vươn lên phía trước!)",
+      "jpname": "ファレノプシス",
+      "jptext": "（先頭に甘んじるな……もっと前へ、先へ！）"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Giờ đây ta có thể chạy được thế này... chính là nhờ vào biết bao quyết định mà câu lạc bộ đã gầy dựng cho ta)",
+      "jpname": "ファレノプシス",
+      "jptext": "（今、走れるようになれたのは……\n倶楽部が私のために積み重ねた、決断があってこそ）"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(——Nếu người cũng vì ta như thế...)",
+      "jpname": "ファレノプシス",
+      "jptext": "（――そなたも、そうなのであれば……）"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "(Sẽ chạm tới được. Không, ta nhất định sẽ chạm tới! Đích đến vượt lên trên cả chiến thắng...)",
+      "jpname": "ファレノプシス",
+      "jptext": "（届く。いや、届かせる！　勝利を超えた先の……）"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hướng tới tương lai!! Haaaaaaa——!",
+      "jpname": "ファレノプシス",
+      "jptext": "未来へ！！　はぁあああああっ！",
+      "choice_data_list": [
+        "Phaleno...!!"
+      ],
+      "jpchoice_data_list": [
+        "ファレノ……！！"
+      ]
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cách biệt đã là 5 thân ngựa, 6 thân ngựa, và vẫn đang tiếp tục nới rộng!\nPhô diễn một tốc độ áp đảo đến nghẹt thở, và lúc này——!",
+      "jpname": "実況",
+      "jptext": "リードは5バ身、6バ身、まだまだ広がっていきます！\n圧巻の走力を見せつけ、今――！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "CÁN ĐÍCH RỒI——!!!\nVới khoảng cách áp đảo lên tới 9 thân ngựa, cô ấy đã giành trọn một chiến thắng vẻ vang!",
+      "jpname": "実況",
+      "jptext": "ゴーーーールインッ！！！\n9バ身という圧倒的な着差で、見事勝利を収めました！"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Hàa, hàa... Ha, hahaha...!",
+      "jpname": "ファレノプシス",
+      "jptext": "はあっ、はあっ、……はっ、はははっ……！",
+      "choice_data_list": [
+        "Phaleno... chúc mừng cô!"
+      ],
+      "jpchoice_data_list": [
+        "ファレノ……おめでとう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Với trái tim đập thình thịch trong lồng ngực, tôi chạy nhanh tới bên cô và lấy nước ra.\nChạy một màn xuất thần nhường ấy, phải nhanh chóng chăm sóc thân nhiệt cho cô mới được...!",
+      "jpname": "モノローグ",
+      "jptext": "跳ねる心臓と共に彼女に駆け寄り、ドリンクを取り出す。\nあれだけの走りをしたのだ、急いで体温をケアしなくては……！"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Người làm tốt lắm!",
+      "jpname": "ファレノプシス",
+      "jptext": "よくやった！",
+      "choice_data_list": [
+        "——!"
+      ],
+      "jpchoice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Sự trau dồi miệt mài mỗi ngày, cùng quyết định hướng tới tương lai.\nThắng lợi này đích thực là do người mang lại.",
+      "jpname": "ファレノプシス",
+      "jptext": "日々の研鑽と、未来への決断。\nまさしく、そなたがもたらした勝利だ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Quyết tâm chở che Uma Musume và cùng sánh bước tới tương lai.\nMảnh ghép ấy... lúc này đây, chính xác đang hiện hữu trong người.",
+      "jpname": "ファレノプシス",
+      "jptext": "ウマ娘を支え、共に未来へ歩む覚悟。\nその一片は……今、正しくそなたにある。",
+      "choice_data_list": [
+        "Phaleno...!"
+      ],
+      "jpchoice_data_list": [
+        "ファレノ……！"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "——Sau này, hãy tiếp tục phấn đấu hơn nữa nhé.",
+      "jpname": "ファレノプシス",
+      "jptext": "――これからも、一層励みなさい。"
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau đó. Được cô ấy mời gọi, tôi lại đến thăm CLB Đào tạo một lần nữa.\nRảo bước giữa những đóa hoa lá khẽ đung đưa trong tĩnh lặng... tôi dừng chân trước cánh cổng.",
+      "jpname": "モノローグ",
+      "jptext": "その数日後。彼女に呼ばれ、再び育成倶楽部を訪れた。\n静かに揺れる草花の間を通り……門の前に立つ。"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "Chị Phaleno ơi!\nĐệ tử của chị tới rồi này!",
+      "jpname": "ウマ娘A",
+      "jptext": "ファレノさーん！\nお弟子さん、いらっしゃいましたよー！",
+      "choice_data_list": [
+        "(............Được rồi, vào thôi)"
+      ],
+      "jpchoice_data_list": [
+        "（…………よし、行こう）"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "............\nVậy thì—— bắt đầu đi.",
+      "jpname": "ファレノプシス",
+      "jptext": "…………。\nでは――始めなさい。",
+      "choice_data_list": [
+        "...Tôi hiểu rồi"
+      ],
+      "jpchoice_data_list": [
+        "……わかった"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tự tay chăm sóc, lau chùi thanh naginata gỗ mà cô ấy hằng nâng niu.\n——Đây chính là thử thách cuối cùng của tôi với tư cách một người đệ tử.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が愛用する木製の薙刀を、自分が手入れすること。\n――これが弟子としての、最後の課題なのだ。"
+    },
+    {
+      "name": "",
+      "text": "Tôi ngồi quỳ ngay ngắn trước mặt cô, dùng tấm vải được giao để lau dọc thân đao.\nCẩn trọng miết từng đường vân gỗ bóng bẩy và trau chuốt lại thật ngay ngắn.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の前に正座し、渡された布で刀身を拭いていく。\n美しく艶めく木肌を、慎重になぞり、整える。",
+      "choice_data_list": [
+        "...Tôi đã làm xong rồi"
+      ],
+      "jpchoice_data_list": [
+        "……できました"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Bảo dưỡng rất dịu dàng và tỉ mỉ—— tốt lắm.",
+      "jpname": "ファレノプシス",
+      "jptext": "優しく、丹念な手入れだ――よい。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Hãy lùi lại phía sau đi.",
+      "jpname": "ファレノプシス",
+      "jptext": "……下がっていなさい。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, cô ấy cất bước múa đao.\nThanh naginata tựa hồ như một lưỡi gươm sắc bén, phản chiếu ánh mặt trời sáng ngời lấp lánh.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、彼女は舞った。\n薙刀はまるで鋭刃のように、日を受けて光っている。",
+      "choice_data_list": [
+        "(...Nếu là cô ấy, nhất định sẽ...)"
+      ],
+      "jpchoice_data_list": [
+        "（……彼女なら、きっと）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Từng cử chỉ, động tác đều vừa đĩnh đạc thanh nhã, lại vừa oai hùng dũng mãnh.\nTôi thầm nghĩ về chiến thắng rực rỡ hôm trước—— cùng niềm hạnh phúc gắn liền với tương lai của cô.",
+      "jpname": "モノローグ",
+      "jptext": "一挙手一投足が、凜としていながら、勇ましい。\n先日の鮮やかな勝利と――未来に繋がれた、彼女の幸福を想った。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Nào—— đệ tử của tôi.\nTrong cuộc đua vừa rồi, người đã vì tôi mà đưa ra quyết định... và cho tôi thấy được sự quyết tâm của người.",
+      "jpname": "ファレノプシス",
+      "jptext": "さて――我が弟子よ。\nそなたは先のレースで、私のためと決断し……覚悟を見せた。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Có thể coi là thử thách đã hoàn thành xuất sắc rồi đấy.\n——Vậy chặng đường tiếp theo, người tính thế nào?",
+      "jpname": "ファレノプシス",
+      "jptext": "課題は、達成したと言えるだろう。\n――この先は、どうする。",
+      "choice_data_list": [
+        "Tôi vẫn muốn tiếp tục được học hỏi dưới trướng của cô",
+        "Sau này, tôi vẫn muốn được đồng hành học tập cùng cô"
+      ],
+      "jpchoice_data_list": [
+        "これからも、君のもとで学びたい",
+        "これからも、貴方のもとで学びたい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phải bền bỉ theo đuổi như cô ấy mới thực là quyết tâm chân chính.\nVà dĩ nhiên, với tư cách một người dẫn dắt, tôi không thể chỉ biết nhận lấy mà thôi.",
+      "jpname": "モノローグ",
+      "jptext": "彼女のように、長く続けてこその覚悟だ。\nもちろん、指導者として、与えられてばかりではいられない。",
+      "choice_data_list": [
+        "Và rồi... tôi sẽ trở thành điểm tựa vững chắc cho con đường cô đi",
+        "Và rồi... tôi nhất định sẽ nâng đỡ cho bước đường tương lai của cô"
+      ],
+      "jpchoice_data_list": [
+        "そして……君の進む道を、支えてみせるよ",
+        "そして……貴方の進む道を、支えてみせるよ"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "...Vậy thì, tôi xin hỏi người một câu hỏi cuối cùng.",
+      "jpname": "ファレノプシス",
+      "jptext": "……では、最後にひとつ問おう。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Liệu người có đủ quyết tâm—— để cùng tôi tiến tới tương lai không?",
+      "jpname": "ファレノプシス",
+      "jptext": "私と共に――未来へ進む覚悟はあるか。",
+      "choice_data_list": [
+        "Tôi có!"
+      ],
+      "jpchoice_data_list": [
+        "はい！"
+      ]
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "——... Hì.",
+      "jpname": "ファレノプシス",
+      "jptext": "――……ふっ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Khế ước đã thành.\nVới tư cách là một đệ tử, và là một Trainer, hãy nâng đỡ tôi... và cùng nhau chứng kiến.",
+      "jpname": "ファレノプシス",
+      "jptext": "契りは成った。\n弟子として、そしてトレーナーとして、私を支え……共に見よ。"
+    },
+    {
+      "name": "Phalaenopsis",
+      "text": "Đóa hoa hạnh phúc rực rỡ nghìn trùng—— sẽ bung nở kiêu hãnh nơi tương lai phía trước.",
+      "jpname": "ファレノプシス",
+      "jptext": "幾年もの未来に咲き誇る――大輪の幸福を。"
+    }
+  ]
+}
