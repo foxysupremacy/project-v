@@ -1,0 +1,497 @@
+{
+  "title": "Thời khắc hoan lạc",
+  "jptitle": "愉悦の刻",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ nọ――",
+      "jpname": "モノローグ",
+      "jptext": "ある休日のこと――",
+      "choice_data_list": [
+        "Ủa? Orfevre đó sao?"
+      ],
+      "jpchoice_data_list": [
+        "あれ？オルフェーヴル？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Là ngươi sao. Làm cái gì ở nơi chốn thế này?",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様か。\n斯様なところで何をしておる。",
+      "choice_data_list": [
+        "Tôi đi mua sắm một chút... Còn Orfevre thì sao?"
+      ],
+      "jpchoice_data_list": [
+        "ちょっと買い物に……オルフェーヴルは？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Triển lãm đồ trang sức. ――Nhưng toàn thứ vớ vẩn chẳng ra thể thống gì.",
+      "jpname": "オルフェーヴル",
+      "jptext": "装飾品の展示会だ。\n――が、話にならぬ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Nhân danh ta, hạ lệnh cho ngươi. Mau dẫn đường đến một nơi nào đó không gây buồn ngủ xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……余の名を以て命ずる。\n何処か退屈せぬ場所へ案内せよ。",
+      "choice_data_list": [
+        "Một nơi không chán ngắt, hả..."
+      ],
+      "jpchoice_data_list": [
+        "退屈しない場所、かあ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Phải. Khôn hồn mà liệu liệu. Hãy nhớ rằng số mệnh của ngươi―― phụ thuộc hoàn toàn vào tâm trạng của ta đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "然り。よくよく励め。\n貴様の命運は――余の心証次第と心得よ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Quả là một đề bài hóc búa, biết đưa cô ấy đi đâu bây giờ nhỉ... Vừa tính toán trăm phương ngàn kế, tôi vừa cùng cô ấy rời khỏi trung tâm thương mại.",
+      "jpname": "モノローグ",
+      "jptext": "なかなかに難題だが、どこへ連れていったものだろうか……。\nあれこれと算段しながら、デパートをあとにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng hiểu sao tôi lại quen chân đi về phía khu mua sắm thường ngày, và tại đó Orfevre đột nhiên nổi hứng muốn chọn trang phục cho tôi.",
+      "jpname": "モノローグ",
+      "jptext": "何となく普段の買い物コースに来てしまったが、\nそこでオルフェーヴルが服を見立ててやろうと言いだした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ồ... Coi bộ cũng ra dáng đấy chứ. Mặc mấy thứ này vào rồi theo hầu ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ほう……存外、様になっておる。\nこれらを着て供をせよ。",
+      "choice_data_list": [
+        "Nói sao nhỉ, nhìn tổng thể cứ đỏ rực lên ấy...!"
+      ],
+      "jpchoice_data_list": [
+        "なんていうか、全体的に、赤い……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy lấy làm vinh dự đi. Đó là màu sắc mà bậc Đế vương ưa chuộng. Khoác nó lên người thì kẻ như ngươi cũng sẽ tăng thêm vài phần thể diện. Hơn nữa――",
+      "jpname": "オルフェーヴル",
+      "jptext": "喜べ。王の好む色である。\nそれを纏えば、貴様でも多少は箔がつこう。それに――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nhìn ngươi trong bộ dạng này... tâm trạng ta bỗng trở nên vô cùng phấn khích.",
+      "jpname": "オルフェーヴル",
+      "jptext": "今の装いの貴様を見ておると……気分が高揚するのだ。",
+      "choice_data_list": [
+        "...Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Và kỳ lạ thay... bàn tay phải của ta cứ ngứa ngáy không yên.",
+      "jpname": "オルフェーヴル",
+      "jptext": "そして、不思議と……右手が疼く。",
+      "choice_data_list": [
+        "Hảảảảảảả...!?"
+      ],
+      "jpchoice_data_list": [
+        "えええええええ……！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Được đích thân ta vung tay giáng đòn là niềm vinh hạnh ngút trời đấy. Lúc đó―― ta cho phép ngươi rơi lệ vì cảm động.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余に小突かれるなど光栄であろう。\nその時は――感泣も許そう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cái gọi là trò chơi trải nghiệm thực tế ảo... là thứ này sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "体感型遊戯……というものか。",
+      "choice_data_list": [
+        "Nó sử dụng một phần công nghệ của máy Umalator đấy."
+      ],
+      "jpchoice_data_list": [
+        "ウマレーターの技術の一部が使われてるんだ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Được lắm, ta nổi hứng rồi đấy. Đích thân bậc Đế vương này sẽ đánh giá phẩm cấp của nó. Ngươi cũng mau theo hầu đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よかろう、興が乗った。王直々に、品定めをしてやろう。\n貴様も供をせよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vua NPC",
+      "text": "Hỡi Dũng giả! Mừng người đã tới! Vương quốc này đang bị lũ ma vật đe dọa. Xin hãy dùng sức mạnh của người để cứu lấy đất nước này!",
+      "jpname": "NPCの王様",
+      "jptext": "『勇者よ！　よくぞ参った！　この国は魔物に脅かされておる。\nそなたの力でこの国を救ってくれ！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Một tên vua ngu xuẩn.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……愚王めが。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "えっ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Một đất nước do chính mình trị vì mà cũng chẳng bảo vệ cho ra hồn――",
+      "jpname": "オルフェーヴル",
+      "jptext": "自らが君臨する国ひとつ、満足に守れぬとは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đã là Vua―― phải là kẻ thống trị tất cả. Đồng thời, phải là kẻ cường giả đủ sức tiêu diệt lũ soán ngôi đoạt vị.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王とは――すべてを支配する者。\n同時に、簒奪者を討ち払える強者でなければならぬ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Lũ phế vật chỉ biết run rẩy co ro trên ngai vàng thì làm sao kham nổi cương vị đó.",
+      "jpname": "オルフェーヴル",
+      "jptext": "玉座で震えておるだけの愚物には務まらぬ。",
+      "choice_data_list": [
+        "T-Thì... đây là mô-típ kinh điển của thể loại này mà..."
+      ],
+      "jpchoice_data_list": [
+        "ま、まあ、これはこの手のお約束だから……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và như thế, chuyến hành trình phiêu lưu đã bắt đầu, nhưng mà...",
+      "jpname": "モノローグ",
+      "jptext": "かくして、\n冒険の旅が始まったのだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ma vật hung dữ",
+      "text": "Gừ rừ rừ...!",
+      "jpname": "獰猛な魔物",
+      "jptext": "『グルルルゥ……！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nguyên tắc cơ bản là làm nhiệm vụ phụ để kiếm tiền mua sắm trang bị đã bị cô ấy gạt phăng với lý do \"Dám chỉ tay năm ngón với ta là sao hả\" rồi cứ thế xông thẳng lên phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "お遣いをこなして小銭を稼ぎ装備を整えるというセオリーを、\n『余に指図するとは何事だ』と完全無視して進んできてしまった。",
+      "choice_data_list": [
+        "H-Hay là ta nên quay lại thị trấn chuẩn bị đồ đạc trước thì hơn――"
+      ],
+      "jpchoice_data_list": [
+        "い、一度街に戻って準備を整えたほうが――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hứ!",
+      "jpname": "オルフェーヴル",
+      "jptext": "フッ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ma vật hung dữ",
+      "text": "Gya a a a a...!",
+      "jpname": "獰猛な魔物",
+      "jptext": "『ギャァァァァ……！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Yếu ớt. Không có kẻ nào đủ trình để đọ sức với ta sao?",
+      "jpname": "オルフェーヴル",
+      "jptext": "脆い。\n私と渡り合える相手はおらぬのか。",
+      "choice_data_list": [
+        "Bá đạo quá mức rồi đấy..."
+      ],
+      "jpchoice_data_list": [
+        "無茶苦茶すぎる……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nghe nói cỗ máy này chuyển giao công nghệ từ Umalator, có lẽ năng lực thể chất của người chơi cũng được phản ánh vào game ở một mức độ nào đó.",
+      "jpname": "モノローグ",
+      "jptext": "ウマレーターの技術転用機という話だったから、\nプレイヤーの身体能力もある程度反映されているのかもしれない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sao thế. Mau giải cái gọi là cơ quan cạm bẫy đó đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "どうした。\n仕掛けとやらを解くがよい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cánh cửa đang bị cơ quan phong tỏa... phải mở nó thật nhanh mới được. Đảo mắt nhìn quanh, tôi bỗng phát hiện ra một bức tượng đá trông đầy vẻ khả nghi.",
+      "jpname": "モノローグ",
+      "jptext": "ギミックで閉ざされた扉……早く開けなければ。\n周囲を見回してみると、怪しげな石像が目に留まった。",
+      "choice_data_list": [
+        "Bức tượng đá này... có vẻ đẩy áp vào phía bức tường được đấy."
+      ],
+      "jpchoice_data_list": [
+        "この石像……壁側に押し込めそうだ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cho phép. Mau làm thử xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "許す。\nやってみせよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cho tới tận đây toàn dựa vào một cước của Orfevre để dọn đường, kẻ không có lấy một món trang bị tử tế như tôi ít nhất cũng phải có ích ở những khâu thế này chứ――",
+      "jpname": "モノローグ",
+      "jptext": "ここまでオルフェーヴルの蹴り1本で突き進んできたため、\nまともに装備品もない自分はこういう部分で役に立たなければ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ma vật tượng đá",
+      "text": "Gwa a a a a a!",
+      "jpname": "石像の魔物",
+      "jptext": "『グワァァァァァッ！』",
+      "choice_data_list": [
+        "Oái! Bức tượng đá cử động rồi kìa!?"
+      ],
+      "jpchoice_data_list": [
+        "うわぁぁっ！石像が動いた！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù đã hốt hoảng nhảy lùi lại nhưng con ma vật dường như đã nhắm trúng vào tôi, kẻ vừa kích hoạt cơ quan.",
+      "jpname": "モノローグ",
+      "jptext": "慌てて飛び退いたものの、魔物はギミックを作動させた\nこちらに狙いをつけたようだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thú vị thật đấy. Đã là bầy tôi thì hãy lập công cho ta xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これは愉快。\n臣下ならば功を立ててみせよ。",
+      "choice_data_list": [
+        "Không, cái đó là bất khả thi mà!"
+      ],
+      "jpchoice_data_list": [
+        "いや絶対無理だって！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước ánh mắt thích thú đứng ngắm nhìn của Orfevre, tôi đành phải cuống cuồng chạy thục mạng vòng quanh suốt một hồi lâu.",
+      "jpname": "モノローグ",
+      "jptext": "愉しそうに眺めるオルフェーヴルの前で、\nしばらくの間右往左往し逃げ回る事になるのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ma long",
+      "text": "Gà... a a a a...!",
+      "jpname": "魔竜",
+      "jptext": "『ガ……ァァァァ…………！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trúng trọn một cú đá của Orfevre, con quái vật khổng lồ ngã gục xuống đất. Sức mạnh phi lý ngoài sức tưởng tượng khiến tôi chỉ biết đứng trơ mắt nhìn đầy sững sờ.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの蹴りを受けた巨大な魔物が倒れ伏す。\n強さが規格外すぎて、呆気に取られることしかできない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vạn vật chúng sinh hãy cùng quỳ phục dưới chân ta. ――Hửm?",
+      "jpname": "オルフェーヴル",
+      "jptext": "万象等しく平伏せよ。\n――む？",
+      "choice_data_list": [
+        "Có rương báu kìa!"
+      ],
+      "jpchoice_data_list": [
+        "宝箱だ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Được, mở ra xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よい、開けてみせよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù trong lòng gợn lên chút linh cảm chẳng lành, nhưng nếu là chiến lợi phẩm từ Ma long thì biết đâu lại là trang bị cực mạnh cũng nên. Tôi lấy hết can đảm mở nó ra thì――",
+      "jpname": "モノローグ",
+      "jptext": "若干嫌な予感もするが、魔竜の戦利品であれば強力な装備\nかもしれない。勇気を出して開けてみると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ma vật rương báu",
+      "text": "Gwa a a a a a a a!",
+      "jpname": "宝箱の魔物",
+      "jptext": "『グワァァァアアアッ！』",
+      "choice_data_list": [
+        "Biết ngay là kịch bản này mà!"
+      ],
+      "jpchoice_data_list": [
+        "やっぱりこの展開ー！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ, bị nuốt chửng thế kia trông lố bịch thật.",
+      "jpname": "オルフェーヴル",
+      "jptext": "フ、丸呑みとは滑稽な。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế nhưng... tên hề phải hiện diện trước mắt ta thì mới có ý nghĩa. ...Nhả người ra mau.",
+      "jpname": "オルフェーヴル",
+      "jptext": "だが……道化は目に見えてこそ。\n……返上せよ。",
+      "choice_data_list": [
+        "K-Khoan đã Orfevre!?"
+      ],
+      "jpchoice_data_list": [
+        "ちょ、ちょっとオルフェーヴル！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "OOOOHHH!",
+      "jpname": "オルフェーヴル",
+      "jptext": "オオオォォォ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cùng với một cú va đập kinh thiên động địa là cảm giác lơ lửng giữa không trung. Cú đá của Orfevre đã nghiền nát con ma vật rương báu chỉ trong một đòn, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "衝撃とともに浮遊感に包まれる。\nオルフェーヴルの蹴りは、宝箱の魔物を一撃で粉砕したが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Theo đà hất tung của cú đá, tôi bị bay lên trời cùng với con quái vật và đành ngậm ngùi trải nghiệm một chuyến du ngoạn giữa không trung...",
+      "jpname": "モノローグ",
+      "jptext": "その勢いで蹴り上げられた魔物ごと、\nしばしの空中散歩をする羽目になるのだった……。",
+      "choice_data_list": [
+        "Gya a a a a a a a a...!?"
+      ],
+      "jpchoice_data_list": [
+        "ギャーーーーーーーッ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thật là một khoảnh khắc hoan lạc. Ta có lời khen ngợi ngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "愉悦である。\n褒めて遣わす。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù sao thì cô ấy cũng thấy vui vẻ nên tôi cũng trút được gánh nặng trong lòng...",
+      "jpname": "モノローグ",
+      "jptext": "なんだかんだ楽しんでくれたようでひと安心だ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế nhưng quả nhiên... ngươi thực sự có tài làm một gã hề. Hãy tiếp tục phát huy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "しかしやはり……貴様には、道化の才がある。\n引き続き励むがよい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vui đùa ở một nơi như thế này cũng là một thú tiêu khiển hay ho. Ngươi đã vất vả rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "斯様な場で戯れるも一興であったわ。\n大儀であった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn bóng lưng hiên ngang của Orfevre đang sải bước rời đi, tôi vội vã cắm đầu cắm cổ chạy theo sau...",
+      "jpname": "モノローグ",
+      "jptext": "颯爽と歩き去るオルフェーヴルの背中を、\n慌てて追いかけるのだった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

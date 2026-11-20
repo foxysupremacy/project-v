@@ -1,0 +1,447 @@
+{
+  "title": "Hãy là \"Quân vương\"",
+  "jptitle": "“王”であれ",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Bầy tôi của Orfe A",
+      "text": "――Bẩm ngài Orfevre. Toàn thể bầy tôi đã hoàn tất việc khởi động. Xin ngài cứ tùy ý phân phó.",
+      "jpname": "オルフェの臣下A",
+      "jptext": "――オルフェーヴル様。臣下一同、アップは済ませております。\nなんなりとお申し付けください。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngươi vất vả rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ご苦労。",
+      "choice_data_list": [
+        "――Orfevre!"
+      ],
+      "jpchoice_data_list": [
+        "――――オルフェーヴル！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bầy tôi của Orfe B",
+      "text": "N-Ngươi là ai...! To tiếng thất lễ như vậy là sao chứ!",
+      "jpname": "オルフェの臣下B",
+      "jptext": "あ、貴方は……！　大声でなんですか、不躾ですよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Không sao. ...Xem như là phần thưởng cho buổi tập trước, ta sẽ lắng nghe ngươi một chút.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よい。\n…………先のトレーニングの褒美だ。少し聞いてやる。",
+      "choice_data_list": [
+        "Tôi muốn chứng minh thực lực của mình cho cô thấy...!",
+        "Tôi muốn chứng tỏ bản lĩnh của tôi cho cô thấy...!"
+      ],
+      "jpchoice_data_list": [
+        "君に俺の力を示したい……！",
+        "貴方に私の力を示したい……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Cô ấy đã từng bảo \"Hiện tại ngươi chưa đủ tư cách\". Rằng \"Nếu chỉ đơn thuần là khao khát thì ai cũng làm được\".",
+      "jpname": "モノローグ",
+      "jptext": "……彼女は言った。『今の自分に資格はない』と。\n『焦がれるだけなら誰にでもできる』と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vậy thì chỉ có cách không ngừng chứng minh mà thôi. Một bản thân vượt trội hơn trước. Một bản thân không chỉ biết đứng nhìn khao khát. Hãy chứng minh giá trị của mình cùng với sự quyết tâm sắt đá.",
+      "jpname": "モノローグ",
+      "jptext": "ならばひたすら示すのみだ。これまで以上の自分を。\n焦がれるだけではない自分を。その価値を、覚悟と共に。",
+      "choice_data_list": [
+        "Không màng chuyện hợp đồng hay không, tôi chỉ muốn làm điều đó thôi!",
+        "Chẳng cần bận tâm chuyện hợp đồng, tôi chỉ muốn làm thế mà thôi!"
+      ],
+      "jpchoice_data_list": [
+        "契約とか関係なく、ただそうしたいんだ！",
+        "契約とか関係なく、ただそうしたいの！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi hiểu mối quan hệ giữa Huấn luyện viên và Uma Musume như thế này quả thực rất kỳ lạ. ...Dù vậy, tôi vẫn muốn chứng minh mình là một người có giá trị đối với \"Quân vương\".",
+      "jpname": "モノローグ",
+      "jptext": "担当とウマ娘の関係性として特殊なのは、理解している。\n……それでも自分は“王”にとって価値ある存在だと証明したい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cho tới khi làm được điều đó, tôi sẽ bám riết lấy cô ấy đến cùng. Giống hệt như cách bám đuổi quyết liệt kẻ mạnh trong một trận đua――",
+      "jpname": "モノローグ",
+      "jptext": "それを果たすまで、どこまでも食らいついてみせる。\nさながら、レースで強者を徹底的にマークするかのように――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Được thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……よかろう。",
+      "choice_data_list": [
+        "!!"
+      ],
+      "jpchoice_data_list": [
+        "！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bầy tôi của Orfe A",
+      "text": "N-Ngài bằng lòng thật sao ạ? Vị này khác với chúng thần, vốn là một Huấn luyện viên của học viện cơ mà...",
+      "jpname": "オルフェの臣下A",
+      "jptext": "よ、よろしいのですか？\nこの方は私どもと違って、学園のトレーナーですが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nếu không dung nạp nổi chút chuyện cỏn con này thì sao xứng danh là \"Quân vương\". ...Hãy tận lực mà thể hiện đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "この程度を受け入れずして何が“王”か。\n……精々、奮うがいい。",
+      "choice_data_list": [
+        "Được...!",
+        "Vâng...!"
+      ],
+      "jpchoice_data_list": [
+        "ああ……！",
+        "うん……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, tôi đã được phép chứng minh năng lực của mình trước Orfevre không phải với tư cách một Huấn luyện viên, mà đơn thuần chỉ là một con người――",
+      "jpname": "モノローグ",
+      "jptext": "こうして、オルフェーヴルにトレーナーとしてではなく\nただひとりの人間として力を示すことが許され――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bầy tôi của Orfe A",
+      "text": "Lịch trình ngày hôm nay đến đây là kết thúc toàn bộ. Mọi người đã vất vả rồi.",
+      "jpname": "オルフェの臣下A",
+      "jptext": "本日の予定はこれにてすべて終了です。\nお疲れ様でした。",
+      "choice_data_list": [
+        "Phần giãn cơ và đồ uống đã được chuẩn bị sẵn sàng rồi đây."
+      ],
+      "jpchoice_data_list": [
+        "ストレッチとドリンクの準備、できているよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừm. Ngươi vất vả rồi. ――Mọi người ngày mai cũng hãy cố gắng tiếp.",
+      "jpname": "オルフェーヴル",
+      "jptext": "うむ。ご苦労。\n――皆、明日も励め。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Được rồi. Đi sang cửa hàng tiếp theo nào.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――よし。次の店に行くぞ。",
+      "choice_data_list": [
+        "T-Tôi hiểu rồi! (Nặng quá...!)"
+      ],
+      "jpchoice_data_list": [
+        "わ、わかった！（重い……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Về cuộc đua vừa rồi. Hãy nói cho ta nghe suy nghĩ của ngươi xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――先のレース。\n貴様の考えを申してみよ。",
+      "choice_data_list": [
+        "Vị trí của số 6 rất ấn tượng. Chẳng hạn như――"
+      ],
+      "jpchoice_data_list": [
+        "6番の位置取りが印象的だった。例えば――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Những tháng ngày tôi kề cận bên cô ấy và dốc sức hỗ trợ mọi việc cứ thế trôi qua, từng chút một vững vàng tích lũy――",
+      "jpname": "モノローグ",
+      "jptext": "……彼女の傍でとにかく手助けする日々が、\n少しずつ、着実に積み重なっていき――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, thời gian thấm thoắt thoi đưa.",
+      "jpname": "モノローグ",
+      "jptext": "――――そうして、時が流れた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――Ừm. Món cơm chan trà ngon tuyệt cú mèo luôn nhỉ, Or.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "――――うん。\nとても美味しいお茶漬けだったね、オル。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Vâng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ああ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Huấn luyện viên. Thật lòng cảm ơn người vì đã cất công đi cùng nhé. Nhờ có người mà chuyến đi vui vẻ hơn hẳn đấy.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "トレーナーさん。わざわざ付き添っていただき、\nありがとうございます。おかげでとても楽しめましたよ。",
+      "choice_data_list": [
+        "Đâu có gì, là do tôi muốn làm vậy mà.",
+        "Không có gì đâu, vì tôi muốn làm thế mà thôi."
+      ],
+      "jpchoice_data_list": [
+        "そんな、俺がしたくてやってることだから",
+        "そんな、私がしたくてやってることだから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hôm nay tôi đã được tháp tùng cùng chị em Orfevre đi khám phá các quán cơm chan trà nức tiếng ở tận Niigata.",
+      "jpname": "モノローグ",
+      "jptext": "今日はオルフェーヴルたちのお茶漬け名店巡りに、\n新潟まで同行させてもらっていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dạo gần đây, dường như số lần tôi được phép đồng hành trong những chuyến đi xa như thế này đang tăng dần lên từng chút một...",
+      "jpname": "モノローグ",
+      "jptext": "最近ではこうした遠出にも同行させてもらう機会が\n少しずつ増えてきた気がする……。",
+      "choice_data_list": [
+        "Mọi thứ chuẩn bị cho chuyến về đã xong xuôi rồi, hai người cứ thong thả nhé.",
+        "Đồ đạc để về đã sẵn sàng hết rồi, hai người cứ nghỉ ngơi thong thả nhé."
+      ],
+      "jpchoice_data_list": [
+        "帰り支度はできてるから、ゆっくりしてくれ",
+        "帰り支度はできてるから、ゆっくりしてね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ồ. Người đã thu xếp chu toàn hết cả rồi sao. ...Thật là chu đáo quá đi.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "おや。すべて手配済みというわけですか。\n……気が利きますね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Ngay khi quay trở về học viện, hãy chứng minh giá trị của ngươi với tư cách một Huấn luyện viên cho ta xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――――学園に戻り次第、トレーナーとしての価値を示せ。",
+      "choice_data_list": [
+        "Hả――"
+      ],
+      "jpchoice_data_list": [
+        "えっ――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "\"Lễ tiết\" của bản thân ngươi đã được thể hiện đầy đủ rồi. Nếu còn muốn bước xa hơn, hãy mang đến một dáng dấp mới.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様自身の“礼”は十分に示された。\n先を望むのならば、新たな形を持て。",
+      "choice_data_list": [
+        "...! Tôi hiểu rồi!!"
+      ],
+      "jpchoice_data_list": [
+        "……！わかった！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhờ đã gắn bó suốt thời gian qua nên tôi hiểu rõ. Rằng Orfevre đã bắt đầu trao chút niềm tin cho tôi, và ban cho tôi một cơ hội quý báu.",
+      "jpname": "モノローグ",
+      "jptext": "今日まで時間を共にしたから、わかる。オルフェーヴルが自分に、\n少しだけ信を置き、機会を与えてくれたことが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, thời khắc ấy đã đến. Thời điểm để tôi thể hiện giá trị đích thực mà mình đã không ngừng trăn trở và dần nắm bắt được trong suốt chuỗi ngày kề vai sát cánh cùng cô ấy――",
+      "jpname": "モノローグ",
+      "jptext": "そして、時が来た。彼女に食らいつくうちに、\nずっと考え、いつしか掴んだ自分の真なる価値を示す時が――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Vậy thì, hãy phô diễn ra xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……では、見せてみよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi chìa ra một tập tài liệu ngay trước mặt Orfevre. Đó là bản đúc kết con đường tương lai mà một bậc \"Quân vương\" như cô ấy cần tiến bước.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの前に、ひとつの資料を突き出す。\nそれは、“王”たる彼女が進むべき未来をまとめたものだ。",
+      "choice_data_list": [
+        "Tôi sẽ trở thành \"sức mạnh\" của cô.",
+        "Tôi sẽ biến thành \"sức mạnh\" phò tá cô."
+      ],
+      "jpchoice_data_list": [
+        "俺は、君の“力”になる",
+        "私は、貴方の“力”になる"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không phải với tư cách bầy tôi. Cũng chẳng phải vì ngưỡng mộ mà phụng sự. Mà là với tư cách một Huấn luyện viên, để sánh vai kề cạnh bên \"Quân vương\"――",
+      "jpname": "モノローグ",
+      "jptext": "臣下としてではない。憧れ、仕えるのではない。\nトレーナーとして、“王”の隣に立つために――",
+      "choice_data_list": [
+        "Vì điều đó... Tôi sẽ đứng trên đỉnh cao của giới Huấn luyện viên!!"
+      ],
+      "jpchoice_data_list": [
+        "そのために……トレーナーの頂点に立つ！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ồ――",
+      "jpname": "オルフェーヴル",
+      "jptext": "ほう――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Giá trị và cách định vị bản thân với tư cách Huấn luyện viên cần chứng minh trước Orfevre, thực chất đã có manh mối từ chính ngày đầu tiên tôi gặp cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "……オルフェーヴルに示すべき自分のトレーナーとしての価値は、\n在り方は、初めて彼女と会った日にヒントがあった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lúc đó, cô ấy từng nói: \"Ngươi bước chân vào thế giới đường đua chỉ nhờ vào lòng ngưỡng mộ thôi sao?\".",
+      "jpname": "モノローグ",
+      "jptext": "あの時、彼女は言った。\n『憧れのみでレースの世界に来たのか』、と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bây giờ tôi có thể tự tin khẳng định. \"Không phải\". Bản thân tôi mang một giấc mơ cháy bỏng. Giấc mơ đưa \"Quân vương\" ngự trị trên ngai vàng tuyệt đối. Và để làm được điều đó――",
+      "jpname": "モノローグ",
+      "jptext": "今なら言える。『違う』。自分には夢がある。\n“王”を君臨させるという夢が。そして、そのためには――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính tôi cũng phải khắc sâu năng lực của mình vào giới đua ngựa. Để vượt qua các huyền thoại quá khứ, giúp \"Quân vương\" đoạt lấy Tam Miện... thậm chí là ánh quang huy rực rỡ vượt xa cả Tam Miện.",
+      "jpname": "モノローグ",
+      "jptext": "自分も、己の力をレース界に焼きつけるのだ。過去の伝説を超え、\n“王”が三冠を……三冠以上の光輝を手にするために。",
+      "choice_data_list": [
+        "――Và rồi sẽ cùng cô đứng cạnh nhau trên đỉnh vinh quang!",
+        "――Và rồi sẽ cùng cô sánh vai trên đỉnh vinh quang!"
+      ],
+      "jpchoice_data_list": [
+        "――――そして君と、頂点で並び立つ！",
+        "――――そして貴方と、頂点で並び立つ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――............Đưa tay phải ra.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――――…………右手を出せ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng theo mệnh lệnh, khoảnh khắc tôi vừa chìa tay phải về phía Orfevre――",
+      "jpname": "モノローグ",
+      "jptext": "命じられるままに、\n右手をオルフェーヴルの方に差し出した、瞬間――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Orfevre tung một cú đá sấm sét vào không trung. Áp lực gió khủng khiếp từ cú đá quất thẳng vào tay phải của tôi...!!",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルが空に蹴りを放つ。\nそれによる凄まじい風圧が、自分の右手に叩きつけられた……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hãy lĩnh nhận lấy. Ngọn gió được tạo ra từ kẻ lấy giấc mộng của ngươi làm dưỡng chất để ngự trị ngôi \"Vương\". Đó chính là sức mạnh của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……拝受せよ。貴様の夢を糧とし、\n“王”たらんとする者が起こす風。我が力である。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy khắc cốt ghi tâm đến muôn đời mà gắng sức đi. ――Để có thể sánh vai kề cận bên ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "永久に刻み、励むがいい。\n――――私に並び立てるようにな。",
+      "choice_data_list": [
+        "Được...!",
+        "Rõ rồi...!"
+      ],
+      "jpchoice_data_list": [
+        "ああ……！",
+        "うん……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dư âm rát bỏng vẫn còn hằn in nơi bàn tay phải. Cùng với cảm giác đó, tôi rảo bước nối gót theo sau \"Quân vương\".",
+      "jpname": "モノローグ",
+      "jptext": "右手に刻まれた、痛いほどの余韻。\nそれと共に、“王”の後を追う。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Tôi chẳng cần hỏi cô ấy sẽ đi về đâu. Bởi nơi cô ấy hướng đến cũng chính là đích đến của tôi... con đường của bậc bá vương.",
+      "jpname": "モノローグ",
+      "jptext": "――何処に行くかなど、聞かない。\n彼女の目指す先こそが、自分の目指す先であり……覇道だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

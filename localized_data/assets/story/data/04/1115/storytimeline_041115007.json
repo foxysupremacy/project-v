@@ -1,0 +1,456 @@
+{
+  "title": "Kẻ nắm quyền sở hữu",
+  "jptitle": "所有せし者",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Giữa đỉnh điểm mùa hè. Giữa lúc mọi Uma Musume đều đang trải qua kỳ tập huấn mùa hè đầy sôi động――",
+      "jpname": "モノローグ",
+      "jptext": "夏本番。\nどのウマ娘も充実した夏合宿を送るなか――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "Nè, người kia là Huấn luyện viên của Orfevre-san đúng không nhỉ?",
+      "jpname": "ウマ娘A",
+      "jptext": "ね、あの人がオルフェーヴルさんのトレーナーさんかな？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "A, nhìn về phía tụi mình kìa! Chúc người một ngày vất vả nha♪",
+      "jpname": "ウマ娘B",
+      "jptext": "あ、こっち見た！　お疲れさまでーす♪",
+      "choice_data_list": [
+        "A, a ha ha... C-Cảm ơn hai đứa..."
+      ],
+      "jpchoice_data_list": [
+        "あ、あはは……お、お疲れ様……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "A ha ha, người ta đang ngượng ngùng kìa!",
+      "jpname": "ウマ娘A",
+      "jptext": "あははっ、照れてるー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dạo gần đây, tôi có cảm giác số lần các Uma Musume khác bắt chuyện với mình ngày càng nhiều hơn.",
+      "jpname": "モノローグ",
+      "jptext": "ここのところ、\nいろんなウマ娘たちから声をかけられる事が増えた気がする。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như việc tôi bị những yêu cầu quái chiêu của Orfevre xoay như chong chóng đã bị bắt gặp không ít lần, nên dạo này tôi bị coi như một Huấn luyện viên tấu hài thực thụ.",
+      "jpname": "モノローグ",
+      "jptext": "どうもオルフェーヴルの無茶ぶりに振り回されているところを\n度々目撃されているらしく、最近はすっかり面白トレーナー扱いだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "…….",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bổn phận của ngươi là――",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様の役目は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đi lấy lòng lũ con dân tầm thường đó sao?",
+      "jpname": "オルフェーヴル",
+      "jptext": "民草に媚びを売ることであったか？",
+      "choice_data_list": [
+        "Hả, không phải đâu..."
+      ],
+      "jpchoice_data_list": [
+        "え、いや……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đồ phế vật.",
+      "jpname": "オルフェーヴル",
+      "jptext": "愚物めが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ta đi bơi đường trường đây. Hãy chuẩn bị sẵn trà ở bờ bên kia đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……遠泳に行く。\n向こうで茶の用意をしておけ。",
+      "choice_data_list": [
+        "B-Bờ bên kia... là hòn đảo đằng xa kia sao...?"
+      ],
+      "jpchoice_data_list": [
+        "む、向こうって……向こうの島のこと……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume C",
+      "text": "Huấn luyện viên đó hài hước ghê cơ. Nói chuyện chút thôi mà thấy có nét ngại ngùng dễ thương ghê.",
+      "jpname": "ウマ娘C",
+      "jptext": "あのトレーナーさん、面白いよね～。\nなんか話すとちょっとシャイな感じもするし。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Thật là xấc xược.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――不遜であろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume D",
+      "text": "O-Orfevre... san?",
+      "jpname": "ウマ娘D",
+      "jptext": "オ、オルフェーヴル……さん？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vạn vật trong cõi trời đất thảy đều là vật sở hữu của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "万象悉く余の所有物である。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Lũ con dân cỏ rác mà dám đem đồ vật của Đế vương ra làm trò vui... đúng là ngạo mạn quá trớn rồi đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "民草が王の物で愉しむなど……驕りが過ぎよう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume C",
+      "text": "Dạ... hả? V-Vật sở hữu là sao cơ ạ...?",
+      "jpname": "ウマ娘C",
+      "jptext": "いや……え？\nしょ、所有物って……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ta không nhắc lại lần thứ hai.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……二度は言わぬ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume D",
+      "text": "Dạ?",
+      "jpname": "ウマ娘D",
+      "jptext": "え？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cấm tiệt bén mảng chạm vào đồ vật của Quân vương...!",
+      "jpname": "オルフェーヴル",
+      "jptext": "王の物に触れる事罷りならぬ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume D",
+      "text": "Híiii...!",
+      "jpname": "ウマ娘D",
+      "jptext": "ひぃ～っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Lũ người xấc xược đến cùng cực.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……不遜極まりない輩どもよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Để kẻ đó sống hay chết... hay lấy ra làm trò tiêu khiển. Hãy nhớ cho kỹ―― kẻ duy nhất có quyền định đoạt chỉ có ta mà thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "あれを生かすも殺すも……戯れるも。\n決められるは――余のみであると知れ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Kỳ tập huấn mùa hè, ngày nghỉ trọn vẹn.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿、全休日。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhân ngày nghỉ ngơi hiếm hoi, các Uma Musume tham gia trại hè đều ra ngoài dạo chơi, tôi cứ ngỡ mình sẽ được thong thả làm đống giấy tờ, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "つかの間の休息日とあって、合宿に来ているウマ娘たちも\n外出しており、こちらはのんびり書類仕事と思ったのだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Này ngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――貴様。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Giờ ta sẽ đi ra ngoài. Hãy đi theo hầu cận.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これより外出する。\n同行せよ。",
+      "choice_data_list": [
+        "Ra ngoài sao... địa điểm là ở đâu vậy?"
+      ],
+      "jpchoice_data_list": [
+        "外出って……場所は？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hỏi thừa.",
+      "jpname": "オルフェーヴル",
+      "jptext": "愚問であろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đương nhiên là nơi để ta vui chơi giải trí rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余が愉しむ場所である。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Hãy cống nạp toàn bộ phần thưởng trên kệ kia cho ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――棚に並ぶすべての景品を余に捧げよ。",
+      "choice_data_list": [
+        "Tất cả luôn á!?"
+      ],
+      "jpchoice_data_list": [
+        "全部！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nếu không làm được, từ ngày mai trong các buổi tập ta sẽ bắt ngươi chạy cùng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "できなければ、\n明日からのトレーニングは貴様も走らせる。",
+      "choice_data_list": [
+        "Bá đạo quá đáng rồi...",
+        "Quá quắt thật đấy..."
+      ],
+      "jpchoice_data_list": [
+        "無茶苦茶だ……",
+        "無茶苦茶だよ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sao thế? Chẳng phải ngươi vừa bị chúng xoay như chong chóng đó sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "どうした？\n弄ばれておったではないか。",
+      "choice_data_list": [
+        "Khó quá chừng...!"
+      ],
+      "jpchoice_data_list": [
+        "難しい……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ふむ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Tề tựu mau.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――集え。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Chủ quầy vớt cá vàng",
+      "text": "Oái!? C-Cái quái gì thế này...!?",
+      "jpname": "金魚すくい屋の店主",
+      "jptext": "うわっ！？\nな、なんだ～！？",
+      "choice_data_list": [
+        "Lũ cá vàng tự mình nhảy vào luôn á...!?"
+      ],
+      "jpchoice_data_list": [
+        "金魚のほうから飛び込んだ～！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vạn vật chúng sinh thảy đều là hạ thần dưới trướng của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "万象等しく、我が下僕である。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngươi cũng nên lấy sự thuần phục này làm tấm gương noi theo.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様もこの従順さを範とするがいい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chỉ dùng khí áp uy nghiêm mà thuần phục được cả đàn cá vàng... Cứ như thể cô ấy muốn khẳng định mình ngự trị trên đỉnh của muôn loài vậy.",
+      "jpname": "モノローグ",
+      "jptext": "プレッシャーだけで金魚さえ従えるとは……。\n全生物の上に立つとでも言わんばかりだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chúng tôi tha hồ dạo quanh các quầy hàng rong chơi thỏa thích, và rồi cũng đến giờ bắn pháo hoa.",
+      "jpname": "モノローグ",
+      "jptext": "その後も散々やりたい放題屋台を回って、\nやがて打ち上げ花火の時間になった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Có thể nói đây là một địa điểm không tồi. Ta có lời ngợi khen ngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "悪くない場所といえよう。\n褒めて遣わす。",
+      "choice_data_list": [
+        "Tôi nghe tiền bối mách chỗ này là vị trí đắc địa nhất đấy."
+      ],
+      "jpchoice_data_list": [
+        "ここは特等席だって先輩から聞いててね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thành quả của việc thu thập tình báo sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "情報収集の賜物、か。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế nhưng―― rốt cuộc đó cũng chỉ là ánh sáng vay mượn.",
+      "jpname": "オルフェーヴル",
+      "jptext": "だが――所詮は借り物の光。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Năm tới―― đích thân ngươi hãy đứng ra tổ chức đi. Một màn pháo hoa đủ sức làm ta mãn nhãn.",
+      "jpname": "オルフェーヴル",
+      "jptext": "来年は――貴様が企画せよ。\n私を楽しませる花火を。",
+      "choice_data_list": [
+        "Quyền hạn của Huấn luyện viên có làm nổi chuyện đó không nhỉ...?"
+      ],
+      "jpchoice_data_list": [
+        "トレーナーの権限でできることかな……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kẻ ngu muội. Dưới bóng chiến tích hiển hách của ta thì chẳng có điều gì là bất khả thi cả.",
+      "jpname": "オルフェーヴル",
+      "jptext": "愚か者。\n余の功績を以てすれば不可能などないわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế nhưng―― nếu không làm ta hài lòng, hãy nhớ rằng ta sẽ bắn tung cả ngươi lên trời cùng với pháo hoa đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "だが――余を満足させられなければ、\n花火諸共貴様も打ち上げると心得よ。",
+      "choice_data_list": [
+        "Nghe đáng sợ quá nên thôi đi mà!?"
+      ],
+      "jpchoice_data_list": [
+        "怖いからやめよう！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ. Vậy thì liệu mà dốc sức hết mình đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "フ。\nならばせいぜい、励むがよい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy phụng sự \"Ta\", cống hiến hết mình vì \"Ta\". Và hơn hết――",
+      "jpname": "オルフェーヴル",
+      "jptext": "『余』に傅き、『余』のために働け。\nそして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy sống chỉ để mua vui cho một mình \"Ta\".",
+      "jpname": "オルフェーヴル",
+      "jptext": "『私』だけを楽しませるために生きよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi cảm thấy mình vừa phải gánh vác một mệnh lệnh quá đỗi gian truân... nhưng bản thân đã chuẩn bị sẵn sàng tâm lý rồi. Để thực hiện lời hứa với Orfevre, từ nay về sau mình cũng phải cố gắng hết sức mới được...",
+      "jpname": "モノローグ",
+      "jptext": "大変な命令を授かってしまった気がするが……覚悟はできている。\nオルフェーヴルとの約束を果たすため、これからも頑張ろう……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
