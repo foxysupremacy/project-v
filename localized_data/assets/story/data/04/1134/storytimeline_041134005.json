@@ -1,0 +1,324 @@
+{
+  "title": "Lặng Nhìn Nhành Oải Hương",
+  "jptitle": "ラベンダーをそっと見つめて",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một buổi sáng sớm nọ, trên đường đến văn phòng Trainer, tôi bắt gặp Curren Bouquetd'or đang cầm một gói nhỏ và lẩm bẩm điều gì đó.",
+      "jpname": "モノローグ",
+      "jptext": "ある日の早朝、トレーナー室に向かっていると、\n小包を持ってなにやら呟いているカレンブーケドールに出会った。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ừm—— nước đã thoát hết hoàn toàn rồi. Giờ thì chỉ còn……——",
+      "jpname": "カレンブーケドール",
+      "jptext": "うん――水分もしっかり抜けてる。\nあとは……――",
+      "choice_data_list": [
+        "Chào buổi sáng, Bouquet. Em đang làm gì thế?",
+        "Chào buổi sáng, Bouquet. Em đang làm gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "おはよう、ブーケ。何してるんだ？",
+        "おはよう、ブーケ。何してるの？"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "A—— em chào Trainer-san buổi sáng ạ. Em đang tính làm túi thơm potpourri—— từ hoa khô đấy ạ.",
+      "jpname": "カレンブーケドール",
+      "jptext": "あ――おはようございます。\nドライフラワーで――ポプリを、作ろうと思いまして。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Nó giống như một loại sáp thơm làm từ hoa vậy ạ—— mùi thơm dễ chịu lắm. Bây giờ chỉ cần nhỏ thêm vài giọt tinh dầu rồi cho vào lọ là hoàn thành rồi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "花で作る、芳香剤のようなもので――とてもいい香りなんです。\nあとは、オイルを垂らして、瓶に詰めれば、完成です。",
+      "choice_data_list": [
+        "Hương hoa sao. Vừa thư thái tâm hồn mà tôi cũng rất thích nữa.",
+        "Hương hoa sao. Vừa thư thái tâm hồn mà tôi cũng rất thích nữa đấy."
+      ],
+      "jpchoice_data_list": [
+        "花の香りか。癒やされるし、好きなんだよな",
+        "花の香りか。癒やされるし、好きなんだよね"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ơ kìa…… Vậy Trainer-san đã ghé qua vườn hoa của học viện chưa ạ? Mùa này đang có rất nhiều loài hoa nở rộ—— thơm ngát lắm đó ạ.",
+      "jpname": "カレンブーケドール",
+      "jptext": "あら……では、学園の畑には、もう行かれましたか？\n今の時期は、見ごろの花も多くて――とても、いい香りですよ。",
+      "choice_data_list": [
+        "Thế à! Nghe tò mò ghê nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "そうなんだ！気になるなぁ"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "……Nếu không phiền—— Trainer-san có muốn cùng em tới đó bây giờ không ạ? Tiện thể em cũng—— đang định tới đó chăm sóc hoa đây.",
+      "jpname": "カレンブーケドール",
+      "jptext": "……もし、よければ――今から、いらっしゃいませんか？\n私も――お花の世話に、行くところだったので。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Chậu cây bên này là hoa nhài ạ. Đang đúng vào dịp hoa nở rộ—— mang hương thơm ngọt ngào rất đặc trưng.",
+      "jpname": "カレンブーケドール",
+      "jptext": "こちらのプランターは、ジャスミン。\nちょうど、今が見ごろの――甘い香りが、特徴の花です。",
+      "choice_data_list": [
+        "Đúng thật, thơm ngát quá……"
+      ],
+      "jpchoice_data_list": [
+        "本当だ、いい匂いがする……"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu—— một mùi hương khiến lòng người dịu lại, đúng không ạ. Nó rất được ưa chuộng để làm tinh dầu hay nước hoa đấy ạ.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ふふっ――落ち着く香り、ですよね。\nアロマや香水としても、人気なんです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Hoa tulip có sắc màu rực rỡ và rất bắt mắt—— nên thường được dùng nhiều trong cắm hoa nghệ thuật.",
+      "jpname": "カレンブーケドール",
+      "jptext": "チューリップは、鮮やかで目を引くので――\nアレンジメントにも、よく使われます。",
+      "choice_data_list": [
+        "Bông nào cũng đẹp quá…… Cảm giác ngắm mãi không chán luôn.",
+        "Bông nào cũng đẹp quá…… Cảm giác ngắm mãi không chán luôn nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "どれも綺麗だな……ずっと見ていられそうだ",
+        "どれも綺麗だね……ずっと見ていられそう"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu—— em cảm ơn Trainer-san ạ. Bản thân em mỗi khi ngắm nhìn những đóa hoa này, lòng cũng cảm thấy ấm áp vô cùng.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ふふっ――ありがとうございます。\n私も、お花たちを見ていると、胸が温かくなります。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Em nghĩ hoa cỏ—— luôn ẩn chứa sức mạnh xoa dịu tâm hồn con người. Dù là khi đang bung nở—— hay khi được kết thành bó, thành túi thơm.",
+      "jpname": "カレンブーケドール",
+      "jptext": "花には――心を癒やす力があると思うんです。\n咲いている姿にも――花束や、ポプリにも。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thông qua những điều bình dị ấy—— nếu tâm trạng của mọi người có thể trở nên vui tươi hơn dù chỉ một chút—— thì em cũng mãn nguyện lắm rồi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "そういったものを通して――\nみなさんの心が、少しでも明るくなったなら――うれしいです。",
+      "choice_data_list": [
+        "（Tâm hồn của mọi người sao…… Đúng là tính cách của Bouquet thật）",
+        "（Tâm hồn của mọi người sao…… Đúng là tính cách của Bouquet thật）"
+      ],
+      "jpchoice_data_list": [
+        "（みなさんの心、か……ブーケらしいな）",
+        "（みなさんの心、か……ブーケらしい）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Những đóa hoa nơi đây hẳn chứa đựng biết bao tình cảm dịu dàng biết nghĩ cho người khác của em. Bất giác đưa mắt nhìn quanh thêm một lần nữa——",
+      "jpname": "モノローグ",
+      "jptext": "……ここにある花には、彼女の人を想う優しさが、\nたくさん詰まっているのだろう。改めて、あたりを見渡すと――",
+      "choice_data_list": [
+        "A…… Đây là mầm non mới nhú phải không em?"
+      ],
+      "jpchoice_data_list": [
+        "あ……これって、新芽かな？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bên trong chiếc chậu cây ngập tràn ánh nắng ấm áp—— có vài mầm cây nhỏ xíu đang khẽ nhú lên khỏi lớp đất.",
+      "jpname": "モノローグ",
+      "jptext": "陽がよくあたる、プランターの中で――\nいくつかの小さな芽が、土から顔を覗かせていた。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Đó là—— hoa thược dược đấy ạ. Củ hoa em gieo trước đây—— mới nhú mầm cách đây vài hôm thôi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "それは――ダリアですね。\n前に球根を植えたものが――先日、芽を出したんです。",
+      "choice_data_list": [
+        "Ra là vậy, mong rằng chúng sẽ nở thật đẹp nhé.",
+        "Ra là vậy, mong rằng chúng sẽ nở thật đẹp nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "そうなんだ、綺麗に咲くといいな",
+        "そうなんだ、綺麗に咲くといいね"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Em cảm ơn nhiều ạ. Vì là món quà sinh nhật dành tặng mẹ—— nên em háo hức mong chờ lắm.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ありがとう、ございます。\n母への、誕生日プレゼントなので――とても、楽しみです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Phải tới mùa thu hoa mới nở nên vẫn còn cần nhiều thời gian, nhưng mà—— em tin chắc chúng sẽ tạo nên một bó hoa vô cùng diễm lệ.",
+      "jpname": "カレンブーケドール",
+      "jptext": "咲くのは秋なので、まだ時間はかかりますが――\nきっと、美しい花束に、なると思います。",
+      "choice_data_list": [
+        "Mùa thu sao…… Dẫu biết là quy luật tự nhiên nhưng còn xa thật đấy.",
+        "Mùa thu sao…… Dẫu biết là quy luật tự nhiên nhưng còn khá xa nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "秋か……当たり前だけど、かなり先だな",
+        "秋か……当たり前だけど、かなり先だね"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Dạ vâng—— thế nhưng được dõi theo từng bước lớn lên mỗi ngày của chúng cũng là một niềm vui ạ. Từ việc tưới nước cho tới nhổ cỏ dại.",
+      "jpname": "カレンブーケドール",
+      "jptext": "はい――ですが、日々の成長を見守るのは、楽しいです。\nお水をあげたり、雑草を抜いたりして。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Hơn nữa—— chờ đợi cũng chính là một sự chuẩn bị cho niềm hân hoan mà.",
+      "jpname": "カレンブーケドール",
+      "jptext": "それに――待つことは、喜びへの準備ですから。",
+      "choice_data_list": [
+        "——!"
+      ],
+      "jpchoice_data_list": [
+        "――！"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Nảy mầm, kết nụ, rồi đơm hoa. Trồng hoa—— chính là một chuỗi ngày dài của sự chờ đợi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "芽が出て、蕾がつき、花が咲く。\n花を育てることは――待つことの、連続です。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thế nhưng—— chính vì dày công chăm sóc và đợi chờ—— em nghĩ niềm hạnh phúc khi hoa bung nở sẽ càng thêm phần to lớn.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ですが――お世話をして、待ったからこそ――\n花開いた時の喜びも、大きくなると思います。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thêm vào đó—— việc tưởng tượng ra nụ cười rạng rỡ của người nhận hoa. Cũng chính là…… một niềm vui trong suốt quãng thời gian chờ đợi ấy.",
+      "jpname": "カレンブーケドール",
+      "jptext": "それに――花を受け取ってくれた人の、\n笑顔を想像するのも。……待つ時間の、楽しみなんです。"
+    },
+    {
+      "name": "",
+      "text": "Qua quá trình chăm sóc hoa, em hẳn đã quá quen với việc đợi chờ. Dẫu vậy, việc duy trì chăm sóc ròng rã suốt thời gian dài liệu có quá vất vả đối với em không.",
+      "jpname": "モノローグ",
+      "jptext": "花を育てる過程で、彼女は待つことに慣れているのだろう。\nとはいえ、長く世話をし続けるのは、大変ではないだろうか。",
+      "choice_data_list": [
+        "Nếu được…… tôi phụ giúp em chăm hoa nhé?"
+      ],
+      "jpchoice_data_list": [
+        "よければ……花の世話、手伝おうか？"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Dạ……?",
+      "jpname": "カレンブーケドール",
+      "jptext": "え……？",
+      "choice_data_list": [
+        "Dù là người nghiệp dư nhưng tôi nghĩ xem có việc gì mình phụ giúp được không."
+      ],
+      "jpchoice_data_list": [
+        "素人だけど、何かできることはないかなって"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——Em cảm ơn Trainer-san nhiều ạ. Được quan tâm như vậy—— em vui lắm.",
+      "jpname": "カレンブーケドール",
+      "jptext": "――ありがとうございます。\nお気遣いいただいて――うれしいです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thế nhưng—— không sao đâu ạ. Em vốn rất thích chăm hoa, Trainer-san có lòng nghĩ đến là em mừng rồi—— A.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ですが――大丈夫ですよ。\nお花の世話は好きですし、お気持ちだけで――あ。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ừm, nếu được—— Trainer-san có thể lại ghé qua đây chơi nữa không ạ? Vì những đóa hoa này nếu có người ngắm nhìn…… em tin là chúng sẽ vui hơn nhiều đấy.",
+      "jpname": "カレンブーケドール",
+      "jptext": "その、よければ――またここに、いらして下さいませんか？\nお花たちも、見てくれる人がいた方が……喜ぶと思いますから。",
+      "choice_data_list": [
+        "Vậy sao…… Tôi hiểu rồi! Tôi sẽ lại tới nhé."
+      ],
+      "jpchoice_data_list": [
+        "そっか……わかった！また来るよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Nếu cứ cố nài nỉ thì khéo lại thành ra cản trở em mất. Sau đó, tôi nán lại ngắm hoa thêm một lát rồi quay trở về với công việc.",
+      "jpname": "モノローグ",
+      "jptext": "……あまりしつこく頼んでも、彼女の邪魔になってしまうだろう。\nその後、しばらく花を見てから、仕事へ戻った。"
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau…… bất chợt nảy sinh mong muốn được ngắm hoa, tôi lại rảo bước hướng về phía vườn hoa lần nữa. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "数日後……ふと花を見てみたくなり、\nもう一度、畑へと足を運んだ。すると――"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Đất thì—— ừm, vẫn chưa bị khô. Chắc chưa cần phải tưới thêm nước đâu——",
+      "jpname": "カレンブーケドール",
+      "jptext": "土は――うん、乾いてない。\n水やりは、大丈夫そう――",
+      "choice_data_list": [
+        "（A…… là Bouquet kìa）"
+      ],
+      "jpchoice_data_list": [
+        "（あ……ブーケだ）"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Chào bạn thược dược nha…… Bạn đã vươn mầm thật khỏe khoắn rồi—— mình vui lắm đó.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ダリアさん……こんにちは。\nちゃんと、芽を伸ばしてくれて――うれしいわ。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Cầu mong cho những đóa hoa thật đẹp sẽ nở rộ. Từ giờ chúng mình cùng nhau cố gắng nhé.",
+      "jpname": "カレンブーケドール",
+      "jptext": "綺麗な花が、咲きますように。\nこれから、一緒に、頑張っていきましょうね。",
+      "choice_data_list": [
+        "（……Quả nhiên là……）"
+      ],
+      "jpchoice_data_list": [
+        "（……やっぱり……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Em đang kiên nhẫn đợi chờ những đóa hoa. Vun đắp từng chút một bằng tấm lòng dịu dàng chan chứa hơn bất kỳ ai.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、花を待っている。\n人一倍の優しい想いを抱きながら、ひたむきに。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì lẽ đó—— tôi cảm thấy một kẻ nghiệp dư như mình không nên tùy tiện can thiệp vào công việc chăm hoa của em.",
+      "jpname": "モノローグ",
+      "jptext": "だからこそ――花を育てる彼女に、\n素人の自分が、むやみに介入してはいけない気がした。",
+      "choice_data_list": [
+        "（Hãy lặng lẽ dõi theo em thôi）"
+      ],
+      "jpchoice_data_list": [
+        "（静かに、見守ってあげよう）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù không trực tiếp giúp đỡ bằng tay chân, chắc chắn vẫn sẽ có điều gì đó mà mình làm được. Nghĩ như vậy, tôi đứng từ đằng xa lặng nhìn bóng hình em đang đắm đuối bên những luống hoa.",
+      "jpname": "モノローグ",
+      "jptext": "直接手伝いはせずとも、できることがあるはずだ。\nそう思いながら、花を見つめる彼女の姿を、遠くから眺めていた。"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "title": "Tựa Như Hoa Trà Phảng Phất Hương Thơm",
+  "jptitle": "ほのかに香る椿のような",
+  "text_block_list": [
+    {
+      "name": "Trainer tiền bối",
+      "text": "Dạo này cậu có rảnh tay chút nào không? Liệu cậu có thể giúp tôi chăm sóc cho một Uma Musume trong đội của tôi cho tới giải \"Fukushima Kinen\" được không?",
+      "jpname": "先輩トレーナー",
+      "jptext": "お前、しばらく手は空いてるか？　うちのチームのウマ娘をひとり、\n『福島記念』まで、面倒を見てやってもらえないだろうか。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Vào ngày hôm đó tôi phải tập trung chỉ đạo các Uma Musume dự giải ở Tokyo, nên việc đi cùng em ấy tới Fukushima là rất khó khăn.",
+      "jpname": "先輩トレーナー",
+      "jptext": "俺は、同日東京開催のレースに出走予定のウマ娘たちを、集中的に\n指導しなけりゃならなくて。遠征への付き添いも難しいんだ。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "\"Fukushima Kinen\" là giải đấu hạng nặng cự ly 2000m. Con bé đã liên tiếp thất bại ở cự ly 2000m rồi, nên tôi muốn sớm tìm cách tháo gỡ cho nó——",
+      "jpname": "先輩トレーナー",
+      "jptext": "『福島記念』は、距離2000mの重賞。\n彼女、2000で連敗してるから、早めに手を打ってやりたくて――",
+      "choice_data_list": [
+        "Được chứ ạ, tiền bối cứ giao lại cho tôi."
+      ],
+      "jpchoice_data_list": [
+        "いいですよ、任せてください"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Cảm ơn cậu nhé! Thật ngại quá, trong khi bản thân cậu cũng đang phải chuẩn bị cho đợt tuyển mộ học viên.",
+      "jpname": "先輩トレーナー",
+      "jptext": "ありがとう！　悪いな、お前もスカウトの準備があるのに。",
+      "choice_data_list": [
+        "Đặt các Uma Musume lên hàng đầu là lẽ đương nhiên mà!"
+      ],
+      "jpchoice_data_list": [
+        "ウマ娘を優先するのは当然ですよ！"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Haha, chính vì tính cách đó của cậu đấy. Nên giao cho cậu tôi mới yên tâm tuyệt đối. Trăm sự nhờ cậu nhé!",
+      "jpname": "先輩トレーナー",
+      "jptext": "はは、そういうところ。だからお前になら、安心して任せられる。\nよろしく頼むな！"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Đảm nhận chỉ đạo thay thế sao—— Giữa các Trainer với nhau cũng có những trường hợp như vậy nhỉ)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（代理で、指導を――\nトレーナーさん同士で、そういうケースもあるのね）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đại hội Tranh tài theo Nội dung sắp tới…… các cậu đã chọn được nội dung thi đấu chưa? Mình…… đang phân vân giữa 1600m và 1800m……",
+      "jpname": "クロノジェネシス",
+      "jptext": "今度の種目別競技大会……出走種目は、決めましたか？\n私は……1600か、1800かで、迷っておりまして……。"
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Tất nhiên mình sẽ chạy cự ly dặm rồi! Đây là cơ hội lớn nửa năm có một lần để được so tài cùng các tiền bối đã debut mà! Mình muốn được đối đầu với tiền bối Taiki ghê cơ!",
+      "jpname": "グランアレグリア",
+      "jptext": "あたしは当然、マイルだよ！　デビューした先輩たちとも走れる\n半年に一度の大チャンス！　あたし、タイキ先輩と戦いたいなー！"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Đại hội Tranh tài theo Nội dung…… phải làm sao đây. Nếu cứ ôm nỗi phân vân có nên từ bỏ hay không mà bước vào đường đua thì——)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（種目別競技大会……どうしよう。\nレースをやめるべきか、迷ったまま、走るのも――）"
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Hộc, hộc…… Thời gian chạy chặng cuối tệ quá đi mất…… Muốn chạy được 2000m thì em phải tăng thêm bài tập rèn sức bền thôi.",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "はぁ、はぁ……終盤のラップタイム、全然ダメですね……。\n2000mを走るには、持久力をつけるトレーニングを増やさないと。",
+      "choice_data_list": [
+        "Tôi thấy không có vấn đề gì lớn đâu, nhưng ta cứ tăng thêm một chút nhé."
+      ],
+      "jpchoice_data_list": [
+        "問題なさそうだけど、少し増やしておこうか"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Vâng, nhờ Trainer giúp em với nhé! Trainer của em cũng bảo là không sao…… nhưng em cứ bứt rứt không yên trong lòng.",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "はい、ぜひお願いします！　私のトレーナーさんも、\n問題ないって言ってたんですけど……どうしても気になっちゃって。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Bạn ấy—— đã thở phào nhẹ nhõm rồi. Dù ban nãy trông vẫn còn rất bất an. Là nhờ sự ân cần của Trainer-san sao——?)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（彼女――ほっとしてる。さっきまで、不安そうだったのに。\nトレーナーさんの、対応のおかげ――？）"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Bouquet-chan! Cậu sao thế? Vừa tập vừa nhìn đi đâu là dễ bị chấn thương lắm đấy nha.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ブーケちゃん！　どうしたの？\nよそ見しながらやると、ケガしちゃうわよ。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "A……—— Mình xin lỗi. Đúng vậy thật…… Mình—— xin phép nghỉ ngơi một chút nhé.",
+      "jpname": "カレンブーケドール",
+      "jptext": "あ……――すみません。\nそうですね……私――少し、休憩してきますね。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "…………Phù. Lại làm phiền mọi người mất rồi. Phải tập trung nghiêm túc mới được——",
+      "jpname": "カレンブーケドール",
+      "jptext": "…………ふぅ。みんなに、迷惑かけちゃった。\nちゃんと、集中しなきゃ――"
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Em đã hoàn thành 6 lượt chạy biến tốc ngắt quãng rồi ạ! Ừm…… giờ nói ra thì hơi muộn, nhưng liệu có kịp cho cuộc đua chính thức không Trainer?",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "インターバル走6本、終わりました！\nあの……いまさらですけど、本番に間に合うでしょうか。",
+      "choice_data_list": [
+        "Không sao đâu mà. Nhưng em cảm thấy lo lắng ở điểm nào thế?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫だよ。でも、どういう点が不安？"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Bởi vì…… sức bền đâu phải thứ rèn luyện một sớm một chiều là có được. Giờ mới bắt đầu làm thì……",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "だって……持久力は、一朝一夕でつくものじゃないし。\n今から取り組んでも……。",
+      "choice_data_list": [
+        "Vậy thì ta hãy chạy kèm cùng nhau để rà soát lại cách phân phối nhịp độ nhé."
+      ],
+      "jpchoice_data_list": [
+        "なら、併走でペース配分も見直そうか"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "! Vâng ạ……! Nếu vẫn còn điều gì có thể cải thiện! Thì xin Trainer cứ chỉ bảo cho em hết nhé!",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "！　はい……！　まだ、対策できることがあるなら！\n全部、全部お願いしますっ！"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Oa, tinh thần bạn ấy khác hẳn lúc nãy—— nếu được ai đó thấu hiểu và sẻ chia nỗi bất an như vậy. Thì hẳn ai cũng sẽ—— lạc quan trở lại thôi nhỉ. Fufufu)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（わ、見違えたわ――あんなふうに、不安に寄り添ってもらえたら。\n前向きにも――なれるよね。ふふふ）"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "———— ……Mình cũng—— phải quay lại tập luyện thôi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "――――\n……私も。――トレーニングに、戻ろう。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "————Phù.",
+      "jpname": "カレンブーケドール",
+      "jptext": "――――ふぅ。",
+      "choice_data_list": [
+        "Làm phiền em một chút được không? Tôi có chuyện muốn nhờ em giúp đây.",
+        "Làm phiền em một chút được không? Tôi có chuyện muốn nhờ em giúp đây."
+      ],
+      "jpchoice_data_list": [
+        "少しいいかな。君に頼みがあるんだけど",
+        "少しいいかな。貴方に頼みがあるんだけど"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Ơ dạ?! Em—— sao ạ?",
+      "jpname": "カレンブーケドール",
+      "jptext": "えっ！？　私――ですか？",
+      "choice_data_list": [
+        "Ừ. Liệu em có thể làm bạn chạy kèm cùng em ấy được không?",
+        "Ừm. Liệu em có thể làm bạn chạy kèm cùng em ấy được không?"
+      ],
+      "jpchoice_data_list": [
+        "ああ。併走の相手をお願いできないかな",
+        "うん。併走の相手をお願いできないかな"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Làm bạn chạy kèm, em nhất định sẽ cố gắng hết sức mình ạ. Và—— em nên chạy theo cách nào thì hợp lý ạ?",
+      "jpname": "カレンブーケドール",
+      "jptext": "併走のお相手、せいいっぱい、務めさせていただきます。\nそれで――私は、どう走ったら、よろしいでしょうか。",
+      "choice_data_list": [
+        "Em cứ chạy như bình thường là được rồi.",
+        "Em cứ chạy như bình thường là được nhé."
+      ],
+      "jpchoice_data_list": [
+        "君は、いつも通りに走ってもらえるかな",
+        "貴方は、いつも通りに走ってもらえるかな"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Trainer bảo là để xem xét lại cách phân phối nhịp độ nhỉ. Chị Bouquet có sở trường ở những cự ly dài hơn đúng không ạ?",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "ペース配分の見直しのためって言ってましたよね。\nブーケさんは、ある程度距離があるほうが得意なんですか？",
+      "choice_data_list": [
+        "Ừ. Tôi nghĩ bước chạy của Bouquet sẽ giúp ích rất nhiều cho việc phân bổ nhịp độ đấy."
+      ],
+      "jpchoice_data_list": [
+        "うん。ペース配分の参考になると思うよ"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(——Bạn ấy chọn phương án bám đuổi từ phía sau nhỉ. Nhờ thế mà—— mình cảm thấy rất dễ chạy)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（――彼女は、後方待機なのね。\nおかげで――とても、走りやすい）"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——Sắp tới góc cua thứ 4 rồi. Bứt tốc ngay tại đây nào!",
+      "jpname": "カレンブーケドール",
+      "jptext": "――もうすぐ、第4コーナー。ここで、スパート！"
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "! Ra là vậy, chính là lúc này đây! Haaaaaa a a a a!!",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "！　なるほど、ここね！　はあああああああっ！！"
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Tuyệt quá, em đã đuổi kịp tới tận những mét cuối cùng rồi! Nhưng thời gian đâu có cải thiện mấy phải không Trainer?",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "やった、最後までしっかり追い上げられた！\nでもタイムはそんなに変わってないですよね？",
+      "choice_data_list": [
+        "Đúng vậy, vấn đề mấu chốt trước giờ chủ yếu nằm ở cách phân phối nhịp độ mà thôi."
+      ],
+      "jpchoice_data_list": [
+        "うん、ペース配分の問題が大きかったんだよ"
+      ]
+    },
+    {
+      "name": "Uma Musume tóc ngắn hạt dẻ",
+      "text": "Hóa ra là như vậy. Biết được nguyên nhân mình bị chững lại, lòng em thấy nhẹ nhõm hẳn luôn! Chị Bouquet ơi, lần sau em lại nhờ chị chạy kèm nữa được không ạ?!",
+      "jpname": "おかっぱ栗毛のウマ娘",
+      "jptext": "そうだったんだ。伸び悩みの原因がわかって、スッキリしました！\nブーケさん、併走、またお願いしてもいいかな！？"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Vâng, chị rất sẵn lòng. Chị cũng—— rất mong được chạy cùng em lần nữa đấy.",
+      "jpname": "カレンブーケドール",
+      "jptext": "はい、よろこんで。\n私も――ぜひまた、一緒に走らせていただきたいです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(Khung cảnh lướt qua. Làn gió mơn man trên gò má—— thật dễ chịu biết bao)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（流れる景色。頬を撫でる風――とても、心地よかった）"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "A—— Trainer-san. Hôm nay Trainer-san đã vất vả rồi ạ.",
+      "jpname": "カレンブーケドール",
+      "jptext": "あ――トレーナーさん。お疲れさまでした。",
+      "choice_data_list": [
+        "Em đã vất vả rồi. Hôm nay chạy kèm giúp, cảm ơn em nhiều nhé."
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様。今日は併走、ありがとう"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Em mới là người phải cảm ơn ạ. Cảm ơn Trainer-san đã mời em tham gia. Đã lâu lắm rồi—— em mới lại cảm nhận được niềm vui khi chạy như thế này.",
+      "jpname": "カレンブーケドール",
+      "jptext": "こちらこそ。お誘いいただき、ありがとうございました。\n久しぶりに――走る楽しさを、感じられました。",
+      "choice_data_list": [
+        "Haha, quả nhiên với các Uma Musume thì được chạy vẫn là tuyệt vời nhất nhỉ.",
+        "Fufu, quả nhiên với các Uma Musume thì được chạy vẫn là tuyệt vời nhất nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "はは、やっぱりウマ娘は走るに限るんだな",
+        "ふふ、やっぱりウマ娘は走るに限るんだね"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Fufu, đúng vậy đấy ạ. ——Bước chạy của em có thể góp chút sức lực—— Có thể tạo nên sự \"hài hòa\"…… em cảm thấy hạnh phúc lắm.",
+      "jpname": "カレンブーケドール",
+      "jptext": "ふふ、そうですね。――私の走りで、力になれて――\n“調和”を生むことができて……うれしかったです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Em……—— Vì bị mê hoặc bởi vẻ đẹp của sự \"hài hòa\", nên mới bước chân vào những cuộc đua.",
+      "jpname": "カレンブーケドール",
+      "jptext": "私は……――\n“調和”の美しさに惹かれて、レースを始めたんです。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Thế nhưng, em lại chẳng hề giỏi việc tranh giành hay đối đầu. Ngay cả trong cuộc đua, em cũng không thể vượt lên phía trước—— chỉ toàn làm xáo trộn sự hài hòa ấy thôi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "だけど、争うということが、得意ではなくて。\nレースでも、前に出ることができず――調和を乱してばかり。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Dù hiểu rõ nhưng em vẫn chẳng thể thay đổi—— chính em là người đã phá hỏng. Sự hài hòa của mọi người. ——Và cả ánh hào quang của họ nữa.",
+      "jpname": "カレンブーケドール",
+      "jptext": "わかっていても、変えられなくて――私が、壊してしまう。\nみなさんの、調和を。――輝きを。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——Em nghĩ có lẽ mình nên từ bỏ đua xe thôi. Thế nhưng——…… nhưng mà——",
+      "jpname": "カレンブーケドール",
+      "jptext": "――きっと、レースをやめるべきなんだと思います。\nでも――……でも――",
+      "choice_data_list": [
+        "Cho tới khi tìm được câu trả lời vừa lòng, em cứ suy nghĩ bao nhiêu cũng được mà."
+      ],
+      "jpchoice_data_list": [
+        "納得がいくまで、悩んでいいんだよ"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "……Ôm một tâm thế như vậy để chạy—— Liệu có phải là quá bất kính với mọi người không……",
+      "jpname": "カレンブーケドール",
+      "jptext": "……こんな気持ちで、走るのは――\nみなさんに、失礼ではないでしょうか……。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Đối với những người đang cháy hết mình với khát khao chiến thắng ấy. Bước chạy của em—— thật chẳng thể gọi là thành thật được……",
+      "jpname": "カレンブーケドール",
+      "jptext": "勝ちたいと、あんなにも心を燃やす、みなさんに対して。\n私の走りは――誠実とは、言えない……。",
+      "choice_data_list": [
+        "Nhưng chính vì trong lòng em vẫn muốn được chạy, nên em mới đắn đo như thế chứ đúng không.",
+        "Nhưng chính vì trong lòng em vẫn muốn được chạy, nên em mới đắn đo như thế phải không nào."
+      ],
+      "jpchoice_data_list": [
+        "でも走りたいから、迷ってるんだよな",
+        "でも走りたいから、迷ってるんだよね"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——! ……Dạ vâng. Dù biết bản thân không thành thật, vậy mà em……——",
+      "jpname": "カレンブーケドール",
+      "jptext": "――っ、……はい。\n誠実でないと、わかっているのに。私は……――",
+      "choice_data_list": [
+        "Em hoàn toàn có quyền trân trọng ý chí và mong muốn của chính bản thân mình mà.",
+        "Em hoàn toàn có quyền trân trọng ý chí và mong muốn của chính bản thân mình mà."
+      ],
+      "jpchoice_data_list": [
+        "君の意思を大切にして、いいんだよ",
+        "貴方の意思を大切にして、いいんだよ"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——……Thật sự…… được sao ạ……?",
+      "jpname": "カレンブーケドール",
+      "jptext": "――……っ、本当に……？",
+      "choice_data_list": [
+        "Vì đây là sự nghiệp đua của riêng em. Hãy cứ suy nghĩ thật kỹ nhé.",
+        "Vì đây là sự nghiệp đua của riêng em. Hãy cứ suy nghĩ thật kỹ nhé."
+      ],
+      "jpchoice_data_list": [
+        "君のレース人生だから。よく考えるといい",
+        "貴方のレース人生だから。よく考えるといい"
+      ]
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Trainer-san……——",
+      "jpname": "カレンブーケドール",
+      "jptext": "トレーナー、さん……――"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "Vâng…… em sẽ suy nghĩ thật thấu đáo. Cho đến khi nỗi do dự này—— tan biến hoàn toàn mới thôi.",
+      "jpname": "カレンブーケドール",
+      "jptext": "はい……考えます。\nこの迷いが――消えて、なくなるまで。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "(——Trainer-san lúc nào cũng cận kề, thấu hiểu lòng mình…… Lời của người ấy, cớ sao lại dịu dàng và ấm áp đến nhường này……?)",
+      "jpname": "カレンブーケドール",
+      "jptext": "（――トレーナーさんは、いつも、私に寄り添ってくれる……\nあなたの言葉は、どうしてこんなにも――温かいの……？）"
+    }
+  ]
+}
