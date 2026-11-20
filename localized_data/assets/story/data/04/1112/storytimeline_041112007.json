@@ -1,0 +1,499 @@
+{
+  "title": "Chung một bầu trời: Mặt trời và Mặt trăng",
+  "jptitle": "Same Sky: Sun and Moon",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "Hey! Cậu đã nghe tin chưa? Ngày nghỉ trong trại hè huấn luyện năm nay có tổ chức \"Hội thi Sinh tồn trên đảo hoang\" đấy!",
+      "jpname": "デアリングハート",
+      "jptext": "Hey!　聞いた？　今年の夏合宿、\n休養日に『無人島サバイバル大会』があるんですって！",
+      "choice_data_list": [
+        "Ừ, tôi có thấy thông báo rồi... nhưng họ thi tài về cái gì thế?",
+        "Ừ, tôi có thấy thông báo rồi... nhưng họ thi tài về cái gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "ああ、案内は見たけど……何を競うんだ？",
+        "ああ、案内は見たけど……何を競うの？"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Để xem nào... tiêu chí chấm điểm ghi là \"An tâm\", \"An toàn\", và một mục nữa là \"Trải nghiệm sinh tồn khiến người khác phải ghen tị\" đấy.",
+      "jpname": "デアリングハート",
+      "jptext": "えーと……審査ポイントは『安心』『安全』、あとは\n『思わず羨ましくなるサバイバル』って書いてあるわね。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Đã nghe đến sinh tồn thì làm sao tôi có thể đứng ngoài làm khán giả được cơ chứ! Này Huấn luyện viên, ――Give it a try with me!",
+      "jpname": "デアリングハート",
+      "jptext": "サバイバルと聞いたら、傍観してなんかいられないわ！\nねえトレーナー、――Give it a try with me!"
+    },
+    {
+      "name": "",
+      "text": "Và thế là vào ngày nghỉ của đợt trại hè huấn luyện, tôi và Daring Heart đã cùng nhau đến một hòn đảo hoang gần đó.",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、夏合宿中の休養日。\nデアリングハートとふたり、近くの無人島にやってきた。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nào, đến nơi rồi nhé! Dù rất muốn thưởng ngoạn phong cảnh tuyệt đẹp này nhưng mà...",
+      "jpname": "デアリングハート",
+      "jptext": "さ、着いたわね！\nこの美しい景色を堪能したいところだけれど……。",
+      "choice_data_list": [
+        "Ừm, trước hết phải thiết lập căn cứ điểm đã nhỉ.",
+        "Ừm, trước hết phải thiết lập căn cứ điểm đã nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "えっと、まずはベースキャンプの確保だよな",
+        "えっと、まずはベースキャンプの確保だよね"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "That's right! Trong sinh tồn thì việc phân bổ thời gian quyết định tất cả! Đúng như tối qua tụi mình đã bàn, hãy khẩn trương bắt tay vào làm thôi!",
+      "jpname": "デアリングハート",
+      "jptext": "That's right!　サバイバルは時間の使い方が勝負！\n昨晩話し合った通り、テキパキと進めていきましょ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "We're in luck! Có một hang đá rất vừa vặn ở đây này. Lần này tụi mình chọn chỗ này nhé!",
+      "jpname": "デアリングハート",
+      "jptext": "We're in luck!　ちょうどいい洞穴があったわね。\n今回はここにしましょ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nguồn nước thì trên đường tới đây có một con suối rồi... tiếp theo là kiếm thức ăn. Huấn luyện viên ơi, cậu đi nhặt cành cây với mấy sợi dây leo dùng làm dây buộc giúp tôi nhé?",
+      "jpname": "デアリングハート",
+      "jptext": "水は川が来る途中にあったから……次は食料の確保ね。\nトレーナー、木の枝と、紐になりそうな蔦を集めてくれる？",
+      "choice_data_list": [
+        "Cành cây với dây leo á?"
+      ],
+      "jpchoice_data_list": [
+        "木の枝と蔦？"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yes! Tụi mình sẽ làm vài cái bẫy đơn giản rồi đem đặt trước. Bên tổ chức cũng đã xin phép đàng hoàng cả rồi mà.",
+      "jpname": "デアリングハート",
+      "jptext": "Yes!　簡単な罠を作って、先に仕掛けておくのよ。\n許可もちゃんと取ってくれてるみたいだしね。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Xong xuôi thì vừa lên đồi tìm nguyên liệu nấu ăn, vừa đi check đồ dạt vào bờ biển nhé!",
+      "jpname": "デアリングハート",
+      "jptext": "それが終わったら、山で食材を探しながら、\n漂流物checkよ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey! Tôi ném xuống đây nhé!",
+      "jpname": "デアリングハート",
+      "jptext": "Hey!　落とすわよ！",
+      "choice_data_list": [
+        "Đ-Được rồi, ném đi!"
+      ],
+      "jpchoice_data_list": [
+        "オ、オーライ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Bộp bộp bộp!)",
+      "jpname": "モノローグ",
+      "jptext": "（ドサドサドサ！）"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nice catch! Thế là tụi mình đã get được nguồn vitamin kiêm món tráng miệng rồi nhé!",
+      "jpname": "デアリングハート",
+      "jptext": "Nice catch!\nこれでビタミン兼デザートはgetね！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu, hòn đảo này trôi dạt vào nhiều đồ hữu ích thật đấy. ...I'm done! Nào, chiếc võng đã hoàn thành rồi đây! Cậu lên nằm thử xem.",
+      "jpname": "デアリングハート",
+      "jptext": "フフッ、この島は漂流物に恵まれてるわね。\n……I'm done!　さ、ハンモック完成よ！　乗ってみて。",
+      "choice_data_list": [
+        "Đ-Được rồi... tôi thử đây!",
+        "Đ-Được rồi... tôi thử đây!"
+      ],
+      "jpchoice_data_list": [
+        "わ、わかった……いくぞ！",
+        "わ、わかった……いくよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lấy hết can đảm, tôi ngả lưng nằm lên chiếc võng mà Daring Heart vừa khéo léo đan từ những mảnh gỗ dạt vào bờ.",
+      "jpname": "モノローグ",
+      "jptext": "と、意を決して、デアリングハートが漂流物で作った\nハンモックに寝転がった。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Thế nào? Nằm êm ái chứ?",
+      "jpname": "デアリングハート",
+      "jptext": "どう？　寝心地は。",
+      "choice_data_list": [
+        "Tuyệt vời quá mức luôn..."
+      ],
+      "jpchoice_data_list": [
+        "最高すぎる……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Glad to hear that! Nghỉ một chút rồi tụi mình đi kéo bẫy dưới suối lên nhé!",
+      "jpname": "デアリングハート",
+      "jptext": "Glad to hear that!\nひと息入れたら、川の罠を引き上げに行きましょ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Cá tươi có rồi, hoa quả cũng có rồi. Nước sôi boiling cũng xong xuôi cả rồi...",
+      "jpname": "デアリングハート",
+      "jptext": "魚に、フルーツ。\n水のboilingもよし、っと……。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufu... Tự thấy bản thân làm hoàn hảo thật đấy chứ! ...Okay, tôi đi rửa tay một chút nhé.",
+      "jpname": "デアリングハート",
+      "jptext": "フフッ……我ながら完璧ね！\n……Okay、ちょっと手を洗ってくるわ。"
+    },
+    {
+      "name": "",
+      "text": "Dõi mắt nhìn bóng lưng cô ấy bước về phía con suối, tôi đưa mắt nhìn quanh khu căn cứ điểm đã được chuẩn bị đâu ra đấy một cách hoàn hảo.",
+      "jpname": "モノローグ",
+      "jptext": "水の湧いていたほうへと歩いていく彼女を見送りながら、\n完璧に整ったベースキャンプを見渡す。",
+      "choice_data_list": [
+        "(Hoàn hảo thật đấy... nhưng liệu thế này đã đủ chưa nhỉ?)"
+      ],
+      "jpchoice_data_list": [
+        "（完璧だけど……これでいいのかな？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cả bữa ăn lẫn chỗ ngủ đều hoàn hảo. Chẳng có lấy một điểm nào để chê trách.",
+      "jpname": "モノローグ",
+      "jptext": "ご飯も、寝るところも完璧。\n文句の付け所はなにもない。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, tiêu chí chấm điểm còn có cả \"Trải nghiệm sinh tồn khiến người khác phải ghen tị\" nữa. ...Biết đâu chừng, chỉ \"hoàn hảo\" thôi thì vẫn chưa đủ――",
+      "jpname": "モノローグ",
+      "jptext": "だが、審査ポイントには『思わず羨ましくなるサバイバル』もある。\n……もしかしたら、『完璧』なだけでは足りない可能性も――"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'm back―― Hey, what's up? Sao trán cậu lại nhíu chặt thế kia?",
+      "jpname": "デアリングハート",
+      "jptext": "I'm back――Hey, what's up?\n眉間にしわが寄ってるわよ？",
+      "choice_data_list": [
+        "Hả!? À không, không có gì đâu..."
+      ],
+      "jpchoice_data_list": [
+        "え！？いや、なんでも……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Thật không đấy?",
+      "jpname": "デアリングハート",
+      "jptext": "……本当に？",
+      "choice_data_list": [
+        "Ư... thì, có lẽ là do tôi lo xa quá thôi nhưng mà..."
+      ],
+      "jpchoice_data_list": [
+        "うっ……その、心配しすぎかもなんだけど"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vậy là tôi đã đem những suy nghĩ vừa rồi nói cho cô ấy nghe. Rằng \"để chiến thắng thì có lẽ tụi mình cần thêm một chút biến tấu nữa\"...",
+      "jpname": "モノローグ",
+      "jptext": "ということで、さっき考えていたことを彼女に伝える。\n『勝つにはもうひと工夫必要なんじゃないか』、と……。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Cậu quả là.",
+      "jpname": "デアリングハート",
+      "jptext": "…………あなたって。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Cậu đúng là tuyệt đỉnh thật đấy! You're fire!",
+      "jpname": "デアリングハート",
+      "jptext": "あなたって、本っ当に最高ね！\nYou're fire!",
+      "choice_data_list": [
+        "Không, có khi chỉ là tôi suy nghĩ nhiều quá thôi..."
+      ],
+      "jpchoice_data_list": [
+        "いや、考えすぎなだけかも……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Đâu có, đúng như lời cậu nói đấy chứ. Thứ người ta yêu cầu đâu phải là \"hoàn hảo\", mà là \"trải nghiệm sinh tồn khiến người khác phải ghen tị\" cơ mà!",
+      "jpname": "デアリングハート",
+      "jptext": "いいえ、あなたの言う通りよ。求められていたのは、\n『完璧な』じゃなくて、『思わず羨ましくなるサバイバル』だもの！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Alright, let's do this! Đã quyết định như thế thì không còn nhiều thời gian đâu. Mau đi tìm nguyên liệu thôi nào!",
+      "jpname": "デアリングハート",
+      "jptext": "Alright, let's do this!\nそうと決まれば、時間はないわ。材料を探しに行きましょ！",
+      "choice_data_list": [
+        "Nguyên liệu sao?"
+      ],
+      "jpchoice_data_list": [
+        "材料？"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Phải rồi, tụi mình sẽ trang trí. Làm đẹp cho khu căn cứ này!",
+      "jpname": "デアリングハート",
+      "jptext": "ええ、飾るのよ。\nこのベースキャンプを！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Dùng hoa... hay bỏ lửa vào trong lon rỗng để làm đèn lồng cũng tuyệt lắm đấy. Tóm lại là phải thật rực rỡ và tràn đầy cảm xúc emotional!",
+      "jpname": "デアリングハート",
+      "jptext": "花や……空き缶に焚火を入れて、ライトを作るのもいいわね。\nとにかく、華やかでemotionalにしたいわ。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Vì chiến thắng... giờ mới là lúc bước vào cuộc đua thực sự này! Are you ready?",
+      "jpname": "デアリングハート",
+      "jptext": "勝利のためには……ここからが本番ね！\nAre you ready?",
+      "choice_data_list": [
+        "Yes!"
+      ],
+      "jpchoice_data_list": [
+        "イエス！"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nhìn này... thủy tinh biển sea glass kìa! Gom thật nhiều về rồi rải đều lên bàn thôi nào!",
+      "jpname": "デアリングハート",
+      "jptext": "見て……シーグラス！\nたくさん集めてテーブルに並べましょ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Ủa mà, cậu đang làm gì đấy?",
+      "jpname": "デアリングハート",
+      "jptext": "……って、なにをしているの？",
+      "choice_data_list": [
+        "Tôi nghĩ nếu đeo cái này vào thì trông sẽ rất tuyệt."
+      ],
+      "jpchoice_data_list": [
+        "これをつけたら素敵じゃないかと思って"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wow...",
+      "jpname": "デアリングハート",
+      "jptext": "Wow..."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nice idea! Này, tụi mình làm thêm một chiếc nữa đi? Đeo đôi cùng nhau thì sẽ càng tuyệt vời hơn nhiều đấy!",
+      "jpname": "デアリングハート",
+      "jptext": "Nice idea!　ねえ、これもうひとつ作りましょう？\nお揃いでつけたら、もっと素敵だわ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Yes! Vừa sành điệu lại vừa tiện nghi. Dù là ai nhìn vào cũng sẽ thấy đây là một căn cứ \"đáng ghen tị\" cho xem!",
+      "jpname": "デアリングハート",
+      "jptext": "Yes!　オシャレで快適。\n誰がどう見ても『羨ましくなる』ベースキャンプだわ！",
+      "choice_data_list": [
+        "Trông lộng lẫy hẳn lên rồi đấy!",
+        "Trông lộng lẫy hẳn lên rồi đấy!"
+      ],
+      "jpchoice_data_list": [
+        "すっごく豪華になったな！",
+        "すっごく豪華になったね！"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufun! Giờ chỉ việc đứng ở đây chụp một bức ảnh nộp bài là xong... này!",
+      "jpname": "デアリングハート",
+      "jptext": "フフン！\nあとはこの場所で、提出用の写真を撮るだけね……っと！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Đúng rồi, phải đeo cái này vào nữa chứ! Same to you too!",
+      "jpname": "デアリングハート",
+      "jptext": "そうそう、これをつけないとね！\nSame to you too!"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, \"Hội thi Sinh tồn trên đảo hoang\" đã khép lại êm đẹp và...",
+      "jpname": "モノローグ",
+      "jptext": "こうして、無事『無人島サバイバル大会』は終了し……。"
+    },
+    {
+      "name": "Giám khảo sinh tồn",
+      "text": "Vinh danh! Cặp đôi quán quân của \"Hội thi Sinh tồn trên đảo hoang\" là... cặp đôi của Daring Heart! Xin chúc mừng!",
+      "jpname": "サバイバル審査員",
+      "jptext": "栄えある！　『無人島サバイバル大会』優勝者は\n……デアリングハートペア！　おめでとう！"
+    },
+    {
+      "name": "Giám khảo sinh tồn",
+      "text": "Phần thưởng dành cho quán quân là―― \"Bộ dụng cụ sinh tồn hoàn hảo\"! Nhớ tận dụng nó trong các buổi luyện tập nhé!",
+      "jpname": "サバイバル審査員",
+      "jptext": "優勝賞品は――『パーフェクトサバイバルセット』だ！\nトレーニングにもぜひ活用してくれ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "\"Bộ dụng cụ sinh tồn hoàn hảo\" sao...",
+      "jpname": "デアリングハート",
+      "jptext": "『パーフェクトサバイバルセット』……。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Phụt, a ha ha! ...Ngày nghỉ tiếp theo có khi tụi mình lại ra đảo hoang tiếp nhỉ?",
+      "jpname": "デアリングハート",
+      "jptext": "プッ、アハハッ！\n……今度の休養日も、無人島になりそうね？"
+    },
+    {
+      "name": "",
+      "text": "Sau khi dùng bữa tối xong. Để chúc mừng thêm một lần nữa, cả hai chúng tôi đã cùng nhau dạo bước ra bờ biển.",
+      "jpname": "モノローグ",
+      "jptext": "夕食を済ませた後。\n改めてお祝いするために、ふたりで海岸にやってきた。",
+      "choice_data_list": [
+        "Phù... yên tĩnh thật đấy.",
+        "Phù... yên tĩnh thật đấy."
+      ],
+      "jpchoice_data_list": [
+        "ふー……静かだな",
+        "ふー……静かだね"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ừ. ...Fufu, trông cậu có vẻ nhẹ nhõm hẳn nhỉ?",
+      "jpname": "デアリングハート",
+      "jptext": "ええ。\n……フフッ、なんだかホッとしてる？"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Xin lỗi cậu nhé. Vì lúc nào tôi cũng lôi cậu vào những chốn ồn ào náo nhiệt.",
+      "jpname": "デアリングハート",
+      "jptext": "……ごめんなさいね。\nいつも賑やかなところに引っ張り出してしまって。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Những lúc thấy không thích, cậu cứ việc thẳng thắn nói no nhé?",
+      "jpname": "デアリングハート",
+      "jptext": "本当は、こういう静かな場所の方が好きでしょうに。\n……嫌な時は、はっきりnoって言っていいのよ？",
+      "choice_data_list": [
+        "Tôi hoàn toàn không ghét chút nào đâu. Nhờ thế mà tôi được trải nghiệm những điều chưa từng biết mà."
+      ],
+      "jpchoice_data_list": [
+        "全然嫌じゃないよ。未知の体験ができるし"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và hơn hết thảy mọi điều, mỗi khi ở bên cạnh Daring Heart――",
+      "jpname": "モノローグ",
+      "jptext": "それになにより、デアリングハートと一緒にいると――",
+      "choice_data_list": [
+        "Sự tẻ nhạt của bản thân tôi dường như chẳng còn làm tôi bận lòng nữa."
+      ],
+      "jpchoice_data_list": [
+        "自分のつまらなさが、気にならなくなるから"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "What? Tẻ nhạt... cậu mà tẻ nhạt á?",
+      "jpname": "デアリングハート",
+      "jptext": "What?\nつまらない……あなたが？"
+    },
+    {
+      "name": "",
+      "text": "Hướng mắt nhìn về phía biển, tôi gật đầu. ...Một kẻ suốt ngày chỉ biết tính toán trong đầu mà chẳng thể hành động dứt khoát. Sự tẻ nhạt đó của bản thân, mỗi khi ở cạnh cô ấy thì――",
+      "jpname": "モノローグ",
+      "jptext": "海を横目に頷く。……頭でばかり考えて、なかなか動けない。\nそういう自分のつまらなさが、彼女といる時は――"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "――Cậu đùa đấy à!",
+      "jpname": "デアリングハート",
+      "jptext": "――冗談でしょ！",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You've got to be kidding me! Người thú vị như cậu trên đời này hiếm có khó tìm lắm đấy!",
+      "jpname": "デアリングハート",
+      "jptext": "You've got to be kidding me!\nあなたほど楽しい人は、なかなかいないわよ！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Thế giới của cậu lúc nào cũng ngập tràn những điều bí ẩn và những câu hỏi nghi vấn. Vô số câu hỏi và điều bí ẩn mà đôi mắt tôi chẳng thể nào nhìn thấy được.",
+      "jpname": "デアリングハート",
+      "jptext": "あなたの世界は、いつだって謎と疑問に満ちている。\n私の目には映らない、たくさんの謎や疑問に。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Tôi yêu cái thế giới ấy. Tôi thích được lắng nghe cậu kể về thế giới của riêng cậu.",
+      "jpname": "デアリングハート",
+      "jptext": "私は、その世界が好きよ。\nあなたから、あなたの世界の話を聞くのが好き。"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You get it? Lòng hiếu kỳ và tinh thần ham học hỏi ấy của cậu, đã hoàn toàn cướp mất trái tim của tôi rồi đấy!",
+      "jpname": "デアリングハート",
+      "jptext": "You get it?　あなたのその好奇心と探求心に、\n私はすっかり、ハートを奪われちゃってるんだから！"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Do you understand?",
+      "jpname": "デアリングハート",
+      "jptext": "Do you understand?",
+      "choice_data_list": [
+        "Y-Yes..."
+      ],
+      "jpchoice_data_list": [
+        "イ、イエス……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi thật sự sững sờ. Không ngờ Daring Heart lại nghĩ về tôi như thế...",
+      "jpname": "モノローグ",
+      "jptext": "驚いた。まさかデアリングハートが、\nそんなふうに思っていてくれたなんて……。",
+      "choice_data_list": [
+        "Heart, cô đúng là tuyệt vời thật đấy.",
+        "Heart, cô đúng là tuyệt vời thật đấy."
+      ],
+      "jpchoice_data_list": [
+        "ハート、君は本当にすごいな",
+        "ハート、貴方は本当にすごいね"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "...Fufu. Not really.",
+      "jpname": "デアリングハート",
+      "jptext": "……フフッ。Not really."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Câu đó phải là tôi nói mới đúng chứ, my heart?",
+      "jpname": "デアリングハート",
+      "jptext": "それは私のセリフよ、my heart?"
+    }
+  ]
+}
