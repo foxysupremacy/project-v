@@ -1,0 +1,405 @@
+{
+  "title": "Phương trời xa xăm chẳng thuộc về nơi này",
+  "jptitle": "此処ではない彼方",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "...Kể từ khi bắt đầu tìm kiếm Stay Gold, thấm thoát vài mùa đã trôi qua.",
+      "jpname": "モノローグ",
+      "jptext": "……ステイゴールドを捜し始めてから、\n気づけばいくつかの季節が過ぎようとしていた。"
+    },
+    {
+      "name": "",
+      "text": "Trong suốt khoảng thời gian đó, tôi chẳng thể nào gặp được cô ấy trong học viện. Nghĩ bụng vậy thì phải mở rộng tìm kiếm manh mối ra tận bên ngoài...",
+      "jpname": "モノローグ",
+      "jptext": "その間、学内で彼女と会うことはできず、\nそれならばと学外にまで彼女の手がかりを広く求め――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...A. Quả nhiên là ở đây làm lòng người thấy thanh thản thật đấy...",
+      "jpname": "ステイゴールド",
+      "jptext": "……あ～。\nやっぱここ、落ち着くなぁ……。",
+      "choice_data_list": [
+        "Stay Gold!"
+      ],
+      "jpchoice_data_list": [
+        "――――ステイゴールド！"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Ô! Lâu rồi không gặp. Trông cậu khỏe khoắn đấy nhỉ.",
+      "jpname": "ステイゴールド",
+      "jptext": "……お～！\n久しぶり。元気そうだな。",
+      "choice_data_list": [
+        "Cậu vẫn còn nhớ tôi sao?",
+        "Cậu vẫn nhớ tôi à?"
+      ],
+      "jpchoice_data_list": [
+        "俺のこと、覚えているのか？",
+        "私のこと、覚えているの？"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Lẽ đương nhiên rồi. Một chuyến đi tuyệt vời như thế sao mà dễ quên cho được.",
+      "jpname": "ステイゴールド",
+      "jptext": "そりゃそうだろ。\nいい旅は、そうそう忘れられないもんさ。",
+      "choice_data_list": [
+        "...Tôi muốn được nói chuyện với cậu thêm một lần nữa",
+        "...Tôi muốn trò chuyện cùng cậu thêm lần nữa"
+      ],
+      "jpchoice_data_list": [
+        "……君と、もう一度話したくて",
+        "……貴方と、もう一度話したくて"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nhiệt tình quá nhỉ. Được thôi, để tôi lắng nghe cậu nói. ...Dù sao cuộc đua cũng vừa mới kết thúc rồi.",
+      "jpname": "ステイゴールド",
+      "jptext": "そいつは熱烈だ。いいよ、話を聞いてやる。\n……ちょうどレースも終わったしな。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Cơ mà cậu tìm ra tôi cũng tài thật đấy. Dùng mánh khóe gì thế hả?",
+      "jpname": "ステイゴールド",
+      "jptext": "――にしても、よく私を見つけられたな。\nどんな手を使ったんだ？",
+      "choice_data_list": [
+        "Dựa vào gợi ý từ \"dấu móng\" mà cậu đã kể",
+        "Lấy manh mối từ \"dấu móng\" mà cậu từng bảo"
+      ],
+      "jpchoice_data_list": [
+        "君が教えてくれた“蹄跡”を、ヒントに",
+        "貴方が教えてくれた“蹄跡”を、ヒントに"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Trong câu chuyện về \"dấu móng\" mà cô ấy từng kể năm xưa, có vài chi tiết nhắc tới những địa điểm cụ thể.",
+      "jpname": "モノローグ",
+      "jptext": "……かつて彼女が語ってくれた“蹄跡”には、\nいくつか具体的な場所を示す内容があった。"
+    },
+    {
+      "name": "",
+      "text": "Biết đâu Stay Gold sẽ xuất hiện ở những nơi đó chăng. Tôi ôm ấp tia hy vọng ấy mà lần lượt đi qua từng địa điểm một.",
+      "jpname": "モノローグ",
+      "jptext": "もしかしたらステイゴールドは、その場所に現れるかもしれない。\nそう望みをかけて、ひとつずつ巡っていったのだ。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, tôi dò hỏi tung tích của Stay Gold ở khắp mọi nơi, nương theo từng manh mối thu thập được để đặt chân tới tận Sapporo này...",
+      "jpname": "モノローグ",
+      "jptext": "そして、それぞれの場所でステイゴールドの足跡を尋ねて回り、\n得られた情報を頼りに、この札幌にまでたどり着いた……。",
+      "choice_data_list": [
+        "Bám đuôi như thế này thật ngại quá, xin lỗi cậu nhé",
+        "Lần mò theo dấu vết thế này thất lễ quá, xin lỗi cậu nhé"
+      ],
+      "jpchoice_data_list": [
+        "つけ回すようなことをして、申し訳ない",
+        "つけ回すようなことをして、ごめんなさい"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Có sao đâu mà. Trái lại tôi còn muốn vỗ tay tán thưởng độ kiên trì của cậu nữa kia.",
+      "jpname": "ステイゴールド",
+      "jptext": "別にいいよ。\nむしろその根性に、拍手を送りたいぐらいだね。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Rồi sao? Thứ cậu muốn bàn là về kẻ mà tôi từng kể dạo trước à?",
+      "jpname": "ステイゴールド",
+      "jptext": "……で？\nあんたが話したいのは、私が前に語ったあいつのことか？",
+      "choice_data_list": [
+        "...Phải. Tôi muốn biết kẻ đó rốt cuộc là ai",
+        "...Đúng vậy. Tôi rất muốn biết đó là ai"
+      ],
+      "jpchoice_data_list": [
+        "……ああ。何者かを知りたいんだ",
+        "……うん。何者かを知りたいの"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Mà thôi, cũng là cái duyên. Tôi kể cho cậu về kẻ ấy cũng được thôi, nhưng mà...",
+      "jpname": "ステイゴールド",
+      "jptext": "ま、これも何かの縁だ。\nあいつのことを教えてやってもいいが――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Hừm. Ngồi kể lại bằng miệng lần nữa thì cũng nhạt nhẽo quá. ...Được rồi.",
+      "jpname": "ステイゴールド",
+      "jptext": "……んー。また話して聞かせるってのも、微妙だな。\n…………よし。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Cậu về học viện trước đi, đợi tôi một lát. ...Tôi sẽ cho cậu xem một thứ hay ho.",
+      "jpname": "ステイゴールド",
+      "jptext": "あんた、先に学園に戻って、少し待っててくれよ。\n……面白いもの、見せてやる。",
+      "choice_data_list": [
+        "...Thứ hay ho ư?"
+      ],
+      "jpchoice_data_list": [
+        "……面白いもの？"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ừ. Cứ tận mắt thấy rồi nói chuyện sẽ dễ hiểu hơn nhiều. ...Yên tâm đi, tôi không có ý đánh trống lảng để chuồn đâu mà sợ.",
+      "jpname": "ステイゴールド",
+      "jptext": "ああ。きっとそれを見てからの方が、話が早い。\n……安心してくれ。煙に巻こうってわけじゃあない。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Chuẩn bị xong xuôi tôi sẽ tự tìm đến cậu. Hôm nay tới đây thôi nhé. ...À này, quán mì ramen đối diện tiệm này ấy, món ramen muối ở đó đỉnh lắm đấy.",
+      "jpname": "ステイゴールド",
+      "jptext": "用意が整ったら、こっちから出向くよ。今日のところはこれで。\n……あ。この店の向かいにあるラーメン屋。塩がオススメだぞ。"
+    },
+    {
+      "name": "",
+      "text": "...Và rồi, vài ngày sau khi hội ngộ cùng Stay Gold. Cô ấy nhắn \"Đã chuẩn bị xong rồi\" và hẹn tôi tới một địa điểm...",
+      "jpname": "モノローグ",
+      "jptext": "……そして、ステイゴールドと再会してから数日後。\n彼女から『準備ができた』と、ある場所に呼ばれ――"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tính cả tôi thì đã có 14 người. Tất cả đã tập hợp đông đủ.",
+      "jpname": "エアグルーヴ",
+      "jptext": "――これで私含め14名。全員、揃っています。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ừ, cảm ơn cậu nhiều nhé. Ngại quá, Air Groove. Tự dưng lại nhờ vả chuyện đột xuất thế này.",
+      "jpname": "ステイゴールド",
+      "jptext": "うん、ありがとう。悪いな、エアグルーヴ。\n急にこんな頼みを聞いてもらって。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Không sao. ...Với tư cách hội học sinh, việc khiến cậu chịu nghiêm túc chạy đua vốn là một trong những nhiệm vụ khó khăn. Miễn là đạt được điều đó thì không có vấn đề gì.",
+      "jpname": "エアグルーヴ",
+      "jptext": "いえ。……生徒会として、あなたに真面目に走ってもらうことは\nひとつの課題でした。それを果たせるのであれば、問題ありません。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Rồi sao nữa rồi sao nữa! Hôm nay rốt cuộc chúng ta sẽ chạy trận đua tập thế nào desu!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "それでそれで！　今日はいったい、\nどんな模擬レースをやるつもりなんデスか！？"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "À, hôm nay tập hợp mọi người ở đây là để cùng tôi chạy trên đường cỏ 2400m ngược chiều kim đồng hồ.",
+      "jpname": "ステイゴールド",
+      "jptext": "あー、今日集まってもらったみんなには、\n私と芝で左回り2400mを走ってもらう。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Cứ coi như đang chạy tại trường đua Tokyo mà dốc toàn lực cho tôi thấy đi.",
+      "jpname": "ステイゴールド",
+      "jptext": "東京レース場を走るつもりで、みんなの全力を見せてくれ。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Điều kiện đó...! Với El thì hệt như \"Nihon Derby\"! Hoặc là \"Japan Cup\" vậy! Uuu, El sôi sục cả người lên rồi desu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "その条件……！　エル的には、さながら『日本ダービー』！\nあるいは『ジャパンカップ』！　う～っ、燃えてきたデス！"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha. Tuyệt lắm, cứ giữ phong độ đó nhé. ...Nào, chuẩn bị thôi.",
+      "jpname": "ステイゴールド",
+      "jptext": "ハハッ。いいねぇ、その調子でたのむよ。\n……さ、準備するか。"
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc cô ấy định cho tôi thấy điều gì. Giữa lúc tôi còn hoàn toàn mù mờ, cuộc đua tập đã sắp sửa khai màn...",
+      "jpname": "モノローグ",
+      "jptext": "彼女が果たして、何を見せてくれようとしているのか。\n何もわからぬまま、模擬レースが始まろうとしている……。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Sắp sửa bắt đầu một cuộc đua đặc biệt đấy.",
+      "jpname": "ステイゴールド",
+      "jptext": "――これから始まるのは、特別なレースだ。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Một người đã nghe chuyện về kẻ nọ, nảy sinh hứng thú với tôi rồi lần theo cơ duyên mà tìm tới. Người như cậu... chắc hẳn sẽ nhìn thấy được thôi.",
+      "jpname": "ステイゴールド",
+      "jptext": "あいつの話を聞き、私に興味を持ち、縁を辿ってきた。\nそんなあんたなら……多分、見えるんじゃないかな。",
+      "choice_data_list": [
+        "Rốt cuộc cậu định làm gì vậy...?",
+        "Rốt cuộc cậu tính làm gì thế...?"
+      ],
+      "jpchoice_data_list": [
+        "いったい、何をするつもりだ……？",
+        "いったい、何をするつもり……？"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nếu nghe thấy thanh âm gì thì cứ phó mặc bản thân theo nó. Bí quyết chỉ có bấy nhiêu thôi. ...Vậy nhé, lát gặp lại.",
+      "jpname": "ステイゴールド",
+      "jptext": "もし声が聞こえたなら、委ねてみろ。\nコツはそれだけだ。……じゃ、また後でな。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, trận đua tập bắt đầu...",
+      "jpname": "モノローグ",
+      "jptext": "そして、模擬レースが始まり――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Đúng là tiền bối Air Groove...! Áp lực khủng khiếp quá desu...!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "さっすが、エアグルーヴ先輩……！\nすっごいプレッシャーデス……！"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đừng hòng muốn làm gì thì làm...! Chuẩn bị tinh thần đi, El...!",
+      "jpname": "エアグルーヴ",
+      "jptext": "そのまま好きにはさせん……！\n覚悟しろ、エル……！"
+    },
+    {
+      "name": "",
+      "text": "...Trong lúc đang dõi theo cuộc đua, chẳng hiểu vì sao một cảm giác kỳ lạ lại dâng tràn trong lòng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "……観戦しているうちに何故か、\n自分の中で不思議な感覚が湧いてくる。",
+      "choice_data_list": [
+        "(Khung cảnh này là...)"
+      ],
+      "jpchoice_data_list": [
+        "（この光景は……）"
+      ]
+    },
+    {
+      "name": "？？？",
+      "text": "\"Và số 11 El Condor Pasa! Áp sát ở đường chạy bên trong là số 1 Air Groove!!\"",
+      "jpname": "？？？",
+      "jptext": "『――そして11番エルコンドルパサー！\nインコースに1番のエアグルーヴがつけています！！』"
+    },
+    {
+      "name": "",
+      "text": "Là ảo giác sao? Trận đua tập đang diễn ra ngay trước mắt, dường như tôi đã từng nhìn thấy ở đâu đó rồi...",
+      "jpname": "モノローグ",
+      "jptext": "気のせいだろうか？　今繰り広げられている模擬レースを、\n自分はかつて、どこかで見たような――"
+    },
+    {
+      "name": "El & Air Groove",
+      "text": "Yaaaaaaaaaa!!! Haaaaaaaaaa!!!",
+      "jpname": "エル＆エアグルーヴ",
+      "jptext": "――――やぁぁぁぁぁぁぁぁっ！！！\n――――はぁぁぁぁぁぁぁぁっ！！！"
+    },
+    {
+      "name": "？？？",
+      "text": "\"El Condor Pasa đang lao lên! Từ phía đường trong là Air Groove! Air Groove đã vọt lên từ phía trong!!\"",
+      "jpname": "？？？",
+      "jptext": "『エルコンドルパサー来ている！　インコースからエアグルーヴ！\nエアグルーヴ、インコースから来た！！』",
+      "choice_data_list": [
+        "(Không, không phải! Chắc chắn mình đã thấy ở đâu đó...!)"
+      ],
+      "jpchoice_data_list": [
+        "（いや、違う！確かにどこかで――！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vào giai đoạn cuối, cục diện cuộc đua xoay quanh cuộc cạnh tranh ngôi đầu nghẹt thở giữa cả hai khiến tim tôi đập thình thịch, bất giác siết chặt nắm tay...!",
+      "jpname": "モノローグ",
+      "jptext": "終盤、先頭争いをするふたりを中心としたレース展開に、\n思わず胸が高鳴り、拳を握る……！"
+    },
+    {
+      "name": "？？？",
+      "text": "\"Các chiến mã Nhật Bản ■ chiếm trọn vị trí dẫn đầu!! Người dẫn đầu là! El Condor Pasaaaa!!!\"",
+      "jpname": "？？？",
+      "jptext": "『日本■が上位独占ッ！！\n先頭は！　エルコンドルパサーーーーッ！！！』"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thể hai thế giới đang cùng tồn tại ngay tại đây. Niềm phấn khích tột độ và cảm giác chân thực áp đảo xộc thẳng qua tâm can tôi...",
+      "jpname": "モノローグ",
+      "jptext": "まるで世界がふたつ、そこに在るかのように。\n圧倒的な興奮と実在感が、自分を貫いていく――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tiền bối ơi! Hôm nay em cảm ơn tiền bối nhiều lắm! El đã có một cuộc đua tuyệt nhất và học hỏi được kinh nghiệm quý báu lắm desu!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "先輩っ！　今日はありがとうございました！\nエル、最高のレースができて、すごくいい経験になったデス！！"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ô, thế thì tốt quá rồi. ...Phía tôi cũng lâu lắm rồi mới lại được thấy một cảnh tượng tuyệt vời thế này.",
+      "jpname": "ステイゴールド",
+      "jptext": "お～、それは何より。\n……こっちも久々に、いいものが見られたよ。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Cảm ơn cậu đã tạo cơ hội để có được một trải nghiệm bổ ích. Mong rằng cậu sau này cũng sẽ nỗ lực hơn...",
+      "jpname": "エアグルーヴ",
+      "jptext": "……良い経験を得るきっかけをくださり、ありがとうございます。\nあなたも、今後励まれますよう――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Quả nhiên tụi nó mạnh thật đấy. Lại về đích thứ 10 rồi.",
+      "jpname": "ステイゴールド",
+      "jptext": "…………やっぱ強いなぁ、あいつら。\nまた10着かぁ。",
+      "choice_data_list": [
+        "Stay Gold!"
+      ],
+      "jpchoice_data_list": [
+        "――ステイゴールド！"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Ồ, là cậu à. ...Xem chừng cậu đã thấy rồi nhỉ. Thú thật thì đó là một canh bạc, nhưng quả đúng là cậu có duyên với tôi thật.",
+      "jpname": "ステイゴールド",
+      "jptext": "お、あんたか。……どうやら見えたみたいだな。\n正直賭けだったが、あんたはやっぱり私と縁があるらしい。",
+      "choice_data_list": [
+        "Cậu biết thứ đó là gì sao...?",
+        "Cậu có biết cảnh tượng vừa rồi là gì không...?"
+      ],
+      "jpchoice_data_list": [
+        "君はあれが何か、知っているのか……？",
+        "貴方はあれが何か、知っているの……？"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Đại loại thế. ...Nếu cậu thấy được thì thay vì kể lể bằng lời, cứ để cậu tận mắt chứng kiến sẽ dễ tin vào sự tồn tại đó hơn mà.",
+      "jpname": "ステイゴールド",
+      "jptext": "まあね。……見えるんだったら、話をするより\n実際に見せた方が、存在を信じられるだろうと思ってな。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Cậu từng bảo rồi đúng không. Rằng dù có tra cứu cũng chẳng thể nào tìm ra danh tính của kẻ ấy.",
+      "jpname": "ステイゴールド",
+      "jptext": "あんた、言ってたよな。\nあいつの正体、調べてもわからなかった、と。"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Lẽ dĩ nhiên thôi. Bởi vì, kẻ ấy đâu thuộc về thế giới này đâu cơ chứ.",
+      "jpname": "ステイゴールド",
+      "jptext": "……そりゃ当然さ。\nだって、この世界の存在じゃないんだからな。",
+      "choice_data_list": [
+        "Hả..."
+      ],
+      "jpchoice_data_list": [
+        "えっ――"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "...Kẻ ấy chính là...",
+      "jpname": "ステイゴールド",
+      "jptext": "…………あいつはな――――"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Stay Gold của một thế giới khác.",
+      "jpname": "ステイゴールド",
+      "jptext": "――――別世界のステイゴールドなんだ。"
+    }
+  ]
+}
