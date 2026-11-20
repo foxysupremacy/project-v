@@ -1,0 +1,552 @@
+{
+  "title": "Biển đêm giữa hè",
+  "jptitle": "真夏の夜の海",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kỳ huấn luyện mùa hè năm nay đã chính thức bắt đầu! Win Variation đang miệt mài luyện tập hăng say hơn bao giờ hết.",
+      "jpname": "モノローグ",
+      "jptext": "今年も夏合宿が始まった！\nウインバリアシオンはいつも以上に懸命に励んでいる。",
+      "choice_data_list": [
+        "Vòng chạy cuối cùng nàooo!"
+      ],
+      "jpchoice_data_list": [
+        "ラストいっぽーん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi muốn làm điểm tựa vững chắc cho em ấy! Càng nghĩ vậy thì sự chỉ dẫn của tôi lại càng thêm nhiệt huyết. Bất cứ điều gì em ấy cần, tôi đều muốn giúp một tay... thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "頑張る彼女を支えたい！　そう思うと指導にも熱が入る。\n他に必要なことがあれば、何だって力になりたい……のだが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Phù, cảm giác chạy tốt lắm ạ. Tiếp theo là giờ nghỉ giải lao một chút anh nhỉ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ふうっ、いい感じっす。\n次は少し休憩っすね。",
+      "choice_data_list": [
+        "Em vất vả rồi, nhớ nghỉ ngơi cho lại sức nhé."
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様、しっかり休んでね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ vâng ạ! Trainer-san cũng vất vả rồi ạ. Dưới trời nắng gắt thế này mà anh vẫn theo sát... Năm nay trời nóng nực khủng khiếp thật đấy anh nhỉ...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "うっす！　トレーナーさんも、お疲れさまです。\n暑いなか、本当に……今年は本当に、暑いっすね……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Nóng thật đấy ạ...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "暑い…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ... anh thấy chuyện trời nóng bức này thế nào ạ?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あの……暑いのって、どうすか？",
+      "choice_data_list": [
+        "Say nắng thì nguy hiểm thật nhưng nếu đổ mồ hôi tốt thì cơ bắp sẽ..."
+      ],
+      "jpchoice_data_list": [
+        "熱中症は恐いけど発汗を促せば筋肉が……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ không, ý em không phải hỏi theo kiểu chuyên môn thế đâu ạ...! Dạ thì, thế anh có mùa nào yêu thích trong năm không ạ!?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "いや、そういうのじゃなく……！\nええと、じゃあ好きな季節とか、ありますかっ！？",
+      "choice_data_list": [
+        "Hả? Mùa yêu thích á...?"
+      ],
+      "jpchoice_data_list": [
+        "へ？好きな季節……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "A thôi không có gì đâu ạ! Dạ thì... Em xin lỗi, không có gì đâu ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あぁいやっ！　えっと……\nすみません、なんでもないっすっ！",
+      "choice_data_list": [
+        "Ơ kìa, Shion...!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、シオン……！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không biết em ấy có điều gì muốn nói chăng? Dạo gần đây, dường như cử chỉ của em ấy có phần hơi ngập ngừng gượng gạo.",
+      "jpname": "モノローグ",
+      "jptext": "何か言いたいことでもあるのだろうか？\nこのところ、彼女は心なしかぎこちない。",
+      "choice_data_list": [
+        "(Chẳng lẽ là chuyện hôm nọ...?)"
+      ],
+      "jpchoice_data_list": [
+        "（もしかして、この前の……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hà, khó khăn quá đi mất. Cái gọi là chuyện phiếm ấy...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はぁぁ～～、難しいっす。“雑談”……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "(Hôm nọ mình đã bắt chuyện thế nào ấy nhỉ? Sao lúc đó mình có thể nói năng tự nhiên vô tư đến thế được cơ chứ...)",
+      "jpname": "ウインバリアシオン",
+      "jptext": "（この前、どうやって話してたんだっけ？\nなんで、あんなに無心で話せてたのか……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Chắc là do thiếu chủ đề rồi nhỉ? Dù không có việc gì cụ thể thì cũng phải có chuyện gì đó để nói, nếu không sẽ làm anh ấy bối rối mất thôi...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "やっぱ話題っすかね？\n用はなくとも、何かしらないと困らせちゃうっす……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Một chủ đề không liên quan gì đến chuyện luyện tập... Ư ư ư...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "トレーニング関係ない話……ううーん……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "Này này mọi người ơi! Tối nay nghe bảo gần đây có tổ chức lễ hội đấy! Tớ muốn đi quẩyyy quá à!",
+      "jpname": "ウマ娘A",
+      "jptext": "ねーねー、みんな！\n夜、近くでお祭りやるんだって！　ウチ行きた～い！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Lễ hội... chính là nó rồi ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "お祭り……これっす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đến chiều muộn, khi tôi đang cặm cụi xử lý đống sổ sách giấy tờ thì...",
+      "jpname": "モノローグ",
+      "jptext": "――夕方、事務仕事をこなしていると……。",
+      "choice_data_list": [
+        "Shion?"
+      ],
+      "jpchoice_data_list": [
+        "シオン？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...! D-Dạ chào anh ạ! Anh vẫn đang dở tay làm việc nhỉ. Em xin phép không làm phiền nữa ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……！　ど、どもっす！\nまだまだお仕事中、ですね。失礼しましたっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Rồi vài chục phút sau. Vừa hoàn thành công việc và vươn vai thư giãn, nơi góc tầm mắt tôi chợt thoáng thấy...",
+      "jpname": "モノローグ",
+      "jptext": "そして、数十分後。\n仕事を終えて伸びをすると、視界の端に……。",
+      "choice_data_list": [
+        "Hửm...?"
+      ],
+      "jpchoice_data_list": [
+        "ん……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……っ！",
+      "choice_data_list": [
+        "Shion, đợi đã!"
+      ],
+      "jpchoice_data_list": [
+        "シオン、待って！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Quả nhiên chắc chắn em ấy đang có chuyện muốn tâm sự. Lại đang e dè sợ làm phiền tôi nữa đây mà. Nếu đã vậy thì...",
+      "jpname": "モノローグ",
+      "jptext": "やっぱりなにか話したいことがあるに違いない。\nまたこちらを気遣っているのだろう。ならば……。",
+      "choice_data_list": [
+        "Bây giờ tôi rảnh rồi, không bận gì nữa đâu!"
+      ],
+      "jpchoice_data_list": [
+        "今は、忙しくないよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...! Trainer-san...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……！　トレーナー、さん……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ thì... Hít sâu... thở mạnh... được rồi!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ええと…………。\nすぅ……はぁっ……しっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "D-Dạ thì... anh có muốn đi lễ hội không ạ? Em nghe bảo... ở gần đây đang tổ chức đấy ạ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あ……あのっ、お祭り、行きませんか？\n近くで……やってる、らしいんすけど……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa có chút bất ngờ lại vừa như đúng dự liệu... Hóa ra em ấy ngại ngùng giữ kẽ nãy giờ là vì chuyện này chẳng liên quan gì tới việc luyện tập...",
+      "jpname": "モノローグ",
+      "jptext": "意外なような、予想通りなような……。\n遠慮していたのは、トレーニングに関係ないことだからか……。",
+      "choice_data_list": [
+        "Ý hay đấy, chúng ta cùng đi nào."
+      ],
+      "jpchoice_data_list": [
+        "いいね、行こう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Oa a a, nhộn nhịp đông vui quá chừng luôn anh ơi!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――うわあ～～～、大盛り上がりっすね～！",
+      "choice_data_list": [
+        "Tôi mua kẹo táo về cho em rồi đây!"
+      ],
+      "jpchoice_data_list": [
+        "りんご飴、買ってきたよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Oái! Đột ngột thế này làm sao em kịp chuẩn bị tinh thần được cơ chứ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "わっ！　そんないきなり！\n心の準備が……！",
+      "choice_data_list": [
+        "A, vậy hả, tôi xin lỗi nhé."
+      ],
+      "jpchoice_data_list": [
+        "あっ、そっかごめん"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "A không sao đâu ạ, em vui lắm chứ! Nhưng mà... trước khi ăn anh cho em xin ít phút để tĩnh tâm tập trung tinh thần đã nhé...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あ、いえっ、いいんすよ！　嬉しいんです。\nでも……食べる前に、ちょっと精神統一させてください……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Xong rồi. Vậy thì em xin phép được thưởng thức đây ạ. Hỡi bạn kẹo táo bóng bẩy đáng yêu...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――っし。では、いただきます。\nつやつやの、かわいいりんご飴さま……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ưm... giòn rụm luôn ạ. Hì hì... A, nhắc tới kẹo táo em mới nhớ ra chuyện này.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ん～……っ、ぱりぱりっす。ふふ……。\nあっ、そういえば……りんご飴で思い出したんすけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hồi còn nhỏ em đâu có biết quả táo tây nhỏ xíu 'Hime ringo' là gì đâu ạ... Phì... khúc khích.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あたし、小さいころ『姫りんご』ってものを知らなくて……\nぷっ……くすくすっ。",
+      "choice_data_list": [
+        "Ủa, chuyện gì thế kể nghe xem nào?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、なになに？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ thì, em cứ tưởng đó là táo thường bị hái từ lúc còn non cơ. Hồi đó em đinh ninh quả táo từ lúc mới mọc ra là đã đỏ au rồi cơ đấy.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "えと、普通のりんごを小さいうちに収穫してるものだと思ってて。\nりんごって、最初から真っ赤だと思ってたんすよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thế nên... có lần đi dạo thấy quả táo xanh chưa chín lần đầu tiên, em liền chỉ tay bảo 'kìa là quả táo xanh kìa'...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "だから……散歩中に、熟す前の青い実を初めて見た時、\n『青りんごだー』って指さして……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thế là cha mẹ bảo 'vẫn chưa biết được đâu nha', em lại bảo 'sao lại thế, rõ ràng nó màu xanh mà', đầu óc em lúc đó ngập tràn dấu chấm hỏi luôn.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "そしたら両親に『まだわかんないよ～？』って言われて。\n『なんで？　青いでしょ？』って頭の中ハテナだらけで。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Cứ thế hai bên nói chuyện tréo ngoe nhau mãi... hì hì. Đó chỉ là... một mẩu kỷ niệm con con chẳng đâu vào đâu thôi ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "そのままずーっと会話行き違ってて……ふふっ。\nそんな……どうでもいい、思い出話でした。",
+      "choice_data_list": [
+        "Phì... ha ha ha...!"
+      ],
+      "jpchoice_data_list": [
+        "ぷっ……あはは……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...! Hì hì... ha ha ha...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……！　えへへ……ふふふっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Được rồi...! Trainer-san có muốn mua gì không ạ?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "よーしっ……！\nトレーナーさん、欲しいものありますか？",
+      "choice_data_list": [
+        "Ừm... A, món đồ kia trông hoài niệm ghê ta."
+      ],
+      "jpchoice_data_list": [
+        "うーん……あ、あれ懐かしいな～"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Con gấu bông đằng kia sao ạ? Đúng là nhân vật từng nổi đình nổi đám hồi xưa anh nhỉ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あのぬいぐるみっすか？\n確か、昔流行ったキャラクターですよね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hóa ra hồi xưa Trainer-san cũng thích mấy thứ này sao ạ?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "トレーナーさん、ああいうの好きだったんですか？",
+      "choice_data_list": [
+        "Hồi còn bé ấy mà.",
+        "Hồi nhỏ tôi thích lắm."
+      ],
+      "jpchoice_data_list": [
+        "子どもの頃な",
+        "子どもの頃ね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hồi còn nhỏ sao ạ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "子どもの頃……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ thì, nếu được anh kể thêm cho em nghe hồi bé anh là một đứa trẻ thế nào được không ạ! Anh thích đua ngựa từ xưa hay có chơi môn thể thao nào không ạ?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あのっ、よかったら、どんな子どもだったかもっと聞きたいっす！\n昔からレース好きだったんすか？　何かスポーツとかやってました？",
+      "choice_data_list": [
+        "Để xem nào..."
+      ],
+      "jpchoice_data_list": [
+        "そうだなぁ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Em muốn được nghe anh tâm sự nhiều điều lắm. Phải rồi, tiếp theo chúng mình vừa chơi trò gọt kẹo đường Katanuki vừa trò chuyện nhé...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "いろんなこと、たくさん聞きたいっす。\nそうだ、次は型抜きでもしながら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ như vậy chúng tôi dạo qua khắp các quầy hàng, rôm rả trò chuyện những điều giản dị bình yên. Mãi cho đến khi đôi chân thấm mệt và bước ra bờ biển tĩnh lặng thì...",
+      "jpname": "モノローグ",
+      "jptext": "そうしてあちこちの屋台を回り、他愛のないおしゃべりをした。\nやがて歩き疲れて、静かな海へとやってくると……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Phù, trò gọt kẹo đường Katanuki hồi hộp nghẹt thở thật đấy anh nhỉ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ふ～～～、型抜き、燃えましたね～。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Rõ ràng là đã làm theo đúng nguyên lý lý thuyết của Trainer-san rồi, thế mà cả hai đứa cứ đụng tới chỗ mảnh là gãy gập ngay...! Ha ha ha!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "トレーナーさんの理論？　理屈……通りにやったのに、\n2人とも細いところすぐ折れちゃって……！　ふふふっ！",
+      "choice_data_list": [
+        "Thì mẹo vặt tào lao trên mạng đọc được thôi mà..."
+      ],
+      "jpchoice_data_list": [
+        "まぁネットで見た与太話だったので……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hì hì... Nhưng mà những khoảnh khắc như vậy tuyệt lắm anh. ...Em cảm thấy thực sự rất tuyệt ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ふふっ……でも、そういうのがいいんす。\n……なんか、いいと思うんす。",
+      "choice_data_list": [
+        "Tôi hiểu mà, vui lắm đúng không."
+      ],
+      "jpchoice_data_list": [
+        "わかるよ、楽しかった"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thật vậy sao ạ! Em cũng... hì hì, thấy vui ơi là vui luôn ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "本当っすか！\nあたしも……へへっ、楽しかったっす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Em... dạ thì, em muốn được tán gẫu những chuyện vu vơ như thế này. Giống như hôm trước vậy ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あたし、その……『どうでもいい話』したかったんです。\nこの前みたいに。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Nên em mới mong có lúc rảnh rỗi được trò chuyện cùng anh. Vì thế mà lúc giải lao em mới đột ngột hỏi mấy câu ngớ ngẩn như vậy... hì hì.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "だから、忙しくない時にお話しできたらって。\nそれで休憩中、急に変な質問しちゃったりなんかして……えへへ。",
+      "choice_data_list": [
+        "Hóa ra là vậy sao...",
+        "Ra đầu đuôi là thế à..."
+      ],
+      "jpchoice_data_list": [
+        "そうだったのか……",
+        "そうだったんだ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Người ta thường bảo thân thiết đến mấy cũng cần giữ kẽ lễ phép... nhưng vì em ấy quá đỗi nghiêm túc và chu đáo nên mới suy nghĩ lo âu thái quá như vậy.",
+      "jpname": "モノローグ",
+      "jptext": "親しき仲にも礼儀あり……とは言うけれど。\n真面目な彼女だから、気にしすぎてしまったのだろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng là đôi khi tôi có bận rộn thật, nhưng ngay cả khi không có việc gì cụ thể, mong muốn được chuyện trò phiếm để hai thầy trò thêm thấu hiểu nhau cũng là điều mà tôi luôn ấp ủ.",
+      "jpname": "モノローグ",
+      "jptext": "確かに忙しい時もあるが、用なんかなくとも、\n雑談でコミュニケーションを取りたい気持ちは、自分も同じだ。",
+      "choice_data_list": [
+        "Chúng ta hãy trò chuyện thật nhiều nhé. Nhiều hơn nữa."
+      ],
+      "jpchoice_data_list": [
+        "たくさん話そう。もっと"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ vâng...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はい……。",
+      "choice_data_list": [
+        "Tôi cũng sẽ chủ động bắt chuyện với em thật nhiều.",
+        "Tôi cũng sẽ thường xuyên tìm em trò chuyện nhiều hơn."
+      ],
+      "jpchoice_data_list": [
+        "俺もどんどん話しかけるから",
+        "私もどんどん話しかけるから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ vâng...! Em cũng sẽ làm như vậy ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はい……！　あたしもそうするっす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nụ cười rạng rỡ đầy hân hoan của em tỏa sáng lấp lánh. Một lần nữa trong lòng tôi lại trào dâng mong ước, muốn trở thành một Trainer mà em có thể thoải mái sẻ chia mọi điều mà không cần phải e dè câu nệ.",
+      "jpname": "モノローグ",
+      "jptext": "嬉しそうな笑顔が眩しかった。改めて、\n彼女が遠慮せずにいられるトレーナーになりたいと思ったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

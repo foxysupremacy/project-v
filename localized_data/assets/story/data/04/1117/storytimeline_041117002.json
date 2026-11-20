@@ -1,0 +1,386 @@
+{
+  "title": "Coppélia không khiêu vũ",
+  "jptitle": "コッペリアは踊らない",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Win Variation",
+      "text": "Một lần nữa xin chào anh, em là Win Variation ạ. Dạ thì, hôm nay cảm ơn anh vì đã cất công đến đây ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "改めまして、ウインバリアシオンです。\nその、今日はわざわざ、ありがとうございます。",
+      "choice_data_list": [
+        "Tôi mới phải cảm ơn em chứ! Tôi rất mong chờ màn chạy của em đấy."
+      ],
+      "jpchoice_data_list": [
+        "こちらこそ！走り、楽しみにしてる"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Em sẽ cố gắng hết sức ạ...! Vậy thì trước hết em sẽ chạy thả lỏng một vòng nhẹ nhàng, rồi sang vòng thứ hai sẽ...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "頑張ります……！\nじゃあまずは、軽く1周流してから、2周目で――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Phóng viên tạp chí A",
+      "text": "Orfevre-san! Kể từ khi nhập học tại Học viện Tracen, bản thân cô có nhận thấy sự thay đổi nào không!?",
+      "jpname": "雑誌記者A",
+      "jptext": "オルフェーヴルさん！　トレセン学園に入ってから、\n何かご自身に変化などはありましたか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Phóng viên tạp chí B",
+      "text": "Dù vẫn chưa chính thức ra mắt, nhưng đích đến mà Orfevre-san hướng tới... liệu cô đã xác định được ước mơ của mình chưa...!?",
+      "jpname": "雑誌記者B",
+      "jptext": "デビュー前ではありますが、オルフェーヴルさんが目指す先……\n夢などは決まっているのでしょうか……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Dám cất lời chất vấn ta sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――余に問いを投げるか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các phóng viên tạp chí",
+      "text": "Hức...! X-Xin thứ l...",
+      "jpname": "雑誌記者たち",
+      "jptext": "ひっ……！　す、すみませ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bốn bề bỗng chốc lặng ngắt như tờ. Dù đứng cách một khoảng xa, giọng nói của Orfevre vẫn vang vọng trầm lắng khắp không gian. Bầu không khí căng như dây đàn, buốt rát cả da thịt. Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "辺りが静まり返る。離れていても、オルフェーヴルの声は、\n静かに響き渡るようだった。空気がピリリとし、肌が痛む。だが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Khí phách ấy đáng khen ngợi đấy. Thú vị lắm, ta ban ân xá cho các ngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……その気概やよし。一興だ、許そう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngay khoảnh khắc đó, tôi có thể cảm nhận rõ bầu không khí xung quanh chùng xuống dịu lại. ...Chỉ bằng lời nói mà cả không gian dường như liên tục đổi sắc theo từng câu chữ.",
+      "jpname": "モノローグ",
+      "jptext": "その瞬間、空気が和らいだのがわかった。\n……言葉だけで、辺りが次々に色を変えるようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Các ngươi vừa nói đến sự thay đổi, và ước mơ nhỉ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……変化、夢、と申したな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Uy quang của ta là bất biến, sắc kim tỏa rạng quanh ta vĩnh viễn chẳng bao giờ phai mờ. ...Đó là đạo lý tất yếu của thế gian này.",
+      "jpname": "オルフェーヴル",
+      "jptext": "我が威光は不変、纏う金色が褪せることはない。\n……それが、世の摂理よ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bởi vậy cho nên. Hỡi bầy thần dân đang sống dưới sự trị vì của ta, hãy lắng tai mà nghe cho rõ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――故に。\n我が治世のもと生きる民草たちよ、聞くがいい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta sẽ bước đi trên bá đạo của riêng ta. Và chiếc vương miện chí cao ắt sẽ ngự trị trên đỉnh đầu ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余は、余の覇道を征く。\n冠は我が頭上へと降りるだろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đây chẳng phải là giấc mơ. Mà chính là lẽ tất nhiên.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これは、夢ではない。\n――必然である。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ai nấy đều chết lặng lắng nghe. Chẳng một ai dám hé nửa lời, tất cả chỉ biết chăm chú ngước nhìn vị quân vương sừng sững trước mắt.",
+      "jpname": "モノローグ",
+      "jptext": "聞き入ってしまう。誰も口を開く者はおらず、\nただ――目の前の王を見ていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mọi thứ toát ra từ em ấy đều mang sức áp đảo tuyệt đối.",
+      "jpname": "モノローグ",
+      "jptext": "――何もかもが圧倒的だった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không chỉ dừng lại ở khí chất vương giả phi phàm. Thực lực trên đường chạy của em ấy cũng vô cùng vững chắc, một khi đã bước lên thảm cỏ, em ấy toát ra một vầng hào quang khiến chẳng ai có thể đuổi kịp hay bén mảng lại gần.",
+      "jpname": "モノローグ",
+      "jptext": "カリスマ性だけじゃない。走りの実力も確かで、ひとたびターフに\n出れば、誰も追いつけない、近づけない、そんなオーラを纏う。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Tựa như muốn cướp đi mọi ánh nhìn của tất cả những ai có mặt nơi đây.",
+      "jpname": "モノローグ",
+      "jptext": "……その場にいた者すべてが、目を奪われるような。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Như bị hút hồn vào bước chạy của Orfevre, Win Variation bất giác bước lên phía trước một bước.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの走りに吸い込まれるように、\n1歩脚を前に出したウインバリアシオン。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dường như em ấy cũng chẳng thể nào rời mắt khỏi Orfevre được, thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "どうやら、彼女もオルフェーヴルから目を離せなくなっている\nようだったが……。",
+      "choice_data_list": [
+        "Win Variation?"
+      ],
+      "jpchoice_data_list": [
+        "ウインバリアシオン？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "! ...A. E-Em xin lỗi anh ạ! Để anh phải... đợi lâu mất rồi.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "！　……あ。す、すみません！\nお待たせを……して、しまって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...A ha ha. Tự dưng em lại thẫn thờ ra mất. Thật là tệ quá ạ! Em sẽ sốc lại tinh thần ngay đây!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……あはは。ボーッとしちゃいました。\nダメっすね！　気合い、入れなおします！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Win Variation vỗ mạnh vào hai má để tự lấy lại tinh thần. Rồi em ấy lập tức cất bước chạy, thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "自分の両頬を叩き、ウインバリアシオンは気合いを入れる。\nそして、すぐに走り出したのだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hộc, hà, hộc, ư...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はっ、はぁ、はっ、くっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả nhịp độ lẫn hơi thở của em ấy vừa bước sang vòng thứ hai đã bắt đầu rối loạn. Hơn nữa, khác hẳn với bước chạy hừng hực khí thế hôm nọ, lần này em ấy hoàn toàn không thể bắt nhịp được.",
+      "jpname": "モノローグ",
+      "jptext": "ペースも呼吸も、2周目に入ってすぐに乱れ始めた。\nそれに、先日見たあの気迫ある走りとは違い、乗り切れていない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hự, phù, chết tiệt... Đừng nghĩ nữa, không được nghĩ lung tung nữa...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "っ、はぁ、くそっ……考えるな、考えるな……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Không phải, mình...!! Phải tập trung, tập trung vào...!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "違うっ、あたしは……！！\nッ、集中、集中……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Trông em ấy có vẻ rất đau đớn. Đôi chân dường như chẳng thể dồn nổi chút lực nào. Dù vậy, trông cũng không giống như bị dính chấn thương. ...Chuyện này rốt cuộc là sao.",
+      "jpname": "モノローグ",
+      "jptext": "……苦しそうだ。脚に力が入っていないようにも見える。\nかと言って、ケガをしたという感じでもない。……これは。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Ư... Ư ư ư a a a...!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "く……うぅぅぅううっ……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù không phải là chấn thương nhưng nếu cơ thể có dấu hiệu bất thường thì rất nguy hiểm. Đề phòng rủi ro dù là nhỏ nhất, tôi đã yêu cầu em ấy dừng chạy.",
+      "jpname": "モノローグ",
+      "jptext": "ケガではなくとも、違和感があっては危険だ。\n万が一ということも考えて、走るのは中断してもらった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hộc, hà... Em xin, lỗi anh... Em...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はっ、はぁ……。\nすみま、せん……あたし……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...E-Em không hề muốn thế này đâu ạ! Thường ngày em không như thế này đâu ạ! Em đã rất nghiêm túc...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……こ、こんなつもりじゃ！　いつもは、こんなんじゃないんす！\nあたし、真剣に――",
+      "choice_data_list": [
+        "Chân em có thấy khó chịu chỗ nào không?"
+      ],
+      "jpchoice_data_list": [
+        "脚に違和感があったりする？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ... k-không ạ. Chân em hoàn toàn bình thường mà. Nhưng mà, sao anh lại hỏi thế ạ...?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "え……い、いえ。全然平気っす。\nでも、どうして……？",
+      "choice_data_list": [
+        "Vì trông em như đang phải cắn răng chịu đựng điều gì đó vậy."
+      ],
+      "jpchoice_data_list": [
+        "何かに耐えているように見えたから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "! Đ-Đâu có... chuyện đó không có đâu ạ! Ý em là thể lực... em vẫn còn thừa sức chạy tiếp được mà...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "！　そ、そんなっ……そんなこと、ないっす！\nえと、体力とか……まだ、全然いける感じで……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Chỉ là, dạ thì... em hơi... không thể tập trung cho tốt được. Có lẽ vì thế mà bước chạy của em trông mới kỳ lạ như vậy... Em xin lỗi anh ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ただ、その……ちょっと……上手く、集中できなくて。\nそのせいで、おかしな走りに見えたのかも……ごめんなさい。",
+      "choice_data_list": [
+        "Đúng là lúc nãy có đông phóng viên quá chừng nên..."
+      ],
+      "jpchoice_data_list": [
+        "確かに、さっきまで記者も大勢いたし――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi an ủi rằng có lẽ vừa rồi đông người quá nên em chưa kịp lấy lại bình tĩnh. Giờ thì mọi người đã về hết, xung quanh lại yên ắng. Ngay cả cô gái vừa là tâm điểm phỏng vấn kia cũng không còn ở đây.",
+      "jpname": "モノローグ",
+      "jptext": "落ち着かなかったのかもしれないね、と声をかける。\n今はみな帰り、辺りは静かだ。取材対象であった、彼女もいない。",
+      "choice_data_list": [
+        "Orfevre cũng đã về rồ..."
+      ],
+      "jpchoice_data_list": [
+        "オルフェーヴルも、帰っ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hắn ta chẳng liên quan gì hết!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あいつは関係ない！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...A...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……あ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...D-Dạ thì... E-Em... em...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……え、と……。\nあ、あたし……あたしは……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Em xin lỗi anh ạ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……っ、すみません……！",
+      "choice_data_list": [
+        "Win Variation!?"
+      ],
+      "jpchoice_data_list": [
+        "ウインバリアシオン！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy cúi gập đầu rồi chạy vụt đi. Ngay trước khoảnh khắc ấy, tôi đã nhìn thấy gương mặt chực khóc của em. Biểu cảm ấy trông đau đớn và cay đắng đến mức tôi tuyệt đối không thể nào bỏ mặc em được.",
+      "jpname": "モノローグ",
+      "jptext": "頭を下げて、走り去る。寸前、泣きそうな顔が見えた。その表情は、\nあまりにも、つらそうで……とても、放ってはおけなかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

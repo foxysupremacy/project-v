@@ -1,0 +1,447 @@
+{
+  "title": "Thiên nga là ai?",
+  "jptitle": "白鳥は誰？",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Shion thuở nhỏ",
+      "text": "Oa a a a...! Tuyệt quá, cha tuyệt vời quá đi mất! Cứ như thể cha thực sự mọc đôi cánh và bay lượn trên không trung vậy...!",
+      "jpname": "幼いシオン",
+      "jptext": "わぁあああ……！　すごい、父さんすごい！\nホントに、はねがついてるみたいに、とんでた……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Shion thuở nhỏ",
+      "text": "Bao nhiêu là tràng pháo tay... Mọi người ai cũng đang ngước nhìn cha... Họ đều nói là không thể nào rời mắt khỏi cha được...",
+      "jpname": "幼いシオン",
+      "jptext": "はくしゅ、たくさん……みんなが、父さんを見てる……\n……目がはなせないって、言ってる……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Đã là nhân vật chính thì phải như thế đấy con ạ... Không thể khác được. Trách nhiệm vô cùng to lớn, và chỉ dựa vào sự giác ngộ hay nỗ lực thôi thì không thể nào ngồi vào vị trí ấy được đâu.",
+      "jpname": "シオンの父親",
+      "jptext": "主役とは、そういうものなんだよ。……そうでなくちゃいけない。\n責任も大きく、覚悟や努力だけじゃ、その席にはつけない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Tài năng, may mắn, nhạc cảm và khiếu thẩm mỹ... đôi khi cần có tất cả mọi thứ. Đó chẳng phải là đích đến mà một mình con có thể thong dong hướng tới đâu.",
+      "jpname": "シオンの父親",
+      "jptext": "才能、運、センス……あらゆるものが必要な時もある。\n自分1人で、のんびりと目指せるものではないからね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Phải đấy. Cha cũng có một đối thủ của riêng mình. Cậu ấy vừa là đồng đội, vừa là bạn bè... lại vừa là người mà cha tuyệt đối không bao giờ muốn chịu thua.",
+      "jpname": "シオンの父親",
+      "jptext": "そう。父さんにはライバルがいるんだ。彼は仲間であり、\n友人で……絶対に負けたくない相手でね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Chính nhờ có cậu ấy mà cha mới dốc hết sức lực, mới có thể chạm tới được. Tiến thẳng một mạch về phía nơi ấy.",
+      "jpname": "シオンの父親",
+      "jptext": "彼がいたからこそ、力を出せた。辿り着けた。\n真っ直ぐ、そこへと向かって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Trở thành một sự tồn tại tuyệt mỹ và rực rỡ nhất. Đứng ở vị trí nhân vật chính.",
+      "jpname": "シオンの父親",
+      "jptext": "美しく、最も輝かしい存在。\n――主役に。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Shion",
+      "text": "Để giành được vị trí ấy, con cần phải có một sức mạnh đủ sức mê hoặc và áp đảo tất cả những ai dõi theo mình.",
+      "jpname": "シオンの父親",
+      "jptext": "その座を手に入れるには、見たもの全てを魅了し、\n凌駕するような……そんな力が必要なんだよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Shion thuở nhỏ",
+      "text": "...Cha ơi! Con... con cũng muốn trở thành như thế!! Con cũng muốn giống như cha, một ngày nào đó sẽ được tất cả mọi người dõi theo...!",
+      "jpname": "幼いシオン",
+      "jptext": "……っ、父さん！　あたしも……あたしも、なりたい！！\n父さんみたいに、いつか、みんなに見てもらえるような――！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Mình không thể nào biểu đạt trọn vẹn được... chẳng ra đâu vào đâu cả... Dù đã luyện tập bao nhiêu lần đi nữa, mình vẫn không cảm thấy có chút tiến bộ nào...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "表現しきれない……ちっとも上手くいかない……。\n何度も練習しているのに、変わった気もしない……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dù đã được cả cha lẫn mẹ chỉ dạy rất nhiều... Mình theo học múa ballet suốt bấy lâu nay, nhưng... liệu mình có thực sự không có khiếu sao...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "父さんや母さんから、たくさん教わっているのに……。\nバレエ、ずっと続けてきたけど……センス、ないのかな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Nhưng mà... mình không muốn từ bỏ. Mình cũng muốn trở nên giống như cha mà mình từng thấy ngày ấy...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "でも……諦めたくないっ。\nあの日見た、父さんのように、あたしも……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Vào ngày thơ ấu ấy, sau khi nghe những lời cha nói, em đã xác định được ước mơ của đời mình. Đó là trở thành nhân vật chính cướp lấy mọi ánh nhìn của bao người.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――幼かったあの日、父さんの話を聞いて、あたしは夢を決めた。\n多くの人の目を奪うような、主役になるんだって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dẫu vậy, vào lúc em tưởng như sắp sửa phải buông xuôi ước mơ ấy... thì em đã tìm thấy nó. Sân khấu rực rỡ kia.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "それでも、夢を諦めそうになっていた時……見つけたんだ。\nあの、舞台を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Mọi ánh nhìn, mọi tiếng reo hò đều dồn về người về đích đầu tiên... Đây chính là đua ngựa sao...?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "1着に注がれる視線、歓声……。\nこれが、レース……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Tuyệt vời quá... tuyệt quá đi mất! Sôi sục đến cháy bỏng cả người ạ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "すごい……すごい！\nめちゃくちゃ熱いっす……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Đôi chân mình đang run lên... Mình muốn chạy thử... ở ngay trên đường đua đó...! Rồi sau đó, sau đó... sẽ giành lấy vị trí thứ nhất trong cuộc đua...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "脚が、震える……走って、みたい……あそこで……！\nそれで、それで……レースで、1着をとって……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Để trở thành nhân vật chính...!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――主役に……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Mình đã từng nghĩ như thế, nhưng mà.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……そう、思っていたけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Quả nhiên thành tích thời gian vẫn chẳng suy chuyển chút nào. Không còn thấy được bất kỳ sự tiến bộ nào nữa...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……やっぱり、タイムが変わらない。\n変化が、見えなくなってる……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "(Hồi mới bắt đầu chạy, hễ mình bỏ công sức bao nhiêu là thấy ngay kết quả bấy nhiêu, vậy mà giờ đây...)",
+      "jpname": "ウインバリアシオン",
+      "jptext": "（走り始めた頃は、やればやるだけ成果も目に見えていたのに……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Ừm. Có lẽ mình cần phải tìm tòi đổi mới phương pháp tập luyện hơn nữa. Cứ lặp đi lặp lại mãi một bài tập cũ rích thì sao mà được chứ ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……うん。もう少しトレーニングも工夫が必要なのかも。\n同じことばっかりじゃ、ダメっすよね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Mình phải làm thật nhiều điều trong khả năng của bản thân mới được. Nếu không thì...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "自分にできること、もっといっぱいやっていかないと。\nじゃないと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dù có qua bao lâu đi nữa... mình cũng chẳng thể nào thắng được tên đó...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "いつまで経っても……あいつに……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Phù...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……――ふー……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Được rồi! Vẫn còn nhiều bài tập mình chưa thử qua mà, đâu thể ngồi yên một chỗ mãi được ạ! Phải nỗ lực, nỗ lực hơn nữa!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……よし！　まだ試してないトレーニングもあるし、\nじっとしてらんないっすね！　努力、努力！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vài ngày đã trôi qua kể từ khi tôi bắt đầu tìm kiếm một Uma Musume để chiêu mộ. Hôm nay cũng như mọi ngày, khi đang chăm chú quan sát bước chạy của nhiều Uma Musume khác nhau thì...",
+      "jpname": "モノローグ",
+      "jptext": "スカウトするウマ娘を探し始めて、数日が経った。\n今日も今日とて、様々なウマ娘の走りを見ていると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ phía sân tập vang lên một tiếng hét đầy nội lực. Khi tôi hướng mắt về phía đó, bóng dáng của một Uma Musume đang dốc toàn lực chạy thục mạng xuất hiện...",
+      "jpname": "モノローグ",
+      "jptext": "トレーニング場から、力の入った声がした。\nそちらに視線を向けると、懸命に走る1人のウマ娘の姿が……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hộc, hộc, hộc! ...Vẫn chưa xong đâu...! Không được lơ là cho tới giây phút cuối cùng...!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はっ、はっ、はっ！\n……まだまだぁ……！　最後まで気を抜くな……！！",
+      "choice_data_list": [
+        "...Quả là một khí thế ngút trời."
+      ],
+      "jpchoice_data_list": [
+        "……気迫を感じるな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dĩ nhiên, chuyện nỗ lực hết mình chẳng phải là điều chỉ riêng em mới có, thế nhưng dáng vẻ ấy lại để lại ấn tượng kỳ lạ trong tôi.",
+      "jpname": "モノローグ",
+      "jptext": "無論、それは彼女に限ったことではなかったが、妙に印象に残る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bước chạy không buồn lau giọt mồ hôi, liều mạng và kiên định chỉ hướng về phía trước ấy, thực sự quá đỗi...",
+      "jpname": "モノローグ",
+      "jptext": "汗を拭うこともしない、必死で、一途に前へと進もうとする走りが、\nあまりにも――",
+      "choice_data_list": [
+        "...Cố lên!"
+      ],
+      "jpchoice_data_list": [
+        "……頑張れ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "!?",
+      "jpname": "ウインバリアシオン",
+      "jptext": "！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó là lời động viên bất giác thốt ra từ miệng tôi. Dường như em cũng đã nhận ra. Thoáng chút ngạc nhiên tròn xoe đôi mắt, thế rồi...",
+      "jpname": "モノローグ",
+      "jptext": "思わず口をついて出た言葉。彼女も気づいたようだ。\n一瞬、目を丸くしたかと思うと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Vâng ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……っ、はい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em lập tức hướng ánh mắt về phía trước rồi tiếp tục guồng chân chạy.",
+      "jpname": "モノローグ",
+      "jptext": "すぐにまた、視線を前へと向け走り出した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Em tên là Win Variation ạ! Dạ thì, em rất cảm ơn anh vì đã cổ vũ cho em lúc nãy!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あたし、ウインバリアシオンっていいます！\nあのっ、さっきは応援してくださって、ありがとうございました！",
+      "choice_data_list": [
+        "Đột nhiên gọi với theo làm phiền em, tôi xin lỗi nhé."
+      ],
+      "jpchoice_data_list": [
+        "いきなり、声かけてごめん"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Đâu có sao đâu ạ! Lời cổ vũ của anh... đã tiếp thêm cho em rất nhiều động lực đấy ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "とんでもないっす！　すごく……励みになったっすよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Bản thân em vốn không được khéo léo cho lắm, hễ đã tập trung vào việc chạy là trong đầu em chẳng còn nghĩ được gì khác nữa...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あたし、そこまで器用でもないし、走ることに集中しちゃうと、\nそれしか考えられなくなったりもするんで……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thế nên ngày nào em cũng luyện tập từ những thứ căn bản nhất như kiểm tra tư thế, để nhắc nhở bản thân không bao giờ được quên nền tảng ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "毎日、姿勢の確認とか、基礎的なところからトレーニングして、\n基本を忘れないようにもしてるんすよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Nghe anh cổ vũ làm em có cảm giác những nỗ lực ấy đã được đền đáp vậy. ...Hì hì. Thật may là em đã lên tinh thần chạy hết mình ạ.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "そういうのが報われる気持ちになったっていうか。\n……へへ。気合い入れて走って、よかったっす。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Tự dưng em thấy tràn đầy nhiệt huyết trở lại rồi ạ. Nghỉ thêm một chút nữa là em sẽ lại lao vào tập luyện tiếp! Càng ngày càng tiến gần hơn tới ước mơ...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "なんか、やる気が出てきましたっ。もう少し休んだら、\nまたトレーニングっす！　もっともっと、夢に向かって――",
+      "choice_data_list": [
+        "Ước mơ của em sao?",
+        "Ước mơ của em là gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "君の夢？",
+        "貴方の夢？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Dạ, đúng rồi ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あっ、はい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Em muốn được trở nên giống như cha của mình ạ. Người đã tắm mình dưới ánh đèn sân khấu giữa những tràng pháo tay và tiếng reo hò không ngớt...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……あたし、父さんみたいになりたいんす。\n鳴りやまない拍手と歓声の中、ライトを浴び続けた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Giống như cha, người đã đứng ở vị trí nhân vật chính rực rỡ nhất.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "――主役となった、父さんのように。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Principal. Nếu tôi nhớ không lầm... đó là thuật ngữ được dùng trong múa ballet thì phải? Ra là vậy. Dẫu sân khấu có khác nhau, nhưng em lại khao khát trở thành nhân vật chính trên đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "プリンシパル。確か……バレエで使われる言葉だっただろうか？\nなるほど。舞台は違えど、彼女はレースで主役を目指したいのか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bước chạy của kẻ luôn khao khát vị trí nhân vật chính... Tôi ngày càng cảm thấy hứng thú với những sải bước của Win Variation.",
+      "jpname": "モノローグ",
+      "jptext": "主役を目指す者の走り……\nウインバリアシオンの走りに、ますます興味がわいてきた。",
+      "choice_data_list": [
+        "Lần tới em lại cho tôi xem em chạy nữa được không?"
+      ],
+      "jpchoice_data_list": [
+        "今度また、走りを見せてもらってもいい？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "! D-Dạ được chứ ạ! Đương nhiên là được rồi ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "！　は、はい！　もちろんっす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Oa... Oa a a...",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……っ。うわぁ……うわぁあ……。",
+      "choice_data_list": [
+        "Win Variation?"
+      ],
+      "jpchoice_data_list": [
+        "ウインバリアシオン？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "A ha. Tuyệt quá, tuyệt vời quá đi mất...! Được anh ngỏ lời bắt chuyện, em vui lắm luôn ạ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "あはっ。やった、やったぁ……！\n声かけてもらえて、嬉しいっす……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Win Variation",
+      "text": "Em cảm ơn anh nhiều lắm! Để có thể mang đến những sải bước tuyệt vời nhất, em sẽ cố gắng hết mình luôn ạ!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ありがとうございます！\nいい走りができるように、めちゃくちゃ頑張ります！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Win Variation nhìn tôi với ánh mắt ngập tràn hy vọng. Nghĩ đến việc sẽ lại được chứng kiến những bước chạy của em, lòng tôi đã bắt đầu thấy háo hức khôn xiết.",
+      "jpname": "モノローグ",
+      "jptext": "希望に満ちた目のウインバリアシオン。\n彼女の走りをまた見られるのかと思うと、今から楽しみだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
