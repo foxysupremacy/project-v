@@ -1,0 +1,441 @@
+{
+  "title": "Bên Cạnh \"Át Chủ Bài\"",
+  "jptitle": "『エース』の隣",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đợt trại huấn luyện mùa hè. Chỗ dựa tinh thần quý giá giữa những giờ luyện tập gian khổ chính là đồ ăn vặt tại các quầy hàng rong trong lúc rảnh rỗi.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿。厳しいトレーニング中の支えといえば、\n隙間時間に食べる屋台飯である。",
+      "choice_data_list": [
+        "Dưa chuột ướp lạnh này ngon tuyệt!"
+      ],
+      "jpchoice_data_list": [
+        "この冷やしキュウリ、美味しい！"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Rau củ ở quầy này món nào món nấy đều ngon lành cành đào ghê á. Vị đậm đà mà quả nào cũng tròn trịa đẹp mắt!",
+      "jpname": "カツラギエース",
+      "jptext": "この屋台の野菜、みんなうまいよな～。\n味が濃くて、形もいい！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Khà khà khà! Cảm ơn hai đứa đã ăn ngon lành thế nhé! Đúng là bõ công chú mày còng lưng thu hoạch.",
+      "jpname": "地元のおじさん",
+      "jptext": "ガハハハ！　うまそうに食ってくれてありがとよ！\n頑張って収穫したかいがあったぜ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ủa! Chú tự tay trồng mớ rau củ này đấy ạ?! Đỉnh quá chú ơi!!",
+      "jpname": "カツラギエース",
+      "jptext": "えっ！　これおじさんが作ってるんすか！？\nすげぇ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Chứ còn gì nữa! Trông mướt mắt lắm đúng không? Chú mày đây tự hào về khoản trồng trọt lắm đó! Khà khà khà!",
+      "jpname": "地元のおじさん",
+      "jptext": "おうよ！　なかなかいい出来だろ？\n我ながら野菜作りには自信あんだよ！　ガハハハ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng rõ mảnh vườn của chú ấy như thế nào nhỉ. Với tư cách một tay mơ mới tập tành làm nông, sự tò mò trỗi dậy khiến tôi bất giác buột miệng hỏi.",
+      "jpname": "モノローグ",
+      "jptext": "一体どんな畑を作っているのだろう。\n畑ビギナーなりに興味が湧き、気づけば口が動いていた。",
+      "choice_data_list": [
+        "Dạ chú ơi! Lát nữa chú cho chúng cháu ghé xem ruộng được không ạ?"
+      ],
+      "jpchoice_data_list": [
+        "あの！あとで畑を見せてもらえませんか？"
+      ]
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Hả?",
+      "jpname": "地元のおじさん",
+      "jptext": "へっ？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vô số luống cày ngay ngắn thẳng tắp cùng bù nhìn rơm tự tay làm. Đối với một người vừa nhen nhóm đam mê làm vườn, khung cảnh trước mắt quả thật khiến lòng tôi rạo rực.",
+      "jpname": "モノローグ",
+      "jptext": "綺麗に整備されたたくさんの畝に、手作りのかかし。\n野菜作りに興味が湧いてきた身としては、心躍る風景が広がる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ồ, cái giàn đuổi chim này trông xịn sò ghê! ...Chú ơi! Món này tụi cháu tự làm được không chú?",
+      "jpname": "カツラギエース",
+      "jptext": "おっ、この鳥よけ、スゲーいいな！\n……おじさん！　これって、あたしたちにも作れます？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Dễ ợt ấy mà! ...Cơ mà chú thật chẳng ngờ nổi học viên của Học viện Tracen lừng lẫy thiên hạ lại có sở thích làm ruộng đấy...",
+      "jpname": "地元のおじさん",
+      "jptext": "おうよ！　……それにしても、まさか\n天下のトレセン学園生が趣味で畑をしてるなんてなぁ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Tuy vườn của tụi cháu nhỏ hơn ở đây một chút thôi! Nhưng về độ ngon thì tụi cháu tự tin lắm đó! Đúng không nè, Trainer-san!",
+      "jpname": "カツラギエース",
+      "jptext": "ここよりもうひと回りちいさいっすけどね！\nでも、味には自信あるっす！　な、トレーナーさん！",
+      "choice_data_list": [
+        "Nhất là món cà chua đấy nhé!",
+        "Nhất là món cà chua đấy nha!"
+      ],
+      "jpchoice_data_list": [
+        "トマトは特にな！",
+        "トマトは特にね！"
+      ]
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Chà chà! ...Nhưng cà chua nhà này chú cũng kỳ công chăm sóc dữ lắm đấy! Lại đây ngó thử coi sao?",
+      "jpname": "地元のおじさん",
+      "jptext": "へぇ～！　……けど、ウチもトマトには\nちょっとこだわってんだ！　見ていくか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chúng tôi trao đổi rất nhiều kinh nghiệm với chú, và hẹn sáng mai sẽ tới phụ giúp chú một tay thu hoạch.",
+      "jpname": "モノローグ",
+      "jptext": "その後も、おじさんとたくさん意見を交換し合い、\n明日の朝、収穫を手伝わせてもらう約束をした。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "――だが。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Cơn bão bắt đầu mạnh dần lên rồi. Tình hình sơ tán sao rồi cậu?",
+      "jpname": "カツラギエース",
+      "jptext": "……嵐、強くなってきたな。\n避難とか、どうだって？",
+      "choice_data_list": [
+        "Tạm thời vẫn ổn cả."
+      ],
+      "jpchoice_data_list": [
+        "今のところは大丈夫みたい"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Vậy hả. Thế thì tốt rồi. ............",
+      "jpname": "カツラギエース",
+      "jptext": "そっか。ならよかった。\n…………。",
+      "choice_data_list": [
+        "...Mảnh ruộng đằng kia đáng lo thật đấy.",
+        "...Mảnh ruộng đằng kia đáng lo ghê ha."
+      ],
+      "jpchoice_data_list": [
+        "……あの畑、心配だな",
+        "……あの畑、心配だね"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ừm... nhưng nước này thì đành chịu chết chờ thôi. Trời bão bùng thế này mà mò ra đồng là đại kỵ đấy.",
+      "jpname": "カツラギエース",
+      "jptext": "ん……でも、こればっかりは待つしかねぇ。\nこういう時に畑を見に行くのはご法度だからな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Dự báo bảo sáng mai bão tan rồi, lúc đó mình phi ra xem ngay nhé. Đã hứa với chú ấy rồi mà!",
+      "jpname": "カツラギエース",
+      "jptext": "予報だと朝には上がるらしいからさ、\nそしたらすぐ見に行こう。約束もしたしな！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Cháu chào chú buổi sáng ạ... Đêm qua giông bão khủng khiếp quá chú nhỉ.",
+      "jpname": "カツラギエース",
+      "jptext": "おはようございます……昨日は大変でしたね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "...Ừ. Hai đứa tới rồi đấy à. Như hai đứa thấy đấy. Toàn bộ tiêu tùng hết sạch rồi.",
+      "jpname": "地元のおじさん",
+      "jptext": "……ああ。あんたたち、来てくれたのか。\n見ての通りだ。みーんな、ダメんなっちまった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Mẹ thiên nhiên đúng là đáng sợ thật đấy! Sức người làm sao mà đọ lại được chứ! Ha ha ha...",
+      "jpname": "地元のおじさん",
+      "jptext": "自然ってーのは、やっぱ恐ろしいな！\n人間にゃ敵わんわ！　ハハハ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Đúng thật chú ha...",
+      "jpname": "カツラギエース",
+      "jptext": "そうっすね……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Nhưng ngồi ủ rũ ỉ ôi cũng đâu giải quyết được gì đâu ạ. Nào! Giờ chúng ta bắt tay dọn dẹp từ cái gì trước đây chú!",
+      "jpname": "カツラギエース",
+      "jptext": "けど、クヨクヨしてても始まんねえ――\nよし！　じゃあ何から片付けましょうか！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "...Hả?",
+      "jpname": "地元のおじさん",
+      "jptext": "……は？",
+      "choice_data_list": [
+        "Trước tiên phải khơi thông nước ngập trong ruộng đã nhỉ?",
+        "Trước tiên phải tháo nước ứ đọng trong ruộng đã ha?"
+      ],
+      "jpchoice_data_list": [
+        "まずは畑の水を排水しなきゃだよな？",
+        "まずは畑の水を排水しなきゃだよね？"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...!",
+      "jpname": "カツラギエース",
+      "jptext": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Chuẩn bài luôn! Cơ mà chắc rác đang nghẹt cứng dưới rãnh thoát nước rồi, phải vớt sạch rác trước đã...",
+      "jpname": "カツラギエース",
+      "jptext": "正解！　けど、たぶん排水路にゴミ詰まってっから、\n先にそれ取らねぇと……。",
+      "choice_data_list": [
+        "Tôi sẽ chạy về khu trại mượn dụng cụ cần thiết nhé!"
+      ],
+      "jpchoice_data_list": [
+        "必要そうな物、合宿所で借りてくるよ！"
+      ]
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "K-Khoan đã nào hai đứa! Tụi cháu nói nghiêm túc đấy à? Ruộng nát bét thế này rồi làm sao mà khôi phục lại được chứ...",
+      "jpname": "地元のおじさん",
+      "jptext": "ちょ、ちょっと待ってくれ！　あんたら本気か？\nこんな状態になった畑、元に戻せるわけが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Vậy chú định chịu thua buông xuôi luôn ạ?",
+      "jpname": "カツラギエース",
+      "jptext": "じゃあ、諦めるっすか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Cái gì chứ! ...Đời nào chú mày muốn bỏ cuộc dễ dàng thế! Nhưng mà, khổ nỗi...",
+      "jpname": "地元のおじさん",
+      "jptext": "なっ！　……そりゃあ俺だって諦めたくはねぇよ！\nけど、だけど――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Nếu vậy thì chẳng có gì phải sợ hãi hay chùn bước cả! Đã có con đường mình muốn đi rồi thì cứ thế mà thẳng tiến thôi ạ...",
+      "jpname": "カツラギエース",
+      "jptext": "なら、臆することは何もないですよ！\n目指す道があんなら、あとは進むだけ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Ba cái tai ương cỏn con này, chú cháu mình cùng nhau san phẳng nó đi! Rồi sang năm, chú lại cho tụi cháu thưởng thức rau củ thơm ngon nhé!",
+      "jpname": "カツラギエース",
+      "jptext": "こんぐらいの災難、ぶち破ってやりましょうよ！\nんで来年、またうまい野菜食わせてください！",
+      "choice_data_list": [
+        "Chúng ta hãy cùng nhau làm cho ra ngô ra khoai nào!"
+      ],
+      "jpchoice_data_list": [
+        "一緒にやってやりましょう！"
+      ]
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "H-Hai đứa tụi cháu... hức... Khốn khiếp thật chứ! Bị tụi nhỏ nói cho như thế thì máu nóng trong người làm sao mà nguội cho nổi!",
+      "jpname": "地元のおじさん",
+      "jptext": "あ、あんたたち……グズッ――くそったれ！\nそんなこと言われちまったら、燃えちまうじゃねぇか！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người chú ở quê",
+      "text": "Được rồi, làm thì làm! Đằng nào chú cũng đang muốn cải tạo lại thổ nhưỡng từ gốc! Nhân dịp này, chú đập đi xây lại cho xịn sò hơn gấp bội luôn!",
+      "jpname": "地元のおじさん",
+      "jptext": "よし、やってやる！　ちょうど土壌から見直したかったんだ！\nこの際、全部壊してパワーアップしてやる！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Mừng ghê ta, cuối cùng cũng đâu vào đấy cả rồi! Chú ấy từ lúc thông suốt tư tưởng là làm hăng say vui vẻ ra mặt luôn.",
+      "jpname": "カツラギエース",
+      "jptext": "よかったな～、何とかなって！\nおじさん、途中から完全に吹っ切れて楽しんでたし。",
+      "choice_data_list": [
+        "Nói gì thì nói tôi cũng thấy vui lắm đấy.",
+        "Nói gì thì nói tôi cũng thấy vui ghê luôn."
+      ],
+      "jpchoice_data_list": [
+        "俺もなんだかんだ楽しかったな",
+        "私もなんだかんだ楽しかったな"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Haha! Trainer-san dạo này cũng lực lưỡng cứng cỏi ghê ta. Hồi đầu thấy con sâu còn ngã dập mông cơ mà.",
+      "jpname": "カツラギエース",
+      "jptext": "ハハ！　トレーナーさんも随分逞しくなっちまったな～。\n最初は虫に尻もちついてたのにさ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Cơ mà bảo là \"thấy vui\" hả. ...Giá mà ngày hôm ấy cũng có Trainer-san ở bên, chắc tôi cũng thấy vui được như thế này nhỉ.",
+      "jpname": "カツラギエース",
+      "jptext": "にしても『楽しかった』、か。\n……あの日もトレーナーさんがいたら、楽しめたんだろうな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Hồi trước khi gặp Trainer-san, từng có một ngày mưa như trút nước kinh hoàng lắm.",
+      "jpname": "カツラギエース",
+      "jptext": "まだトレーナーさんに会うより前にさ、\nとんでもない豪雨の日があったんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Cũng như lần này, sáng bảnh mắt tôi chạy ra xem ruộng, y như rằng khắp nơi tan hoang bùn lầy nhão nhoét...",
+      "jpname": "カツラギエース",
+      "jptext": "今回みたいに朝になってから畑行ってみたら、\n案の定あちこちグチャグチャでさ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Đó là lần đầu tiên tôi phải chứng kiến cảnh tượng luống ruộng tan hoang như thế một mình. Bởi trước đây lúc nào cũng có gia đình ở bên.",
+      "jpname": "カツラギエース",
+      "jptext": "初めてだったんだ、そんな状態になった畑を1人で見たの。\nいつもは家族と一緒だったからよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Chẳng có ngày nào mà tôi lại thèm quay về quê cồn cào như cái ngày hôm đó.",
+      "jpname": "カツラギエース",
+      "jptext": "あん時ほど、向こうに帰りたくなった日はなかったな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Nếu có mọi người ở bên, thì đã có thể cùng nhau la lên \"Toang rồi\", cùng lấm lem bùn đất mà cười đùa được rồi...",
+      "jpname": "カツラギエース",
+      "jptext": "みんながいたら、やべーとか言い合えたのに。\n一緒にドロドロになりながら、笑えたのにってさ。",
+      "choice_data_list": [
+        "Ace..."
+      ],
+      "jpchoice_data_list": [
+        "エース……"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Nhưng mà! Tôi nghĩ những ngày thui thủi như thế chắc sẽ không bao giờ lặp lại nữa đâu.",
+      "jpname": "カツラギエース",
+      "jptext": "……けど！\n多分そんな日はもうこねぇと思う。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "(Bởi vì...)",
+      "jpname": "カツラギエース",
+      "jptext": "（――なんたって）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Bởi vì dù sao đi chăng nữa... bên cạnh tôi đã có Trainer-san rồi mà!",
+      "jpname": "カツラギエース",
+      "jptext": "なんてったって――\nあたしには、トレーナーさんがいるもんな！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Katsuragi Ace nở nụ cười đầy tinh nghịch. Đôi mắt nhìn thẳng vào tôi lúc này đã chẳng còn vương chút u ám như trước nữa.",
+      "jpname": "モノローグ",
+      "jptext": "悪戯に笑うカツラギエース。\nまっすぐこちらを見るその目には、以前のような翳りはない。",
+      "choice_data_list": [
+        "Đương nhiên rồi!... Hãy chiêm ngưỡng cơ bắp cuồn cuộn này đi!",
+        "Đương nhiên rồi!... Nhìn cơ bắp rắn chắc này xem!"
+      ],
+      "jpchoice_data_list": [
+        "もちろんだ！……見よこの力こぶを！",
+        "もちろん！……見よこの力こぶを！"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Hửm... Có cơ bắp tí nào đâu cà? Rõ ràng là tay tôi còn săn chắc hơn...",
+      "jpname": "カツラギエース",
+      "jptext": "ん～……力こぶ、あるかぁ？\n普通にあたしのほうがあるような――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Phụt, nhìn cái mặt cay cú chưa kìa! Hức hức... A ha ha ha ha!!",
+      "jpname": "カツラギエース",
+      "jptext": "ぷっ、すっげー悔しそうな顔！\nくくくっ……あははははっ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị tiếng cười của Katsuragi Ace cuốn theo, tôi cũng bất giác bật cười. Chắc nhờ thế mà tâm trạng thả lỏng hẳn ra, một cơn buồn ngủ dữ dội bỗng ập đến.",
+      "jpname": "モノローグ",
+      "jptext": "カツラギエースの笑い声につられて、自分も笑う。\nそれで気が抜けたのか、猛烈に眠たくなってきた。",
+      "choice_data_list": [
+        "Oáp a a..."
+      ],
+      "jpchoice_data_list": [
+        "ふわぁ～～"
+      ]
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "...Oáp a a a. Hì hì, cái ngáp của Trainer-san lây sang tôi mất rồi.",
+      "jpname": "カツラギエース",
+      "jptext": "……ふわぁ～～。\nふふ、トレーナーさんのあくび、移ったわ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Katsuragi Ace",
+      "text": "Thư thả nghỉ ngơi thêm một chút nữa vậy... Ánh nắng cũng ấm áp chan hòa thế này nữa...",
+      "jpname": "カツラギエース",
+      "jptext": "もうちょっとだけ、のんびりするかぁ……。\n日当たりもいいしよ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bạn cùng lớp của Ace A",
+      "text": "Oa! Ace với Trainer-san đang tựa vào nhau ngủ kìa? Ôi trời, trông cứ như phim thanh xuân vườn trường ấy nha!",
+      "jpname": "エースの同級生A",
+      "jptext": "わぁ！　エースとトレーナーさん、\n互いにもたれて寝てない？　え～アオハルドラマみた～い♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bạn cùng lớp của Ace B",
+      "text": "Thật luôn kìa, thân thiết ghê á. Chụp lại bức ảnh lát đem cho hai người xem mới được.",
+      "jpname": "エースの同級生B",
+      "jptext": "マジじゃん、仲よ～。\n写真撮ってあとで本人に見せるべ。",
+      "choice_data_list": []
+    }
+  ]
+}
