@@ -1,0 +1,247 @@
+{
+  "title": "Trời Xanh, Tĩnh Lặng, Và Nhà Đạo Diễn",
+  "jptitle": "晴天と、静寂と、演出家",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đang rảo bước trong học viện, tôi bắt gặp bóng hình quen thuộc. ...Đáng lẽ giờ này đang trong tiết học mới phải chứ...",
+      "jpname": "モノローグ",
+      "jptext": "学園を歩いていると、見慣れた姿を見かけた。\n……今は授業中のはずだが……。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Chào, là cậu à. Khéo gặp thật đấy.",
+      "jpname": "ミスターシービー",
+      "jptext": "やあ、キミか。\n奇遇だね。",
+      "choice_data_list": [
+        "Cậu đang làm gì ở đây thế...?",
+        "Em đang làm gì ở đây thế...?"
+      ],
+      "jpchoice_data_list": [
+        "何してるんだ……？",
+        "何してるの……？"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Mình đang học tiết luyện thanh đấy. Nhưng ở trong lớp học thì tâm trạng cứ cụt hứng thế nào ấy.",
+      "jpname": "ミスターシービー",
+      "jptext": "歌唱レッスンだよ。\nだけど、教室の中はどうも気乗りしなくて。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Mình xin phép giáo viên rồi đi tìm một chỗ luyện tập lý tưởng hơn này.",
+      "jpname": "ミスターシービー",
+      "jptext": "先生に許可もらって、\nいい感じのレッスン場所を探してるんだ。"
+    },
+    {
+      "name": "",
+      "text": "Mr. C.B. luôn sống thật với lòng mình. Không biết nơi có thể khiến tâm trạng cô ấy thăng hoa sẽ là một nơi như thế nào nhỉ...",
+      "jpname": "モノローグ",
+      "jptext": "常に自分に正直なミスターシービー。彼女の気分が上がる\nという場所とは、どんなところなのだろう……。",
+      "choice_data_list": [
+        "Tôi có thể đi tìm chỗ cùng cậu được không?"
+      ],
+      "jpchoice_data_list": [
+        "場所探し、ついていってもいい？"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Cũng được thôi... nhưng cậu lại hứng thú với những điều kỳ quặc ghê nhỉ?",
+      "jpname": "ミスターシービー",
+      "jptext": "別にいいけど……変なところに興味持つね？"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Cắt ngang làn gió và lao vút đi♪ Nhịp đập con tim chẳng thể ngừng lại♪",
+      "jpname": "ミスターシービー",
+      "jptext": "風を切って駆け出す～♪\nもうコドウ止まーらなーい♪",
+      "choice_data_list": [
+        "Giọng cậu vang xa ghê đó",
+        "Giọng em vang xa thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "声がよく響いて聞こえるな",
+        "声がよく響いて聞こえるね"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ừm, hát trong không gian rộng lớn thế này khoan khoái thật đấy, nhưng mà...",
+      "jpname": "ミスターシービー",
+      "jptext": "うん、広い空間で歌うのは気持ちがいい、けど……。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hửm, hình như không phải ở đây rồi!",
+      "jpname": "ミスターシービー",
+      "jptext": "ん、ここじゃないかな！"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Ưm, chỗ này cũng không hợp rồi. Tâm trạng chẳng khác gì so với hát trong phòng học cả.",
+      "jpname": "ミスターシービー",
+      "jptext": "……う～ん、ここも違うかな。\n教室で歌うのと気分が変わらない。",
+      "choice_data_list": [
+        "Sân khấu biểu diễn thật cũng không được sao?"
+      ],
+      "jpchoice_data_list": [
+        "本物のステージもダメ？"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Cậu hỏi thế thì khó cho mình quá. Ngay cả bản thân mình cũng chưa rõ nữa là.",
+      "jpname": "ミスターシービー",
+      "jptext": "聞かれると困っちゃうなぁ。\n自分でもよくわかってないから。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Chỉ là phải cảm giác hơn thế này nữa... ưm! Thôi kệ đi. Chúng ta tìm chỗ tiếp theo nào!",
+      "jpname": "ミスターシービー",
+      "jptext": "ただ、もっとこう……うーん！\nまあ、いいや。次に行こう！"
+    },
+    {
+      "name": "",
+      "text": "Điều cô ấy tìm kiếm mơ hồ đến mức ấy sao... Không thể tưởng tượng nổi trong đầu cô ấy đang nghĩ gì, tôi chỉ biết lẽo đẽo đi theo sau.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が求めているのはそれほどに不確定なものなのか……\n頭の中を想像できない自分は、ついていくことしかできなかった。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ưm, làn gió mát lành dễ chịu thật đấy.",
+      "jpname": "ミスターシービー",
+      "jptext": "ん～、風が気持ちいい。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Với lại... ừm, cả khung cảnh này nữa!",
+      "jpname": "ミスターシービー",
+      "jptext": "それに……うん、この景色！"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Khao khát bứt phá lướt đi cùng tốc độ ánh sáng...",
+      "jpname": "ミスターシービー",
+      "jptext": "……光の速さで　駆け抜ける衝動はー……。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Dù phải hy sinh bất cứ điều gì, cũng quyết tâm chạm tới sức mạnh hằng mong!",
+      "jpname": "ミスターシービー",
+      "jptext": "何を犠牲にしても　叶えたい強さの覚悟！"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ừm, tuyệt lắm! Chính là nơi này rồi!",
+      "jpname": "ミスターシービー",
+      "jptext": "うん、いいね！　ここだ！"
+    },
+    {
+      "name": "",
+      "text": "Sân thượng... bầu trời xanh trải rộng quả thực rất thoáng đãng. Nhưng bị bao quanh bởi lưới thép thế này thì đâu giống một sân khấu cho lắm――",
+      "jpname": "モノローグ",
+      "jptext": "屋上……青空が広がり開放的ではある。\nだが、金網に囲まれたそこはステージとは違う気もするが――"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Cậu cũng thử phóng tầm mắt ra xa mà xem. Một sân khấu thênh thang trải dài tít tắp.",
+      "jpname": "ミスターシービー",
+      "jptext": "キミも向こうを見渡してみなよ。\n遠くまで見渡せる、この広い舞台。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Rồi cả những tòa nhà phản chiếu sắc trời xanh ngắt. Từng ô cửa sổ trông chẳng khác nào những khán giả đang vẫy gậy phát sáng cổ vũ cả!",
+      "jpname": "ミスターシービー",
+      "jptext": "それから空色に反射した建物。\n1つ1つが、ペンライトを振る観客みたい！"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Lại còn có thêm đèn chiếu điểm từ ánh mặt trời nữa chứ! Thấy chưa, đây chính là sân khấu tuyệt vời nhất đấy!",
+      "jpname": "ミスターシービー",
+      "jptext": "おまけに太陽のスポットライト付き！\nね、ここって最高のステージ！"
+    },
+    {
+      "name": "",
+      "text": "Lời nói của cô ấy khiến tôi có cảm giác như một sân khấu tráng lệ vừa thực sự hiện ra trước mắt. Dáng vẻ cất cao tiếng hát đầy phóng khoáng của cô ấy như minh chứng cho từng câu từ ấy――",
+      "jpname": "モノローグ",
+      "jptext": "彼女の言葉で、目の前にステージが現れたかのように感じた。\nその中でのびのびと歌う姿は言葉を裏付けているようで――",
+      "choice_data_list": [
+        "Đúng là một sân khấu thật đấy",
+        "Quả đúng là sân khấu tuyệt đẹp"
+      ],
+      "jpchoice_data_list": [
+        "たしかに、ステージだな",
+        "たしかに、ステージだね"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Hì hì, đúng không nào? ...Ừm, được rồi. Thế này chắc là đáp lại được rồi nhỉ?",
+      "jpname": "ミスターシービー",
+      "jptext": "ふふ、でしょ？\n……うん、よし。これで応えられるかな？",
+      "choice_data_list": [
+        "Đáp lại sao?"
+      ],
+      "jpchoice_data_list": [
+        "応える？"
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Đáp lại tấm lòng nhiệt huyết đấy.",
+      "jpname": "ミスターシービー",
+      "jptext": "本気の気持ちに、だよ。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Thầy dạy thanh nhạc cũng là người chỉ dạy hết sức nghiêm túc mà. Tấm lòng thì phải đáp lại bằng tấm lòng chứ.",
+      "jpname": "ミスターシービー",
+      "jptext": "歌のコーチも、真剣に教えてくれる人だからさ。\n気持ちには気持ちで応えないと。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Tất nhiên ở trong lớp thì mình vẫn hát được thôi... nhưng tóm lại là mình không muốn. Làm thế là thiếu chân thành.",
+      "jpname": "ミスターシービー",
+      "jptext": "もちろん、教室でも歌えなくはないけれど……\nとにかくね、アタシは嫌だった。不誠実だから。"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Giờ thì cuối cùng cũng có thể quay về lớp――",
+      "jpname": "ミスターシービー",
+      "jptext": "これでようやく戻れそう――"
+    },
+    {
+      "name": "Thầy giáo",
+      "text": "Này kia! Đang giờ học mà học sinh nào lại trèo lên sân thượng thế hả!?",
+      "jpname": "先生",
+      "jptext": "こらー！　授業中なのに屋上にいる生徒は誰だ！？"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ái chà, thầy giám thị nề nếp kìa... Xin lỗi nhé! Cậu giải thích hộ mình với nha!",
+      "jpname": "ミスターシービー",
+      "jptext": "あっと、生活指導の先生だ……\nごめん！　説明しておいて！",
+      "choice_data_list": [
+        "Hả, cái gì cơ!?"
+      ],
+      "jpchoice_data_list": [
+        "え、ええ！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Khẽ le lưỡi một cái, Mr. C.B. nhẹ nhàng lướt qua bên cạnh thầy giám thị rồi chạy biến đi.",
+      "jpname": "モノローグ",
+      "jptext": "少し舌をのぞかせ、ミスターシービーは\n生活指導の先生の脇を軽やかにすり抜けて行った。"
+    },
+    {
+      "name": "",
+      "text": "Hành động hoàn toàn thành thật với bản thân để cống hiến màn trình diễn tuyệt vời nhất. Tôi thầm nghĩ điều đó quả thực mang đậm phong cách của Mr. C.B.",
+      "jpname": "モノローグ",
+      "jptext": "最高のパフォーマンスをするために、自分に正直な行動を取った\nミスターシービー。それが実に彼女らしいなと思うのだった。"
+    }
+  ]
+}
