@@ -1,0 +1,385 @@
+{
+  "title": "Đã điên thì cùng điên, nhảy múa tới lúc chết",
+  "jptitle": "狂わばもろとも、死ぬまで踊れ",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nakayama Festa",
+      "text": "Hà, hà, hà... Thế là tròn trĩnh 20 lần chạy bứt tốc rồi. Giáo án hôm nay hết rồi đúng không?",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハァ、ハァ、ハァ……。これできっかりダッシュ20本だ。\nメニューは全部終わりか？",
+      "choice_data_list": [
+        "...Ừ, vất vả cho cậu rồi. Hoàn hảo lắm",
+        "...Ừm, cảm ơn cậu nhiều nhé. Mọi thứ rất hoàn hảo"
+      ],
+      "jpchoice_data_list": [
+        "……ああ、お疲れ様。完璧だったよ",
+        "……うん、お疲れ様。完璧だったよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kỳ tập huấn mùa hè bắt đầu, từ ngày đầu tiên tới giờ mọi thứ đều diễn ra vô cùng suôn sẻ. Không có bất kỳ vấn đề gì. Thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿が始まり、初日からここまですべて順調だ。\n何も問題はない。……だが――"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha, ông đúng là cái kiểu người muôn đời không biết chơi trò tung hỏa mù mà.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハッ、アンタ、つくづくブラフは苦手なタチだよなァ。",
+      "choice_data_list": [
+        "Hả...?"
+      ],
+      "jpchoice_data_list": [
+        "え……？"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Khặc khặc... Đi theo tôi đi.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ククッ……ついてこいよ。"
+    },
+    {
+      "name": "",
+      "text": "Đi theo Nakayama Festa, chúng tôi cứ thế dấn sâu dần vào chốn rừng già rậm rạp.",
+      "jpname": "モノローグ",
+      "jptext": "ナカヤマフェスタに連れられ、森の奥へどんどんと突き進んでいく。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Phương hướng chuẩn không cần chỉnh rồi. Giờ chỉ cần đâm thẳng xuyên qua cánh rừng này là được.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "方角は間違いねえ。\nあとはこの森をひたすらまっすぐ進めばいい。",
+      "choice_data_list": [
+        "Này, cậu giải thích cho tôi biết mình đang đi đâu được chưa..."
+      ],
+      "jpchoice_data_list": [
+        "あの、どこへ行くかそろそろ説明を……"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Bãi cát phía trước kia kìa. Nghe bảo là cảnh tượng tuyệt mỹ vô song. Cũng chính tại khu rừng này mà ngay cả dân địa phương cũng chẳng dám bén mảng tới.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……この先の砂浜だ。とんでもねえ絶景らしい。\nこの森のせいで、地元の連中も寄りつけないんだとよ。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tiền cược là \"chính bản thân chúng ta\", phần thưởng là \"cảnh sắc tuyệt trần nhất\". Gặp ma hay gặp quỷ dữ đây...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "賭け金は『私たち自身』、報酬は『最高の景色』。\n鬼が出るか、蛇が出るか――"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Cùng làm một ván cược sinh tử với khu rừng này nào.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "この森と、ひと勝負行こうや。"
+    },
+    {
+      "name": "",
+      "text": "Một khu rừng bị bỏ hoang từ lâu. Cây cỏ rậm rạp âm u che khuất tầm nhìn phía trước. Rõ ràng là quá đỗi nguy hiểm. Lẽ ra tôi phải cản cô ấy lại. Ấy thế mà...",
+      "jpname": "モノローグ",
+      "jptext": "長らく放棄された森。不気味に生い茂る草木で、先は見えない。\n明らかに危険だ。彼女を止めなければ。なのに――",
+      "choice_data_list": [
+        "...Đi thôi"
+      ],
+      "jpchoice_data_list": [
+        "……行こう"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Khặc khặc... Cây cầu treo này mục nát mất một nửa rồi này...!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ククッ……このつり橋、半分腐ってやがるなァ……！"
+    },
+    {
+      "name": "",
+      "text": "(Rắc rắc!!)",
+      "jpname": "モノローグ",
+      "jptext": "（バキッ！！）",
+      "choice_data_list": [
+        "Oái...!!"
+      ],
+      "jpchoice_data_list": [
+        "うわあっ……！！"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha ha! Giẫm gãy cả ván cầu mà không rơi xuống vực, ông son máu gớm đấy chứ.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハハッ！　床板踏み抜いて落ちねぇなんて、\nアンタいいツキ持ってるじゃねぇか。",
+      "choice_data_list": [
+        "...Số tôi chắc cũng thuộc dạng sống dai đấy",
+        "...Vận may thoát chết của tôi xem ra cũng lớn đấy"
+      ],
+      "jpchoice_data_list": [
+        "……悪運は強いほうかもな",
+        "……悪運は強いほうかもね"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Chậc, đường cùng rồi à. Vậy là phải quay lại đi vòng qua vách đá, hoặc là...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "チッ、行き止まりか。\nつうことは、戻って崖を迂回するか――",
+      "choice_data_list": [
+        "Trèo thẳng lên vách đá này thôi nhỉ",
+        "Leo thẳng qua đây thôi đúng không"
+      ],
+      "jpchoice_data_list": [
+        "ここを登るか、だな",
+        "ここを登るか、だね"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha ha, được đấy, máu đấy. Ông cũng bắt đầu vào guồng rồi đấy nhỉ!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハハ、いいねえいいねえ。\nアンタもだいぶ仕上がってきたじゃねえか！"
+    },
+    {
+      "name": "",
+      "text": "Càng dấn bước thì màn đêm càng buông xuống. Trong bóng tối dày đặc không một tia sáng trăng lọt qua, tiếng hú của bầy thú dữ vang vọng khắp bốn phương tám hướng.",
+      "jpname": "モノローグ",
+      "jptext": "進むうちに、夜が訪れていた。月の光も届かない闇のなか、\n四方八方から、獣たちの遠吠えが響き渡る。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Này, nhìn thân cây này xem. Đây chẳng phải là vết cào của gấu sao? Hàng thật giá thật trăm phần trăm luôn đấy.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "オイ、この木の幹、見てみろよ。こりゃ熊の爪痕じゃねえか？\n正真正銘のホンモノだろうなァ。",
+      "choice_data_list": [
+        "Ừ, vết cào trông còn mới tinh kìa",
+        "Ừm, dấu vết trông có vẻ còn rất mới"
+      ],
+      "jpchoice_data_list": [
+        "ああ、ずいぶんと新しそうだな",
+        "うん、ずいぶん新しそうだね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Mình đang nói cái quái gì thế này? Dù thầm nghĩ như vậy, nhưng bản thân tôi, kẻ đang cùng cô ấy phó mặc tính mạng cho hiểm nguy...",
+      "jpname": "モノローグ",
+      "jptext": "……自分はなにを言っているんだろう。\nそう思いながらも、彼女と一緒に危険に身を任せている自分が――"
+    },
+    {
+      "name": "",
+      "text": "(Gừừừ...)",
+      "jpname": "モノローグ",
+      "jptext": "（グルルル……）"
+    },
+    {
+      "name": "",
+      "text": "Từ phía xa vang lên tiếng gầm gừ trầm đục cùng âm thanh cây cỏ sột soạt cọ vào nhau. Có thứ gì đó đang chậm rãi tiến lại gần.",
+      "jpname": "モノローグ",
+      "jptext": "遠くから低い唸り声と、草木がこすれる音が聞こえてきた。\n何かが、ゆっくりと近づいてきている。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Hừ, mò tới nhanh gớm nhỉ. Hôm nay vận may của mình đỏ dữ dằn luôn.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……ハッ、さっそくおいでなすったか。\n今日は随分とツイてるじゃねえか。",
+      "choice_data_list": [
+        "...Nakayama, nhắm thẳng bãi cát mà chạy thôi"
+      ],
+      "jpchoice_data_list": [
+        "……ナカヤマ、砂浜を目指そう"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha ha... Phải rồi. Đúng vậy đấy! Đã đến nước này thì chỉ còn nước tất tay một ván thật đậm thôi chứ sao nữa!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハハ……ああ、そうだ。そうだよなァ。\nこうなりゃドンと全額、でかく張るしかねえよなあ！"
+    },
+    {
+      "name": "",
+      "text": "(GÀOOOO!!)",
+      "jpname": "モノローグ",
+      "jptext": "（グオォォッ！！）"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "!! Nó tới rồi, chạy maaaaaau!!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "！！　来たぞ、走れッッッ！！"
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi lao đi trong bóng tối. Chẳng thấy bất cứ thứ gì. Một ván cược liều lĩnh, ngu xuẩn, phó mặc cho số phận với rủi ro tột bực. Dù vậy, không, chính vì vậy mà...",
+      "jpname": "モノローグ",
+      "jptext": "暗闇の中を走る。何も見えない。無謀で、愚かで、成り行き任せの\nハイリスクな勝負。それでも、いや、それだからこそ――"
+    },
+    {
+      "name": "",
+      "text": "Chạy. Tháo chạy. Hơi thở hồng hộc dữ dằn của dã thú cùng tiếng bước chân rung chuyển mặt đất. Tử thần cận kề khiến não bộ như tê rát, nóng bừng như muốn tan chảy...",
+      "jpname": "モノローグ",
+      "jptext": "走る。逃げる。猛獣の荒い息遣いに、地響きのような足音。\n気配が迫る。死の瀬戸際に脳みそがひりつき、焼け溶けそうで――",
+      "choice_data_list": [
+        "(...A, chính là nó. Cảm giác này...!)"
+      ],
+      "jpchoice_data_list": [
+        "（……あァ、これだ。この感じだ……！）"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Khà ha ha ha!! Này ông, quả này gay cấn đỉnh nóc đúng không? Quá đỉnh đúng không nào!? Nào, tăng tốc hơn nữa từ đây đi! Tiến lênnnn!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "クハハハッ！！　おいアンタ、やべえだろコレ？　やべえよなァ！？\nほら、こっからもっとだっ！　行くぞッッ！"
+    },
+    {
+      "name": "",
+      "text": "Chưa kịp định hình cú kéo giật mạnh bất ngờ thì đất trời trong bóng tối đã đảo lộn. Nakayama Festa đã ôm chặt lấy người tôi.",
+      "jpname": "モノローグ",
+      "jptext": "ぐいっと急に引っ張られたかと思うと、暗闇で天地が反転する。\nナカヤマフェスタに体を抱えられたのだ。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Lên nàooooo!!! Đấu một trận nào!!! Đuổi kịp được thì nhào vô mà đuổi xem nào!!!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "おらあああああッッ！！！　勝負だッッ！！！\n追いつけるなら追いついてみやがれ！！！"
+    },
+    {
+      "name": "",
+      "text": "Nakayama Festa tiếp tục lao đi như điên cuồng. Đến khi hơi hướng của dã thú đã lùi xa từ lâu... bỗng nhiên, màn đêm tan biến...",
+      "jpname": "モノローグ",
+      "jptext": "ナカヤマフェスタは走り続けた。\n獣の気配がとうに消えた頃……突然、闇が消え去り――"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hà, hà, hà, hà... B-Bãi cát...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハァ、ハァ、ハァ、ハァ……。\nす、砂浜……。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hà... hà... Khốn khiếp... con gấu chết tiệt... Tự dưng... hà... rượt theo người ta... Đúng là cái trò cá cược kiểu này...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハァ……ハァ……クソッ……熊の野郎……。いきなり……ハァ……\n追ってきやがって……。さすがに、こんな勝負よォ――",
+      "choice_data_list": [
+        "Một canh bạc điên rồ hết chỗ nói!!!"
+      ],
+      "jpchoice_data_list": [
+        "とんでもない博打だった！！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Bịch)",
+      "jpname": "モノローグ",
+      "jptext": "（ドサリ）"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "A ha ha ha ha ha ha!!!! Ôi chao, chuẩn luôn rồi còn gì nữa...!! Ha ha ha ha...!!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "アーッハッハッハッハッハ！！！！　いやあ、だよなあァ……！！\nハッハッハッハ……！！"
+    },
+    {
+      "name": "",
+      "text": "Nằm vật ra bãi cát, hai chúng tôi cười ngặt nghẽo như hai kẻ điên một hồi lâu. Buồn cười đến mức bàn tay bắt đầu run lẩy bẩy, và rồi bất chợt...",
+      "jpname": "モノローグ",
+      "jptext": "砂浜に倒れ込んだまま、しばらく2人でバカみたいに笑い転げた。\nおかしくておかしくて、そのうち手も震えてきて、そしてふと――",
+      "choice_data_list": [
+        "(...Cùng một cảm giác. Giống hệt như trên đường về ngày hôm ấy...)"
+      ],
+      "jpchoice_data_list": [
+        "（……同じ感覚だ。あの日の帰りと――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Khuôn mặt của chính tôi phản chiếu qua ô cửa kính hôm ấy. Đó là... một \"nụ cười\" ngập tràn cảm giác hạnh phúc viên mãn đến mức không thể nào trọn vẹn hơn.",
+      "jpname": "モノローグ",
+      "jptext": "ショーウインドウ越しに映った自分の顔。それは――\nこれ以上ないくらい満ち足りた、多幸感に溢れた『笑顔』だった。"
+    },
+    {
+      "name": "",
+      "text": "Thứ cảm xúc kỳ lạ không tên đang khiến chân tay tôi run rẩy khi ấy và cả lúc này. Đó hoàn toàn không phải là sự sợ hãi, mà là...",
+      "jpname": "モノローグ",
+      "jptext": "あの時も、今も、自分の手足を震わせている、\n得体のしれない感情の正体。それは、恐怖ではなくて――",
+      "choice_data_list": [
+        "...Tôi đang phấn khích tột cùng đấy",
+        "...Tôi cảm thấy phấn khích vô cùng đấy"
+      ],
+      "jpchoice_data_list": [
+        "……興奮してるんだ、俺",
+        "……興奮してるんだ、私"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha... Này này, đến giờ ông mới chịu nhận ra đấy à. Vô tâm vừa vừa phai phải thôi chứ.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハ……オイオイ、アンタようやく気づいたのかよ。\n迂闊にもほどがあるぜ。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Có muốn tôi làm cho ông thấy phấn khích hơn nữa không? Nào, nhìn ra phía trước mắt xem kìa...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "アンタを、もっと興奮させてやろうか？\nほら、目の前見ろよ――"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Đây chẳng phải là chúng ta đã ăn trọn cả sòng bạc rồi sao.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "こりゃ、私たちの総取りじゃねえか。"
+    },
+    {
+      "name": "",
+      "text": "Vầng trăng tỏa sáng dịu mát, trải một con đường ánh sáng lấp lánh trên mặt biển đen thẫm dập dềnh sóng vỗ. Ngay trên đỉnh đầu là dải ngân hà hùng vĩ trải dài bất tận.",
+      "jpname": "モノローグ",
+      "jptext": "月が涼しく燃えて、波に揺れる黒い海に光の道を作る。\n頭上には、ド迫力の銀河が横たわっている。"
+    },
+    {
+      "name": "",
+      "text": "Phần thưởng nằm ở phía bên kia của canh bạc liều mình đốt cháy sinh mạng. Trước niềm hân hoan và phấn khích cuộn trào, toàn thân tôi run lên bần bật trong niềm tự giác ngộ.",
+      "jpname": "モノローグ",
+      "jptext": "命を燃やした勝負の、その先の報酬。\n押し寄せる興奮と歓びに――身を震わせ、自覚する。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Khặc khặc... Thẫn thờ ra rồi kìa. Bay bổng quá đà khéo cháy sạch cả người rồi đấy chứ?",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……ククッ……ぼうっとしてやがる。\n飛びすぎて、燃え尽きちまったんじゃねぇだろうな？",
+      "choice_data_list": [
+        "Này... tiếp theo chúng ta sẽ cược gì đây?",
+        "Này... ván tiếp theo mình cược gì đây?"
+      ],
+      "jpchoice_data_list": [
+        "なあ……次、何を賭けようか？",
+        "ねえ……次、何を賭けようか？"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...! Ha ha ha...!",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……！　ハハハッ……！"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Chẳng những không hề chùn bước mà còn hăng máu xông xáo cơ đấy. Được thôi, vậy thì...",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "怖気づくどころか、前のめりってワケか。\nいいぜ、なら――"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Tới đây, đi cùng với tôi.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……来いよ、私と一緒に。"
+    },
+    {
+      "name": "",
+      "text": "Tôi gật đầu trong im lặng. Cứ tiến lên thôi, cho tới khi gục ngã, vỡ vụn và tan biến. Cùng với nỗi bất an khôn cùng và niềm phấn khích dựng tóc gáy luôn ôm chặt trong tim.",
+      "jpname": "モノローグ",
+      "jptext": "無言でうなずく。進もう、ぶっ倒れて、壊れて、溶けるまで。\n底知れない不安と、身の毛もよだつ興奮を抱えながら。"
+    }
+  ]
+}

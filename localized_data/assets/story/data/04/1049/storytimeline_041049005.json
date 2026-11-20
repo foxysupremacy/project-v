@@ -1,0 +1,231 @@
+{
+  "title": "Sống giữa cõi đời lắm nỗi thị phi",
+  "jptitle": "浮世に生きりゃ取沙汰だらけ",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, trong lúc tôi đang làm việc... giáo viên chủ nhiệm của Nakayama Festa bước vào phòng Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "ある日、仕事をしていると……\nナカヤマフェスタの担任がトレーナー室にやってきた。"
+    },
+    {
+      "name": "Giáo viên chủ nhiệm",
+      "text": "Vậy sao... em Nakayama cũng không có ở đây nhỉ. Xin lỗi vì đã làm phiền thầy lúc đang làm việc.",
+      "jpname": "担任の教師",
+      "jptext": "そうですか……ナカヤマさん、ここにも来ていないんですね。\nお仕事中お騒がせしてすみません。"
+    },
+    {
+      "name": "Giáo viên chủ nhiệm",
+      "text": "Hầy, rắc rối thật đấy... Nếu em ấy không nộp bài tập trong tuần này thì tôi không thể vào điểm học tập được...",
+      "jpname": "担任の教師",
+      "jptext": "はあ、困ったわ……今週中に課題を出してもらわないと、\n成績がつけられないのに……。",
+      "choice_data_list": [
+        "Đ-Để tôi giúp cô tìm cậu ấy nhé...!!"
+      ],
+      "jpchoice_data_list": [
+        "さ、捜すの手伝います……！！"
+      ]
+    },
+    {
+      "name": "Bạn cùng lớp của Nakayama A",
+      "text": "Chỗ của bạn Nakayama á? Chịu thôi... tụi em chẳng giao lưu gì với bạn ấy cả...",
+      "jpname": "ナカヤマの同級生A",
+      "jptext": "ナカヤマさんの居場所？　さあ……あの子と全然交流なくて……。"
+    },
+    {
+      "name": "Bạn cùng lớp của Nakayama B",
+      "text": "Bạn Nakayama trông cứ khó gần kiểu gì ấy. Với lại, nghe nói đợt nọ bạn ấy còn bị cảnh sát áp giải nữa...",
+      "jpname": "ナカヤマの同級生B",
+      "jptext": "ナカヤマさん、なんかちょっと近寄りがたいっていうか。\nほら、この前も補導されたって聞いたし……。",
+      "choice_data_list": [
+        "Bị áp giải ư...?"
+      ],
+      "jpchoice_data_list": [
+        "補導……？"
+      ]
+    },
+    {
+      "name": "Bạn cùng lớp của Nakayama B",
+      "text": "A, vâng... Bạn em lúc đi chạy bộ có nhìn thấy, hình như bạn ấy đứng cãi cọ gì đó với chú cảnh sát ở bờ sông thì phải...",
+      "jpname": "ナカヤマの同級生B",
+      "jptext": "あ、はい……ランニング中の友だちが見たらしいんですけど、\n河川敷で、何か警察の人と言い争ってたって……。"
+    },
+    {
+      "name": "Uma Musume bặm trợn",
+      "text": "Hả... Sao tôi biết được. Biết nó ở đâu chết liền. Thiệt tình, đứa nào đứa nấy cứ mở mồm ra là Nakayama Nakayama.",
+      "jpname": "ガラの悪そうなウマ娘",
+      "jptext": "はあ……知るわけないっしょ。あいつがどこいるかなんて。\nったく、どいつもこいつもナカヤマナカヤマってさあ。",
+      "choice_data_list": [
+        "Hả, ngoài tôi ra còn có ai tìm cậu ấy nữa sao...?",
+        "Hả, ngoài tôi ra còn ai đang tìm cậu ấy ư...?"
+      ],
+      "jpchoice_data_list": [
+        "え、俺以外に誰か彼女を……？",
+        "え、私以外に誰か彼女を……？"
+      ]
+    },
+    {
+      "name": "Nam sinh bặm trợn",
+      "text": "Hôm nọ cũng có đứa tới đây lùng sục tìm nó đấy thôi. Xời, chắc ông cũng thuộc diện bị Nakayama cho ăn quả lừa chứ gì?",
+      "jpname": "ガラの悪そうな男子",
+      "jptext": "この前もあいつのこと捜してるって奴が来てよお。\nは、どうせあんたも、ナカヤマに一杯食わされたクチだろ？",
+      "choice_data_list": [
+        "!? Chuyện đó là thế nào, nói rõ hơn cho tôi nghe đi...!",
+        "!? Chuyện đó là sao, kể chi tiết hơn cho tôi nghe đi...!"
+      ],
+      "jpchoice_data_list": [
+        "！？その話、詳しく教えてくれ……！",
+        "！？その話、詳しく教えて……！"
+      ]
+    },
+    {
+      "name": "Uma Musume bặm trợn",
+      "text": "Hử? Bộ ông không liên quan đến vụ rắc rối đó à. Thì đấy, con nhỏ Nakayama...",
+      "jpname": "ガラの悪そうなウマ娘",
+      "jptext": "ん？　あんたはあのトラブル絡みじゃないのか。\nほら、ナカヤマが――"
+    },
+    {
+      "name": "Uma Musume bặm trợn",
+      "text": "Nghe đồn nó giở trò gian lận trong ván poker rồi thắng đậm một vố lớn. Thế nên giờ đang bị đám bị lừa lùng bắt ráo riết đấy.",
+      "jpname": "ガラの悪そうなウマ娘",
+      "jptext": "ポーカーにイカサマ仕込んで、バカ勝ちしたって話。\nで、ダマされた奴らに追われてるんだってさ。"
+    },
+    {
+      "name": "Uma Musume bặm trợn",
+      "text": "Bọn chúng đỏ hoe cả mắt sục sạo khắp nơi kìa. Ái chà chà, không biết phen này con bé đó sẽ ra nông nỗi gì đây.",
+      "jpname": "ガラの悪そうなウマ娘",
+      "jptext": "連中、目の色変えてそこら中捜し回ってるぜ。\nあーあー、どうなっちまうのかねえ、あいつ。",
+      "choice_data_list": [
+        "(Kỳ lạ thật. Làm sao có chuyện đó được...)"
+      ],
+      "jpchoice_data_list": [
+        "（おかしい。そんなはずは……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau đó, lần theo các lời đồn đại, tôi đã tìm kiếm khắp nơi nhưng vẫn bặt vô âm tín về tung tích của Nakayama Festa.",
+      "jpname": "モノローグ",
+      "jptext": "その後も噂を頼りにいろいろな場所を捜しまわったものの、\nナカヤマフェスタの行方は依然として知れない。"
+    },
+    {
+      "name": "",
+      "text": "Đổi lại, thứ tôi nghe được chỉ toàn những lời đồn thổi không hay về Nakayama Festa. Không đời nào cô ấy lại làm những chuyện như thế...",
+      "jpname": "モノローグ",
+      "jptext": "代わりに知ったのは、ナカヤマフェスタに関する\nよからぬ噂だった。彼女がそんなことをするはずは――",
+      "choice_data_list": [
+        "A, Nakayama!!"
+      ],
+      "jpchoice_data_list": [
+        "あ、ナカヤマ！！"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hửm...? À, Trainer đấy à. Sao mặt mày trông xanh như tàu lá chuối thế kia?",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ん……？　ああ、トレーナーか。\nなんだか青い顔してんなァ？",
+      "choice_data_list": [
+        "Không, thực ra là..."
+      ],
+      "jpchoice_data_list": [
+        "いや、実は……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi kể đầu đuôi câu chuyện cho Nakayama Festa nghe. Về việc tôi đi tìm cô ấy để nhắc nộp bài tập, và rồi...",
+      "jpname": "モノローグ",
+      "jptext": "ナカヤマフェスタに事のあらましを話す。\n課題のことを教えるため、彼女を捜し始めたこと、そして――"
+    },
+    {
+      "name": "",
+      "text": "Cả chuyện bị cảnh sát áp giải lẫn chuyện gian lận cờ bạc, những tin đồn muôn hình vạn trạng về cô ấy đang lan truyền khắp trong ngoài học viện.",
+      "jpname": "モノローグ",
+      "jptext": "警察からの補導に、勝負でのイカサマ――学園内外に、\n彼女に関する様々な噂が飛び交っていることを。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ha ha ha ha... Trong lúc tôi không hay biết gì mà lại có chuyện thú vị lan truyền dữ vậy à.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ハハハハッ……知らねえ間に随分おもしれえ話が\n広まってるじゃねえか。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mấy thứ đó toàn là bịa đặt nhảm nhí. Gian lận để thắng lớn á? Hừ, vớ vẩn. Làm cái trò đấy thì còn gì là cảm giác nghẹt thở nữa.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "んなもん、全部デタラメだ。イカサマしてバカ勝ちだァ？\nハン、くだらねえ。んなことしても、何もヒリつかねえだろうが。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Mà thôi, kẻ tung mấy tin đồn nhảm nhí ấy chắc cũng chỉ là đám thua cược dưới tay tôi thôi. Bị người ta ôm hận ghen ghét đến mức đó cơ mà.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "……ま、つまんねえ噂撒いてんのは、おおかた私に何かの\n勝負で負けた連中だ。それだけ恨み妬み買ってるってワケだ。"
+    },
+    {
+      "name": "",
+      "text": "Quả thật, sống trong thế giới cá cược thì chắc hẳn cô ấy có không ít kẻ thù. Nhưng đây không phải lúc để tôi chùn bước. Với tư cách là Trainer của cô ấy...",
+      "jpname": "モノローグ",
+      "jptext": "たしかに、勝負の世界に生きる彼女には敵も多そうだ。\nだが、怖気づいている場合ではない。彼女のトレーナーとして――",
+      "choice_data_list": [
+        "Nếu có chuyện gì xảy ra tôi sẽ bảo vệ cậu",
+        "Nếu xảy ra chuyện gì tôi nhất định sẽ bảo vệ cậu"
+      ],
+      "jpchoice_data_list": [
+        "何かあったら俺が君を守る",
+        "何かあったら私が貴方を守る"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hể...? Nghe hùng hồn gớm nhỉ. Kẻo chính ông cũng bị vạ lây đấy biết không?",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "へぇ……？　随分威勢がいいねえ。\nそういうアンタも、とばっちり食らうかもしんねえぞ？",
+      "choice_data_list": [
+        "Dù có rơi vào tình cảnh nào đi nữa, tôi cũng sẽ luôn chở che cho cậu",
+        "Dù có phải chịu cảnh ngộ ra sao, tôi cũng sẽ luôn đồng hành bên cậu"
+      ],
+      "jpchoice_data_list": [
+        "どんな目に遭っても、君を支えてみせる",
+        "どんな目に遭っても、貴方を支えてみせる"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hể, tình cảnh nào cũng chịu cơ đấy. Khặc khặc... Miệng lưỡi thì nói thế nào chẳng được.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "へえ、どんな目にも、ねぇ。\n……ククッ……口ではどうとでも言えるな。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Mà thôi, đừng có gồng lên như thế. Ông là \"Trainer\" của tôi kia mà.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "まァ、そうイキるなよ。\nアンタは私の“トレーナー”だろ。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Đối với tôi, đường đua mới là nơi để tồn tại. Tôi không bao giờ ngu ngốc đến mức tự tay vứt bỏ cơ hội ấy đâu.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "私にとって、レースこそが生きる場所。\nその機会をフイにしちまうようなドジは踏まねえ。"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Làm Trainer của tôi thì ông chỉ cần hiểu bấy nhiêu thôi là đủ rồi. Nào, đúng chứ?",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "トレーナーのアンタは、それだけ知ってりゃ十分だ。\nなァ、そうだろ？"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Thôi, cứ thoải mái mà tiến bước đi, cả hai chúng ta.",
+      "jpname": "ナカヤマフェスタ",
+      "jptext": "ま、気楽にいこうぜ、お互いによ。"
+    },
+    {
+      "name": "",
+      "text": "Niềm tin dành cho Nakayama Festa trong tôi không hề suy suyển. Thế nhưng... mình cần phải hiểu rõ về cô ấy nhiều hơn nữa... Đó là điều tôi cảm nhận sâu sắc sau một ngày vừa qua.",
+      "jpname": "モノローグ",
+      "jptext": "ナカヤマフェスタのことを信じる気持ちは変わらない。だが――\nもっと彼女のことを知らなければ――そう痛感した1日だった。"
+    }
+  ]
+}
