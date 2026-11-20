@@ -1,0 +1,592 @@
+{
+  "title": "Tiến bước cùng tiếng nói của định mệnh!",
+  "jptitle": "運命の声と往け！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Để Epiphaneia có thể đánh bại Symboli Kris S—— điều đầu tiên và bắt buộc em ấy phải lĩnh hội được chính là \"biết cách kiềm chế ở giữa chặng đua\".",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアがシンボリクリスエスに勝つために――\nまず、必ず身につけておきたいのは“道中ガマンすること”だ。"
+    },
+    {
+      "name": "",
+      "text": "Ở lần so tài trước, do không hề kiểm soát tốc độ mà cứ mặc sức lao theo ý thích, nên đến giai đoạn cuối em chẳng còn chút sức lực nào và nhận lấy thất bại cách biệt lớn.",
+      "jpname": "モノローグ",
+      "jptext": "先日の対決では、ペースコントロールなど一切せず、思うままに\n走ってしまったせいで、最後に脚が残らず大差負けをしてしまった。",
+      "choice_data_list": [
+        "Cho đến góc cua thứ hai, em hãy duy trì nhịp 14 giây một furlong nhé"
+      ],
+      "jpchoice_data_list": [
+        "第2コーナーまでは1ハロン14秒で"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Rõ rồi ạ! Cứ giao hết cho em!",
+      "jpname": "エピファネイア",
+      "jptext": "よーしっ！\n任せてくれ！",
+      "choice_data_list": [
+        "(Lời đáp thì tràn đầy tự tin lắm nhưng mà……)"
+      ],
+      "jpchoice_data_list": [
+        "（返事はすっごくいいんだけど……）"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Uoryaaaaaaa!!!!",
+      "jpname": "エピファネイア",
+      "jptext": "うおりゃあああああああああああ！！！！",
+      "choice_data_list": [
+        "Ôi trời ơi, đang chạy với nhịp 12 giây rồi kìa……!"
+      ],
+      "jpchoice_data_list": [
+        "うわーっ、12秒ペースで……！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Hộc……hộc……! Mệt đứt cả hơi!!",
+      "jpname": "エピファネイア",
+      "jptext": "はぁ……っ、はぁ……っ！\n疲れたー！！",
+      "choice_data_list": [
+        "Chạy như thế thì mệt là phải rồi……!"
+      ],
+      "jpchoice_data_list": [
+        "そりゃそうでしょうよ……！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Xin lỗi xin lỗi nhé! Nhưng mà tiếng nói của định mệnh cứ giục em tiến lên nữa đi mà! Nhờ thế mà em mới phóng với tốc độ kinh hoàng như vậy đúng không? Cừ khôi lắm đúng không nào!?",
+      "jpname": "エピファネイア",
+      "jptext": "ごめんごめん！　でも、運命の声ももっと行けって言うからさ！\nおかげですっごいスピード、出せただろ？　すごかったろー！？",
+      "choice_data_list": [
+        "Công nhận là nhanh thật đấy, nhưng mà!"
+      ],
+      "jpchoice_data_list": [
+        "確かに速かったけども！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chẳng biết đây đã là lần thứ bao nhiêu rồi nữa. Việc Epiphaneia hoàn toàn không thể kiềm chế bản thân mà cứ lao đi bạt mạng mất kiểm soát……thực sự khiến tôi bắt đầu thấy ấm ức với cái tiếng nói của định mệnh kia rồi đấy.",
+      "jpname": "モノローグ",
+      "jptext": "これで何度目だろうか。エピファネイアが一切ガマンできず、\n大暴走してしまうのは……さすがに運命の声が恨めしくなってくる。",
+      "choice_data_list": [
+        "Này em, giọng nói đó không thể tắt đi được sao……",
+        "Này em, tiếng nói đó không gạt sang chế độ tắt được à……"
+      ],
+      "jpchoice_data_list": [
+        "なあ、その声ってオフになったりは……",
+        "ねえ、その声ってオフになったりは……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Không bao giờ tắt được ạ!!",
+      "jpname": "エピファネイア",
+      "jptext": "しない！！",
+      "choice_data_list": [
+        "Đoán ngay là vậy mà……",
+        "Biết ngay là không thể mà……"
+      ],
+      "jpchoice_data_list": [
+        "ないよな……",
+        "ないよね……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……Này, chẳng lẽ Trainer không muốn để em nghe thấy tiếng nói của định mệnh sao? Tại sao lại như thế ạ?",
+      "jpname": "エピファネイア",
+      "jptext": "……なあ、もしかしてキミ、運命の声を聞かせたくないのか？\nなんでだ？",
+      "choice_data_list": [
+        "Đương nhiên là để giúp em giành chiến thắng rồi"
+      ],
+      "jpchoice_data_list": [
+        "もちろん、勝つためだよ"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ahaha, vậy thì càng nghe rõ lại càng tốt chứ sao! Bởi vì mỗi khi giọng nói này bảo là được, thì lúc nào cũng dẫn tới một kết quả mỹ mãn mà!",
+      "jpname": "エピファネイア",
+      "jptext": "アハハ、なら聞こえてる方がいいじゃないか！\nこの声がいいと言えば、いつだって正しい結果に繋がるんだから！"
+    },
+    {
+      "name": "",
+      "text": "Niềm tin kiên định của Epiphaneia dành cho tiếng nói của định mệnh quả thực là vô cùng vững chắc. Nếu đã vậy…… thay vì ngăn cản, việc tìm hiểu bản chất sâu xa của tiếng nói ấy có lẽ sẽ giúp tôi dễ dàng chỉ dẫn em hơn.",
+      "jpname": "モノローグ",
+      "jptext": "運命の声に対するエピファネイアの信頼はやはり強固だ。ならば……\nむしろその声の本質を知ることを考えたほうが、指導しやすそうだ。",
+      "choice_data_list": [
+        "Ước gì cái tiếng nói của định mệnh ấy, tôi cũng có thể nghe thấy được nhỉ……",
+        "Giá mà tiếng nói của định mệnh đó, tôi cũng nghe thấy được thì tốt biết mấy……"
+      ],
+      "jpchoice_data_list": [
+        "その運命の声、俺にも聞こえないかなぁ……",
+        "その運命の声、私にも聞こえないかなぁ……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……!",
+      "jpname": "エピファネイア",
+      "jptext": "……！"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ôi chao, này này này! Đây là lần đầu tiên có người nói với em câu đó đấy! Tuyệt quá đi mất, đỉnh chóp luôn! Được rồi được rồi, thử xem sao nào! Mau đi theo em nhé!",
+      "jpname": "エピファネイア",
+      "jptext": "おい、おいおいおい！　初めてだよ、そんなこと言われたの！\nいいな、最高だ！　よしよし、やってみよう！　ついてきてくれ！"
+    },
+    {
+      "name": "",
+      "text": "Và kể từ khoảnh khắc ấy——mọi chuyện bắt đầu xoay chuyển với một tốc độ chóng mặt.",
+      "jpname": "モノローグ",
+      "jptext": "それからは――全てが、急展開だった。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "A! Vừa nãy Trainer cũng nghe thấy rồi đúng không! Chụp ảnh thôi, mau nhảy vào buồng chụp sticker nào!",
+      "jpname": "エピファネイア",
+      "jptext": "あ！　今聞こえたよな、トレーナー！\n撮るぞ、シール機に飛び込むんだ！",
+      "choice_data_list": [
+        "Hảảảả……!?"
+      ],
+      "jpchoice_data_list": [
+        "ええええ……！？"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——\"Kỷ niệm 1 triệu lượt người dùng, miễn phí tùy chọn trang trí siêu khủng\" kìa! May quá đi thôi, Trainer ở trong hình sticker trông cũng đáng yêu lắm luôn đấy!",
+      "jpname": "エピファネイア",
+      "jptext": "――『利用者100万人記念、爆盛りオプション無料』だって！\nよかったな、シールのキミもすっごくかわいいぞ！",
+      "choice_data_list": [
+        "H-Hàng lông mi trông ấn tượng ghê…… Phụt……"
+      ],
+      "jpchoice_data_list": [
+        "ま、まつげがすごい……。……ふふ"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——Không được, đi theo lối mòn bên này mới đúng! Tiếng nói của định mệnh cũng bảo thế mà!! Uooooo!!",
+      "jpname": "エピファネイア",
+      "jptext": "――いや、こっちのけもの道がいいな！\n運命の声もそう言ってる！！　うおおおお！！",
+      "choice_data_list": [
+        "Hảảảảảảả……!?"
+      ],
+      "jpchoice_data_list": [
+        "えええええええ……！？"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ôi……quả nhiên chọn con đường đó là một quyết định đại chuẩn xác! Trainer cũng ngắm thử đi nào! ——Ngẩng cao đầu lên nào!",
+      "jpname": "エピファネイア",
+      "jptext": "おお……やっぱりあの道を通って大正解だ！\nトレーナーも見てみろよ！　――顔上げてさ！",
+      "choice_data_list": [
+        "Hộc……hộc……đ-đợi tôi đã……bây giờ thì——"
+      ],
+      "jpchoice_data_list": [
+        "はぁ……はぁ……ま、待って……今――"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——Thấy chưa, tầm nhìn đẹp mê hồn luôn đúng không! Nhìn thấy xa tít tắppp luôn……xúc động nghẹn ngào quá đi mất!",
+      "jpname": "エピファネイア",
+      "jptext": "――ほら、いい眺めだろ！\n遠ーーーくまで見える……感激だなぁ！",
+      "choice_data_list": [
+        "À……đúng thật nhỉ……——",
+        "Ừ……đẹp thật đấy……——"
+      ],
+      "jpchoice_data_list": [
+        "ああ……本当だな……――",
+        "うん……本当だね……――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, tôi bị em ấy lôi đi xềnh xệch qua hết nơi này đến chốn nọ——",
+      "jpname": "モノローグ",
+      "jptext": "こうして、散々色んなところへと連れ回され――"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——Ôi, mây mù kéo đến rồi kìa……nhưng chắc không sao đâu. ……Mà, thế nào rồi! Chẳng lẽ Trainer cũng đã nghe thấy tiếng nói của định mệnh rồi đúng không!",
+      "jpname": "エピファネイア",
+      "jptext": "――お、曇ってきた……けど大丈夫か。……で、どうだった！\nキミにも聞こえたんじゃないか、運命の声が！",
+      "choice_data_list": [
+        "Xin lỗi em nhé, tôi hoàn toàn chẳng nghe thấy gì cả……"
+      ],
+      "jpchoice_data_list": [
+        "ごめん、全く……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thế ạ! Nhưng mà, Trainer đã cảm nhận được sự kỳ diệu của tiếng nói của định mệnh rồi đúng không nào! Nơi nào được giọng nói ấy nâng bước, nơi đó toàn ngập tràn những điều tốt lành thôi!",
+      "jpname": "エピファネイア",
+      "jptext": "そうか！　でも、運命の声の素晴らしさはわかってくれたよな！\n声が背中を押してくれた先では、いいことばかり起こる！"
+    },
+    {
+      "name": "",
+      "text": "……Đúng là kỳ lạ thật, tại những nơi được tiếng nói của định mệnh dẫn dắt tới, tôi liên tục gặp được đủ điều may mắn bất ngờ. Chẳng qua là vì bị kéo đi mệt bở hơi tai nên không kịp tận hưởng thôi, chứ chung quy lại——tất cả đều là những kết quả tuyệt vời.",
+      "jpname": "モノローグ",
+      "jptext": "……確かに、運命の声に導かれた先々では、様々な幸運に恵まれた。\n余裕がなく味わえなかっただけで、結果は――全てよいものだった。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Kể từ ngày em bắt đầu có nhận thức đến giờ, mọi chuyện vẫn luôn luôn là như thế đấy! Cứ hễ bước tiếp về hướng được tiếng nói của định mệnh khẳng định, thì nhất định sẽ có chuyện tốt lành đón đợi.",
+      "jpname": "エピファネイア",
+      "jptext": "物心ついたときから、ずっとそうだったんだ！\n運命の声が肯定してくれた方に進むと、必ずいいことがあった。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thế nhưng mà——mọi người lại chẳng một ai nghe thấy được nó cả. Như vậy chẳng phải là quá uổng phí hay sao chứ?",
+      "jpname": "エピファネイア",
+      "jptext": "なのに――みんなには聞こえてないんだよ。\nそんなのって、もったいないと思わないか？",
+      "choice_data_list": [
+        "Vì thế nên……em mới muốn trao tiếng nói của định mệnh cho mọi người sao?"
+      ],
+      "jpchoice_data_list": [
+        "だから……運命の声を、授けたい？"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Đúng thế đấy ạ! Chỉ cần mọi người cảm nhận được \"định mệnh\" của em, thì ai ai cũng sẽ nghe thấy tiếng nói ấy thôi. Ai cũng sẽ được giọng nói ấy tiếp thêm sức mạnh nâng bước tiến lên! ——Sao nào, quá đỗi tuyệt vời đúng không!",
+      "jpname": "エピファネイア",
+      "jptext": "ああ！　アタシの“運命”を感じれば、みんなが声を聞ける。\nみんな声に背中を押してもらえるんだ！　――どうだ、最高だろう！",
+      "choice_data_list": [
+        "Em tin chắc rằng……mọi chuyện nhất định sẽ thành hiện thực như thế sao",
+        "Em vững tin rằng……tương lai nhất định sẽ diễn ra đúng như vậy sao"
+      ],
+      "jpchoice_data_list": [
+        "必ずそうなるって……確信してるんだな",
+        "必ずそうなるって……確信してるんだね"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Đương nhiên rồi ạ! Bởi vì em chính là——",
+      "jpname": "エピファネイア",
+      "jptext": "もちろん！\nだってアタシは――"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "người được định mệnh yêu thương hết mực mà!",
+      "jpname": "エピファネイア",
+      "jptext": "運命に愛されてるから！"
+    },
+    {
+      "name": "",
+      "text": "Ngay khoảnh khắc ấy. Đúng vào giây phút em ấy vừa dứt lời——mây mù bỗng chốc tan biến, và một bầu trời đêm ngập tràn muôn vạn vì tinh tú lấp lánh hiện ra choán ngợp cả tầm mắt.",
+      "jpname": "モノローグ",
+      "jptext": "その瞬間。彼女が言い切った、その瞬間に――雲が晴れ、\n視界を埋めつくすほどの、満天の星々が現れた。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ô kìa! Quả nhiên trời lại quang đãng rồi đúng không! ——Trainer, đây là món quà em dành tặng cho Trainer đấy. Hãy nhận lấy nhé!",
+      "jpname": "エピファネイア",
+      "jptext": "お！　やっぱり晴れたな！\n――トレーナー、アタシからのプレゼントだ。受け取ってくれ！",
+      "choice_data_list": [
+        "Hả? Quà tặng……chính là bầu trời đêm đầy sao này sao?"
+      ],
+      "jpchoice_data_list": [
+        "え？プレゼントって……この夜空が？"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Vâng ạ! Dành riêng cho Trainer——người đã mở lòng muốn lắng nghe tiếng nói của định mệnh—— người đã trở thành bước chân khởi đầu cho giấc mơ vĩ đại của em, em xin tặng cả một vòm trời ngập tràn ánh sao này đấy.",
+      "jpname": "エピファネイア",
+      "jptext": "ああ！　運命の声を聞きたがってくれたキミに――\nアタシの夢の第一歩になってくれたキミに、一面の星をあげるよ。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Một khi ước mơ của em trở thành hiện thực, Trainer sẽ còn được chiêm ngưỡng một thế giới lộng lẫy và rực rỡ hơn gấp vạn lần thế này nữa cơ. ——Em nhất định sẽ khắc sâu khung cảnh ấy ngập tràn trong đôi mắt của Trainer!",
+      "jpname": "エピファネイア",
+      "jptext": "アタシの夢が叶ったら、これより煌めく世界を見られるぞ。\n――キミの瞳いっぱいに、映してやるからな！",
+      "choice_data_list": [
+        "Epi……"
+      ],
+      "jpchoice_data_list": [
+        "エピ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Epiphaneia chẳng hề hoài nghi bản thân dù chỉ một tích tắc, luôn vững tin vào tương lai xán lạn phía trước. Bị ảnh hưởng bởi nguồn năng lượng thuần khiết ấy chăng——trong thâm tâm tôi cũng dần nhen nhóm một niềm tin chắc chắn.",
+      "jpname": "モノローグ",
+      "jptext": "少しも自分を疑わず、輝く未来を信じているエピファネイア。\nそんな彼女に影響されたのか――自分の中にも、確信が生まれた。"
+    },
+    {
+      "name": "",
+      "text": "Epiphaneia rồi sẽ……không, nhất định em ấy sẽ làm nên những kỳ tích phi thường. Đó là kỳ tích gì thì lúc này tôi chưa thể biết được. Thế nhưng——trái tim tôi đã bắt đầu đập rộn ràng mất rồi.",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアはきっと……いや、間違いなく何かを成すだろう。\nそれが何かはわからない。だが――もう胸は高鳴ってしまっている。",
+      "choice_data_list": [
+        "…………Tôi thực sự rất mong chờ đấy"
+      ],
+      "jpchoice_data_list": [
+        "…………楽しみにしてるよ"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Ủa kìa, tiền bối Kris S!! Hóa ra người đang đứng đợi em nãy giờ lại là tiền bối sao! Thế chuyện là——",
+      "jpname": "エピファネイア",
+      "jptext": "あれ、クリスエス！！　なんだ、アタシを待ってたのはキミか！\nそれで――"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "A test——Trainer đó đang tự thử thách chính mình. Nếu không vượt qua được bài kiểm tra——người đó sẽ không còn là Trainer của em nữa.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "A test――あのトレーナーは、自分を試す。\n適わなければ――お前のトレーナーでは、なくなる。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……Hả?",
+      "jpname": "エピファネイア",
+      "jptext": "……え？"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Whether you change or not... Có để người đó bị bỏ lại phía sau hay không……hoàn toàn tùy thuộc vào em.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "Whether you change or not...\n置き去りにするかは……お前次第だ。"
+    },
+    {
+      "name": "",
+      "text": "——Dù đã hiểu sâu sắc hơn về con người của Epiphaneia, thế nhưng rốt cuộc……tôi vẫn chẳng thể nghe thấy tiếng nói của định mệnh. Thời gian chuẩn bị cho cuộc đua giờ đây chẳng còn bao nhiêu nữa……",
+      "jpname": "モノローグ",
+      "jptext": "――エピファネイアのことをまた深く知ることはできたが、結局……\n運命の声は聞こえなかった。レースまでもう対策の時間はない……。",
+      "choice_data_list": [
+        "(Hết cách rồi. Đã vậy thì, tuy có hơi thô bạo bằng sức mạnh cưỡng ép nhưng mà……)"
+      ],
+      "jpchoice_data_list": [
+        "（仕方ない。なら、力業だけど……）"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——Trainer sẽ hét thật to lên á?",
+      "jpname": "エピファネイア",
+      "jptext": "――トレーナーが叫ぶ？",
+      "choice_data_list": [
+        "Đúng vậy. Đến đúng thời khắc cần bung sức nước rút, tôi sẽ phát tín hiệu cho em",
+        "Ừ. Đến đúng thời điểm cần bứt tốc, tôi sẽ ra hiệu thật to cho em"
+      ],
+      "jpchoice_data_list": [
+        "ああ。仕掛けのタイミングで合図する",
+        "うん。仕掛けのタイミングで合図する"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tiếng nói của định mệnh là thứ tôi không thể kiểm soát. Nếu đã vậy——tôi nảy ra ý nghĩ rằng nếu dùng một âm lượng cực lớn áp đảo lên chính tiếng nói của định mệnh ấy……liệu tôi có thể chiến thắng được \"tiếng nói\" kia hay không.",
+      "jpname": "モノローグ",
+      "jptext": "運命の声は制御できない。ならば――その運命の声に、更に上回る\n大音量を被せれば……『声』に打ち勝てるのではないかと考えた。",
+      "choice_data_list": [
+        "(Tự bản thân tôi cũng thấy cách này dùng sức mạnh cưỡng cầu quá mức, nhưng……)"
+      ],
+      "jpchoice_data_list": [
+        "（我ながら力業すぎるけど……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thực lực và thể trạng của Epiphaneia ở thời điểm này vốn dĩ đã được rèn giũa tới ngưỡng cao nhất có thể rồi. Nếu còn một cơ may chiến thắng——thì chỉ có thể là điều hòa nhịp thở chuẩn xác và phát lực đúng vào thời khắc quyết định.",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアの能力はもう、現時点で仕上げられる最高点にある。\n勝ち目があるとすれば――呼吸を整え、正しく仕掛けることだ。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……Nhưng mà, làm như thế liệu có thực sự ổn không? Nói trước nhé, một khi đã nghe thấy tiếng nói của định mệnh vang lên rồi——thì em sẽ không thể nào dừng lại được đâu đấy.",
+      "jpname": "エピファネイア",
+      "jptext": "……でも、本当にそれでいいのか？\n悪いけど、運命の声を聞いたら――アタシは止まらないぞ。",
+      "choice_data_list": [
+        "Tôi biết rõ điều đó, nhưng hãy để tôi được thử thách một lần",
+        "Tôi hiểu điều đó, nhưng hãy cho tôi một cơ hội nghênh chiến"
+      ],
+      "jpchoice_data_list": [
+        "わかってる、でも挑ませてくれ",
+        "わかってる、でも挑ませて"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giá như thứ mà Epiphaneia lắng nghe được không phải là tiếng nói mơ hồ của định mệnh——mà chính là giọng nói của tôi. Khi ấy, tôi mới có thể ngẩng cao đầu tự hào đứng ở vị trí Trainer của em.",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアに聞こえるのが、運命の声ではなく――\n自分の声だったら。胸を張って、彼女のトレーナーになれる。",
+      "choice_data_list": [
+        "Tôi sẽ so tài cùng tiếng nói của định mệnh trong em!",
+        "Tôi sẽ quyết đấu cùng tiếng nói của định mệnh bên trong em!"
+      ],
+      "jpchoice_data_list": [
+        "君の運命の声と勝負だ！",
+        "貴方の運命の声と勝負だよ！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……——",
+      "jpname": "エピファネイア",
+      "jptext": "……――"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Thú vị lắm đấy! ——Chúng ta cùng thử xem nào!",
+      "jpname": "エピファネイア",
+      "jptext": "面白い！\n――やってみよう！"
+    },
+    {
+      "name": "",
+      "text": "Epiphaneia có một cú bứt phá xuất phát vô cùng thuận lợi. Lúc này dường như em ấy vẫn chưa nghe thấy tiếng nói của định mệnh……nên đang duy trì một phong độ chạy rất đẹp mắt.",
+      "jpname": "モノローグ",
+      "jptext": "快調に飛び出したエピファネイア。今はまだ、運命の声が\n聞こえてないのか……いい形で走れている。",
+      "choice_data_list": [
+        "(Vẫn chưa đâu nhé……vẫn chưa tới lúc……——)",
+        "(Vẫn chưa được bung sức đâu……chưa đâu……——)"
+      ],
+      "jpchoice_data_list": [
+        "（まだだぞ……まだ……――）",
+        "（まだだよ……まだ……――）"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……Hử? ……Hỡi tiếng nói, vẫn chưa tới lúc sao? Vẫn chưa……——",
+      "jpname": "エピファネイア",
+      "jptext": "……っ？\n……声よ、まだなのか？　まだ……――",
+      "choice_data_list": [
+        "——CHÍNH LÀ LÚC NÀY!!!!",
+        "——NGAY BÂY GIỜ NÀY!!!!"
+      ],
+      "jpchoice_data_list": [
+        "――今だ！！！！",
+        "――今だよ！！！！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "A!? ……Hóa ra là vậy, nếu đã thế——hãy cùng nhau tiến lên nào! UOOOOOOOOOOOOO……!!!!",
+      "jpname": "エピファネイア",
+      "jptext": "っ！？　……そうか、なら――ともに行こう！\nうおおおおおおおおお……！！！！"
+    },
+    {
+      "name": "",
+      "text": "Epiphaneia đã hoàn thành trọn vẹn đường đua mà không hề bị mất kiểm soát lao bạt mạng. Ngay tại vị trí then chốt cần bung sức, em ấy đã phản ứng chuẩn xác và dứt khoát……——Tiếng nói của tôi đã thực sự chạm tới em.",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアは、暴走せずに走り切った。仕掛けどころで、\nしっかり反応してくれた……――自分の声が届いたのだ。"
+    },
+    {
+      "name": "",
+      "text": "Ấy thế nhưng——chúng tôi vẫn thất bại. Sức mạnh vượt trội của Symboli Kris S quả thực ở một đẳng cấp hoàn toàn khác biệt……",
+      "jpname": "モノローグ",
+      "jptext": "それでも――敗北した。\nシンボリクリスエスの強さは、まさしく異次元だった……。",
+      "choice_data_list": [
+        "(Tôi đã không thể giúp em ấy chiến thắng. Như vậy thì, coi như mọi chuyện……)"
+      ],
+      "jpchoice_data_list": [
+        "（勝たせられなかった。これで、もう――）"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "——A shift.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――A shift.",
+      "choice_data_list": [
+        "Hả……"
+      ],
+      "jpchoice_data_list": [
+        "え……"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Hai người đã thất bại. Nhưng——hai người đã tạo nên sự đổi thay. Go——……Hãy tiếp tục tiến bước để tạo dựng nên thành quả.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "お前たちは、負けた。だが――変えた。\nGo――……結果を、成せ。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——Nó vang lên trùng khít một cách hoàn hảo với tiếng nói của định mệnh đấy. Tiếng hét \"CHÍNH LÀ LÚC NÀY\" của Trainer vang lên……!",
+      "jpname": "エピファネイア",
+      "jptext": "――運命の声と、ピタッと重なって聞こえたんだ。\n『今だ』っていう、キミの声が……！"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Em từng nghĩ giọng nói nâng bước cho em trên đời này chỉ có duy nhất một mà thôi. Thế nhưng……hoàn toàn không phải vậy. Giọng nói của Trainer cũng chính là thứ đã nâng bước đẩy lưng em tiến lên……",
+      "jpname": "エピファネイア",
+      "jptext": "この声は、たったひとつしかないはずだった。でも……\n違った。キミの声も、アタシの背中を押すものだった……。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Quả nhiên Trainer chính là——định mệnh đích thực của đời em……!",
+      "jpname": "エピファネイア",
+      "jptext": "やっぱりキミが――アタシの運命なんだ……！",
+      "choice_data_list": [
+        "Epi……"
+      ],
+      "jpchoice_data_list": [
+        "エピ……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Trainer, em nhất định sẽ dẫn lối đưa Trainer tới những thành quả rực rỡ và đỉnh cao nhất! Thế nên không cần phải băn khoăn trăn trở thêm chút nào nữa đâu! Cứ việc tin tưởng trọn vẹn nơi em!",
+      "jpname": "エピファネイア",
+      "jptext": "トレーナー、アタシがキミを最高の結果に導く！\nだからもう迷わないでいい！　ただ信じてくれ！"
+    },
+    {
+      "name": "",
+      "text": "Vào khoảnh khắc ấy, mọi bóng đen u ám trong lòng tôi đều tan biến sạch bách. Giờ đây sâu thẳm trong tim tôi, điều duy nhất……sáng bừng rực rỡ tựa một vì sao, chính là ước mong cháy bỏng được đồng hành và chứng kiến tương lai của Epiphaneia——",
+      "jpname": "モノローグ",
+      "jptext": "その時、全ての翳りが晴れた。心の中で、たったひとつ……\n星のように輝くのは、エピファネイアの未来を見たいという想い――"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Nào, hãy lắng nghe tiếng nói của em đi! Cho đến ngày định mệnh ngập tràn khắp muôn nơi trên thế giới này——Trainer sẽ luôn vững bước cùng em chứ!?",
+      "jpname": "エピファネイア",
+      "jptext": "さあ、アタシの声を聞いてくれ！\n世界に運命が満ちるその日まで――ついてくるだろ！？",
+      "choice_data_list": [
+        "Ừ, tôi nhất định sẽ đi cùng em!",
+        "Ừm, tôi sẽ luôn đồng hành bên em!",
+        "Đương nhiên rồi, chúng ta cùng tiến bước thôi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、ついていくよ！",
+        "うん、ついていくよ！",
+        "もちろん、進もう！"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Nào, hãy lắng nghe tiếng nói của em đi! Cho đến ngày định mệnh ngập tràn khắp muôn nơi trên thế giới này——Trainer sẽ luôn vững bước cùng em chứ!?",
+      "jpname": "エピファネイア",
+      "jptext": "さあ、アタシの声を聞いてくれ！\n世界に運命が満ちるその日まで――ついてくるだろ！？",
+      "choice_data_list": [
+        "Ừ, tôi nhất định sẽ đi cùng em!",
+        "Ừm, tôi sẽ luôn đồng hành bên em!",
+        "Đương nhiên rồi, chúng ta cùng tiến bước thôi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、ついていくよ！",
+        "うん、ついていくよ！",
+        "もちろん、進もう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vì tinh tú ấy rồi sẽ tỏa sáng rực rỡ ra sao, sẽ lập nên những kỳ tích vĩ đại nào? Lúc này tôi vẫn chưa thể nào hay biết. Thế nhưng sự dẫn lối của thứ ánh sáng ấy——chắc chắn là một con đường hoàn toàn đúng đắn.",
+      "jpname": "モノローグ",
+      "jptext": "その星は、どう輝き、何を成すのか？\n今はまだわからない。しかしその光の導きは――きっと、正しい。"
+    }
+  ]
+}

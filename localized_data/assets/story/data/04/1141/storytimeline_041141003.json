@@ -1,0 +1,398 @@
+{
+  "title": "Hãy tin vào tiếng nói của định mệnh!",
+  "jptitle": "運命の声を信じろ！",
+  "text_block_list": [
+    {
+      "name": "Epiphaneia",
+      "text": "Hộc……hộc…… ……",
+      "jpname": "エピファネイア",
+      "jptext": "はぁ……っ、はぁ……っ。\n……っ。",
+      "choice_data_list": [
+        "(Epi……)"
+      ],
+      "jpchoice_data_list": [
+        "（エピ……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Em ấy đã thua. Vì cứ lao đi bạt mạng mà chẳng hề ghìm nhịp suốt dọc đường đua, thể lực không thể duy trì nổi……để rồi trong chớp mắt đã bị vượt qua hoàn toàn——một thất bại toàn diện.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は負けた。道中、一度も抑えることなく突っ走った結果、\n体力が持たず……あっという間に差し切られてしまった――完敗だ。"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Running wild——Cứ để bản năng lồng lộn như thế thì không bao giờ thắng được. Not just against me……Dù là trước bất kỳ ai cũng vậy.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "Running wild――猛るままでは、勝てない。\nNot just against me……全てに、だ。"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "…………——",
+      "jpname": "エピファネイア",
+      "jptext": "…………――",
+      "choice_data_list": [
+        "A……!"
+      ],
+      "jpchoice_data_list": [
+        "あ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đến khi sực tỉnh, ánh tà dương đã buông xuống từ lúc nào. Từ trước tới giờ tôi chỉ toàn thấy những nét tính cách lạc quan vui vẻ của em ấy, nhưng……ngay lúc này đây, em ấy đang cảm thấy thế nào nhỉ.",
+      "jpname": "モノローグ",
+      "jptext": "気がつけば、すっかり日が傾いていた。ここまで前向きな側面しか、\n見てこなかったが……今、彼女はどんなことを感じているのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Nhìn vào sự tự tin ngút trời mà em từng thể hiện, thất bại nặng nề này chắc chắn là một cú sốc lớn. Hay là em đang ấm ức tiếc nuối khôn nguôi……",
+      "jpname": "モノローグ",
+      "jptext": "あれほどの自信を見せていたところを見ると、この敗北は\nショックだったに違いない。それか悔しがっているのか……。",
+      "choice_data_list": [
+        "Epi……"
+      ],
+      "jpchoice_data_list": [
+        "エピ……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Vâng! Có chuyện gì thế ạ!?",
+      "jpname": "エピファネイア",
+      "jptext": "うん！　なんだ！？"
+    },
+    {
+      "name": "",
+      "text": "Chẳng lẽ em ấy đã sớm chấp nhận thất bại và bình tâm trở lại rồi sao? Tôi có phần ngỡ ngàng trước vẻ bình thản ấy, nhưng……nếu đã vậy thì có lẽ chúng tôi có thể cùng nhau bàn luận về nguyên nhân thua cuộc.",
+      "jpname": "モノローグ",
+      "jptext": "もう敗北を受け入れ、整理し終えたのだろうか。平然とする彼女に、\n少し驚いたが……であれば、敗因についても話し合えそうだ。",
+      "choice_data_list": [
+        "Lần này, lý do khiến em thất bại là vì……",
+        "Lần này, nguyên nhân em chưa thắng được là do……"
+      ],
+      "jpchoice_data_list": [
+        "今回、君が負けてしまったのは……",
+        "今回、貴方が負けてしまったのは……"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Chỉ là chưa phải lúc này thôi mà!",
+      "jpname": "エピファネイア",
+      "jptext": "今じゃなかっただけだ！",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Em sẽ thắng. Nhất định sẽ thắng! Thế nên lần này, chỉ đơn giản là chưa thắng thôi.",
+      "jpname": "エピファネイア",
+      "jptext": "アタシは勝つ。必ず勝てる！\nだから今回は、ただ負けただけだ。",
+      "choice_data_list": [
+        "Không……cho nên tôi mới muốn phân tích——"
+      ],
+      "jpchoice_data_list": [
+        "いや……だから、その分析を――"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Không cần đâu, lần sau thắng là được mà! Tiếng nói của định mệnh chắc chắn cũng sẽ nói như thế!",
+      "jpname": "エピファネイア",
+      "jptext": "必要ない、次は勝てばいい！\n運命の声も必ずそう言うさ！",
+      "choice_data_list": [
+        "……Chỉ dựa vào khí thế thì kết quả không thay đổi được đâu",
+        "……Chỉ trông cậy vào nhiệt huyết thì kết quả chẳng đổi khác đâu"
+      ],
+      "jpchoice_data_list": [
+        "……勢いだけじゃ、結果は変わらないぞ",
+        "……勢いだけじゃ、結果は変わらないよ"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Sẽ đổi khác chứ! Chỉ cần tiến về phía trước, khung cảnh sẽ thay đổi! Cứ kiên trì lao về phía trước, ngay cả thế giới này cũng có thể xoay chuyển!",
+      "jpname": "エピファネイア",
+      "jptext": "変わるさ！　前へ進めば、景色が変わる！\nひたすら進めば、世界だって変えられる！"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "Với một người được định mệnh yêu thương như em, không có gì là bất khả thi cả! Em của ngày mai——nhất định sẽ mạnh hơn em của hôm nay!!",
+      "jpname": "エピファネイア",
+      "jptext": "運命に愛されたアタシに、不可能はない！\n明日のアタシは――今日より強い！！"
+    },
+    {
+      "name": "",
+      "text": "Tôi nghẹn lời. Em ấy đã thực sự nghiêm túc nhắm tới chiến thắng khi thách đấu một đàn chị vượt trội hơn hẳn, rồi nhận lấy một thất bại toàn diện. Vậy mà ngay lúc này, em ấy vẫn chẳng hề đánh mất đi chút tự tin nào——dù chỉ là một chút mảy may.",
+      "jpname": "モノローグ",
+      "jptext": "言葉が出なかった。彼女は本気で勝つ気で格上に挑み、完敗した。\nしかし今もなお、全く自信を失っていない――ただの少しも、だ。",
+      "choice_data_list": [
+        "(Một sự tự tin thái quá đến mức nguy hiểm. Ấy thế mà……tôi lại không thể phủ nhận nó)"
+      ],
+      "jpchoice_data_list": [
+        "（危険な過信だ。なのに……否定できない）"
+      ]
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "……Ồ! Em lại nghe thấy tiếng nói của định mệnh rồi! Lên đường thôi nào——!",
+      "jpname": "エピファネイア",
+      "jptext": "……お！　運命の声が聞こえる！\n行くぞー！"
+    },
+    {
+      "name": "",
+      "text": "……Tôi từng nghĩ em ấy chỉ đơn thuần bị cuốn theo thứ trực giác mang tên tiếng nói của định mệnh. Từng nghĩ rằng chỉ cần cho em ấy thấy một kết quả sai lầm, tôi sẽ có thể thuyết phục được em.",
+      "jpname": "モノローグ",
+      "jptext": "……運命の声という名の、単なる直感に振り回されているだけだと\n思っていた。間違った結果が出れば、説得できるようなものだと。",
+      "choice_data_list": [
+        "(Nhưng mọi chuyện chẳng hề đơn giản như tôi nghĩ)"
+      ],
+      "jpchoice_data_list": [
+        "（でも、そんな甘いものじゃなかった）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giọng nói ấy chính là đức tin của em. Em ấy thực sự tin tưởng trọn vẹn vào chính mình. Niềm tin rằng bản thân luôn luôn đúng ấy——tuyệt đối không bao giờ lay chuyển.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の声は、信念そのものだ。彼女は本気で、自分を信じている。\n自分は絶対に正しいというその自信は――けして、揺るがない。",
+      "choice_data_list": [
+        "(Một cô bé như thế này……tôi phải dẫn dắt em ấy ra sao đây?)",
+        "(Một đứa trẻ như thế này……tôi nên định hướng em ấy thế nào đây?)"
+      ],
+      "jpchoice_data_list": [
+        "（そんな子を……どう導けばいいんだ？）",
+        "（そんな子を……どう導けばいいの？）"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Trainer. ……Trainer không đuổi theo em Epi sao ạ?",
+      "jpname": "シーザリオ",
+      "jptext": "トレーナー。\n……エピさんのこと、追いかけないんですか？",
+      "choice_data_list": [
+        "Cesario……"
+      ],
+      "jpchoice_data_list": [
+        "シーザリオ……"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Em sợ làm phiền hai người nên đã không lên tiếng……nhưng em vẫn âm thầm dõi theo hai người đấy ạ.",
+      "jpname": "シーザリオ",
+      "jptext": "邪魔しないように、と思って声こそかけてはいませんでしたが……\nおふたりのこと、こっそり見守っていたんですよ。",
+      "choice_data_list": [
+        "……Để em nhìn thấy bộ dạng đáng thất vọng này rồi",
+        "……Tôi lại để em thấy bộ dạng bất lực này rồi"
+      ],
+      "jpchoice_data_list": [
+        "……情けないところ、見せちゃったな",
+        "……情けないところ、見せちゃったね"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Đâu có như vậy ạ…… Em Epi một khi đã quyết tâm thì chỉ lao thẳng một mạch thôi…… Chuyện lúc nào cũng bị em ấy cuốn đi theo, trước đây em cũng giống hệt như Trainer vậy.",
+      "jpname": "シーザリオ",
+      "jptext": "そんな……。エピさんは、決めたことには一直線ですから……\n引っ張られてばかりになってしまうのは、私も一緒でした。"
+    },
+    {
+      "name": "Cesario",
+      "text": "Thế nhưng, dẫu là vậy……chính vì em Epi là người như thế, nên chúng ta mới khao khát được nhìn thấy tương lai của em ấy, đúng không ạ? ……Trainer nhìn kìa.",
+      "jpname": "シーザリオ",
+      "jptext": "でも、それでも……そんなエピさんだからこそ。私たちは、\n彼女の未来を見たいと思うんでしょうね。……ほら。"
+    },
+    {
+      "name": "",
+      "text": "Epiphaneia lại đang luyện tập cùng với Symboli Kris S, người vừa mới đánh bại em ban nãy. ……Hay nói đúng hơn là——",
+      "jpname": "モノローグ",
+      "jptext": "エピファネイアは、先ほど負けたばかりのシンボリクリスエスと\n一緒にトレーニングをしていた。……というより――"
+    },
+    {
+      "name": "Epiphaneia",
+      "text": "——……Hộc……hộc……! ……Ra là vậy, nếu đạp trụ mạnh mẽ dứt khoát hơn như tiền bối Kris S thì……——",
+      "jpname": "エピファネイア",
+      "jptext": "――……っはぁ……はぁ……っ！\n……そうか、クリスエスみたくもっと踏み込めば……――",
+      "choice_data_list": [
+        "(……Em ấy đang tự mình bám riết lấy tiền bối sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（……一方的に、ついていってる？）"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Tiền bối Kris S thì dẫn dắt bằng chính tấm lưng ấy. Còn em thì ân cần chỉ dẫn bằng lời nói…… Cả hai chúng em đã cùng nhau dẫn dắt em Epi. ——Bởi chúng em bị thu hút bởi định mệnh của cô bé.",
+      "jpname": "シーザリオ",
+      "jptext": "クリスエスさんは、その背中で。私は言葉も交えて丁寧に……\nふたりで、エピさんを導いてきました。――彼女の運命に惹かれて。",
+      "choice_data_list": [
+        "Định mệnh……"
+      ],
+      "jpchoice_data_list": [
+        "運命……"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Khi em đang tìm gặp các bạn khóa dưới chưa debut để học cách hướng dẫn……thì em Epi đã chủ động xung phong. ——Em ấy bảo rằng \"đã cảm nhận được định mệnh\".",
+      "jpname": "シーザリオ",
+      "jptext": "指導を学ぶべく、デビュー前の子に声をかけていた時……\nエピさんが、立候補してくれたんです。――『運命を感じた』って。"
+    },
+    {
+      "name": "Cesario",
+      "text": "Ban đầu em cũng bỡ ngỡ lắm. Nhưng em Epi đã luôn nỗ lực hết mình theo sát từng bài tập của em……và cũng luôn kiên trì bám riết lấy tiền bối Kris S.",
+      "jpname": "シーザリオ",
+      "jptext": "最初は戸惑いました。でも、エピさん、私の指導にも一生懸命、\nついてきてくれて……クリスエスさんにも、食らいついていました。"
+    },
+    {
+      "name": "Cesario",
+      "text": "Chưa một lần nản lòng chùn bước……bất kể lúc nào cũng tin vào chính mình để tiến về phía trước. Bằng nguồn năng lượng khủng khiếp ấy, cô bé có thể phá tan bất cứ bức tường nào chắn lối……",
+      "jpname": "シーザリオ",
+      "jptext": "一度だって折れずに……どんな時も、自分を信じて前へと進む。\nあのとんでもない勢いで、どんな壁も壊していってしまう……。"
+    },
+    {
+      "name": "Cesario",
+      "text": "Thế nhưng, rồi cũng sẽ có ngày cô bé va phải bức tường không thể phá vỡ. Khi thời khắc ấy đến, người cô bé cần không phải là những đối thủ cùng thi đấu như chúng em……mà là một người dẫn đường có thể kìm hãm và điều hòa ngọn lửa ấy.",
+      "jpname": "シーザリオ",
+      "jptext": "それでも、いつかは壊せない壁にぶつかる。その時に必要なのは、\n同じ競技者の私たちではなく……あの炎を抑えられる、導き手です。"
+    },
+    {
+      "name": "Cesario",
+      "text": "Và ngay lúc này……Trainer đã xuất hiện. ——Người mà chính cô bé đã tự mình gọi là định mệnh……",
+      "jpname": "シーザリオ",
+      "jptext": "そして今……貴方が現れました。\n――あの子が自ら、運命と呼んだ貴方が……。",
+      "choice_data_list": [
+        "Nhưng mà, điều đó……chẳng có bất cứ cơ sở nào cả……"
+      ],
+      "jpchoice_data_list": [
+        "でも、そんなの……なんの根拠も……"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Chắc chắn không phải là cảm xúc từ một phía đâu ạ. Bản thân Trainer hẳn cũng cảm nhận được điều gì đó nên mới đứng ở nơi này, đúng không ạ? ……Ngay cả lúc này cũng vậy.",
+      "jpname": "シーザリオ",
+      "jptext": "一方的にでは、ないはずです。トレーナーだって、\n何か感じたものがあるから、ここにいるんでしょう？　……今も。",
+      "choice_data_list": [
+        "Điều tôi cảm nhận được……"
+      ],
+      "jpchoice_data_list": [
+        "感じたもの……"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Nếu đã như vậy, chỉ cần thêm một chút nữa thôi. Chỉ thêm một chút nữa thôi cũng được ạ——Trainer có thể nghĩ thêm về em Epi được không ạ?",
+      "jpname": "シーザリオ",
+      "jptext": "であれば、あともう少しだけ。もう少しだけでいいので――\nエピさんのこと、考えてみてもらえませんか？"
+    },
+    {
+      "name": "",
+      "text": "——Điều tôi cảm nhận được từ Epiphaneia. Liệu đó có phải là điều kỳ diệu mang tính định mệnh như lời em ấy nói hay không thì tôi không dám chắc. Nhưng……thứ ấy thực sự tồn tại.",
+      "jpname": "モノローグ",
+      "jptext": "――エピファネイアに感じるもの。それが彼女の言う、\n運命的な何かであるかはわからない。だが……確かに、ある。",
+      "choice_data_list": [
+        "(Những sải chạy bùng nổ ấy——không một ai có thể làm ngơ được)"
+      ],
+      "jpchoice_data_list": [
+        "（あの爆発的な走りは――無視できない）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thứ tôi cảm nhận được từ em ấy……đó chính là——\"lực hấp dẫn\". Bị cuốn hút bởi tiềm năng vô tận, bị mê hoặc bởi nguồn năng lượng dồi dào ấy……đến khi nhận ra thì chính tôi đã tự nguyện hòa mình vào vòng xoáy của em.",
+      "jpname": "モノローグ",
+      "jptext": "彼女に感じるもの……それは――“引力”だ。彼女の可能性に、\nそのエネルギーに惹かれ……気づけば自分から巻き込まれている。",
+      "choice_data_list": [
+        "Nhưng……nếu cứ giữ nguyên như hiện tại thì không ổn",
+        "Thế nhưng……cứ tiếp diễn thế này thì không được"
+      ],
+      "jpchoice_data_list": [
+        "でも……今のままじゃダメだ",
+        "でも……今のままじゃダメ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu chỉ thụ động để em ấy cuốn đi, tài năng thiên bẩm kia sẽ chẳng thể nào phát huy trọn vẹn. Còn nếu không thể dẫn dắt em ấy đi đúng hướng——thì thà rằng tôi nên từ bỏ tư cách làm Trainer của em còn hơn.",
+      "jpname": "モノローグ",
+      "jptext": "彼女に振り回されるままでは、その才能を活かしきれない。\n彼女をうまく導けないなら――いっそトレーナーを降りるべきだ。",
+      "choice_data_list": [
+        "(Mình phải tự đặt ra một thử thách cho chính bản thân——)"
+      ],
+      "jpchoice_data_list": [
+        "（自分に課題を設けよう――）"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "……Hộc…… …………",
+      "jpname": "シンボリクリスエス",
+      "jptext": "……っ……。\n…………。",
+      "choice_data_list": [
+        "Kris S, tôi có chuyện muốn nhờ cậu",
+        "Kris S, tôi có chuyện này muốn nhờ cô"
+      ],
+      "jpchoice_data_list": [
+        "クリスエス、君にお願いがある",
+        "クリスエス、貴方にお願いがある"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "...What?",
+      "jpname": "シンボリクリスエス",
+      "jptext": "...What?",
+      "choice_data_list": [
+        "Tôi muốn cô đấu một trận Match Race với Epi thêm một lần nữa"
+      ],
+      "jpchoice_data_list": [
+        "もう一度、エピとマッチレースをしてほしい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu từ giờ cho tới ngày quyết đấu, tôi có thể chỉ dẫn cho em ấy và giúp em đánh bại được Symboli Kris S——thì khi ấy, tôi mới thực sự xứng đáng với danh xưng Trainer của em.",
+      "jpname": "モノローグ",
+      "jptext": "勝負の日までに彼女を導き、シンボリクリスエスに勝たせることが\nできれば――本当の意味で、トレーナーとして相応しくなれる。"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "…………Epi không thể thắng được đâu. Trainer——đang muốn tìm một cái cớ thoái thác sao?",
+      "jpname": "シンボリクリスエス",
+      "jptext": "…………彼女は、勝てない。\nお前は――口実が、欲しいのか？"
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt sắc sảo của cô ấy như đâm xuyên qua tâm can tôi. Hẳn là cô ấy nghĩ tôi đang muốn mượn cớ thất bại để từ bỏ việc phụ trách em ấy…… Thế nhưng, lý do thực sự hoàn toàn không phải vậy.",
+      "jpname": "モノローグ",
+      "jptext": "鋭い視線に貫かれる。負けを理由に、担当を降りようとしている……\nそう思われているのだろう。だが、実際の理由は違う。",
+      "choice_data_list": [
+        "Chỉ là tôi đã quyết định đặt niềm tin vào \"tiếng nói\" mách bảo rằng em ấy sẽ thắng",
+        "Chỉ là tôi quyết định tin vào \"tiếng nói\" khẳng định rằng con bé sẽ thắng"
+      ],
+      "jpchoice_data_list": [
+        "勝つという“声”を信じることにしただけだ",
+        "勝つという“声”を信じることにしただけ"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "——…………",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――…………。"
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Understood. Hẹn một tháng sau. ——Hãy thử vượt qua tôi xem.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "Understood.　一か月後だ。\n――私を、超えてみろ。"
+    }
+  ]
+}
