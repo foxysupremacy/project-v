@@ -1,0 +1,309 @@
+{
+    "title": "Chúng ta... là một \"đàn\"!",
+    "text_block_list": [
+        {
+            "name": "Học sinh tham gia trại huấn luyện A",
+            "text": "Ư~, cái nắng này, cát này...! Quả nhiên tập luyện ở trại hè khắc nghiệt thật đấy~!"
+        },
+        {
+            "name": "Học sinh tham gia trại huấn luyện B",
+            "text": "Chà, công nhận là mệt thật... Nhưng mà, cậu nhìn xem cũng có những bạn trông đang rất tận hưởng kìa?"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng. Dù trên núi là tuyệt nhất rồi, nhưng quả thật ngoài biển cũng rất tuyệt vời, chị Huấn luyện viên nhỉ!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Tất nhiên là rất lý tưởng cho việc huấn luyện rồi... Nhưng ví dụ như cành cây này. Chị có nghĩ nó có thể tận dụng vào việc gì đó không?",
+            "choice_data_list": [
+                "...A. Nếu phơi khô thì có thể làm vật liệu dựng lều trú ẩn sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Đúng vậy ạ! Hơn nữa, khúc xương to rơi ở đằng kia chắc chắn cũng có thể tận dụng được. Nếu mài cẩn thận thì ――",
+            "choice_data_list": [
+                "Ra vậy. Cái này thì làm... lưỡi câu cá được này!"
+            ]
+        },
+        {
+            "name": "Học sinh tham gia trại huấn luyện A",
+            "text": "...Tr-Trông hai người đó có vẻ vui nhỉ?"
+        },
+        {
+            "name": "Học sinh tham gia trại huấn luyện B",
+            "text": "Hộc hộc...! Cái lộ trình đi bộ đường dài này, oải quá đi...!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Hửm. Có tiếng nước chảy. Có vẻ như ở đằng kia có một con sông đấy ạ",
+            "choice_data_list": [
+                "",
+                "Vậy là đảm bảo được nguồn nước rồi nhỉ"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng ạ. Thêm vào đó, chỗ này cũng không nằm trên đường nước chảy ―― Nếu vậy, đây là một địa điểm hoàn hảo để dựng lều trú ẩn"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nếu đào được đất sét ở gần bờ sông thì chúng ta còn có thể nặn ra những món đồ gốm tuyệt vời nữa... Quanh đây, xem chừng rất đáng để thám hiểm đấy ạ!",
+            "choice_data_list": [
+                "",
+                "Ừm, nghe háo hức thật đấy"
+            ]
+        },
+        {
+            "name": "Học sinh tham gia trại huấn luyện B",
+            "text": "...Kì lạ thật. Tớ cứ tưởng đây là trại huấn luyện đua ngựa chứ... Hình như có những người đến đây để tham gia một trại hè với mục đích hoàn toàn khác thì phải..."
+        },
+        {
+            "text": "Chúng tôi đã tận hưởng một trại huấn luyện trọn vẹn và đầy ý nghĩa như thế đấy, thế nhưng ―― vào một đêm nọ",
+            "choice_data_list": [
+                "Có vài học sinh vẫn chưa quay lại khu nhà nghỉ của trại sao!?"
+            ]
+        },
+        {
+            "text": "Có vẻ như các em ấy đã đi thử thách lòng dũng cảm và vẫn chưa trở về. Ngay lập tức, tôi cùng với mọi người đã lên đường đi tìm kiếm"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "――À ừm, chị Huấn luyện viên!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Xin chị hãy cho em được giúp một tay ạ!",
+            "choice_data_list": [
+                "Không được, chuyện này cứ để người lớn lo"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Em sẽ không làm vướng chân mọi người đâu. Em đã rất quen thuộc với rừng đêm rồi"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chính vào những lúc thế này, việc em có thể giúp ích được mới chứng minh ý nghĩa của những điều em đã học hỏi từ thiên nhiên. Xin chị... hãy cho phép em!",
+            "choice_data_list": [
+                "",
+                "...Chị hiểu rồi. Nhưng tuyệt đối không được rời xa chị đâu nhé"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Em cảm ơn chị!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nàyyyyy!! Có ai nghe thấy không, hãy trả lời đi ạ――!!",
+            "choice_data_list": [
+                "Dù có nghe thấy thì cũng hãy đứng yên tại chỗ nhé!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Chỉ cần giọng nói này truyền đến được một chút thôi, cũng đủ để các bạn ấy vơi bớt đi sự bất an rồi. Chúng ta đi thôi ạ. Chị em mình cũng phải hết sức cẩn thận ――",
+            "choice_data_list": [
+                "",
+                "Ừ. Chúng ta vừa đi vừa đánh dấu lại trên cây nhé"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Đường đi bắt đầu mờ dần rồi. Nếu bị lạc thì, chắc là ở quanh khu vực này thôi...",
+            "choice_data_list": [
+                "Hửm... Đây chẳng phải là móc khóa sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "! Chị tinh mắt thật đấy. Bị lá rụng che khuất thế kia cơ mà...",
+            "choice_data_list": [
+                "Bằng cách nào đó... chị cảm thấy có sự bất an, có lẽ vậy"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Fufu. Quả không hổ danh là người đã vượt qua được bài huấn luyện sinh tồn đó."
+        },
+        {
+            "name": "Daring Tact",
+            "text": "――A, ở đây! Có dấu chân. ...Hình dáng của móng ngựa cũng nhìn thấy rõ. Chúng ta mau đuổi theo thôi!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Thật khó để nghĩ rằng các bạn ấy đã lội qua dòng suối chảy xiết này, nhưng... Để em thử tìm xem có dấu vết nào khác không nhé"
+        },
+        {
+            "text": "Quanh đây có rất nhiều đá tảng, nên việc lần theo dấu chân là vô cùng khó khăn. Nếu vậy thì, có thứ gì khác để làm manh mối không ――",
+            "choice_data_list": [
+                "(...Hửm? Đây là...)"
+            ]
+        },
+        {
+            "text": "(Rắc...)",
+            "choice_data_list": [
+                "T-Tiếng gì vừa rồi thế...?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Là tiếng động vật giẫm gãy cành cây thôi ạ. ...Không sao đâu. Dựa vào âm thanh thì em đoán đó là một con nai"
+        },
+        {
+            "text": "Hồi huấn luyện sinh tồn, em ấy từng nói rằng. Những loài động vật như gấu hay nai thường bước đi rất thận trọng, hiếm khi gây ra tiếng động, nhưng thi thoảng vẫn vô tình giẫm phải cành cây"
+        },
+        {
+            "text": "Chỗ này cũng có cành cây bị giẫm gãy. Thế nhưng ―― nếu là động vật giẫm phải, thì phạm vi quá rộng và thiếu tính cảnh giác",
+            "choice_data_list": [
+                "(Lẽ nào... đây là?)"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Em hiểu rồi. Quả thực giống như lời chị nói, em nghĩ đây là cành cây đã bị thứ gì đó giẫm gãy",
+            "choice_data_list": [
+                "Nếu lần theo dấu vết này, biết đâu..."
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Chỉ là... Việc đây có phải là dấu vết do những người đi thử thách lòng dũng cảm để lại hay không thì... chính em cũng không dám chắc"
+        },
+        {
+            "text": "――Đúng là, trong thời gian diễn ra trại huấn luyện, việc học sinh chạy bộ trên ngọn núi này cũng không hiếm. Khả năng các em ấy tình cờ giẫm gãy cành cây hoàn toàn có thể xảy ra"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "............ Chị nghĩ sao về chuyện này ạ?",
+            "choice_data_list": [
+                "",
+                "...Chị á?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng. Những cành cây này có phải do những người đi lạc giẫm phải hay không"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Đây là vết mới, hay đã cũ. Hoặc giả, chúng chỉ vô tình bị giẫm lên, hay là bị giẫm nát trong nỗi sợ hãi tột cùng. ...Em muốn lắng nghe ý kiến của chị",
+            "choice_data_list": [
+                "",
+                "...Chị à..."
+            ]
+        },
+        {
+            "text": "Vừa nhớ lại những lời em ấy từng nói trước đây, tôi vừa nhìn chằm chằm ―― Khoảng cách giữa các cành cây. Đây là dấu vết của việc chạy, hay là dấu vết của bước đi"
+        },
+        {
+            "text": "Thêm nữa, đây là dấu vết của việc di chuyển một cách bình tĩnh, giữ khoảng cách nhất định với nhau. Hay là dấu vết của sự di chuyển trong hoảng loạn, nép sát vào nhau vì bất an ――",
+            "choice_data_list": [
+                "...Quả nhiên, chị nghĩ đây là dấu vết của những đứa trẻ bị lạc"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "........... Em cũng nghĩ vậy. ――Vậy thì, chúng ta đi thôi!"
+        },
+        {
+            "text": "Em ấy không nói thêm lời nào, cũng chẳng hỏi lý do tại sao. Và rồi chúng mình cùng nhau lần theo dấu vết của những cành cây gãy"
+        },
+        {
+            "text": "...Nghĩ lại thì, dù đang bước đi giữa rừng sâu tối tăm, tôi lại chẳng hề cảm thấy lo lắng hay sợ hãi. Thậm chí, còn chẳng mảy may cảm thấy mệt mỏi một cách kỳ lạ",
+            "choice_data_list": [
+                "(...Chắc là vì có Tact ở bên cạnh nhỉ?)"
+            ]
+        },
+        {
+            "text": "Không biết từ lúc nào, cả nhịp bước lẫn nhịp thở, dường như cũng đang đồng điệu với em ấy. Dù là địa hình hẻo lánh như lối mòn của thú rừng, tôi vẫn không cảm thấy khó khăn, cứ thế mà tiến bước ――"
+        },
+        {
+            "text": "(Rắc)"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "! Chị Huấn luyện viên! Vừa rồi là ――",
+            "choice_data_list": [
+                "",
+                "Tiếng cành cây gãy... Chắc chắn là mấy đứa học sinh rồi!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nàyyyyy!! Có ai ở đó không ạ――!?",
+            "choice_data_list": [
+                "Nàyyyyy!!"
+            ]
+        },
+        {
+            "name": "Học sinh tham gia trại huấn luyện A",
+            "text": "! C-Có người đến cứu chúng ta rồi kìa!? Nàyyyyy!!"
+        },
+        {
+            "text": "Cứ như vậy, sau một hồi truy tìm, chúng tôi đã tìm thấy các học sinh, và mọi chuyện đã được giải quyết êm xuôi"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Mọi người không ai bị thương là tốt rồi. Chị Huấn luyện viên, nhờ có chị mà mọi việc mới yên ổn đấy ạ",
+            "choice_data_list": [
+                "",
+                "Không đâu. Hầu hết là nhờ vào công của em mà"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "............ Chị Huấn luyện viên. Lúc đó, chị có nghĩ tại sao em lại quyết định lần theo dấu vết của cành cây không ạ?",
+            "choice_data_list": [
+                "",
+                "Việc đó thì... Chẳng phải là vì em cũng cảm nhận được điều đó sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Quả thực, em cũng đã cảm thấy như vậy. ...Thế nhưng. Lý do lớn nhất ――"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "――Đó là vì chị Huấn luyện viên. Vì em cảm nhận được rằng, chị cũng đang có chung suy nghĩ giống như em ―― em đã nghĩ như vậy đấy"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Thật là một trải nghiệm kỳ lạ. Lúc đó ―― chỉ cần nhìn vào mắt chị, em liền phần nào hiểu được chị đang nghĩ gì"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Cả em, và người này, cùng chung một cảm nhận. Vậy thì, chắc chắn sẽ không sai được ――"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Từ xưa, em đã luôn cảm thấy ngưỡng mộ. Khi nhìn thấy một cặp gấu trúc hay một đàn nai thong dong bước đi trong khu rừng tăm tối"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chắc chắn đó là bởi chúng có những người đồng đội có thể thấu hiểu và tin tưởng lẫn nhau. Thế nên chúng mới có thể sống ở nơi đó mà không hề sợ hãi ――"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Cảm xúc đó của các loài động vật ―― Có lẽ, lần đầu tiên em cũng đã thực sự cảm nhận được"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chị Huấn luyện viên. Cùng với chị, bước đi giữa thiên nhiên",
+            "choice_data_list": [
+                "",
+                "...Chị, cũng đã tiến gần hơn đến em rồi nhỉ"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng ạ. Chị em mình ―― đã trở thành một “bầy đàn” hoàn hảo rồi!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Cho dù là ở bất cứ nơi đâu, chắc chắn... chỉ cần có hai người chúng ta sẽ có thể mở đường và sinh tồn được!"
+        }
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "title": "Hãy chớp lấy \"sự hoang dã\"!   ",
+    "text_block_list": [
+        {
+            "text": "――Văn minh nhân loại, tựa như một ảo ảnh mong manh. Chỉ khi đặt mình vào giữa thiên nhiên khắc nghiệt, ta mới thực sự thấm thía điều đó"
+        },
+        {
+            "text": "Ở đây chẳng có chiếc giường ấm áp nào, thậm chí một bức tường hay mái nhà để che mưa chắn gió cũng không. Nếu không có một ý chí sinh tồn mạnh mẽ, ta chỉ có thể lụi tàn dần mà thôi"
+        },
+        {
+            "text": "Đúng vậy. Bước đi trên những lối mòn của thú rừng, ăn cỏ dại, tắm trong nước bùn. Kẻ không làm được những điều đó, chỉ có con đường bị đào thải ――",
+            "choice_data_list": [
+                "(Kh... khát nước quá...!) "
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chị Huấn luyện viên! Em đun sôi nước xong rồi ạ! Chị có muốn nghỉ tay uống chút trà ngải cứu không?"
+        },
+        {
+            "text": "...Tất cả, là để làm quen với môi trường \"hoang dã\". Là để có thể tiến gần hơn, dù chỉ một chút, đến \"góc nhìn\" mà Daring Tact sở hữu"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Có nghĩa là, chị muốn học các kỹ năng sinh tồn bài bản ―― đúng không ạ? Chị Huấn luyện viên",
+            "choice_data_list": [
+                "",
+                "Chị muốn có chung góc nhìn với em, dù chỉ một chút thôi"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Ưm... Em biết một địa điểm rất lý tưởng ạ. Chỉ là ―― Sẽ phải đi khá xa đấy, chị có ổn không?",
+            "choice_data_list": [
+                "Nhất định phải đi rồi!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "――Em hiểu rồi ạ. Vậy thì, chúng ta hãy đến đó thôi. Đó cũng là một ngọn núi đầy hoài niệm đối với em"
+        },
+        {
+            "text": "Và nơi chúng tôi hướng đến ―― chính là quê hương của Daring Tact. Ngọn núi mà em ấy đã lần đầu tiên thử sức với \"chuyến cắm trại sinh tồn qua đêm"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Hít... hà... Ưm, hoài niệm thật. Mùi của không khí vẫn chẳng hề thay đổi so với hồi đó ――",
+            "choice_data_list": [
+                "(...Cơ mà, không ngờ lại đến đây tay không như vậy)"
+            ]
+        },
+        {
+            "text": "Đúng vậy. Lần này, ngoại trừ nước uống tạm thời ra, chúng tôi không mang theo bất kỳ sản phẩm nào của nền văn minh hiện đại cả. Đúng nghĩa là sinh tồn luôn"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Được rồi. Đầu tiên, chúng ta phải làm một cái lều trú ẩn để ngủ đã. Phải đi gom nhặt cành cây và lá để làm nguyên liệu thôi",
+            "choice_data_list": [
+                "Nhưng gom bằng cách nào bây giờ? Đồ nghề cũng không có ――"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Không sao đâu ạ. Chúng ta hãy cùng nhau đi tìm những hòn đá tốt nhé",
+            "choice_data_list": [
+                "Đ-Đá á...!?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng ạ. Chúng ta sẽ chế tác đồ đá, và dùng nó như một vật sắc nhọn. A, tất nhiên là em sẽ chỉ cho chị cách làm rồi. Chị đừng lo nhé!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chị nhớ kỹ nhé, chị Huấn luyện viên. Bí quyết là phải chọn những viên đá cứng và có kết cấu mịn"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Từ hình dáng cho đến kích thước, mỗi viên đá đều có một tính cách khác nhau. Việc nhìn thấu được điều đó cũng là một phần thú vị đấy ạ.",
+            "choice_data_list": [
+                "Kh-Khó quá..."
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chắc chắn ai mới bắt đầu cũng sẽ thấy vậy thôi ạ. Lần đầu tiên làm, em cũng đã rất chật vật"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Có những viên dù đập thế nào cũng không ra hình dáng như ý muốn... Hoặc cất công mài giũa chăm chỉ, nhưng lại giòn quá nên chẳng dùng làm công cụ được"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nhưng mà ―― không sao đâu ạ. Em tin là dần dần, chị Huấn luyện viên cũng sẽ cảm nhận được thôi",
+            "choice_data_list": [
+                "Cảm nhận... sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng. Dù rất khó để giải thích bằng lời... nhưng thông qua việc nhìn ngắm, chạm vào, chị sẽ dần cảm nhận được xem viên đá đó có thể trở thành vật sắc nhọn hay không."
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Tất nhiên, không phải là sử dụng siêu năng lực gì đâu ạ... Em nghĩ, đó là khi những kinh nghiệm được tích lũy đã thấm nhuần vào cơ thể",
+            "choice_data_list": [
+                "(Hừm, chặng đường này có vẻ còn dài đây...)"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Bí quyết để nhóm lửa là, ban đầu cứ từ từ, sau đó tăng dần tốc độ... Như thế này, xoay, xoay, xoay! Chị cố lên nhé!",
+            "choice_data_list": [
+                "Hừmmmmmmm...!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...A, có khói bốc lên rồi kìa! Chị giỏi quá đi mất!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Khu vực suối này từ xưa đã giúp ích rất nhiều cho việc tìm kiếm nguồn thức ăn đấy ạ. ――A. Chị Huấn luyện viên nhìn kìa, có một con ve sầu to lắm!",
+            "choice_data_list": [
+                "...Kh-Không lẽ, đó là bữa cơm của chúng ta sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Dạ? À, không, không phải đâu ạ! Em chỉ nghĩ là có thể dùng nó làm mồi câu cá được không thôi",
+            "choice_data_list": [
+                "May quá..."
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nhưng, đó là một suy nghĩ rất hay đấy ạ! Loại côn trùng đó nổi tiếng là giàu dinh dưỡng mà... Chị Huấn luyện viên, có vẻ chị đã dần quen với môi trường tự nhiên rồi đấy!",
+            "choice_data_list": [
+                "(...Có nên... vui không nhỉ?)"
+            ]
+        },
+        {
+            "text": "Dù còn nhiều chật vật, nhưng tôi đang dần nắm bắt được các kỹ năng sinh tồn. Thế nhưng ――"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Hửm. Viên đá này tốt đấy. Chắc là ―― thích hợp để làm đá ghè đây",
+            "choice_data_list": [
+                "(...Làm sao mà em ấy có thể biết được điều đó chứ...)"
+            ]
+        },
+        {
+            "text": "Một trực giác vô cùng đặc biệt của em ấy. Về \"góc nhìn\" thiên nhiên của Daring Tact, tôi vẫn cảm thấy bản thân chưa thể nào với tới được"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Vậy thì, chúng ta cùng tiến đến bài kiểm tra cuối cùng của chuyến cắm trại sinh tồn lần này thôi",
+            "choice_data_list": [
+                "",
+                "Ừ. Nói cách khác, đây chính là thử thách cuối cùng nhỉ"
+            ]
+        },
+        {
+            "text": "Hôm nay là ngày cuối cùng. Nhiệm vụ là phải an toàn đến được địa điểm đã định trên núi. Đây cũng chính là thử thách mà Daring Tact ngày xưa từng thực hiện"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chuyến đi sẽ hơi dài một chút, nhưng với những kỹ năng đã rèn luyện đến giờ, thì chắc chắn sẽ không sao đâu ạ. ...Chúng ta cùng nhau cố gắng nhé!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Phù... Chúng ta đã đi được một quãng khá xa rồi. Chị Huấn luyện viên, chị có nắm được phương hướng hiện tại không ạ?",
+            "choice_data_list": [
+                "Ờm... phía đó là hướng Bắc!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Chính xác ạ! Nhìn xuống dưới gốc cây hay tảng đá, hướng nào rêu mọc nhiều thì đó là hướng Bắc. Chị đã nhớ rất kỹ phương pháp này nhỉ!"
+        },
+        {
+            "text": "Dù là lộ trình đi bộ xuyên núi suốt cả một ngày dài, nhưng bằng cách nào đó chúng mình vẫn tiến bước mà không gặp vấn đề gì, cho đến khi ――"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Địa hình đã thay đổi so với ngày xưa. Chỗ này đáng lẽ là một con dốc... nhưng giờ đã hoàn toàn biến thành một vách đá mất rồi",
+            "choice_data_list": [
+                "Thế này thì, không thể nào đi tiếp được nữa..."
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": ".................. Dù sao thì, tạm thời chúng ta cứ quay lại và dựng trại đã nhé."
+        },
+        {
+            "text": "Đến tận bước này rồi mà vẫn bị cản bước. Rốt cuộc thì, có lẽ thiên nhiên không mỉm cười với tôi ―― giống như cái cách nó đối xử với em ấy",
+            "choice_data_list": [
+                "",
+                "Quả nhiên là, chị không thể nào làm được như em rồi nhỉ"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Không có chuyện đó đâu ạ. Ngay cả em, cũng chỉ mới quen thuộc với thiên nhiên được một chút thôi"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Thực tế là, ngày xưa khi lần đầu tiên em đến đây... trong đêm đầu tiên, em đã khóc đấy. Xung quanh tối đen như mực, lại còn cảm thấy bơ vơ nữa",
+            "choice_data_list": [
+                "",
+                "Hả... Ngay cả em cũng vậy sao?"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vâng ạ. Quả nhiên dù là nơi quen thuộc đến mấy, thì việc phải ngủ lại qua đêm cũng hoàn toàn khác. Đến cả một tiếng động nhỏ hay sự dao động của không khí cũng khiến em sợ hãi, không tài nào chợp mắt nổi"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Nhưng... chợt em nhận ra. Ngọn núi này, thiên nhiên này ―― đâu phải vì muốn dọa em sợ nên mới tạo ra những âm thanh đó"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Thiên nhiên vốn dĩ chỉ tồn tại ở đó. Không phải kẻ thù, cũng chẳng phải đồng minh. Việc cảm thấy sợ hãi nó, thực chất chỉ là vấn đề của chính bản thân em mà thôi ―― em đã nghĩ như vậy"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Vì thế, hãy cứ nhìn nhận nó đúng như bản chất vốn có. Và rồi, hòa mình vào trong đó. Bản thân mình, cũng dần trở thành một phần của thiên nhiên"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Khi đó, lần đầu tiên, thiên nhiên mới cho phép chúng ta được sống. Mới chỉ cho chúng ta con đường để sinh tồn ―― em đã luôn nghĩ như vậy đấy",
+            "choice_data_list": [
+                "(Nhìn nhận thiên nhiên... đúng như bản chất vốn có)"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Chị muốn làm thế nào ạ, chị Huấn luyện viên. Tất nhiên, việc không cố chấp và lựa chọn quay lại, cũng là một quyết định hoàn toàn sáng suốt",
+            "choice_data_list": [
+                "...Không. Đợi chị một chút"
+            ]
+        },
+        {
+            "text": "Tôi nhớ lại những lời em ấy đã nói ngày hôm qua. Nhìn nhận đúng như bản chất vốn có. Khi làm như vậy, lần đầu tiên ta sẽ tìm ra được lối thoát. Nếu vậy thì ――",
+            "choice_data_list": [
+                "",
+                "...Có rất nhiều dây leo ở quanh đây nhỉ"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Là dây sắn dây ạ. Độ bền khá cao đấy. Chỉ là, nếu dùng để chịu sức nặng của cơ thể thì quả thật không được an tâm cho lắm",
+            "choice_data_list": [
+                "...Nhưng, chắc chắn sẽ có cách tận dụng nó"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "! ...Nếu vậy, chị định làm gì ạ?",
+            "choice_data_list": [
+                "Chúng ta đan chúng lại ―― để làm thành một sợi dây thừng!"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Ý tưởng tuyệt vời quá! Chị Huấn luyện viên!"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "...Được rồi! Nó móc vào chắc chắn rồi! Có vẻ ổn đấy ạ, chị Huấn luyện viên!"
+        },
+        {
+            "text": "Cứ như thế, bằng cách nào đó chúng tôi đã vượt qua cửa ải cuối cùng, và thành công đến được địa điểm mục tiêu"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "――Chị làm xuất sắc lắm, chị Huấn luyện viên. Chị đã biến thiên nhiên trở thành đồng minh của mình rồi đấy",
+            "choice_data_list": [
+                "",
+                "Có lẽ chị đã tiến gần hơn đến góc nhìn của em được một chút rồi nhỉ"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Fufu. Vâng, chắc chắn là vậy rồi ạ"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "............Ủa? Đó là... ――!"
+        },
+        {
+            "text": "Nhìn theo hướng đó... tôi nhận ra dưới gốc của một cái cây, có một vài món đồ đá được xếp chồng lên nhau"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Quả nhiên là vậy! Đây là... thứ mà ngày xưa em đã để lại làm minh chứng cho việc mình đã chinh phục nơi này. Chà... fufufu, không ngờ nó vẫn còn ở đây...!",
+            "choice_data_list": [
+                "",
+                "Nếu vậy thì, chị cũng..."
+            ]
+        },
+        {
+            "text": "Mình nhẹ nhàng đặt những món đồ đá mà mình đã sử dụng từ bữa tới giờ lên bên cạnh đống đá của Daring Tact"
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Fufu ―― Vậy là có hai ngọn núi nhỏ rồi nhỉ",
+            "choice_data_list": [
+                "",
+                "Một ngày nào đó, chị muốn lại được đến đây"
+            ]
+        },
+        {
+            "name": "Daring Tact",
+            "text": "Đúng vậy... Nhất định rồi ạ"
+        }
+    ]
+}
