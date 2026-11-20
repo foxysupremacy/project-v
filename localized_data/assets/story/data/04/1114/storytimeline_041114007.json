@@ -1,0 +1,482 @@
+{
+  "title": "Tất cả, mãi mãi, và từ nay về sau.",
+  "jptitle": "『全部、ずっと、これからも。』",
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "(Lượt chạy cuối cùng của đợt tập huấn mùa hè……! Mình sẽ cho thấy kết quả…… của sự đồng lòng sát cánh cùng Trainer-san!)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（夏合宿、最後の一本……！\nトレーナーさんと、二人三脚の……結果を！）"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Y a a a a a a a a——!!",
+      "jpname": "ブエナビスタ",
+      "jptext": "やぁああああああああっ！！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer-san ơi, em cảm ơn nhiều lắm!",
+      "jpname": "ブエナビスタ",
+      "jptext": "トレーナーさん、ありがとうございました！",
+      "choice_data_list": [
+        "Chúc mừng em đã hoàn thành toàn bộ giáo án huấn luyện!"
+      ],
+      "jpchoice_data_list": [
+        "全トレーニングメニュー完遂、おめでとう！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dạ vâng! ……Vậy là xong xuôi hết rồi. Đợt tập huấn mùa hè trôi qua nhanh như một cái chớp mắt nhỉ.",
+      "jpname": "ブエナビスタ",
+      "jptext": "はいっ！　……これで、おしまい。\n夏合宿も、あっという間だったね。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hì hì, công nhận em chỉ biết cắm đầu chạy thôi đó. Suốt ngày chỉ toàn chạy là chạy. Đây cũng là một phần của tuổi thanh xuân chăng?",
+      "jpname": "ブエナビスタ",
+      "jptext": "ふふ、ひたすら走ったなあ。\n走る一色。これも青春かな？",
+      "choice_data_list": [
+        "Vậy em có muốn làm chút gì đó đậm chất mùa hè nữa không?"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、違う夏っぽいこともする？"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dạ? ……Thật sao ạ?",
+      "jpname": "ブエナビスタ",
+      "jptext": "え？　……いいの？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Vâng, vâng ạ……! Đi chứ. Đợi em chút xíu nhé, em đi tìm xem có sự kiện gì thú vị không!",
+      "jpname": "ブエナビスタ",
+      "jptext": "……うん、うん……！\nしよう。ちょっと待っててね、イベント探してくるから！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer-san ơi, có lễ hội pháo hoa này. Cái này đậm chất mùa hè lắm đúng không ạ?",
+      "jpname": "ブエナビスタ",
+      "jptext": "トレーナーさん、花火大会があるって。\nこれ、夏っぽくないかな？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Ngày xưa hai đứa mình cũng từng đi xem cùng nhau rồi nhỉ. Được mẹ mặc cho bộ yukata, rồi leo lên nóc tòa nhà cao tầng……",
+      "jpname": "ブエナビスタ",
+      "jptext": "……昔も一緒に見に行ったよね。\nお母さんに浴衣着せてもらって、高い建物にのぼって……。",
+      "choice_data_list": [
+        "Đúng thế, tôi nhớ chứ. Hình như là——"
+      ],
+      "jpchoice_data_list": [
+        "そうだね、覚えてるよ。確か――"
+      ]
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Oa……! Đẹp quá đi mất thôi! Hì hì, pháo hoa nổ to quá xá luôn!",
+      "jpname": "幼いブエナ",
+      "jptext": "わぁ……！　きれいだねぇ！\nうふふ、たーまやー！"
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Anh ơi, anh thích chùm pháo hoa nào nhất? Buu-chan là thích chùm màu ánh kim kia nhất đó!",
+      "jpname": "幼いブエナ",
+      "jptext": "お兄ちゃん、どの花火が好き？\nぶぅちゃんはね、あの金色の！"
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Chị ơi, chị thích chùm pháo hoa nào nhất? Buu-chan là thích chùm màu ánh kim kia nhất đó!",
+      "jpname": "幼いブエナ",
+      "jptext": "お姉ちゃん、どの花火が好き？\nぶぅちゃんはね、あの金色の！"
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Em muốn được ngắm ở cự ly gần hơn nữa cơ……! Như vậy trông sẽ giống như pháo hoa đang bay lơ lửng rơi xuống đầu mình vậy đúng không?",
+      "jpname": "幼いブエナ",
+      "jptext": "もっと近くで見てみたいなぁ……！\nそしたら、上からふわぁーって落ちてくるみたいに見えるでしょ？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Hoài niệm ghê. Không biết lần này mình có được ngắm gần hơn hồi đó không nhỉ?",
+      "jpname": "ブエナビスタ",
+      "jptext": "……懐かしいなぁ。\nあの時より、近くで見られるかな？",
+      "choice_data_list": [
+        "Thế thì để tôi đi tìm một vị trí như vậy nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ならそういう場所、探してみるよ！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Thật hả? Hì hì, em mong chờ lắm đấy.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ホント？\nふふっ、楽しみにしてる。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Vậy giờ hẹn tập trung là——",
+      "jpname": "ブエナビスタ",
+      "jptext": "じゃあ、集合時間は――"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Hình như mình đến sớm quá rồi thì phải?",
+      "jpname": "ブエナビスタ",
+      "jptext": "……ちょっと、早く着きすぎたかな？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Cơ mà…… người ấy vẫn nhớ chuyện từng cùng mình ngắm pháo hoa năm xưa. ……Hì hì hì)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（にしても……一緒に花火を見たこと、覚えててくれたんだ。\n……ふふふっ）"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Kể từ lần đó đến giờ rồi nhỉ. Không biết dù đã thành người lớn rồi thì mắt Trainer-san có lại lấp lánh như hồi bé không ta? Hì hì.)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（あの時以来かぁ。トレーナーさん、\n大人になっても目を輝かせるのかな？　ふふっ）",
+      "choice_data_list": [
+        "Buena, để em đợi lâu rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ブエナ、お待たせ！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……! Dạ không, em cũng vừa mới tới thôi mà.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……！　ううん、今来たところだよ。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Vậy chúng mình đi thôi nào. Chỗ đó ở khu vực nào vậy ạ?",
+      "jpname": "ブエナビスタ",
+      "jptext": "……じゃあ、行こっか。\nどのあたりかな？",
+      "choice_data_list": [
+        "Ừ, lối này nè!",
+        "Đi đường này nhé em!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、こっち！",
+        "うん、こっち！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Dạ?",
+      "jpname": "ブエナビスタ",
+      "jptext": "……え？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hả?",
+      "jpname": "ブエナビスタ",
+      "jptext": "えっ？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hả á……!?",
+      "jpname": "ブエナビスタ",
+      "jptext": "ええ……っ！？",
+      "choice_data_list": [
+        "Có chuyện gì thế, Buena?",
+        "Sao vậy em, Buena?"
+      ],
+      "jpchoice_data_list": [
+        "どうしたんだ、ブエナ？",
+        "どうしたの、ブエナ？"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "S-sao là sao cơ chứ……! Chỗ này…… là trên thuyền, hay nói đúng hơn là trên mặt biển luôn rồi mà!?",
+      "jpname": "ブエナビスタ",
+      "jptext": "どっ、どうしたのって……！\nだってここ……船、というかっ、海の上だよ！？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Rủ em đi xem pháo hoa…… ……mà lại đặt hẳn du thuyền luôn sao……?",
+      "jpname": "ブエナビスタ",
+      "jptext": "花火見に行こうって言って……\n……クルーズ船、予約してたの……？",
+      "choice_data_list": [
+        "Tôi tra thử thấy có nên lỡ tay đặt luôn!"
+      ],
+      "jpchoice_data_list": [
+        "調べたら出てきてね、思わず！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Lỡ tay là sao chứ……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "思わず、って……！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hì hì, a ha ha ha……! Thiệt tình luôn đó……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "ふふっ、ふふふ……！\nもう……！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Em không tài nào tưởng tượng nổi luôn…… Ai mà ngờ được lại đi du thuyền chứ.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……想像できないよ……\nクルーズ船は。",
+      "choice_data_list": [
+        "Vì ở đây là nơi ngắm pháo hoa ở cự ly gần nhất mà."
+      ],
+      "jpchoice_data_list": [
+        "ここが一番、花火を近くで見られるから"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Giờ đây những chuyện vượt ngoài tầm dự đoán thế này cũng có thể làm một cách thản nhiên đến vậy rồi nhỉ.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……予想外のことも、\nさらっとやっちゃうように、なったんだね。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Quả nhiên người lớn thật là——ngầu ghê…… Ngày càng trở nên cuốn hút hơn rồi đấy.",
+      "jpname": "ブエナビスタ",
+      "jptext": "やっぱり、大人って――すごいなぁ……。\nどんどんカッコよくなる。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Thực sự đã thay đổi nhiều lắm. Khác xa so với hồi còn nhỏ.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……ホント、変わったね。\n子どもの時から、ずいぶん。",
+      "choice_data_list": [
+        "Nếu có thay đổi thì tất cả là nhờ có Buena đấy."
+      ],
+      "jpchoice_data_list": [
+        "だとしたら、ブエナのおかげだよ"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Nhờ có em sao……?",
+      "jpname": "ブエナビスタ",
+      "jptext": "……私の……？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Nói bằng một giọng nhẹ tênh như không có gì. Một điều lớn lao dường ấy mà thốt ra tự nhiên như hơi thở)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（なんでもない口調で、さらりと言った。\nとんでもないことを、当たり前のように）",
+      "choice_data_list": [
+        "Bởi vì để đứng cạnh bên em, chỉ làm một người bạn thuở nhỏ thôi là không đủ."
+      ],
+      "jpchoice_data_list": [
+        "隣に立つには、ただの幼馴染では足りなくて"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Gương mặt khi thì thầm câu nói ấy thoáng nét cay đắng)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（そうつぶやく顔は、少しだけ苦い表情で）",
+      "choice_data_list": [
+        "Tôi đã dốc hết sức làm mọi việc, vì nhận ra mình bắt buộc phải đổi thay."
+      ],
+      "jpchoice_data_list": [
+        "全部一生懸命やって、変わらなきゃと思った"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Ánh mắt nhìn thẳng vào em vẫn dịu dàng như ngày trước ——nhưng giờ đây lại kiên định và mạnh mẽ hơn ngày ấy biết bao)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（まっすぐ私を見つめる目は、昔と変わらず優しくて\n――けれど、あの頃より、力強い）",
+      "choice_data_list": [
+        "Thế nên, nếu có thay đổi thì tất cả đều là nhờ có em.",
+        "Bởi vậy, nếu tôi trở nên tốt hơn thì đó chính là nhờ có em đấy."
+      ],
+      "jpchoice_data_list": [
+        "だから、変わったとしたら君のおかげ",
+        "だから、変わったとしたら貴方のおかげ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Chỉ cần là vì Buena thì tôi có thể nỗ lực đến cùng trời cuối đất. Có thể không ngừng trưởng thành…… Đơn giản chỉ có thế thôi.\"",
+      "jpname": "モノローグ",
+      "jptext": "『ブエナのためならどこまでも頑張れる。\nどこまでも成長できる――それだけなんだよ。』"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Anh ơi.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……お兄ちゃん。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Chị ơi.",
+      "jpname": "ブエナビスタ",
+      "jptext": "……お姉ちゃん。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Anh ơi.",
+      "jpname": "ブエナビスタ",
+      "jptext": "お兄ちゃん。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Chị ơi.",
+      "jpname": "ブエナビスタ",
+      "jptext": "お姉ちゃん。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ăn gian quá đi à. Dù em có đuổi theo, đuổi theo bao nhiêu đi nữa…… cũng chẳng bao giờ là đủ.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ずるいよ。\n追いかけても、追いかけても……足りない。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Bởi vì cứ liên tục cho em thấy những khía cạnh hoàn toàn mới.",
+      "jpname": "ブエナビスタ",
+      "jptext": "だって、どんどん新しい面が出てくるんだもん。",
+      "choice_data_list": [
+        "……Em lại thấy cô đơn nữa sao?"
+      ],
+      "jpchoice_data_list": [
+        "……また、寂しくなったりする？"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dạ không, hoàn toàn không ạ. Giờ đây em chỉ thấy——vui sướng khôn xiết mà thôi.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ううん、ぜんぜん。\n今はもう――嬉しくて、仕方ないの。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Được hiểu thêm về người ấy, được khao khát muốn biết nhiều hơn nữa…… chính là niềm hạnh phúc của em.",
+      "jpname": "ブエナビスタ",
+      "jptext": "知っていくのが、\n知りたいと思えるのが……幸せ。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Nè anh, cả những nét chẳng hề đổi thay, và cả những điều ngày một đổi khác của anh.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ねえ、お兄ちゃんの変わらないところも、\n変わっていくところも。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Nè chị, cả những nét chẳng hề đổi thay, và cả những điều ngày một đổi khác của chị.",
+      "jpname": "ブエナビスタ",
+      "jptext": "ねえ、お姉ちゃんの変わらないところも、\n変わっていくところも。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Em có thể mãi mãi ở bên cạnh…… ở khoảng cách gần nhất để dõi theo được không?",
+      "jpname": "ブエナビスタ",
+      "jptext": "ずっと、隣で……一番近くで。\n見ていてもいいかな？"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Vì em muốn được biết tất tần tật mọi thứ từ nay về sau nữa cơ……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "これからも全部、知りたいから……！",
+      "choice_data_list": [
+        "……Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "……もちろん！"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Pháo hoa rực rỡ vút bay lên nền trời. Những chùm hoa lửa bung nở to lớn và rạng rỡ hơn gấp bội so với cảnh tượng ngày ấy hai đứa từng ngắm)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（花火が打ちあがった。\nあの日観た景色より、ずっと、もっと大きな大輪が咲き誇る）"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Em cùng người ấy sánh vai bên nhau, khắc sâu tuyệt cảnh đẹp như một giấc mơ này vào tận đáy lòng)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（夢のような絶景を、貴方と肩を並べて目に焼き付ける）"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "A, là chùm pháo hoa ánh kim kìa……! ……Đẹp quá. Từng tia sáng lấp lánh đang tuôn rơi như mưa……",
+      "jpname": "ブエナビスタ",
+      "jptext": "あっ、あの金色の花火だ……！\n……すごい。きらきら、降り注いで……。",
+      "choice_data_list": [
+        "Trông giống như một cơn mưa ánh vàng em nhỉ.",
+        "Hệt như một cơn mưa dát vàng lóng lánh vậy."
+      ],
+      "jpchoice_data_list": [
+        "金色の雨みたいだな",
+        "金色の雨みたいだね"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Vâng, đúng thế ạ…… hức. Ơ kìa? Tự dưng…… hức……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "うん、うん……ぐすっ。\nあれ？　なんか……うぅ……！",
+      "choice_data_list": [
+        "Em xúc động quá rồi sao?"
+      ],
+      "jpchoice_data_list": [
+        "感極まりすぎちゃった？"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tại vì, tại vì……! Khung cảnh này thực sự quá đỗi diễm lệ mà……!",
+      "jpname": "ブエナビスタ",
+      "jptext": "だって、だって……！\nなんだか、すごく綺麗だから……！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tại sao lại thế nhỉ? Nó còn lung linh hơn gấp vạn lần so với ngày xưa từng ngắm…………",
+      "jpname": "ブエナビスタ",
+      "jptext": "なんでだろう？\n昔見た時より、もっと…………。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……",
+      "jpname": "ブエナビスタ",
+      "jptext": "……。"
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Anh ơi, anh thích chùm pháo hoa nào nhất? Buu-chan là thích chùm màu ánh kim kia nhất đó!",
+      "jpname": "幼いブエナ",
+      "jptext": "お兄ちゃん、どの花火が好き？\nぶぅちゃんはね、あの金色の！"
+    },
+    {
+      "name": "Buena lúc nhỏ",
+      "text": "Chị ơi, chị thích chùm pháo hoa nào nhất? Buu-chan là thích chùm màu ánh kim kia nhất đó!",
+      "jpname": "幼いブエナ",
+      "jptext": "お姉ちゃん、どの花火が好き？\nぶぅちゃんはね、あの金色の！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(……Hóa ra bấy lâu nay em chỉ mải ngắm nhìn những chùm pháo hoa. Mà chẳng hề nhận ra điều ở nơi ánh sáng vàng kim ấy chiếu rọi tới)",
+      "jpname": "ブエナビスタ",
+      "jptext": "（……花火ばっかり、見てたんだ。\n金色の光が照らす先に、気づかなかった）"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "——A, ra là vậy.",
+      "jpname": "ブエナビスタ",
+      "jptext": "――ああ、そっか。"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Người ấy…… sao mà đẹp đến thế.",
+      "jpname": "ブエナビスタ",
+      "jptext": "なんて、綺麗。"
+    }
+  ]
+}
