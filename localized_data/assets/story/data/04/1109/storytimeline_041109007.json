@@ -1,0 +1,568 @@
+{
+  "title": "Mùa hè, máy ảnh và cô gái",
+  "jptitle": "夏とカメラと彼女",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Giữa kỳ huấn luyện hè. Hôm ấy dù là ngày nghỉ ngơi tĩnh dưỡng, thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿中盤。\nその日は休養日ではあったのだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "A! Anh đây rồi, Trainer-san ơi! ...Ủa ủa? Chẳng lẽ anh đang làm việc sao ạ?",
+      "jpname": "ラインクラフト",
+      "jptext": "あ！　いたいた、トレーナーさん～！\n……ってあれ？　もしかしてお仕事中、です？",
+      "choice_data_list": [
+        "Ừ. Tôi đang điều chỉnh lại giáo án một chút.",
+        "Ừm. Tôi đang chỉnh lại lịch tập một chút."
+      ],
+      "jpchoice_data_list": [
+        "ああ。ちょっとメニューの調整をな",
+        "うん。ちょっとメニューの調整をね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Xuyên suốt kỳ huấn luyện hè, Rhein Kraft tiến bộ vượt bậc từng ngày. Kết quả là giáo án tập luyện dự tính từ trước đã trở nên chưa đủ đô đối với em.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿を通して、メキメキと力をつけているラインクラフト。\n結果、事前に想定していたメニューでは物足りなくなってきていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tuy nhiên, nếu chỉ đơn thuần tăng thêm cường độ thì nguy cơ dính chấn thương cũng sẽ tăng theo. Phải vừa hiệu quả lại vừa an toàn. Tôi muốn tìm ra một bài huấn luyện như thế.",
+      "jpname": "モノローグ",
+      "jptext": "とはいえ。単に負荷を上げるだけでは、ケガのリスクも高まる。\n効率的かつ安全に。そんなトレーニングを見つけたい。",
+      "choice_data_list": [
+        "Kéo Trainer bơi đường dài sao... hừm hừm."
+      ],
+      "jpchoice_data_list": [
+        "『トレーナー引っ張り遠泳』か……ふんふん"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...",
+      "jpname": "ラインクラフト",
+      "jptext": "……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Không rõ tôi đã mải mê như thế bao lâu. Khi vươn vai thỏa mãn thì mu bàn tay tôi bỗng chạm nhẹ vào một vật gì đó.",
+      "jpname": "モノローグ",
+      "jptext": "……どれぐらいそうしていたのか。\nようやく満足して腕を伸ばすと、コツンと手に何かが当たった。",
+      "choice_data_list": [
+        "Nước ép cà rốt sao?"
+      ],
+      "jpchoice_data_list": [
+        "にんじんジュース？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ehehe, anh vất vả rồi ạ! Món đó nếu được thì anh uống đi nhé!",
+      "jpname": "ラインクラフト",
+      "jptext": "えへへ、お疲れさまです！　それ、よかったらどうぞ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Thấy Trainer-san cứ trầm ngâm vò đầu bứt tai suy nghĩ suốt, em tự hỏi chắc là anh đang khát nước lắm rồi.",
+      "jpname": "ラインクラフト",
+      "jptext": "トレーナーさん、ずーっとウンウン悩んで考えてたから、\n喉渇いてるかなーって。",
+      "choice_data_list": [
+        "Cảm ơn em nhé. Cứu tôi một bàn rồi."
+      ],
+      "jpchoice_data_list": [
+        "ありがとう。助かるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Dạ vâng! ...A, đúng rồi! Trainer-san ơi, lát nữa xong việc anh có muốn cùng em đi dạo không?",
+      "jpname": "ラインクラフト",
+      "jptext": "はい！　……あ、そうだ！\nトレーナーさん、よければこの後、一緒にお散歩行きませんか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Hôm nay... cùng với bạn nhỏ này nữa nè!",
+      "jpname": "ラインクラフト",
+      "jptext": "今日は……この子と一緒に！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Có gì hay không ta, có gì đẹp không nà ♪ Ở đâu đây ở đâu đây, có gì tuyệt không nà ♪",
+      "jpname": "ラインクラフト",
+      "jptext": "あるかなあるかな～、なにかいいもの～♪\nどこかなどこかな～、なにかいいもの～♪",
+      "choice_data_list": [
+        "(Hóa ra bình thường em ấy đi dạo như thế này sao...)"
+      ],
+      "jpchoice_data_list": [
+        "（いつもこんな感じで歩いてるのか～）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vốn tò mò muốn xem em ấy chụp ảnh như thế nào. Cứ ngỡ là vậy, nhưng không ngờ hôm nay lại được tận mắt chứng kiến.",
+      "jpname": "モノローグ",
+      "jptext": "どんなふうに撮影しているのか見てみたい。\nそうは思っていたが、まさか今日見せてもらえるとは。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "A! Trainer-san nhìn đằng kia kìa! Bức tượng Địa Tạng... đang đội nón lá kìa!",
+      "jpname": "ラインクラフト",
+      "jptext": "あ！　トレーナーさん見てください、あれ！\n麦わら帽子をかぶった……お地蔵さん！",
+      "choice_data_list": [
+        "Haha, tượng Địa Tạng cũng lên đồ đón hè nhỉ.",
+        "Fufu, tượng Địa Tạng cũng diện đồ mùa hè ghê."
+      ],
+      "jpchoice_data_list": [
+        "はは、お地蔵さんも夏仕様だな",
+        "ふふ、お地蔵さんも夏仕様だね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Fufu, tuyệt thật đấy ạ! Bắt gặp một mùa hè thật đáng yêu rồi nè!",
+      "jpname": "ラインクラフト",
+      "jptext": "ふふっ、いいですね～！\nかわいい夏、みっけ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "A, phải rồi! Trainer-san cũng thử chụp xem sao đi ạ? Chụp ảnh ấy!",
+      "jpname": "ラインクラフト",
+      "jptext": "あ、そうだ！\nトレーナーさんも撮ってみませんか？　写真！",
+      "choice_data_list": [
+        "Hả? Nhưng tôi biết chụp cái gì bây giờ..."
+      ],
+      "jpchoice_data_list": [
+        "え？でも何を撮ったら……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Chụp cái gì cũng được hết trơn á! Cứ chụp theo những gì trái tim anh mách bảo là được! ...Nè, máy ảnh của anh đây!",
+      "jpname": "ラインクラフト",
+      "jptext": "なんでも大丈夫ですよぉ～。\n心がときめくままに、です！　……はい、カメラどーぞ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị nói như thế khiến tôi ngơ ngác đứng hình một lúc... Nhưng khi nhìn thấy nụ cười rạng rỡ của Rhein Kraft, một cách tự nhiên――",
+      "jpname": "モノローグ",
+      "jptext": "そんなこと言われても、と一瞬立ち尽くしてしまったが……。\nニコニコ笑うラインクラフトを見たら、自然と――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ủa á!?",
+      "jpname": "ラインクラフト",
+      "jptext": "へあっ！？",
+      "choice_data_list": [
+        "Ra là vậy, kiểu thế này đúng không!",
+        "Ra là thế, kiểu như vầy phải không!"
+      ],
+      "jpchoice_data_list": [
+        "なるほど、こんな感じだな！",
+        "なるほど、こんな感じだね！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "――...",
+      "jpname": "ラインクラフト",
+      "jptext": "――……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hai củ củ cải trắng hình người đứng nhìn sang khu tiệc nướng BBQ. Rhein Kraft giương máy ảnh hướng về phía đó thoắt cái đã gần hai tiếng trôi qua.",
+      "jpname": "モノローグ",
+      "jptext": "バーベキュー場を見守る、2本のヒトのような大根。\nラインクラフトがそれにカメラを向け始めて、間もなく2時間経つ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ừm... thêm một tấm nữa.",
+      "jpname": "ラインクラフト",
+      "jptext": "うーん……もう1回。",
+      "choice_data_list": [
+        "(Thuần khiết và thẳng thắn biết bao.)"
+      ],
+      "jpchoice_data_list": [
+        "（混じりけなく、真っ直ぐだ）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa phe phẩy chiếc quạt nan cho em ấy tôi vừa thầm nghĩ. Một cô gái kiên định nắm giữ bản ngã, không bao giờ chịu nhượng bộ――",
+      "jpname": "モノローグ",
+      "jptext": "彼女をうちわで扇ぎながら思う。\n自分を譲らず、握りしめている彼女は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "............ ...A!",
+      "jpname": "ラインクラフト",
+      "jptext": "…………。\n……あ！",
+      "choice_data_list": [
+        "Chụp được chưa em?"
+      ],
+      "jpchoice_data_list": [
+        "撮れた？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "! ...Dạ rồi! Hoàn hảo luôn ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "！　……はい！　バッチリ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Tỏa sáng vô cùng rực rỡ.",
+      "jpname": "モノローグ",
+      "jptext": "――とても輝いていると。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Mới chỉ có nửa ngày thôi mà chúng mình chụp được nhiều ghê ha.",
+      "jpname": "ラインクラフト",
+      "jptext": "半日だけでしたけど、いっぱい撮りましたねぇ～。",
+      "choice_data_list": [
+        "Chụp nhiều thật đấy."
+      ],
+      "jpchoice_data_list": [
+        "撮ったねぇ～"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau chuyến đi dạo chụp ảnh. Trong lúc đợi nhà ăn chuẩn bị bữa tối, tôi cùng em mở máy tính xem lại những bức hình đã chụp hôm nay.",
+      "jpname": "モノローグ",
+      "jptext": "カメラ散歩後。食堂で夕食の準備を待ちながら、\nパソコンで今日撮った写真を確認する。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Tấm nào trông cũng ưng mắt hết trơn á nhưng... a! Em thích tấm này nhất nè! Bức ảnh chụp chú chuồn chuồn mà Trainer-san chụp ấy!",
+      "jpname": "ラインクラフト",
+      "jptext": "どれも全部いい感じですけど……あ！　わたし、これ好きです！\nトレーナーさんが撮った、トンボの写真！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cảnh chuồn chuồn đậu thành hàng trên dây điện cùng nền trời cao vời vợi phía sau toát lên cảm giác đậm chất \"Mùa hè!\" luôn ấy ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "電線に並んで止まってるのと、\nその後ろの空の高さがすっごく『夏！』って感じで！",
+      "choice_data_list": [
+        "Đúng thật, tấm này có khi tôi chụp đẹp đấy chứ."
+      ],
+      "jpchoice_data_list": [
+        "確かに、これは綺麗に撮れたかも"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "――Và thế là! Giờ đến lượt của Trainer-san nè! Bức ảnh đẹp nhất đối với Trainer-san là bức nào thế ạ?",
+      "jpname": "ラインクラフト",
+      "jptext": "――というわけで！　次はトレーナーさんの番です！\nトレーナーさん的ベストショット、どれですか？",
+      "choice_data_list": [
+        "Hỏi khó thế em."
+      ],
+      "jpchoice_data_list": [
+        "難しいこと聞くなぁ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa nói thế tôi vừa lướt xem các bức ảnh trên chiếc máy tính nhận từ tay em. ――Đột nhiên, khuôn mặt của chính tôi xuất hiện tràn ngập cả màn hình.",
+      "jpname": "モノローグ",
+      "jptext": "といいつつ、彼女から受け取ったパソコンで写真を見ていた時だ。\n――突然、画面いっぱいに自分の顔が出てきたのは。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Dạ? Có chuyện gì thế Trainer-san...",
+      "jpname": "ラインクラフト",
+      "jptext": "うん？\nどうしたんですかトレーナーさん……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "――Á a a!",
+      "jpname": "ラインクラフト",
+      "jptext": "――あ゛っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bức ảnh này là... lúc tôi đang điều chỉnh giáo án tập luyện hồi sáng nay chăng.",
+      "jpname": "モノローグ",
+      "jptext": "この写真は……今日の朝、\nトレーニングメニューを調整していた時のものだろうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bản thân tôi trong bức hình đang nhìn tài liệu với vẻ mặt vô cùng nghiêm túc. ...Trông thật là ngại ngùng.",
+      "jpname": "モノローグ",
+      "jptext": "資料を見つめる自分は、ずいぶん真剣な顔をしている。\n……なかなか気恥ずかしい。",
+      "choice_data_list": [
+        "Em chụp lúc nào mà tôi chẳng nhận ra luôn..."
+      ],
+      "jpchoice_data_list": [
+        "撮ってるの、気づかなかったな……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...Em tự tiện chụp lén, em xin lỗi anh ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "……勝手に撮ってごめんなさい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ban đầu em không hề có ý định đó đâu ạ! Em chỉ tính rủ anh đi dạo ngay thôi mà...!",
+      "jpname": "ラインクラフト",
+      "jptext": "最初は、そんなつもりなかったんです！\nすぐにお散歩に誘うつもりで……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Nhưng mà, Trainer-san đang bận làm việc. Hơn nữa là...",
+      "jpname": "ラインクラフト",
+      "jptext": "でもその、トレーナーさんお仕事中でしたし。\nそれに……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Hơn nữa là, kiểu như... em mải mê ngắm nhìn mất rồi! Ngắm nhìn Trainer-san ấy ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "それに、なんかその！　見るのに夢中になっちゃって！\nトレーナーさんのことっ！",
+      "choice_data_list": [
+        "Ngắm nhìn tôi sao...?",
+        "Ngắm nhìn tôi ư...?"
+      ],
+      "jpchoice_data_list": [
+        "俺のこと……？",
+        "私のこと……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Vâng ạ... Trainer-san có còn nhớ không? Những lời anh từng nói với em dạo trước.",
+      "jpname": "ラインクラフト",
+      "jptext": "はい……トレーナーさん、覚えてますか？\nこの前、わたしに言ってくれたこと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Dáng vẻ chuyên tâm của em bao nhiêu lâu tôi cũng ngắm được mà.\"",
+      "jpname": "モノローグ",
+      "jptext": "『こだわる姿っていくらでも見てられるしな』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Dáng vẻ chăm chút của em ngắm hoài tôi cũng chẳng chán đâu.\"",
+      "jpname": "モノローグ",
+      "jptext": "『こだわる姿っていくらでも見てられるしね』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Trên đường về từ xưởng nặn chiếc cốc sứ ấy... Lúc đó em chỉ đơn thuần cảm thấy vui trong lòng thôi.",
+      "jpname": "ラインクラフト",
+      "jptext": "マグカップを作った工房からの帰り道で……。\nあの時はまだ、ただ嬉しいなってだけだったんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Thế nhưng sáng nay―― nhìn Trainer-san vừa đọc bao nhiêu tài liệu, vừa chỉnh đi sửa lại giáo án không biết bao nhiêu lần――",
+      "jpname": "ラインクラフト",
+      "jptext": "でも、今日の朝――たくさんの資料を見ながら、\n何回も何回も、メニューを練り直すトレーナーさんを見て――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Em đã thầm nghĩ... \"A, ra là cảm giác ấy là thế này đây\".",
+      "jpname": "ラインクラフト",
+      "jptext": "ああ、こういうことだったんだ……って、思ったんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ánh mắt thẳng thắn, tràn đầy sự chuyên tâm... hết lòng vì em của anh. Thực sự, thực sự trông ngầu lắm luôn...",
+      "jpname": "ラインクラフト",
+      "jptext": "こだわってる……こだわってくれてる、真っ直ぐな目が。\nすごくすごくかっこよくて……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "――Làm tim em rộn ràng xao xuyến mất rồi.",
+      "jpname": "ラインクラフト",
+      "jptext": "――ときめいちゃって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...Thế nhưng chụp lén người khác là không được rồi. Một lần nữa cho em xin lỗi anh ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "……とはいっても、勝手に撮るのはダメでした。\n改めて、ごめんなさい！",
+      "choice_data_list": [
+        "Không sao nữa rồi―― với lại tôi hiểu rất rõ cảm xúc đó mà."
+      ],
+      "jpchoice_data_list": [
+        "もういいよ――それに、気持ちはよくわかる"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù hơi khác với rung động một chút―― nhưng ngày hôm đó, chính tôi cũng bị chinh phục sâu sắc trước một Rhein Kraft kiên định đầy tận tâm cơ mà.",
+      "jpname": "モノローグ",
+      "jptext": "ときめきとは少し違うが――自分もあの日、\n真っ直ぐこだわるラインクラフトに、強く痺れたのだから。",
+      "choice_data_list": [
+        "Thế nên em đừng bận lòng nhé."
+      ],
+      "jpchoice_data_list": [
+        "だから、気にしないで"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "...Vâng ạ! Em cảm ơn anh nhiều nhé!",
+      "jpname": "ラインクラフト",
+      "jptext": "……はい！　ありがとうございます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cơ mà... Trainer-san thế này quả nhiên là tuyệt nhất trần đời luôn!",
+      "jpname": "ラインクラフト",
+      "jptext": "それにしても……やっぱりいいな～このトレーナーさん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Từ ánh mắt nghiêm nghị cho đến ngón tay đặt hờ bên khóe môi! Mọi thứ toát lên thần thái của một \"chuyên gia\" thực thụ! ...Mai sau khi lớn lên không biết em có được như vậy không ta?",
+      "jpname": "ラインクラフト",
+      "jptext": "真剣な目とか口元の指とか！　なんか全部『プロ！』って感じで！\n……わたしも大人になったら、こんなふうになれるのかな～？",
+      "choice_data_list": [
+        "――Thôi thôi hết giờ xem rồi!"
+      ],
+      "jpchoice_data_list": [
+        "――はいもうおしまい！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phắt! Tôi nhanh tay giật lấy chiếc máy tính xách tay từ tay Rhein Kraft. Được khen thì vui thật đấy, nhưng ngượng ngùng quá chừng.",
+      "jpname": "モノローグ",
+      "jptext": "パッ！　とラインクラフトの手からノートパソコンを奪う。\n褒めてくれるのは嬉しいが、さすがに照れくさい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "A! Em vẫn đang xem dở mà! Trả lại cho em đi anh ơi!",
+      "jpname": "ラインクラフト",
+      "jptext": "あ！　まだ見てたのに！\n返してください～！",
+      "choice_data_list": [
+        "Tha cho tôi đi mà!"
+      ],
+      "jpchoice_data_list": [
+        "勘弁して！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Em không tha đâu! Em bướng bỉnh lắm đấy nhé!",
+      "jpname": "ラインクラフト",
+      "jptext": "勘弁しません！\nわたし、頑固なので！",
+      "choice_data_list": [
+        "Oái, này em!"
+      ],
+      "jpchoice_data_list": [
+        "わっ、こら！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một người thì muốn xem ảnh, còn một người thì sống chết giấu đi. Trận giằng co tuy ngốc nghếch nhưng đỗi ấm áp ấy vẫn tiếp diễn thêm một hồi lâu.",
+      "jpname": "モノローグ",
+      "jptext": "写真を見たい彼女と、見せたくない自分。\nそんなくだらなくも温かな攻防は、しばらくの間続いたのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
