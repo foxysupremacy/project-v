@@ -1,0 +1,383 @@
+{
+  "title": "Bức tường sừng sững",
+  "jptitle": "立ちふさがる、壁",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Verxina",
+      "text": "Cảm ơn cô nhé, Gentildonna-san. Vì đã nhận lời thách đấu trực diện của tôi.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "感謝いたしますわ、ジェンティルドンナさん。\nマッチレースの依頼、受けてくださって。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Không có gì đâu. Tôi cũng thấy đây là một cơ hội tốt mà. Bởi vì, đúng chứ? Cả hai chúng ta đều tò mò về nhau――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "どういたしまして。いい機会だと思いましたの。\nだって、ねえ？　お互い気になるでしょう――"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Liệu có thể ngang tài ngang sức hay không…… đại loại vậy. Tôi rất muốn đích thân nếm trải \"sức mạnh\" đó của cô đấy.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "もしや比肩するのでは……なんて。\nその“力”ぜひとも味わわせていただきたいわ。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Ái chà, nếu vậy thì cô cứ việc thưởng thức cho trọn vẹn nhé. Bởi hôm nay, tôi dự định sẽ chứng minh cho cô thấy――",
+      "jpname": "ヴィルシーナ",
+      "jptext": "あら、であればとくとご堪能くださいませ。\n私は、今日示すつもりでおりますから――"
+    },
+    {
+      "name": "Verxina",
+      "text": "Rằng người xứng đáng là Nữ hoàng ngự trị trên \"Đỉnh cao\", chính là tôi đây.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "『頂点』たる女王にふさわしいのは、この私なのだと。",
+      "choice_data_list": [
+        "(Đáng nể thật…… Cả hai bên đều không ai chịu nhượng bộ lấy một bước sao)",
+        "(Tuyệt thật đấy…… Cả hai đều chẳng ai chịu lùi bước nào cả nhỉ)"
+      ],
+      "jpchoice_data_list": [
+        "（すごい……どちらも一歩も引かず、か）",
+        "（すごい……どちらも一歩も引かず、ね）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm ấy, tin tức truyền tới sân tập sau trận đua là việc Gentildonna đang ráo riết chuẩn bị để ra mắt đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "あの日、レース後のグラウンドにもたらされたのは、ジェンティル\nドンナがデビューに向け本格始動するという一報だった。"
+    },
+    {
+      "name": "",
+      "text": "Sinh ra trong một danh gia vọng tộc đầy quyền thế trong giới chính trị và tài chính, Gentildonna luôn toát ra khí chất áp đảo nhờ tài năng thiên bẩm và sức mạnh vượt trội.",
+      "jpname": "モノローグ",
+      "jptext": "政財界に凄まじい影響力を誇る名家に生まれ、\nあふれる才気とパワーで存在感を示すジェンティルドンナ。"
+    },
+    {
+      "name": "",
+      "text": "Nếu một người như cô ấy ra mắt cùng thời điểm, chắc chắn sẽ là trở ngại cực lớn đối với Verxina trên con đường nhắm tới \"Đỉnh cao\"――",
+      "jpname": "モノローグ",
+      "jptext": "そんな彼女が同期デビューとなれば、『頂点』を目指す\nヴィルシーナの大きな障害となるのは間違いないが――"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Cơ mà, cô cũng khôn ngoan thật đấy chứ. Nếu vừa Make Debut đã phải nhận thất bại thì sẽ để lại vết nhơ trong sự nghiệp mất thôi.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "それにしても、賢明でいらっしゃるのね。\nメイクデビュー後に土がついては、キャリアに影が落ちますもの。"
+    },
+    {
+      "name": "Verxina",
+      "text": "……Chẳng lẽ cô đang muốn ám chỉ rằng tôi đang lẩn tránh một cuộc đối đầu trực diện trong trận đua chính thức sao?",
+      "jpname": "ヴィルシーナ",
+      "jptext": "……それはまさか、\n私が公式レースでの対決から逃げたとおっしゃっていますか？"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Tôi chỉ bảo rằng tùy thuộc vào kết quả ngày hôm nay, điều đó có trở thành sự thật thì cũng chẳng có gì lạ cả.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "今日の結果如何では、\nそうなっても不思議ではないと申していましてよ。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Fufu…… Vậy thì tôi phải chứng minh cho cô thấy rồi. Rốt cuộc kẻ cần phải chạy trốn là ai mới được.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "ふふっ……では証明しなくてはいけませんね。\n逃げる必要があるのは、果たしてどちらなのかを。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Tôi sẽ khắc sâu vào tâm trí cô. Rằng trên đời này có những kẻ mạnh buộc cô phải cúi đầu nhường đường.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "貴方に刻んで差し上げますわ。\n道を譲るべき強者が存在するということを。"
+    },
+    {
+      "name": "",
+      "text": "Giữa muôn vàn ánh mắt dõi theo của khán giả, cả hai cùng tiến vào ô xuất phát――",
+      "jpname": "モノローグ",
+      "jptext": "こうして大勢の観客が見守る中、ふたりはゲートへと進み――"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――Hừ, dũng mãnh đấy. Mong là cô giữ được khí thế này cho tới phút cuối.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――ふっ、勇猛ね。勢いがもつといいのだけれど。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Ôi kìa, cô đã bắt đầu nói cứng rồi sao? Nhưng với tôi, mọi thứ giờ mới chỉ bắt đầu――!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "あら、負け惜しみですか？　ですが私は、まだここから――！"
+    },
+    {
+      "name": "Verxina",
+      "text": "Haaaaaaa――!!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "はぁああああ――っ！！"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Không thể nào……!! Cả Gentildonna lừng danh mà cũng bị bỏ lại phía sau sao!?",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "まさか……っ！！\nあのジェンティルドンナが離されて！？"
+    },
+    {
+      "name": "Verxina",
+      "text": "(Tất nhiên rồi! Kẻ xứng đáng ngự trị trên \"Đỉnh cao\" chính là ta! Cứ thế này…… tiến vào đoạn thẳng cuối cùng――)",
+      "jpname": "ヴィルシーナ",
+      "jptext": "（当然じゃない！　『頂点』にふさわしいのはこの私だもの！\nこのまま……最終直線――っ）"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Fufu…… Ahahaha! Tuyệt vời lắm, phải thế thì nghiền nát cô mới bõ công chứ――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ふふ……あはははっ！\n素敵ね、それでこそ潰しがいがあるというもの――"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "HỪM!!!!!!!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "フンッ！！！！！！！"
+    },
+    {
+      "name": "Verxina",
+      "text": "(Không thể nào…… tại sao tiếng bước chân lại……!?)",
+      "jpname": "ヴィルシーナ",
+      "jptext": "（嘘……っ、なんで足音が……っ！？）"
+    },
+    {
+      "name": "Verxina",
+      "text": "Rõ ràng mình đã bỏ xa cô ta rồi…… không thể nào bị đuổi kịp được. Vạch đích đã ngay trước mắt rồi mà……!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "（置いてきたはず……追いつかせないはずっ。\nゴールだって、もう目の前なのに……っ！）"
+    },
+    {
+      "name": "Verxina",
+      "text": "(Đang áp sát lại…… âm thanh đó…… từng cơn rung chấn đang truyền tới――)",
+      "jpname": "ヴィルシーナ",
+      "jptext": "（迫ってくる……、音が……振動が、伝わってきて――）"
+    },
+    {
+      "name": "Verxina",
+      "text": "――……Hic.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "――……ひっ。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――Haaaaaaaaaaaaaaa!!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――はああああああああああああ！！"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Gentildonna!!!! Sức mạnh kinh hồn bạt vía gì thế này! Quả nhiên nếu xét về tranh chấp quyết liệt thì lúc này cô ấy……!",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "ジェンティルドンナ！！！！　何てパワーだっ！\nやはり、競り合いとなると今は……っ！"
+    },
+    {
+      "name": "Verxina",
+      "text": "Dối trá……!!!! Tôi mà lại thua sao…… chuyện đó…… không thể nào……!!!!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "嘘よ……っ！！！！\n私が、負けるなんて……っ、そんな……っ！！！！"
+    },
+    {
+      "name": "Verxina & Gentil",
+      "text": "――U…… AAAAAAAAAAAAA!!!! ――AAAAAAAAAAAAAAA!!!!",
+      "jpname": "ヴィル＆ジェンティル",
+      "jptext": "――う……ああああああああああっ！！！！\n――あぁあああああああああああっ！！！！"
+    },
+    {
+      "name": "Verxina",
+      "text": "……Hộc, hộc, hộc, ……khẹc.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "……はぁっ、はぁっ、はぁっ、……かはッ。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ôi chao, thật là chóng vánh. Tôi cứ ngỡ là cô còn làm được nhiều hơn thế nữa cơ đấy……",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あら、まあ。あっけないこと。\nもう少し、と期待しておりましたけれど……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "…………Ư.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "…………っ。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "……Tôi chẳng có lời nào để nói với một kẻ chỉ biết cúi gằm mặt đâu. Thưa quý vị―― tôi xin phép đi trước.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……俯くかたとは交わす言葉もありませんわね。\nでは皆様――私はこれで。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Ư…………",
+      "jpname": "ヴィルシーナ",
+      "jptext": "う…………っ。",
+      "choice_data_list": [
+        "(Verxina……)"
+      ],
+      "jpchoice_data_list": [
+        "（ヴィルシーナ……）"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Xin lỗi mọi người…… Tôi xin phép từ chối tất cả các lời mời tuyển mộ……",
+      "jpname": "ヴィルシーナ",
+      "jptext": "みなさま……申し訳ありません。\nスカウトは、全てお断りさせてください……。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Sao lại thế được! Chẳng lẽ là vì thua trước Gentil sao? Nhưng khoảng cách hiện tại thì sau này hoàn toàn có thể rút ngắn――",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "そんな！　ジェンティルに負けたからかい？\nだが、現状の差なんてこれからいくらでも――"
+    },
+    {
+      "name": "Verxina",
+      "text": "Không! Không phải…… như vậy đâu ạ.",
+      "jpname": "ヴィルシーナ",
+      "jptext": "いいえ！　そうでは……ないんですっ。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Cứ thế này thì tôi không thể nào ra mắt được…… Tóm lại, lúc này tôi……",
+      "jpname": "ヴィルシーナ",
+      "jptext": "このまま、デビューするわけには……っ。\nとにかく、今は……。"
+    },
+    {
+      "name": "Verxina",
+      "text": "Xin lỗi mọi người, tôi xin phép……!",
+      "jpname": "ヴィルシーナ",
+      "jptext": "すみません、失礼します……っ！",
+      "choice_data_list": [
+        "A…… Đợi đã――!"
+      ],
+      "jpchoice_data_list": [
+        "あ……待って――！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng đuổi theo bóng lưng Verxina vừa chạy vụt đi. Khát khao muốn tuyển mộ cô ấy trong tôi vẫn chẳng hề suy suyển.",
+      "jpname": "モノローグ",
+      "jptext": "駆け去ったヴィルシーナを慌てて追いかける。\nどうしてもスカウトしたい気持ちは変わらなかった。"
+    },
+    {
+      "name": "",
+      "text": "Quả thực, sức mạnh của Gentildonna vô cùng kinh ngạc. Đến mức việc một Uma Musume bình thường cảm thấy khiếp sợ cũng là điều hoàn toàn dễ hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "確かに、ジェンティルドンナの強さは目を瞠るものがあった。\n並のウマ娘であれば臆してしまうのも仕方ないと思えるほどに。"
+    },
+    {
+      "name": "",
+      "text": "Nhưng chẳng lẽ Verxina cũng vậy sao? Lẽ nào cô ấy vì khiếp sợ trước sức mạnh của Gentildonna mà đã bỏ cuộc?",
+      "jpname": "モノローグ",
+      "jptext": "ならばヴィルシーナも同じだったのか。\nジェンティルドンナの強さに臆し、諦めてしまったのだろうか。",
+      "choice_data_list": [
+        "(Thế nhưng, người con gái mà tôi từng dõi theo lại――)",
+        "(Nhưng mà, Verxina mà tôi từng chứng kiến lại――)"
+      ],
+      "jpchoice_data_list": [
+        "（でも、俺が見てきた彼女は――）",
+        "（でも、私が見てきた彼女は――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cô ấy luôn hướng tới lý tưởng \"Đỉnh cao\" của chính mình, luôn nỗ lực hết mình và kiên trì trong từng việc nhỏ nhặt nhất.",
+      "jpname": "モノローグ",
+      "jptext": "『頂点』という自分の理想を目指し、\n何事にも真摯に努力を重ねていた。"
+    },
+    {
+      "name": "",
+      "text": "Làm đi làm lại cho tới khi cảm thấy thỏa đáng mới thôi. Một cô gái như thế, lẽ nào lại từ bỏ việc ra mắt chỉ sau một lần thất bại sao……?",
+      "jpname": "モノローグ",
+      "jptext": "納得いくまで何度もやり直して。\nそんな彼女が、一度の敗北でデビューを諦めてしまう……？",
+      "choice_data_list": [
+        "(Không thể nào có chuyện đó! Chắc chắn cô ấy――)"
+      ],
+      "jpchoice_data_list": [
+        "（そんなはずはない！きっと、彼女は――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, khi tôi tìm thấy cô ấy ở phía sau dãy nhà học――",
+      "jpname": "モノローグ",
+      "jptext": "だが、そうして見つけた校舎裏で――"
+    },
+    {
+      "name": "Verxina",
+      "text": "Mình…… tại sao lại thế này…………",
+      "jpname": "ヴィルシーナ",
+      "jptext": "私……どうして…………っ。",
+      "choice_data_list": [
+        "(Hả……?)"
+      ],
+      "jpchoice_data_list": [
+        "（え……？）"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Tại sao…… mình lại bỏ chạy chứ……",
+      "jpname": "ヴィルシーナ",
+      "jptext": "なんで……逃げたりなんか……っ。"
+    },
+    {
+      "name": "",
+      "text": "……Tôi đã không thể cất lời.",
+      "jpname": "モノローグ",
+      "jptext": "……声はかけられなかった。"
+    },
+    {
+      "name": "",
+      "text": "Tôi từng nghĩ rằng cô ấy sẽ đau đớn, nhưng chắc chắn vẫn sẽ kiên cường ngẩng cao đầu hướng về phía trước. Vậy mà thực tế, cô ấy lại――",
+      "jpname": "モノローグ",
+      "jptext": "悔しがっているだろうと思った。それでもきっと、\n気丈に前を向いているだろうと。だが、実際の彼女は――",
+      "choice_data_list": [
+        "(Cô ấy đang bấn loạn sao……?)"
+      ],
+      "jpchoice_data_list": [
+        "（混乱していた……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tại sao lại từ chối lời tuyển mộ? Dường như ngay cả bản thân cô ấy cũng không hiểu rõ lý do vì sao.",
+      "jpname": "モノローグ",
+      "jptext": "なぜスカウトを断ってしまったのか。\n彼女自身にも理由がよくわかっていないようだった。"
+    },
+    {
+      "name": "",
+      "text": "Dáng vẻ ủ rũ rũ vai buồn bã tựa như một đứa trẻ lạc lối ấy, hoàn toàn chẳng hề giống với những ấn tượng rạng ngời trước đây về cô.",
+      "jpname": "モノローグ",
+      "jptext": "迷子の子どものように、悲しげに肩を落とす姿が\n今までの印象とまるで重なってくれない。"
+    },
+    {
+      "name": "",
+      "text": "Một cô gái luôn kiêu hãnh và cư xử cao quý, tại sao lại suy sụp đến mức nhường này? Để hiểu được điều đó――",
+      "jpname": "モノローグ",
+      "jptext": "常に誇り高く、気高く振る舞っていた彼女が、\nなぜあれほど打ちひしがれてしまっているのか。それを知るには――",
+      "choice_data_list": [
+        "(Mình phải tìm hiểu nhiều hơn về con người thật của cô ấy……!)"
+      ],
+      "jpchoice_data_list": [
+        "（もっと、本当の彼女を知らないと……！）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ế, tò mò đến thế cơ à. Để xem nào, tính sao đây ta♪",
+      "jpname": "？？？",
+      "jptext": "え～～、そんなに興味あるんだ。\nそうだな～、どうしよっかな～♪"
+    },
+    {
+      "name": "Vivlos",
+      "text": "Vậy thì Trainer-san, phải ngoan ngoãn nghe theo lời em đấy nhé! Nha♪",
+      "jpname": "ヴィブロス",
+      "jptext": "じゃあトレーナーさんは～、\nちゃんと私の言うこと聞くこと！　ね♪"
+    }
+  ]
+}
