@@ -1,0 +1,349 @@
+{
+  "title": "Ước mơ:",
+  "jptitle": "夢：",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, sau một thời gian tôi đảm nhận việc theo dõi các buổi tập luyện của Cheval Grand.",
+      "jpname": "モノローグ",
+      "jptext": "シュヴァルグランのトレーニングを見るようになり、\nしばらく経ったある日のこと。"
+    },
+    {
+      "name": "Giảng viên A",
+      "text": "Các em hãy nhớ kỹ những gì đã học trên lớp và chạy hết sức mình. Giờ thì bắt đầu từ đội A trước. Mời các em vào cổng xuất phát.",
+      "jpname": "教官A",
+      "jptext": "授業で習ったことをよく思い出して、各自全力で走ること。\nでは、まずはAチームから。ゲートインしてください。",
+      "choice_data_list": [
+        "(Chắc là tiết học đua xe nhỉ)",
+        "(Hình như là tiết thực hành đua)"
+      ],
+      "jpchoice_data_list": [
+        "（レースの授業だろうか）",
+        "（レースの授業かな）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như Cheval Grand cũng sắp sửa chạy. Nghĩ rằng nên quan sát để chuẩn bị cho tương lai, tôi liền tiến về phía khán đài.",
+      "jpname": "モノローグ",
+      "jptext": "どうやら、これからシュヴァルグランも走るようだ。\n今後のためにも観ておこうと、観客席へ向かった。"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Dù chỉ là tiết học, đua xe vẫn khiến mình căng thẳng thật. ...Lỡ như lại suýt chút nữa không thắng nổi thì biết làm sao đây.)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（……授業でも、レースはやっぱり緊張する。\n……また、ギリギリ勝てなかったらどうしよう）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Ủa? Trainer-san...?",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……あれ？　トレーナーさん……？"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Đúng rồi. Giờ đây mình đâu phải hai bàn tay trắng. Mình đã có những thành quả tích lũy cùng với Trainer-san mà.)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（……――そうだ。今の僕には何もないわけじゃない。\nトレーナーさんと、積み重ねてきたものがあるんだ）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Ư... không được để uổng phí! Phải lên dây cót tinh thần thôi! Cố lên...!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（……～～～っ、ムダにするな！　気合い入れろ！　……頑張れ！）"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, cuộc đua chính thức bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "やがて、レースが始まった。"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Cú bứt tốc xuất phát diễn ra rất suôn sẻ...! Cứ thế này bám sát phía sau Kita-san để giữ vững vị trí thôi!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（スタートダッシュはうまくいった……！\nこのままキタさんの背中を追いながら位置をキープ！）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Ở đoạn thẳng cuối cùng sẽ dần dần thu hẹp khoảng cách, rồi tung đòn vượt mặt ở những mét cuối!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（最後の直線でじりじり詰めて、ラストで差し切る！）"
+    },
+    {
+      "name": "",
+      "text": "Chẳng mấy chốc, đoàn đua đã tiến vào đoạn thẳng đích. Dẫn đầu là Kitasan Black, còn Cheval Grand thì bám sát ngay phía sau.",
+      "jpname": "モノローグ",
+      "jptext": "――やがて一団は、最終直線へと入った。先頭は\nキタサンブラック。シュヴァルグランはそのすぐ後ろについている。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Taa a a...!!",
+      "jpname": "キタサンブラック",
+      "jptext": "たぁああっ！！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Ư! Mình cũng làm được mà!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……っ！　僕だって！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Hộc, hộc, hộc!!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "はぁっ、はぁっ、はぁっ！！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Mình... ghét chính bản thân mình. Yếu đuối, ủ rũ, đã vậy còn chẳng mang lại kết quả gì, hoàn toàn, hoàn toàn không thể tin tưởng vào bản thân... nhưng mà...!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（僕は――僕が嫌いだ。弱くて陰気で、そのうえ結果も出せなくて、\n全然、全然自分のことが信じられない……けど！）"
+    },
+    {
+      "name": "",
+      "text": "\"Một Uma Musume như em hiếm có lắm đấy\"",
+      "jpname": "モノローグ",
+      "jptext": "『君のようなウマ娘はそういない』"
+    },
+    {
+      "name": "",
+      "text": "\"Một Uma Musume như em hiếm có lắm đấy\"",
+      "jpname": "モノローグ",
+      "jptext": "『貴方のようなウマ娘はそういない』"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Nơi trung tâm ánh mắt ấy, từng có hình bóng của mình...!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（あの目の真ん中には、僕がいた……！）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Nếu đã như vậy thì...!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（……っ、だったら！）"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Mình là Kitasan Black! Mục tiêu của mình là trở thành một Uma Musume mạnh mẽ và tỏa sáng lấp lánh như chị Tokai Teio!",
+      "jpname": "キタサンブラック",
+      "jptext": "キタサンブラックです！　目標はトウカイテイオーさん\nみたいな強くてピッカピカなウマ娘になること！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Mình muốn tin tưởng! Mình cũng muốn tin vào bản thân! Mình cũng có ước mơ mà...!)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（――信じたい！　僕も、僕のことを！　僕だって夢を――）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Mình đuổi kịp được! Đuổi theo, phải đuổi theo tới cùng...! A a a a a a a...!!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……っ、追える！　追う、追うん、だぁ……！\n――ぁあああああああああっ！！"
+    },
+    {
+      "name": "Cả hai",
+      "text": "Hộc, hà, hà...!! ...Ư!",
+      "jpname": "2人",
+      "jptext": "ぜっ、はあっ、はあっ！！　……っ！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...Aaa! Đồng hạng sao! Không thoát kịp rồi!",
+      "jpname": "キタサンブラック",
+      "jptext": "……っ、ああ～！　同着かぁ！　逃げ切れなかった～！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Nhưng mà, hi hi! Vui ghê luôn đó! Cheval-chan cừ thật đấy!",
+      "jpname": "キタサンブラック",
+      "jptext": "でも……、えへへ！　楽しかったな！\nシュヴァルちゃんってすごいんだね！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Hả.",
+      "jpname": "シュヴァルグラン",
+      "jptext": "えっ。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Cảm giác rần rần phấn khích, bừng bừng nhiệt huyết, cuộn trào dữ dội lắm luôn ấy! Nè, ước mơ của Cheval-chan là gì thế?",
+      "jpname": "キタサンブラック",
+      "jptext": "ゾクゾクして、ギラギラして、ぐわーってしてた！\n……ね、シュヴァルちゃんの夢って、なに？"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Ước mơ... của mình sao?",
+      "jpname": "シュヴァルグラン",
+      "jptext": "僕の、夢？"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ừm!",
+      "jpname": "キタサンブラック",
+      "jptext": "うん！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Chuyện đó, là...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……それは、その――"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Oa. Xin lỗi cậu, chờ mình... cho mình xin đúng một ngày thôi.",
+      "jpname": "シュヴァルグラン",
+      "jptext": "…………うぁ。\nごめん、待って……。……その、1日だけ。"
+    },
+    {
+      "name": "",
+      "text": "Một tiếng thở dài nhẹ nhõm bất giác bật ra. Dù chỉ là một cuộc đua trong giờ học, nhưng màn so tài lại cuồng nhiệt đến khó tin.",
+      "jpname": "モノローグ",
+      "jptext": "――ふ、とため息が漏れる。授業中のレースだというのに、\n信じられないほど熱気のある勝負だった。",
+      "choice_data_list": [
+        "(Quả nhiên, cô bé ấy có tài năng thực sự)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり、彼女には才能がある）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và vào buổi chiều muộn ngày hôm ấy, sau khi tôi vừa tái khẳng định điều đó...",
+      "jpname": "モノローグ",
+      "jptext": "そう、再認識した――その日の夕方。"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(...Anh ấy đã trao cho mình những điều mà bản thân còn thiếu sót.)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（……。\nあなたが僕に、足りてないものをくれたんだ）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "(Những thứ mà một mình bản thân dù cố đến đâu cũng không tài nào lấp đầy nổi...)",
+      "jpname": "シュヴァルグラン",
+      "jptext": "（自分じゃどうしても、埋められなかったものを……）"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Hãy can đảm lên nào, Cheval Grand...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……勇気を出せ、シュヴァルグラン……！"
+    },
+    {
+      "name": "",
+      "text": "Cheval Grand với nét mặt căng thẳng đã đến gõ cửa phòng Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "硬い表情のシュヴァルグランが、トレーナー室を訪ねてきた。"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Dạ! Em xin phép làm phiền một chút có được không ạ...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "…………。\n……っ！　あの！　少しだけ、いいでしょうか……！",
+      "choice_data_list": [
+        "Tất nhiên rồi. Có chuyện gì thế em?",
+        "Được chứ. Có chuyện gì vậy em?"
+      ],
+      "jpchoice_data_list": [
+        "もちろん。どうした？",
+        "もちろん。どうしたの？"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Dạ... chuyện là... e-em...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……っ、……その、……ぼっ――"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Em thật sự... k-không phải là một Uma Musume tài giỏi gì đâu ạ... E-Em vừa giản dị mờ nhạt, lại u ám, dễ tăng cân, chẳng hề tỏa sáng chút nào...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "僕は本当にっ、……た、大したウマ娘じゃ、ないです……。\nじ、地味だし、陰気だし、すぐ太るし、全然キラキラしてないし――"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Nhưng... dù vậy, em vẫn tha thiết... có một hình bóng mà em muốn vươn tới...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "でも……、それでも、どうしても……\n目指したい姿があるんです……！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "E-Em, em... em...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "ぼ、僕は、僕は――僕は……！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...Em muốn...",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……っ。\n……せっ――"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "Em muốn trở thành... Uma Musume vĩ đại nhất thế giới...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "世界で1番……っ、偉大なウマ娘になりたい……！",
+      "choice_data_list": [
+        "...Được chứ",
+        "...Ừ"
+      ],
+      "jpchoice_data_list": [
+        "……ああ",
+        "……うん"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đôi mắt của Cheval Grand vốn hay lảng tránh, lúc này lại nhìn thẳng về phía tôi như cầu nguyện, lại như đang thách thức số phận.",
+      "jpname": "モノローグ",
+      "jptext": "なかなか目線の合わないシュヴァルグランの瞳が、\n祈るように、挑むように、真っすぐにこちらを見た。"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "E-Em có cảm giác rằng nếu có anh bên cạnh, em sẽ có thể vươn tới được nơi ấy. Vì vậy, xin anh hãy đi cùng em...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "あ、あなたがいれば、そこへ行ける気がするんです。\nだから、一緒に、来てください……！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...A, không, dạ! Ý em bảo anh hãy đi cùng là... tất nhiên, n-nếu anh không cảm thấy phiền ạ...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "………………あっ、いや、その！　来てくださいって言うのは、\nもちろん、い、嫌じゃなければ、ってことなんですけど……！"
+    },
+    {
+      "name": "",
+      "text": "Cuộc đua tôi vừa chứng kiến lúc nãy thật tuyệt vời. Dù không có nó đi nữa, tôi cũng đã thấu hiểu rất rõ tài năng của cô bé rồi.",
+      "jpname": "モノローグ",
+      "jptext": "さっき観たレースは素晴らしかった。\n――そうでなくとも、彼女の才能のことはもう、よく知っている。",
+      "choice_data_list": [
+        "Tất nhiên rồi! Hãy cùng nhau đi biến ước mơ thành hiện thực nào!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！一緒に夢を叶えにいこう"
+      ]
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "……っ！"
+    },
+    {
+      "name": "Cheval Grand",
+      "text": "D-Dạ, em cảm ơn anh rất nhiều! Em sẽ cố gắng hết sức mình ạ...!",
+      "jpname": "シュヴァルグラン",
+      "jptext": "あ、ありがとうございます！\n僕、精いっぱい頑張ります……！"
+    },
+    {
+      "name": "",
+      "text": "Nét mặt căng thẳng của em bỗng chốc giãn ra. Dưới ánh hoàng hôn vàng óng ả rọi qua khung cửa sổ, một nụ cười rạng rỡ đã bừng sáng.",
+      "jpname": "モノローグ",
+      "jptext": "張りつめていた表情がふと緩む。\n窓から差し込む黄金色の光に照らされて――明るい笑顔が輝いた。"
+    }
+  ]
+}
