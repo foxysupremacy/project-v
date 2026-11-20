@@ -1,0 +1,357 @@
+{
+  "title": "Một là, dẫn dắt thế hệ sau đúng đắn",
+  "jptitle": "一、後進を正しく導くこと",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Cuối cùng cũng đến lúc trận đấu tập diễn ra. Fenomeno và Gold Ship cùng nhau xuất phát.",
+      "jpname": "モノローグ",
+      "jptext": "いよいよ模擬レースだ。\nフェノーメノとゴールドシップが出走する。"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lũ nhóc tụi bây mở to mắt ra mà nhìn cho kỹ đấy nhé-? Rồi hãy say sóng trước chuyến hải trình vĩ đại của bà đây đi!",
+      "jpname": "ゴールドシップ",
+      "jptext": "オメーら目ェかっぴらいて見とけよ～～？\nそして船酔いしろ！　アタシの大航海でな！"
+    },
+    {
+      "name": "Các cô bé Uma Musume tiểu học",
+      "text": "Chị Golshi ơiii! Cố lên nha! Chị Golshi, tiến lên đi ạ!",
+      "jpname": "小学生ウマ娘たち",
+      "jptext": "ゴルシお姉ちゃーん！　がんばれー！\nゴルシ姉ちゃん、いったれー！"
+    },
+    {
+      "name": "Cô bé Uma Musume tiểu học nhút nhát",
+      "text": "Hức...... Chị đằng kia trông như đang giận dữ chuyện gì sao ạ......?",
+      "jpname": "気弱な小学生ウマ娘",
+      "jptext": "ふぇ……あのお姉ちゃん、なんか怒ってる……？"
+    },
+    {
+      "name": "",
+      "text": "Trong khi Gold Ship khuấy động không khí khiến lũ trẻ vô cùng phấn khích, thì Fenomeno với khí thế hừng hực lại làm cho các em sợ chết khiếp......",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップが子どもたちを盛り上げる一方で、\n気合い充分のフェノーメノはすっかり怖がられている……。",
+      "choice_data_list": [
+        "(Liệu có ổn không đây......)"
+      ],
+      "jpchoice_data_list": [
+        "（大丈夫かな……）"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Phùuu. ......Được rồi! Chị Golshi, đừng có đùa cợt mãi thế nữa! Vào cổng xuất phát thôi nào!",
+      "jpname": "フェノーメノ",
+      "jptext": "ふぅーー。……よし！\nゴルシさん、いつまでもふざけない！　ゲートインですよ！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Dù chỉ là đấu tập, nhưng đây vẫn là một cuộc đua đàng hoàng! Chúng ta phải tập trung cao độ để làm tấm gương cho các em nhỏ chứ!",
+      "jpname": "フェノーメノ",
+      "jptext": "模擬とはいえ、これはれっきとしたレースであります！\nきちんと集中して、子どもたちに規範を見せねば！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hảảả-?? Mày lúc nào cũng cứng nhắc như cái thước kẻ ấy nhỉ. Định làm thước ê-ke luôn đấy à? Có muốn bà rắc bột phấn vào mặt không hả!",
+      "jpname": "ゴールドシップ",
+      "jptext": "あ～～～？？　相変わらず杓子定規のシャクシャクちゃんだなぁ。\n目指すは三角定規か？　チョークまぶしてやろうかぁ！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Cái gì cơ-!! Chị thật là——",
+      "jpname": "フェノーメノ",
+      "jptext": "なッッ！！　貴方は――"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bà đi trước đây nhé♪",
+      "jpname": "ゴールドシップ",
+      "jptext": "おっ先～♪"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ủa á......! Tên này——!",
+      "jpname": "フェノーメノ",
+      "jptext": "ぬあっ……！　このっ――！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hê hê, chiến thuật quấy rối thành công rực rỡ! Hãy bị nuốt chửng bởi con sóng của ta đi! Zundoko-piii☆",
+      "jpname": "ゴールドシップ",
+      "jptext": "へへっ、攪乱作戦成功だぜ！　俺様の波に吞まれな！\nズンドコぴ～～～～☆"
+    },
+    {
+      "name": "",
+      "text": "Fenomeno đã hoàn toàn mất đi sự tập trung. Dáng chạy bị xáo trộn ngay từ lúc xuất phát khiến cô mãi không thể lấy lại nhịp độ, hoàn toàn bị cuốn theo tốc độ của Gold Ship từ đầu đến cuối.",
+      "jpname": "モノローグ",
+      "jptext": "フェノーメノは、完全に集中を欠いていた。スタートから乱れた\n走りはなかなか立て直せず、終始ゴールドシップのペースだ。",
+      "choice_data_list": [
+        "(Tính cách quá nghiêm túc đang phản tác dụng rồi......)",
+        "(Tính cách quá đỗi nghiêm túc đang khiến cô ấy bị thiệt thòi......)"
+      ],
+      "jpchoice_data_list": [
+        "（生真面目さがかなり悪く働いてるな……）",
+        "（生真面目さがかなり悪く働いてる……）"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Hự, ư a a a......!!",
+      "jpname": "フェノーメノ",
+      "jptext": "くっ、ううあああ……！！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "CÁN ĐÍCH RỒI! Hạm đội vĩ đại Golshi-chan khải hoàn trở về đâyyy!",
+      "jpname": "ゴールドシップ",
+      "jptext": "ゴーーーール！\nゴルシちゃん大船団、凱旋じゃーい！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sao thế hả Meno, tao còn chưa thèm tạo sóng lớn mà mày đã sặc nước ngộp thở rồi cơ à! Bộ mới tập bơi lần đầu tiên đấy phỏng? Hử??",
+      "jpname": "ゴールドシップ",
+      "jptext": "んだよメノ～アタシが波起こすまでもねぇ、\nあっぷあっぷじゃねぇか～！　プール初心者か？　おん？？"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Hự—— thái độ đó của chị thật quá quắt lắm rồi! Lời nói và hành vi trái với tinh thần thể thao như thế, sẽ ảnh hưởng xấu tới lũ trẻ đấy!!",
+      "jpname": "フェノーメノ",
+      "jptext": "くっ、――その態度、いい加減目に余ります！\nスポーツマンシップに反する言動ッ！　子どもたちに悪影響だ！！"
+    },
+    {
+      "name": "Cô bé Uma Musume tiểu học nhút nhát",
+      "text": "——Hức, ......oa......! Chị đằng kia...... đáng sợ quá à...... hức, oa oa......!",
+      "jpname": "気弱な小学生ウマ娘",
+      "jptext": "――ふぇっ、……うぇぇ……っ！\nあのおねえちゃ……っ、こわいよぉ……ぐすっ、うぇぇ……！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thôi nào thôi nào, làm mưa rào thế này là cây đậu lại mọc cao vút lên bây giờ. Bữa tối sẽ toàn là đậu Hà Lan đấy biết chưa? ——Nên đừng có khóc nữa nhé, được không nào?",
+      "jpname": "ゴールドシップ",
+      "jptext": "オイオイ、あんま雨降らすとまた豆の木が育っちまうじゃねぇか。\n晩飯グリンピースまみれになるぜ？　――だから泣くなよ、な？"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "A............",
+      "jpname": "フェノーメノ",
+      "jptext": "あ…………。"
+    },
+    {
+      "name": "",
+      "text": "Đứa bé bật khóc sau cùng cũng được dỗ dành nhờ sự giúp sức của những người lớn xung quanh. Buổi tham quan kết thúc, chúng tôi tiễn lũ trẻ ra về bình an vô sự.",
+      "jpname": "モノローグ",
+      "jptext": "泣いてしまった子どもは、大人たちも加わってなんとかなだめた。\n見学会はお開きとなり、無事子どもたちも見送り終えた。",
+      "choice_data_list": [
+        "(Không biết Fenomeno có sao không nhỉ......)"
+      ],
+      "jpchoice_data_list": [
+        "（フェノーメノは大丈夫かな……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bản thân Fenomeno đã chủ động xin không tham gia tiễn các em...... trông cô ấy có vẻ suy sụp vô cùng.",
+      "jpname": "モノローグ",
+      "jptext": "フェノーメノ本人の意思で、見送りは辞退していたが……\nかなり落ち込んでいるように見えた。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì là một người rất mực nghiêm túc và luôn nghĩ cho con trẻ—— nên có lẽ cô ấy đang tự dằn vặt bản thân sâu sắc.",
+      "jpname": "モノローグ",
+      "jptext": "とても生真面目で、子ども思いな人柄だからこそ――\n自分を深く責めてしまっているかもしれない。",
+      "choice_data_list": [
+        "......Lo thật đấy. Mình phải qua xem cô ấy thế nào mới được",
+        "......Lo quá. Qua xem em ấy thế nào mới được"
+      ],
+      "jpchoice_data_list": [
+        "……心配だ。様子を見に行こう",
+        "……心配だな。様子を見に行こう"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——Thật là bất tài vô dụng...... Mình quả thực...... quá đỗi non nớt......!",
+      "jpname": "フェノーメノ",
+      "jptext": "――なんと、不甲斐ない……。\n私は……未熟だ……！",
+      "choice_data_list": [
+        "Ăn cái này không?"
+      ],
+      "jpchoice_data_list": [
+        "これ、食べる？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——! A...... Trainer-san......",
+      "jpname": "フェノーメノ",
+      "jptext": "――！\nあ……トレーナー、さん……。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bánh mì nhân đậu đỏ và sữa tươi sao......? ............Phù, hệt như trong phim cảnh sát điều tra vậy.",
+      "jpname": "フェノーメノ",
+      "jptext": "あんぱんと、牛乳……？\n…………ふふ、刑事ドラマみたいだ。",
+      "choice_data_list": [
+        "Nếu được, tôi sẵn lòng lắng nghe cô tâm sự"
+      ],
+      "jpchoice_data_list": [
+        "よかったら、話聞くよ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "............Cảm ơn người rất nhiều.",
+      "jpname": "フェノーメノ",
+      "jptext": "…………ありがとう、ございます。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Chỉ vì sự non nớt của tôi mà đã làm phiền đến người rồi. ......Thực sự quá đỗi non nớt...... còn xa tôi mới xứng đáng làm một \"đồng minh của chính nghĩa\".",
+      "jpname": "フェノーメノ",
+      "jptext": "私が未熟なばかりに、ご迷惑をおかけしました。\n……本当に、未熟で……『正義の味方』になど、程遠い有様です。",
+      "choice_data_list": [
+        "Đồng minh của chính nghĩa...... đó là tôn chỉ của cô nhỉ",
+        "Đồng minh của chính nghĩa...... đó là lý tưởng của em à"
+      ],
+      "jpchoice_data_list": [
+        "正義の味方……君の信条だったっけ",
+        "正義の味方……貴方の信条だったっけ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Vâng. ——Cha tôi là một sĩ quan cảnh sát.",
+      "jpname": "フェノーメノ",
+      "jptext": "ええ。\n――――父が、警察官でして。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Tuy vẻ ngoài bặm trợn hung dữ, nhưng cha lại tràn đầy tinh thần chính nghĩa...... luôn tận tụy hết lòng để bảo vệ một khu phố nơi người dân có thể an cư lạc nghiệp. Cha là người mà tôi vô cùng kính trọng.",
+      "jpname": "フェノーメノ",
+      "jptext": "強面ながら、正義感に溢れ……人々が安心して暮らせる街を\n守るために尽力する。尊敬すべき人です。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Tôi thừa hưởng diện mạo dữ dằn của cha, từ nhỏ vóc dáng cũng to lớn hơn so với bạn bè đồng trang lứa...... nên rất hay khiến những đứa trẻ nhỏ tuổi hơn khiếp sợ.",
+      "jpname": "フェノーメノ",
+      "jptext": "私は父に似て強面で、幼少期から周囲より体も大きいほうで……\n年下の子らを怖がらせることが多かったのです。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Lại không có kinh nghiệm như cha, nên tôi chỉ toàn làm người ta hoảng sợ vô cớ...... Trông chẳng giống đồng minh của chính nghĩa chút nào, mà cứ như quái vật trong mấy bộ phim siêu anh hùng vậy.",
+      "jpname": "フェノーメノ",
+      "jptext": "父のような経験値もないので、いたずらに怯えさせるばかりで……\n正義の味方というよりも、ヒーロー映画の怪物のような有様でした。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——Thế nhưng, nếu là trên đường đua.",
+      "jpname": "フェノーメノ",
+      "jptext": "――けれど、レースでなら。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Lũ trẻ lại khen tôi thật ngầu. Các em đã nhìn tôi với đôi mắt lấp lánh ánh sáng và bảo rằng cũng muốn được chạy như tôi.",
+      "jpname": "フェノーメノ",
+      "jptext": "子どもたちはかっこいいと言ってくれた。\n私のように走れるようになりたいと、目を輝かせてくれたのです。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Tôi nghĩ nếu mình thể hiện được hình ảnh thật ngầu trên đường đua và tiếp tục làm một tấm gương chuẩn mực...... liệu mình có thể trở thành con đường dẫn lối cho lũ trẻ hướng tới hay chăng.",
+      "jpname": "フェノーメノ",
+      "jptext": "私がレースでかっこいい姿を見せて、規範を示し続ければ……\n子どもたちの目指す道になれるのではないか。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Liệu mình có thể mang lại một niềm hy vọng tươi sáng và đúng đắn cho tương lai của các em hay không——",
+      "jpname": "フェノーメノ",
+      "jptext": "子どもたちの将来に、正しく、明るい希望を\nもたらせるのではないか――"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bản quan đã luôn tâm niệm điều đó...... và nỗ lực hết mình để tiến bước. Nhưng rồi...... kết cục lại thành ra thế này đây.",
+      "jpname": "フェノーメノ",
+      "jptext": "そう考え……邁進してきたつもりであります。\nしかし……この有様です。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "......Tôi hiểu rất rõ. Lũ trẻ thường ngưỡng mộ những người lớn hài hước, vui tươi và luôn biết cách mang lại niềm vui cho chúng như chị Golshi.",
+      "jpname": "フェノーメノ",
+      "jptext": "……わかっているのです。子どもたちは、ゴルシさんのように\nひょうきんで、明るく楽しませてくれる年上にこそ憧れるもの。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Thế nhưng...... tôi lại chẳng thể làm được như vậy.",
+      "jpname": "フェノーメノ",
+      "jptext": "ですが……私には、あんなふうにできない。"
+    },
+    {
+      "name": "",
+      "text": "Lắng nghe tâm nguyện của Fenomeno...... tôi lại một lần nữa cảm thấy sự dịu dàng và lòng chân thành của cô ấy thật chói lọi biết bao. Nhưng đồng thời, cũng thấy thật xót xa và bế tắc.",
+      "jpname": "モノローグ",
+      "jptext": "フェノーメノの志に触れ……改めて、その優しさ、\n誠実さを眩しく思う。同時に、もどかしくもあった。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy có tài năng. Sải chân rộng rãi thanh thoát, cùng cú bứt tốc đầy nội lực ở đoạn nước rút—— Nếu phát huy được những điểm đó, cô nhất định sẽ có được một \"dáng chạy thật ngầu\".",
+      "jpname": "モノローグ",
+      "jptext": "彼女には才能がある。伸びやかなストライド、力強い差し脚――\nそれらが活かされれば、『かっこいい走り』ができるはず。"
+    },
+    {
+      "name": "",
+      "text": "Chỉ là hiện tại, bản tính quá đỗi nghiêm cẩn của cô đang vô tình mang lại tác dụng ngược mà thôi.",
+      "jpname": "モノローグ",
+      "jptext": "ただ今は、彼女の生真面目な気質が、\n悪い方へ作用してしまっているだけなのだ。",
+      "choice_data_list": [
+        "Hãy bình tĩnh lại và chạy theo nhịp độ của riêng cô đi"
+      ],
+      "jpchoice_data_list": [
+        "落ち着いて、自分のペースで走ってみよう"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "......Dạ?",
+      "jpname": "フェノーメノ",
+      "jptext": "……え？"
+    },
+    {
+      "name": "",
+      "text": "Chỉ cần tập trung và giữ vững nhịp độ của mình—— thì với cú bứt tốc dũng mãnh ở đoạn cuối, cô hoàn toàn có thể vượt qua mọi đối thủ.",
+      "jpname": "モノローグ",
+      "jptext": "集中して、ペースさえ乱さなければ――そのダイナミックな末脚で、\nライバルたちを差し切ることだってできるはずだ。",
+      "choice_data_list": [
+        "Cô có thể tạo nên một dáng chạy thật ngầu mà",
+        "Em hoàn toàn có thể tạo nên một dáng chạy cực ngầu mà"
+      ],
+      "jpchoice_data_list": [
+        "君は、かっこいい走りができるよ",
+        "貴方は、かっこいい走りができるよ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Một dáng chạy...... thật ngầu sao......",
+      "jpname": "フェノーメノ",
+      "jptext": "かっこいい、走りが……。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "............Sếp.",
+      "jpname": "フェノーメノ",
+      "jptext": "…………ボス。",
+      "choice_data_list": [
+        "......sếp?"
+      ],
+      "jpchoice_data_list": [
+        "……ぼす？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——Sếp! Trainer-san, xin hãy cho phép tôi gọi người là Sếp! Bản quan muốn được nhận sự chỉ dẫn từ Sếp ạ!!",
+      "jpname": "フェノーメノ",
+      "jptext": "――ボス！　トレーナーさん、貴方をボスと呼ばせてください！\nボスの指導を、賜りたいであります！！"
+    }
+  ]
+}

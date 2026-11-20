@@ -1,0 +1,479 @@
+{
+  "title": "Một là, xứng đáng nhận lời huấn thị",
+  "jptitle": "一、訓辞を受けるに値すること",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nghỉ. Vì thời tiết đẹp nên tôi dạo bước dạo quanh thị trấn thì——",
+      "jpname": "モノローグ",
+      "jptext": "休日。天気がいいので、街中を歩いていると――"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Sếp! Gặp Sếp ở đây thật là một sự trùng hợp bất ngờ! Sếp đang đi dạo ạ?",
+      "jpname": "フェノーメノ",
+      "jptext": "ボス！　ここで会うとは奇遇ですね！\nお出かけですか？",
+      "choice_data_list": [
+        "Ừ, tôi đi dạo loanh quanh thôi. Còn cô?",
+        "Ừm, tôi đi dạo quanh đây thôi. Còn em?"
+      ],
+      "jpchoice_data_list": [
+        "ああ、適当にブラブラと。君は？",
+        "うん、適当にブラブラと。貴方は？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Báo cáo! Bản quan đang đi tuần tra xem quanh thị trấn có mối nguy hiểm nào không ạ!",
+      "jpname": "フェノーメノ",
+      "jptext": "はっ！　街に危険がないか、巡回中であります！"
+    },
+    {
+      "name": "",
+      "text": "Dù là ngày nghỉ nhưng Fenomeno vẫn hết mình vì sự bình yên của thị trấn khiến tôi vô cùng cảm phục. Tôi muốn giúp cô ấy một tay dù chỉ là một chút.",
+      "jpname": "モノローグ",
+      "jptext": "休日でも、街の平和のため奮闘するフェノーメノに感心する。\n少しでも、そんな彼女の力になりたいと思った。",
+      "choice_data_list": [
+        "Nhân tiện có ở đây, tôi đi tuần cùng cô có được không?",
+        "Nhân tiện có ở đây, tôi đi tuần cùng em có được không?"
+      ],
+      "jpchoice_data_list": [
+        "せっかくだから俺も一緒にいいかな？",
+        "せっかくだから私も一緒にいいかな？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ôi tuyệt quá! Được Sếp đồng hành cùng thì......! Quả thực vô cùng yên tâm và vững dạ ạ!",
+      "jpname": "フェノーメノ",
+      "jptext": "おおっ！　ボスが同行してくださるとは……！\n大変、心強いでありますっ！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Dù thoạt nhìn có vẻ yên bình nhưng nguy hiểm có thể rình rập ở bất cứ đâu. Chúng ta phải quan sát thật kỹ...... Hử!?",
+      "jpname": "フェノーメノ",
+      "jptext": "一見すると平和に見えても、危険が潜んでいるかもしれません。\nしっかりと見回らねば……むっ！？"
+    },
+    {
+      "name": "Bé đi lạc",
+      "text": "Hức, mẹ ơi...... mẹ ở đâu rồi ạ......?",
+      "jpname": "迷子",
+      "jptext": "ひっく、ママぁ……どこぉ……？"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Em nhỏ đằng kia! Em bị lạc phải không!? Tên em là gì!? Em có thể miêu tả đặc điểm của bố mẹ em được không!?",
+      "jpname": "フェノーメノ",
+      "jptext": "そこの君！　迷子ですね！？\nお名前は！？　親御さんの特徴は言えますか！？"
+    },
+    {
+      "name": "Bé đi lạc",
+      "text": "Á......! Đ-Đáng sợ quá à......! Mẹ ơi mẹ ơiiii......!!",
+      "jpname": "迷子",
+      "jptext": "ひぃっ！？　こ、こわいよぉ……！\nマぁマぁぁぁ～～～……！！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "X-Xin lỗi em! Chị không hề có ý làm em sợ đâu mà......!",
+      "jpname": "フェノーメノ",
+      "jptext": "も、申し訳ない！　怖がらせるつもりはなかったのですが……！",
+      "choice_data_list": [
+        "Không sao đâu mà-? Đừng sợ, không có gì đáng sợ đâu nhé-?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫だよ～～？怖くないよ～～？"
+      ]
+    },
+    {
+      "name": "Bé đi lạc",
+      "text": "Oa...... hức...... Th-Thật không ạ......?",
+      "jpname": "迷子",
+      "jptext": "あうぅ……ひっく……。ほ、ほんとぉ……？"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Đúng thế! Đúng như Sếp nói đấy! Chúng ta tới để bảo vệ em mà——!",
+      "jpname": "フェノーメノ",
+      "jptext": "ええっ！　ボスの言う通りであります！\n我々は君を保護しようと――！"
+    },
+    {
+      "name": "Bé đi lạc",
+      "text": "OA OA OA OA!!!",
+      "jpname": "迷子",
+      "jptext": "う゛あぁぁあん！！！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "......Nhờ Sếp dỗ dành đứa bé nên chúng ta mới có thể đưa em tới đồn cảnh sát an toàn...... ——Ủa!?",
+      "jpname": "フェノーメノ",
+      "jptext": "……ボスが落ち着かせてくれたおかげで、\nなんとか交番に案内できました……。――むっ！？"
+    },
+    {
+      "name": "Bà cụ",
+      "text": "Ối chà, nặng quá...... phù. Đến tuổi này rồi là cái lưng nó đau nhức ghê cơ.",
+      "jpname": "おばあさん",
+      "jptext": "よいしょ、どっこいしょ……ふぅ。\nこの齢になると腰が痛いね～。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bác gái đằng kia, để cháu xách hành lý giúp bác cho! Nào, hãy đưa hết cho bản quan!",
+      "jpname": "フェノーメノ",
+      "jptext": "そこのご婦人、荷物をお持ちしましょう！\nさあ、本官に渡してください！"
+    },
+    {
+      "name": "Bà cụ",
+      "text": "Ối giời ôi!? C-Cái gì thế hả cô kia!? Hay cô là quân gian manh định giật đồ của tôi đấy hả!?",
+      "jpname": "おばあさん",
+      "jptext": "ひょえっ！？　な、なんだい、アンタは！？\nもしかして荷物を狙う悪党かい！？"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "B-Bảo cháu là gian manh thì oan cho cháu quá! Bản quan tuyệt đối không phải loại người như thế đâu ạ!!",
+      "jpname": "フェノーメノ",
+      "jptext": "あ、悪党とは心外であります！\n本官はそのような者ではありませんっ！！"
+    },
+    {
+      "name": "Bà cụ",
+      "text": "Cô vác cái mặt hằm hằm đe dọa thế kia thì ai mà tin được! Có ai không, cứu tôi vớiii-!?",
+      "jpname": "おばあさん",
+      "jptext": "そんなコワ面で脅かそうったって、そうはいかないよ！\nだぁぁ～～れかぁぁぁ～～！？",
+      "choice_data_list": [
+        "Bác bình tĩnh ạ, cô ấy thực sự không phải người xấu đâu!!"
+      ],
+      "jpchoice_data_list": [
+        "本当に、怪しい者じゃありませんから！！"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Nhờ có Sếp mà hiểu lầm mới được hóa giải phần nào...... ............Haizz.",
+      "jpname": "フェノーメノ",
+      "jptext": "ボスのおかげで、なんとか誤解が解けました……。\n…………はぁ。"
+    },
+    {
+      "name": "",
+      "text": "Fenomeno buông thõng hai vai đầy chán nản. Là một Trainer, lúc này tôi cần phải động viên cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "フェノーメノはがっくりと肩を落としている。\nここはトレーナーとして励まさなければ。",
+      "choice_data_list": [
+        "Cô thấy mệt rồi đúng không? Để tôi đi mua cà phê nhé"
+      ],
+      "jpchoice_data_list": [
+        "少し疲れたよね？コーヒーでも買ってくるよ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "A! Nếu vậy thì để tôi đi mua——!",
+      "jpname": "フェノーメノ",
+      "jptext": "あっ！　それでしたら私が――！",
+      "choice_data_list": [
+        "Thôi nào, không sao đâu. Meno cứ ngồi đây nghỉ ngơi đi"
+      ],
+      "jpchoice_data_list": [
+        "いいから、いいから。メノはそこで休んでて"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Dạ...... vâng. Cảm ơn sự quan tâm chu đáo của Sếp ạ......",
+      "jpname": "フェノーメノ",
+      "jptext": "えっと……はい。\nお気遣い、感謝します……。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "(Vừa làm trẻ con sợ khóc, lại vừa bị hiểu lầm là kẻ xấu...... Hôm nay mình chẳng làm được tích sự gì ra hồn cả......)",
+      "jpname": "フェノーメノ",
+      "jptext": "（子どもには怖がられ、悪党と誤解され……。\n今日の私はいいところなしだな……）"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "(......Không, đâu chỉ có mỗi ngày hôm nay)",
+      "jpname": "フェノーメノ",
+      "jptext": "（……いや、今回だけではない）"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "(Vụ bồn hoa bị phá hoại lần trước mình cũng ỷ lại vào lòng tốt của Sếp, khiến người phải tốn công tốn sức vào những việc ngoài phận sự Trainer)",
+      "jpname": "フェノーメノ",
+      "jptext": "（花壇荒らしの件ではボスの面倒見のよさに甘え、\nトレーナー業務以外のことで手間を取らせてしまった）"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "(Sự vô dụng của mình từ dạo ấy đến giờ vẫn chẳng hề thay đổi. Ngay lúc này đây mình vẫn đang khiến người ấy phải bận tâm lo lắng)",
+      "jpname": "フェノーメノ",
+      "jptext": "（自分が不甲斐ないのは、あの時から変わらない。\n今もあの人に気を使わせてしまっている）"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "(......Một kẻ như mình liệu có đủ tư cách? Liệu có xứng đáng để nhận sự chỉ bảo từ người ấy hay không......?)",
+      "jpname": "フェノーメノ",
+      "jptext": "（……こんな私にあるのだろうか？\nあの人の指導を仰ぐ資格が……）"
+    },
+    {
+      "name": "???",
+      "text": "Hự......! Ư ư ư......!",
+      "jpname": "？？？",
+      "jptext": "うっ……！　ううう……！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——! Đằng kia là......!!",
+      "jpname": "フェノーメノ",
+      "jptext": "――っ！　あれは……！！"
+    },
+    {
+      "name": "",
+      "text": "Cầm lon cà phê trên tay, tôi quay trở lại chỗ Fenomeno nhưng......",
+      "jpname": "モノローグ",
+      "jptext": "缶コーヒーを手に、フェノーメノの下へ戻るが……。",
+      "choice_data_list": [
+        "Meno? Cô ở đâu thế?",
+        "Meno? Em ở đâu đấy?"
+      ],
+      "jpchoice_data_list": [
+        "メノ？どこにいるんだ？",
+        "メノ？どこにいるの？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Ở bên này ạ!",
+      "jpname": "フェノーメノ",
+      "jptext": "こっちです！"
+    },
+    {
+      "name": "",
+      "text": "Lần theo hướng phát ra tiếng gọi, tôi thấy Fenomeno đang chăm sóc cho một người đàn ông đang ngồi gục xuống đất.",
+      "jpname": "モノローグ",
+      "jptext": "声がする方へ向かうと、\nフェノーメノがうずくまる男性を介抱していた。",
+      "choice_data_list": [
+        "Người đó bị làm sao thế kia......!?",
+        "Bác ấy bị làm sao thế kia......!?"
+      ],
+      "jpchoice_data_list": [
+        "その人、どうしたんだ……！？",
+        "その人、どうしたの……！？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Nghe bảo bác ấy bị tái phát bệnh mãn tính. Bác ấy đã tự gọi xe cấp cứu rồi, nhưng mà......",
+      "jpname": "フェノーメノ",
+      "jptext": "持病を患っているそうです。\nご自身で救急車を呼ばれたらしいのですが……。"
+    },
+    {
+      "name": "Người đàn ông",
+      "text": "Xe không tới...... mãi mà không thấy tới...... Tôi chờ mãi rồi mà...... ư ư ư......!",
+      "jpname": "男性",
+      "jptext": "来ない……来ないんだ……。\nずっと待っても……ううう……！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Xem ra gần đây đang có một vụ tắc đường nghiêm trọng. Có lẽ vì thế mà xe cứu thương bị chậm trễ......",
+      "jpname": "フェノーメノ",
+      "jptext": "どうやら近くで、大規模な渋滞が発生している模様。\nそのせいで到着が遅れているかと……。"
+    },
+    {
+      "name": "Người đàn ông",
+      "text": "Đưa tôi tới bệnh viện...... ghi trong tờ giấy này...... với...... Hự......!? Á á...... ư ư ư......!!",
+      "jpname": "男性",
+      "jptext": "このメモの、病院に……連れて……。\nうっ……！？　があぁ……うぅぅ……！！"
+    },
+    {
+      "name": "",
+      "text": "Trên mảnh giấy có ghi tên của một bệnh viện. Đó là nơi người đàn ông thường xuyên khám chữa, kèm theo lời dặn của bác sĩ điều trị là phải chuyển ngay tới đó trong trường hợp khẩn cấp.",
+      "jpname": "モノローグ",
+      "jptext": "メモには病院の名前が書かれていた。そこは男性のかかりつけで、\n緊急時にはそこに搬送するようにとの主治医の指示が記されている。"
+    },
+    {
+      "name": "",
+      "text": "Tôi kiểm tra vị trí bệnh viện trên điện thoại thông minh...... nhưng khoảng cách khá xa. Kể cả có gọi taxi thì tình trạng kẹt xe thế này cũng khó lòng tới kịp ngay được......",
+      "jpname": "モノローグ",
+      "jptext": "スマホで病院の位置を確認する……が、距離があるようだ。\nタクシーを呼んだとしても、渋滞ですぐに来られるかは怪しい……。",
+      "choice_data_list": [
+        "(......Không. Nếu là đôi chân của Meno thì——!)"
+      ],
+      "jpchoice_data_list": [
+        "（……いや。メノの脚なら――！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau một thoáng suy nghĩ, tôi mở LANE lên và gửi thông tin lộ trình đến bệnh viện cho Fenomeno.",
+      "jpname": "モノローグ",
+      "jptext": "少し考えた後、LANEを開き、\nフェノーメノに病院までのルート情報を送る。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——............! Sếp, tấm bản đồ này là......",
+      "jpname": "フェノーメノ",
+      "jptext": "――…………！\nボス、この地図は……。",
+      "choice_data_list": [
+        "Tôi muốn cô cõng người này chạy thẳng tới bệnh viện đó"
+      ],
+      "jpchoice_data_list": [
+        "この人をその病院まで運んでほしい"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bản quan sao ạ?",
+      "jpname": "フェノーメノ",
+      "jptext": "私が、でありますか？"
+    },
+    {
+      "name": "",
+      "text": "Qua quá trình luyện tập hàng ngày, tôi nắm rất rõ thực lực của Fenomeno. Với sức bền và đôi chân phi thường của cô ấy, chắc chắn sẽ đưa bệnh nhân đến nơi chỉ trong thời gian ngắn.",
+      "jpname": "モノローグ",
+      "jptext": "日頃のトレーニングでフェノーメノの能力は把握している。\n彼女の脚力やスタミナなら、短時間で送り届けられるだろう。"
+    },
+    {
+      "name": "",
+      "text": "Trên hết, cô ấy sở hữu một ý chí sắt đá luôn kiên định với chính nghĩa. Nếu là cô ấy, nhất định sẽ hoàn thành được việc này.",
+      "jpname": "モノローグ",
+      "jptext": "なにより、正義を貫こうとする強靭な精神力がある。\n彼女ならきっとやり遂げてみせるはずだ。",
+      "choice_data_list": [
+        "Tôi chỉ có thể trông cậy vào cô thôi, Meno",
+        "Tôi chỉ có thể đặt niềm tin vào em thôi, Meno"
+      ],
+      "jpchoice_data_list": [
+        "君だけが頼りなんだ、メノ",
+        "貴方だけが頼りなの、メノ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——......! ......Rõ, tuân lệnh Sếp!",
+      "jpname": "フェノーメノ",
+      "jptext": "――……！\n……了解であります！"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bác hãy bám thật chặt vào cháu nhé! ——HÀ A A A A A!!",
+      "jpname": "フェノーメノ",
+      "jptext": "しっかり掴まっていてください！\n――はあああああっ！！"
+    },
+    {
+      "name": "",
+      "text": "Khi đội cấp cứu đến nơi muộn màng, tôi giải thích với họ rằng theo chỉ dẫn trong mảnh giấy của bác sĩ, Fenomeno đã đưa bệnh nhân đến bệnh viện chỉ định. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "遅れて到着した救急隊に対し、男性と主治医のメモに従い、\nフェノーメノが指定の病院に搬送したことを説明した。そして――"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——!! Sếp!!",
+      "jpname": "フェノーメノ",
+      "jptext": "――っ！！　ボス！！",
+      "choice_data_list": [
+        "Người đó sao rồi!?"
+      ],
+      "jpchoice_data_list": [
+        "あの人は！？"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Nghe bảo là vừa vặn kịp lúc cấp cứu ạ. Không có gì nguy hiểm tới tính mạng nữa rồi.",
+      "jpname": "フェノーメノ",
+      "jptext": "処置がギリギリ間に合ったそうです。\n大事には至らなかったと。",
+      "choice_data_list": [
+        "May quá rồi......! Cô đã làm rất tốt, Meno!",
+        "May quá rồi......! Em đã làm rất tốt, Meno!"
+      ],
+      "jpchoice_data_list": [
+        "よかった……！よく頑張ったな、メノ！",
+        "よかった……！よく頑張ったね、メノ！"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Dạ vâng......! ............",
+      "jpname": "フェノーメノ",
+      "jptext": "はいっ……！\n…………。"
+    },
+    {
+      "name": "",
+      "text": "Mọi chuyện còn lại bàn giao cho bệnh viện, hai chúng tôi cùng nhau cất bước trên đường về. Dù trải qua bao chuyện vất vả, nhưng cảm giác mệt mỏi này lại có chút gì đó thật nhẹ nhõm và khoan khoái.",
+      "jpname": "モノローグ",
+      "jptext": "後のことは病院に任せ、ふたりで帰路につく。\nいろいろと大変なことがあったが、その疲労感はどこか心地よい。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "......Nhờ có Sếp mà tôi đã cứu được người ấy. Bằng chính đôi chân được tôi luyện qua sự chỉ dẫn của Sếp.",
+      "jpname": "フェノーメノ",
+      "jptext": "……ボスのおかげであの人を救えました。\n貴方の指導で鍛えた、この脚で。",
+      "choice_data_list": [
+        "Tôi luôn tin là cô sẽ làm được mà",
+        "Tôi luôn tin là em sẽ làm được mà"
+      ],
+      "jpchoice_data_list": [
+        "君ならできるって信じてたよ",
+        "貴方ならできるって信じてたよ"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Hi hi...... Thật là hổ thẹn và vinh dự cho bản quan quá ạ.",
+      "jpname": "フェノーメノ",
+      "jptext": "ふふっ……恐縮であります。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "............Thực ra, trước đó tôi đã trăn trở rất nhiều. Tự hỏi liệu mình có đủ tư cách để nhận sự chỉ bảo từ Sếp hay không.",
+      "jpname": "フェノーメノ",
+      "jptext": "…………実は、悩んでおりました。\n私に、貴方の指導を仰ぐ資格があるのかと。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Thế nhưng...... giờ thì tôi không còn nghĩ vậy nữa rồi. Nếu thấy mình chưa đủ tư cách, thì chỉ cần nỗ lực rèn giũa bản thân để xứng đáng với điều đó là được.",
+      "jpname": "フェノーメノ",
+      "jptext": "ですが……今は違います。\n資格がないのなら、見合うように精進すればいい。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Quả nhiên, người mà tôi muốn noi theo và sát cánh nhất chính là Sếp. Để có thể tiến gần hơn tới chính nghĩa lý tưởng của mình.",
+      "jpname": "フェノーメノ",
+      "jptext": "やはり私は、貴方にこそ、ついていきたいのであります。\n理想の正義に近づくために。",
+      "choice_data_list": [
+        "Meno......"
+      ],
+      "jpchoice_data_list": [
+        "メノ……"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Bản quan vẫn còn là một kẻ rất non nớt. Còn nhiều điểm thiếu sót, và có thể sẽ còn khiến Sếp phải bận lòng nhiều điều.",
+      "jpname": "フェノーメノ",
+      "jptext": "本官はまだまだ未熟者であります。至らぬ点が多く、\nご迷惑をおかけすることがあるかもしれません。"
+    },
+    {
+      "name": "Fenomeno",
+      "text": "Dẫu vậy, liệu tôi có thể tiếp tục được đứng bên cạnh Sếp hay không?",
+      "jpname": "フェノーメノ",
+      "jptext": "それでも、貴方の側に立ち続けてもよろしいでしょうか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi vốn dĩ đã bị cuốn hút bởi một cô gái luôn tin tưởng tuyệt đối vào chính nghĩa. Vì vậy, câu trả lời đã được định sẵn từ lâu.",
+      "jpname": "モノローグ",
+      "jptext": "自分は正義をまっすぐ信じる彼女に惹かれたのだ。\nだから、返事は決まっている。",
+      "choice_data_list": [
+        "Tất nhiên rồi. Bởi tôi là \"Sếp\" của cô mà",
+        "Tất nhiên rồi. Bởi tôi là \"Sếp\" của em mà"
+      ],
+      "jpchoice_data_list": [
+        "もちろん。俺は君の“ボス”なんだから",
+        "もちろん。私は貴方の“ボス”なんだから"
+      ]
+    },
+    {
+      "name": "Fenomeno",
+      "text": "——Dạ, cảm ơn Sếp rất nhiều!",
+      "jpname": "フェノーメノ",
+      "jptext": "――っ、ありがとうございます！"
+    }
+  ]
+}
