@@ -1,0 +1,265 @@
+{
+  "title": "Ngày Cơm Hộp Ấm Áp Lòng Người",
+  "jptitle": "今日はほっこりお弁当日和",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Wonder Acute",
+      "text": "A, Trainer-san. Giờ cậu đi ăn trưa đấy à?",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あぁ、トレーナーさん。\nこれからお昼かね？",
+      "choice_data_list": [
+        "Acute ăn cơm hộp bento à?"
+      ],
+      "jpchoice_data_list": [
+        "アキュートは、お弁当？"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Đúng rồi đó nha. Tôi tiện thể nấu một mẻ cùng với bữa sáng luôn nè.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "そうだよぉ。朝ごはんとまとめてこしらえてねぇ。"
+    },
+    {
+      "name": "",
+      "text": "Hộp bento do Wonder Acute tự tay chuẩn bị. Trong lúc tôi đang thầm tưởng tượng xem bên trong có những món gì, thì...",
+      "jpname": "モノローグ",
+      "jptext": "ワンダーアキュートが作ったお弁当。いったい\nどんな中身なのだろうか、と想像を巡らせていると――"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Trainer-san này, nếu cậu chưa ăn trưa thì có muốn cùng tôi ăn phần này không?",
+      "jpname": "ワンダーアキュート",
+      "jptext": "トレーナーさん、お昼がまだなら、\nよかったら一緒にこれ、食べないかい？",
+      "choice_data_list": [
+        "Thế có được không cô?",
+        "Tôi ăn cùng thật nhé?"
+      ],
+      "jpchoice_data_list": [
+        "いいのか？",
+        "いいの？"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Được chứ sao không. Hôm nay tôi lỡ nấu hơi nhiều một chút, nếu được Trainer-san ăn cùng thì tôi vui lắm đó nha.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "もちろんだよ。今日は少し作りすぎちゃったし、\nトレーナーさんが食べてくれるならあたしも嬉しいわぁ。",
+      "choice_data_list": [
+        "Vậy thì tôi xin phép thưởng thức cơm hộp cùng cô nhé"
+      ],
+      "jpchoice_data_list": [
+        "それじゃあお弁当、ごちそうになろうかな"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Ô, <username>! Bọn anh chuẩn bị đi ăn trưa đây, đi cùng không? Quán ramen mới mở trước nhà ga nghe bảo ngon lắm đó.",
+      "jpname": "先輩トレーナー",
+      "jptext": "お、<username>！　今からみんなで昼いくけどどう？\n駅前にできたラーメン屋、けっこういい感じらしくてさ。",
+      "choice_data_list": [
+        "Xin lỗi anh, hôm nay em có chút việc rồi"
+      ],
+      "jpchoice_data_list": [
+        "すみません、今日はちょっと"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Kìa! Trainer-san ơi, cậu không cần phải bận tâm về tôi đâu nha?",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あら！　トレーナーさん、あたしのことならいいのよ？"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Cơm hộp thì chúng mình còn khối dịp ăn chung với nhau mà. Người ta có nhã ý rủ rê, cậu cứ đi ăn cùng đi.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "お弁当なら、また一緒に食べる機会があるだろうから。\nせっかくのお誘いだし、行っておいでよ。"
+    },
+    {
+      "name": "",
+      "text": "Làm sao thế được. Tôi vừa bày tỏ lòng cảm ơn trước lời rủ rê của tiền bối, vừa giải thích rằng mình đã có hẹn ăn trưa cùng Wonder Acute...",
+      "jpname": "モノローグ",
+      "jptext": "そうはいかない。誘ってもらったことに感謝しつつ、\nワンダーアキュートと昼食を共にすることになったと伝え――",
+      "choice_data_list": [
+        "Em xin phép hẹn anh dịp khác nhé!"
+      ],
+      "jpchoice_data_list": [
+        "すみませんが、またの機会に！"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Ồ, thế à thế à. Em có hẹn trước rồi nhỉ. Thế thì để lần sau nhé!",
+      "jpname": "先輩トレーナー",
+      "jptext": "おお、そっかそっか。先約があったんだな。\nそれじゃあまた今度！"
+    },
+    {
+      "name": "",
+      "text": "Bánh mì kẹp thịt xông khói phô mai cùng món thịt cuộn nướng meatloaf... Hộp cơm của Wonder Acute là những món ăn gia đình mang phong cách phương Tây.",
+      "jpname": "モノローグ",
+      "jptext": "ベーコンとチーズのサンドウィッチにミートローフ――\nワンダーアキュートのお弁当は洋風の家庭料理だった。"
+    },
+    {
+      "name": "",
+      "text": "Món nào trông cũng bắt mắt, nhưng trước hết tôi cắn một miếng sandwich. Thịt xông khói cắt dày cùng cà chua hòa quyện tuyệt vời với lớp bánh mì lúa mạch thơm lừng.",
+      "jpname": "モノローグ",
+      "jptext": "目移りしてしまうが、まずサンドウィッチを頬張る。\n厚切りのベーコンとトマトと、香ばしいライ麦パンがよく合う。",
+      "choice_data_list": [
+        "Ngon quá đi mất!"
+      ],
+      "jpchoice_data_list": [
+        "おいしい！"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Kìa chà... Cậu ăn với vẻ mặt rạng rỡ thế kia làm tôi vui quá nè. Uống chút hồng trà nữa đi. Tôi đựng trong bình giữ nhiệt nên vẫn còn ấm nóng lắm đó.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あらあら……そんなに嬉しそうな顔してくれて、ありがたいねぇ。\n紅茶もお飲みね。魔法瓶に入れてきたから、ぽかぽかよ。"
+    },
+    {
+      "name": "",
+      "text": "Tôi từ tốn nhấp từng ngụm hồng trà. Hương thơm dịu nhẹ của búp trà thoang thoảng lan tỏa khắp khoang mũi...",
+      "jpname": "モノローグ",
+      "jptext": "ゆっくりと紅茶をすする。\n茶葉の香りがふわりと鼻の奥いっぱいに広がって――",
+      "choice_data_list": [
+        "(Cảm giác bình yên thật đấy...)"
+      ],
+      "jpchoice_data_list": [
+        "（落ち着くなあ……）"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Tôi còn làm cả bánh pie anh đào cho món tráng miệng nữa đấy. Để tôi chia phần cho cậu muốn ăn bao nhiêu tùy thích nhé.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "デザートにさくらんぼのパイも用意してるからね。\n食べたいだけ取り分けてあげようか。"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Hà, no căng cả bụng rồi nè. Thêm vào đó... ánh nắng hôm nay cũng thật êm dịu làm sao...",
+      "jpname": "ワンダーアキュート",
+      "jptext": "はぁ～、お腹いっぱいだねぇ。\nそれに……日差しも穏やかで……。"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Những ngày thế này chỉ muốn vừa tắm nắng vừa đánh một giấc ngủ trưa thôi nhỉ.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "こんな日は日向ぼっこしながら、お昼寝がしたくなるねぇ。",
+      "choice_data_list": [
+        "Đúng vậy thật đấy",
+        "Công nhận là thích thật đó"
+      ],
+      "jpchoice_data_list": [
+        "そうだな",
+        "そうだね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Chíp chíp...)",
+      "jpname": "モノローグ",
+      "jptext": "（チュンチュン）"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Kìa, mấy chú chim non kìa. Chà, làm tổ ở tít đằng kia cơ à. Đàn chim non trông có vẻ khỏe khoắn ríu rít ghê.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あら、小鳥さんだねぇ。へえ、あんなところに巣を作ったのかい。\nヒナたちも元気そうだねぇ。",
+      "choice_data_list": [
+        "Mong sao chúng sẽ mau ăn chóng lớn cô nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "すくすく大きくなるといいねぇ"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Trainer-san này, cảm ơn cậu nhiều lắm nha. Dù tôi thấy hơi áy náy vì đã làm cậu phải từ chối lời mời của người khác.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "トレーナーさん、わざわざありがとねぇ。\nお誘いを断らせちゃって、申し訳なかったけれど。",
+      "choice_data_list": [
+        "Không đâu, đó là do tự bản thân tôi muốn thế mà...",
+        "Đâu có, là vì tự tôi muốn ở lại cùng cô mà..."
+      ],
+      "jpchoice_data_list": [
+        "いや、それは俺がそうしたかったからで……",
+        "いや、それは私がそうしたかったからで……"
+      ]
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Hi hi... Cậu không cần phải gượng gạo vậy đâu mà. Trainer-san đúng là một người rất biết nghĩ cho người khác nha.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "ふふっ……無理せんでもいいよぉ。\nトレーナーさんは本当に思いやりがある人じゃねぇ。"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Cậu lúc nào cũng đặt tôi lên ưu tiên hàng đầu như thế đúng không? Nghĩ lại thì kể từ lúc gặp nhau tới giờ, bao giờ cũng là như vậy cả...",
+      "jpname": "ワンダーアキュート",
+      "jptext": "そうやって、いっつもあたしのことを1番に考えてくれるでしょう？\n思えば、出会ってから、ずっとそうだねぇ――"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Vừa nhận ra thói quen của tôi là cậu liền hướng dẫn các bài tập giãn cơ phù hợp...",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あたしのクセをすぐに見抜いてストレッチを勧めてくれたり――"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Luôn dõi theo tôi thật sát sao để thiết kế giáo án tập luyện chuẩn chỉnh nhất cho riêng tôi...",
+      "jpname": "ワンダーアキュート",
+      "jptext": "あたしのことをしっかり見てくれて、あたしにぴったりの\nトレーニングメニューを作ってくれたり――"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Có một người tuyệt vời như thế trở thành Trainer của mình, tôi thật lòng thấy bản thân là người may mắn và hạnh phúc biết bao.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "そんなすごい人が、あたしのトレーナーになってくれて、\n本当に幸せ者ねぇって思うのよぉ。"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Thế nhưng nhé, cậu cũng có thể trân trọng nhịp sống riêng của bản thân mình hơn nữa mà?",
+      "jpname": "ワンダーアキュート",
+      "jptext": "けどね、自分のペースももっと大事にしてくれてもいいんだよ？"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Được nhìn thấy Trainer-san thảnh thơi thong thả tận hưởng cuộc sống cũng là một niềm hạnh phúc đối với tôi đấy.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "トレーナーさんがのびの～び過ごしてるのを見るのも、\nあたしにとっては嬉しいものだからねぇ。",
+      "choice_data_list": [
+        "Nhưng tôi đâu có gượng ép gì đâu..."
+      ],
+      "jpchoice_data_list": [
+        "でも、無理してるわけじゃ――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Bính boong bính boong...)",
+      "jpname": "モノローグ",
+      "jptext": "（キーンコーンカーンコーン）"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ôi chao, đã đến giờ này rồi cơ à? Thế thì hẹn gặp lại cậu sau giờ học nhé. Làm việc đừng có lao lực quá độ đó nha.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "おや、もうこんな時間かい？　それじゃまた、放課後にね。\nお仕事、根を詰めすぎないようにするんだよぉ。"
+    },
+    {
+      "name": "",
+      "text": "Dù rất muốn hóa giải hiểu lầm cho Wonder Acute hiểu, nhưng sự ân cần quan tâm mà cô ấy dành cho mình cũng khiến tôi thấy ấm lòng.",
+      "jpname": "モノローグ",
+      "jptext": "ワンダーアキュートの誤解を解きたい気持ちはあるが、\n彼女のこちらへの気遣いも嬉しい。"
+    },
+    {
+      "name": "",
+      "text": "Cứ từ tốn để cô ấy dần hiểu ra, không cần phải vội vàng... Trong lòng tôi đã nghĩ như thế đấy.",
+      "jpname": "モノローグ",
+      "jptext": "あまり無理せず、ゆっくりとわかってもらえたら……。\nそんなことを思ったのだった。"
+    }
+  ]
+}
