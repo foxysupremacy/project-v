@@ -1,259 +1,252 @@
 {
-    "title": "\"Hãy chăm chú vào Ta\"",
-    "text_block_list": [
-        {
-            "text": "Vài ngày sau, vào một đêm trăng tròn…… tôi được Still in Love hẹn gặp.――Tại chính nơi đầu tiên chúng tôi chạm mặt nhau. Nghĩ lại thì, ngày hôm đó trời cũng đầy trăng như thế này.",
-            "choice_data_list": [
-                "Sao em lại hẹn chị ra đây?"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Nay là đêm trăng tròn. Dòng máu nguyên thủy chảy trong cơ thể em…… dường như chưa từng biết đến khái niệm ngủ say. Ánh trăng đang vạch trần dòng máu ấy……. Có lẽ là vậy chăng."
-        },
-        {
-            "name": "Still In Love",
-            "text": "Bản năng của em đang ngứa ngáy……\n……em sắp không chịu đựng nổi nữa rồi.",
-            "choice_data_list": [
-                "……!"
-            ]
-        },
-        {
-            "text": "\"Cô ta\" bên trong Still in Love đã bắt đầu thức tỉnh. Cảm nhận được nhịp tim mình đang tăng tốc…… tôi cố giữ cho giọng không run rẩy mà đưa ra chỉ thị.",
-            "choice_data_list": [
-                "",
-                "Vậy thì, trước tiên em cứ chạy thử một vòng xem sao."
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Vâng……\n……Với cả, em có một thỉnh cầu này."
-        },
-        {
-            "name": "Still In Love",
-            "text": "Nếu như cô ta có hiện ra……\nChị có thể cho em nghe thấy giọng nói của chị được không?",
-            "choice_data_list": [
-                "Ể......"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Xin chị đừng hỏi lý do. ……Ít nhất là vào lúc này.\n…………Em có thể ích kỷ xin chị điều đó được không?",
-            "choice_data_list": [
-                "Chị hiểu rồi, chị sẽ làm."
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "……――\nCảm ơn chị rất nhiều."
-        },
-        {
-            "text": "Dưới ánh trăng soi tỏ, Still in Love bắt đầu lao đi. Dáng chạy thục nữ và chuẩn mực như sách giáo khoa của em ấy, cùng với sự tăng tốc chậm rãi…… bắt đầu trở nên méo mó."
-        },
-        {
-            "name": "Still In Love",
-            "text": "(……ư, a…… tâm trí mình đang hỗn loạn quá…… cô ta sắp thức tỉnh rồi! Chị ấy đang nhìn mình cơ mà……! Ôi, nhưng mà…… nhưng mà……――)"
-        },
-        {
-            "name": "Still In Love",
-            "text": "――………… Đến giờ rồi."
-        },
-        {
-            "name": "Still In Love",
-            "text": "fufufufu…… ahahaha! Ha…… a, thế này mới tuyệt làm sao……! Ánh trăng ơi, hãy đổ xuống nữa đi……―― Hãy vạch trần \"Ta\" ra đi!",
-            "choice_data_list": [
-                "(......!)"
-            ]
-        },
-        {
-            "text": "Bản năng của em ấy khi được giải phóng khỏi lý trí đang điên cuồng trong niềm hoan lạc…… Dáng vẻ đó khiến tôi tạm thời bị hút hồn vào. Thế nhưng, chợt nhớ lại lời khẩn cầu lúc nãy, tôi liền hét lớn.",
-            "choice_data_list": [
-                "",
-                "Still…… Em có nghe thấy không, Still!!"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "AhahahaHAHAHAhahahahahahaHAHAHA!!",
-            "choice_data_list": [
-                "Still……!"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "(――…… Mình nghe thấy rồi. Phải đi thôi…… phải quay lại thôi…… Nhưng mà……―― Đi đâu cơ chứ?)"
-        },
-        {
-            "name": "Đứa trẻ",
-            "text": "Eo…… Không thích, tớ không muốn chạy cùng Still-chan đâu! Tại vì cậu ấy cứ dị thế nào ấy……"
-        },
-        {
-            "name": "Người lớn",
-            "text": "Con bé đó cứ như biến thành một người hoàn toàn khác vậy. ……Đáng sợ thật……"
-        },
-        {
-            "name": "Still In Love lúc nhỏ",
-            "text": "Ư…… hức…… Không phải…… Đó không phải đâu ạ…… Không phải là \"con\" đâu……"
-        },
-        {
-            "text": "Kinh khủng quá…… Đáng sợ thật…… Con bé đó bị làm sao vậy…… Dị hợm…… Kỳ quái…… Bất thường quá……―― Đồ quái vật."
-        },
-        {
-            "name": "Still In Love",
-            "text": "(Chẳng có nơi nào cả. Chẳng có nơi nào dành cho mình…… Bởi vì tụi mình rất kỳ dị. Đáng sợ lắm…… Làm gì có ai trên đời này chịu yêu thương một kẻ như mình cơ chứ……――)",
-            "choice_data_list": [
-                "――ill…… Still in Love!!"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "――――!"
-        },
-        {
-            "text": "『Bản năng của em―― đáng sợ đến mức đẹp đẽ!』"
-        },
-        {
-            "text": "『Bản năng của em―― đáng sợ đến mức đẹp đẽ!』"
-        },
-        {
-            "name": "Still In Love",
-            "text": "(……Chỉ có duy nhất chị ấy. Chỉ có một mình chị ấy…… công nhận mình. Chấp nhận một kẻ như \"mình\"……)"
-        },
-        {
-            "name": "Still In Love",
-            "text": "(Một kẻ như mình…… cũng có thể được yêu thương sao? Mình được phép yêu thương sao? Mình có thể tin tưởng…… được không……?)"
-        },
-        {
-            "name": "Still In Love",
-            "text": "(……Phải đi thôi! Phải đến bên cạnh chị ấy……! Bởi vì, bởi vì…… Chị chính là…… của em……――)"
-        },
-        {
-            "name": "Still In Love",
-            "text": "……ực! Trainer-san……!",
-            "choice_data_list": [
-                "Still……!"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Vâng……! Still…… đang ở ngay đây rồi ạ……――"
-        },
-        {
-            "text": "Tôi vội vàng chạy đến bên cạnh người con gái đang dừng bước. Cuối cùng, lý trí đã vượt lên trên bản năng…… em ấy đã có thể lấy lại sự tỉnh táo bằng chính ý chí của mình.",
-            "choice_data_list": [
-                "",
-                "Em làm được rồi, Still……!"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "……"
-        },
-        {
-            "name": "Still In Love",
-            "text": "Chị có yêu em không?",
-            "choice_data_list": [
-                "Hả――"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?"
-        },
-        {
-            "name": "Still In Love",
-            "text": "Bởi vì chị chính là―― người định mệnh đời \"ta\"."
-        },
-        {
-            "text": "Đôi vai tôi bị bấu chặt bởi một lực rất mạnh. \"Cô ta\" nở một nụ cười toe toét rợn người, rồi ngay khi vừa há to miệng―― em ấy bỗng đổ gục xuống như một tòa nhà đổ nát."
-        },
-        {
-            "name": "Still In Love",
-            "text": "…………\n……? Ơ kìa……",
-            "choice_data_list": [
-                "Still……! May quá, em tỉnh lại rồi……"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Hả……?\n……Á!!"
-        },
-        {
-            "name": "Still In Love",
-            "text": "E-Em thành thật xin lỗi chị……! Em thật là…… Lại nằm trên đùi chị thế này……!",
-            "choice_data_list": [
-                "",
-                "Đừng bận tâm chuyện đó. Quan trọng hơn là…… Em có nhớ gì không?"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "……ừm…… ……V-Vâng…… Em đã có thể hoàn toàn quay trở về sau khi cô ta thức tỉnh rồi đúng không chị."
-        },
-        {
-            "name": "Still In Love",
-            "text": "Nhưng có lẽ vì em đã dùng quá nhiều sức…… nên cơ thể mệt mỏi rã rời…… Giữa chừng em đã mất đi ý thức…… Và thế là cô ta lại một lần nữa lao lên phía trước.",
-            "choice_data_list": [
-                "",
-                "Kìm hãm được cô ta dù chỉ trong một khoảnh      khắc cũng là một thành quả lớn rồi."
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Vâng. Đây là…… lần đầu tiên của em……"
-        },
-        {
-            "name": "Still In Love",
-            "text": "……………………Dạ thưa. Dù chuyện đã lỡ ra nông nỗi này rồi……"
-        },
-        {
-            "name": "Still In Love",
-            "text": "Nếu như không làm phiền đến chị…… ――Từ nay về sau, chị có thể \"cùng em\"…… bước tiếp hành trình này được không ạ?",
-            "choice_data_list": [
-                "! Vậy nghĩa là……"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "Vâng. Xin chị…… hãy ký hợp đồng quản lý…… với em."
-        },
-        {
-            "name": "Still In Love",
-            "text": "Em có cảm giác nếu là ở bên chị, em…… sẽ trở nên ổn thôi. Em sẽ cố gắng hết sức để không làm phiền đến chị……!"
-        },
-        {
-            "name": "Still In Love",
-            "text": "Không, nếu không phải là chị thì không được đâu…… Em xin chị đấy. Làm ơn…… làm ơn hãy cho em được ở bên cạnh chị……"
-        },
-        {
-            "text": "Dáng vẻ cúi đầu đầy bất an của em ấy trông thật mỏng manh và yếu ớt…… Tôi đã muốn đưa tay ra bảo bọc em ấy ngay lập tức, thế nhưng…… những đầu ngón tay tôi lại thoáng chút ngập ngừng.",
-            "choice_data_list": [
-                "",
-                "(Liệu mình có đủ sức gánh vác và nâng đỡ em ấy không?)"
-            ]
-        },
-        {
-            "text": "Thế nhưng, một làn sương mù màu đỏ rực bỗng chốc phủ mờ và che lấp đi nỗi hoài nghi đó. Kể từ cái đêm mùa hè năm ấy, khi tôi vô tình bước lạc vào thế giới ma mị này―― tôi thừa hiểu rằng, sẽ chẳng có đường để quay về nữa.",
-            "choice_data_list": [
-                "",
-                "Ừm. Hãy cùng nhau tiến lên nào……"
-            ]
-        },
-        {
-            "name": "Still In Love",
-            "text": "…………Cảm ơn chị rất nhiều. Bản thân em còn nhiều thiếu sót, từ nay về sau…… xin nhờ chị chỉ bảo thêm."
-        },
-        {
-            "text": "Đêm hôm đó là một đêm cực kỳ trằn trọc và khó ngủ. Sự oi bức bết dính vào da thịt khiến tôi chẳng thể thở nổi. Thêm vào đó là cơn ngứa ngáy không thể chịu đựng được từ vết hằn trên cổ―― và một cơn đau đầu nặng trĩu."
-        },
-        {
-            "text": "――――――――"
-        },
-        {
-            "text": "Kết cục của câu chuyện này vốn đã được định đoạt từ trước. Nếu đã vậy, tại sao vẫn phải dấn bước theo nó?……Ngôn từ tan ra, hòa tan vào trong vô thức. Trước khi một lần nữa chìm sâu xuống, thứ duy nhất tôi nhìn thấy chính là――"
-        },
-        {
-            "text": "――Still in Love"
-        }
-    ]
+  "title": "\"Hãy chăm chú vào Ta\"",
+  "text_block_list": [
+    {
+      "text": "Vài ngày sau, vào một đêm trăng tròn…… tôi được Still in Love hẹn gặp.――Tại chính nơi đầu tiên chúng tôi chạm mặt nhau. Nghĩ lại thì, ngày hôm đó trời cũng đầy trăng như thế này.",
+      "choice_data_list": [
+        "Sao em lại hẹn chị ra đây?"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Nay là đêm trăng tròn. Dòng máu nguyên thủy chảy trong cơ thể em…… dường như chưa từng biết đến khái niệm ngủ say. Ánh trăng đang vạch trần dòng máu ấy……. Có lẽ là vậy chăng."
+    },
+    {
+      "name": "Still In Love",
+      "text": "Bản năng của em đang ngứa ngáy…… ……em sắp không chịu đựng nổi nữa rồi.",
+      "choice_data_list": [
+        "……!"
+      ]
+    },
+    {
+      "text": "\"Cô ta\" bên trong Still in Love đã bắt đầu thức tỉnh. Cảm nhận được nhịp tim mình đang tăng tốc…… tôi cố giữ cho giọng không run rẩy mà đưa ra chỉ thị.",
+      "choice_data_list": [
+        "Vậy thì, trước tiên em cứ chạy thử một vòng xem sao."
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Vâng…… ……Với cả, em có một thỉnh cầu này."
+    },
+    {
+      "name": "Still In Love",
+      "text": "Nếu như cô ta có hiện ra…… Chị có thể cho em nghe thấy giọng nói của chị được không?",
+      "choice_data_list": [
+        "Ể......"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Xin chị đừng hỏi lý do. ……Ít nhất là vào lúc này. …………Em có thể ích kỷ xin chị điều đó được không?",
+      "choice_data_list": [
+        "Chị hiểu rồi, chị sẽ làm."
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "……―― Cảm ơn chị rất nhiều."
+    },
+    {
+      "text": "Dưới ánh trăng soi tỏ, Still in Love bắt đầu lao đi. Dáng chạy thục nữ và chuẩn mực như sách giáo khoa của em ấy, cùng với sự tăng tốc chậm rãi…… bắt đầu trở nên méo mó."
+    },
+    {
+      "name": "Still In Love",
+      "text": "(……ư, a…… tâm trí mình đang hỗn loạn quá…… cô ta sắp thức tỉnh rồi! Chị ấy đang nhìn mình cơ mà……! Ôi, nhưng mà…… nhưng mà……――)"
+    },
+    {
+      "name": "Still In Love",
+      "text": "――………… Đến giờ rồi."
+    },
+    {
+      "name": "Still In Love",
+      "text": "fufufufu…… ahahaha! Ha…… a, thế này mới tuyệt làm sao……! Ánh trăng ơi, hãy đổ xuống nữa đi……―― Hãy vạch trần \"Ta\" ra đi!",
+      "choice_data_list": [
+        "(......!)"
+      ]
+    },
+    {
+      "text": "Bản năng của em ấy khi được giải phóng khỏi lý trí đang điên cuồng trong niềm hoan lạc…… Dáng vẻ đó khiến tôi tạm thời bị hút hồn vào. Thế nhưng, chợt nhớ lại lời khẩn cầu lúc nãy, tôi liền hét lớn.",
+      "choice_data_list": [
+        "Still…… Em có nghe thấy không, Still!!"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "AhahahaHAHAHAhahahahahahaHAHAHA!!",
+      "choice_data_list": [
+        "Still……!"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "(――…… Mình nghe thấy rồi. Phải đi thôi…… phải quay lại thôi…… Nhưng mà……―― Đi đâu cơ chứ?)"
+    },
+    {
+      "name": "Đứa trẻ",
+      "text": "Eo…… Không thích, tớ không muốn chạy cùng Still-chan đâu! Tại vì cậu ấy cứ dị thế nào ấy……"
+    },
+    {
+      "name": "Người lớn",
+      "text": "Con bé đó cứ như biến thành một người hoàn toàn khác vậy. ……Đáng sợ thật……"
+    },
+    {
+      "name": "Still In Love lúc nhỏ",
+      "text": "Ư…… hức…… Không phải…… Đó không phải đâu ạ…… Không phải là \"con\" đâu……"
+    },
+    {
+      "text": "Kinh khủng quá…… Đáng sợ thật…… Con bé đó bị làm sao vậy…… Dị hợm…… Kỳ quái…… Bất thường quá……―― Đồ quái vật."
+    },
+    {
+      "name": "Still In Love",
+      "text": "(Chẳng có nơi nào cả. Chẳng có nơi nào dành cho mình…… Bởi vì tụi mình rất kỳ dị. Đáng sợ lắm…… Làm gì có ai trên đời này chịu yêu thương một kẻ như mình cơ chứ……――)",
+      "choice_data_list": [
+        "――ill…… Still in Love!!"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "――――!"
+    },
+    {
+      "text": "『Bản năng của em―― đáng sợ đến mức đẹp đẽ!』"
+    },
+    {
+      "text": "『Bản năng của em―― đáng sợ đến mức đẹp đẽ!』"
+    },
+    {
+      "name": "Still In Love",
+      "text": "(……Chỉ có duy nhất chị ấy. Chỉ có một mình chị ấy…… công nhận mình. Chấp nhận một kẻ như \"mình\"……)"
+    },
+    {
+      "name": "Still In Love",
+      "text": "(Một kẻ như mình…… cũng có thể được yêu thương sao? Mình được phép yêu thương sao? Mình có thể tin tưởng…… được không……?)"
+    },
+    {
+      "name": "Still In Love",
+      "text": "(……Phải đi thôi! Phải đến bên cạnh chị ấy……! Bởi vì, bởi vì…… Chị chính là…… của em……――)"
+    },
+    {
+      "name": "Still In Love",
+      "text": "……ực! Trainer-san……!",
+      "choice_data_list": [
+        "Still……!"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Vâng……! Still…… đang ở ngay đây rồi ạ……――"
+    },
+    {
+      "text": "Tôi vội vàng chạy đến bên cạnh người con gái đang dừng bước. Cuối cùng, lý trí đã vượt lên trên bản năng…… em ấy đã có thể lấy lại sự tỉnh táo bằng chính ý chí của mình.",
+      "choice_data_list": [
+        "Em làm được rồi, Still……!"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "……"
+    },
+    {
+      "name": "Still In Love",
+      "text": "Chị có yêu em không?",
+      "choice_data_list": [
+        "Hả――"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?ChỊ cÓ yÊu Em KhÔnG?"
+    },
+    {
+      "name": "Still In Love",
+      "text": "Bởi vì chị chính là―― người định mệnh đời \"ta\"."
+    },
+    {
+      "text": "Đôi vai tôi bị bấu chặt bởi một lực rất mạnh. \"Cô ta\" nở một nụ cười toe toét rợn người, rồi ngay khi vừa há to miệng―― em ấy bỗng đổ gục xuống như một tòa nhà đổ nát."
+    },
+    {
+      "name": "Still In Love",
+      "text": "………… ……? Ơ kìa……",
+      "choice_data_list": [
+        "Still……! May quá, em tỉnh lại rồi……"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Hả……? ……Á!!"
+    },
+    {
+      "name": "Still In Love",
+      "text": "E-Em thành thật xin lỗi chị……! Em thật là…… Lại nằm trên đùi chị thế này……!",
+      "choice_data_list": [
+        "Đừng bận tâm chuyện đó. Quan trọng hơn là…… Em có nhớ gì không?"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "……ừm…… ……V-Vâng…… Em đã có thể hoàn toàn quay trở về sau khi cô ta thức tỉnh rồi đúng không chị."
+    },
+    {
+      "name": "Still In Love",
+      "text": "Nhưng có lẽ vì em đã dùng quá nhiều sức…… nên cơ thể mệt mỏi rã rời…… Giữa chừng em đã mất đi ý thức…… Và thế là cô ta lại một lần nữa lao lên phía trước.",
+      "choice_data_list": [
+        "Kìm hãm được cô ta dù chỉ trong một khoảnh      khắc cũng là một thành quả lớn rồi."
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Vâng. Đây là…… lần đầu tiên của em……"
+    },
+    {
+      "name": "Still In Love",
+      "text": "……………………Dạ thưa. Dù chuyện đã lỡ ra nông nỗi này rồi……"
+    },
+    {
+      "name": "Still In Love",
+      "text": "Nếu như không làm phiền đến chị…… ――Từ nay về sau, chị có thể \"cùng em\"…… bước tiếp hành trình này được không ạ?",
+      "choice_data_list": [
+        "! Vậy nghĩa là……"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "Vâng. Xin chị…… hãy ký hợp đồng quản lý…… với em."
+    },
+    {
+      "name": "Still In Love",
+      "text": "Em có cảm giác nếu là ở bên chị, em…… sẽ trở nên ổn thôi. Em sẽ cố gắng hết sức để không làm phiền đến chị……!"
+    },
+    {
+      "name": "Still In Love",
+      "text": "Không, nếu không phải là chị thì không được đâu…… Em xin chị đấy. Làm ơn…… làm ơn hãy cho em được ở bên cạnh chị……"
+    },
+    {
+      "text": "Dáng vẻ cúi đầu đầy bất an của em ấy trông thật mỏng manh và yếu ớt…… Tôi đã muốn đưa tay ra bảo bọc em ấy ngay lập tức, thế nhưng…… những đầu ngón tay tôi lại thoáng chút ngập ngừng.",
+      "choice_data_list": [
+        "(Liệu mình có đủ sức gánh vác và nâng đỡ em ấy không?)"
+      ]
+    },
+    {
+      "text": "Thế nhưng, một làn sương mù màu đỏ rực bỗng chốc phủ mờ và che lấp đi nỗi hoài nghi đó. Kể từ cái đêm mùa hè năm ấy, khi tôi vô tình bước lạc vào thế giới ma mị này―― tôi thừa hiểu rằng, sẽ chẳng có đường để quay về nữa.",
+      "choice_data_list": [
+        "Ừm. Hãy cùng nhau tiến lên nào……"
+      ]
+    },
+    {
+      "name": "Still In Love",
+      "text": "…………Cảm ơn chị rất nhiều. Bản thân em còn nhiều thiếu sót, từ nay về sau…… xin nhờ chị chỉ bảo thêm."
+    },
+    {
+      "text": "Đêm hôm đó là một đêm cực kỳ trằn trọc và khó ngủ. Sự oi bức bết dính vào da thịt khiến tôi chẳng thể thở nổi. Thêm vào đó là cơn ngứa ngáy không thể chịu đựng được từ vết hằn trên cổ―― và một cơn đau đầu nặng trĩu."
+    },
+    {
+      "text": "――――――――"
+    },
+    {
+      "text": "Kết cục của câu chuyện này vốn đã được định đoạt từ trước. Nếu đã vậy, tại sao vẫn phải dấn bước theo nó?……Ngôn từ tan ra, hòa tan vào trong vô thức. Trước khi một lần nữa chìm sâu xuống, thứ duy nhất tôi nhìn thấy chính là――"
+    },
+    {
+      "text": "――Still in Love"
+    }
+  ]
 }
