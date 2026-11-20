@@ -1,0 +1,585 @@
+{
+  "title": "Nụ cười bừng nở, cánh hoa may mắn",
+  "jptitle": "笑い咲く、幸運のひとひら",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đó là chuyện xảy ra vài ngày trước kỳ tập huấn mùa hè. Tôi được Lucky Lilac trao cho một thứ.",
+      "jpname": "モノローグ",
+      "jptext": "それは、夏合宿の数日前。\nラッキーライラックから、あるものを渡された。",
+      "choice_data_list": [
+        "Vé ăn tối tại nhà hàng sao?"
+      ],
+      "jpchoice_data_list": [
+        "レストランのディナー券？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Dạ phải. Trước đây em được một người quen tặng cho... mà địa điểm lại nằm ngay gần khu tập huấn. Anh thấy sao ạ?",
+      "jpname": "ラッキーライラック",
+      "jptext": "ええ。前に知人から譲り受けたんですけど……\n会場がちょうど合宿所の近くやったんです。いかがでしょう？",
+      "choice_data_list": [
+        "Cảm ơn em nhé! Thế thì nhất định phải đi rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう！それじゃあ、ぜひ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Em cảm ơn anh ạ. Nếu vậy thì em có một thỉnh cầu này. Nhà hàng này có quy định trang phục đấy ạ...",
+      "jpname": "ラッキーライラック",
+      "jptext": "ありがとうございます。そしたら、ひとつお願いがあるんです。\nこのレストラン、ドレスコードがありまして――",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...A. Hì hì, quả nhiên bộ âu phục đó rất hợp với anh nha. May mà hồi đó em đã chọn giúp anh.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……あ。ふふ、やっぱり似合うてますね、そのスーツ。\n選ばしてもろて、よかったです。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó chính là bộ âu phục tôi đã cùng chọn với Lucky Lilac dạo trước. Một bộ cánh lịch lãm, sang trọng mà tôi vô cùng ưng ý.",
+      "jpname": "モノローグ",
+      "jptext": "それは、以前ラッキーライラックと選んだスーツ。\n華やかにまとまった、お気に入りの1着だ。",
+      "choice_data_list": [
+        "Chiếc đầm của Rack cũng rất hợp với em đó!",
+        "Chiếc đầm của Rack cũng rất hợp với em đó!"
+      ],
+      "jpchoice_data_list": [
+        "ラックのドレスも、よく似合ってるな！",
+        "ラックのドレスも、よく似合ってるね！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Dạ, em cảm ơn anh nha. Vậy tụi mình đi thôi nào, đi bộ thêm một đoạn ngắn phía trước là tới rồi.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ええ、ありがとうございます。\n――そしたら行きましょうか、少し歩いた先のとこです。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Nơi này quả thật... lộng lẫy quá chừng luôn. Đẹp rực rỡ hơn trên mạng nhiều lần.",
+      "jpname": "ラッキーライラック",
+      "jptext": "これはまた……素敵なとこですね。\nサイトで見るより、ずっときらびやかで。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ánh đèn ấm áp dịu dàng bao trùm cả khán phòng. Một không gian yên tĩnh và thanh nhã hơn nhiều so với những gì tôi mường tượng.",
+      "jpname": "モノローグ",
+      "jptext": "柔らかに輝く照明が、ゆったりと会場を包む。\n想像していたよりずっと静かで、優雅な空間だ。",
+      "choice_data_list": [
+        "(Thế này thì... không phải là nơi để tấu hài rồi)",
+        "(Thế này thì... không phải là nơi để tấu hài rồi)"
+      ],
+      "jpchoice_data_list": [
+        "（これは……ボケる感じじゃないな）",
+        "（これは……ボケる感じじゃないね）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Chẳng lẽ anh đang có chút căng thẳng sao?",
+      "jpname": "ラッキーライラック",
+      "jptext": "……もしかして、少し緊張してはります？",
+      "choice_data_list": [
+        "...!"
+      ],
+      "jpchoice_data_list": [
+        "――！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hì hì, nhìn mặt anh là em biết ngay à. Đúng là không gian sang chảnh quý tộc thế này... mang lại cảm giác không quen thuộc cho lắm ha.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ふふ、お顔を見ればわかります。確かに、セレブな空間いうか……\nあまり馴染みのない雰囲気ですよね。",
+      "choice_data_list": [
+        "Nhưng tôi cũng thích những nơi như thế này lắm"
+      ],
+      "jpchoice_data_list": [
+        "でも、こういう場所も好きだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Nếu vậy thì tốt quá rồi. Thế thì hôm nay hai đứa mình cứ nhẹ nhàng tận hưởng nha.",
+      "jpname": "ラッキーライラック",
+      "jptext": "なら、よかったです。\nほな、今日はふたり、静かに楽しみましょうか。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ngon ghê. Món này tên là Cá trắng hấp Vapeur thì phải. Lần đầu tiên em ăn thử, vị thanh đạm dễ chịu ghê đó.",
+      "jpname": "ラッキーライラック",
+      "jptext": "――美味しい。『白身魚のヴァプール』でしたっけ。\n初めて食べますけど、さっぱりした味でええですね。",
+      "choice_data_list": [
+        "Nước sốt cam rưới bên trên cũng ngon tuyệt nhỉ",
+        "Nước sốt cam rưới bên trên cũng ngon tuyệt nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "かけてあるオレンジソースも美味しいな",
+        "かけてあるオレンジソースも美味しいね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Dạ đúng vậy ha. Có chút vị ngọt ngọt... Hì.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ええ、そうですね。少し甘くて…………ふっ。",
+      "choice_data_list": [
+        "Có chuyện gì sao em?"
+      ],
+      "jpchoice_data_list": [
+        "どうかした？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Anh đừng giận nha? Chỉ là em thấy mới mẻ ghê á. Hình ảnh Trainer-san diện âu phục chỉn chu mà không hề tấu hài làm trò gì hết trơn.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……気ぃ悪くせんで下さいね？　なんや新鮮やと思うたんです。\nスーツ着て、ボケずにしゃんとしてはるトレーナーさんが。",
+      "choice_data_list": [
+        "...Tôi đâu phải lúc nào cũng làm trò ngô nghê đâu chứ?",
+        "...Tôi đâu phải lúc nào cũng làm trò ngô nghê đâu chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……いつもボケてるわけじゃないぞ？",
+        "……いつもボケてるわけじゃないよ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hì hì, em biết chứ bộ. Trainer-san thực ra là một người rất nghiêm túc... và mỗi khi pha trò ngô nghê, anh đều đã phải nỗ lực rất nhiều.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ふふ、知ってますよ。トレーナーさんは本当は真面目な人で……\nボケているときは、すごく頑張ってはることも。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Bởi vậy nên em cũng...",
+      "jpname": "ラッキーライラック",
+      "jptext": "……せやから、うちも――",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(ĐÙNG...!)",
+      "jpname": "モノローグ",
+      "jptext": "（…………ドン！）",
+      "choice_data_list": [
+        "Hử? ...Oa! Rack nhìn kìa!"
+      ],
+      "jpchoice_data_list": [
+        "ん？……わ！ラック見て！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phía bên ngoài cửa sổ, ở một khoảng cách không xa, những chùm pháo hoa đang được bắn lên rực rỡ. Ánh sáng muôn màu bất ngờ xuất hiện khiến ai nấy đều bất giác bị cuốn hút.",
+      "jpname": "モノローグ",
+      "jptext": "窓の向こう、少し離れたところで、花火が打ち上げられていた。\n突然訪れた鮮やかな光に、つい目を奪われてしまう。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ôi chao...! Đẹp quá chừng luôn...",
+      "jpname": "ラッキーライラック",
+      "jptext": "あらまぁ……！　綺麗やなぁ……。",
+      "choice_data_list": [
+        "Tuyệt thật... trông như hoa vậy...",
+        "Tuyệt thật... trông như hoa vậy..."
+      ],
+      "jpchoice_data_list": [
+        "すごい……花みたいだ……",
+        "すごい……花みたい……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ủa thì đúng rồi cha nội. Ghép chữ hoa với chữ lửa thì mới thành pháo hoa chứ... ủa mà khoan?",
+      "jpname": "ラッキーライラック",
+      "jptext": "いや、そらそうやろ。\n花と火で花火やで……って、あら？",
+      "choice_data_list": [
+        "Hử? ...A"
+      ],
+      "jpchoice_data_list": [
+        "ん？…………あ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Khực... hì hì! ...Rõ ràng là anh lại muốn làm trò ngô nghê chứ gì?",
+      "jpname": "ラッキーライラック",
+      "jptext": "くっ…………ふふっ！\n……やっぱり、ボケたかったんやないですか？",
+      "choice_data_list": [
+        "Đâu có, làm gì có chuyện đó...!"
+      ],
+      "jpchoice_data_list": [
+        "いや、そんなことは……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng chối bay chối biến, nhưng nét mặt của Lucky Lilac lại phảng phất vẻ dịu dàng. Nhìn thấy nụ cười đằm thắm ấy, tôi cảm nhận cõi lòng mình như được xoa dịu...",
+      "jpname": "モノローグ",
+      "jptext": "慌てて否定するが、ラッキーライラックの表情は、どこか優しい。\nたおやかな笑みを向けられ、心がほぐれていくのを感じた……。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Trông như hoa nên gọi là... pháo hoa... Hì hì!",
+      "jpname": "ラッキーライラック",
+      "jptext": "花みたいで……花火……。\n……ふふっ！",
+      "choice_data_list": [
+        "B-Buồn cười đến thế sao...?"
+      ],
+      "jpchoice_data_list": [
+        "そ、そんなに面白い……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Em xin lỗi nha, tự dưng nó trúng huyệt cười của em á... Chắc là do trong khung cảnh đó mà anh lại thốt ra bất thình lình như vậy đó.",
+      "jpname": "ラッキーライラック",
+      "jptext": "すみません、変にツボに入ってもうたみたいで……。\n多分、あの場で急に出てきたからやと思います。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Dù vậy, hiếm khi nào chỉ một trò đùa mà em lại cười giòn giã đến thế này. Tôi liền hỏi em để lấy kinh nghiệm cho sau này.",
+      "jpname": "モノローグ",
+      "jptext": "……とはいえ、ボケひとつでここまで笑ってくれるのは珍しい。\n今後の参考に書き留めておこうと、カバンからノートを取り出した。",
+      "choice_data_list": [
+        "Cụ thể thì buồn cười ở chỗ nào thế em?"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Cụ thể sao ạ? Xem nào...",
+      "jpname": "ラッキーライラック",
+      "jptext": "あ……そのノート、今日も持ってらしたんですね。\nどうです、ボケの研究は順調ですか？",
+      "choice_data_list": [
+        "Ừ, tôi cũng tích lũy được khá nhiều vốn liếng trò đùa rồi",
+        "Ừ, tôi cũng tích lũy được khá nhiều vốn liếng trò đùa rồi"
+      ],
+      "jpchoice_data_list": [
+        "ああ、かなりストックも増えてきた",
+        "うん、かなりストックも増えてきた"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Thiệt tình, anh nhiệt huyết ghê đó.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……ほんまに、熱心なことで。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thú thật thì... em cũng từng băn khoăn liệu có nên không. Khi cứ bắt Trainer-san làm mấy trò như diễn viên hài vậy.",
+      "jpname": "ラッキーライラック",
+      "jptext": "正直……ええんかなと思ってたんですよ。\nトレーナーさんに、漫才師みたいなことさせてもうて。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thế nhưng, như vầy là được rồi. ...Mà không, thế này mới là tuyệt nhất.",
+      "jpname": "ラッキーライラック",
+      "jptext": "でも、これでええ。\n……いえ、これが、ええんです。",
+      "choice_data_list": [
+        "...!"
+      ],
+      "jpchoice_data_list": [
+        "――！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Bởi vì nó hoàn toàn khác biệt với những vở tấu hài Manzai đứng trên sân khấu mà đúng không anh? Trước mặt Trainer-san đâu có khán giả nào đâu.",
+      "jpname": "ラッキーライラック",
+      "jptext": "だって、ステージに立つような漫才とは、全然ちゃうでしょう？\nトレーナーさんの前には、お客さんはおらへん。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Chỉ có... duy nhất một người mà thôi.",
+      "jpname": "ラッキーライラック",
+      "jptext": "おるんは……たったひとりだけ。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lucky Lilac mỉm cười. Người duy nhất hiểu được những trò đùa của tôi, người bạn diễn... duy nhất của tôi.",
+      "jpname": "モノローグ",
+      "jptext": "ラッキーライラックが微笑む。自分のボケを唯一知る、\nたったひとりの――相方が。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Anh là một người nghiêm túc nên em hiểu rất rõ. Rằng anh đang thực sự dốc hết lòng hết sức để làm cho em vui.",
+      "jpname": "ラッキーライラック",
+      "jptext": "あんたは真面目な方やから、ようわかるんです。\nほんまに、全力で楽しませようとしてくれてはるって。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Cho nên em cũng rất muốn đáp lại. Đáp lại... tấm lòng chân thành của anh.",
+      "jpname": "ラッキーライラック",
+      "jptext": "せやからうちも、応えたくなるんですよ。\n――あんたの想いに。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Những lời nói dành riêng cho mình em khiến trái tim tôi rung động nghẹn ngào. Chẳng thể thốt nên lời nào hoa mỹ... chỉ có tiếng sóng biển rì rào vỗ về không gian xung quanh.",
+      "jpname": "モノローグ",
+      "jptext": "自分だけに向けられた彼女の言葉が、じんわりと胸を打つ。\n気の利いたことも言えず……さざ波の音が、あたりを包んでいった。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Vậy thì... tụi mình diễn tấu hài Manzai thôi nào!",
+      "jpname": "ラッキーライラック",
+      "jptext": "ほな――漫才、しましょか！",
+      "choice_data_list": [
+        "...Cái gì cơ?!"
+      ],
+      "jpchoice_data_list": [
+        "………………はいっ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thì anh đã khổ luyện các trò đùa vì em còn gì? Lại còn ghi chép cả đống vào cuốn sổ tay huấn luyện nữa chứ.",
+      "jpname": "ラッキーライラック",
+      "jptext": "だって、うちのためにボケを鍛えてくれはったんやろ？\nトレーニングノートに、ぎょうさん書いたりして。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Người có thể đáp lại những thứ đó chỉ có duy nhất em mà thôi. Anh cứ yên tâm đi, em hiểu rõ từng miếng hài của anh lắm, em sẽ ứng biến chặt chém cho anh tới bến luôn!",
+      "jpname": "ラッキーライラック",
+      "jptext": "それに応えられるんはうちだけや。安心して下さい、\nあんたのボケはようわかっとるさかい、即興でツッコんだります！",
+      "choice_data_list": [
+        "(H-Hả... thật sao...?!)"
+      ],
+      "jpchoice_data_list": [
+        "（え、ええ…………！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tình huống đảo chiều quá nhanh khiến đầu óc tôi không kịp theo kịp. Nhưng nhìn thấy em tràn đầy nhiệt huyết chặt chém như vậy, lòng tôi bỗng vui sướng khôn xiết...",
+      "jpname": "モノローグ",
+      "jptext": "あまりの急展開に、思考が追いつかない。\nしかし、彼女がこうもツッコミにやる気なのが嬉しくて――",
+      "choice_data_list": [
+        "...Được rồi, làm thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "…………よし、やろう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hì hì. Thế mới xứng là bạn diễn của em chứ.",
+      "jpname": "ラッキーライラック",
+      "jptext": "――ふふっ。それでこそ、うちの相方や。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Được Lucky Lilac nắm tay dắt đi sâu vào bãi cát. Trên bờ biển vắng bóng người, một sân khấu biểu diễn chỉ dành riêng cho đêm nay đã chính thức mở màn...",
+      "jpname": "モノローグ",
+      "jptext": "ラッキーライラックに手を引かれ、砂浜の奥に歩いていく。\n人気のない海辺で、今夜限りの舞台が始まった――",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "A, kỳ tập huấn mùa hè đã bắt đầu rồi, hôm nay mình lại luyện tập tiếp thôi nào. Đầu tiên là khởi động làm nóng người ha Trainer-san?",
+      "jpname": "ラッキーライラック",
+      "jptext": "あ～夏合宿も始まったし、今日もトレーニングやってこか。\nまずはウォーミングアップやな、トレーナーさん？",
+      "choice_data_list": [
+        "A... phải rồi! Đầu tiên là chạy trên mặt nước 5 hiệp!",
+        "A... phải rồi! Đầu tiên là chạy trên mặt nước 5 hiệp!"
+      ],
+      "jpchoice_data_list": [
+        "あ……ああ！まずは水上走り5セット！",
+        "あ……うん！まずは水上走り5セット！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "! Ủa rồi chạy bằng niềm tin hả trời! Mấy trò đó chỉ có số ít người quái vật làm được thôi á. Cho em một bài tập đàng hoàng giùm cái coi!",
+      "jpname": "ラッキーライラック",
+      "jptext": "！　――いやできるか！　ほんまに一部の子しかできへんのよあれ。\nもっとちゃんとトレーニングさしてや！",
+      "choice_data_list": [
+        "Chắc khởi động bằng chạy nước rút trên bãi cát ha"
+      ],
+      "jpchoice_data_list": [
+        "ウォーミングアップは砂浜ダッシュかな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "A, món đó hay đó nha! Nếu chân không guồng thật nhanh là bị lún sâu xuống cát liền. Một giáo án tuyệt vời để rèn luyện tốc độ đó.",
+      "jpname": "ラッキーライラック",
+      "jptext": "あ、ええなあ！　脚を速う動かさんと、砂に沈んでまう。\nスピードをバッチリ鍛えられるいいメニューや。",
+      "choice_data_list": [
+        "Đối thủ chạy kèm sẽ là một chú đà điểu nhé"
+      ],
+      "jpchoice_data_list": [
+        "併走相手はダチョウになります"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Đang ở trên hoang đảo hay gì vậy cha nội! Ở đây đào đâu ra đà điểu hả trời! Thôi khỏi tốc độ tốc diếc gì nữa, chuẩn bị bài tập tiếp theo đi!",
+      "jpname": "ラッキーライラック",
+      "jptext": "無人島か！　ここにはダチョウおらんやろ！\nもうスピードはええから、次のトレーニングの準備してや！",
+      "choice_data_list": [
+        "Đợi chút, để tôi bơm hơi cho lốp xe đã"
+      ],
+      "jpchoice_data_list": [
+        "待ってて、タイヤ膨らませるから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Dữ dội ghê ta! Bơm lốp xe bằng sức người để kéo lốp là bất khả thi đó trời! Chưa kể lốp xe của học viện nó bự chảng dị thường nữa chứ!",
+      "jpname": "ラッキーライラック",
+      "jptext": "根性あるなあ！　人力でタイヤ引きの準備は無理やろ！\nただでさえ、学園のタイヤ異様に大きいんやから！",
+      "choice_data_list": [
+        "...Phù! Cái này tác động vào cơ bụng ghê quá, nghẹt thở luôn!!"
+      ],
+      "jpchoice_data_list": [
+        "……ぷはあっ！これ腹筋に効く、苦しい！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Ủa rồi anh tự tập luyện chi vậy trời! Mất hết sức bây giờ! Thiệt tình, nếu vậy thì nghỉ giải lao nha? Hay tụi mình dạo ra mép sóng chơi ha.",
+      "jpname": "ラッキーライラック",
+      "jptext": "あんたが鍛えてどないすねん！　体力なくなるで！\nもう、それやったら休憩します？　波打ち際にお出かけしよか。",
+      "choice_data_list": [
+        "Không, chúng ta sẽ tổ chức thi đấu đố vui"
+      ],
+      "jpchoice_data_list": [
+        "いや、クイズ大会をします"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Mắc cái giống gì vậy trời! Dẫu đúng là trong kỳ tập huấn có mấy đứa cũng bày trò thi đố vui thiệt! Mà nó diễn ra liên tù tì như chuyện hiển nhiên luôn á!",
+      "jpname": "ラッキーライラック",
+      "jptext": "なんでやねん！　確かに合宿中にやっとる子おるけど！\n当然のようにずっと開催されとるけど！",
+      "choice_data_list": [
+        "A, kỳ tập huấn mùa hè kết thúc mất rồi"
+      ],
+      "jpchoice_data_list": [
+        "あ、夏合宿終わっちゃった"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hết luôn rồi đó hả trời! Nãy giờ chưa tập được miếng nào luôn á! Kiểu này chắc phải kéo dài tập huấn mùa hè thêm hai năm nữa mới bù đắp nổi quá!",
+      "jpname": "ラッキーライラック",
+      "jptext": "終わってもうたやん！　全然トレーニングできんかったわ！\nあと2年くらい全部夏合宿にせんと巻き返せへんで！",
+      "choice_data_list": [
+        "Cái đó thì chắc là bất khả thi rồi"
+      ],
+      "jpchoice_data_list": [
+        "それはさすがに無理かな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Tự dưng nghiêm túc ngang xương vậy trời, thôi dẹp đi nha! Cảm ơn quý vị khán giả rất nhiều ạ!",
+      "jpname": "ラッキーライラック",
+      "jptext": "いや急に真面目かい、もうええわ！\nどうも、ありがとうございましたー！",
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đứng thẳng người dậy sau cái cúi đầu chào nhau, hai chúng tôi nhìn vào mắt đối phương. Màn tung hứng quá sức ăn ý dù chỉ là ngẫu hứng khiến cả hai bất giác...",
+      "jpname": "モノローグ",
+      "jptext": "向かい合ったお辞儀から背を正し、ふたりで顔を見合わせる。\n即興にしてはあまりによくできた掛け合いに、つい――",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "...Phì, hì hì... A ha ha ha!",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………ぷっ、ふふっ――あっははは！",
+      "choice_data_list": [
+        "...Phì, a ha ha!"
+      ],
+      "jpchoice_data_list": [
+        "……ぷっ、あはは！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hà... Quả nhiên lâu lâu làm một bữa thế này cũng sướng ghê. Được thỏa sức chặt chém hết mình như vầy nè.",
+      "jpname": "ラッキーライラック",
+      "jptext": "はぁ～……やっぱり、たまにはええですね。\nこうやって、思い切りツッコむんも。",
+      "choice_data_list": [
+        "Ừ, vui cực kỳ luôn!",
+        "Ừ, vui cực kỳ luôn!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、すごく楽しい！",
+        "うん、すごく楽しい！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "... Hì hì.",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………。ふふっ。",
+      "color_text_info_list": []
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Dạ, thật sự là vui lắm luôn ạ.",
+      "jpname": "ラッキーライラック",
+      "jptext": "――ええ、ほんまに。",
+      "color_text_info_list": []
+    }
+  ]
+}
