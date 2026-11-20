@@ -1,0 +1,351 @@
+{
+  "title": "Bằng suy nghĩ ấy, tự soi chiếu bản thân",
+  "jptitle": "その思考に己を省み",
+  "text_block_list": [
+    {
+      "name": "Gentildonna",
+      "text": "――Quyển sách này, tôi xin gửi lại.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――こちら、お返しいたしますわ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Giờ nghỉ trưa. Tôi mở to mắt kinh ngạc khi đón lấy cuốn sách mà cô ấy đưa sang.",
+      "jpname": "モノローグ",
+      "jptext": "昼休み。そう言って差し出された本を、\n目を丸くして受け取る。",
+      "choice_data_list": [
+        "Cô đã đọc xong rồi sao...!",
+        "Cô đọc hết quyển đó rồi à...!"
+      ],
+      "jpchoice_data_list": [
+        "もう読み終わったのか……！",
+        "もう読み終わったんだ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi mới cho cô ấy mượn cách đây chỉ vỏn vẹn 3 ngày. Đây là loại sách chuyên ngành dành cho Trainer thuộc dạng rất khó nhai...",
+      "jpname": "モノローグ",
+      "jptext": "これを貸したのは、ほんの3日前。\nかなり読みにくい部類の、トレーナー向けの専門書なのだが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Tuy viết theo lối cao siêu phức tạp nhưng nội dung bên trong khá nông cạn. Dù vậy, nó cũng giúp ích trong việc nắm bắt các lý thuyết mới nhất từ nước ngoài.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "難しく書いている割に、内容は薄かったわね。\n海外の最新理論を仕入れる分には、役立ったけれど。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Thế còn quyển sách nguồn thì sao? Với tính cách của Trainer, chắc hẳn đã đặt mua mấy cuốn rồi đúng không?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "で、出典元の本は？　貴方のことだから、\n何冊か取り寄せているのでしょう？",
+      "choice_data_list": [
+        "Ở trên giá sách đằng kia đấy. Cả bản dịch lẫn nguyên tác"
+      ],
+      "jpchoice_data_list": [
+        "そこの本棚にあるよ。訳書も原書も"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ara, tuyệt thật đấy. Vậy tôi xin phép mượn bản nguyên tác nhé.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あら素敵。\nなら原書のほう、お借りしますわね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Đồng nghiệp Trainer",
+      "text": "――Trời ạ... Dạo này tôi thực sự phải vắt chân lên cổ mà học đấy. Tất cả cũng vì muốn giúp ích cho cô bé mà mình phụ trách thôi.",
+      "jpname": "同僚トレーナー",
+      "jptext": "――いや～。ほんと最近、これでもかってくらい勉強してるよ。\n担当の子の力になりたくてさ。",
+      "choice_data_list": [
+        "Tôi cũng vậy thôi",
+        "Bản thân tôi cũng thế"
+      ],
+      "jpchoice_data_list": [
+        "俺もだよ",
+        "私もだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giờ nghỉ trưa. Trong lúc vừa ăn trưa vừa trò chuyện đôi ba câu như thế với đồng nghiệp thì...",
+      "jpname": "モノローグ",
+      "jptext": "昼休み。昼食を取りつつ、\n同僚とそんなことを話していると……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Gokigenyou. Bây giờ tôi làm phiền một chút được chứ?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ごきげんよう。\n今少しよろしくて？",
+      "choice_data_list": [
+        "Ủa, Gentil? Có chuyện gì vậy?",
+        "Ơ kìa, Gentil? Sao thế cô?"
+      ],
+      "jpchoice_data_list": [
+        "あれ、ジェンティル？どうしたんだ？",
+        "あれ、ジェンティル？どうしたの？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trong cuốn sách mượn hôm nọ... chỗ này đây. Chính là đoạn mà Trainer đã lấy bút dạ đánh dấu.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "この間借りた本の……ここ。\n貴方がマーカーを引いている部分。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Một lý thuyết vô cùng hữu ích nhỉ. Đặc biệt là đối với việc khắc phục thử thách hiện tại của tôi.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "かなり有効な理論よね。\n特に、今の私の課題を克服するにあたっては。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Thế nhưng Trainer lại không áp dụng nó... Tại sao lại như vậy nhỉ? Tất nhiên là có thể giải thích cho tôi nghe chứ?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "けれど、貴方は採用していない……何故かしら？\n勿論、ご説明いただけますわね？",
+      "choice_data_list": [
+        "À. Về điều đó thì trong một bài báo khác――",
+        "Ừ. Về vấn đề đó thì ở một nghiên cứu khác――"
+      ],
+      "jpchoice_data_list": [
+        "ああ。それについては別の論文で――",
+        "うん。それについては別の論文で――"
+      ]
+    },
+    {
+      "name": "Đồng nghiệp Trainer",
+      "text": "Kh-Khoan đã... Tôi biết là cô ấy rất sắc sảo, nhưng đến mức này cơ á!? Không hề nao núng trước cô ấy cũng đỉnh thật đấy... Trời đất ơi!?",
+      "jpname": "同僚トレーナー",
+      "jptext": "い、いやいや……頭が切れるとは聞いてたけど、あんなに！？\n怯まない貴方もすごいし……えぇ～！？",
+      "choice_data_list": [
+        "Haha, tôi cũng phải dốc toàn lực để không bị tụt lại phía sau đấy",
+        "Haha, tôi cũng phải cố hết sức để bắt kịp cô ấy đấy"
+      ],
+      "jpchoice_data_list": [
+        "あはは、俺も負けないように必死だよ",
+        "あはは、私も負けないように必死だよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một Gentildonna thông tuệ đến mức vượt trên cả Trainer. Những chuỗi ngày bên cạnh cô ấy nhìn chung diễn ra rất êm đẹp, thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーを凌ぐほど、理知的なジェンティルドンナ。\nそんな彼女との日々はおおむね順調、だったのだが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": ".........Xung quanh có vẻ như chẳng có ai cả. Này Trainer, điện thoại đâu rồi?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "………。周りには誰もいなそうね。\n貴方、スマホは？",
+      "choice_data_list": [
+        "Xin lỗi, tôi để ở phòng Trainer rồi... Còn cô thì sao?",
+        "Tiếc là tôi để ở phòng Trainer mất rồi... Cô có mang theo không?"
+      ],
+      "jpchoice_data_list": [
+        "ごめんトレーナー室……君は？",
+        "ごめんトレーナー室……貴方は？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Không may là tôi lại để trong túi đồng phục rồi.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "生憎、制服の中でしてよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Mà cũng phải thôi. Dù sao chúng tôi cũng chỉ ghé vào để dọn dẹp một lát. Chẳng ai ngờ lại bị một kẻ hấp tấp nào đó vô tình khóa cửa nhốt bên trong thế này.",
+      "jpname": "モノローグ",
+      "jptext": "まあそうだろう。何せ自分たちは、ちょっと片付けに来ただけ。\nあわてんぼうな誰かに、うっかり閉じ込められるとは思うまい。",
+      "choice_data_list": [
+        "Hay là phá cửa mở ra nhỉ... Nhưng mà――"
+      ],
+      "jpchoice_data_list": [
+        "無理やり開けようか……。でも――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu hành động thiếu cẩn trọng mà bị thương thì thật chẳng ra làm sao. Những lúc thế này càng phải giữ bình tĩnh.",
+      "jpname": "モノローグ",
+      "jptext": "下手に動いてケガをしては、それこそ目も当てられない。\nこういう時ほど、落ち着かなくては。",
+      "choice_data_list": [
+        "Trước hết cứ chờ đã. Nếu thấy ai đi ngang qua thì báo cho tôi nhé",
+        "Tạm thời cứ đợi xem sao. Hễ có ai đi qua thì cô gọi giúp tôi nhé"
+      ],
+      "jpchoice_data_list": [
+        "まずは待とう。誰か通ったら教えてくれ",
+        "まずは待とう。誰か通ったら教えて"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ừm, cũng đúng. Hiện tại cả hai đều chẳng mang theo gì bên mình. Tốt hơn hết là không nên tiêu tốn thể lực vô ích.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "まあ、そうね。お互い身ひとつ。\n無駄な体力は消耗しないほうが賢明。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hơn nữa trong trường hợp xấu nhất, muộn nhất là khoảng 19 giờ chúng ta cũng sẽ ra ngoài được. Vào giờ đó thường có rất nhiều người kết thúc buổi tập.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "それに最悪、どんなに遅くても19時頃には出られる。\nその時間に一旦、トレーニングを終える方は多いもの。",
+      "choice_data_list": [
+        "Phải. Vậy nên chỉ cần đợi khoảng một tiếng rưỡi là――",
+        "Ừ. Thế nên cứ chờ tầm một tiếng rưỡi là――"
+      ],
+      "jpchoice_data_list": [
+        "ああ。だから大体1時間半待てば――",
+        "うん。だから大体1時間半待てば――"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Có điều, tôi không đủ kiên nhẫn để chờ lâu đến thế đâu.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "けれど、そんなに待っていられませんわ。",
+      "choice_data_list": [
+        "...Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hừm!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "フンッ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(RẦM RẦM RANG!)",
+      "jpname": "モノローグ",
+      "jptext": "（ガラガラバーン！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Phù... Sau khi tập luyện xong, tôi luôn muốn được đi tắm ngay lập tức cơ mà.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ふぅ……。トレーニング終わりは、\nすぐにシャワーを浴びたいのよね、私。",
+      "choice_data_list": [
+        "O... Oa..."
+      ],
+      "jpchoice_data_list": [
+        "わ、わぁ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cánh cửa đã mở toang. Không cần dùng bất kỳ dụng cụ nào, chỉ bằng một cái phẩy tay dứt khoát. Cứ như thể từ đầu cánh cửa này chẳng hề được khóa lại vậy...",
+      "jpname": "モノローグ",
+      "jptext": "開いた、扉が。何の道具も使わず、ひと息で。\nまるで鍵なんか、そもそも掛かっていなかったように……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi nhìn vào phần ổ khóa bị phá vỡ ngọt xớt. ...Chuyện làm hỏng khóa thì cứ để sau hãy giải thích lý do vậy.",
+      "jpname": "モノローグ",
+      "jptext": "綺麗に壊れた鍵部分を見る。\n……壊したことに関しては、事情を説明するとして。",
+      "choice_data_list": [
+        "Quả thực là một sức mạnh khủng khiếp...",
+        "Đúng là uy lực kinh người thật đấy..."
+      ],
+      "jpchoice_data_list": [
+        "本当に、すごいパワーだな……",
+        "本当に、すごいパワーだね……"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Để tôi chỉ bảo cho một điều nhé.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ひとつ、教えて差し上げますわ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trong một thế giới nơi số lượng quân bài quyết định tất cả, lá bài hữu dụng và hiệu quả nhất đôi khi có thể lật đổ cả lý lẽ lẫn lẽ thường.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "手札の数がものをいう世界において、\n時に理論や常識をも覆す、最も有用で有効な手札。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Đó chính là――\"Sức mạnh\". Lá bài Joker tối thượng.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "それが――『力』。\n最強の手札。",
+      "choice_data_list": [
+        "Joker..."
+      ],
+      "jpchoice_data_list": [
+        "ジョーカー……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi bất giác ngẫm lại lời nói ấy... Trong hoàn cảnh lúc này, đó là thứ mà cô ấy nắm trong tay, còn tôi thì không.",
+      "jpname": "モノローグ",
+      "jptext": "思わず反芻する……それは、今この状況において、\n彼女の手にはあって、自分にはなかったもの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chợt nảy ra ý nghĩ, tôi với tay tới quả cầu sắt mà cô ấy vừa thản nhiên ném sang một bên, ――nhưng không thể nhấc nổi. Ngay cả nâng lên một chút cũng không làm được.",
+      "jpname": "モノローグ",
+      "jptext": "ふと思い立ち、彼女が軽く放り投げた鉄球に手を伸ばす、\n――が、持てない。持ち上がりさえしない。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Cũng phải thôi. Giữa tôi và một cô gái có sức mạnh vượt khỏi mọi quy chuẩn ngay cả trong số các Uma Musume, làm sao có thể giống nhau được. ...Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "それはそうだ。ウマ娘の中でも規格外の彼女と自分。\n同じようにいくわけはない。……でも。",
+      "choice_data_list": [
+        "(Đến cả việc sở hữu cùng một lá bài mà mình còn không làm nổi...)"
+      ],
+      "jpchoice_data_list": [
+        "（同じ手札を、持てすらしないなんて……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một chuyện như thế, làm sao có thể chấp nhận được chứ. ――Khoảnh khắc ấy, lòng kiêu hãnh của một Trainer trong tôi đã bùng cháy!",
+      "jpname": "モノローグ",
+      "jptext": "そんなの、いいわけがない。\n――瞬間、トレーナーとしてのプライドに火が灯った！",
+      "choice_data_list": [
+        "Tôi cũng... sẽ rèn luyện sức mạnh cơ bắp giống như cô!",
+        "Bản thân tôi cũng... sẽ tôi luyện sức mạnh phi thường như cô!"
+      ],
+      "jpchoice_data_list": [
+        "俺も……君みたいにパワーつける！",
+        "私も……貴方みたいにパワーつける！"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Ara, chà chà. Hô hô hô――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……あら、まあ。ほほほ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Một quyết tâm rất đáng khen ngợi đấy.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "殊勝な心掛け、ですこと。",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "title": "Bằng ánh mắt ấy, bắn xuyên tâm can",
+  "jptitle": "その瞳で心を射抜く",
+  "text_block_list": [
+    {
+      "name": "Gentildonna",
+      "text": "Vậy thì, đề xuất của Trainer là gì?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "それで、貴方からの提案って？",
+      "choice_data_list": [
+        "Tôi đã nghĩ ra những bài tập cần thiết dành cho cô",
+        "Tôi đã lên kế hoạch tập luyện cần thiết cho cô"
+      ],
+      "jpchoice_data_list": [
+        "君に必要なトレーニングを考えてきたんだ",
+        "貴方に必要なトレーニングを考えてきたの"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": ".....................",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "………………。",
+      "choice_data_list": [
+        "(Nếu nói vậy, chắc chắn cô ấy sẽ xem tài liệu)",
+        "(Nghe thấy thế, chắc chắn cô ấy sẽ xem tài liệu)"
+      ],
+      "jpchoice_data_list": [
+        "（そう言われれば、君は必ず資料を見る）",
+        "（そう言われれば、貴方は必ず資料を見る）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu là cơ hội để trở nên mạnh mẽ hơn, cô ấy tuyệt đối sẽ không từ chối. Vì thế tôi đã chuẩn bị sẵn tài liệu. Nghiên cứu kỹ lưỡng cả những bước chạy trong quá khứ của cô ấy――",
+      "jpname": "モノローグ",
+      "jptext": "強くなるための機会なら、彼女が拒むはずがない。\nだから資料を用意した。過去の走りも研究して――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Chỉ có bấy nhiêu thôi sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……これだけ？",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Phương pháp tập luyện này là từ bài nghiên cứu được công bố hồi tuần trước đúng không? Hơn nữa, cách tấn công áp sát hàng rào trong vốn là sở trường của tôi rồi.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "このトレーニング法、先週発表された論文のものでしょう？\nそれに内ラチ沿いからの攻め方は、私の得意分野。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Mài giũa sở trường thì tốt đấy, nhưng như thế lại là lựa chọn tự bó hẹp chiến thuật của bản thân. Chính vì chưa ra mắt debut, chẳng phải càng nên bắt tay vào khắc phục điểm yếu hay sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "得意を磨くはいいけれど、それは戦術を狭める選択肢。\nデビュー前だからこそ、苦手分野から取り組むべきでは？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Chẳng lẽ. Ngay cả nguyên lý cơ bản đó mà Trainer――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……まさか。\nそのセオリーすらも、貴方――",
+      "choice_data_list": [
+        "Tôi hiểu chứ, tôi cũng đã chuẩn bị phương án khác rồi"
+      ],
+      "jpchoice_data_list": [
+        "わかってる、別の内容も準備しているよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và kể từ ngày hôm ấy, chuỗi ngày huấn luyện giúp Gentildonna \"trở nên mạnh hơn\" đã chính thức bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "そしてこの日から、ジェンティルドンナに\n“強くなる”トレーニングをする日々が始まった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Chạy 200m lặp lại 8 lần... chỉ chừng đó thôi là đủ sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "200mを8本……その程度でよろしいの？",
+      "choice_data_list": [
+        "Và sau mỗi lượt phải rút ngắn thời gian lại"
+      ],
+      "jpchoice_data_list": [
+        "そして1本終えるごとにタイムを縮めて"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Chà... ra là vậy sao. Thế thì lượt đầu tiên tôi bơi thong thả có lẽ sẽ tốt hơn nhỉ?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "まあ……それはそれは。\nなら最初の1本はゆっくり泳いだほうがよいかしら？",
+      "choice_data_list": [
+        "Chẳng lẽ cô lại làm cái trò khôn lỏi đó sao?",
+        "Chẳng lẽ một người như cô lại làm vậy sao?"
+      ],
+      "jpchoice_data_list": [
+        "まさか、君がそんなことをするのか？",
+        "まさか、貴方がそんなことをするの？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "............Hừ.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "…………はっ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hừm, dùng khối tạ này để tập luyện... ra vậy.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ふぅん、この重りを使ってトレーニングを……そう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Bằng thứ vừa nhẹ vừa mềm như thế này sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……こんな軽くて、柔いもので？",
+      "choice_data_list": [
+        "(Đùa nhau chắc...)",
+        "(Không thể tin nổi...)"
+      ],
+      "jpchoice_data_list": [
+        "（うそだろ……）",
+        "（うそでしょ……）"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trước khi thả lỏng mà lại chạy biến tốc 15-15, thậm chí không cho tôi bung hết sức ở đoạn cuối sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "クールダウン前に15-15だなんて、\n最後に全力疾走すらさせないの？",
+      "choice_data_list": [
+        "Nếu có khả năng phán đoán điềm tĩnh thì cô thừa sức làm được mà"
+      ],
+      "jpchoice_data_list": [
+        "冷静な判断力があれば達成できるはずだけど"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hi hi... Nghiêm khắc gớm nhỉ.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "くす……手厳しいこと。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gentildonna bước xuống đường chạy. Đây là cuộc đọ sức giữa năng lực dẫn dắt của tôi và tiềm năng phát triển của Gentildonna.",
+      "jpname": "モノローグ",
+      "jptext": "ジェンティルドンナはコースへと降りる。\nこれは、こちらの指導力とジェンティルドンナの成長力の力比べ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――11, 12, 13...! ...15! Cứ thế này thêm một lượt 200m nữa...!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――11、12、13……！　……15！\nこのままもう1度、200を……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Gentildonna chạy đúng bài 15-15 theo chỉ định... hoàn thành 1 furlong (200m) chính xác trong 15 giây. Đồng hồ sinh học bên trong cơ thể cô ấy chuẩn xác tuyệt đối.",
+      "jpname": "モノローグ",
+      "jptext": "ジェンティルドンナは指定通りに15-15……1ハロン【200m】を、\n15秒きっかりで走る。体内時計もしっかり揃えて。",
+      "choice_data_list": [
+        "(...Cô ấy làm ngon ơ thế này cơ đấy)",
+        "(...Cô ấy xử lý dễ như trở bàn tay vậy)"
+      ],
+      "jpchoice_data_list": [
+        "（……あっさりやってくれるよな）",
+        "（……あっさりやってくれるよね）"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phì cười. U fufu――...!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……ふふっ。うふふ――……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Khả năng tiếp thu của cô ấy không hề tầm thường. Tốc độ trưởng thành cũng vô cùng phi thường. Mỗi lần huấn luyện, tôi đều có cảm giác sự nhạy bén và tư duy chiến lược của mình đang bị thử thách gắt gao.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の吸収力は並ではない。成長力は尋常ではない。\nトレーニングをする度に、閃きや思考力を試されている感覚だ。",
+      "choice_data_list": [
+        "...Nhưng vì thế mà tôi sẽ không chịu đầu hàng"
+      ],
+      "jpchoice_data_list": [
+        "……だからって音は上げない"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi đã quyết định rồi. Tôi sẽ chứng minh năng lực dẫn dắt không thua kém bất kỳ ai của mình hết lần này đến lần khác. Nếu cô ấy ngày càng mạnh lên, tôi cũng sẽ không ngừng trau dồi bản thân. ...Chỉ đơn giản có thế.",
+      "jpname": "モノローグ",
+      "jptext": "決めたのだ。自分は他に負けない指導力を何度だって示す。\n彼女が強くなるなら、自分だって精進する。……それだけだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ara, hóa ra Trainer ở đây.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あら、こちらにいたの。",
+      "choice_data_list": [
+        "Gentildonna? Ơ kìa, hôm nay――"
+      ],
+      "jpchoice_data_list": [
+        "ジェンティルドンナ？あれ、今日は――"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trainer muốn định hướng tôi đi theo lộ trình nào?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "貴方は、どのような路線に向かわせたいの？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Hẳn là cũng có tham vọng chứ? Chẳng hạn như muốn đoạt lấy \"Japan Derby\" tranh vinh quang số 1 Nhật Bản. Hay ít nhất là muốn dâng tặng danh hiệu vinh dự đứng đầu thế giới... \"Prix de l'Arc de Triomphe\" cho một Uma Musume.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あるでしょう？　日本一の栄光を競う『日本ダービー』を獲りたい。\n世界一の……『凱旋門賞』の栄誉をウマ娘に捧げたい、くらいは。",
+      "choice_data_list": [
+        "...Trước hết, nguyện vọng của chính cô là gì?",
+        "...Trước tiên, bản thân cô muốn điều gì?"
+      ],
+      "jpchoice_data_list": [
+        "……まず、君自身の希望は？",
+        "……まず、貴方自身の希望は？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trước hết là lộ trình Triple Tiara. Bởi vì――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "まずはトリプルティアラ路線。\nだって――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――Chiếc vương miện Tiara lộng lẫy kia cực kỳ hợp với tôi, đúng không nào?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――私には、華やかなティアラがよく似合うでしょう？",
+      "choice_data_list": [
+        "Vương miện sao! Quả thực rất hợp với cô đấy!",
+        "Tiara sao! Chắc chắn sẽ vô cùng lộng lẫy trên người cô!"
+      ],
+      "jpchoice_data_list": [
+        "ティアラか！それは似合いそうだな！",
+        "ティアラ！それは似合いそうだね！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lộ trình Triple Tiara――đó là một trong những lộ trình thuộc cấp Classic. Là tên gọi chung cho chuỗi giải đấu gồm \"Oka Sho\", \"Oaks\" và \"Shuka Sho\".",
+      "jpname": "モノローグ",
+      "jptext": "トリプルティアラ路線――それはクラシック級の路線のひとつ。\n『桜花賞』『オークス』『秋華賞』で構成されたレースの総称だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi nhớ giải thưởng phụ của Triple Tiara đúng như tên gọi, là một chiếc vương miện tiara thật sự. Thứ đó chắc chắn sẽ vô cùng tôn lên phong thái của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "確かトリプルティアラの副賞も、名のとおりティアラだったはず。\nそれはきっと彼女に似合うことだろう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "――............",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Những người khác thì bảo rằng nếu là tôi thì có thể ẵm trọn cả Derby. Cũng có người từng khuyên tôi nên đi theo lộ trình Tam Quan Cổ điển Triple Crown đấy?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……ほかの方は、私ならダービーも獲れる、と。\nクラシック三冠路線のほうを勧めてきた方もいるけど？",
+      "choice_data_list": [
+        "Đúng là cũng có thể đi theo con đường đó thật, nhưng mà..."
+      ],
+      "jpchoice_data_list": [
+        "確かにその道もあるかもしれないけど……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước đây người ta cho rằng chạy theo lộ trình Tam Quan Cổ điển bao gồm cả Derby mới chứng tỏ được một Uma Musume mạnh mẽ. Thế nhưng nếu là cô ấy, thì dù có chọn con đường nào đi nữa――",
+      "jpname": "モノローグ",
+      "jptext": "以前はダービーを含むクラシック三冠路線を走ったほうが、\n強いウマ娘になるとされていた。だが彼女ならどんな道でも――",
+      "choice_data_list": [
+        "Nếu là cô, dù trên bất kỳ con đường nào――cô cũng sẽ trở thành kẻ mạnh nhất",
+        "Nếu là cô thì trên mọi nẻo đường――cô đều sẽ đạt tới đỉnh cao mạnh nhất"
+      ],
+      "jpchoice_data_list": [
+        "君ならどんな道でも――最強になる",
+        "貴方ならどんな道でも――最強になる"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "…………――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "…………――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Hừ.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……ふ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "U fufufu!",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "うふふふっ！",
+      "choice_data_list": [
+        "(――Hả?)"
+      ],
+      "jpchoice_data_list": [
+        "（――へ？）"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phải rồi. Điều quan trọng không phải là đạt được thành tựu gì. Mà là bản thân mạnh mẽ theo cách thức như thế nào.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……そう。大切なのは何を成し遂げたかではない。\nどのように強くあるか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Có lẽ mối quan hệ giữa tôi và Trainer sẽ còn kéo dài đấy nhỉ. Nào, hãy ký hợp đồng thôi. Trainer?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "貴方とは長い付き合いになるかしら。\nさあ、契約しましょう。トレーナー？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Trước khi tôi đổi ý, phiền Trainer chuẩn bị hợp đồng được chứ?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "気が変わる前に、契約書を用意してくださる？",
+      "choice_data_list": [
+        "...! Tôi hiểu rồi, tôi sẽ chuẩn bị ngay"
+      ],
+      "jpchoice_data_list": [
+        "……！わかった、すぐに用意する"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Phù phù phù...! A――còn thêm chuyện này nữa.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ふふふっ……！\nああ――あと、それから。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Để bắt đầu cho những ngày tháng sắp tới... trước hết xin mời?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "これからにあたって……まずはどうぞ？",
+      "choice_data_list": [
+        "...? Xin mời, là sao cơ?"
+      ],
+      "jpchoice_data_list": [
+        "……？どうぞ、って？"
+      ]
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Hi hi.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……くす。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Không biết quy tắc ứng xử lễ nghi đối với một quý cô sao? Đôi môi đó chỉ để trang trí thôi à?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "レディに対するマナーをご存じないの？\nその唇はお飾りかしら？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Gentildonna",
+      "text": "...Phải không nào? Tôi đặt rất nhiều kỳ vọng vào Trainer đấy.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……ねぇ？\n期待しているわ、トレーナー。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, quý phu nhân khẽ mỉm cười đầy quyến rũ, như thể đang muốn thử thách tôi vậy.",
+      "jpname": "モノローグ",
+      "jptext": "そして貴婦人は可愛らしく、こちらを試すように微笑むのだった。",
+      "choice_data_list": []
+    }
+  ]
+}
