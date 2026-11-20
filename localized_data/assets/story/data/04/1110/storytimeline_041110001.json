@@ -1,0 +1,524 @@
+{
+  "title": "Tôi cũng đã bị biến thành một chú hươu mất rồi",
+  "jptitle": "私もまた、鹿に変えられてしまったのだ",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Nếu phải ví von, thì đó là cảm giác háo hức tựa như khi mở ra một trang sách mới. Nỗi hồi hộp rạo rực nơi lồng ngực khi đọc dòng chữ đầu tiên và dần đắm chìm vào câu chuyện.",
+      "jpname": "モノローグ",
+      "jptext": "たとえるなら、新しい本を開く時のようなわくわく感。\n最初の1行を読み、物語に没入していく時の胸が膨らむような興奮。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khoảnh khắc cuộc đua tuyển chọn bắt đầu, đó chính là linh cảm dâng lên trong tôi. Quả thực, trận đua diễn ra vô cùng nảy lửa, và khán đài đang sục sôi trong bầu không khí phấn khích cuồng nhiệt――",
+      "jpname": "モノローグ",
+      "jptext": "選抜レースが始まった瞬間に覚えたのは、そういった予感だった。\n事実、レースは白熱し、観客席は異様な盛り上がりを見せていた――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Rhein Kraft và Daring Heart! Cả hai đều đã chiếm được vị trí thuận lợi rồi!",
+      "jpname": "中堅トレーナーA",
+      "jptext": "ラインクラフトにデアリングハート！\n2人ともいい位置につけたな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Từ phía sau, Air Messiah cũng đang rình rập cơ hội! A, cô ấy bắt đầu bứt tốc rồi!",
+      "jpname": "中堅トレーナーB",
+      "jptext": "後方からエアメサイアも狙ってる！\nあっ、今仕掛けた！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng như danh tiếng đồn đại trước đó, rất nhiều Uma Musume tài năng đang cùng tranh tài. Bầu không khí căng thẳng chẳng kém gì một cuộc đua Graded khiến tôi bất giác siết chặt nắm tay.",
+      "jpname": "モノローグ",
+      "jptext": "前評判の通り、才あるウマ娘たちが多く出走しているようだ。\n重賞さながらの緊張感で、自然と拳に力が入る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trận so tài này, rốt cuộc ai sẽ là người làm chủ đường đua――",
+      "jpname": "モノローグ",
+      "jptext": "この勝負、一体誰が制するのか――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ưự……!",
+      "jpname": "ラインクラフト",
+      "jptext": "くぅっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Là Rhein Kraft! Còn 200m trước vạch đích, Rhein Kraft đã vươn lên dẫn đầu rồi!! Thật là kiên cường và bền bỉ! Tốc độ vẫn không hề suy giảm!",
+      "jpname": "中堅トレーナーＡ",
+      "jptext": "ラインクラフトだ！　ゴール手前200mで、ラインクラフトが\n先頭へ抜け出した！！　なんて粘り強さ！　ペースが落ちない！",
+      "choice_data_list": [
+        "Liệu cô bé ấy sẽ giữ vững vị trí và cán đích đầu tiên sao……!?",
+        "Liệu cô ấy có thể duy trì đà này để giành chiến thắng sao……!?"
+      ],
+      "jpchoice_data_list": [
+        "このままあの子が押し切るのか……！？",
+        "このままあの子が押し切るの……！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Nhìn kìa! Phía sau! Đang có người đuổi theo với tốc độ kinh hoàng!",
+      "jpname": "中堅トレーナーB",
+      "jptext": "見て！　後ろ！　とんでもない速度で追い上げてきてる！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Uma Musume bám đuổi phía sau",
+      "text": "……………………ự! Haaaaa aaaa aaaaa!!!",
+      "jpname": "後方から狙うウマ娘",
+      "jptext": "……………………っ！\nはぁぁぁあああああッッッ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một cơn gió lốc màu xanh hoàng kim bùng nổ, thế trận đường đua lập tức đảo chiều dữ dội. Một Uma Musume dũng mãnh lách qua toán đông, lao lên sánh ngang cùng Rhein Kraft.",
+      "jpname": "モノローグ",
+      "jptext": "金青の疾風が爆ぜ、レースが大きく動く。\n1人のウマ娘が猛然とバ群を捌き、ラインクラフトの隣に躍り出た。",
+      "choice_data_list": [
+        "Cú bứt tốc cuối chặng mới sắc bén làm sao……!!",
+        "Nước rút cuối chặng sắc sảo đến kinh ngạc……!!"
+      ],
+      "jpchoice_data_list": [
+        "なんてキレのある末脚なんだ……！！",
+        "なんてキレのある末脚なの……！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Kia là, Cesario sao? Rõ ràng ở khúc cua cuối cô ấy còn ở tít phía sau cơ mà. Không ngờ lại có thể bám đuổi ngoạn mục đến mức này……!!",
+      "jpname": "中堅トレーナーＡ",
+      "jptext": "あれは、シーザリオ？　最終コーナーではかなり後方だったはず。\nここまで追い上げてくるとは……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Hự………… Vẫn chưa xong đâu!! Haaaa aaaa aaaaa!!!",
+      "jpname": "シーザリオ",
+      "jptext": "くっ…………まだまだ！！\nはぁああぁぁあああああーーーーッッッ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trái tim tôi đập thình thịch liên hồi, ồn ã khôn nguôi.",
+      "jpname": "モノローグ",
+      "jptext": "心臓がバクバクとうるさい。",
+      "choice_data_list": [
+        "Một cuộc đua thật phi thường……"
+      ],
+      "jpchoice_data_list": [
+        "すごいレースだった……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Những xúc cảm trào dâng cuồn cuộn tựa bầy chó săn ùa tới, như muốn xé toạc cõi lòng này. ――Một câu thoại trong vở kịch lãng mạn mượn hình tượng thần thoại bất chợt hiện lên trong tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "猛り立つ想いが猟犬のごとく押し寄せ、この心を引き裂いたようだ。\n――神話の登場人物になぞらえた恋愛戯曲の一節が頭に浮かぶ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó là câu thoại diễn tả tâm tư của chàng công tước khi rơi vào lưới tình với nàng tiểu thư bá tước, và cơn chấn động lúc này quả thực đúng như vậy. Cú nước rút cuối chặng ấy đã khắc sâu vào tâm trí tôi, không thể nào phai nhạt.",
+      "jpname": "モノローグ",
+      "jptext": "戯曲の公爵が伯爵家の令嬢に恋をした気持ちを言い表した台詞だが、\n今の衝撃がまさにこれだ。あの末脚が頭に焼きついて離れない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cesario―― một cái tên thật đẹp đẽ và cao quý. Khí chất của cô ấy tựa như một bậc nữ hoàng đường bệ.",
+      "jpname": "モノローグ",
+      "jptext": "シーザリオ――美しく気高い名だ。まるで女王のような風格がある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi còn đang mải chìm trong dư vị ấy, khán giả đã vây quanh các tuyển thủ từ lúc nào. Dường như tôi đã chậm chân một bước mất rồi. Tôi vội vã rảo bước tiến về phía đám đông.",
+      "jpname": "モノローグ",
+      "jptext": "余韻に浸っている間に、観客は既に選手たちの周りに移動していた。\n完全に出遅れてしまったようだ。急いで人だかりへ足を進める。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Vâng. Oka-sho, Oaks, Shuka-sho―― mục tiêu của tôi là chinh phục cả ba cuộc đua này và đạt được Triple Tiara.",
+      "jpname": "シーザリオ",
+      "jptext": "はい。『桜花賞』、『オークス』、『秋華賞』――\nこの3つを制し、トリプルティアラを達成するのが目標です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Tuyến đường Tiara sao……! Tuyệt lắm, nhất định hãy để tôi cùng em hướng tới mục tiêu đó! Nếu là em thì chắc chắn sẽ làm được!",
+      "jpname": "中堅トレーナーA",
+      "jptext": "ティアラ路線か……！　ああ、是非とも一緒に狙おう！\n君ならば必ず成し遂げられる！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Cesario, hãy để tôi tuyển mộ em nhé! Về tuyến đường Tiara thì tôi có nhiều kinh nghiệm lắm. Tôi nhất định sẽ không để em phải hối tiếc đâu!",
+      "jpname": "中堅トレーナーB",
+      "jptext": "シーザリオさん、スカウトさせて！\nティアラ路線なら経験があるわ。絶対に後悔させないから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Tôi xin chân thành cảm ơn những lời mời vô cùng nhiệt huyết từ quý vị. Với tiền đề hướng tới việc ký kết hợp đồng, tôi cũng mong muốn được hiểu rõ hơn về từng vị Trainer.",
+      "jpname": "シーザリオ",
+      "jptext": "数々の熱意あるお誘い、謹んで感謝申し上げます。\n私も契約を前提に、皆さんのことをよく知りたいと存じます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Trước hết, tôi mong đôi bên có thể thấu hiểu nhau hơn thông qua những buổi trò chuyện. Bởi lẽ một khi bước vào con đường thi đấu, chúng ta sẽ phải kề vai sát cánh như một thể thống nhất.",
+      "jpname": "シーザリオ",
+      "jptext": "まずは対話を通じ……互いについて理解を深められればと。\n競技生活が始まれば、二人三脚で歩んでいくわけですから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Đúng vậy. Lát nữa ta sẽ dành thời gian để trao đổi kỹ lưỡng hơn nhé. Đến lúc đó tôi cũng sẽ chuẩn bị sẵn tài liệu về định hướng huấn luyện.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "そうだな。後で時間を取ってじっくり話をしよう。\n指導方針もその時までに資料を作っておく。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Tôi cũng sẽ lập một kế hoạch sát cánh cùng nguyện vọng của em. Nếu được, em có thể chia sẻ cho tôi biết lý do vì sao em lại hướng tới Triple Tiara không?",
+      "jpname": "中堅トレーナーB",
+      "jptext": "私も貴方の想いに寄り添ったプランを作ってくる。\nもしよければ、何故トリプルティアラを目指すのか教えてくれる？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Đó là bởi vì phía bên kia giấc mơ lớn mang tên Triple Tiara, vẫn còn một ước vọng xa hơn nữa…… của riêng tôi.",
+      "jpname": "シーザリオ",
+      "jptext": "トリプルティアラという大きな夢の先に、\n私の……更なる夢があるからです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Đó là trở thành nền móng cho tương lai của các thế hệ Uma Musume―― Chính vì vậy, để chứng minh bản lĩnh và tầm vóc của mình, tôi bắt buộc phải chiến thắng trên đường đua.",
+      "jpname": "シーザリオ",
+      "jptext": "それは、未来のウマ娘の礎となること――\n故に私は、器を示すために、レースで勝たなければならないのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Đặc biệt, chiến thắng tại Oaks là điều tôi không thể bỏ lỡ. Vương miện Nữ hoàng Cây Sồi, tôi nhất định phải tự tay đoạt lấy cho bằng được……",
+      "jpname": "シーザリオ",
+      "jptext": "特に『オークス』での勝利は逃せません。\n樫の女王の栄冠は、必ずやこの手に掴まなければ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nền móng nghĩa là sao, và chứng minh bản lĩnh có ý nghĩa gì? ――Ngay cả khi đã đến giờ dùng bữa, hình bóng cô ấy vẫn chẳng thể rời khỏi tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "礎とは、器を示すとはどういうことだろう？\n――食事の時間になっても、彼女のことが頭から離れない。",
+      "choice_data_list": [
+        "Rốt cuộc mình vẫn chưa bắt chuyện được với cô ấy…… A!"
+      ],
+      "jpchoice_data_list": [
+        "結局話しかけられなかったな……あっ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sơ ý trượt tay, tôi làm đổ cốc nước đang uống dở. Nước tràn lênh láng trên mặt bàn rồi bắt đầu nhỏ giọt xuống từ mép bàn.",
+      "jpname": "モノローグ",
+      "jptext": "手元が狂い、飲みかけのコップを倒す。\n中身がテーブルに広がり、縁からドリンクが滴った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Oái oái, nguy rồi! Để em đi lấy khăn lau bàn nhé!",
+      "jpname": "ラインクラフト",
+      "jptext": "うわわっ、あ、大変！\nわたし、台拭きもらってきますね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Nhờ cậu chỗ đó nhé. ……Nước đã rớt xuống vạt áo rồi kìa. Phải nhanh chóng tẩy vết ố thôi. Người có thể cho tôi mượn áo khoác ngoài được không?",
+      "jpname": "シーザリオ",
+      "jptext": "そっちは頼んだ。……裾に垂れてしまっていますね。\n急いで染み抜きします。上着、貸していただけますか？",
+      "choice_data_list": [
+        "À, ừ……",
+        "A, được chứ……"
+      ],
+      "jpchoice_data_list": [
+        "あ、ああ……",
+        "う、うん……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nghe theo lời cô ấy, tôi cởi áo khoác đưa qua. Cesario liền lót một chiếc khăn tay bên dưới chỗ vải bẩn rồi dùng khăn ướt vỗ nhẹ từng nhịp để thấm sạch vết bẩn.",
+      "jpname": "モノローグ",
+      "jptext": "言われるがまま上着を脱いで渡すと、彼女は汚れた生地の下に\nハンカチを敷き、濡らしたおしぼりでトントンとたたき始めた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Người con gái tưởng chừng xa tầm với lúc trước giờ lại ở ngay trước mắt tôi…… Trong lúc tôi còn đang lúng túng chưa biết mở lời thế nào, cả mặt bàn lẫn chiếc áo khoác đều đã được lau dọn sạch sẽ tinh tươm……",
+      "jpname": "モノローグ",
+      "jptext": "手の届かない場所にいた彼女が目の前に……。なんと声をかけるか\n悩んでいるうちに、テーブルも上着も綺麗になっていた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Trainer không cần phải cảm ơn bọn em đâu mà, người chu đáo thật đấy. Em xin nhận nhé, cảm ơn Trainer ạ!",
+      "jpname": "ラインクラフト",
+      "jptext": "お礼なんてよかったのに。トレーナーさんって律儀な人ですね。\nありがとうございます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Fufu, bánh ngọt, bánh ngọt nè! Món này lần trước em với Cesario từng chia đôi ăn cùng nhau nhỉ. Bánh hôm nay cũng ngập tràn trái cây luôn!",
+      "jpname": "ラインクラフト",
+      "jptext": "ふふっ、ケーキ、ケーキ♪　これ、前にシーザリオと半分こして\n食べたよね。今日のもフルーツいっぱいだぁ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Lần đó chỉ còn đúng một miếng cuối cùng thôi nhỉ? Vừa bàn xem ai sẽ ăn quả nào vừa thưởng thức cùng cậu, vui thật đấy.",
+      "jpname": "シーザリオ",
+      "jptext": "あの時はラスト1個だったんだっけ？　どっちがどのフルーツを\nもらうか話し合いながら食べるの、楽しかったね♪",
+      "choice_data_list": [
+        "(Ủa? Sao bầu không khí có vẻ……)"
+      ],
+      "jpchoice_data_list": [
+        "（あれ？なんだか雰囲気が……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Kraft, cậu có cần thêm đường không? Nếu muốn thì tôi bỏ vào cho nhé. Nếu nóng quá thì bảo ngay nhé, tôi sẽ thổi cho nguội bớt.",
+      "jpname": "シーザリオ",
+      "jptext": "クラフト、お砂糖は必要？　欲しければ入れてあげるね。\n熱かったらすぐに言って。フーって、冷ましてあげる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cảm ơn nhé! Cesario dịu dàng quá đi!",
+      "jpname": "ラインクラフト",
+      "jptext": "ありがとー！　シーザリオ、やっさし～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "À ừm, ly của người đã cạn rồi, người có muốn dùng thêm nước không? Người thích nước ở nhiệt độ phòng hay nước ấm hơn? Để tôi đi lấy giúp nhé.",
+      "jpname": "シーザリオ",
+      "jptext": "あの、グラスが空ですけど、お水の追加はいかがですか？\n常温のお水か、白湯のほうがいいですか？　私、いただいてきます。",
+      "choice_data_list": [
+        "Thế thì phiền cô…… ơ mà, khoan đã, chuyện đó không quan trọng!"
+      ],
+      "jpchoice_data_list": [
+        "それなら……って、そんなことより！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "? Có chuyện gì vậy ạ?",
+      "jpname": "シーザリオ",
+      "jptext": "？　どうしましたか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Diện mạo này đích thị là Cesario mà tôi đã thấy ở cuộc đua tuyển chọn, không thể sai vào đâu được. Thế nhưng, nét mặt oai nghiêm đĩnh đạc tựa hiệp sĩ kia lại hoàn toàn biến mất.",
+      "jpname": "モノローグ",
+      "jptext": "姿は選抜レースで見たシーザリオで間違いない。\nしかし、騎士のような凜とした表情はどこにもない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "A, em hiểu rồi! Thấy phong thái của Cesario khác hoàn toàn nên Trainer ngạc nhiên đúng không ạ?",
+      "jpname": "ラインクラフト",
+      "jptext": "あ、わかりました！\nシーザリオの雰囲気が全然違うから、ビックリしたんですね？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cesario là kiểu người tách bạch rất rõ ràng giữa lúc bật và tắt công tắc ấy mà. Tùy theo từng hoàn cảnh mà tự chuyển đổi―― đúng không nào?",
+      "jpname": "ラインクラフト",
+      "jptext": "シーザリオはなんていうか、オンとオフがはっきりしてるんです。\n状況によって切り替えてる――だったよね？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu, thỉnh thoảng tôi cũng được hỏi \"Đâu mới là Cesario thật sự?\", nhưng cả hai đều là tôi cả. Đó chỉ là sự khác biệt giữa lúc tôi tập trung cao độ và lúc tôi thả lỏng mà thôi……",
+      "jpname": "シーザリオ",
+      "jptext": "ふふ、たまに『どっちが本当のシーザリオ？』と聞かれますけど、\nどちらも私です。気を張ってるか、いないかの違いなので……。",
+      "choice_data_list": [
+        "Ra, ra là vậy……"
+      ],
+      "jpchoice_data_list": [
+        "な、なるほど……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dẫu được nghe giải thích như vậy, trông cô ấy vẫn như thể một con người hoàn toàn khác. Hẳn là cô ấy luôn giữ cho mình một kỷ luật thép đầy nghiêm khắc.",
+      "jpname": "モノローグ",
+      "jptext": "そう説明されても、別人のようだ。\nそれだけ自分を厳しく律しているということなのだろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Oáp…… No căng bụng rồi tự nhiên lại thấy buồn ngủ hay sao ấy……",
+      "jpname": "ラインクラフト",
+      "jptext": "ふあぁ……お腹いっぱいになったら、眠くなってきた、かも……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Chỗ này đón nắng ấm áp quá mà. Bàn lại khuất sau cây cột nữa, cậu cứ gối đầu lên đùi tôi mà chợp mắt đi.",
+      "jpname": "シーザリオ",
+      "jptext": "ここ、日当たりいいもんね。\n柱の陰の席だし、膝、枕にしてもいいよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Thích quá…… Vậy em nghỉ ngơi một lát đây……",
+      "jpname": "ラインクラフト",
+      "jptext": "わぁい……それじゃあ、ひと休み……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Người cũng muốn nghỉ ngơi một chút chứ? Tôi có mang theo chăn mỏng, để tôi cho người mượn nhé.",
+      "jpname": "シーザリオ",
+      "jptext": "貴方も少し休憩しますか？\nブランケットを持ってるので、お貸ししますよ。",
+      "choice_data_list": [
+        "Thế thì cho tôi…… khoan, dù sao thì tôi vẫn ổn mà!"
+      ],
+      "jpchoice_data_list": [
+        "それじゃあ……って、さすがに大丈夫だよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nụ cười hiền từ tựa thánh mẫu của cô ấy suýt chút nữa đã cuốn phăng lý trí của tôi, nhưng là một người trưởng thành, tôi không thể ngủ gật ở chốn này được. Tôi vội vã lắc đầu quầy quậy.",
+      "jpname": "モノローグ",
+      "jptext": "聖母のような微笑みにうっかり流されそうになるが、\n大人としてこんな場所で寝るわけにいかない。慌てて首を振る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Vậy sao…… Thế thì, người có thể chìa tay ra được không?",
+      "jpname": "シーザリオ",
+      "jptext": "そうですか……。なら、手を出していただけますか？",
+      "choice_data_list": [
+        "Tay tôi ư? Được rồi……"
+      ],
+      "jpchoice_data_list": [
+        "手を？うん……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khi tôi vừa đưa tay ra, Cesario liền dùng hai bàn tay bao bọc lấy rồi nhấn mạnh một huyệt đạo. Bất ngờ ập đến khiến tôi giật mình, nhưng cảm giác đau dễ chịu ấy đã khiến đầu óc tôi lập tức tỉnh táo, sảng khoái hẳn lên.",
+      "jpname": "モノローグ",
+      "jptext": "差しだした手を、シーザリオは両手で包み込みながらぐっと押した。\n急なことで驚いたが、痛気持ちいい刺激で頭がスッキリする。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Bấm vào huyệt vị này sẽ giúp xua tan mệt mỏi đấy ạ. Những lúc cảm thấy hơi kiệt sức một chút, làm vậy rất hiệu quả.",
+      "jpname": "シーザリオ",
+      "jptext": "ここのツボを押すと、疲労が回復するんですよ。\nちょっと疲れたなって思った時とか、オススメです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu, sắc mặt người trông đã tươi tỉnh hơn rồi. Buổi chiều người cũng đừng làm việc quá sức nhé.",
+      "jpname": "シーザリオ",
+      "jptext": "ふふ、少し顔色がよくなりました。\n午後も無理しないでくださいね。",
+      "choice_data_list": [
+        "Cảm ơn cô. Nhờ cô mà tôi thấy khỏe khoắn lại rồi"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう。おかげで元気になったよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một gương mặt duy nhất. Một giọng nói duy nhất. Thế nhưng, lại có đến hai biểu cảm hoàn toàn trái ngược.",
+      "jpname": "モノローグ",
+      "jptext": "顔も、ひとつ。声も、ひとつ。なのに、表情はふたつ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tựa như bình minh và màn đêm hòa quyện để dệt nên một ngày trọn vẹn, hai mặt đối lập đan xen ấy mới chính là con người thật của cô. Trước một hiện hữu đặc biệt đến nhường ấy, làm sao tôi có thể không bị cuốn hút cho được……",
+      "jpname": "モノローグ",
+      "jptext": "朝と夜が合わさり1日を成すように、表裏一体の顔こそ彼女らしい。\nその在り様に、どうして興味を引かれずにいられようか……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
