@@ -1,0 +1,555 @@
+{
+  "title": "Tương Tác Bằng Chiến Thuật Chính Thống",
+  "jptitle": "正攻法インタラクション",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kỳ tập huấn mùa hè đã tới! Cả Rulership vốn ghét ra ngoài trời cũng đang nỗ lực hết mình.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿がやって来た！\n屋外が苦手なルーラーシップも、懸命に頑張っている。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Đương nhiên rồi còn gì? Đây cũng là nước cờ chuẩn bị cho tương lai. Nếu là điều cần thiết thì ta làm bao nhiêu cũng được.",
+      "jpname": "ルーラーシップ",
+      "jptext": "当然だろう？　これも今後に向けての布石。\n必要とあらば、いくらでもやってやるさ。",
+      "choice_data_list": [
+        "Quả không hổ danh...!"
+      ],
+      "jpchoice_data_list": [
+        "さすが……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hãy nâng cao thực lực thật vững vàng trong mùa hè này nhé! Vừa trò chuyện như vậy, chúng tôi vừa trao đổi về buổi tập tiếp theo thì...",
+      "jpname": "モノローグ",
+      "jptext": "この夏でしっかりと実力を伸ばしていこう！\nそう話し、次のトレーニングの打ち合わせをしていると……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Này này, Ruler với Trainer-san ơi! Hai người đã nghe chuyện về lễ hội đền chưa? Chiều tối nay ở ngôi đền gần đây có tổ chức đấy!",
+      "jpname": "ウマ娘A",
+      "jptext": "ねぇねぇ、ルーラーとトレーナーさん！　縁日の話聞いた？\n夕方から近くの神社でやるんだって～♪",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "...Lễ hội đền sao?",
+      "jpname": "ルーラーシップ",
+      "jptext": "……縁日だって？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Cũng không tệ nhỉ. Dù tôi không thích những nơi đông người, nhưng hiếm khi có dịp thế này.",
+      "jpname": "ルーラーシップ",
+      "jptext": "悪くはないな。\n人の多いところは好まないが、せっかくの機会だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hơn nữa... nếu cùng Trainer trải nghiệm những hoạt động đậm chất mùa hè, mối quan hệ giữa hai người sẽ trở nên vững như bàn thạch.",
+      "jpname": "ルーラーシップ",
+      "jptext": "それに……トレーナーと夏らしい経験をすれば、\nふたりの関係値も盤石になろうというもの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hừm... có được thông tin đúng lúc thật. Theo mạch này thì đương nhiên...!",
+      "jpname": "ルーラーシップ",
+      "jptext": "フッ……いいタイミングで情報を得られたな。\nこの流れなら、当然……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Thế nên cả lớp đang rủ nhau cùng đi đấy! Ruler có muốn đi cùng bọn tớ không?",
+      "jpname": "ウマ娘A",
+      "jptext": "それでね、クラスのみんなで行こうって話してたの！\nルーラーも来ない？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Cả lớp sao... Tiếc quá nhưng tớ xin kiếu nhé. Cảm ơn vì đã rủ.",
+      "jpname": "ルーラーシップ",
+      "jptext": "みんなで、か……悪いが遠慮しておくよ。\nお誘いありがとう。",
+      "choice_data_list": [
+        "(Em ấy không có hứng với lễ hội đền sao...?)"
+      ],
+      "jpchoice_data_list": [
+        "（縁日、興味ないのかな……？）"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...Như cậu biết đấy, tôi vốn không thích những nơi ồn ào. Giá như đi ít người, thong thả dạo quanh thì tốt biết mấy...",
+      "jpname": "ルーラーシップ",
+      "jptext": "……知っての通り、騒がしいのは苦手でね。\n少人数で、ゆっくりと、回れたらよかったのだが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Đưa ra điều kiện rõ ràng thế này thì chắc chắn cậu sẽ đưa ra phương án giải quyết đơn giản nhất... rằng \"vậy hai đứa mình đi chung nhé\" cho xem...!)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（と、いうふうに明確に条件提示すれば君は一番シンプルな\n解決策を出してくるに違いない……『ならふたりで』と……！）",
+      "choice_data_list": [
+        "Vậy sao...",
+        "Vậy à..."
+      ],
+      "jpchoice_data_list": [
+        "そうか……",
+        "そっか……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Em ấy hôm trước cũng vừa bị say đám đông xong. Hôm nay cường độ luyện tập lại nặng, chắc em ấy muốn được nghỉ ngơi sớm.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、この前も人ごみで酔っていた。\n今日はトレーニングの負荷も高いし、早く休みたいのかもしれない。",
+      "choice_data_list": [
+        "Vậy chúng ta quay lại tập luyện tiếp nhé?"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、トレーニングに戻ろうか？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Ủa kìa? ...Hả?",
+      "jpname": "ルーラーシップ",
+      "jptext": "アレッ？　……エッ？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Phù...! Thế là xong nhiệm vụ của ngày hôm nay rồi, thế nhưng mà...",
+      "jpname": "ルーラーシップ",
+      "jptext": "ふうっ……！\nこれで今日のタスクはコンプリート、だが……。",
+      "choice_data_list": [
+        "Vất vả rồi!"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Em ấy đã chạy rất tuyệt vời! Lòng tôi nóng lòng muốn nhanh chóng phân tích những chỉ số này.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はとてもいい走りをしていた！\nこの数値を早く分析したい、と心が逸った。",
+      "choice_data_list": [
+        "Vậy hôm nay giải tán nhé! Hẹn mai gặp lại!",
+        "Vậy hôm nay giải tán nhé! Hẹn mai gặp lại!"
+      ],
+      "jpchoice_data_list": [
+        "じゃ、今日は解散で！また明日な！",
+        "じゃ、今日は解散で！また明日ね！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hả, này!? Nhanh thế!? Khoan đã...",
+      "jpname": "ルーラーシップ",
+      "jptext": "えっ、おい！？　早いな！？\nちょっ……――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Hảảảả! Tại sao mọi chuyện lại thành ra thế này cơ chứ hả!?)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（えええぇぇーーーーっ！\nなんでこうなっちゃうんだよぉ～～～～～っ！？）",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Đêm đến, lúc đang ngồi trước màn hình laptop, tôi nhận ra Rulership đang nhìn tôi với vẻ mặt vô cùng khó ở.",
+      "jpname": "モノローグ",
+      "jptext": "夜、ノートパソコンに向かっていると、\nルーラーシップが渋い顔でこちらを見ているのに気づいた。",
+      "choice_data_list": [
+        "Ủa, có chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "あれっ、どうかした？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Không... chỉ là tôi lo cậu làm việc quá sức thôi. Cánh tay phải của ta mà lăn ra ốm thì phiền phức lắm.",
+      "jpname": "ルーラーシップ",
+      "jptext": "いや……君の過労が気になってな。\n右腕に倒れられては困る。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Làm việc từ trưa đến giờ không ngơi nghỉ thì hiệu suất cũng giảm sút thôi. Đã đến lúc cậu nên xả hơi chút rồi đấy.",
+      "jpname": "ルーラーシップ",
+      "jptext": "昼から休みなく仕事をしていると能率も下がるだろう。\nそろそろ息抜きをすべきだね。",
+      "choice_data_list": [
+        "Xả hơi à. Ừm, để xem nào..."
+      ],
+      "jpchoice_data_list": [
+        "息抜きかぁ。うーん、そうだなぁ……"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "(Này, sao chẳng nghĩ ra cái gì vậy... Không lẽ cậu ta quên béng luôn cả vụ lễ hội đền rồi? Chết tiệt, ngoài dự liệu rồi...!)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（おい、なんで思い当たらない……まさか縁日自体を忘れている？\nく、予想外だ……！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Rulership cứ nhìn chằm chằm vào tôi với vẻ mặt đầy bất mãn. Và rồi tôi chợt nảy ra một ý.",
+      "jpname": "モノローグ",
+      "jptext": "ルーラーシップは不満げな顔で見つめてくる。\nと、そこで思いつく。",
+      "choice_data_list": [
+        "Có phải em đang tìm đối thủ chơi game cùng không?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、ゲームの対戦相手を探してた？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Không phải chuyện đó... nghĩ theo lẽ thường tình hơn đi xem nào! Tại sao lại không hiểu ra chứ...!",
+      "jpname": "ルーラーシップ",
+      "jptext": "そうではなく……もっと順当に考えろ！\nなぜ、わからないっ……！",
+      "choice_data_list": [
+        "Ơ, ơ kìa...!?"
+      ],
+      "jpchoice_data_list": [
+        "え、ええと……！？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Này, lúc ban ngày ấy... cái lúc chúng ta tập luyện ấy. Cậu không nhớ có điều gì đáng bận tâm sao?",
+      "jpname": "ルーラーシップ",
+      "jptext": "ほら、昼間の……トレーニングをしていた時だ。\nなにか気になることはなかったか？",
+      "choice_data_list": [
+        "Tập luyện á? Em bị thương... đâu phải chứ nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "トレーニング？ケガ……じゃないよね？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Grừ............!",
+      "jpname": "ルーラーシップ",
+      "jptext": "～～～っ…………！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hừ... hahaha... Đó là gì thế? Kỹ năng nội tại của cậu à? Kiểu như không bắn trúng thẳng mặt thì hoàn toàn không nhận sát thương (no damage) ấy sao?",
+      "jpname": "ルーラーシップ",
+      "jptext": "ふ……ははは……それはなにか？　君の固有アビリティかい？\n真正面から撃たなきゃノーダメ、とかそういうやつ？",
+      "choice_data_list": [
+        "(...?)"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Aaaaaa! Bực mình quá đi mất! L-Ễ H-Ộ-I Đ-Ề-N!",
+      "jpname": "ルーラーシップ",
+      "jptext": "だあぁぁーーーっ！　もうっ！\nえーーーんーーーにーーーちーーーっ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Lễ hội đền! Tôi đang bảo là cùng đi lễ hội đền đấy! ĐỒ NGỐC KIA!!",
+      "jpname": "ルーラーシップ",
+      "jptext": "縁日！　行こうって言ってんだよ！\nバカーーーっ！！",
+      "choice_data_list": [
+        "Hả, hảảả! Sao tự dưng lại...!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、えええ！なんでまた……！？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "S-Sao là sao chứ...!",
+      "jpname": "ルーラーシップ",
+      "jptext": "な、なんでって……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Phải có lý do mới được à...? Cậu chỉ hứng thú với cách chạy và trình chơi game của tôi thôi sao...?",
+      "jpname": "ルーラーシップ",
+      "jptext": "理由なきゃ、ダメぇ……？\n君、俺の走りとかプレイングにしか興味ないの……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Đâu nhất thiết phải là lễ hội đền... chẳng qua là muốn có kỷ niệm... trước khi nói tới tập huấn thì đây là kỳ nghỉ hè cơ mà...! Trainer đi cùng em đi mààà! Nhaaa!",
+      "jpname": "ルーラーシップ",
+      "jptext": "別に縁日じゃなくても……思い出っていうか……\n合宿以前に夏休みじゃん……！　一緒に行こうよぉ！　ねえぇ～！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi ngớ người trước những lời ngoài dự đoán đó. Cứ ngỡ là em ấy chẳng có chút hứng thú nào. Nếu đã vậy thì...",
+      "jpname": "モノローグ",
+      "jptext": "予想外の言葉にあっけにとられてしまう。\nてっきり興味がないと思っていた。そういうことなら……。",
+      "choice_data_list": [
+        "Em cứ nói thẳng ra có phải hơn không!"
+      ],
+      "jpchoice_data_list": [
+        "言ってくれればよかったのに！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...!",
+      "jpname": "ルーラーシップ",
+      "jptext": "……っ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế là tôi gập laptop lại và cùng em ấy tới lễ hội đền! Còn Rulership thì...!",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、パソコンを閉じて縁日へやって来た！\nルーラーシップはというと……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ồ, đúng chuẩn không khí mùa hè rồi đấy...",
+      "jpname": "ルーラーシップ",
+      "jptext": "おぉ、いかにも夏って感じだな……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thấy dáng vẻ vui mừng của em ấy, tôi bất giác mỉm cười. Thế nhưng Rulership trông vẫn có chút ngượng ngùng bối rối.",
+      "jpname": "モノローグ",
+      "jptext": "嬉しそうな彼女の姿に、つい笑みがこぼれる。\nが、ルーラーシップはまだ少しバツが悪そうだった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Đi thế này có thật sự ổn không đấy? Chẳng phải cậu đang bận làm việc sao.",
+      "jpname": "ルーラーシップ",
+      "jptext": "本当によかったのか？\n君は仕事中だったのだろう。",
+      "choice_data_list": [
+        "Được chứ, đương nhiên rồi!",
+        "Được chứ, đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、もちろん！",
+        "うん、もちろん！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Thật là... đúng là điểm mù mà.",
+      "jpname": "ルーラーシップ",
+      "jptext": "まったく…………盲点だったな。",
+      "choice_data_list": [
+        "Điểm mù á?"
+      ],
+      "jpchoice_data_list": [
+        "盲点？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Thứ cần thiết không phải là \"mưu kế\". Vì cậu là người cùng phe với ta, nên điều cần làm phải là \"chia sẻ kế hoạch tác chiến\" mới đúng.",
+      "jpname": "ルーラーシップ",
+      "jptext": "必要なのは『策』ではなかった。\n君はこちら陣営なのだから、すべきは『作戦共有』だったんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Thế mà ta toàn đi những nước cờ vô ích... Cả lần trước cũng làm ra chuyện thế kia...",
+      "jpname": "ルーラーシップ",
+      "jptext": "にもかかわらず無駄な手ばかり打って……。\nこの前だって、あんな……。",
+      "choice_data_list": [
+        "Lần trước...?"
+      ],
+      "jpchoice_data_list": [
+        "この前……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nghe vậy, tôi chợt nhớ lại chuyện mấy hôm trước. Chẳng lẽ, không chỉ riêng hôm nay mà...",
+      "jpname": "モノローグ",
+      "jptext": "それで、ふと先日のことが思い出された。\nもしかして、今日だけではなく……。",
+      "choice_data_list": [
+        "(Chuyện lần đó cũng là như thế này sao...?)"
+      ],
+      "jpchoice_data_list": [
+        "（あれも、そういうこと……？）"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": ".........",
+      "jpname": "ルーラーシップ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Ruler, tôi có thể lắng nghe em chia sẻ nghiêm túc không?",
+        "Ruler, tôi có thể lắng nghe em chia sẻ nghiêm túc không?"
+      ],
+      "jpchoice_data_list": [
+        "ルーラー、ちゃんと聞いてもいいか？",
+        "ルーラー、ちゃんと聞いてもいい？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế là chúng tôi chuyển sang một góc yên tĩnh hơn. Tôi muốn lắng nghe và thấu hiểu trọn vẹn tâm tư của em ấy...",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、少し静かな場所へ移動することにした。\n彼女の想いをしっかり聞いて、受け止めたい……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hô... Coi như đây là buổi họp bàn chiến thuật nhé? Để xây dựng mối quan hệ thấu hiểu (rapport) sau này.",
+      "jpname": "ルーラーシップ",
+      "jptext": "ほぉ……作戦会議ということでいいのか？\n今後のラポール形成のための。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vì tôi đã không nhận ra nên mới khiến mọi chuyện rối rắm thế này. Nhưng nếu em ấy mong muốn, tôi rất muốn hai đứa có thể giao tiếp với nhau nhiều hơn.",
+      "jpname": "モノローグ",
+      "jptext": "自分が気づいてあげられなかったせいで、拗らせてしまった。\nけれど、彼女が望むならもっとコミュニケーションを取りたい。",
+      "choice_data_list": [
+        "Dù chẳng có việc gì thì lúc nào em cũng cứ gọi tôi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "用なんかなくても、いつでも声かけて！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...Cậu thực sự nghĩ thế đấy à?",
+      "jpname": "ルーラーシップ",
+      "jptext": "……本当に思ってる？　それ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Chẳng phải vì là Umamusume mình phụ trách nên mới bất đắc dĩ chiều theo đấy chứ? Không phải trong bụng đang nghĩ \"cô bé này phiền phức quá đi\" sao?",
+      "jpname": "ルーラーシップ",
+      "jptext": "担当ウマ娘だから、仕方なく付き合ってるんじゃないですかぁ？\n『こいつめんどくせぇ～』って思ってません？",
+      "choice_data_list": [
+        "Đó cũng là một phần con người em mà.",
+        "Đó cũng là một phần con người em mà."
+      ],
+      "jpchoice_data_list": [
+        "それも含めて君だし",
+        "それも含めて貴方だし"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hả... nói thế tức là vẫn thấy phiền phức chứ gì... Thế thì hỏng bét rồi...! Aaaa, thật ra trong lòng đang ghét bỏ em chứ gì!",
+      "jpname": "ルーラーシップ",
+      "jptext": "えっ……それって、やっぱウザいんじゃ……\nダメじゃん……！　あぁ～～あ～～本当は嫌なんだぁ～～～！",
+      "choice_data_list": [
+        "Không phiền chút nào và tôi cũng không hề ghét đâu."
+      ],
+      "jpchoice_data_list": [
+        "ウザくないし嫌じゃない"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đó mới chính là một cô nàng Umamusume mang tên Rulership. Tôi bộc bạch rằng mình đã sẵn sàng đồng hành cùng em ấy đến bất cứ chân trời góc bể nào.",
+      "jpname": "モノローグ",
+      "jptext": "それがルーラーシップというウマ娘だ。\nどこまでも付き合う覚悟はできている、と伝えた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Làm vậy thì có lợi ích gì cho cậu chứ... Khoan, là vì những bước chạy sao... T-Thì ra là cậu say đắm mê mẩn tài năng của ta chứ gì... Cậu thật là...",
+      "jpname": "ルーラーシップ",
+      "jptext": "そんなの、君になんのメリットが……って、走り……か。\nお、俺の才能にベタ惚れだもんなぁ～？　君は……。",
+      "choice_data_list": [
+        "Đúng vậy đấy!"
+      ],
+      "jpchoice_data_list": [
+        "そうとも！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "...! T-Thì, một Umamusume tầm cỡ như ta đâu phải dễ tìm.",
+      "jpname": "ルーラーシップ",
+      "jptext": "っ…………！\nま、まぁ俺ほどのウマ娘は、そうそういないからな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Dù có bị xoay như chong chóng một chút thì cũng không nỡ rời xa chứ gì. Nếu lý do là như thế thì kể ra cũng hợp tình hợp lý.",
+      "jpname": "ルーラーシップ",
+      "jptext": "多少振り回されても離れられない、というわけか。\nそういうことであれば、まぁ筋は通っている。",
+      "choice_data_list": [
+        "Đúng thế, chuẩn luôn!"
+      ],
+      "jpchoice_data_list": [
+        "そうそう！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hừm... được thôi. Quyết tâm đó của cậu, ta xin nhận lấy. Nếu vậy thì hãy đồng hành cùng ta đến bất cứ nơi đâu nhé.",
+      "jpname": "ルーラーシップ",
+      "jptext": "フン……いいだろう。その覚悟、受け取った。\nならば、どこまでも付き合ってもらおうか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Trên bàn cờ do những cuộc đua của ta dệt nên... cho tới tận tàn cuộc cuối cùng!",
+      "jpname": "ルーラーシップ",
+      "jptext": "俺のレースが織りなす盤面……その終局までな！",
+      "choice_data_list": [
+        "(May quá! Em ấy đã lấy lại phong độ rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（よかった！復活してくれた！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Quả thực Rulership là một Umamusume rất khó chiều... Nhưng những lời em ấy nói chẳng hề, phải nói là hoàn toàn không sai chút nào...",
+      "jpname": "モノローグ",
+      "jptext": "やはりルーラーシップは難しいウマ娘だ……。\nだが彼女の言葉はあながち、いや全然、間違いではない――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Vậy cuộc họp bàn chiến thuật đến đây là kết thúc. Chúng ta đã đạt được sự đồng thuận (consensus) rồi. Cậu cũng... những lúc muốn gặp tôi thì cứ việc nói thẳng ra, không cần phải ngại.",
+      "jpname": "ルーラーシップ",
+      "jptext": "では、作戦会議は以上だな。コンセンサスは取れた。\n君も……俺に会いたい時は遠慮せずに言うがいい。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Bởi vì đối với một cánh tay phải tài ba của ta, ta sẵn lòng dành chút thời gian cho cậu mà. Rõ chưa đấy?",
+      "jpname": "ルーラーシップ",
+      "jptext": "有能なる右腕のためならば、\n時間を捻出するのはやぶさかではないからな。わかったな？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Bởi lẽ việc tôi bị mê hoặc bởi những bước chạy của em ấy, là một sự thật không thể chối cãi!",
+      "jpname": "モノローグ",
+      "jptext": "――自分が彼女の走りに魅せられているのは、\n紛れもない事実なのだから！",
+      "choice_data_list": []
+    }
+  ]
+}

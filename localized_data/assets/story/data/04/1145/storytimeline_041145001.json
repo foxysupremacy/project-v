@@ -1,0 +1,484 @@
+{
+  "title": "Kỳ Tài Board Game",
+  "jptitle": "稀代のボードゲーマー",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Groove",
+      "text": "Cái đứa ngốc này...!",
+      "jpname": "エアグルーヴ",
+      "jptext": "あんの、たわけがッ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng quát tháo vang vọng khắp sân tập.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニング場に、怒声が響き渡った。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vừa hết giờ học là về ngay rồi sao!? Đã dặn dò kỹ càng là hôm nay nhất định phải đến rồi mà..., Rốt cuộc định trốn tập đến bao giờ nữa hả!",
+      "jpname": "エアグルーヴ",
+      "jptext": "授業が終わってすぐ帰っただと！？　今日こそは来いとあれだけ\n言い含めたというのに……ッ、いつまでサボり続けるつもりだ！",
+      "choice_data_list": [
+        "(Hình như... có học sinh nào đó đang gây chuyện sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（なんか……困った生徒がいるのかな？）"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Thật là làm người ta mệt mỏi... Aizz, giá như lúc còn ở cấp cơ sở mình để ý sát sao hơn một chút để nó lớn lên chăm chỉ hơn thì có phải tốt rồi không...",
+      "jpname": "エアグルーヴ",
+      "jptext": "まったく手のかかる……ああ、せめてもう少し勤勉に育つよう、\nスクール生のうちに目をかけてやっていればよかっただろうか……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Người đang ôm đầu thở dài là Air Groove-san――đúng tầm vóc Phó Chủ tịch Hội Học sinh, tính cách tuy nghiêm khắc nhưng lại cực kỳ biết chăm sóc người khác.",
+      "jpname": "モノローグ",
+      "jptext": "頭を抱えているのは、エアグルーヴ――生徒会副会長を\n務めるだけあって、厳しくも面倒見のいい人柄が滲み出ている。",
+      "choice_data_list": [
+        "(Có vẻ vất vả thật đấy...)"
+      ],
+      "jpchoice_data_list": [
+        "（大変そうだなぁ……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đêm xuống――Trở về phòng mình, tôi bật máy tính lên để chơi game ngay lập tức. Món khoái khẩu gần đây của tôi là bộ môn Reversi",
+      "jpname": "モノローグ",
+      "jptext": "夜――自室に帰ってすぐ、ゲームをするべくパソコンを立ち上げる。\n最近ハマっているのは、ボードゲームのリバーシだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù là một trò chơi cổ điển đơn giản, nhưng các trận đấu online lại cực kỳ kịch tính. Nguyên nhân là vì――",
+      "jpname": "モノローグ",
+      "jptext": "シンプルな古典ゲームではあるが、オンライン対戦がかなりアツい。\nというのも――",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "\"Vất vả rồi, nghe thấy tiếng tôi chứ? ――Ừm, vậy bắt đầu thôi nhỉ\"",
+      "jpname": "？？？",
+      "jptext": "『お疲れ、音聞こえるか？\n――ん、それじゃ始めようか』",
+      "choice_data_list": [
+        "domi-san, hôm nay cũng nhờ domi-san giúp đỡ nhé."
+      ],
+      "jpchoice_data_list": [
+        "domiさん、今日もよろしくお願いします"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bởi vì đây cũng là nơi tôi giao lưu với \"dominare\"-san――hay còn gọi là domi-san, một cao thủ sở hữu sức mạnh vô địch trong cộng đồng game online.",
+      "jpname": "モノローグ",
+      "jptext": "オンゲ界隈で無類の強さを誇っている玄人プレイヤー、\n『dominare』さん――domiさんとの交流の場でもあるからだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Hôm nay thế nào đây? 8x8 cũng được nhưng... hình như cũng đến lúc cậu thử sức với bàn 10x10 rồi đấy nhỉ?",
+      "jpname": "dominare",
+      "jptext": "今日はどうする？　8×8でもいいが……そろそろ君も\n10×10にチャレンジしていい頃合いじゃないか？",
+      "choice_data_list": [
+        "\"Ây chà... Tôi cảm thấy rào cản vẫn còn cao lắm\""
+      ],
+      "jpchoice_data_list": [
+        "『いやぁ……まだハードル高い気がしてて』"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "Haha, thế sao? Mà đúng thật, Reversi 10x10 thêm ô bàn cờ nên độ khó chiến thuật tăng lên đáng kể đấy.",
+      "jpname": "dominare",
+      "jptext": "ハハッ、そうか？　まあ確かに、10×10のリバーシは\nマスが増える分、戦術難度がかなり上がるからなぁ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Thế thì hôm nay cứ chiến hết mình trên bàn 8x8 nhé. Cậu đã mạnh lên đến mức nào rồi... Tôi đang rất mong chờ đấy?",
+      "jpname": "dominare",
+      "jptext": "それじゃ、今日は8×8でがっつりやろう。\n君がどれくらい強くなってるか……期待しているぞ？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "domi-san là người chơi mà tôi vô cùng ngưỡng mộ. Dù có duyên nên thường xuyên vừa gọi điện vừa đấu cờ cùng nhau, tôi vẫn không ngừng thán phục tay nghề kiệt xuất của người này.",
+      "jpname": "モノローグ",
+      "jptext": "domiさんは憧れのプレイヤーだ。縁あって度々対戦通話をする\n仲になれたものの、この人の傑出した腕前には憧れ続けている。",
+      "choice_data_list": [
+        "\"Tôi sẽ dốc hết sức để có một trận đấu thật tốt\""
+      ],
+      "jpchoice_data_list": [
+        "『全力でいきます、いい勝負になるように』"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cốt lõi của Reversi chính là \"Bốn Góc\"! Tôi dồn toàn lực thực hành mẫu \"Cách chiếm góc\" đã học thuộc lòng trong mấy ngày qua――",
+      "jpname": "モノローグ",
+      "jptext": "リバーシは『隅』が命！　ここ数日で頭に叩き込んだ、\n“隅の獲り方”のパターンを実践することに全力を注ぎ――",
+      "choice_data_list": [
+        "Góc thứ hai, tôi xin phép nhận lấy nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ふたつ目の隅、いただきます"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "\"Ồ... nước đi khá đấy. Học hành kỹ càng rồi đấy\"",
+      "jpname": "dominare",
+      "jptext": "『ほう……なかなかの手筋だ。よく勉強してきている』",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "\"――――Nhưng, còn non lắm\"",
+      "jpname": "dominare",
+      "jptext": "『――――が、甘いな』",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Trong lúc cậu miệt mài dốc sức chiếm bốn góc, cậu nghĩ tôi đã làm gì?",
+      "jpname": "dominare",
+      "jptext": "君が四隅を獲ることに腐心している間に、\n俺はなにをしていたと思う？",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Tôi đã chặn đứng đường lui của cậu rồi đấy.",
+      "jpname": "dominare",
+      "jptext": "君の退路を断っていたのさ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nghĩa là sao cơ chứ... Chưa thể hiểu ngay lập tức, tôi chăm chăm nhìn vào bàn cờ. ――Và rồi, đột nhiên nhận ra.",
+      "jpname": "モノローグ",
+      "jptext": "どういう意味だろう……すぐには理解できず、盤面を見つめる。\n――そして、不意に気づいた。",
+      "choice_data_list": [
+        "Chỉ còn lại những ô cờ chí mạng... Cầm chắc phần thua rồi!"
+      ],
+      "jpchoice_data_list": [
+        "致命的なマスしか残ってない……負け確だ！"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "Đúng thế, cậu đã quá cố chấp với việc \"chiếm bốn góc\". Thế nên cậu mới không nhận ra việc tôi liên tục thu hẹp các lựa chọn của cậu.",
+      "jpname": "dominare",
+      "jptext": "そう、君は“四隅を獲る”ことに固執しすぎた。\nだから俺が君の選択肢を絞り続けてきたことに気づけなかったんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Quá chăm chăm vào cái lợi trước mắt sẽ làm mờ mắt khỏi cái nhìn toàn cục. Thiên kiến tập trung――một thiên kiến nhận thức điển hình đấy.",
+      "jpname": "dominare",
+      "jptext": "目先の利益に囚われすぎれば、盤面を見渡す目が曇る。\nフォーカシング・イリュージョン――典型的な認知バイアスだな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Đừng bị trói buộc bởi khuôn mẫu. Đừng bị mê hoặc bởi cái lợi của một nước đi. Thao túng toàn bộ bàn cờ――đó mới chính là tinh hoa của board game.",
+      "jpname": "dominare",
+      "jptext": "パターンに縛られるな。一手の利益に惑わされるな。\n盤面全体を支配する――それこそボードゲームの真髄だ。",
+      "choice_data_list": [
+        "T-Tôi xin hàng...!"
+      ],
+      "jpchoice_data_list": [
+        "ま、参りました……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thua tâm phục khẩu phục. Không ngờ mình lại bị đánh bại một cách đẹp mắt đến thế này...",
+      "jpname": "モノローグ",
+      "jptext": "完敗だ。こんなにも鮮やかに打ち負かされるなんて……。",
+      "choice_data_list": [
+        "\"domi-san giỏi thật đấy... Hâm mộ thật sự\""
+      ],
+      "jpchoice_data_list": [
+        "『domiさんはすごいなぁ……憧れます』"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "Haha, cậu nói làm tôi vui đấy. Nhưng tốc độ tiến bộ của cậu cũng không phải dạng vừa đâu. Hôm nay đấu cũng khá đã tay.",
+      "jpname": "dominare",
+      "jptext": "ハハッ、嬉しいことを言ってくれる。だが君の上達速度も\nなかなかのものだよ。今日も結構歯ごたえがあった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "dominare",
+      "text": "Bàn 10x10 chắc cậu cũng sớm quen thôi, mà có khi học thêm mấy môn board game khác cũng được đấy chứ? Chơi cờ vua hay game thẻ bài với cậu chắc cũng vui lắm.",
+      "jpname": "dominare",
+      "jptext": "10×10もすぐ慣れるだろうし、他のボドゲも覚えられるんじゃ\nないか？　君とチェスやカードゲームをやるのも楽しそうだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Điều đáng sợ là domi-san am hiểu đủ thể loại game, từ board game cổ điển cho tới những trò mới nhất. Là một người hâm mộ người này, tôi cảm thấy――",
+      "jpname": "モノローグ",
+      "jptext": "domiさんは恐ろしいことに、古典的なボードゲームから最新の\nものまで、様々なゲームに明るい。この人に憧れる身としては――",
+      "choice_data_list": [
+        "\"Tôi cũng muốn chơi thử xem sao...\""
+      ],
+      "jpchoice_data_list": [
+        "『ちょっとやってみたいかも……』"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "Ồ, hứng thú sao? Lúc nào tôi cũng sẵn sàng chỉ cho. Gom người online chơi Ma Sói hay game chiếm lãnh thổ cũng hay đấy.",
+      "jpname": "dominare",
+      "jptext": "おっ、興味あるか？　いつでも教えてやるぞ。オンラインで\n人数募って、人狼系とか陣取りゲーとかやるのもいいかもな。",
+      "choice_data_list": [
+        "\"Nhất định rồi ạ!\""
+      ],
+      "jpchoice_data_list": [
+        "『ぜひ！』"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "\"――À mà, cũng muộn rồi nhỉ. Hôm nay dừng ở đây thôi. Lần tới thử đấu một trận ra trò trên bàn 10x10 nhé\"",
+      "jpname": "dominare",
+      "jptext": "『――と、もういい時間だな。今日はお開きにするか。\n次は10×10でがっつり対戦してみよう』",
+      "choice_data_list": [
+        "Cảm ơn domi-san. Lần tới là khi nào ạ?"
+      ],
+      "jpchoice_data_list": [
+        "ありがとうございます。次はいつにします？"
+      ]
+    },
+    {
+      "name": "dominare",
+      "text": "\"Tôi lúc nào cũng rảnh, tùy cậu thôi. Dù sao cũng là online, khi nào hứng lên cứ nhắn cho tôi là OK\"",
+      "jpname": "dominare",
+      "jptext": "『俺はいつでもいいよ、君に合わせる。\n基本オンラインだし、気が向いた時に凸ってくれてOK』",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hẹn gặp lại vào cuối tuần, buổi giao lưu hôm đó kết thúc.",
+      "jpname": "モノローグ",
+      "jptext": "次は週末に、と約束して、その日はお開きになった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vừa vừa phải phải thôi, mau bước ra đây, đồ ngốc này!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "いい加減出てこい、このたわけっ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Một buổi chiều nọ. Mới nghe thấy tiếng quát của Air Groove-san, tôi bất giác khựng bước chân lại. ...Sao nghe quen quen như từng trải qua rồi vậy.",
+      "jpname": "モノローグ",
+      "jptext": "ある日の午後。エアグルーヴの怒声が聞こえて、思わず足を止める。\n……なんだかデジャヴだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ruler! Này, trả lời đi Ruler! Có nghe thấy không! Có tỉnh chưa đó!?",
+      "jpname": "エアグルーヴ",
+      "jptext": "ルーラー！　おい、返事をしろルーラー！\n聞こえているのか！　起きているのか！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ở góc khu nhà các phòng câu lạc bộ, cô ấy đang đập cửa một căn phòng nhỏ cũ kỹ một cách dữ dội. Chẳng lẽ... học sinh rắc rối dạo nọ đang cố thủ ở bên trong...?",
+      "jpname": "モノローグ",
+      "jptext": "部室が並ぶ区画の隅、古く小さな一棟のドアを激しく叩いている。\nもしや、例の困った生徒が中に立てこもっているのか……？",
+      "choice_data_list": [
+        "...Có chuyện gì thế Air Groove-san, em không sao chứ?",
+        "...Có chuyện gì thế Air Groove-san, em không sao chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……どうした、大丈夫か？",
+        "……どうしたの、大丈夫？"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hừm. Cậu là... Trainer à. Còn chuyện gì nữa chứ, Rulership... cái đứa lười biếng ngốc nghếch đó lại lấy nơi này làm sào huyệt rồi trốn chui trốn lủi bên trong rồi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "む。お前は……トレーナーか。どうもこうもルーラーが……\nサボり魔のたわけが、ここを根城にして籠もっているんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dù là phòng CLB cũ không dùng tới, nhưng tự ý lấy làm sào huyệt đã là một vấn đề rồi...",
+      "jpname": "エアグルーヴ",
+      "jptext": "いくら使われていない古い部室だからといって、\n勝手に根城にしているのも問題だが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đã dặn dò bao nhiêu lần là hôm nay nhất định phải ra sân tập rồi mà, không những bùng kèo mà còn chẳng thèm trả lời lấy một tiếng, cái đứa này thật là!",
+      "jpname": "エアグルーヴ",
+      "jptext": "今日こそトレーニングに出ろとあれだけ言い含めたというのに、\nすっぽかすどころか返事もせんのだ、あいつは！",
+      "choice_data_list": [
+        "Chuyện đó... nghe căng nhỉ.",
+        "Chuyện đó... nghe căng nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "それは……ちょっと心配だな",
+        "それは……ちょっと心配だね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu chỉ là cố tình ngó lơ hay ngủ quên thì còn đỡ, chứ nhỡ em ấy bị mệt rồi ngất xỉu bên trong... thì nguy mất.",
+      "jpname": "モノローグ",
+      "jptext": "ただ無視しているとか寝ているとかならまだいいが、\nもし体調を崩して倒れていて……なんてことになっていたら事だ。",
+      "choice_data_list": [
+        "Hay là em thử gọi LANE xem sao?"
+      ],
+      "jpchoice_data_list": [
+        "LANE通話でもかけてみたら？"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cũng phải... Nếu nó đang ngủ mê ngủ hăng thì phải đập cho tỉnh.",
+      "jpname": "エアグルーヴ",
+      "jptext": "そうだな……眠りこけているというならば、叩き起こしてやる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "(Tèeeeeeeee――bụp!)",
+      "jpname": "モノローグ",
+      "jptext": "（プルルルルルルルルルル――ブツンッ！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "!! Cái đứa này, nó cúp máy rồi...!? ――Hả, tin nhắn LANE...?",
+      "jpname": "エアグルーヴ",
+      "jptext": "！！　あいつっ、切ったな……！？\n――む、LANE？　………………。",
+      "choice_data_list": [
+        "Sao thế? Tin nhắn LANE từ em ấy à?",
+        "Sao thế? Tin nhắn LANE từ em ấy à?"
+      ],
+      "jpchoice_data_list": [
+        "どうした？その娘からLANEか？",
+        "どうしたの？その娘からLANE？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Ồn ào quá đấy ạ\" \"Giờ em đang bận chơi game online rồi\" \"Em sẽ trốn trong này cho tới tận ngày kia\"",
+      "jpname": "モノローグ",
+      "jptext": "『うるさいです』『今オンゲで忙しい』\n『明後日まで籠もるんで』",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng là trốn học một cách quang minh chính đại... Trốn tận 3 ngày liền thì quả thực không thể khoanh tay đứng nhìn được.",
+      "jpname": "モノローグ",
+      "jptext": "堂々としたサボりだ……。\n3日も籠もるというのは、さすがに捨て置けない。",
+      "choice_data_list": [
+        "Có cách nào làm cho em ấy chịu bước ra ngoài không nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "どうにかして出てこさせられないかな？"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ừm... Đã thế này thì phải dùng biện pháp mạnh thôi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ああ……こうなれば、強硬手段だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, thứ mà Air Groove-san rút ra từ trong túi chính là――chìa khóa phòng CLB!! Quyền hạn của Phó Chủ tịch Hội Học sinh lúc này tỏa sáng rực rỡ...!",
+      "jpname": "モノローグ",
+      "jptext": "そう言ってエアグルーヴがポケットから取り出したのは――\n部室の鍵だった！！　生徒会副会長の権限がここで光る……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hôm nay tôi quyết không tha cho em nữa!! Chẳng qua từ trước đến nay tôi chỉ nương tay với em thôi!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "今日という今日はもう許さん！！\n今までは温情をかけてやったにすぎん！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "KHÔNG!?!",
+      "jpname": "？？？",
+      "jptext": "ひぎゃあ！？！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove & ???",
+      "text": "\"Mau bước ra đây, đồ ngốc này!\"\"Sao lại thếếế!? Chìa khóa đâu ra đấy!?\" \"Hôm nay bắt buộc em phải chạy!\"\"Ơ kìa, ối ối――\"",
+      "jpname": "エアグルーヴ＆？？？",
+      "jptext": "『出てこい、このたわけが！』『なんでぇ！？　鍵は！？』\n『今日こそ走ってもらうぞ！！』『あちょっ、うわあっ――』",
+      "choice_data_list": [
+        "(――Ơ?)"
+      ],
+      "jpchoice_data_list": [
+        "（――あれ？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giọng nói lọt ra bên ngoài――đột nhiên làm tôi cảm thấy có chút quen thuộc.",
+      "jpname": "モノローグ",
+      "jptext": "漏れ聞こえてくる声に――ふと、どこか覚えがあるように感じる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "K-Khoan đã, thả em ra đi Air Groove-san! Đã bảo hôm nay em phải giải quyết nốt đống game tồn đọng màaaa!!",
+      "jpname": "？？？",
+      "jptext": "ちょ待っ、放してくださいよエアグルーヴサン！\n今日はがっつり積みゲー崩したいんだってぇ～～！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Không chỉ dừng ở mức quen thuộc. Giọng nói này, tuần nào mình cũng nghe thấy...!",
+      "jpname": "モノローグ",
+      "jptext": "覚え……どころじゃない。この声、自分はほぼ毎週聞いている……！",
+      "choice_data_list": [
+        "À, ừm..."
+      ],
+      "jpchoice_data_list": [
+        "あ、あの……"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Hảaa? Ai đấy, cậu là...",
+      "jpname": "？？？",
+      "jptext": "んぇ？　誰、君……。",
+      "choice_data_list": [
+        "Chẳng lẽ lại là... \"dominare\"-san?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして……『dominare』さん？"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "――――――Hả?",
+      "jpname": "？？？",
+      "jptext": "――――――え？",
+      "choice_data_list": []
+    }
+  ]
+}

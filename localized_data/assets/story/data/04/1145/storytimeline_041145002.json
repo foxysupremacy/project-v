@@ -1,0 +1,465 @@
+{
+  "title": "Nỗi Muộn Phiền Của Chiến Thuật Gia",
+  "jptitle": "戦術家の憂い",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Thần tượng board game mà tôi hằng ngưỡng mộ, \"dominare\"-san, hóa ra lại chính là học sinh cá biệt khiến cả Air Groove-san cũng phải bó tay――Rulership!!",
+      "jpname": "モノローグ",
+      "jptext": "憧れのボドゲプレイヤー『dominare』さんの正体は、\nエアグルーヴも手を焼く問題児・ルーラーシップだった！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "……………………",
+      "jpname": "ルーラーシップ",
+      "jptext": "……………………。",
+      "choice_data_list": [
+        "Cảm ơn em vì đã luôn chiếu cố tôi trên game online nhé..."
+      ],
+      "jpchoice_data_list": [
+        "いつもオンゲでお世話になってます……"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "…………Đúng thế. Chính tôi mới là \"dominare\"-san, người mà cậu hằng ngưỡng mộ…… Hả, ơ là cậu sao? Trainer ở đây á? ……Thật đấy à?",
+      "jpname": "ルーラーシップ",
+      "jptext": "…………そうだ。俺こそが『dominare』さんだ、君の憧れの……\nえ、あれ君なの？　ココのトレーナー？　……マジ？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hahaha, ngại quá nhỉ. Tự dưng lại làm vỡ mộng của cậu dù cậu hằng hâm mộ tôi đến thế. Hahahaha――………………Tôi về đây.",
+      "jpname": "ルーラーシップ",
+      "jptext": "ハハハ、悪いね。せっかく憧れてくれてたのに、\n夢を壊してしまった。いやぁハハ――………………帰る。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đừng có mơ!",
+      "jpname": "エアグルーヴ",
+      "jptext": "させん！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "――Tch, không muốn đâu! Cho tôi về đi! Đã làm màu ra vẻ ngầu đét như thế rồi mà giờ lại thế này trông chẳng khác nào kẻ ngốc sao! Tệ hại hết sức!",
+      "jpname": "ルーラーシップ",
+      "jptext": "――ッ、いやだ！　帰らせてくれ！\n散々カッコつけといてこんなのバカみたいじゃないか！　最悪だ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đừng có nói mấy lời vớ vẩn nữa, xóc lại tinh thần rồi đứng thẳng dậy mau!",
+      "jpname": "エアグルーヴ",
+      "jptext": "わけのわからんことを言ってないで、シャキッと立て！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hôm nay bằng mọi giá em phải hoàn thành bổn phận của một học sinh Học viện Tracen đấy!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "今日という今日は、\nトレセン学園生としての本分を全うしてもらうぞ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hahaa, đua tuyển chọn sao…… Chị tự ý đăng ký cho tôi đấy à? Có chút độc đoán quá rồi đấy nhé, Air Groove-san.",
+      "jpname": "ルーラーシップ",
+      "jptext": "ははぁ、選抜レースですか……勝手に登録したんですか？\nちょっと横暴じゃないですかねぇ、エアグルーヴサン。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Không làm đến mức này thì làm sao em chịu chạy hả! Sắp đến giờ vào cổng xuất phát rồi, mau lên!",
+      "jpname": "エアグルーヴ",
+      "jptext": "このくらいしなければ走ろうとせんだろう、お前は！\nもうすぐゲート入りだ、さっさと行け！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Rồi rồi, tôi biết rồi. ……À, ừm, người kia. Chuyện lúc nãy cậu quên đi nhé, gọi là sao nhỉ, lúc đó tôi mới ngủ dậy thôi.",
+      "jpname": "ルーラーシップ",
+      "jptext": "はいはい、わかりましたよ。……あー、それで、君。\nさっきのアレは忘れてくれ、なんというか寝起きだったんだよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Nhưng giờ thì mắt tôi đã tỉnh táo hoàn toàn rồi! Hãy chống mắt lên mà xem chiến thuật hoa mỹ của tôi bộc lộ tuyệt vời thế nào ngay cả trên đường chạy nhé.",
+      "jpname": "ルーラーシップ",
+      "jptext": "だが、もう目は冴えた！　俺の華麗なる戦術は\nレースにおいても発揮されることを見せてあげよう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Rulership tràn đầy tự tin tiến vào cổng xuất phát một cách đường đường chính chính, rồi lướt đi vô cùng hiên ngang――――",
+      "jpname": "モノローグ",
+      "jptext": "自信満々のルーラーシップは\n堂々とゲートインし、颯爽と――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "――VÀ KHÔNG XUẤT PHÁT! Em ấy bị trễ nhịp xuất phát một cách hoành tráng!!",
+      "jpname": "モノローグ",
+      "jptext": "――出ない！　盛大に出遅れた！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Chậc, sơ suất quá rồi…….",
+      "jpname": "ルーラーシップ",
+      "jptext": "チッ、不覚を取ったな……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Nhưng cỡ này thì chẳng ăn thua gì đâu. Xét theo dàn đối thủ thì chắc cũng chẳng có ai chơi trò bứt phá dẫn đầu quá xa đâu…… Ùm, mọi chuyện vẫn đang diễn ra đúng chuẩn sách giáo khoa đấy.)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（だが、この程度ロスにもならない。面子的に\n大逃げの手を打つ奴もいないだろう……うん、定跡通りの進展だな）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Chà chà số 13, ra chiêu sớm đấy nhỉ, định tạo đột biến làm loạn cục diện sao? Nhưng với thế cờ này…… chỉ cần từ khúc ngoặt thứ 4 là thừa sức lật ngược bàn cờ!)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（おっと13番、仕掛けが早いな、強襲で展開を乱すつもりか？\nだがこの盤面なら……第4コーナーからで十分ひっくり返せる！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "(Nếu muốn All-in thì――chính là lúc này!)",
+      "jpname": "ルーラーシップ",
+      "jptext": "（オールインするなら――ここだ！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ở đoạn thẳng cuối cùng, Rulership tung ra cú nước rút cực kỳ mãnh liệt! Em ấy rướn lên thần tốc, trong chớp mắt đã bắt kịp nhóm dẫn đầu……!",
+      "jpname": "モノローグ",
+      "jptext": "最終直線、ルーラーシップは猛然とスパートをかけた！\nぐんぐん伸びて、あっという間に先行勢に並びかける……！",
+      "choice_data_list": [
+        "C-Cú rướn này là……!"
+      ],
+      "jpchoice_data_list": [
+        "こ、この伸びは……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sải chân đầy năng lượng, thể lực dồi dào đến mức dù chạy vòng ngoài vẫn thấy thong dong dư dả, lực gia tốc dẻo dai và mạnh mẽ――mới ngầu làm sao…….",
+      "jpname": "モノローグ",
+      "jptext": "ダイナミックなストライド、外を回ってもなお余裕すら感じさせる\nスタミナ、長く逞しい加速力――なんて、カッコいい……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Còn 10 nước nữa, 8, 6…… Ahaha, thế cờ này, ta xin nhận lấy――――",
+      "jpname": "ルーラーシップ",
+      "jptext": "あと10手、8、6……\nアッハッハ、この盤面、もらっ――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Ơ, kìa? Ơ kìa, cái này, ――――không tới nổi.",
+      "jpname": "ルーラーシップ",
+      "jptext": "あ、れ？　ちょあ、これ、――――届かん。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Về nhất là số 13 sao! Nước rút tốt thật đấy.",
+      "jpname": "ベテラントレーナー",
+      "jptext": "1着は13番か！　いい脚だったなぁ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Bình thường đến đấy là phải bế tắc rồi chứ hả!? Đâu có ai nói là trình độ số 13 lại cao đến thế đâu hả trời!!!",
+      "jpname": "ルーラーシップ",
+      "jptext": "普通そこは手詰まりになるだろぉ！？\nそこまで練度高いなんて聞いてないって13番～～！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Rốt cuộc dùng sức mạnh thô đấm phát chết luôn mới là chân lý à? Hahaha, quê quá…… Aaaaaaaaaa muốn đào cái lỗ chui xuống quá………… Đi về thôi…….",
+      "jpname": "ルーラーシップ",
+      "jptext": "結局素のパワーで殴るのが正義ってか？　ハハッ、恥ずぅ……\nあ～～～～～～～～～な掘って埋まりたい…………つか帰ろ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cái gì, em lại nữa……! Mau xem lại video trận đấu ngay! Sau đó thì đi luyện tập!",
+      "jpname": "エアグルーヴ",
+      "jptext": "なっ、貴様また……！\nすぐレースの振り返りをしろ！　そのあとはトレーニングだ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Không muốn đâu em về đây đã hứa chỉ chạy đua thôi mà hôm nay tiệm đóng cửa nghỉ bán rồi!!!",
+      "jpname": "ルーラーシップ",
+      "jptext": "嫌です帰ります約束はレース出るだけです本日は閉店しました～！！",
+      "choice_data_list": [
+        "Kìa kìa, em chạy sát nút lắm rồi mà, cố thêm chút nữa……"
+      ],
+      "jpchoice_data_list": [
+        "まあまあ、すごく惜しかったしもう少し……"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Không! Ngay cả cậu chắc cũng đang nghĩ trong đầu là \"Quê quá đi\" chứ gì! Mặc kệ, tôi nghỉ chơi luôn cho rồi――!!",
+      "jpname": "ルーラーシップ",
+      "jptext": "やだ！　君だってどうせダッサとか思ってんだろ！\nいいもん、もうやめるからぁーーーーッ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Này, Ruler!! ――Azz, thật là…… đúng là cái đứa mệt mỏi mà…………",
+      "jpname": "エアグルーヴ",
+      "jptext": "こらっ、ルーラー！！\n――ああ、もう……まったく世話のかかる…………。",
+      "choice_data_list": [
+        "(Em ấy bỏ đi mất rồi……)"
+      ],
+      "jpchoice_data_list": [
+        "（行ってしまった……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có vẻ em ấy là kiểu người khá tốn công chăm sóc về mặt tinh thần. ……Nhưng mình cảm nhận được tiềm năng chắc chắn từ bước chạy đó.",
+      "jpname": "モノローグ",
+      "jptext": "どうも、彼女はかなり精神面で手のかかるタイプのようだ。\n……だが、走りには確かな素質を感じた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chắc chắn khi vào Twinkle Series, em ấy có thể tỏa sáng ở cấp độ GI. Em ấy sở hữu đôi chân thanh thoát vươn xa và một bộ óc tuyệt vời đến thế cơ mà.",
+      "jpname": "モノローグ",
+      "jptext": "きっとトゥインクル・シリーズでも、GⅠ級の活躍ができる。\nそれほどの伸びやかな脚と、素晴らしい頭脳も持っている。",
+      "choice_data_list": [
+        "(Chính vì thế, nên mới tiếc đấy……)"
+      ],
+      "jpchoice_data_list": [
+        "（それだけに、惜しいなぁ……）"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ruler! Mau ra đây ngay, bằng không tôi sẽ cưỡng chế―― Hả!? Cái đứa này, em……! Em chốt khóa trong luôn rồi đấy à……!?",
+      "jpname": "エアグルーヴ",
+      "jptext": "ルーラー！　いい加減出てこい、でなければ強制的に――\nあっ！？　このっ、貴様……！　内鍵をつけたな……！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Mấy ngày kể từ hôm đó――Rulership vẫn tiếp tục trốn tập. Thậm chí thái độ cố thủ trong sào huyệt trông còn ngoan cố hơn trước nữa……",
+      "jpname": "モノローグ",
+      "jptext": "あれから数日――ルーラーシップはサボり続けているようだ。\nむしろ、根城に籠もる態度がより頑なになっている気がする……。",
+      "choice_data_list": [
+        "……Còn ở trên game online thì thế nào nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "……オンゲの方は、どうなんだろう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi đăng nhập vào trang game Reversi online như mọi khi. ――Đây rồi. \"dominare\"-san vẫn chễm chệ online kìa.",
+      "jpname": "モノローグ",
+      "jptext": "いつものリバーシのオンゲにログインしてみる。\n――いた。『dominare』さんはちゃっかりオンラインだ。",
+      "choice_data_list": [
+        "\"domi-san, làm một ván không?\"…… ạ"
+      ],
+      "jpchoice_data_list": [
+        "『domiさん、対戦しませんか』……と"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Vài phút sau, khung chat nhận được phản hồi. ――――\"Cậu đã vỡ mộng về tôi rồi đúng không\"",
+      "jpname": "モノローグ",
+      "jptext": "……数分して、チャットが返ってきた。\n――――『君は俺に幻滅したんだろ』",
+      "choice_data_list": [
+        "Đ-Đang dỗi kìa……"
+      ],
+      "jpchoice_data_list": [
+        "い、いじけてる……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi không hề vỡ mộng chút nào, domi-san bây giờ vẫn là người chơi mà tôi hằng ngưỡng mộ, và tôi mở lời vì rất muốn được truyền dạy chiến thuật bàn 10x10――tôi ra sức giải thích cho em ấy hiểu――",
+      "jpname": "モノローグ",
+      "jptext": "幻滅なんてしていないしdomiさんは今も憧れのプレイヤーだし、\n10×10の戦術を教わりたくて声をかけた、と必死に伝えると――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "…………Chỉ 1 ván thôi đấy nhé.",
+      "jpname": "ルーラーシップ",
+      "jptext": "…………1戦だけな。",
+      "choice_data_list": [
+        "\"Cảm ơn em! Nhờ em chiếu cố nhé, domi-san\""
+      ],
+      "jpchoice_data_list": [
+        "『ありがとう！よろしくです、domiさん』"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù Rulership cất giọng cực kỳ hờn dỗi, nhưng rốt cuộc em ấy cũng chịu đấu cùng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "ルーラーシップは凄まじくいじけた声をしていたが、\nなんとか対戦に応じてくれた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Nào, các \"cạnh\" đang dần dần bị lấp đầy bởi quân cờ của tôi rồi đấy. Những nước đi cậu có thể thực hiện giờ chỉ còn đếm trên đầu ngón tay…… Dead end rồi!",
+      "jpname": "ルーラーシップ",
+      "jptext": "さて、どんどん“辺”が俺の石で固まってきたぞ。\nだが君の打てる手はもう限られている……デッドエンドだ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Bàn 10x10 đòi hỏi sự nhẫn nại lớn hơn ở giai đoạn đầu và giữa trận. Điều quan trọng là phải từ từ cướp đi các nước đi của đối phương.",
+      "jpname": "ルーラーシップ",
+      "jptext": "10×10は、より序中盤の忍耐が必要になってくる。\nじわじわと相手の打てる手を奪っていくことが重要なんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Càng đánh hăng tay, tâm trạng em ấy càng trở nên vô cùng vui vẻ. ……Phải chăng chỉ cần vào zone là em ấy sẽ thuộc kiểu người trở nên hăng hái hơn hẳn?",
+      "jpname": "モノローグ",
+      "jptext": "ゲームが調子づいてくるにつれて、彼女はすっかりご機嫌になった。\n……調子さえよければ、積極性が増すタイプなのだろうか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhắc mới nhớ, ngay cả ở đua tuyển chọn, trước giờ chạy hay trên đường đua em ấy cũng tỏ thái độ rất hiếu thắng. Có lẽ chỉ cần \"bàn cờ diễn ra đúng theo ý muốn\" là tâm trạng em ấy sẽ lên hương ngay.",
+      "jpname": "モノローグ",
+      "jptext": "そういえば選抜レースでも、出走前や道中は勝気な態度だった。\n“盤面が思い通りに運んで”さえいれば気分がノるのかもしれない。",
+      "choice_data_list": [
+        "Quả không hổ danh domi-san! Chiến thuật xuất sắc thật đấy!"
+      ],
+      "jpchoice_data_list": [
+        "さすがdomiさん！天晴な戦術だね！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi liên tục tâng bốc làm cho em ấy mát lòng mát dạ, đồng thời tìm cách lái câu chuyện sang chủ đề chạy đua xem sao――",
+      "jpname": "モノローグ",
+      "jptext": "ひたすらおだててご機嫌になってもらいつつ、\nそれとなくレースの話にスライドしてみよう、と試みてみると――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Hơ…… Tốt thôi. Cho đối thủ ăn nhiều quân ở giữa trận, rồi đến cuối trận mới lật ngược thế cờ một cách dồn dập――đó là nước đi cơ bản trong Reversi rồi.",
+      "jpname": "ルーラーシップ",
+      "jptext": "フッ……まあな。中盤までは相手に多く石を取らせて、\n終盤で一気に捲る――なんてのはリバーシじゃ定石だ。",
+      "choice_data_list": [
+        "Môn Cờ vua em cũng giỏi lắm đúng không!"
+      ],
+      "jpchoice_data_list": [
+        "チェスもすごく強いんだとか！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "À thì cũng tàm tạm. Tôi khá thích phản ứng của đối thủ khi bị dồn vào thế bí bởi một nước đi nghịch lý ở cuối trận. Tôi hay chơi kiểu đấy lắm.",
+      "jpname": "ルーラーシップ",
+      "jptext": "まあそこそこ。パラドキシカルな手で終盤一気に追い込んだ時の、\n相手の反応が俺は好きでね。そういうプレーが多いかな。",
+      "choice_data_list": [
+        "Môn Ma Sói em cũng đỉnh luôn đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "人狼系もやはりお強い？"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Ờ, đặc biệt là tôi rất thích đóng vai Ma Sói. Cảm giác điều khiển dòng chảy câu chuyện rồi giành chiến thắng tuyệt đối thì phải gọi là…… tuyệt đỉnh.",
+      "jpname": "ルーラーシップ",
+      "jptext": "ああ、特に人狼役をやるのは好きだ。会話の流れを\nコントロールして、完勝した時の快感と言ったら……格別だ。",
+      "choice_data_list": [
+        "Bộ óc đó mà mang ra đường đua chắc cũng bùng nổ lắm nhỉ!"
+      ],
+      "jpchoice_data_list": [
+        "その頭脳、レースでも炸裂してそうだね！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Còn phải nói, từ nhỏ tôi đã là thần đồng thông minh tuyệt đỉnh, phản xạ thần tốc rồi mà! Lần đầu tiên chạy đua tôi cũng đè bẹp đối thủ luôn đấy!",
+      "jpname": "ルーラーシップ",
+      "jptext": "そりゃあもう、俺は子どもの頃から頭脳明晰、運動神経抜群の\n秀才だったからな！　初めてのレースでも圧勝したさ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Rulership",
+      "text": "Tuy đó chỉ là đua tham gia lúc đi tham quan trường đua học viện…… nhưng tôi đã nhìn thấu chuyển động của đối thủ, lựa chọn chiến thuật hiệu quả và tung cú bứt phá vươn lên vượt mặt vô cùng hoa mỹ!",
+      "jpname": "ルーラーシップ",
+      "jptext": "レーススクールの見学時に参加したレースだったが……\n敵の動きを見極め、効果的な戦術を選択し、華麗に差し切った！",
+      "choice_data_list": [
+        "Tuyệt vời quá!"
+      ],
+      "jpchoice_data_list": [
+        "それはすごい！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Mấy video hồi tôi còn đi học ở trường cũng có đấy. Là do bố mẹ tôi quay lại…… Thôi được rồi, tôi sẽ cho cậu xem đặc biệt luôn.",
+      "jpname": "ルーラーシップ",
+      "jptext": "スクールに通ってた頃の映像もあるぞ。\n両親が撮ったものでな……君には特別に見せてやろう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Cô gái trong đoạn video――sở hữu sải chân rộng lớn, gia tốc từ từ trên một quãng đường dài rồi càn quét sạch sẽ từ phía sau, một sức mạnh bứt phá cực kỳ áp đảo.",
+      "jpname": "モノローグ",
+      "jptext": "映像の中の彼女は――飛びが大きく、長い距離をじわじわと\n加速して後方から撫で切る、圧巻の追い込み力を持っていた。",
+      "choice_data_list": [
+        "Ngầu thật đấy……!"
+      ],
+      "jpchoice_data_list": [
+        "かっこいいなあ……！"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Hơ, chứ sao nữa? Càng chạy mới càng thấy đua là một môn dùng não…… Nó mang lại niềm vui giống như chơi board game vậy. Hồi đó tôi mê mẩn việc phá đảo nó lắm――",
+      "jpname": "ルーラーシップ",
+      "jptext": "フッ、だろう？　走れば走るほど、レースってのは頭を使う……\nボドゲみたいな面白みを感じてな。攻略に夢中だったなぁ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "……Quả nhiên, em ấy sở hữu một đôi chân tuyệt vời. Nếu để tài năng này mai một đi thì thật sự quá lãng phí.",
+      "jpname": "モノローグ",
+      "jptext": "……やはり、彼女は素晴らしい脚を持っている。この才能を\n腐らせてしまうのは、あまりにもったいないのではないだろうか。",
+      "choice_data_list": [
+        "Hay là chúng ta lại cùng nhau 'phá đảo' những cuộc đua tiếp đi, chắc chắn sẽ vui lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "『またレース攻略しよう、きっと楽しいよ』"
+      ]
+    },
+    {
+      "name": "Rulership",
+      "text": "Xin khiếu nhé. Thôi, chúc ngủ ngon.",
+      "jpname": "ルーラーシップ",
+      "jptext": "お断りだな。じゃ、おやすみ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị từ chối một cách phũ phàng, tôi bị bỏ lại một mình trong phòng gọi đàm thoại. Rốt cuộc tại sao bây giờ em ấy lại tiêu cực với việc chạy đua đến mức này cơ chứ…….",
+      "jpname": "モノローグ",
+      "jptext": "にべもなく拒否され、通話ツールの部屋に一人取り残された。\n今の彼女は、どうしてこれほどレースに後ろ向きなのだろう……。",
+      "choice_data_list": []
+    }
+  ]
+}
