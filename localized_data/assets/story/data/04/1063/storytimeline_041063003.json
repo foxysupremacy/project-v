@@ -1,0 +1,520 @@
+{
+  "title": "Kỹ thuật vững chắc",
+  "jptitle": "堅牢なる術",
+  "text_block_list": [
+    {
+      "name": "Ikuno Dictus",
+      "text": "――……Ra là vậy. Không chỉ dùng một bảng kiểm tra đơn lẻ, mà là lập ra nhiều mô hình để đối ứng với mọi tình huống.",
+      "jpname": "イクノディクタス",
+      "jptext": "――……なるほど。単一のチェックシートではなく、\n複数パターンを作成して、あらゆる状況に対応していると。",
+      "choice_data_list": [
+        "Mặt khác anh cũng cố gắng không để mình bị gò bó bởi bảng kiểm tra"
+      ],
+      "jpchoice_data_list": [
+        "一方でシートに囚われないようにもしてるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nói cho cùng thì đây cũng chỉ là một công cụ phục vụ cho việc quản lý thôi đúng không ạ. Em cũng sẽ học theo điều này và chú ý hơn.",
+      "jpname": "イクノディクタス",
+      "jptext": "あくまでこれは、管理のための1つのツールというわけですね。\n私も倣って気をつけようと思います。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Nhắc mới nhớ, em muốn hỏi thêm về hạng mục tự kiểm tra chi dưới này một chút――",
+      "jpname": "イクノディクタス",
+      "jptext": "……そういえば、この下肢のセルフチェック項目について\nお伺いしたいのですが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Lý do hiện tại tôi và Ikuno Dictus đang cùng nhau tổ chức 'buổi học tập' này là bắt nguồn từ cuộc trò chuyện giữa tôi và em ấy hôm trước――",
+      "jpname": "モノローグ",
+      "jptext": "……今こうしてイクノディクタスと『勉強会』をしている理由は、\n先日の彼女とのやりとりにまで遡る――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Vậy thì…… xin phép cho em nhận lấy lòng tốt đó, và em có một thỉnh cầu nho nhỏ này muốn nhờ anh――",
+      "jpname": "イクノディクタス",
+      "jptext": "では……そのご厚意に甘えて、\n少しばかりお願いしたいことがあるのですが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nếu được, anh có thể chia sẻ kiến thức của mình cho em được không ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "よろしければ、貴方の知識を私にご共有いただけないでしょうか？",
+      "choice_data_list": [
+        "Kiến thức của anh sao?",
+        "Kiến thức của tôi sao?"
+      ],
+      "jpchoice_data_list": [
+        "俺の、知識？",
+        "私の、知識？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Hôm trước khi được anh khuyên đi kiểm tra, góc nhìn tỉ mỉ và chuẩn xác của anh đối với Mã Nương…… đã khiến em thầm khâm phục.",
+      "jpname": "イクノディクタス",
+      "jptext": "――先日検査を勧められた際、貴方のウマ娘に対する\n精緻な視点に……密かに感服していました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Qua lời nói và hành động của anh, em đã cảm nhận được một ý chí kiên định về việc 'muốn các Mã Nương được chạy khỏe mạnh thật lâu dài'.",
+      "jpname": "イクノディクタス",
+      "jptext": "貴方の言動から私は、『ウマ娘を長く健康に走らせたい』という、\n堅固な意志を感じたのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đồng thời, em cũng muốn học hỏi những kiến thức mà anh sở hữu, vì vậy mới mạn phép đưa ra đề xuất này. ……Anh thấy thế nào ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "それと同時に、貴方の持つ知識を学んでみたいとも思い、\n提案させてもらった次第です。……いかがでしょうか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Sau đó, tôi đã vui vẻ nhận lời đề xuất của Ikuno Dictus, và quyết định tổ chức những 'buổi học tập' để chia sẻ kiến thức cùng em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "――その後、イクノディクタスの提案を快諾し、\n彼女と知識を共有する『勉強会』を行うことにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ nội dung bảng tự kiểm tra, các phương pháp mát-xa có thể tự làm một mình, cho đến các công thức bữa ăn phù hợp với em ấy, tôi đã chỉ dạy cho em rất nhiều điều――",
+      "jpname": "モノローグ",
+      "jptext": "セルフチェックシートの内容や、独りでできるマッサージ法、\n彼女に合いそうな食事レシピなど、様々なことを教えて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Hiện tại, tôi mượn một góc quán cà phê tự phục vụ để hướng dẫn em ấy cách làm sinh tố.",
+      "jpname": "モノローグ",
+      "jptext": "――今現在はカフェテリアの一角を借りて、\nスムージー作りについて教えていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……! Ngon quá ạ……! Vị hoa quả rất thanh mát, lại rất dễ uống――",
+      "jpname": "イクノディクタス",
+      "jptext": "……！　美味しいです……！\n果実味がとても爽やかで、口当たりもよく――",
+      "choice_data_list": [
+        "Món này đặc biệt thích hợp sau khi tập luyện đấy"
+      ],
+      "jpchoice_data_list": [
+        "トレーニング後に特におすすめだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Không chỉ ngon miệng, mà nguyên liệu cũng rất phổ thông nữa, thật tuyệt vời. Có thể áp dụng ngay lập tức nên em thấy rất hữu ích.",
+      "jpname": "イクノディクタス",
+      "jptext": "美味しさもさることながら、材料が一般的なのが素晴らしい。\nすぐに実践できるので非常にありがたいです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tinh thần ham học hỏi và khả năng tiếp thu của Ikuno Dictus quả nhiên là vô cùng đáng khâm phục……――",
+      "jpname": "モノローグ",
+      "jptext": "イクノディクタスの学習意欲と理解力には、\nやはり目を見張るものがある……――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế nên tôi càng tò mò. Rốt cuộc làm thế nào mà em ấy lại có được sự chăm chỉ và năng lực tự quản lý phi phàm đến nhường này――",
+      "jpname": "モノローグ",
+      "jptext": "だからこそ気になった。彼女がどのようにしてこの勤勉さと、\n非凡な自己管理能力を得たのかを――",
+      "choice_data_list": [
+        "Nhân tiện nghỉ giải lao, anh có thể hỏi em một chút được không?"
+      ],
+      "jpchoice_data_list": [
+        "休憩がてら、少し聞いてもいいかな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Vâng. Có chuyện gì vậy ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "はい。なんでしょう？",
+      "choice_data_list": [
+        "Cách tự quản lý của em…… là tự học sao?",
+        "Cách tự quản lý của bạn…… là tự học sao?"
+      ],
+      "jpchoice_data_list": [
+        "君の自己管理のやり方は……独学なのか？",
+        "貴方の自己管理のやり方は……独学なの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Dạ không. Có một người đã dạy cho em những điều cơ bản. Đó là người từng chăm sóc, chỉ bảo em trước khi vào học viện…… có thể xem là ân sư của em.",
+      "jpname": "イクノディクタス",
+      "jptext": "いえ。基礎を教えてくれた方がいます。\n学園に入る前にお世話になった……恩師と言える方です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Em gặp được người đó thực sự chỉ là một sự tình cờ.",
+      "jpname": "イクノディクタス",
+      "jptext": "……あの方に出会ったのは、本当に偶然でした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Ngày trước, em từng có một chiếc xe đạp thể thao được xem như 'cộng sự'. ……Đó là chiếc xe quý giá mà cha mẹ đã tặng cho em.",
+      "jpname": "イクノディクタス",
+      "jptext": "――昔、私には“相棒”と呼べるスポーツバイクがありました。\n……両親がプレゼントしてくれた、大事な1台です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Khoảng thời gian cùng người cộng sự xé gió lao đi quả thật là niềm hạnh phúc tột cùng…… Em thường quên cả thời gian mà đạp xe đi rất xa.",
+      "jpname": "イクノディクタス",
+      "jptext": "相棒と共に風を切る時間は、ただただ至福で……\n時間を忘れて、よく遠くまで駆けていたものです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Thế nhưng một ngày nọ, em đã gặp tai nạn ngã xe, và làm hỏng người cộng sự quý giá của mình――",
+      "jpname": "イクノディクタス",
+      "jptext": "……けれどある日、私は転倒事故を起こしてしまい、\n大事な相棒を壊してしまった――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Người cộng sự từng chạy mạnh mẽ đến thế bỗng chốc nằm bất động trong chớp mắt…… Em chỉ biết đứng chết lặng………… và vào lúc đó, em bỗng nghĩ rằng.",
+      "jpname": "イクノディクタス",
+      "jptext": "あれほど力強く走っていた相棒が、一瞬で動かなくなって……\nただ立ち尽くして…………その時ふと、思ったのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đồ vật…… sinh mệnh…… hay bản thân em…… một khi đã hỏng hóc như thế này…… thì sẽ không bao giờ có thể chạy được nữa……――",
+      "jpname": "イクノディクタス",
+      "jptext": "ものは……命は……私は……こうして壊れたら……\nもう、走れないのだと……――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Không thể ngăn được cảm giác lạnh lẽo trào dâng trong lồng ngực, trong lúc em chỉ biết trơ mắt nhìn người cộng sự bị hư hỏng――",
+      "jpname": "イクノディクタス",
+      "jptext": "胸の内から溢れてくる冷たいものを抑えることができず、\n壊れた相棒をただ見つめることしかできなかった私に――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'――Này nhóc, có sao không cháu?'",
+      "jpname": "イクノの恩師",
+      "jptext": "『――君、大丈夫かい』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Người đã cất lời hỏi thăm em khi ấy chính là thầy……―― Ân sư của em.",
+      "jpname": "イクノディクタス",
+      "jptext": "そう声をかけてくれたのが、先生……――\n私の、恩師でした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno lúc nhỏ",
+      "text": "'Dạ…… bác thật sự có thể sửa được sao ạ……?'",
+      "jpname": "幼いイクノ",
+      "jptext": "『あの……本当に、直せるんですか……？』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Cứ giao cho bác. Bác có sở thích bảo trì mấy thứ này mà. Tuy có hơi nát một chút, nhưng không sao, thay phụ tùng là――'",
+      "jpname": "イクノの恩師",
+      "jptext": "『任せなさい。こういう類のメンテナンスが趣味でね。\n少しばかり派手にいってるが、なぁに、パーツを換えれば――』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Thầy ấy mở một phòng trị liệu chỉnh hình chủ yếu dành cho các Mã Nương chạy đua, và nhận bảo dưỡng dụng cụ thể thao cũng như xe đạp như một sở thích cá nhân.",
+      "jpname": "イクノディクタス",
+      "jptext": "……先生は、主にレースを走るウマ娘向けの整体院を営んでおり、\n趣味でスポーツ器具や自転車の整備も請け負っていたんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'――Cháu tên là Ikuno nhỉ. Chiếc xe đạp đã có cách sửa rồi, vậy mà trông mặt mày cháu rầu rĩ thế kia. Vẫn còn chỗ nào bị đau sao?'",
+      "jpname": "イクノの恩師",
+      "jptext": "『――イクノ君と言ったね。自転車が直るめどがたったのに、\nずいぶんと浮かない顔だ。まだ痛い所でもあるのかな？』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno lúc nhỏ",
+      "text": "'A…… dạ……――'",
+      "jpname": "幼いイクノ",
+      "jptext": "『あ……えっと……――』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Em đã kể cho thầy nghe. Về cảm giác lạnh buốt mà em cảm nhận được khi người cộng sự bị hỏng hóc.",
+      "jpname": "イクノディクタス",
+      "jptext": "……私は話しました。\n相棒が壊れた時に感じてしまった、冷たい感覚を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Thầy vừa sửa xe vừa lặng lẽ lắng nghe. ……Lắng nghe nỗi sợ hãi mơ hồ, khó diễn tả thành lời của em thuở ấu thơ――",
+      "jpname": "イクノディクタス",
+      "jptext": "先生は、相棒を直しながら黙って聞いてくれました。\n……幼い私の、言葉にしきれない、漠然とした恐怖を――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'――Đúng là đồ vật sẽ hỏng, và chúng ta cũng sẽ bị thương. Nhưng…… điều đó không có nghĩa là mọi thứ sẽ chấm dứt ngay lập tức đâu.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『――確かに、ものは壊れる。私たちもケガをする。\nけれど……それですぐに終わりというわけではないよ』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Dù là đồ vật hay sinh mạng, chừng nào vẫn còn tồn tại thì vẫn có thể đứng dậy vô số lần. ――Giống như người cộng sự này của cháu vậy.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『ものも、命も、そこに在る限り、何度でも立ち上がれるんだ。\n――君のこの、相棒のようにね』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno lúc nhỏ",
+      "text": "'Oa……! Tuyệt quá ạ! Thật sự sửa xong rồi……!'",
+      "jpname": "幼いイクノ",
+      "jptext": "『わぁっ……！　すごいです！　本当に、直ってる……！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'……Ikuno này. Bác muốn cháu nhớ kỹ điều này. Những thứ bị tổn thương hay hư hại, chỉ cần sửa chữa như thế này là nhất định sẽ lại chuyển động được một lần nữa.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『……イクノ君。よく覚えておいてほしい。傷つき壊れたものは、\nこうして直すことで、必ずまた再び動き出すことができる』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Đây chính là \"bảo trì\". Là kỹ thuật giúp chúng ta đứng dậy thêm một lần nữa dù cho có gặp phải trắc trở.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『これこそが“メンテナンス”。\n私たちが困難に遭っても、再び立ち上がるための技術だ』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno lúc nhỏ",
+      "text": "'Bảo trì……'",
+      "jpname": "幼いイクノ",
+      "jptext": "『メンテナンス……』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Và còn một điều nữa, song hành cùng với bảo trì là một kỹ thuật cũng quan trọng không kém.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『そしてもうひとつ、メンテナンスと共に大事な技術がある』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Đó là kỹ thuật quản lý bản thân cùng hoàn cảnh xung quanh, chủ động ứng phó trước những khó khăn để không bị hư hại, không bị tổn thương, và tiếp tục bước đi hướng tới ước mơ cùng mục tiêu――'",
+      "jpname": "イクノの恩師",
+      "jptext": "『自分と周囲を管理し、困難に事前に対処し、壊れず、\n傷つかず、夢や目標に向かって歩き続けるための技術――』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Nói cách khác, đó chính là \"quản lý\".'",
+      "jpname": "イクノの恩師",
+      "jptext": "『すなわち、“マネジメント”だ』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno lúc nhỏ",
+      "text": "'……Nếu có bảo trì và quản lý, thì chúng ta…… sẽ luôn khỏe mạnh mãi sao ạ?'",
+      "jpname": "幼いイクノ",
+      "jptext": "『……そのメンテナンスと、マネジメントがあれば、\n私たちは……元気でい続けられるんですか？』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Ừ, đúng vậy đấy. ……Thế nào, Ikuno? Cháu có muốn học thuật để chiến đấu với nỗi bất an trong lòng mình không?'",
+      "jpname": "イクノの恩師",
+      "jptext": "『ああ、そうだよ。……どうだい、イクノ君。\n君の抱える不安と戦う術を、学んでみないかい』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Và thế là em đã được thầy dạy cho về quản lý và bảo trì, từ đó xua tan đi nỗi bất an từng nảy sinh trong lòng.",
+      "jpname": "イクノディクタス",
+      "jptext": "――そうして私は先生からマネジメントとメンテナンスを教わり、\nかつて自身に湧いた不安を払拭するに至りました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hơn nữa, việc quản lý và bảo trì này không chỉ dùng để bảo dưỡng người cộng sự, mà còn có thể áp dụng vào chính những bước chạy của em――",
+      "jpname": "イクノディクタス",
+      "jptext": "そして、このマネジメントとメンテナンスは、\n相棒の整備だけではなく、私自身の走りにも活かすことができ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Trong lúc cảm nhận được niềm vui sướng khi tự mình đón gió sải bước, một khao khát đã trào dâng mãnh liệt trong em.",
+      "jpname": "イクノディクタス",
+      "jptext": "――自分自身で風を受けて走る楽しさを実感するうちに、\nふつふつと湧き上がる想いがありました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Rằng 'liệu mình có thể chạy xa đến đâu'. ……Và em muốn chứng minh điều đó.",
+      "jpname": "イクノディクタス",
+      "jptext": "『私はどこまで走れるのか』、と。\n……そして、証明したくなったのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Rằng nếu tận dụng triệt để những kỹ thuật quản lý và bảo trì được thầy truyền dạy, bản thân em nhất định…… sẽ có thể tiến xa đến bất cứ nơi đâu.",
+      "jpname": "イクノディクタス",
+      "jptext": "先生から教わったマネジメントとメンテナンスを駆使すれば、\n自分はきっと……どこまでも行けることを。",
+      "choice_data_list": [
+        "Lẽ nào, 'mục tiêu' của em chính là――",
+        "Lẽ nào, 'mục tiêu' của bạn chính là――"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、君の『目標』というのは――",
+        "もしかして、貴方の『目標』というのは――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Chạy dài lâu hơn bất kỳ ai, và gặt hái nhiều chiến thắng hơn bất kỳ ai.",
+      "jpname": "イクノディクタス",
+      "jptext": "――誰よりも長く走り続け、誰よりも多くの勝利を重ねる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đó chính là 'mục tiêu' tối thượng mà em đã đúc kết ra―― để chứng minh năng lực chạy đua của bản thân cùng những lời dạy của thầy.",
+      "jpname": "イクノディクタス",
+      "jptext": "それこそが、私の導き出した――\n自身の競走能力と先生の教えを証明する、最上の『目標』です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một mục tiêu hoành tráng dường như mâu thuẫn với phong cách sống cực kỳ vững chắc và thận trọng của em ấy. Thế nhưng ánh sáng trong đôi mắt của Ikuno Dictus khi nói ra điều đó…… lại vô cùng kiên định và mạnh mẽ.",
+      "jpname": "モノローグ",
+      "jptext": "堅実極まりない彼女の在り方とは矛盾するような、壮大な目標。\nだがそれを口にするイクノディクタスの瞳の光は……固く、強い。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu là em ấy, nhất định sẽ có thể hoàn thành mục tiêu đó. Và điều đó…… cũng trùng khớp với lời thề mà tôi hằng ấp ủ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女ならばきっと、その目標を果たすことができるだろう。\nそしてそれは……自分の抱く誓いとも、重なるものだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế, tôi―― với tư cách là một Trainer, rất muốn giúp sức cho Ikuno Dictus……!",
+      "jpname": "モノローグ",
+      "jptext": "だからこそ自分は――\nひとりのトレーナーとして、イクノディクタスを助けたい……！",
+      "choice_data_list": [
+        "――Hãy để anh giúp em đạt được mục tiêu đó",
+        "――Hãy để tôi giúp bạn đạt được mục tiêu đó"
+      ],
+      "jpchoice_data_list": [
+        "――俺にその目標の達成を手伝わせてほしい",
+        "――私にその目標の達成を手伝わせてほしい"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Điều đó là――――",
+      "jpname": "イクノディクタス",
+      "jptext": "それは――――",
+      "choice_data_list": [
+        "Anh muốn trở thành Trainer của em",
+        "Tôi muốn trở thành Trainer của bạn"
+      ],
+      "jpchoice_data_list": [
+        "君のトレーナーになりたいんだ",
+        "貴方のトレーナーになりたいの"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……………………Em cảm ơn anh rất nhiều. Được anh nói như vậy, em thật sự vô cùng vinh hạnh.",
+      "jpname": "イクノディクタス",
+      "jptext": "……………………ありがとうございます。\nそう言っていただけて、本当に光栄です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Thế nhưng―――― xin phép cho em được từ chối.",
+      "jpname": "イクノディクタス",
+      "jptext": "ですが――――お断りさせてください。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

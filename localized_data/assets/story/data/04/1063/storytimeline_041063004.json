@@ -1,0 +1,319 @@
+{
+  "title": "Lời thề bất hoại",
+  "jptitle": "不壊なる誓い",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ lần cuối cùng trò chuyện với Ikuno Dictus, một mùa đã trôi qua――",
+      "jpname": "モノローグ",
+      "jptext": "イクノディクタスと最後に会話をしてから、\nひとつの季節を挟み――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vào ngày hôm đó, tôi bước đi dưới hàng cây hoa anh đào để hướng đến một địa điểm――",
+      "jpname": "モノローグ",
+      "jptext": "自分はその日、ある場所へと向かうべく、桜並木を歩いていた――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "――Nào, các Mã Nương đã có một cú xuất phát vô cùng đẹp mắt! Phát súng mở màn cho trận quyết đấu ngắn hạn 1000m trên mặt sân cỏ đã điểm!!",
+      "jpname": "実況",
+      "jptext": "――さぁ、各ウマ娘きれいなスタート！\n芝1000m短期決戦の火蓋が切られた！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Một cuộc tranh giành vị trí khốc liệt đang diễn ra! Chắc chắn đây sẽ là một trận hỗn chiến nảy lửa!!",
+      "jpname": "実況",
+      "jptext": "熾烈な位置取り争いが繰り広げられている！\nこれは混戦必至だ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Bất giác tôi siết chặt hai nắm tay. Tôi cảm nhận được nhịp tim mình đang đập rộn ràng. Và rồi, cuộc đối thoại 'ngày hôm đó' lại ùa về trong tâm trí――",
+      "jpname": "モノローグ",
+      "jptext": "……思わず両手に力が入る。心臓の鼓動が早くなるのを感じる。\nそうして、“あの時”のやりとりが甦ってくる――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Thế nhưng―――― xin phép cho em được từ chối.",
+      "jpname": "イクノディクタス",
+      "jptext": "ですが――――お断りさせてください。",
+      "choice_data_list": [
+        "…………Ra vậy sao",
+        "…………Vậy à"
+      ],
+      "jpchoice_data_list": [
+        "…………そうか",
+        "…………そっか"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Dù vô cùng nuối tiếc, nhưng không còn cách nào khác. Tôi tôn trọng ý chí của Ikuno Dictus――",
+      "jpname": "モノローグ",
+      "jptext": "……非常に残念ではあった。だが、致し方ない。\nイクノディクタスの意志を尊重して――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Bản thân em hiện tại chưa đủ xứng đáng. ……Xin anh hãy cho em thời gian 3 tháng.",
+      "jpname": "イクノディクタス",
+      "jptext": "――今の私では、相応しくない。\n……どうか私に、3か月の時間をください。",
+      "choice_data_list": [
+        "……Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Qua các trận đua thử nghiệm từ trước đến nay, em cuối cùng cũng nhìn ra được. Đâu là con đường chiến thắng có độ chính xác cao nhất mà một người còn non nớt như em có thể nắm lấy.",
+      "jpname": "イクノディクタス",
+      "jptext": "これまでの模擬レースで、ようやく見えてきたのです。\nまだ未熟な私がとれる、最も確度の高い勝ち筋が。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Trong trận đua tuyển chọn sau 3 tháng nữa, em sẽ chứng minh điều đó cho anh thấy. Vì vậy trước hết…… anh có thể xem cuộc đua đó rồi hãy đưa ra phán đoán được không ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "3か月後の選抜レースで、それを実証してみせます。\nなのでまずは……そのレースを見て、ご判断いただけますか？",
+      "choice_data_list": [
+        "Ừm thì, chuyện đó…… nghĩa là……――"
+      ],
+      "jpchoice_data_list": [
+        "えっと、それは……つまり……――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Em nghĩ làm vậy là không công bằng. Em vẫn chưa thể hiện cho anh thấy thực lực đàng hoàng của mình trong các cuộc đua.",
+      "jpname": "イクノディクタス",
+      "jptext": "――フェアではないと思ったのです。私は貴方にまだ、\nレースでのちゃんとした実力を示すことができていません。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Chính vì anh đã nói muốn ủng hộ mục tiêu của em…… nên em muốn chứng minh rằng mình là một Mã Nương có thể giành chiến thắng để đáp lại tấm lòng đó.",
+      "jpname": "イクノディクタス",
+      "jptext": "貴方が私の目標を応援したいと言ってくれたからこそ……\n私が勝てるウマ娘であることを見せて、応えたいのです。",
+      "choice_data_list": [
+        "……!!"
+      ],
+      "jpchoice_data_list": [
+        "……！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Anh thấy thế nào ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "……いかがでしょうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Câu trả lời cho điều đó vốn dĩ đã quá rõ ràng rồi――",
+      "jpname": "モノローグ",
+      "jptext": "その答えは、決まりきっていた――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Đã vượt qua mốc 600m! Cả đoàn vẫn đang bám sát nhau! Ai sẽ là người bứt phá vươn lên!?",
+      "jpname": "実況",
+      "jptext": "600mを通過！　依然集団のまま！　誰が抜け出す！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(――――Mình tuyệt đối không phải là một Mã Nương mạnh mẽ)",
+      "jpname": "イクノディクタス",
+      "jptext": "（――――私は決して、強いウマ娘ではない）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(Tại Học viện Tracen này, có vô số những Mã Nương tuyệt vời sở hữu tố chất áp đảo)",
+      "jpname": "イクノディクタス",
+      "jptext": "（このトレセン学園には、圧倒的な素質を誇る\n素晴らしきウマ娘たちが数多くいる）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(Để mình có thể tranh tài trên sân khấu mà những cô gái ấy đang chạy…… chẳng còn cách nào khác ngoài việc tận dụng thế mạnh bản thân đến cực hạn, và đột phá vào đúng một điểm đó)",
+      "jpname": "イクノディクタス",
+      "jptext": "（そんな彼女たちの走る舞台で、私が戦うには……\n己の強みを極限まで活かし、その一点で貫くより他ない）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'――Ikuno này, quả nhiên cháu có một tố chất tuyệt vời trong việc quản lý đấy.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『――イクノ君にはやはり、\nマネジメントにおける素晴らしい素質があるね』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "'Tố chất sao ạ? Đó rốt cuộc là thứ như thế nào――'",
+      "jpname": "イクノディクタス",
+      "jptext": "『素質、ですか？　それはいったい、どんな――』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Đó là một \"ý chí\" mạnh mẽ và vững chắc tựa sắt thép. Một khi đã quyết làm thì nhất định sẽ làm cho bằng được, cháu sở hữu một trái tim kiên cường như thế. Đó chính là sức mạnh lớn nhất trong việc quản lý.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『鉄の如き強く固い“意志”さ。やると決めたら必ずやるという、\n強靭な心が君にはある。それはマネジメントにおける最大の力だ』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ân sư của Ikuno",
+      "text": "'Một ngày nào đó khi cháu tìm thấy mục tiêu mà mình thật sự muốn hoàn thành, hãy dùng \"ý chí\" ấy để từng bước vững chắc tiến về phía trước. Chắc chắn cháu sẽ đạt được bất kỳ mục tiêu nào.'",
+      "jpname": "イクノの恩師",
+      "jptext": "『君がいつか真に果たしたい目標を見つけたら、その“意志”で\n一歩ずつ着実に目指すといい。きっと、どんな目標も果たせるよ』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(――Hôm nay, để giành chiến thắng trong trận đua tuyển chọn này, mình đã chạy qua vô số trận đua thử nghiệm, và nắm bắt được lối chạy mạnh nhất mà bản thân có thể làm được vào lúc này)",
+      "jpname": "イクノディクタス",
+      "jptext": "（――私は今日、この選抜レースで勝つために、\n多くの模擬レースを走り、自分が今できる最強の走りを掴んだ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(Sắt càng rèn thì càng thêm cứng cỏi. Giờ chính là lúc chứng minh sức mạnh của mình――)",
+      "jpname": "イクノディクタス",
+      "jptext": "（鉄は叩けば叩くほど強くなる。\n今こそ示してみせる、私の強みを――）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Haaaaaaaaa!!!",
+      "jpname": "イクノディクタス",
+      "jptext": "――ハァァァァァァァァァッ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ikuno Dictus đã bứt phá ngay tại đây! Em ấy đang vươn lên dẫn đầu!! Một tốc độ kinh hoàng!!",
+      "jpname": "実況",
+      "jptext": "イクノディクタスがここで飛び出した！\n前に躍り出る！！　凄まじいスピードだ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "――Cán đích rồi!! Về nhất là số 2, Ikuno Dictus!!",
+      "jpname": "実況",
+      "jptext": "――ゴールインッ！！　1着は2番、イクノディクタス！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "――Tốc độ tuyệt vời lắm, Ikuno Dictus! Với những bước chạy đó, em có muốn cùng tôi hướng tới mục tiêu trở thành một Mã Nương GI không!!",
+      "jpname": "ベテラントレーナー",
+      "jptext": "――素晴らしいスピードだったよ、イクノディクタス！\nその走りで一緒に、GⅠウマ娘を目指してみないか！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer trung cấp",
+      "text": "Chiến thuật điều phối cuộc đua thật xuất sắc. Nếu được, em có muốn về đội của tôi để cùng nhau vươn lên đỉnh cao không.",
+      "jpname": "中堅トレーナー",
+      "jptext": "見事なレース運びでした。よければ私のもとで、\n上を目指していきませんか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Em……――",
+      "jpname": "イクノディクタス",
+      "jptext": "……私は……――",
+      "choice_data_list": [
+        "――Anh muốn để em được chạy lâu hơn bất kỳ ai!",
+        "――Tôi muốn để bạn được chạy lâu hơn bất kỳ ai!!"
+      ],
+      "jpchoice_data_list": [
+        "――君を誰よりも長く走らせたい！",
+        "――貴方を誰よりも長く走らせたい！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――――",
+      "jpname": "イクノディクタス",
+      "jptext": "――――",
+      "choice_data_list": [
+        "Và muốn giúp em giành nhiều chiến thắng hơn bất kỳ ai! Vì thế nên――"
+      ],
+      "jpchoice_data_list": [
+        "そして誰よりも多く勝たせたい！だから――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bước tới bên cạnh Ikuno Dictus. Và gửi gắm một ý chí mạnh mẽ không hề thua kém em ấy vào từng lời nói.",
+      "jpname": "モノローグ",
+      "jptext": "イクノディクタスのもとに歩み寄る。\nそして、彼女に負けないぐらい強い意志を込めて、言葉にする。",
+      "choice_data_list": [
+        "Hãy để anh được làm Trainer của em",
+        "Hãy để tôi được làm Trainer của bạn"
+      ],
+      "jpchoice_data_list": [
+        "君のトレーナーを、俺にやらせてくれ",
+        "貴方のトレーナーを、私にやらせてほしい"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "…………Vâng, em cũng vậy. Từ nay mong được anh chỉ giáo, Trainer-san――",
+      "jpname": "イクノディクタス",
+      "jptext": "…………ええ、こちらこそ。\nよろしくお願いします。トレーナーさん――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và cái bắt tay cùng Ikuno Dictus khi ấy đã trở thành lời thề vững chắc hơn bất cứ điều gì――",
+      "jpname": "モノローグ",
+      "jptext": "そうしてイクノディクタスと交わした握手は、\n何よりも固い誓いとなったのだった――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "title": "Hướng về con đường nên bước tiếp",
+  "jptitle": "進むべき道へ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày mùa hè nọ. Tôi có hẹn họp mặt với Ikuno Dictus. Vì cuộc họp trước đó kéo dài nên tôi bước vào phòng Trainer muộn――",
+      "jpname": "モノローグ",
+      "jptext": "ある夏の日。イクノディクタスとミーティングの約束をしていた。\n前の会議が押し、遅れてトレーナー室へ入り――",
+      "choice_data_list": [
+        "Xin lỗi, để em đợi lâu rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ごめん、お待たせ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Dạ không, anh đừng bận tâm. Nhờ vậy mà em có thêm thời gian rảnh để lên kế hoạch cho ngày nghỉ.",
+      "jpname": "イクノディクタス",
+      "jptext": "いえ、お気になさらず。\nおかげで休日の計画を立てる余裕ができました。",
+      "choice_data_list": [
+        "Đó là…… tạp chí xe đạp sao?"
+      ],
+      "jpchoice_data_list": [
+        "それは……自転車の雑誌？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Vâng, em định ra ngoài đạp xe đường dài một chuyến sau bao lâu rồi chưa đi. Em cũng vừa mới quyết định xong điểm đến.",
+      "jpname": "イクノディクタス",
+      "jptext": "ええ、久々にロングライドへ出かけようかと。\n今しがた行き先も決まったところです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Lời giới thiệu là 'Đài quan sát mà bất cứ người đạp xe nào cũng muốn ghé thăm một lần'. Nghe nói vào những ngày nắng đẹp, khung cảnh phố xá trông tuyệt đẹp lắm đấy ạ.",
+      "jpname": "イクノディクタス",
+      "jptext": "謳い文句は『サイクリストなら1度は訪れたい見晴らし台』。\n晴れた日の街並みが、実に素晴らしいそうですよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Em cũng đã nắm rõ độ dốc của con đèo, việc còn lại chỉ là tinh chỉnh xe nữa thôi. Em sẽ đến đoạn dốc gần đây vài lần để chạy thử――",
+      "jpname": "イクノディクタス",
+      "jptext": "峠の勾配も把握し、残すはチューニングのみ。\n試運転に近場の坂道へ何度か通い――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Ấy chết, em nói chuyện ngoài lề nhiều quá rồi. Xin lỗi anh. Chúng ta vào việc chính thôi nhé.",
+      "jpname": "イクノディクタス",
+      "jptext": "……っと、余談が過ぎましたね。すみません。\n本題に入りましょうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chủ đề của buổi họp là về việc rút ngắn thời gian chạy. Thời gian mục tiêu cần đạt được trước cuộc đua mùa thu đã được ấn định. Việc còn lại là lộ trình thực hiện, nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "ミーティングの議題は、タイムの短縮についてだ。\n秋のレースまでに目指すべき時計は設定した。後はその道筋だが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Hừm. Với các bài tập hiện tại thì đây đã là giới hạn rồi. Nếu vậy…… quả nhiên cải thiện tư thế chạy vẫn là thượng sách.",
+      "jpname": "イクノディクタス",
+      "jptext": "――ふぅむ。既存のメニューでは、これが限界。\nとなれば……やはりフォームの改善が得策と思われます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi cũng đồng quan điểm. Nhưng nếu thất bại thì cuộc đua mùa thu sẽ gặp nguy hiểm. Tôi đã phân tích rằng nếu muốn bắt tay vào làm thì thời điểm chỉ có thể là ngay bây giờ.",
+      "jpname": "モノローグ",
+      "jptext": "同意見だった。だが失敗すれば秋のレースが危うくなる。\n取り組むならタイミングは今しかないことを話した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đúng là như vậy, đây chính là bước ngoặt mang tính quyết định…… Và thực trạng hiện tại là những phương pháp khác đều thiếu đi yếu tố then chốt.",
+      "jpname": "イクノディクタス",
+      "jptext": "確かに、ここが分水嶺……。\nそして他の手法は決め手に欠けているのが現状、と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Câu trả lời đã rõ ràng rồi. Chúng ta hãy tiến hành cải thiện tư thế chạy thôi.",
+      "jpname": "イクノディクタス",
+      "jptext": "答えは出ましたね。\nフォームの改善に駒を進めましょう。",
+      "choice_data_list": [
+        "Được, cùng nhau cố gắng nhé",
+        "Ừ, cùng nhau cố gắng nhé"
+      ],
+      "jpchoice_data_list": [
+        "ああ、一緒に頑張ろう",
+        "うん、一緒に頑張ろう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "(Nếu là đến mùa thu thì thời gian không còn dư dả nữa. Ngay từ tối nay mình phải bắt tay vào thu thập tài liệu về tư thế chạy thôi――)",
+      "jpname": "イクノディクタス",
+      "jptext": "（秋までとなれば、時間に余裕はない。\n今夜からフォームの資料集めですね――）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ôi, từ Trưởng ban Tổng vụ sao? Vâng…… dạ. Đổi mới toàn bộ trang thiết bị phục vụ cho đợt tập huấn mùa hè ư…… Ra là vậy.",
+      "jpname": "イクノディクタス",
+      "jptext": "おや、総務委員長から？\nはい……ええ。夏合宿向けの備品を一新ですか……なるほど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Em hiểu rồi, việc kiểm tra chất lượng và đối chiếu hàng tồn kho cứ giao cho em. Phiền Trưởng ban tiếp tục phân chia các nhiệm vụ nhé.",
+      "jpname": "イクノディクタス",
+      "jptext": "わかりました、検品と在庫の照合はお任せください。\n委員長は引き続き、タスクの振り分けをお願いします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nếu cứ tiến hành như mọi năm thì sẽ kéo dài sang cả những ngày tập huấn mất. Bắt buộc phải lập lại lịch trình mới thôi――",
+      "jpname": "イクノディクタス",
+      "jptext": "例年通りの運びでは、合宿の日を跨いでしまう。\nスケジュールの引き直しは必須、と――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Được thôi. Đây chính là lúc để trổ tài.",
+      "jpname": "イクノディクタス",
+      "jptext": "いいでしょう。腕の見せどころです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ ngày hôm sau, quá trình nỗ lực rút ngắn thời gian chạy đã bắt đầu. Trước hết là kiểm tra tư thế chạy hiện tại.",
+      "jpname": "モノローグ",
+      "jptext": "翌日からタイムの短縮に向け取り組みが始まった。\nまずは現状のフォームチェックからだ。",
+      "choice_data_list": [
+        "Cứ theo đà đó, hãy chú ý đến đầu ngón tay nhé!"
+      ],
+      "jpchoice_data_list": [
+        "その調子で指先を意識して！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Vâng! ……Haaaaaaaaaaaa!!",
+      "jpname": "イクノディクタス",
+      "jptext": "はい！\n……はぁあああああああ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――Buổi tổng kết hôm nay đến đây là hết. Anh còn điểm nào thắc mắc nữa không ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "――今日の振り返りは以上です。\n他に気になる点はございましたか？",
+      "choice_data_list": [
+        "Phần còn lại đợi phân tích đoạn video đã quay xong rồi tính tiếp nhé",
+        "Phần còn lại đợi phân tích đoạn video đã quay xong rồi tính tiếp nha"
+      ],
+      "jpchoice_data_list": [
+        "残りは撮った映像を分析してからだな",
+        "残りは撮った映像を分析してからだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Em hiểu rồi. Vậy thì, chúng ta cùng xác nhận lịch trình ngày mai――",
+      "jpname": "イクノディクタス",
+      "jptext": "わかりました。\nでは、明日のスケジュールの確認を―――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "――A.",
+      "jpname": "イクノディクタス",
+      "jptext": "――あっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cuốn sổ tay tuột khỏi tay của Ikuno Dictus. Nó trượt đến ngay dưới chân tôi, nên tôi nhặt lên――",
+      "jpname": "モノローグ",
+      "jptext": "イクノディクタスの手から手帳が離れた。\nちょうど足元に滑ってきたので、それを拾い上げ――",
+      "choice_data_list": [
+        "Của em đây…… Hửm?"
+      ],
+      "jpchoice_data_list": [
+        "はい、どうぞ……ん？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không phải cố ý, nhưng trang sổ tình cờ mở ra đập ngay vào mắt tôi. Một lịch trình được ghi trên đó đã bị gạch một đường gạch bỏ……",
+      "jpname": "モノローグ",
+      "jptext": "故意ではなく、たまたま開かれたページが目に飛び込む。\nそこに記された予定に、取り消し線が引かれていた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Em cảm ơn anh. ……Có chuyện gì sao ạ?",
+      "jpname": "イクノディクタス",
+      "jptext": "ありがとうございます。\n……どうかされましたか？",
+      "choice_data_list": [
+        "Chuyến đi xe đường dài, em không đi được nữa sao?",
+        "Chuyến đi xe đường dài, bạn không đi được nữa sao?"
+      ],
+      "jpchoice_data_list": [
+        "ロングライド、行けなくなったのか？",
+        "ロングライド、行けなくなったの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "A, chuyện đó sao ạ. Năm nay công việc của Ban Tổng vụ dồn lại nhiều hơn mọi năm.",
+      "jpname": "イクノディクタス",
+      "jptext": "ああ、そのことですか。\n例年より総務委員の業務が立て込みまして。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nhưng anh đừng lo. Em đã sắp xếp lại lịch để có thể vừa vặn cân bằng với việc tập luyện rồi.",
+      "jpname": "イクノディクタス",
+      "jptext": "しかし、ご心配なく。\nトレーニングと両立できるよう予定を見直しましたので。",
+      "choice_data_list": [
+        "Nhưng mà, hy sinh cả thời gian riêng tư thế này thì……"
+      ],
+      "jpchoice_data_list": [
+        "けど、プライベートを潰すなんて……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hừm…… Trainer-san. Bây giờ là lúc cần dốc toàn lực cho những việc phải làm.",
+      "jpname": "イクノディクタス",
+      "jptext": "ふむ……トレーナーさん。\n今はやるべきことに全力を注ぐ時です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đó không phải là chuyến đạp xe đường dài. Nếu phán đoán sai lầm thì sẽ đi lệch khỏi con đường vốn dĩ.",
+      "jpname": "イクノディクタス",
+      "jptext": "それはロングライドではありません。\n見誤っては、本来の道を逸れてしまいます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Con đường đến mục tiêu mà chúng ta đề ra rất chông gai, và công việc của Ban Tổng vụ cũng không nên lơ là xao nhãng.",
+      "jpname": "イクノディクタス",
+      "jptext": "我々が掲げた目標までは険しく、\n総務委員の業務も疎かにするべきではない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Em tự tin rằng mình đã chọn phương án tối ưu nhất.",
+      "jpname": "イクノディクタス",
+      "jptext": "私は、最善の方法を選んだと自負しています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt của Ikuno Dictus đã nói lên tất cả. Đó là những lời nói xuất phát từ tận đáy lòng. Và tôi…… chẳng có cách nào để xoay chuyển điều đó.",
+      "jpname": "モノローグ",
+      "jptext": "イクノディクタスの目が物語っている。\n本心からの言葉。それを覆す術は……持っていない。",
+      "choice_data_list": [
+        "……Anh hiểu rồi. Nhưng em đừng ép bản thân quá sức đấy"
+      ],
+      "jpchoice_data_list": [
+        "……わかった。けど、無理はしないように"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Vâng. Cảm ơn anh vì đã thấu hiểu cho em.",
+      "jpname": "イクノディクタス",
+      "jptext": "はい。ご理解いただきありがとうございます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……Chuyến đi xe đường dài, đành để dịp khác vậy ạ.",
+      "jpname": "イクノディクタス",
+      "jptext": "……ロングライドは、またの機会ということで。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù thấu hiểu, nhưng gương mặt rạng rỡ đầy thích thú của em ấy khi kể về chuyến đạp xe đường dài vẫn đọng mãi trong tâm trí tôi một thời gian dài……",
+      "jpname": "モノローグ",
+      "jptext": "理解しつつも、楽しそうにロングライドの話をしていた\nあの時の顔が、しばらく頭から離れなかった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
