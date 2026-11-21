@@ -1,0 +1,302 @@
+{
+  "title": "Quái Điểu! Toàn Thắng! El Xuất Trận!!",
+  "jptitle": "怪鳥！快勝！エル参上！！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay là ngày diễn ra cuộc đua tuyển chọn, nơi các Trainer quan sát thực lực của các Mã Nương để tiến hành chiêu mộ. Đây là một sự kiện trọng đại, quyết định tương lai của các Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "今日は、トレーナーたちがウマ娘の実力を見極め、スカウトを行う\n選抜レース。ウマ娘たちの将来を決める、一大イベントだ。"
+    },
+    {
+      "name": "",
+      "text": "Vào sáng sớm của cái ngày diễn ra cuộc đua quan trọng ấy, tôi bắt gặp một nàng Mã Nương đang cắm cúi chạy miệt mài trên đường đua--",
+      "jpname": "モノローグ",
+      "jptext": "そんな大事なレースを控えた日の早朝、\nコースにてひたすら走り込んでいるウマ娘を見かけた――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Phù...! Được rồi, thêm 1 vòng nữa... không, 10 vòng nữa nào!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ふぅっ……！\nよーし、もう1周、いえ10周っ！！",
+      "choice_data_list": [
+        "Đừng gắng sức quá trước cuộc đua đấy nhé em.",
+        "Đừng gắng sức quá trước cuộc đua đấy nhé bạn."
+      ],
+      "jpchoice_data_list": [
+        "レース前にあまり無理をしすぎないようにな",
+        "レース前にあまり無理をしすぎないようにね"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Không đâu không đâu, chừng này với em còn chưa bằng khởi động nữa cơ mà!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "いえいえ、アタシにとっては\nウォーミングアップにもなりませんよ！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Dù gì thì em cũng là El Condor Pasa! Là nàng Mã Nương rồi sẽ có ngày tung cánh bay lên bầu trời rộng lớn của thế giới desu!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "なんたって、アタシはエルコンドルパサー！\nいずれは、世界という名の大空に羽ばたくウマ娘デスからねっ！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ấy khoan! Em lỡ miệng nói chuyện tự nhiên quá rồi! Ủa mà, anh rốt cuộc là ai desu vậy!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "って！　なんか普通に話してしまいましたが！\nアナタ、いったい誰デスかっ！？",
+      "choice_data_list": [
+        "Anh là một Trainer đến xem cuộc đua tuyển chọn đây."
+      ],
+      "jpchoice_data_list": [
+        "選抜レースを観に来たトレーナーだよ"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Trainer sao ạ!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "トレーナーさんっ！？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nói vậy tức là, chẳng lẽ nào, chẳng lẽ nào... Anh đến để chiêu mộ em desu ư!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ということは、もしかしてもしかして……\nアタシをスカウトしに来たんデスかっ！？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Cuộc đua tuyển chọn còn chưa bắt đầu, thế mà anh đã bị cuốn hút bởi thực lực, tài năng và tiền đồ vô hạn của El rồi desu sao!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "まだ選抜レースも始まっていないというのに、エルの実力に、\n才能に、将来性に！　惹かれてしまったということデスかっ！？",
+      "choice_data_list": [
+        "À không, ừm thì..."
+      ],
+      "jpchoice_data_list": [
+        "いや、えっと……"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno! Em rất vui vì anh đã đến đây desu! Niềm đam mê ấy quả thực tạo ấn tượng cực tốt desu nha!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ブエノ！　来てくれて嬉しいデース！\nそのパッション、なかなか好印象デスよー！"
+    },
+    {
+      "name": "",
+      "text": "Em ấy chẳng thèm nghe mình nói gì cả...!",
+      "jpname": "モノローグ",
+      "jptext": "話を聞いてもらえない……！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nhưng rất tiếc, câu trả lời của em ở thời điểm hiện tại là no!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "でも残念デスが、現時点での答えはノーです。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...Vì sao lại thế ư? Rõ ràng anh muốn chiêu mộ ngay lập tức, vậy tại sao El lại không đáp lại tấm chân tình ấy!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "……それはなぜか？　今すぐスカウトしたいのに\nなぜエルは想いに答えてくれないのかっ！？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Câu trả lời rất đơn giản! Hỡi Trainer, em muốn anh phải tận mắt chứng kiến cuộc đua hôm nay, rồi mới đánh giá thực lực của El desu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "答えは簡単！　トレーナーさん、アナタには今日の！\nこれからのレースを見て、エルの実力を判断してほしいのデース！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mối quan hệ tin tưởng nồng nhiệt và sắt son với Trainer! Đó là điều tối quan trọng đối với một Mã Nương mạnh nhất thế giới!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "トレーナーとの、熱く固い信頼関係！\nそれは、世界最強のウマ娘には必要不可欠！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Chính vì thế, em cũng muốn Trainer phải cân nhắc và đánh giá thật kỹ càng desu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "だからこそ、トレーナーさんにも、\nしっかりと判断してほしいのデース！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...A, nhưng mà niềm đam mê thôi thúc anh tới bắt chuyện trước trận đua, em đã cảm nhận được rồi nhé♪ Em xin tặng anh 1 điểm El El!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "……あ、でもレース前に声をかけてくれるそのパッション、\n響きましたよ♪　エルエルポイント、1ポイント差し上げます！",
+      "choice_data_list": [
+        "À, cảm ơn em...?"
+      ],
+      "jpchoice_data_list": [
+        "あ、ありがとう……？"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Á chà! Sắp đến giờ đua rồi desu. Vậy thì, ciao nha♪",
+      "jpname": "エルコンドルパサー",
+      "jptext": "おっと！　そろそろレースの時間デスね。\nそれでは、チャオ～♪"
+    },
+    {
+      "name": "",
+      "text": "El Condor Pasa lướt đi thoăn thoắt như bay khỏi nơi đó...",
+      "jpname": "モノローグ",
+      "jptext": "エルコンドルパサーは、飛ぶような足取りで\nその場から立ち去っていった……。"
+    },
+    {
+      "name": "",
+      "text": "Sau sự việc ấy, \"Cuộc Đua Tuyển Chọn\" cuối cùng cũng khai màn. Và nàng Mã Nương đã phô diễn những bước chạy xuất thần tại đó chính là--",
+      "jpname": "モノローグ",
+      "jptext": "そんなことがありつつも、いよいよ始まった『選抜レース』\nそこで素晴らしい走りを見せたウマ娘は――"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "El Condor Pasa! Không ai có thể đuổi kịp! Khoảng cách ngày một nới rộng!",
+      "jpname": "実況",
+      "jptext": "エルコンドルパサー！\n誰も追いつけない！　伸びる伸びる！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Khả năng bứt phá quá đỗi tuyệt vời!! Về đích đầu tiên đầy ngoạn mục, không ai khác chính là El Condor Pasa!!",
+      "jpname": "実況",
+      "jptext": "素晴らしい切れ味ッ！！\n堂々の1着は、エルコンドルパサーですっ！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vô địch, đại thắng, El thắng áp đảo!! Đây chính là thực lực của em desuuu!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "優勝、快勝、エル圧勝っ！！\nこれがアタシの実力デェェス！！"
+    },
+    {
+      "name": "Trainer gạo cội A",
+      "text": "Ở đoạn đường thẳng cuối cùng, tất cả những đứa trẻ khác đều bị bỏ xa...! Con bé vượt trội hơn hẳn một bậc rồi...!",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "最後の直線、他の子たちが置き去りにされてたわ……！\n頭ひとつ抜け出た実力者ね……！"
+    },
+    {
+      "name": "Trainer gạo cội B",
+      "text": "Kiểu này thì trong tương lai, con bé sẽ trở thành một Mã Nương khủng khiếp lắm cho mà xem...!?",
+      "jpname": "ベテラントレーナーB",
+      "jptext": "こりゃあ、将来とんでもない\nウマ娘になるんじゃないか……！？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hừ hừ hừ... Em nghe thấy rồi nhé, tiếng tung hô dành cho El mạnh nhất thế giới...!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ふっふっふ……聞こえますよ、\n世界最強のエルを称える声が……！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nào, giờ là tiết mục chiêu mộ bắt đầu! Ai sẽ là Trainer cùng em vươn tầm thế giới desu đâyyy!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "さぁ、ここからがスカウトタイムです！　アタシと一緒に世界へ\n行ってくれるトレーナーさんは、どなたデスかーっ！？"
+    },
+    {
+      "name": "Trainer gạo cội A",
+      "text": "El Condor Pasa! Hãy nhận lời mời chiêu mộ của tôi đi mà!!",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "エルコンドルパサー！\nぜひ私のスカウトを受けてちょうだい！！"
+    },
+    {
+      "name": "Trainer gạo cội B",
+      "text": "Đâu có được, phải về đội của tôi! Tôi nhất định sẽ giúp em tung cánh bay cao!!",
+      "jpname": "ベテラントレーナーB",
+      "jptext": "いやいや、ウチだ！\n君を必ず羽ばたかせてみせるぞ！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ồ, bueno♪ Tấm lòng của mọi người, em vui lắm desu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "おおっ、ブエノ♪\nみんなの気持ち、とっても嬉しいデース！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nhưng mà nhưng mà, người El cần là một đối tác có thể hoàn toàn tin tưởng lẫn nhau! Chính vì thế--",
+      "jpname": "エルコンドルパサー",
+      "jptext": "でもでも、エルが欲しいのはしっかり信頼しあえるパートナー！\nというわけで――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Kịch chiến! Tranh đoạt! \"Giải Vô Địch Chiêu Mộ\" chính... thức... khai... mạc... desuuu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "激闘！　争奪！\n『スカウト選手権』の開・幕・デェェス！"
+    },
+    {
+      "name": "Các Trainer",
+      "text": "\"Giải Vô Địch Chiêu Mộ\"...?",
+      "jpname": "トレーナーたち",
+      "jptext": "『スカウト選手権』……？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vâng! Đã là Trainer thì điểm mấu chốt nhất chính là giáo án huấn luyện!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "はい！　トレーナーといえばやっぱり、\nトレーニングメニュー！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vậy nên mọi người ơi, hãy nghĩ ra thật nhiều giáo án huấn luyện xứng tầm với một El mạnh nhất thế giới đi nào!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ということでみんな、世界最強のエルにふさわしい\nトレーニングメニューを、バンバン考えてきてください！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hễ ai đưa ra được giáo án huấn luyện khiến tim El rung động bùng cháy, em sẽ đồng ý gia nhập đội của Trainer đó desu!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "エルがビビッとくるトレーニングメニューを用意してくれたら、\nそのトレーナーさんのスカウトを受けますデース！！"
+    },
+    {
+      "name": "Trainer gạo cội B",
+      "text": "Ra là vậy...! Một cuộc \"Đối đầu sáng tạo giáo án huấn luyện\" chứ gì!",
+      "jpname": "ベテラントレーナーB",
+      "jptext": "なるほど……！\n『トレーニングメニュー考案対決』だな！"
+    },
+    {
+      "name": "Trainer gạo cội A",
+      "text": "Đúng ý tôi rồi! Tôi nhất định sẽ làm cho em phải tâm phục khẩu phục...!",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "望むところよ！\n必ずあなたを満足させてみせるわ……！"
+    },
+    {
+      "name": "",
+      "text": "Thế là các Trainer đầy khí thế bắt đầu tản ra, và rồi--",
+      "jpname": "モノローグ",
+      "jptext": "こうして、張り切った様子のトレーナーたちは散っていき、\nそして――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Người cuối cùng còn nán lại... quả nhiên chính là anh sao! Hỡi Trainer tràn trề nhiệt huyết!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "最後に残ったのは……やはりアナタでしたか！\nパッション溢れるトレーナーさんっ！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nhưng mà! Rất tiếc là em không thể ưu ái đặc biệt được đâu desu.",
+      "jpname": "エルコンドルパサー",
+      "jptext": "しかぁーし！　申し訳ありませんが、\n特別扱いはできませんデース。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Cơ mà... em bật mí nho nhỏ nhé, em cực kỳ mong đợi giáo án huấn luyện mà anh sẽ mang tới đấy desu♪",
+      "jpname": "エルコンドルパサー",
+      "jptext": "でも……こっそりひっそり教えちゃいますが、\nアナタの考えてくるメニュー、とても楽しみにしていますデスよ♪"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bởi vì anh là người đã chạy trước cả hiệu còi để đến chiêu mộ El cơ mà.",
+      "jpname": "エルコンドルパサー",
+      "jptext": "だって、エルのことをフライングしてまで\nスカウトしに来てくれた方デスから。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Em sẽ đợi anh đấy nhé, Trainer!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "待ってますね、トレーナーさんっ！！"
+    },
+    {
+      "name": "",
+      "text": "...Do dòng đời đưa đẩy, tôi đã nhận lời nghĩ ra một giáo án huấn luyện cho El Condor Pasa như thế đấy.",
+      "jpname": "モノローグ",
+      "jptext": "……なりゆきで、エルコンドルパサーのための\nトレーニングメニューを考えることになったのだった。"
+    }
+  ]
+}
