@@ -1,0 +1,489 @@
+{
+  "title": "Khởi đầu cho câu chuyện của riêng em",
+  "jptitle": "始まるのは、君のための物語",
+  "text_block_list": [
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hộc, hộc... t-thời gian... Huhu, chẳng cải thiện chút nào so với vừa rồi cả...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "はあっ、はあっ……た、タイムっ……\nはぅう、さっきと全然変わってない……！",
+      "choice_data_list": [
+        "Nghỉ một chút đã. Em còn nhớ những gì tôi vừa dặn không?"
+      ],
+      "jpchoice_data_list": [
+        "少し休もう。さっき言ったことは覚えてる？"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A, dạ thì... là chuyện em đang quá sốt ruột đúng không ạ. Vì thế nên các cơ bị gồng cứng lại và làm hỏng tư thế chạy.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "あ、えっと……私が焦りすぎてるって話、ですよね。\nだから力んで、フォームが崩れちゃってるって。",
+      "choice_data_list": [
+        "Đúng vậy. Cho nên tạm thời em đừng bận tâm đến thời gian nữa",
+        "Chuẩn rồi. Vậy nên lúc này em cứ gác chuyện thời gian sang một bên đi"
+      ],
+      "jpchoice_data_list": [
+        "ああ。だから、一旦タイムは気にしないで",
+        "うん。だから、一旦タイムは気にしないで"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước hết, tôi muốn em chạy một cách thoải mái, không nóng vội. Cứ trút bỏ gánh nặng tinh thần lẫn thể xác rồi kiên trì lặp lại các bài tập thì—",
+      "jpname": "モノローグ",
+      "jptext": "まずは、焦らず気持ちよく走ってほしい。精神的、肉体的な\n負荷を除いてトレーニングの本数をこなしていけば――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Em sẽ nhớ lại được tư thế chạy trước khi bị chấn thương... phải không ạ. E-Em sẽ cố gắng hết sức...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "ケガをする前のフォームを思い出せる……ですね。\nが、頑張ります……！",
+      "choice_data_list": [
+        "Không cần vội vàng đâu. Cứ thong thả hoàn thiện từng chút một nhé!"
+      ],
+      "jpchoice_data_list": [
+        "焦らなくていい。ゆっくり仕上げていこう！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Vâng ạ!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……はいっ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Zenno Rob Roy hiện tại vẫn chưa đánh giá đúng năng lực của bản thân mình. Chỉ cần bước đầu em có thể tin tưởng vào chính mình...!",
+      "jpname": "モノローグ",
+      "jptext": "今のゼンノロブロイは、自分の能力を正当に評価できていない。\nまずは、自分を信じることさえできれば……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau—",
+      "jpname": "モノローグ",
+      "jptext": "数日後――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Ủa, sao cảm giác cơ thể nhẹ nhõm thế này...? Dạo gần đây mình chỉ chạy theo ý thích thôi mà...)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（なんだか、体が軽い……？\nここ最近は、好きに走ってるだけだったのに……）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(...Ừm, đúng thế rồi. Không cần nóng vội cũng chẳng sao. Trainer-san đã tin tưởng vào thực lực của mình cơ mà)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（……うん、そうだよね。焦らなくても大丈夫。\nトレーナーさんは、私の力を信じてくれたもの）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Vậy nên, mình cũng... ít nhất phải tin tưởng vào bản thân nhiều bằng phần niềm tin mà Trainer-san đã dành cho mình...!)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（だから、私も……トレーナーさんが信じてくれてるぶんの\n私のことくらいは、信じてあげなくっちゃ……！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Mình sẽ ổn thôi...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "私は、大丈夫っ……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Tại thư viện vào một ngày trước thềm Đại hội Thể thao theo bộ môn. Zenno Rob Roy đang xem lại tập tài liệu \"tìm kiếm người anh hùng\".",
+      "jpname": "モノローグ",
+      "jptext": "……種目別競技大会を目前に控えた、ある日の図書室。\nゼンノロブロイは『英雄探し』の資料を見直していた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Chắc chắn rồi. Dù Trainer-san bảo không phải... nhưng rõ ràng chị Kris S mới chính là người anh hùng ấy.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……間違いない。トレーナーさんは違うって言ってたけど……\nやっぱり、クリスエスさんが英雄なんだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ngày tháng này, khung giờ này, đường chạy này. Mọi thông tin đối chiếu đều chỉ ra duy nhất chị Kris S...",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "この日付、この時間帯、このコース。\nどの情報をとっても、クリスエスさんしかいないもの……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Chuyện này............ mình không muốn... nói cho anh ấy biết chút nào...",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……このこと、…………教えたく……ないな……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Thế nhưng, mình phải nói. Sau khi đối đầu với chị Kris S ở giải thi đấu bộ môn, sau khi thua cuộc... mình sẽ nói ra tất cả rồi đặt dấu chấm hết)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（でも、教えなきゃ。種目別競技大会でクリスエスさんと戦って、\n負けて……そしたら全部話して、おしまいにしよう）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Bởi vậy chí ít là cho đến lúc đó...)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（だからせめて、それまでは……）",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, ngày diễn ra Đại hội Thể thao theo bộ môn cuối cùng cũng đã đến! Còn Zenno Rob Roy thì—",
+      "jpname": "モノローグ",
+      "jptext": "そうして、ついに迎えた種目別競技大会当日！\nゼンノロブロイはというと――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(K-Không thể nào! Không thể nào...! Sao lại trúng vào ngày hôm nay mà mình lại xuất phát chậm thế này...!?)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（う、嘘！　嘘っ……！\nなんで今日に限って出負けしちゃうのぉ……！？）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "......",
+      "jpname": "シンボリクリスエス",
+      "jptext": "……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Bóng lưng chị Kris S đang bỏ mình lại ngày một xa... Cứ thế này thì chị ấy sẽ khuất hẳn khỏi tầm mắt mất)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（クリスエスさんの背中が、\nどんどん先に行っちゃう……このままじゃ見えなくなっちゃう）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(...Quả nhiên, mình không thắng nổi. Làm sao mà thắng được chứ. Dù anh ấy đã tận tình huấn luyện cho mình nhiều đến nhường kia...)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（……やっぱり、勝てない。勝てっこない。\nあんなにたくさんトレーニングしてもらったのに……）",
+      "choice_data_list": [
+        "Không được chịu thua đâu đấy—!!"
+      ],
+      "jpchoice_data_list": [
+        "負けるなーっ！！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...!!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……！！",
+      "choice_data_list": [
+        "Nhân vật chính là em đấy, Rob Roy!!",
+        "Chính em mới là nhân vật chính, Rob Roy!!"
+      ],
+      "jpchoice_data_list": [
+        "主役は君だ、ロブロイ！！",
+        "主役は貴方だよ、ロブロイ！！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Mình... mình là nhân vật chính ư)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（私が……私が、主役）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Nếu như mình thắng được chị Kris S thì sẽ ra sao nhỉ. Liệu mình cũng sẽ có một câu chuyện cho riêng mình? Và nếu như thế—)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（もしクリスエスさんに勝ったら、どうなるんだろう。\n私にも、物語ができる？　そうしたら――）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Dù đại hội kết thúc, dù người anh hùng có được tìm ra đi chăng nữa. Liệu Trainer-san có mãi mãi dõi theo câu chuyện mà mình là nhân vật chính không)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（競技大会が終わっても、英雄が見つかっても。私が主役の物語を、\nずっとずっとトレーナーさんに見てもらえるのかな）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Mình muốn anh ấy dõi theo...!)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（見て、ほしい……！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hà—aaaaa!!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "は――あああっ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ô kìa, Zenno Rob Roy đang bứt tốc vươn lên! Thế nhưng trên đoạn đường thẳng cuối cùng, Symboli Kris S vẫn còn cách một khoảng rất xa!",
+      "jpname": "実況",
+      "jptext": "おっと、ここでゼンノロブロイが上がってくる！\nしかし最後の直線、シンボリクリスエスはまだまだ遠い！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(Hãy dõi theo em nhé, Trainer-san. Người độc giả duy nhất của bản anh hùng ca trong em...!)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（見ていて、トレーナーさん。\n私の英雄譚の、たったひとりの読者……！）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Nhân vật chính... là em!! Aaaaaaaa—!!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "主役はっ……私だ！！\nたぁぁあああああーーーーっ！！",
+      "choice_data_list": [
+        "Dáng chạy ấy của Rob Roy..."
+      ],
+      "jpchoice_data_list": [
+        "ロブロイの、あの走り……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng tôi cũng nhận ra. Dáng chạy mạnh mẽ, dữ dội, dốc trọn sinh mệnh nhưng tràn đầy kiêu hãnh ấy—chính là bóng hình người anh hùng tôi từng thấy ngày hôm đó!",
+      "jpname": "モノローグ",
+      "jptext": "やっと気づけた。それは力強く、荒々しく、必死で。\nしかし誇り高い――あの日見た、英雄の姿だった！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hộc, hộc, hộc... haaaaa!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "はあっ、はあっ、はあっ……はあああ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—Đã áp sát đến tận đây rồi sao.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――ここまで迫るか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Symboli Kris S tăng tốc ngoạn mục ngay trước vạch đích! Nhanh quá, quá nhanh! Quả nhiên nhân vật chính của ngày hôm nay không thể là ai khác ngoài cô gái này!",
+      "jpname": "実況",
+      "jptext": "シンボリクリスエス、ゴール前ですさまじい加速！　速い速い！\nやはり今日の主役はこの娘をおいて他にいないっ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và đã cán đích ở vị trí thứ nhất! Symboli Kris S, một chiến thắng vô cùng lẫy lừng!!",
+      "jpname": "実況",
+      "jptext": "いま1着でゴーールッ！\nシンボリクリスエス、堂々たる勝利です！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng vỗ tay như sấm dậy cùng tiếng reo hò của khán giả. Những điều ấy quả nhiên—chỉ dành cho người chiến thắng.",
+      "jpname": "モノローグ",
+      "jptext": "割れんばかりの拍手と観客の声援。\nそれはやはり――勝者に向けられるものなのだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "(...Mình thua rồi... Đúng thế thật. Mọi chuyện làm sao mà suôn sẻ thế được. Cho nên mình phải nói ra thôi. Phải từ bỏ thôi)",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "（……負けた……そうだよね。そんなにうまくはいくはずない。\nだから私、言わなきゃ。諦めなきゃ）",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Trainer-san! Dạ thì, thân phận vị anh hùng của anh—",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……トレーナーさん！\nあの、私、あなたの英雄の正体が――",
+      "choice_data_list": [
+        "Chính là em đấy!!",
+        "Người anh hùng đó chính là em!!"
+      ],
+      "jpchoice_data_list": [
+        "君だったんだ！！",
+        "貴方だったの！！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Em biế—dạ vâng?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "わかっ――はい？",
+      "choice_data_list": [
+        "Vị anh hùng ấy chính là em!",
+        "Người anh hùng đó chính là em!"
+      ],
+      "jpchoice_data_list": [
+        "英雄は君だった！",
+        "英雄は貴方だった！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hả? N-Như thế là sao ạ!? Sao tự dưng anh lại... đột ngột thế ạ...!?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "え？　ど……どういうことですか！？\nなんで今、急にっ……！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Rob Roy, cuộc đua vừa rồi—hai người đang bận việc à.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "ロブロイ、先程のレースは――取り込み中か。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "A, chị Kris S! May quá gặp chị ở đây, em có chuyện này muốn hỏi một chút...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "あ、クリスエスさんっ！\nちょうどよかったですっ、ちょっと聞きたいことが……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "—Chuyện là vào ngày hôm đó, tầm khoảng 16 giờ 30 phút! Chị có chạy ở vòng ngoài đường cỏ đúng không ạ...!?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "――というわけでこの日、16時半くらいに！\n芝コースの外周、使われてましたよね……！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—Hừm.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――ふむ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "Tôi cùng em—đã tập luyện chung. Còn thời gian chính xác—thì không chắc lắm—",
+      "jpname": "シンボリクリスエス",
+      "jptext": "お前と――合同練習をした。\n時間までは――定かではないが――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Đ-Đấy anh thấy chưa! Chính mắt em đã thấy rõ ràng rồi mà! Người anh hùng chắc chắn là chị Kris S không sai đâu ạ!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "ほ、ほらっ！　私、この目でちゃんと見たんですから！\n英雄はクリスエスさんで間違いないんです！",
+      "choice_data_list": [
+        "Khoan đã, nếu là tập luyện chung thì..."
+      ],
+      "jpchoice_data_list": [
+        "待って、合同練習ってことは……"
+      ]
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—Rob Roy cũng có mặt ở đó.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――ロブロイも、そこにいた。",
+      "choice_data_list": [
+        "Rob Roy. Hôm đó em có buộc tóc phía sau không?"
+      ],
+      "jpchoice_data_list": [
+        "ロブロイ。その日は髪を後ろで縛ってた？"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Đúng... là vậy ạ.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "そう……ですね。",
+      "choice_data_list": [
+        "Em có suýt vấp ngã nhưng đã gượng lại được trong gang tấc không?"
+      ],
+      "jpchoice_data_list": [
+        "転びかけたのをかなりギリギリで耐えた？"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Sao anh lại nhìn thấy tường tận đến cả mức đó vậy chứ!? Mà khoan đã, như thế... chẳng lẽ... ơ kìa!?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "なんでそんなとこまで見てるんですかっ！？\nというか、やっぱり、その……それじゃあ……ええっ！？",
+      "choice_data_list": [
+        "Rob Roy, hãy chính thức ký hợp đồng với tôi nhé!",
+        "Rob Roy, hãy cùng tôi ký hợp đồng chính thức nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ロブロイ、俺と正式に契約してくれ！",
+        "ロブロイ、私と正式に契約しよう！"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Dạ—",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "えっ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Ể, ể ể ể—!?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……えええ～っ！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Symboli Kris S",
+      "text": "—Quả nhiên, hai người đang bận việc thật.",
+      "jpname": "シンボリクリスエス",
+      "jptext": "――やはり、取り込み中か。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hóa ra là vậy. Vì sau hôm đó em bị chấn thương không chạy được như trước nữa, nên anh mới không nhận ra vị anh hùng ấy chính là em...",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "なるほど。あの後ケガをしてうまく走れなくなったから、\nその英雄が私だったと気づけなかった、と……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Bất ngờ thật đấy ạ. Thật sự là ngay từ đầu, anh đã... luôn dõi theo em rồi.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……びっくりです。本当に最初から、\n私のこと……見ててくれたんですね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Trước đây em từng nói rồi phải không ạ. Rằng bản anh hùng ca, chỉ khi được lưu truyền như câu chuyện về người anh hùng, thì khi ấy mới thực sự xứng danh là anh hùng ca.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "……私、前に言いましたよね。英雄譚は、\n英雄の物語として語られて、その時はじめて英雄譚となる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Bởi vậy, Trainer-san. Em sẽ cố gắng hết mình. Để câu chuyện từ nay về sau sẽ khiến anh muốn truyền tụng cho muôn đời.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "だから、トレーナーさん。私、頑張りますね。\nこれからの物語を、あなたが語り継ぎたくなるくらい。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Hai chúng ta nhất định sẽ cùng nhau hoàn thành nó nhé. \"Bản anh hùng ca của Zenno Rob Roy\"...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "2人で、きっと完成させましょう。\n『ゼンノロブロイの英雄譚』を……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Em khẽ mỉm cười khi nói ra những lời ấy. —Đó chỉ mới là khúc dạo đầu, cho một bản anh hùng ca trường thiên tráng lệ.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、彼女は微笑んだ。\n――長く壮大な英雄譚の、ほんの序章のことである。",
+      "choice_data_list": []
+    }
+  ]
+}
