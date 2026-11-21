@@ -1,0 +1,292 @@
+{
+  "title": "Nơi ánh mắt hướng về",
+  "jptitle": "見つめた先に",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Cuối cùng cũng tới ngày nghỉ quý giá. Tôi đã lên kế hoạch từ trước rằng sẽ dùng trọn một ngày này để hoàn thiện bản thân.",
+      "jpname": "モノローグ",
+      "jptext": "やっときた貴重な休日。\nこの1日を、自分磨きに使おうとかねて計画していた。"
+    },
+    {
+      "name": "",
+      "text": "Nếu muốn nâng đỡ một Daiichi Ruby luôn không ngừng tự tôi giũa chính mình, tôi nghĩ bản thân mình cũng cần phải trau dồi thêm nữa, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "常に自己研鑽に努めるダイイチルビーを支えたいなら、\n自分も己を磨く必要があると考えたのだが――"
+    },
+    {
+      "name": "",
+      "text": "Tại một hiệu sách lớn mà tôi ghé vào, tôi tình cờ bắt gặp Daiichi Ruby. Trên tay tôi lúc ấy là một chồng sách dày cộp thuộc đủ mọi thể loại khác nhau.",
+      "jpname": "モノローグ",
+      "jptext": "足を運んだ大型書店で、偶然ダイイチルビーと出会う。\n自分の両手にはジャンルも雑多に買い込んだ大量の本があった。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Ra là vậy, để hoàn thiện bản thân sao ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "……なるほど、向上のためにですか。"
+    },
+    {
+      "name": "",
+      "text": "Cứ ngỡ em sẽ ngán ngẩm vì thấy tôi mua quá nhiều, nhưng hóa ra lại không phải. Dường như bản thân em cũng đang tìm một cuốn sách nào đó.",
+      "jpname": "モノローグ",
+      "jptext": "買い過ぎを呆れられるかと思ったがその様子はない。\nどうやら彼女自身も、目当ての本があるらしい。",
+      "choice_data_list": [
+        "Ruby đang tìm sách gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "ルビーは何を探しに？"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hôm nay tôi đến đây để tìm mua cuốn kỷ yếu của triển lãm mỹ thuật đang diễn ra.",
+      "jpname": "ダイイチルビー",
+      "jptext": "本日は現在開催中の、美術展の図録を求めに参りました。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Vì ở phòng triển lãm đang trưng bày đã bán hết sạch rồi, nên là…… chính là cuốn này đây ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "開催中の展示館のほうでは、\nすでに売り切れとのことでしたので……こちらです。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, Daiichi Ruby cho tôi xem một cuốn sách dày cộp, trong đó in hình chụp các bức tranh kèm theo những lời bình giải chi tiết.",
+      "jpname": "モノローグ",
+      "jptext": "そう言ってダイイチルビーが見せてくれたのは、\n絵画の写真と共に、詳細な解説が掲載されている分厚い本だ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Mỗi khi đi xem triển lãm, tôi luôn có thói quen tìm mua cuốn này.",
+      "jpname": "ダイイチルビー",
+      "jptext": "展示に伺う際は、必ず求めることにしております。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Nó giúp tôi nhanh chóng tiếp cận được góc nhìn của các chuyên gia, hơn nữa phần giải thích và bổ sung thông tin cũng rất đầy đủ, học hỏi được rất nhiều điều.",
+      "jpname": "ダイイチルビー",
+      "jptext": "手早く専門家の意見に触れられますし、\n解説や補足が充実していて勉強になります。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Nhìn qua thì có vẻ như Trainer-san cũng đã mua sách về lịch sử mỹ thuật nhỉ. Nếu anh có hứng thú, cuốn kỷ yếu như thế này có lẽ cũng sẽ là tài liệu tham khảo tốt đấy――",
+      "jpname": "ダイイチルビー",
+      "jptext": "トレーナーさんも、見れば美術史の本などを購入されたご様子。\nご興味あれば、このような図録なども参考になるかと――",
+      "choice_data_list": [
+        "Anh mua ngay!!"
+      ],
+      "jpchoice_data_list": [
+        "買います！！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Ý tôi không phải là bảo anh mua ngay tại đây đâu. Chẳng phải trông anh đã mua khá nhiều sách rồi sao?",
+      "jpname": "ダイイチルビー",
+      "jptext": "……今ここで、という意図ではございません。\nかなりの本をすでに購入なさっているようにお見受けいたしますが？"
+    },
+    {
+      "name": "",
+      "text": "Quả thực tôi đã gom hết cuốn này đến cuốn khác với số lượng lớn. Chi phí chắc chắn cũng sẽ tốn một khoản kha khá. Thế nhưng, tất cả cũng là vì học hỏi mà thôi……",
+      "jpname": "モノローグ",
+      "jptext": "確かにあれもこれもと大量に手に取ってしまった。\n出費もかなりのものになるだろう。しかし、これも勉強のため……。",
+      "choice_data_list": [
+        "Vì anh muốn nỗ lực để xứng đáng với em",
+        "Vì tôi muốn nỗ lực để xứng đáng với bạn"
+      ],
+      "jpchoice_data_list": [
+        "君に見合うよう、努力したいから",
+        "貴方に見合うよう、努力したいから"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Vậy sao ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そうですか。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Trainer-san, sau đây anh có kế hoạch gì chưa? Nếu anh có thời gian, tôi muốn dẫn anh đến một nơi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……トレーナーさん、この後のご予定は？\nもしお時間がありましたら、お連れしたいところがございます。"
+    },
+    {
+      "name": "",
+      "text": "Được ngồi cùng xe với Daiichi Ruby, nơi chúng tôi đặt chân tới là viện bảo tàng mỹ thuật, nơi đang tổ chức triển lãm của cuốn kỷ yếu mà tôi vừa mua.",
+      "jpname": "モノローグ",
+      "jptext": "ダイイチルビーの車に同乗させてもらい、たどり着いたのは、\n購入した図録の展覧会が開催されている美術館だった。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hôm nay tôi vốn đã lên kế hoạch đến thưởng lãm triển lãm mỹ thuật này. Cuốn kỷ yếu chỉ là bước đệm để thấu hiểu các tác phẩm mà thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "本日はこちらの美術展鑑賞を予定としておりました。\n図録は、作品理解のための足掛かりにすぎません。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Có những điều ta chỉ có thể học hỏi được khi tận mắt chiêm ngưỡng tác phẩm thật ngoài đời. Nào, chúng ta vào thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "実物を見ることで得られる学びがございます。\nでは、参りましょう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi rảo bước bên trong bảo tàng theo sự dẫn dắt của Daiichi Ruby. Có vẻ như em đã tìm hiểu cặn kẽ mọi thứ trước khi đến, lời thuyết minh của em vô cùng trôi chảy.",
+      "jpname": "モノローグ",
+      "jptext": "ダイイチルビーの案内で館内を進む。\nすでに調べつくしてからの来館らしく、説明はよどみなかった。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――Tất cả các tác phẩm được trưng bày hôm nay đều là sáng tác từ bàn tay của cùng một họa sĩ xuất thân từ vùng Tohoku.",
+      "jpname": "ダイイチルビー",
+      "jptext": "――本日展示されております作品は、\n全て東北を出身地とする同一画家の手によるものとなります。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Lấy nét cọ tả thực cùng phong cách biểu đạt huyền ảo làm cốt lõi, các tác phẩm của ông được đánh giá rất cao như đỉnh cao của vẻ đẹp thâm sâu vi diệu.",
+      "jpname": "ダイイチルビー",
+      "jptext": "写実的な筆致と幽玄な表現を精髄とし、\n深遠微妙の粋であると高く評価されておりますね。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Ngoài ra, ở khu trưng bày đằng kia――",
+      "jpname": "ダイイチルビー",
+      "jptext": "またあちらの展示では――"
+    },
+    {
+      "name": "",
+      "text": "Dù đã rời khỏi bảo tàng mỹ thuật nhưng sự phấn khích trong tôi vẫn chưa hề nguôi ngoai. Nhờ những lời thuyết minh của Daiichi Ruby mà tôi cảm thấy mình có thể thưởng thức các bức tranh một cách sâu sắc hơn.",
+      "jpname": "モノローグ",
+      "jptext": "美術館を出ても、まだ興奮が覚めやらない。ダイイチルビーの\n解説のおかげで、より深く絵画を鑑賞できた気がする。"
+    },
+    {
+      "name": "",
+      "text": "Dù có chút thấm mệt vì dành nhiều thời gian chăm chút ngắm nhìn từng tác phẩm một, nhưng đổi lại, tôi đã có một ngày tràn ngập cảm giác thỏa mãn và ý nghĩa.",
+      "jpname": "モノローグ",
+      "jptext": "1点1点に時間をかけたため疲れも感じていたが、\nそれ以上に充実感にあふれる1日を過ごすことができた。",
+      "choice_data_list": [
+        "Anh đã học hỏi được rất nhiều điều đấy!"
+      ],
+      "jpchoice_data_list": [
+        "とっても勉強になったよ！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Được như vậy thì tốt quá ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "然様にございますか。",
+      "choice_data_list": [
+        "Hơn nữa anh rất vui vì biết được họa sĩ mà em yêu thích",
+        "Hơn nữa tôi rất vui vì biết được họa sĩ mà bạn yêu thích"
+      ],
+      "jpchoice_data_list": [
+        "それに君が好きな画家がわかってよかった",
+        "それに貴方が好きな画家がわかってよかった"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một Daiichi Ruby ngày thường luôn sống với lịch trình chuẩn xác từng phút từng giây. Thế nhưng một cô gái như em, vào lúc rảnh rỗi cũng dành thời gian để hòa mình vào những điều mình yêu thích.",
+      "jpname": "モノローグ",
+      "jptext": "日頃、分刻みのスケジュールで生活しているダイイチルビー。\nそんな彼女も、余暇には好きなものに触れて過ごしているのだ。"
+    },
+    {
+      "name": "",
+      "text": "Biết được điều đó khiến tôi vui hơn bất cứ thứ gì. Tôi đã thầm nghĩ như vậy, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "それを知れたのが何より嬉しい。そう考えていたのだが――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Không, đây không hẳn là họa sĩ mà tôi đặc biệt yêu thích đâu ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "いえ、特別に愛好している画家というわけではございません。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Chỉ là vì vị khách quý sắp tham dự buổi gặp mặt tới đây lại có cùng quê hương với tác giả hôm nay, nên tôi mới đến đây thưởng lãm mà thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "次の会合にみえる主賓の方が、本日の作者と\n同郷ということでしたので、鑑賞に参ったまでです。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi hy vọng điều này có thể trở thành chủ đề cho cuộc trò chuyện vui vẻ. Bởi vị ấy cũng là một người có hiểu biết rất uyên thâm về mỹ thuật.",
+      "jpname": "ダイイチルビー",
+      "jptext": "歓談の話柄にでもなればと。\n美術に造詣の深い方でもいらっしゃるので。"
+    },
+    {
+      "name": "",
+      "text": "Nhắc mới nhớ, trong lúc thưởng lãm, Daiichi Ruby đã chăm chú ghi chép rất nhiều. Lúc đó tôi cứ ngỡ đây hẳn phải là họa sĩ mà em vô cùng mến mộ, nhưng hóa ra――",
+      "jpname": "モノローグ",
+      "jptext": "そういえば鑑賞中、ダイイチルビーは熱心にメモを取っていた。\nそれでよほど好きな作家なのだろうと考えていたのだが――",
+      "choice_data_list": [
+        "Chỉ vì một bữa ăn mà em chuẩn bị đến mức đó sao?"
+      ],
+      "jpchoice_data_list": [
+        "1度の食事のために、そこまで？"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Bởi tôi quan niệm rằng sự chuẩn bị tỉ mỉ, chu đáo từ trước chính là hình thức tôn trọng cao nhất.",
+      "jpname": "ダイイチルビー",
+      "jptext": "事前の緻密な準備こそ、表敬の最たる形と考えますので。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hơn nữa, những tích lũy như thế này sẽ trở thành vốn sống quý báu cho chính bản thân tôi. Tôi muốn tận dụng trọn vẹn mọi cơ hội để trau dồi bản thân.",
+      "jpname": "ダイイチルビー",
+      "jptext": "それに、こうした積み重ねが私自身の糧となります。\n研鑽の機会は、十全に活用したく。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Kim chỉ nam định đoạt hành động không phải là yêu hay ghét, mà là cần hay không cần. Hôm nay, tôi chỉ cảm thấy việc đến đây là 'cần thiết' mà thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "行動を決める指針は、好悪ではなく要か不要か。\n本日はここへの来館が『要』と感じたのみにございます。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, Daiichi Ruby kiêu hãnh ưỡn thẳng lưng. Tôi hiểu rằng phẩm cách thanh cao này chính là cốt lõi tạo nên con người em.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って凜と背を伸ばすダイイチルビー。\nこの高潔さが彼女を形作る核なのだと理解していた。"
+    },
+    {
+      "name": "",
+      "text": "Dẫu vậy, vào khoảnh khắc ấy――",
+      "jpname": "モノローグ",
+      "jptext": "それでも、あの時――"
+    },
+    {
+      "name": "",
+      "text": "Đó là khi đứng trước bức tranh vẽ bầu trời đầy sao. Thật hiếm khi thấy em không nói một lời nào, chỉ lặng lẽ hướng ánh mắt nhìn thẳng về phía bức tranh.",
+      "jpname": "モノローグ",
+      "jptext": "それは、ある星空の絵を前にした時のことだった。\n何も語らず、ただ真っすぐ視線を向けたのを珍しく感じた。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "…………Ngọn lửa Bọ Cạp……",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………蠍の火……。"
+    },
+    {
+      "name": "",
+      "text": "Chỉ riêng bức tranh ấy, tôi cảm thấy như nó đã trao cho em một điều gì đó vượt ngoài trách nhiệm gia tộc. Dù tôi có hỏi thì chắc chắn em cũng sẽ chẳng thừa nhận đâu, nhưng mà――",
+      "jpname": "モノローグ",
+      "jptext": "あの絵だけは、彼女に一族の責務以外の何かを\n手渡しているように感じた。尋ねても是とは返らないだろうが――"
+    },
+    {
+      "name": "",
+      "text": "Sau khi về nhà, tôi liền tra cứu bức tranh mà Daiichi Ruby đã ngắm nhìn trong cuốn kỷ yếu. Tựa đề là 'Antares' ―― Trái tim của chòm sao Bọ Cạp, vì tinh tú của mùa hạ.",
+      "jpname": "モノローグ",
+      "jptext": "帰宅後。ダイイチルビーが眺めていた絵画を図録で調べてみた。\nタイトルは『アンタレス』――さそり座の心臓、夏の星だ。"
+    },
+    {
+      "name": "",
+      "text": "Giữa muôn vì sao đang lấp lánh ánh sáng trắng bạc, duy chỉ có một điểm sáng cô độc rực lên ánh đỏ rực rỡ. Tựa như chính dáng hình của em vậy…… Tôi đã thầm nghĩ như thế.",
+      "jpname": "モノローグ",
+      "jptext": "白々と煌めく星たちの中で、ただ一点、赤く輝く孤高の星。\nまるで彼女の似姿のよう……そんなことを思ったのだった。"
+    }
+  ]
+}

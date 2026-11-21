@@ -1,0 +1,260 @@
+{
+  "title": "Bóng lưng thanh khiết",
+  "jptitle": "廉潔なる後背",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Tháng này tôi cũng cùng quản gia của Daiichi Ruby theo dõi lịch trình trong tháng của em, nhưng mà――",
+      "jpname": "モノローグ",
+      "jptext": "今月もダイイチルビーの執事と、\n月のスケジュールを共有していたのだが――"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Bữa tối cùng ngài ―― sẽ diễn ra vào lúc 18 giờ thứ Năm. Thứ Sáu và thứ Bảy lần lượt là các lớp học tiếng Pháp và tiếng Trung.",
+      "jpname": "ルビーの執事",
+      "jptext": "――様との会食が木曜18時より。\n金曜、土曜にはそれぞれフランス語、中国語の教室。"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Buổi đi xem kịch vào Chủ nhật tiểu thư đã quyết định hủy rồi đúng không ạ? Thay vào đó, tôi dự kiến xếp lịch phỏng vấn tuyển chọn giảng viên tiếng Ý mới.",
+      "jpname": "ルビーの執事",
+      "jptext": "日曜の観劇は、キャンセルとのことでよろしゅうございましたか？\n代わりに新しくイタリア語講師の選定面談を予定してございます。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Được rồi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "結構です。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Trainer-san thấy như vậy có ổn không ạ? Tôi đã cố gắng sắp xếp lịch trình để không gây cản trở cho việc huấn luyện.",
+      "jpname": "ダイイチルビー",
+      "jptext": "トレーナーさんも、よろしいでしょうか？\nトレーニングに障りのないよう、予定を組ませたつもりですが。",
+      "choice_data_list": [
+        "Thời gian huấn luyện thì đủ rồi em. Nhưng mà……"
+      ],
+      "jpchoice_data_list": [
+        "トレーニング時間は充分だよ。でも……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lịch trình được đọc lên dày đặc đến từng phút theo đúng nghĩa đen. Liệu với lịch này, em có đủ thời gian dành cho sở thích hay nghỉ ngơi hay không?",
+      "jpname": "モノローグ",
+      "jptext": "読み上げられたスケジュールは文字通りの分刻みだった。\nこれで趣味や休養にあてる時間は充分に取れるのだろうか。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "…………Nếu không có ý kiến gì khác thì cứ thống nhất như vậy nhé. Thế thì tháng này cũng nhờ anh giúp đỡ nhiều.",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………異論のないようでしたら、こちらで。\nそれでは、今月もよろしくお願いいたします。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ khi trở thành Trainer chuyên trách của Daiichi Ruby, tôi chưa bao giờ hết kinh ngạc trước lịch trình kín mít của em.",
+      "jpname": "モノローグ",
+      "jptext": "ダイイチルビーの専属トレーナーになってからというもの、\n彼女のスケジュールの過密さには驚かされっぱなしだ。"
+    },
+    {
+      "name": "",
+      "text": "Ngoài các buổi huấn luyện hàng ngày, em còn phải học ngoại ngữ và các môn nghệ thuật. Hơn thế nữa, với tư cách là hậu duệ của 'gia tộc lộng lẫy', việc giao lưu thân thiện với giới tài chính là không thể thiếu.",
+      "jpname": "モノローグ",
+      "jptext": "日々のトレーニングの他にも語学学習や稽古事。\n更には“華麗なる一族”の末として財界との親善交流も欠かせない。",
+      "choice_data_list": [
+        "（Nếu có thể giúp em ấy thư giãn chút thì tốt biết mấy……）"
+      ],
+      "jpchoice_data_list": [
+        "（何か気晴らしさせてあげられたら……）"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi đã chuẩn bị xong xuôi rồi. Chúng ta cứ tập theo giáo án thường ngày được chứ ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "準備、整いました。\n普段のメニューで、よろしいでしょうか？",
+      "choice_data_list": [
+        "……Không, hôm nay chúng ta ra ngoài chạy bộ đi em!",
+        "……Không, hôm nay chúng ta hãy ra ngoài chạy bộ đi bạn!"
+      ],
+      "jpchoice_data_list": [
+        "……いや、今日は外を走りに行こう！",
+        "……いえ、今日は外を走りに行こう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước ánh nhìn hoài nghi của Daiichi Ruby về sự thay đổi lịch trình đột ngột, tôi giải thích rằng mình có dự tính riêng rồi đưa em ra ngoài học viện.",
+      "jpname": "モノローグ",
+      "jptext": "急な予定変更を訝しがるダイイチルビーに、\n考えがあるからと説明し、学園の外へ連れ出した。"
+    },
+    {
+      "name": "",
+      "text": "Tôi đạp xe đạp dẫn đường cho Daiichi Ruby. Khác với sân tập chạy, mỗi bước chân đều mang lại khung cảnh đổi thay liên hồi.",
+      "jpname": "モノローグ",
+      "jptext": "自転車でダイイチルビーを先導する。\nトレーニングコースとは違い、走るたびに景色も移り変わる。"
+    },
+    {
+      "name": "",
+      "text": "Liệu em có cảm nhận được sự dễ chịu từ tầm nhìn khoáng đạt này không nhỉ. ――Nghĩ đoạn, tôi liền phát hiện ra một thứ hay ho và dừng xe lại.",
+      "jpname": "モノローグ",
+      "jptext": "開けた視界の心地よさを、彼女も感じてくれているだろうか。\n――と、さっそくいいものを見つけて自転車を止めた。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hơ…… hơ……",
+      "jpname": "ダイイチルビー",
+      "jptext": "はっ……はっ……。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "…………?",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………？",
+      "choice_data_list": [
+        "Khát nước rồi, em vào uống chút gì không?"
+      ],
+      "jpchoice_data_list": [
+        "喉も乾いたし、飲んでいかない？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nơi tôi chỉ tay là một quán đồ uống Hachimi ở bên kia đường. Các Mã Nương trong học viện thường kháo nhau rằng vị ngọt ở đây có tác dụng xoa dịu tâm hồn, nhưng mà――",
+      "jpname": "モノローグ",
+      "jptext": "指で示したのは通りの向こうにあるはちみードリンク店だ。\n学園のウマ娘たちが、甘さに癒されると話題にしていたのだが――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Tôi xin phép từ chối.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……結構です。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Lượng đường dung nạp của tôi đều được kiểm soát nghiêm ngặt. ……Nếu là anh thì đáng lẽ phải biết rõ điều đó chứ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "糖質量は、厳密に管理しておりますので。\n……貴方ならばご存じでは？"
+    },
+    {
+      "name": "",
+      "text": "Bị từ chối thẳng thừng, tôi quay trở lại việc huấn luyện. Thế nhưng hôm nay tôi vẫn chưa có ý định bỏ cuộc ở đây đâu.",
+      "jpname": "モノローグ",
+      "jptext": "すげなく断られてトレーニングに戻る。\nだが、今日はまだまだ諦めるつもりはない。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hơ…… hơ……",
+      "jpname": "ダイイチルビー",
+      "jptext": "はっ……はっ……。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "…………Lần này lại có chuyện gì vậy ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………今度は何でしょうか。",
+      "choice_data_list": [
+        "Nhìn kìa, đằng kia có chú chim đẹp quá chừng!"
+      ],
+      "jpchoice_data_list": [
+        "見て、あそこに綺麗な鳥が！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Đúng vậy nhỉ. Vậy thì chúng ta tiếp tục buổi huấn luyện thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……そうですね。\nそれではトレーニングを続けましょう。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, tôi vừa chạy vừa tiếp tục tìm kiếm những thứ có thể thu hút sự chú ý của Daiichi Ruby, nhưng mà――",
+      "jpname": "モノローグ",
+      "jptext": "その後もダイイチルビーの\n関心を引けるものを探しつつ走ってきたが――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Lại nghỉ nữa sao ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "……また、休憩ですか。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Trainer-san. Nếu không có ý định trêu đùa tôi, xin anh hãy giải thích rõ mục đích của buổi huấn luyện hôm nay.",
+      "jpname": "ダイイチルビー",
+      "jptext": "トレーナーさん。愚弄の意図がないのであれば、\n本日のトレーニングの目的をご説明ください。",
+      "choice_data_list": [
+        "Nhìn ngắm phong cảnh khác ngày thường sẽ kích thích não bộ――"
+      ],
+      "jpchoice_data_list": [
+        "普段と異なる風景を見れば脳に刺激が――"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Xin hãy nói thẳng vào vấn đề.",
+      "jpname": "ダイイチルビー",
+      "jptext": "率直に。",
+      "choice_data_list": [
+        "Anh nghĩ rằng có thể giúp em đổi gió thư giãn!"
+      ],
+      "jpchoice_data_list": [
+        "息抜きになるかと思いました！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Tóm lại chỉ gói gọn trong hai chữ thiển cận.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……浅薄の一語に尽きます。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Anh nghe cho rõ đây. Tôi chưa từng cảm thấy bất kỳ sự gò bó nào khi nỗ lực để trở nên xứng đáng với gia tộc cả.",
+      "jpname": "ダイイチルビー",
+      "jptext": "よろしいですか。私は、一族に相応しくあるべく\n努めることに、一切の不自由を感じておりません。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Chính vì tự mình nhận định điều đó là cần thiết nên tôi mới phấn đấu mỗi ngày. Trái lại, chính sự quan tâm thừa thãi của anh mới đang làm tôi thấy gò bó đấy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "自ら必要と判断したからこそ日々励んでいるのです。\nむしろ、貴方のいらぬ気遣いこそが私を不自由にしています。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Nếu muốn đạt được kết quả xứng đáng với danh tiếng gia tộc, thì quỹ thời gian có hạn nên dành cho việc gì, điều đáng bận tâm duy nhất chỉ là cần hay không cần mà thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "一族の名に相応しい結果を求めるなら、\n限りある時間を何に費やすべきか、考慮に値するのは要不要のみ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hãy lộng lẫy. Hãy tối thượng. Luôn rực rỡ nhất. Đó chính là khuôn vàng thước ngọc của gia tộc tôi…… bởi vậy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "華麗であれ。至上であれ。常に最たる輝きを。\nそれこそが、我が一族の玉条……ゆえに。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Chuyện tôi phụ sự kỳ vọng của mọi người là điều tuyệt đối không thể xảy ra.",
+      "jpname": "ダイイチルビー",
+      "jptext": "皆様の期待を、私が裏切ることはあり得ません。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi chẳng có chút thời gian nào để lãng phí cả. Nếu anh đã hiểu rồi, mong từ nay về sau anh đừng bận tâm những điều vô ích như vậy nữa.",
+      "jpname": "ダイイチルビー",
+      "jptext": "無駄にする暇などあり得ないのです。\nご理解いただけたら、今後は無用の気遣いなどなさいませんよう。"
+    },
+    {
+      "name": "",
+      "text": "Sau khi trở về học viện và hoàn thành giáo án huấn luyện thông thường, Daiichi Ruby liền rời đi để chuẩn bị cho lịch trình tiếp theo.",
+      "jpname": "モノローグ",
+      "jptext": "学園に戻り、通常のトレーニングメニューをこなした\nダイイチルビーは、次の予定のために去っていった。"
+    },
+    {
+      "name": "",
+      "text": "Bóng lưng thẳng tắp của em chẳng hề vương chút bi thương nào, và tôi cứ mãi trăn trở liệu mình có thể làm được gì để đáp lại bóng lưng ấy hay không.",
+      "jpname": "モノローグ",
+      "jptext": "ぴんと伸びた背中に悲壮感はなく、あの背に報いるために、\n自分にできることはあるだろうかと思い悩むのだった。"
+    }
+  ]
+}

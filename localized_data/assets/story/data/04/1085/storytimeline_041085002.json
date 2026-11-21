@@ -1,0 +1,392 @@
+{
+  "title": "Hãy tối thượng",
+  "jptitle": "至上であれ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kỳ thi tuyển chọn Trainer. Điều kiện vượt qua rất đa dạng, sau khi có một khoảng thời gian nhất định để chuẩn bị sẽ tiến hành kiểm tra. Có lần thì――",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー選抜試験。クリア条件は様々で、\n一定の期間が設けられたのちテストとなる。ある時は――"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Bữa ăn phải thật tao nhã. ……Vị đằng kia, đừng để bát đĩa phát ra tiếng động. Và xin hãy cầm ly thấp xuống một chút.",
+      "jpname": "ルビーの執事",
+      "jptext": "食事は優雅に。……そこの方、食器は鳴らさずに。\nそれに、グラスはもっと下を持ってください。"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Hở, ơ…… ơ kìa…… n-như thế này sao? Á, kêu rồi! Không để bát đĩa phát ra tiếng thì ăn kiểu gì được chứ.",
+      "jpname": "新人トレーナーA",
+      "jptext": "えっ、あっ……ええっと……こ、こう？\nあっ、鳴った！　食器鳴らさずにどうやって食べるんだよっ。"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Lại thêm vị bên đó nữa, món mà vị gọi là món khai vị từ nãy đến giờ thực chất là amuse đấy ạ.",
+      "jpname": "ルビーの執事",
+      "jptext": "またそちらの方、\n先ほどから前菜と仰っているそれは、アミューズです。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Hả? Th-thật thế sao……? Mà khoan, amuse là cái gì thế? Tôi chẳng rõ nữa, nhưng chắc cũng na ná nhau thôi mà……!?",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "へ？　そ、そうなの……？　てか、アミューズって、なに？\nわかんないけど、似たようなものでしょ……！？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "………….",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Daiichi Ruby chẳng hề bận tâm đến xung quanh, khẽ lướt dao cắt phần thức ăn. Tuyệt nhiên không có một tiếng va chạm bát đĩa nào vang lên, tựa như đang xem một bộ phim câm vậy.",
+      "jpname": "モノローグ",
+      "jptext": "ダイイチルビーは周りには見向きもせず、ナイフを料理に滑らせる。\n一切食器の音はなく、まるでサイレント映画を観ている気分だ。"
+    },
+    {
+      "name": "",
+      "text": "Ngay cả những đầu ngón tay nâng ly cũng vô cùng thanh mảnh, khiến ly nước lọc trông chẳng khác nào rượu vang trắng. Động tác lau khóe môi cũng uyển chuyển nhẹ nhàng――",
+      "jpname": "モノローグ",
+      "jptext": "グラスを持つ指先すらも繊細で、ただの水がまるで白ワインの\nように見えてくる。口元を拭う仕草も、流れるようで――",
+      "choice_data_list": [
+        "Tuyệt thật đấy……",
+        "Thật đáng kinh ngạc……"
+      ],
+      "jpchoice_data_list": [
+        "すごいな……",
+        "すごい……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tận mắt chứng kiến dáng vẻ ấy, các Trainer chỉ còn biết nín lặng. Bởi từng cử chỉ của em đều quá đỗi hoàn mỹ và tuyệt đẹp.",
+      "jpname": "モノローグ",
+      "jptext": "そんな姿を見せられたトレーナーたちは、沈黙するしかない。\nその動作はあまりにも美しく、完璧であったから。"
+    },
+    {
+      "name": "",
+      "text": "Lại có lần khác thì――",
+      "jpname": "モノローグ",
+      "jptext": "またある時は――"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Tiếp theo đây chúng ta sẽ đến nhà hát opera. Những ai lựa chọn cách trang điểm, trang phục và phụ kiện phù hợp nhất sẽ nhận được đánh giá cao hơn.",
+      "jpname": "ルビーの執事",
+      "jptext": "これよりオペラへと参ります。化粧、服装、持ち物、適切と思う\nものを選んだ方に、より良い評価をお付けいたします。"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Toàn mấy bộ âu phục chưa từng thấy bao giờ thế này…… Cứ mặc bộ nào trông đắt tiền là được đúng không?",
+      "jpname": "新人トレーナーA",
+      "jptext": "見たこともないようなスーツが並んでんだけど……\n高そうなヤツ着ればいいのか？",
+      "choice_data_list": [
+        "Ừ-Ừm……"
+      ],
+      "jpchoice_data_list": [
+        "う、うーん……"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Lấy cho tôi chiếc váy đằng kia. Để phù hợp với vở diễn, không nên chọn loại quá sặc sỡ. Hãy tháo chiếc nơ ở thắt lưng ra để trông trang nhã và chững chạc hơn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……私には、そちらのドレスを。演目に合わせて派手さは\n控えめに。腰のリボンは外して、落ち着きを出しましょう。"
+    },
+    {
+      "name": "Quản gia của Ruby",
+      "text": "Vâng, thưa tiểu thư. Nếu vậy, tiểu thư thấy chiếc vòng cổ bản lớn này phối ở cổ áo thế nào ạ?",
+      "jpname": "ルビーの執事",
+      "jptext": "かしこまりました、お嬢様。でしたら、首元には\nこちらのビブネックレスはいかがでしょうか。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Được đấy. Nhưng hãy đổi viên đá khác đi. Hãy mang chiếc có mặt đá hình oval ra đây.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そうですね。ですが、石は変えましょう。\nオーバルのものを出してください。"
+    },
+    {
+      "name": "",
+      "text": "Trái ngược với một người chẳng biết phải chọn lựa ra sao như tôi, Daiichi Ruby lại vô cùng thuần thục.",
+      "jpname": "モノローグ",
+      "jptext": "どう選んでいいかわからない自分と違って、ダイイチルビーは\n手慣れたものだった。"
+    },
+    {
+      "name": "",
+      "text": "Sống ở hai thế giới hoàn toàn khác biệt…… cụm từ ấy cứ thoáng hiện lên trong tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "住む世界が違う……そんな言葉が頭をよぎる。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, suốt nhiều ngày liền, chúng tôi phải học đủ mọi lễ nghi và kiến thức, rồi lại quay về tập luyện thuật tự vệ để tham gia bài thi, và rồi――",
+      "jpname": "モノローグ",
+      "jptext": "その後も、数日に渡りあらゆるマナーや知識を学ばされ、\n再び護身術へと戻り試験を受け、そして――"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Xin hàng…… H-Hết chịu nổi rồi……",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "ギブ……もう、むーりー……。"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "T-Tôi cũng vậy…… Mà nói thật chứ, mấy thứ này thật sự cần thiết cho một Trainer sao……!?",
+      "jpname": "新人トレーナーA",
+      "jptext": "お、俺も……ってか、\nこんなの本当に、トレーナーに必要なのか……！？"
+    },
+    {
+      "name": "",
+      "text": "Từng người, từng người một bỏ cuộc ngày càng nhiều. Càng tiến sâu vào trong, số lượng Trainer tự nguyện rút lui trước khi bị đánh trượt lại càng tăng lên.",
+      "jpname": "モノローグ",
+      "jptext": "1人また1人と脱落者が増えていく。進めば進むほど、\n試験に落ちるより先に辞退するトレーナーたちが増えていく。",
+      "choice_data_list": [
+        "……Vì cần thiết nên mới làm vậy đấy"
+      ],
+      "jpchoice_data_list": [
+        "……必要だから、やってるんだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Suốt từ đầu đến giờ, tôi luôn dõi theo từng cử chỉ của Daiichi Ruby. Chính vì thế, tôi hiểu rất rõ. Từng hành động chuẩn mực ấy, vẻ đẹp ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ここまでずっと、ダイイチルビーの振る舞いを見てきた。\nだからこそ、わかる。手本となるような所作、その美しさ。"
+    },
+    {
+      "name": "",
+      "text": "Ý nghĩa to lớn của việc có thể đứng cạnh bên em.",
+      "jpname": "モノローグ",
+      "jptext": "その隣に立つという、大きさの意味が。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Không, dù có thế đi chăng nữa thì……",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "いや、だからってさぁ……。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Ngày mai là bài thi khiêu vũ cổ điển. Các vị tính thế nào đây ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "明日は社交ダンスの試験です。いかがなさいますか？"
+    },
+    {
+      "name": "",
+      "text": "Chẳng mảy may bận tâm đến cuộc trò chuyện của chúng tôi, Daiichi Ruby thản nhiên thông báo. Không hề cảm nhận được chút nhiệt huyết nào như lúc em chạy.",
+      "jpname": "モノローグ",
+      "jptext": "こちらの会話を気にした様子もなく、淡々と告げるダイイチルビー。\n走っている時のような、熱は感じられない。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Haaaaaaa!!",
+      "jpname": "ダイイチルビー",
+      "jptext": "はぁぁああああ！！"
+    },
+    {
+      "name": "",
+      "text": "Tham gia kỳ thi tuyển chọn Trainer là bởi trong lòng tôi nhen nhóm một tia hy vọng, biết đâu chừng. Thế nhưng hiện thực bày ra trước mắt lại là khoảng cách quá đỗi xa vời với Daiichi Ruby.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー選抜試験に出たのは、もしかしたら、という期待から。\nけれど現実が見せたのは、ダイイチルビーとの遠い距離だった。"
+    },
+    {
+      "name": "",
+      "text": "Một đóa hoa ngự trên đỉnh vách đá cheo leo, chẳng ai có thể với tới. Từ bỏ và tự nhủ rằng mình không xứng với em là điều quá đỗi dễ dàng.",
+      "jpname": "モノローグ",
+      "jptext": "高い崖の上、誰にも触れられることのない花。\nそんな彼女に似つかわしくないと諦めることは簡単だ。"
+    },
+    {
+      "name": "",
+      "text": "……Thế nhưng, bước chạy rực rỡ mà Daiichi Ruby từng thể hiện. Dáng hình in sâu vào tâm trí, chẳng thể nào phai mờ ấy――",
+      "jpname": "モノローグ",
+      "jptext": "……だが、ダイイチルビーが見せた見事な走り。\n今も目に焼きつき、離れないあの姿を――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Người còn lại là bạn sẽ bước tiếp vào bài kiểm tra tiếp theo. Tôi có thể hiểu như vậy được chứ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "……残られた貴方は、次の試験へと進む。\nそう考えてもよろしいでしょうか？",
+      "choice_data_list": [
+        "Vâng!!"
+      ],
+      "jpchoice_data_list": [
+        "はい！！"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――――",
+      "jpname": "ダイイチルビー",
+      "jptext": "――――"
+    },
+    {
+      "name": "",
+      "text": "Với tư cách một Trainer, tôi muốn được dõi theo em ở cự ly gần hơn nữa. Tôi muốn được góp một phần sức lực giúp em vươn tới những đỉnh cao xa hơn. Lòng tôi đã nghĩ như thế.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーとして、もっと近くで見ていたい。\n更なる高みへと向かう、その一助となりたい。そう思ってしまった。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "………….",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Tôi hiểu rồi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……わかりました。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Xin đừng quên kiểm tra các khúc nhạc dùng cho bài thi. ……Vậy thì, chúc bạn một ngày tốt lành.",
+      "jpname": "ダイイチルビー",
+      "jptext": "試験の曲目等、ご確認お忘れなく。\n……それでは、ご機嫌よう。"
+    },
+    {
+      "name": "",
+      "text": "Tiễn bước Daiichi Ruby rời đi mà không để lại một lời khích lệ nào, tôi một mình chạy thẳng đến nhà thể chất.",
+      "jpname": "モノローグ",
+      "jptext": "激励の言葉もなく去っていくダイイチルビーを見送って、\n1人体育館へと走った。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi tôi lặng lẽ miệt mài luyện tập đi luyện tập lại bài khiêu vũ cổ điển cho kỳ thi ngày mai. ……Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "そして黙々と、明日の試験内容である社交ダンスのレッスンを\n繰り返す。……しかし。",
+      "choice_data_list": [
+        "Kh-Khó quá……"
+      ],
+      "jpchoice_data_list": [
+        "む、難しい……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dĩ nhiên rồi, đây không phải thứ có thể học được chỉ trong một sớm một chiều. Dù sao thì, hiện tại tôi chỉ biết dốc hết sức làm những gì có thể――",
+      "jpname": "モノローグ",
+      "jptext": "当然だが、一朝一夕でできるものではない。\nとにかく、今できることを精一杯――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Bạn vẫn còn ở đây sao?",
+      "jpname": "ダイイチルビー",
+      "jptext": "……まだいらっしゃったのですか？",
+      "choice_data_list": [
+        "A, Daiichi Ruby……"
+      ],
+      "jpchoice_data_list": [
+        "あ、ダイイチルビー……"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Mọi người đều đã về cả rồi. Bạn cũng nên nghỉ ngơi sớm đi thôi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "すでに皆様、帰られました。\n貴方も、そろそろ休まれては。",
+      "choice_data_list": [
+        "À, ừm!"
+      ],
+      "jpchoice_data_list": [
+        "あ、あの！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Bài thi khiêu vũ cổ điển là vào ngày mai. Tôi chẳng còn thời gian để giữ thể diện nữa. Đến nước này rồi thì cứ liều một phen xem sao――",
+      "jpname": "モノローグ",
+      "jptext": "……社交ダンス試験は明日。もうなりふりは構っていられない。\nこうなれば、当たって砕けろの精神で――",
+      "choice_data_list": [
+        "Em có thể dạy khiêu vũ cổ điển cho anh được không……!?"
+      ],
+      "jpchoice_data_list": [
+        "社交ダンス、教えてもらえないかな……！？"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "………….",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Chuyện là, một mình anh tập thì không tài nào――"
+      ],
+      "jpchoice_data_list": [
+        "その、1人だとうまく――"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……。 ……Tư thế chưa chuẩn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……。\n……姿勢が悪い。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "えっ"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Xin hãy chỉnh lại tư thế. Vừa xem video vừa tập thì không thể có được tư thế chuẩn xác đâu.",
+      "jpname": "ダイイチルビー",
+      "jptext": "姿勢を正してください。\n動画を見ながらでは、正しい姿勢はとれません。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Chắc hẳn bạn đã nhớ hết các bước chuyển động cơ bản rồi nhỉ. Vậy thì, xin mời bắt đầu.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ひと通りの動きは、もう覚えているのでしょう。\nでは、始めてください。"
+    },
+    {
+      "name": "",
+      "text": "Daiichi Ruby dứt khoát và tỉ mỉ chỉ dẫn cho tôi. Tôi ngoan ngoãn làm theo lời em bảo, chuyển động cơ thể theo điệu nhạc.",
+      "jpname": "モノローグ",
+      "jptext": "キビキビと指導してくれるダイイチルビー。\n言われるがまま、音楽に合わせて体を動かす。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "……Ngẩng cao đầu lên. Nếu muốn làm nên chuyện, thì phải luôn giữ thái độ đường hoàng đĩnh đạc.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……顔を上げて。何かを成そうとするのなら、\n常に堂々たる態度で。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Bạn có điều gì phải hổ thẹn sao? Nếu không có, để trở thành một bản thân trọn vẹn, bạn nên giữ ánh mắt hướng thẳng về phía trước và đứng thẳng lưng lên.",
+      "jpname": "ダイイチルビー",
+      "jptext": "恥じることがあるのですか。ないのなら、己に足る己であるよう、\n視線を真っ直ぐ前に、背筋を伸ばして立つべきです。"
+    },
+    {
+      "name": "",
+      "text": "Nghe em nói, tôi chợt nhớ lại hình ảnh của em suốt cả ngày hôm nay. Dáng vẻ đường hoàng, đĩnh đạc ấy.",
+      "jpname": "モノローグ",
+      "jptext": "言われ、今日1日の彼女の姿を思い出す。\n堂々とした、あの立ち振る舞いを。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Phải, đừng quên dáng vẻ đó. Một khi đã có mục tiêu để hướng tới, thì phải hành xử sao cho xứng đáng với mục tiêu ấy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そう、その姿を忘れずに。目指すべきものがあるのならば、\nそれに相応しい振る舞いを。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Bởi lẽ chính điều đó sẽ thay đổi bản thân thành dáng hình mà bạn mong muốn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "それこそが、いずれ自身を望む姿へと変えるのです。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, dẫu lát sau những người thợ trang trí có đến, buổi luyện tập vẫn tiếp tục được chuyển ra bên ngoài.",
+      "jpname": "モノローグ",
+      "jptext": "その後、しばらくして飾りつけの業者が来ても、\nレッスンは場所を外に移し続けられた。"
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, ngày hôm sau. Nhờ sự chỉ dẫn nghiêm khắc của Daiichi Ruby, bài thi đã diễn ra suôn sẻ và đạt kết quả mỹ mãn.",
+      "jpname": "モノローグ",
+      "jptext": "――そして、翌日。ダイイチルビーの厳しい指導のおかげで、\n試験は無事、満足のいく結果となった。"
+    }
+  ]
+}
