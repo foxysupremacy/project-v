@@ -1,0 +1,386 @@
+{
+  "title": "Vai trò tôi chưa từng hay biết",
+  "jptitle": "私の知らない、私の役割",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay là ngày bắt đầu trại huấn luyện mùa hè cùng Rice Shower. Chúng tôi đã lập tức hăng hái bắt tay vào luyện tập trên bãi biển, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "今日からライスシャワーとの夏合宿。\nさっそくビーチでのトレーニングに励んでいたのだが――"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hà, hà, hà... phù... Anh trai ơi, thời gian thế nào rồi ạ...?",
+      "jpname": "ライスシャワー",
+      "jptext": "はぁっ、はぁっ、はぁ……ふぅ……。\nお兄さま、タイムはどう……？",
+      "choice_data_list": [
+        "Đang tiến bộ dần từng chút một rồi, nhưng mà..."
+      ],
+      "jpchoice_data_list": [
+        "徐々によくなってはいるんだが……"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hà, hà, hà... phù... Chị gái ơi, thời gian thế nào rồi ạ...?",
+      "jpname": "ライスシャワー",
+      "jptext": "はぁっ、はぁっ、はぁ……ふぅ……。\nお姉さま、タイムはどう……？",
+      "choice_data_list": [
+        "Đang tiến bộ dần từng chút một rồi, nhưng mà...",
+        "Đang tiến bộ dần từng chút một rồi, nhưng mà..."
+      ],
+      "jpchoice_data_list": [
+        "徐々によくなってはいるんだが……",
+        "徐々によくなってはいるんだけど……"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vẫn chưa chạm tới mục tiêu đúng không ạ... Hức, em xin lỗi. Là tại Rice vô dụng mà ra...",
+      "jpname": "ライスシャワー",
+      "jptext": "目標には、まだ、届いてないんだね……うぅ、ごめんなさい。\nライスがだめなせいで……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "... Nhưng mà em biết chỗ mình còn thiếu sót là ở đâu rồi. N-Nên là... em nghĩ cứ làm cho tới khi được thì thôi.",
+      "jpname": "ライスシャワー",
+      "jptext": "……でもね、できてないとこ、どこなのかはわかるよ。\nだ、だから……できるまでやればいいんだって思うの。",
+      "choice_data_list": [
+        "Được lắm, không bỏ cuộc và cố lên nào!"
+      ],
+      "jpchoice_data_list": [
+        "よし、諦めずに頑張ろう！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vâng! Từng điều chưa làm được sẽ làm được từng chút một... Và từng khuyết điểm vô dụng cũng sẽ dần được khắc phục...",
+      "jpname": "ライスシャワー",
+      "jptext": "うん！　できてないこと、1こずつできるようになって……。\nだめなとこも、1こずつだめじゃなくして……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vì Rice cũng... thực sự muốn trở nên nhanh hơn mà...!",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスも……ちゃんと、速くなりたいから……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Em chạy tiếp đây, anh trai!",
+      "jpname": "ライスシャワー",
+      "jptext": "いってきますっ、お兄さま！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Em chạy tiếp đây, chị gái!",
+      "jpname": "ライスシャワー",
+      "jptext": "いってきますっ、お姉さま！"
+    },
+    {
+      "name": "",
+      "text": "Rice Shower phóng đi đầy mạnh mẽ mà chẳng hề để lộ chút mệt mỏi nào. Trong lúc tôi đang dõi theo bóng lưng em thì――",
+      "jpname": "モノローグ",
+      "jptext": "ライスシャワーは、疲れた顔も見せずに力強く駆けていった。\nその背中を見守っていると――"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "... Tuyệt ghê. Cậu ấy vẫn còn chạy tiếp kìa.",
+      "jpname": "小柄なウマ娘",
+      "jptext": "……すごい。あの子、まだ走るんだ。",
+      "choice_data_list": [
+        "Em là...?",
+        "Bạn là...?"
+      ],
+      "jpchoice_data_list": [
+        "君は……？",
+        "貴方は……？"
+      ]
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "A...! X-Xin lỗi ạ. Em không có ý gì đâu ạ...!",
+      "jpname": "小柄なウマ娘",
+      "jptext": "あっ……！\nす、すみません。なんでもありませんっ……！"
+    },
+    {
+      "name": "",
+      "text": "Mã Nương nhỏ nhắn ấy cuống cuồng bỏ chạy mất dạng...",
+      "jpname": "モノローグ",
+      "jptext": "小柄なウマ娘は、ひどく慌てた様子で駆け去っていった……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hà, hà, oa oa...!",
+      "jpname": "ライスシャワー",
+      "jptext": "はぁ、はぁ、ふわぁぁ……！",
+      "choice_data_list": [
+        "Làm được rồi, Rice! Đạt mục tiêu rồi đấy!",
+        "Làm được rồi, Rice! Đạt mục tiêu rồi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "やったぞライス、目標達成だ！",
+        "やったねライス、目標達成だよ！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hả... th-thật vậy sao ạ!?",
+      "jpname": "ライスシャワー",
+      "jptext": "えっ……ほ、ホント！？"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-Làm được rồi... làm được rồi-!!",
+      "jpname": "ライスシャワー",
+      "jptext": "や、やった……やったぁぁ～！！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dù tốn nhiều thời gian thật, nhưng mà... làm được rồi em vui lắm ạ.",
+      "jpname": "ライスシャワー",
+      "jptext": "いっぱい、時間かかっちゃったけど、\nでも……できるようになれてうれしいっ。"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "... Cậu giỏi thật đấy.",
+      "jpname": "小柄なウマ娘",
+      "jptext": "……すごいね。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dạ...?",
+      "jpname": "ライスシャワー",
+      "jptext": "へっ……？"
+    },
+    {
+      "name": "",
+      "text": "Bất giác nhìn sang, tôi thấy Mã Nương nhỏ nhắn khi nãy đang đứng ngay bên cạnh Rice Shower.",
+      "jpname": "モノローグ",
+      "jptext": "ふと見てみると、先ほどもライスシャワーを見ていた、\n小柄なウマ娘が傍に立っていた。"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Cậu tên là Rice-chan đúng không. Giỏi ghê... có thể nỗ lực đến mức đó.",
+      "jpname": "小柄なウマ娘",
+      "jptext": "ライスちゃん、だっけ。すごいね……そんなにがんばれて。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Giỏi ư? Ý cậu là... Rice á? K-Không có chuyện đó đâu! Hoàn toàn không có đâu ạ...!",
+      "jpname": "ライスシャワー",
+      "jptext": "すごい？　えっと……ライスが？\nそ、そんなこと！　ぜんぜん、ないですっ……！"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Có mà! Cậu chạy miệt mài mà chẳng hề bỏ cuộc... Khác hẳn với đứa hở một tí là muốn bỏ cuộc như tớ...",
+      "jpname": "小柄なウマ娘",
+      "jptext": "あるよ！　ずっと諦めないで走れるなんて……。\nすぐ諦めたくなる私なんかとは、大違い……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "M-Mình cũng có lúc muốn bỏ cuộc chứ.........! Nhiều lần lắm... nhiều vô cùng luôn.",
+      "jpname": "ライスシャワー",
+      "jptext": "わっ、私も、あきらめたいって思うこと、あります………！\nあるんです……たくさん。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice toàn làm không được... toàn là khuyết điểm vụng về thôi. Lúc nào mình cũng ghét một Rice như vậy, toàn nghĩ \"không muốn thế này nữa đâu\".",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスは、できないことばっかり……だめなとこ、ばっかりだから。\nこんなライスなんか嫌い、もうやだーって、思うことばっかりです。"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Thế sao? Nhưng mà... vậy thì tại sao cậu lại nỗ lực được đến thế...?",
+      "jpname": "小柄なウマ娘",
+      "jptext": "そうなの？\nでも……ならどうして、あんなにがんばれるの……？"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Đó là vì――",
+      "jpname": "ライスシャワー",
+      "jptext": "それは――"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "... Bởi vì mình đã tìm thấy một \"bản thân mà mình muốn trở thành\".",
+      "jpname": "ライスシャワー",
+      "jptext": "……“なりたい私”が、できちゃった、から。"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "\"Bản thân mà cậu muốn trở thành\"...?",
+      "jpname": "小柄なウマ娘",
+      "jptext": "“なりたい私”……？"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Đúng vậy. ... Tham gia thi đấu, tỏa sáng thật nhiều, đem lại hạnh phúc cho mọi người. Mình đã trót mong muốn... được trở thành một người như thế.",
+      "jpname": "ライスシャワー",
+      "jptext": "はい。……レースに出て、いっぱい活躍して、みんなを幸せにする。\nそんな私に……なりたいって、思っちゃって。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Một khi đã nghĩ như vậy, thì mình không thể dừng lại được nữa... ạ. Cứ muốn trở thành người đó, muốn chạy, và phải chạy tiếp mới được...!",
+      "jpname": "ライスシャワー",
+      "jptext": "思っちゃったら、もう、止められなかった……です。\nなりたいって、走りたいって、走らなきゃって……！"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "...!",
+      "jpname": "小柄なウマ娘",
+      "jptext": "っ……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A, dạ, xin lỗi vì mình không biết trả lời sao cho hay...! R-Rice cũng ăn nói dở tệ lắm nên là――",
+      "jpname": "ライスシャワー",
+      "jptext": "あ、あのっ、ごめんなさい、うまく答えられなくて……！\nら、ライス、おしゃべりも上手じゃないから――"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ủa... úi chà!?",
+      "jpname": "ライスシャワー",
+      "jptext": "って……うひゃっ！？"
+    },
+    {
+      "name": "",
+      "text": "(Ào ào ào-!)",
+      "jpname": "モノローグ",
+      "jptext": "（ザッパ～～～～～ン！）"
+    },
+    {
+      "name": "",
+      "text": "Bất thình lình một cơn sóng lớn ập tới, khiến cả ba chúng tôi ướt sũng như chuột lột!",
+      "jpname": "モノローグ",
+      "jptext": "突如高波が打ち寄せてきて、3人ともびしょ濡れになってしまった！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Khẹc, khụ khụ...!! Aaa, mình xin lỗi! Tại vì ở cạnh một người như Rice nên mới bị...!",
+      "jpname": "ライスシャワー",
+      "jptext": "けほっ、こほっ……！！\nあぁぁ、ごめんなさい！　ライスなんかと一緒にいたせいで……！"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Khụ khụ! ... Phì. Hi hi, ha ha ha ha ha!!",
+      "jpname": "小柄なウマ娘",
+      "jptext": "げほっげほっ！\n……ふふっ。ふふふ、あははははっ！！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ơ... kìa? Sao cậu lại cười...?",
+      "jpname": "ライスシャワー",
+      "jptext": "あ……あれ？　どうして、笑って……？"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "A ha ha... Xin lỗi nhé, chắc do bị nước dội ướt sũng từ đầu tới chân, nên tự dưng tớ thấy sảng khoái hẳn ra.",
+      "jpname": "小柄なウマ娘",
+      "jptext": "あははっ……ごめん、頭から水浴びたからかなぁ、\nなんかスッキリしちゃって。"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "... Cảm ơn cậu nhé, Rice-chan. Nhờ cậu mà tớ đã nhớ ra một điều rất quan trọng.",
+      "jpname": "小柄なウマ娘",
+      "jptext": "……ありがとう、ライスちゃん。おかげで大事なこと思い出せたよ。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hả, ủa...?",
+      "jpname": "ライスシャワー",
+      "jptext": "えっ、えっ……？"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Cảm xúc muốn chạy nhanh hơn, muốn mạnh mẽ hơn... suýt chút nữa tớ đã quên mất. Đã có hình mẫu mình muốn trở thành rồi thì đâu thể buông xuôi dễ dàng như vậy được chứ...!",
+      "jpname": "小柄なウマ娘",
+      "jptext": "速くなりたい、強くなりたいって思う気持ち……忘れかけてた。\nなりたいものがあるのに、諦めてなんかいられないよね……！"
+    },
+    {
+      "name": "Mã Nương nhỏ nhắn",
+      "text": "Ừm, tớ sẽ chạy thêm một lúc nữa! Rice-chan―― lần tới chúng mình gặp nhau trên đường đua nhé!!",
+      "jpname": "小柄なウマ娘",
+      "jptext": "うんっ、私、ちょっと走ってくる！\nライスちゃん――次は、レースで会おうねっ！！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A...",
+      "jpname": "ライスシャワー",
+      "jptext": "あっ……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "T-Tại sao chứ...? Tại Rice mà bạn ấy bị ướt sũng cơ mà... Vậy mà lại nói \"cảm ơn\"... tại sao vậy ạ...?",
+      "jpname": "ライスシャワー",
+      "jptext": "ど、どうして……？　ライスのせいで、びしょ濡れに……。\nなのに、『ありがとう』なんて……なんで……？",
+      "choice_data_list": [
+        "Chính em đã tiếp thêm động lực cho cô bé ấy đấy."
+      ],
+      "jpchoice_data_list": [
+        "ライスがあの子を励ませたんだよ"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Em... ư...? E-Em... hơ... hức...",
+      "jpname": "ライスシャワー",
+      "jptext": "私、が……？\nわ、たし……ふ、ふぇ……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oaaaaa-!",
+      "jpname": "ライスシャワー",
+      "jptext": "ふえぇぇぇ～～～ん！"
+    },
+    {
+      "name": "",
+      "text": "――Tôi đã ở bên vỗ về một Rice Shower òa khóc nức nở cho tới tận màn đêm buông xuống.",
+      "jpname": "モノローグ",
+      "jptext": "――大泣きしてしまったライスシャワーを、夜までなだめてあげた。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hức... Em xin lỗi vì tự dưng lại òa khóc như vậy ạ. Nhưng mà... em thấy vui quá.",
+      "jpname": "ライスシャワー",
+      "jptext": "ぐすっ……ごめんなさい、急に泣いちゃって。\nでも……うれしくって。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vì đây là lần đầu tiên... Em không mang lại bất hạnh cho ai đó... mà còn khích lệ được người khác.",
+      "jpname": "ライスシャワー",
+      "jptext": "初めて、だったから。\n誰かを不幸にするんじゃなくて……励ませたの、なんて。",
+      "choice_data_list": [
+        "Em đã mang lại hạnh phúc cho cô bé ấy đấy.",
+        "Em đã mang lại hạnh phúc cho cô bé ấy rồi đó."
+      ],
+      "jpchoice_data_list": [
+        "あの子を幸せにできたな",
+        "あの子を幸せにできたね"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...! Vâng... Nếu đúng là như vậy... thì em hạnh phúc lắm...!",
+      "jpname": "ライスシャワー",
+      "jptext": "……！\nうんっ……そうだったんなら……うれしいな……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice ấy mà, từ trước đến nay em luôn căm ghét một Rice vô dụng, nhưng mà――",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスね、いままでずっと、だめなライスが嫌いだったけど――"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice của ngày hôm nay... có lẽ em thấy yêu quý hơn một chút xíu rồi. Hi hi hi.",
+      "jpname": "ライスシャワー",
+      "jptext": "今日のライスは……ちょっとだけ、好き、かも。\nえへへへっ。"
+    },
+    {
+      "name": "",
+      "text": "Nụ cười mỉm của Rice Shower tỏa sáng rạng ngời, còn lấp lánh hơn cả bầu trời đầy sao...",
+      "jpname": "モノローグ",
+      "jptext": "微笑むライスシャワーの顔は、星空より眩く輝いていたのだった。"
+    }
+  ]
+}

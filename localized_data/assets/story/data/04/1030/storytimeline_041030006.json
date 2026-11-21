@@ -1,0 +1,482 @@
+{
+  "title": "Chứng kiến và nhận ra",
+  "jptitle": "見届けて、気づいて",
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Tuyệt quá... tuyệt rồi, yeah! Hi hi...!",
+      "jpname": "ライスシャワー",
+      "jptext": "やった……やった、やったぁ！　えへへっ……！"
+    },
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ giữa phố xá, tôi bắt gặp Rice Shower trông có vẻ vô cùng vui sướng.",
+      "jpname": "モノローグ",
+      "jptext": "休日の街中で、なにやら楽しそうにしている\nライスシャワーを見かけた。",
+      "choice_data_list": [
+        "Tâm trạng tốt quá nhỉ, Rice!",
+        "Tâm trạng vui vẻ quá nhỉ, Rice!"
+      ],
+      "jpchoice_data_list": [
+        "ご機嫌だな、ライス！",
+        "ご機嫌だね、ライス！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A, anh trai...! Hi hi... vâng ạ. Vì em vừa gặp chuyện vui mà...",
+      "jpname": "ライスシャワー",
+      "jptext": "あっ、お兄さま……！\nえへへ……うん。いいこと、あったから……。",
+      "choice_data_list": [
+        "Chuyện vui gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "いいことって？"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A, chị gái...! Hi hi... vâng ạ. Vì em vừa gặp chuyện vui mà...",
+      "jpname": "ライスシャワー",
+      "jptext": "あっ、お姉さま……！\nえへへ……うん。いいこと、あったから……。",
+      "choice_data_list": [
+        "Chuyện vui gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "いいことって？"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dạ là... em vừa mua được vé đấy ạ. Vở kịch sân khấu \"Đóa Hồng Xanh Hạnh Phúc\"...",
+      "jpname": "ライスシャワー",
+      "jptext": "えっとね……チケット、買えたんだ。\n『しあわせの青いバラ』の、舞台……。"
+    },
+    {
+      "name": "",
+      "text": "Nhắc đến \"Đóa Hồng Xanh Hạnh Phúc\", nhớ không lầm thì đó là cuốn truyện tranh mà Rice Shower vô cùng yêu thích.",
+      "jpname": "モノローグ",
+      "jptext": "『しあわせの青いバラ』といえば、\n確かライスシャワーの大好きな絵本作品だったはずだ。",
+      "choice_data_list": [
+        "Mua được vé thì tốt quá rồi!",
+        "Mua được vé thì vui quá rồi!"
+      ],
+      "jpchoice_data_list": [
+        "チケット、手に入ってよかったな！",
+        "チケット、手に入ってよかったね！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vâng ạ...!",
+      "jpname": "ライスシャワー",
+      "jptext": "うんっ……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice ấy mà, dễ gặp xui xẻo lắm... nên bình thường những chỗ đông người như rạp hát là em toàn tránh không dám đến thôi.",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスね、すぐ悪いこと起きちゃうから……普段は劇場とか\n人がいっぱいいるところって、いかないようにしてるんだけど。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thế nhưng... nhưng mà. Riêng vở kịch này thì... cái đó...!",
+      "jpname": "ライスシャワー",
+      "jptext": "でも……でもね。\nこ、この舞台だけは……あのね……！"
+    },
+    {
+      "name": "Mèo đen",
+      "text": "Meo meoooo-!",
+      "jpname": "黒猫",
+      "jptext": "にゃにゃーーーーー！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Á!?",
+      "jpname": "ライスシャワー",
+      "jptext": "きゃっ！？"
+    },
+    {
+      "name": "",
+      "text": "Đúng lúc đó, một con mèo đen bỗng xuất hiện ngoạm phắt tấm vé xem kịch trong túi áo của Rice Shower rồi phóng vụt đi mất!",
+      "jpname": "モノローグ",
+      "jptext": "その時、突然現れた黒猫がライスシャワーのポケットから\n舞台のチケットを奪い去り、駆けて行ってしまった！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "T-Thôi rồi...! Mèo đen ơi, đứng lại đã-!!",
+      "jpname": "ライスシャワー",
+      "jptext": "た、大変……！\n黒猫さんっ、待ってぇ～！！"
+    },
+    {
+      "name": "",
+      "text": "Rice Shower đã chạy đuổi theo con mèo đen mất rồi. Phải đuổi theo em ấy thôi...!",
+      "jpname": "モノローグ",
+      "jptext": "ライスシャワーが黒猫を追って走っていってしまった。\n後を追いかけよう……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hà, hà... Chắc chắn là hướng này...!",
+      "jpname": "ライスシャワー",
+      "jptext": "はぁ、はぁ……確か、こっちに……！"
+    },
+    {
+      "name": "Bác công nhân công trường",
+      "text": "Ấy dà, cô bé! Thông cảm nhé, chỗ này đang thi công nên không qua được đâu.",
+      "jpname": "工事現場のおじさん",
+      "jptext": "おっと、嬢ちゃん！　悪いな、ここは工事中で通れないんだ。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hả!? B-Biết làm sao bây giờ... Mèo đen chạy thẳng vào hướng này rồi cơ mà...!",
+      "jpname": "ライスシャワー",
+      "jptext": "えっ！？　ど、どうしよう……。\n黒猫さん、この先にいっちゃったのに……！"
+    },
+    {
+      "name": "Bác công nhân công trường",
+      "text": "Ừm, ta chỉ đường vòng cho thì được... nhưng mà dốc ở đó hơi gắt đấy nhé.",
+      "jpname": "工事現場のおじさん",
+      "jptext": "うーん、回り道なら教えてあげられるが……\nちょっと坂がきついんだよなぁ。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A... x-xin bác chỉ giúp cháu với ạ! Con dốc không sao đâu... cháu chạy được mà!",
+      "jpname": "ライスシャワー",
+      "jptext": "あ……お、教えてくださいっ！\n坂、大丈夫です……私、走れますっ！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Anh trai nữa, nếu lên dốc mà mệt thì cứ bảo Rice nhé. Rice sẽ nắm tay kéo anh trai đi mà...!",
+      "jpname": "ライスシャワー",
+      "jptext": "お兄さまも、坂でくたびれたらライスにいってね。\nライスがお兄さまの手、引っ張るから……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Chị gái nữa, nếu lên dốc mà mệt thì cứ bảo Rice nhé. Rice sẽ nắm tay kéo chị gái đi mà...!",
+      "jpname": "ライスシャワー",
+      "jptext": "お姉さまも、坂でくたびれたらライスにいってね。\nライスがお姉さまの手、引っ張るから……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hà, hà... Thấy rồi...!",
+      "jpname": "ライスシャワー",
+      "jptext": "はぁっ、はぁっ……見つけた……！"
+    },
+    {
+      "name": "Mèo đen",
+      "text": "Ngao ngao...!",
+      "jpname": "黒猫",
+      "jptext": "にゃにゃ……！",
+      "choice_data_list": [
+        "Rón rén lại gần thôi nào...!"
+      ],
+      "jpchoice_data_list": [
+        "そーっと近づこう……！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vâng, rón rén thôi...! Mèo đen ơi-, không đáng sợ đâu, không đáng sợ chút nào đâu mà-...!",
+      "jpname": "ライスシャワー",
+      "jptext": "うんっ、そーっと……！\n黒猫さ～ん、怖くない、怖くないよ～……！"
+    },
+    {
+      "name": "",
+      "text": "Tôi cùng Rice Shower từ từ nhích lại gần con mèo đen. Ngay khoảnh khắc đó, dưới chân bỗng có cảm giác khang khác...!",
+      "jpname": "モノローグ",
+      "jptext": "ライスシャワーとともに、黒猫へにじり寄る。\nその瞬間、足元に違和感が……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Á!!",
+      "jpname": "ライスシャワー",
+      "jptext": "ひゃ！！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ui da... Sao ở cái chỗ này lại có tới hai cái vỏ chuối cơ chứ-!? Anh trai ơi, anh có sao không!?",
+      "jpname": "ライスシャワー",
+      "jptext": "あいたぁっ……なんでこんなとこにバナナの皮が2つも～……！？\nお兄さま、大丈夫！？"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ui da... Sao ở cái chỗ này lại có tới hai cái vỏ chuối cơ chứ-!? Chị gái ơi, chị có sao không!?",
+      "jpname": "ライスシャワー",
+      "jptext": "あいたぁっ……なんでこんなとこにバナナの皮が2つも～……！？\nお姉さま、大丈夫！？"
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng đứng bật dậy nhìn quanh, nhưng con mèo đen đã biến mất tăm. Thậm chí còn chẳng rõ nó đã chạy biến theo hướng nào...",
+      "jpname": "モノローグ",
+      "jptext": "慌てて立ち上がり見てみるが、黒猫はすでにいなくなっていた。\nどちらの方へ走っていったかすらもわからない……。",
+      "choice_data_list": [
+        "(Biết làm sao bây giờ...)"
+      ],
+      "jpchoice_data_list": [
+        "（どうしようか……）"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "... Anh trai ơi. Em sẽ đi hỏi những người xung quanh xem có ai nhìn thấy con mèo đen không nhé.",
+      "jpname": "ライスシャワー",
+      "jptext": "……お兄さま。私、『黒猫さん見てませんか』って、\n周りの人に聞いてくるね。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "... Chị gái ơi. Em sẽ đi hỏi những người xung quanh xem có ai nhìn thấy con mèo đen không nhé.",
+      "jpname": "ライスシャワー",
+      "jptext": "……お姉さま。私、『黒猫さん見てませんか』って、\n周りの人に聞いてくるね。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi Rice Shower đứng dậy, với vẻ mặt gom hết dũng khí, em bắt đầu cất tiếng hỏi thăm từng người đi đường.",
+      "jpname": "モノローグ",
+      "jptext": "そう言うとライスシャワーは立ち上がり、\n勇気を振り絞った表情で、周囲の人々に声をかけ始めた。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "D-Dạ... cái đó!! Mọi người có nhìn thấy con mèo đen nào không ạ...!?",
+      "jpname": "ライスシャワー",
+      "jptext": "あ、ぁ……あのっ！！　黒猫さん、見てませんか……！？"
+    },
+    {
+      "name": "",
+      "text": "Sau đó tôi và Rice Shower tiếp tục cuộc tìm kiếm con mèo đen. Và khi hoàng hôn buông xuống, cuối cùng――!",
+      "jpname": "モノローグ",
+      "jptext": "その後もライスシャワーと黒猫を探し続けた。\nそして日暮れも近づいた頃、ついに――！"
+    },
+    {
+      "name": "Mèo đen",
+      "text": "Meo...",
+      "jpname": "黒猫",
+      "jptext": "にゃう～……。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mèo đen kìa...! Tấm vé của Rice vẫn còn đang ngậm trong miệng... May quá đi mất...!",
+      "jpname": "ライスシャワー",
+      "jptext": "黒猫さん……！\nライスのチケットも、まだくわえてる……よかったぁ……！",
+      "choice_data_list": [
+        "Được rồi, để anh lựa thế lấy lại cho nhé.",
+        "Được rồi, để tôi lựa thế lấy lại cho nhé."
+      ],
+      "jpchoice_data_list": [
+        "よし、俺が上手く取り返してみるよ",
+        "よし、私が上手く取り返してみるね"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Anh trai... em cảm ơn anh.",
+      "jpname": "ライスシャワー",
+      "jptext": "お兄さま……ありがとう。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Chị gái... em cảm ơn chị.",
+      "jpname": "ライスシャワー",
+      "jptext": "お姉さま……ありがとう。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nhưng mà không sao đâu... để Rice tự cố gắng. Em muốn tự mình cố gắng cơ.",
+      "jpname": "ライスシャワー",
+      "jptext": "でも、大丈夫……ライスががんばるよ。\nがんばりたいの。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vậy thì... em qua đó nhé.",
+      "jpname": "ライスシャワー",
+      "jptext": "じゃあ……いってきますっ。"
+    },
+    {
+      "name": "",
+      "text": "Nói xong, Rice Shower với ánh mắt hạ quyết tâm từng bước tiến về phía bụi rậm nơi con mèo đen đang ngồi――",
+      "jpname": "モノローグ",
+      "jptext": "そう告げると、ライスシャワーは意を決した表情で\n黒猫のいる茂みに向かって歩みを進め――"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mèo đen ơi...! Đ-Đừng chạy, xin hãy nghe mình nói đã.",
+      "jpname": "ライスシャワー",
+      "jptext": "黒猫さん……！\nに、逃げないで、聞いてくださいっ。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tấm vé đó là món đồ cực kỳ quý giá đối với Rice... N-Nên là, xin hãy trả lại cho mình có được không...!",
+      "jpname": "ライスシャワー",
+      "jptext": "そのチケットね、ライスのすっごく大切な物で……\nだ、だから、返してほしいの……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Xin bạn hãy giúp mình... meo...!",
+      "jpname": "ライスシャワー",
+      "jptext": "お願いします……にゃ……！"
+    },
+    {
+      "name": "Mèo đen",
+      "text": "... Meo à.",
+      "jpname": "黒猫",
+      "jptext": "……にゃあん。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A...",
+      "jpname": "ライスシャワー",
+      "jptext": "あ……。"
+    },
+    {
+      "name": "",
+      "text": "Con mèo đen đã đặt lại tấm vé rồi bỏ đi...!",
+      "jpname": "モノローグ",
+      "jptext": "黒猫が、チケットを置いて去っていった……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mèo đen ơi... cảm ơn bạn nhiều nhé...!",
+      "jpname": "ライスシャワー",
+      "jptext": "黒猫さん……ありがとう……！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "May quá rồi... Anh trai ơi, cảm ơn anh vì đã giúp em nữa nhé...!",
+      "jpname": "ライスシャワー",
+      "jptext": "よかった……お兄さまも、手伝ってくれてありがとう……！",
+      "choice_data_list": [
+        "Em đã kiên trì cố gắng không chịu bỏ cuộc, cừ lắm Rice!"
+      ],
+      "jpchoice_data_list": [
+        "よく諦めずに頑張ったな、ライス！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "May quá rồi... Chị gái ơi, cảm ơn chị vì đã giúp em nữa nhé...!",
+      "jpname": "ライスシャワー",
+      "jptext": "よかった……お姉さまも、手伝ってくれてありがとう……！",
+      "choice_data_list": [
+        "Em đã kiên trì cố gắng không chịu bỏ cuộc, cừ lắm Rice!",
+        "Bạn đã kiên trì cố gắng không chịu bỏ cuộc, cừ lắm Rice!"
+      ],
+      "jpchoice_data_list": [
+        "よく諦めずに頑張ったな、ライス！",
+        "よく諦めずに頑張ったね、ライス！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vâng... vì có anh trai ở bên cạnh em mà.",
+      "jpname": "ライスシャワー",
+      "jptext": "うん……お兄さまが、一緒だから。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Vâng... vì có chị gái ở bên cạnh em mà.",
+      "jpname": "ライスシャワー",
+      "jptext": "うん……お姉さまが、一緒だから。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice ấy mà, hễ có anh trai ở bên cạnh... là em lại thấy mình có thể cố gắng, có thể kiên cường bao nhiêu cũng được.",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスね、お兄さまがそばにいてくれたら……\nがんばろう、がんばるぞって、いくらでも思えるみたいなの。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice ấy mà, hễ có chị gái ở bên cạnh... là em lại thấy mình có thể cố gắng, có thể kiên cường bao nhiêu cũng được.",
+      "jpname": "ライスシャワー",
+      "jptext": "ライスね、お姉さまがそばにいてくれたら……\nがんばろう、がんばるぞって、いくらでも思えるみたいなの。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thế nên... thế nên là, anh trai ơi.",
+      "jpname": "ライスシャワー",
+      "jptext": "だから……だからね、お兄さま。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thế nên... thế nên là, chị gái ơi.",
+      "jpname": "ライスシャワー",
+      "jptext": "だから……だからね、お姉さま。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "――Xin hãy nhận lấy tấm vé này ạ!",
+      "jpname": "ライスシャワー",
+      "jptext": "――チケット、受け取ってくださいっ！",
+      "choice_data_list": [
+        "Hả, anh á!?",
+        "Hả, tôi sao!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、俺！？",
+        "えっ、私！？"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dạ, thực ra... đây là vé đôi đấy ạ. Em muốn tặng anh trai... để đền đáp lại sự quan tâm của anh bấy lâu nay.",
+      "jpname": "ライスシャワー",
+      "jptext": "あの、実は……ペアチケットなんだ。\nお兄さまにプレゼント……いつものお返し、したいなって思って。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dạ, thực ra... đây là vé đôi đấy ạ. Em muốn tặng chị gái... để đền đáp lại sự quan tâm của chị bấy lâu nay.",
+      "jpname": "ライスシャワー",
+      "jptext": "あの、実は……ペアチケットなんだ。\nお姉さまにプレゼント……いつものお返し、したいなって思って。"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-Người đi cùng em có được không...? Hay là... đ-đi cùng đứa như Rice thì phiền hà lắm đúng không ạ...",
+      "jpname": "ライスシャワー",
+      "jptext": "い、一緒に、いってくれる……？\nそれとも……や、やっぱり迷惑だったかな、ライスなんかと……。",
+      "choice_data_list": [
+        "Làm gì có chuyện đó, anh vui lắm chứ!",
+        "Làm gì có chuyện đó, tôi vui lắm chứ!"
+      ],
+      "jpchoice_data_list": [
+        "そんなことない、うれしいぞ！",
+        "そんなことない、うれしいよ！"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Thật ạ!? M-May quá đi mất...!!",
+      "jpname": "ライスシャワー",
+      "jptext": "ほんと！？　よ、よかったぁ～……！！"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, khi tôi xem lại ngày chiếu của vở kịch xem khi nào đi được thì...",
+      "jpname": "モノローグ",
+      "jptext": "しかし、いつ観に行こうかと舞台の日付を確認すると……。",
+      "choice_data_list": [
+        "――Vé này là suất hôm nay luôn sao!?",
+        "――Vé này là suất hôm nay luôn sao!?"
+      ],
+      "jpchoice_data_list": [
+        "――これ、当日券か！？",
+        "――これ、当日券！？"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dạ? Suất hôm nay là... Aaaa!!",
+      "jpname": "ライスシャワー",
+      "jptext": "え？　当日券って……ああっ！！"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Đúng thật kìa...! P-Phải nhanh lên thôi-!!",
+      "jpname": "ライスシャワー",
+      "jptext": "ほんとだ……！　い、急がなくっちゃ～！！"
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vã cùng Rice Shower lao đến nhà hát, và may mắn kịp giờ xem suất chiếu buổi tối hôm ấy...",
+      "jpname": "モノローグ",
+      "jptext": "急いでライスシャワーと舞台会場へ滑り込み、\nなんとか夜の部で観劇できたのだった……。"
+    }
+  ]
+}
