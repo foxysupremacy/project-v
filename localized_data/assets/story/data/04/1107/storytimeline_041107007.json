@@ -1,0 +1,494 @@
+{
+  "title": "Paddle Roll",
+  "jptitle": "Paddle Roll",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ trong chuyến tập huấn mùa hè. Tôi được người quản lý trại huấn luyện chia cho ít cá vừa mới câu lên.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿中のある日。合宿所の管理に携わっている人に、\n釣りたての魚をおすそ分けしてもらった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đang định đem chia phần cho Tap Dance City thì――tôi nghe thấy giọng em ấy đang rôm rả trò chuyện cùng các học sinh khác.",
+      "jpname": "モノローグ",
+      "jptext": "タップダンスシチーにもおすそ分けを、と考えていると――\n他の生徒と話している彼女の声が聞こえてきた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ra là thế――kèo này thì nhất định phải challenge mới được!",
+      "jpname": "タップダンスシチー",
+      "jptext": "なるほど――そいつはぜひともchallengeしないとな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer! Giương buồm xuất phát thôi!",
+      "jpname": "タップダンスシチー",
+      "jptext": "トレーナー！　出航だ！",
+      "choice_data_list": [
+        "Vừa khéo quá. Tôi đang có chuyện――"
+      ],
+      "jpchoice_data_list": [
+        "ちょうどよかった。用が――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Sorry, chuyện đó để sau đi! Giờ thì come on now, đi theo tôi mau!",
+      "jpname": "タップダンスシチー",
+      "jptext": "Sorry,　ちょっと後にしてくれ！\nとにかく、come on now！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Nào, trước hết nhìn ra đằng kia đi. Thấy hòn đảo ở đằng xa kia không?",
+      "jpname": "タップダンスシチー",
+      "jptext": "さ、まずは見てくれ。\n向こうに、島が見えるだろう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn theo hướng tay em ấy chỉ――cách bờ cát không xa quả nhiên có một hòn đảo. Nếu nhớ không nhầm thì đó là đảo hoang――",
+      "jpname": "モノローグ",
+      "jptext": "視線の先を見ると――砂浜からそう遠くない場所に、島があった。\n確か、無人島のはずだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Bây giờ chúng ta sẽ tới đó! Mau chuẩn bị đồ nghề thám hiểm thôi!",
+      "jpname": "タップダンスシチー",
+      "jptext": "今から、あそこに行くぞ！　さっそく冒険の準備だ！",
+      "choice_data_list": [
+        "Hả!? T…… Tại sao chứ?"
+      ],
+      "jpchoice_data_list": [
+        "え！？な……なぜ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ở nơi đó ấy à…… đang có kho báu say ngủ đấy!",
+      "jpname": "タップダンスシチー",
+      "jptext": "あそこにはな……お宝が眠っているのさ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Đó là truyền thuyết lưu truyền trong học viện. Nghe đồn ngày xửa ngày xưa, có một vị tiền bối đã nhân lúc mọi người ngủ say trong đêm vắng, lén chèo thuyền qua đảo rồi giấu nó ở đó.",
+      "jpname": "タップダンスシチー",
+      "jptext": "学園に伝わる伝説さ。ずっと、ずーっと昔の先輩が、\nみんなが寝静まった夜、密かにあの島に渡り、隠したらしい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Vàng bạc châu báu chăng? Hay là cây đèn thần ban điều ước? Có rất nhiều lời đồn đại――nhưng cho tới nay vẫn chưa một ai tìm ra kho báu đó!",
+      "jpname": "タップダンスシチー",
+      "jptext": "金銀財宝？　あるいは願いを叶えるランプ？\n噂はいろいろあるが――いまだ、その宝を見つけたヤツはいない！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Đã vậy thì đáp án chỉ có một! Đích thân hai chúng ta sẽ tìm ra nó chứ còn gì nữa!!",
+      "jpname": "タップダンスシチー",
+      "jptext": "となれば、答えは1つ！\nアタシたちで見つけてやるしかないだろ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Thứ cần thiết đầu tiên là…… thuyền! Phải đóng một con thuyền! Chung tay tạo nên một con thuyền thật cool ngầu nào!",
+      "jpname": "タップダンスシチー",
+      "jptext": "まず必要なものは……船！　船造りだな！\n力を合わせて、coolな船を造ろうぜ！",
+      "choice_data_list": [
+        "Ờ…… Ừ!",
+        "Đ…… Được thôi!"
+      ],
+      "jpchoice_data_list": [
+        "あ……ああ！",
+        "う……うん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế là, chúng tôi bắt tay vào tự làm một con thuyền――đúng hơn là một chiếc bè để đi qua đảo.",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、島に行くための船――\nもとい筏を自作することになった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Dù vậy, chúng tôi đâu thể tự tiện chặt cây quanh đó mang ra dùng được. Phải làm sao bây giờ――",
+      "jpname": "モノローグ",
+      "jptext": "……といっても、まさか勝手にその辺の木を\n切り倒して使うわけにもいかない。どうしたものか――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hmm…… Đúng là nan giải thật đấy. Trainer.",
+      "jpname": "タップダンスシチー",
+      "jptext": "Hmm……コイツは悩みどころだな。トレーナー。",
+      "choice_data_list": [
+        "Ừ. Vật liệu thì――",
+        "Phải. Nguyên liệu thì――"
+      ],
+      "jpchoice_data_list": [
+        "ああ。材料が――",
+        "うん。材料が――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Vẽ hình \"đầu lâu\" có khi đẹp nhỉ? Hay hình \"rồng\" cũng ngầu phết? Không thì chơi trội vẽ hình \"Mã Nương\" luôn ta……?",
+      "jpname": "タップダンスシチー",
+      "jptext": "やはり“ドクロ”がいいか？　“ドラゴン”ってのもアリか？\nいや、変わり種で“ウマ娘”もいいか……？",
+      "choice_data_list": [
+        "……Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Thuyền đi thám hiểm cơ mà? Nếu vậy thì trước hết――phải quyết định lá cờ giương lên đã chứ, không có cờ sao mà ra khơi được!",
+      "jpname": "タップダンスシチー",
+      "jptext": "冒険に出かける船だぞ？　だったらまずは何より――\n掲げる旗を決めなきゃあ、始まらないじゃないか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Bao nhiêu vấn đề chồng chất khiến việc làm bè nhanh chóng rơi vào bế tắc.",
+      "jpname": "モノローグ",
+      "jptext": "……いろいろと問題が重なり、\n筏作りは早くも暗礁に乗り上げてしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Shit! Bực bội thật đấy chứ……! Kho báu ngay trước mắt mà lại không với tới được……!",
+      "jpname": "タップダンスシチー",
+      "jptext": "Shit!　なんてもどかしいんだ……！\n手の届きそうなところにお宝があるってのに……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Đúng lúc đó, trong đầu tôi chợt nảy ra một ý! Có lẽ vẫn còn một cách.",
+      "jpname": "モノローグ",
+      "jptext": "――その時。ふと閃いた！\n1つ、方法があるかもしれない。",
+      "choice_data_list": [
+        "……Em đợi tôi một lát nhé?",
+        "……Cậu chờ tôi một lát được không?"
+      ],
+      "jpchoice_data_list": [
+        "……少し、待っていてくれるか？",
+        "……少し、待っていてくれる？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hửm? Ừ……",
+      "jpname": "タップダンスシチー",
+      "jptext": "ん？　ああ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Mặt trời lặn mất tiêu rồi. Trainer rốt cuộc đã đi đâu rồi không biết?",
+      "jpname": "タップダンスシチー",
+      "jptext": "……日も暮れちまった。\nトレーナー、いったいどこ行っちまったんだ？",
+      "choice_data_list": [
+        "――Để em đợi lâu rồi",
+        "――Để cậu phải chờ lâu rồi"
+      ],
+      "jpchoice_data_list": [
+        "――待たせたな",
+        "――待たせたね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Trainer!? Bồ đã đi đâu thế hả? ……Ủa mà, chiếc mũ hải tặc đó là sao……!?",
+      "jpname": "タップダンスシチー",
+      "jptext": "トレーナー！？　何してたんだ？\n……それに、その海賊帽は……！？",
+      "choice_data_list": [
+        "Tôi chuẩn bị xong thuyền rồi"
+      ],
+      "jpchoice_data_list": [
+        "船の準備ができた"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hả!? Thật sao!?",
+      "jpname": "タップダンスシチー",
+      "jptext": "っ！？　なんだって！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ồ……! Một chiếc thuyền hoành tráng ra phết……! Lại còn có cả cờ đầu lâu nữa chứ……!",
+      "jpname": "タップダンスシチー",
+      "jptext": "おお……！　立派なボートじゃないか……！\nそれに、ドクロの旗も……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phải rồi…… Tôi đã nhờ vả người quen ở trại huấn luyện từng chia cá cho mình để mượn được một chiếc thuyền nhỏ. Cùng với lá cờ hải tặc tự tay làm.",
+      "jpname": "モノローグ",
+      "jptext": "そう……魚を分けてくれた合宿所関係者の伝手をあたり、\nなんとか用意したボート。そして手製の海賊旗。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vì cao hứng tự làm luôn cả chiếc mũ cướp biển nên mới tốn chút thời gian――nhưng với chừng này thì hoàn toàn có thể sang tới đảo!",
+      "jpname": "モノローグ",
+      "jptext": "調子に乗って海賊帽まで自作していたら無駄に時間が\nかかってしまったが――これなら、島まで行ける！",
+      "choice_data_list": [
+        "Sẵn sàng nhổ neo bất cứ lúc nào rồi thưa…… Thuyền trưởng"
+      ],
+      "jpchoice_data_list": [
+        "いつでも出航できますぜ……キャプテン"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Hì hì. Hahahahahahaha!!",
+      "jpname": "タップダンスシチー",
+      "jptext": "……フフッ。ハッハッハッハッハ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Đỉnh lắm hỡi Trainer! Người cùng chung chiến thuyền với tôi nhất định phải là kẻ như bồ mới xứng!",
+      "jpname": "タップダンスシチー",
+      "jptext": "さすがだトレーナー！\n一緒に船に乗るなら、やっぱアンタみたいなヤツじゃないとな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Cắm cờ của hai ta lên mũi thuyền mau! ――Nhổ neo ra khơi nào!!",
+      "jpname": "タップダンスシチー",
+      "jptext": "船首に立てろ！　アタシたちの旗を！\n――出航だッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――Đến nơi rồi. ……Yên ắng thật đấy.",
+      "jpname": "タップダンスシチー",
+      "jptext": "――着いたな。……静かなもんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khi đặt chân tới nơi, hòn đảo hoang giữa đêm khuya mang vẻ rờn rợn khó tả. Khiến tôi bất giác thấy chùn bước――",
+      "jpname": "モノローグ",
+      "jptext": "こうして来てみると、夜の無人島はなかなかに不気味だ。\n思わず、気後れしてしまいそうになるが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――Vang lên nào, khúc nhạc chiến thắng♪ Hãy bay xa, tới vạch đích kia♪",
+      "jpname": "タップダンスシチー",
+      "jptext": "――響け、ファンファーレ～♪\n届け、ゴールまで～♪",
+      "choice_data_list": [
+        "!?"
+      ],
+      "jpchoice_data_list": [
+        "！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Nào, nhát gan thế thì chiếc mũ hải tặc trên đầu bồ khóc thét đấy biết không? Cứ cất cao tiếng hát rồi vui vẻ tiến bước thôi!",
+      "jpname": "タップダンスシチー",
+      "jptext": "ほら、ビビってちゃあ頭の海賊帽が泣くぜ？\n歌でも歌って、陽気に進んでいこうじゃないか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, sau một hồi hai đứa thám hiểm khắp hòn đảo――",
+      "jpname": "モノローグ",
+      "jptext": "そして、2人で島を探検した末――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――Trainer! Mau qua bên này đi!",
+      "jpname": "タップダンスシチー",
+      "jptext": "――トレーナー！\nこっちに来てくれ！",
+      "choice_data_list": [
+        "Tìm thấy kho báu rồi sao?",
+        "Tìm thấy kho báu rồi à?"
+      ],
+      "jpchoice_data_list": [
+        "宝が見つかったのか？",
+        "宝が見つかったの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Nhìn tảng đá đằng kia xem.",
+      "jpname": "タップダンスシチー",
+      "jptext": "……そこの岩を見てくれ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước mắt chúng tôi là một tảng đá khổng lồ cao hơn cả đầu người. Trên bề mặt phiến đá dường như có khắc chữ――",
+      "jpname": "モノローグ",
+      "jptext": "そこにあったのは――身の丈を超える、大きな岩。\n側面に、何か文字が刻まれているようだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Cùng nhau, dệt nên ước mơ\"",
+      "jpname": "モノローグ",
+      "jptext": "『ともに、夢を』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bên dưới dòng chữ ấy là tên của một người cạnh bên tên dường như của một Mã Nương. Đây là――",
+      "jpname": "モノローグ",
+      "jptext": "その言葉の下には、ウマ娘と思しき名前の横に、人の名前。\nこれは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Cái tên này…… hình như tôi thấy ở đâu đó rồi thì phải. Đúng rồi. Chắc chắn là――",
+      "jpname": "タップダンスシチー",
+      "jptext": "……この名前……どこかで見たような気がするぞ。\nそうだ。確か――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Là tên của một nàng Mã Nương từng lưu danh trong lịch sử các cuộc đua bằng những chiến tích vĩ đại. Cùng với tên của vị Trainer của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "……レース史に残る偉大な業績を残したウマ娘。\nそして、そのトレーナーの名前だった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Hahaha! Ahahahahahaha!",
+      "jpname": "タップダンスシチー",
+      "jptext": "……ハハハッ！　アッハッハッハッハッハッハ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Bị chơi một vố đau thật! Hóa ra là vậy sao…… Thứ nằm ở nơi này đâu phải là kho báu!",
+      "jpname": "タップダンスシチー",
+      "jptext": "やられたぜ！　そういうことか……\nここにあったのは、宝じゃあない！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Mà chính là dấu vết cuộc phiêu lưu của những con người tuyệt vời――đã cùng nhau săn đuổi kho báu tới tận cùng.",
+      "jpname": "タップダンスシチー",
+      "jptext": "……一緒に、とことん宝を追いかけた――\nそんな素敵なヤツらの、冒険の跡だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Trở lại bờ biển, khi tôi đang ngắm nhìn hòn đảo hoang vừa mới thám hiểm lúc nãy, Tap Dance City khẽ cất lời.",
+      "jpname": "モノローグ",
+      "jptext": "――浜に戻り、先ほどまで探検していた無人島を眺めていると、\nタップダンスシチーが静かに口を開いた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Kỳ lạ thật đấy. Rõ ràng chỉ là đi một vòng rồi quay về――vậy mà cảm giác như mang về trọn vẹn cả một lồng ngực đầy ắp điều kỳ diệu.",
+      "jpname": "タップダンスシチー",
+      "jptext": "不思議だな。行って帰ってきただけのはずなのに――\n胸いっぱいのものを持ち帰った気分だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Một chuyến phiêu lưu tuyệt vời. Đúng không nào?",
+      "jpname": "タップダンスシチー",
+      "jptext": "……いい冒険だった。なぁ？",
+      "choice_data_list": [
+        "……Đúng thế thật",
+        "……Phải rồi"
+      ],
+      "jpchoice_data_list": [
+        "……そうだな",
+        "……そうだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hai ta cũng sẽ khắc ghi lại minh chứng cho chuyến phiêu lưu vĩ đại nhất này. Lưu danh vào lịch sử các cuộc đua. Xây nên một tòa lâu đài khổng lồ để tất cả bạn bè cùng sinh sống.",
+      "jpname": "タップダンスシチー",
+      "jptext": "アタシたちも刻んでやろう。最高の冒険をしたって証。\nレースの歴史に名を刻んで。みんなが暮らせるでっかい城を建てて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Đi thôi nào hỡi ngài hoa tiêu. Dù là sóng to gió lớn cỡ nào hai ta cũng sẽ vượt qua, nhất định phải chạm tay vào sự lãng mạn cho bằng được.",
+      "jpname": "タップダンスシチー",
+      "jptext": "……行こうぜ、航海士殿。\nどんな大波も乗り越えて、必ずロマンを掴んでみせる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hải trình của hai chúng ta――sẽ còn vươn xa, vươn mãi về vô tận!",
+      "jpname": "タップダンスシチー",
+      "jptext": "アタシたちの航路は――どこまでも、どこまでも広がってるんだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

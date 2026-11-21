@@ -1,0 +1,487 @@
+{
+  "title": "Ball Change",
+  "jptitle": "Ball Change",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "――Lãng mạn thay cảm giác luôn dẫn đầu đoàn đua.",
+      "jpname": "モノローグ",
+      "jptext": "――常に先頭を駆けるロマン。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không cần ai cản gió. Chẳng màng toan tính phía sau. Một mình gánh trọn áp lực từ đoàn bám đuổi.",
+      "jpname": "モノローグ",
+      "jptext": "風よけなんて使わない。後ろの駆け引きなんて見えなくていい。\n後ろからのプレッシャーを、その一身に引き受けて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu chùng chân lúc này, đối thủ sẽ bắt kịp ngay. Nhưng nếu đẩy nhanh tốc độ, thể lực lại khó lòng cầm cự.",
+      "jpname": "モノローグ",
+      "jptext": "今、脚を緩めれば後続に追いつかれるだろう。\nだがペースを上げてしまえば、今度はスタミナがもたなくなる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nỗi sợ và rủi ro luôn chực chờ…… một canh bạc nắm chắc phần thua. Dẫu vậy, vẫn liều mình cầu lấy chiến thắng mong manh. Kiên trì, kiên trì, rồi lại kiên trì――",
+      "jpname": "モノローグ",
+      "jptext": "恐怖やリスクがつきまとう……分の悪い賭けだ。\nそれでも一か八かの勝利を求めて。粘って、粘って、粘って――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Biến cả tốc độ lẫn cục diện thành của riêng mình, trở thành \"kẻ thống trị cuộc đua\". ――Đó chính là sở trường \"Đào tẩu\".",
+      "jpname": "モノローグ",
+      "jptext": "ペースや展開すらも、己がものにする“レースの支配者”。\n――それが“逃げ”という脚質。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "……Chà, kế hoạch huấn luyện dựa trên đặc tính Đào tẩu à. Cậu mới vào nghề mà chi tiết phết nhỉ. Còn tính toán cả thời điểm bứt tốc lần hai theo từng diễn biến nữa.",
+      "jpname": "先輩トレーナーA",
+      "jptext": "……――へえ、逃げの特性を踏まえたトレーニング計画書、か。\n君、新米なのに細かいね。展開ごとに二の脚の使い時も計算してる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối B",
+      "text": "Lại còn đưa cả GⅠ vào kế hoạch nữa chứ! Khá đấy nhóc! Đã thế còn thắng kỷ lục, rồi thì du đấu nước ng……?",
+      "jpname": "先輩トレーナーB",
+      "jptext": "しかもGⅠも計画の内とは！　やるなぁっ！\nそれにレコード勝ちに、海外えんせ……？",
+      "choice_data_list": [
+        "Vâng, tôi còn có cả kế hoạch du đấu nước ngoài nữa!"
+      ],
+      "jpchoice_data_list": [
+        "はい、海外遠征のプランもあるんです！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Hahaha! Ghê thật đấy, đúng là lính mới có khác. Dù hy vọng mong manh nhưng vẫn dùng nhiệt huyết và mưu lược để đương đầu cơ à! Nào――",
+      "jpname": "先輩トレーナーA",
+      "jptext": "あっはっは！　すごいな～、さすが新米くん。\n望みが薄くとも、やる気と策で立ち向かうか！　さて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Giờ thì nói chuyện nghiêm túc, thực tế chút đi. Chúng ta là người lớn cả rồi. Gác mấy giấc mơ trẻ con qua một bên, thực tế lên, nhé?",
+      "jpname": "先輩トレーナーA",
+      "jptext": "地に足ついた真面目な話もしよっか。\n大人なんだから。子どもっぽい夢はおいて、現実的に、ね？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi ghi chép lại những lời chỉ bảo của các tiền bối vào sổ rồi bước ra ngoài. Khi ghé qua bãi bồi ven sông, tôi bắt gặp mấy đứa nhóc tiểu học đang trên đường tan trường.",
+      "jpname": "モノローグ",
+      "jptext": "先輩トレーナーから受けた指導をノートにまとめて\n外に出る。河川敷に寄ると、下校中の小学生たちとすれ違った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé đeo cặp sách",
+      "text": "Sau này em sẽ trở thành cầu thủ bóng chày――!!",
+      "jpname": "ランドセルの少年",
+      "jptext": "おれはっ、野球選手になるーーっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cô bé đeo cặp sách",
+      "text": "Còn em sẽ làm idol――! Em sẽ thành một idol lấp la lấp lánh――!!",
+      "jpname": "ランドセルの少女",
+      "jptext": "わたしはアイドルーっ！\nキラキラでピカピカなアイドルになるのーっ！",
+      "choice_data_list": [
+        "……\"Giấc mơ trẻ con\", sao?"
+      ],
+      "jpchoice_data_list": [
+        "……“子どもっぽい夢”、か"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "――Còn tôi, tôi sẽ xây một tòa lâu đài!!",
+      "jpname": "ウマ娘の少女",
+      "jptext": "――アタシは、城を建てる！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "……Nghe giấc mơ này có trẻ con quá đến mức muốn cười không?",
+      "jpname": "ウマ娘の少女",
+      "jptext": "……この夢も子どもみたいだと笑うか？",
+      "choice_data_list": [
+        "Hả――"
+      ],
+      "jpchoice_data_list": [
+        "えっ――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé đeo cặp sách",
+      "text": "…………Phụt, hahaha! Lâu đài á!? Sao mà làm được chứ――!?",
+      "jpname": "ランドセルの少年",
+      "jptext": "…………ぷっ、あはは～！　おしろ～！？\nムリじゃないの～！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "What? Này nhóc, nói thế là không được rồi! Tưởng tôi là ai chứ? Tôi là kẻ đi tìm kho báu, Tap Dance City đấy nhé!?",
+      "jpname": "ウマ娘の少女",
+      "jptext": "What?　少年、そりゃないよ！　アタシを誰だと？\n財宝を探す者、タップダンスシチーだぜ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Đã thế tòa lâu đài tôi xây đâu phải hạng xoàng! Phải là một tòa lâu đài Giant! Một lâu đài khổng lồ đủ để lũ bạn tôi nhảy múa thâu đêm tới sáng!",
+      "jpname": "タップダンスシチー",
+      "jptext": "しかもアタシが建てる城はただの城じゃあない！　Giantな城！\n仲間が朝まで踊り明かせるくらいのデカい城だ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Mỗi ngày đều ăn uống no say, quậy hết mình, mệt thì lăn ra ngủ! Bất cứ khi nào quay về cũng sẽ có những tiếng hát ầm ĩ chào đón, tôi sẽ tạo ra một nơi tuyệt vời như thế!",
+      "jpname": "タップダンスシチー",
+      "jptext": "毎日飲んで、騒いで、疲れたら眠って！\nいつ帰っても、うるさい歌声が迎えてくれる愛しい場所を作るのさ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Vì mục tiêu đó, tôi sẽ kiếm thật nhiều tiền! Thắng, thắng, và thắng liên tục trên đường đua! ――Kiếm đủ số tiền xứng tầm với giấc mơ của tôi!",
+      "jpname": "タップダンスシチー",
+      "jptext": "そのために金を稼ぐ！　レースで勝って勝って勝ちまくって！\n――アタシの夢に相応しいほどの金を！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Rồi, vào chuyện chính nào! It's your turn now! Vị đằng kia ơi, giấc mơ của bồ là gì thế?",
+      "jpname": "タップダンスシチー",
+      "jptext": "……さあ、本題！　It's your turn now!\nそこの御人、アンタの夢は？",
+      "choice_data_list": [
+        "Hả……?"
+      ],
+      "jpchoice_data_list": [
+        "へっ……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――Huh? Đã cười nhạo giấc mơ của lũ trẻ thì tôi cứ ngỡ bồ phải ấp ủ giấc mơ nào vĩ đại hơn cơ chứ?",
+      "jpname": "タップダンスシチー",
+      "jptext": "――Huh?　少年たちの夢を笑うからには、\nより壮大な夢を持っているかと思っていたけどな？",
+      "choice_data_list": [
+        "Ơ? Tôi đâu có cười――"
+      ],
+      "jpchoice_data_list": [
+        "え？笑ってなんて――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Chà chà. Vừa nãy chẳng phải bồ vừa cười trừ một cách chán nản bảo là: \"……'Giấc mơ trẻ con', sao?\" đấy thôi.",
+      "jpname": "タップダンスシチー",
+      "jptext": "おやおや。さっき『……“子どもっぽい夢”、か』なんて、\n気が抜けたように笑ってたじゃないか。",
+      "choice_data_list": [
+        "……! Không, đó là…… tôi đang nói về chính mình đấy"
+      ],
+      "jpchoice_data_list": [
+        "……！いいや、それは……自分のことだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Toàn thân tôi cứng đờ. Tôi siết chặt cuốn sổ đang cầm vào ngực.",
+      "jpname": "モノローグ",
+      "jptext": "――体が強張る。\n抱えていたノートを、グッと胸に引き寄せる。",
+      "choice_data_list": [
+        "……Giấc mơ của tôi mới là \"trẻ con\"",
+        "……Ước mơ của tôi mới thật là \"trẻ con\""
+      ],
+      "jpchoice_data_list": [
+        "……俺の夢が“子どもっぽい”んだ",
+        "……私の夢が“子どもっぽい”んだ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Chắc tại cậu chưa có kinh nghiệm dẫn dắt thôi, chứ giới đua khắc nghiệt lắm, chỉ cần bước chân được vào phân hạng Mở là may mắn lắm rồi đấy biết không?",
+      "jpname": "先輩トレーナーA",
+      "jptext": "指導経験がないからだとは思うけど、レースの世界って、\nオープン入りできれば御の字くらいハードルが高いんだからね？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Ngoài việc chinh phục GⅠ lại còn đặt mục tiêu phá kỷ lục rồi du đấu nước ngoài nữa…… Thế chẳng phải quá liều lĩnh sao?",
+      "jpname": "先輩トレーナーA",
+      "jptext": "GⅠ制覇以外にもレコード勝ちに海外遠征も目標って……\nそれは無茶じゃないかなぁ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó là một giấc mơ quá đỗi lớn lao, đến mức tiền bối còn bảo là thiếu thực tế. Nếu nói ra, chắc chắn ai nấy cũng sẽ bật cười nhạo báng…… Rằng một người trưởng thành mà lại ngây ngô đến thế.",
+      "jpname": "モノローグ",
+      "jptext": "非現実的だと、先輩から言われるくらいに大きな夢だ。\n語れば、それこそみんなが笑うだろう。……こんな大人が、と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――Kể cho tôi nghe đi nào!! Tò mò quá! Tôi tò mò chết đi được đây này!!",
+      "jpname": "タップダンスシチー",
+      "jptext": "――……っ、聞かせてくれよ！！\n気になる！　気になる、気になるぞ！！",
+      "choice_data_list": [
+        "Hả!? Không, chuyện đó là……"
+      ],
+      "jpchoice_data_list": [
+        "ええっ！？いや、それはその……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Đừng có giấu giếm nữa mà! Sự lãng mạn là phải cùng chia sẻ chứ! Hay là sao?",
+      "jpname": "タップダンスシチー",
+      "jptext": "もったいぶるなよ～！\nロマンは分け合うもんだろ～？　それともなんだ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Ước mơ của bồ thảm hại đến mức không dám hé nửa lời với tôi luôn đấy à?",
+      "jpname": "タップダンスシチー",
+      "jptext": "アタシに話すことすらできないくらい\n――情けない夢なのか？",
+      "choice_data_list": [
+        "……Không hề có chuyện đó!!"
+      ],
+      "jpchoice_data_list": [
+        "……そんなことない！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính tôi cũng phải giật mình trước âm lượng của bản thân. Đồng thời――từ sâu thẳm trong lòng, một cảm giác ấm ức cay đắng trào dâng.",
+      "jpname": "モノローグ",
+      "jptext": "自分の出した声に、自分で驚く。\nそれと同時に――ふつふつと背中から悔しさがこみ上げてきた。",
+      "choice_data_list": [
+        "(Tại sao lúc đó mình lại không cãi lại chứ...)",
+        "(Tại sao lúc ấy mình lại không phản bác lại chứ...)"
+      ],
+      "jpchoice_data_list": [
+        "（どうしてあの時に言い返せなかったんだ）",
+        "（どうしてあの時に言い返せなかったの）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Giới đua khắc nghiệt lắm, chỉ cần bước chân được vào phân hạng Mở là may mắn lắm rồi đấy biết không?",
+      "jpname": "先輩トレーナーA",
+      "jptext": "レースの世界って、オープン入りできれば\n御の字くらいハードルが高いんだからね？",
+      "choice_data_list": [
+        "(Vâng, tôi biết chứ)"
+      ],
+      "jpchoice_data_list": [
+        "（はい、わかっています）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tiền bối A",
+      "text": "Ngoài việc chinh phục GⅠ lại còn đặt mục tiêu phá kỷ lục rồi du đấu nước ngoài nữa…… Thế chẳng phải quá liều lĩnh sao?",
+      "jpname": "先輩トレーナーA",
+      "jptext": "GⅠ制覇以外にもレコード勝ちに海外遠征も目標って……\nそれは無茶じゃないかなぁ？",
+      "choice_data_list": [
+        "(Vâng, nhưng tôi vẫn muốn hướng đến mục tiêu đó)"
+      ],
+      "jpchoice_data_list": [
+        "（ええ、それでも目指したいんです）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Càng ngẫm lại, tôi càng thấy bản thân thật thảm hại và tức tối. Dù là ước mơ của chính mình…… nhưng trước mặt tiền bối, tôi lại chẳng thể kiên định bảo vệ nó.",
+      "jpname": "モノローグ",
+      "jptext": "振り返れば振り返るほど、情けなくて悔しくなる。\n自分の夢なのに……先輩の前ですら我を通せなかった自分が。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "……Giấc mơ về một kho báu, nhỉ.",
+      "jpname": "タップダンスシチー",
+      "jptext": "……宝の夢、か。",
+      "choice_data_list": [
+        "……Đúng vậy, đó là giấc mơ tuyệt vời nhất không gì sánh bằng",
+        "……Phải, đó là giấc mơ quý giá nhất trên đời"
+      ],
+      "jpchoice_data_list": [
+        "……そうだ、これ以上ないとっておきの夢だ",
+        "……そう、これ以上ないとっておきの夢だよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Nỗi uất ức vượt qua giới hạn biến thành sự liều lĩnh. Tôi nhắm mắt lại, hít một hơi thật sâu căng lồng ngực.",
+      "jpname": "モノローグ",
+      "jptext": "……悔しいを通り越して、もはやヤケだ。\n目を閉じて、肺いっぱいに空気を吸い込む。",
+      "choice_data_list": [
+        "Tôi muốn――đào tạo nên Mã Nương số một thế giới!!",
+        "Tôi muốn――dẫn dắt Mã Nương mạnh nhất thế giới!!"
+      ],
+      "jpchoice_data_list": [
+        "俺は――世界一のウマ娘を育てたい！！",
+        "私は――世界一のウマ娘を育てたい！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "――――……Hể.",
+      "jpname": "タップダンスシチー",
+      "jptext": "――――……へぇ。",
+      "choice_data_list": [
+        "……Thế nào, giấc mơ của tôi?",
+        "……Cậu thấy sao, về ước mơ của tôi?"
+      ],
+      "jpchoice_data_list": [
+        "……どうだ、俺の夢は？",
+        "……どう、私の夢は？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hahaha, câu trả lời là――",
+      "jpname": "タップダンスシチー",
+      "jptext": "ハハハッ、そりゃあ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Tuyệt vời nhất trần đời!!",
+      "jpname": "タップダンスシチー",
+      "jptext": "最高だ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hôm nay là ngày diễn ra \"Cuộc đua tuyển chọn\". Các Trainer tập trung về đường đua, chăm chú quan sát nhằm tìm kiếm Mã Nương mà mình muốn chiêu mộ. Trong số đó――",
+      "jpname": "モノローグ",
+      "jptext": "この日は『選抜レース』。トレーナーたちはコースへ集まり、\nスカウトしたいウマ娘を見つけようと、目を光らせる。その中に――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Nào, đến giờ diễn rồi! Cuộc đua tuyển chọn của tôi, Tap Dance City này bắt đầu đây!",
+      "jpname": "タップダンスシチー",
+      "jptext": "さあ、ショータイムだ！\nアタシ、タップダンスシチーの選抜レースだぞ！",
+      "choice_data_list": [
+        "(……Là cô bé ở bãi bồi ven sông hôm đó!!)"
+      ],
+      "jpchoice_data_list": [
+        "（……河川敷のあの子だ！！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chậc…… Tiêu hao thể lực trước trận làm cái quái gì không biết. Chạy cự ly trung bình đấy. Thể lực không cầm cự nổi đâu.",
+      "jpname": "エアシャカール",
+      "jptext": "チッ……レース前に体力消耗してどうする。\n中距離走ンだろ。スタミナ持たねェぞ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Shakur! Vẫn phong cách lạnh lùng mà đưa ra lời khuyên…… Bạn cùng lứa của tôi tốt bụng ghê cơ!",
+      "jpname": "タップダンスシチー",
+      "jptext": "シャカール！　相変わらずクールに……アドバイスをくれる。\nアタシの同期は優しいねぇ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……Phiền phức.",
+      "jpname": "エアシャカール",
+      "jptext": "……ウザ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Haha, lạnh nhạt thế. ――Khoan, ủa?",
+      "jpname": "タップダンスシチー",
+      "jptext": "ハハッ、つれないねぇ。――って、ん？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Bồ là người hôm nọ! Chủ nhân của giấc mơ \"Số một thế giới\" đây mà!",
+      "jpname": "タップダンスシチー",
+      "jptext": "アンタはこの前の！\n『世界一』の夢の持ち主じゃないか！",
+      "choice_data_list": [
+        "Em cũng nhớ tôi sao",
+        "Em cũng còn nhớ tới tôi à"
+      ],
+      "jpchoice_data_list": [
+        "君も俺を覚えていてくれたのか",
+        "貴方も私を覚えていてくれたんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Naturally. Sao mà quên được chứ. À――……phải rồi! Hãy tận mắt kiểm chứng bước chạy của tôi đi.",
+      "jpname": "タップダンスシチー",
+      "jptext": "Naturally.　忘れるわけないさ、\nああ――……そうだ！　その目で確認しなよ、アタシの走りを。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Xem liệu tôi có thể trở thành \"Mã Nương số một thế giới\" hay không.",
+      "jpname": "タップダンスシチー",
+      "jptext": "『世界一のウマ娘』にアタシがなれるか、どうかを。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, cuộc đua tuyển chọn của Tap Dance City chính thức bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "――そしてタップダンスシチーの選抜レースが始まった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
