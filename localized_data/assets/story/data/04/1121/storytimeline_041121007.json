@@ -1,0 +1,422 @@
+{
+  "title": "Hỡi người, chớ hề rời mắt khỏi hiệp sĩ",
+  "jptitle": "汝、騎士より目逸らすことなかれ",
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "——Ra là vậy. \"Đại hội bóng chuyền bãi biển giới hạn theo cặp đôi\" sao.",
+      "jpname": "デュランダル",
+      "jptext": "――なるほど。\n『バディ参加限定・ビーチバレー大会』ですか。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Thế này thì không thể không tham gia thử thách rồi. Giờ chính là lúc chứng minh cho thiên hạ thấy mối gắn kết quân thần của chúng ta.",
+      "jpname": "デュランダル",
+      "jptext": "これは、挑戦しないわけには参りませんね。\n今こそ我々の主従の絆を世に知らしめるべき時。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Bằng sức mạnh của \"Thánh Kiếm\" này, thần nhất định sẽ dâng tặng chiến thắng cho minh quân của thần!",
+      "jpname": "デュランダル",
+      "jptext": "我が『聖剣』の力を以て、\n必ず我が君に勝利を捧げてみせます！"
+    },
+    {
+      "name": "",
+      "text": "Thế là giữa kỳ huấn luyện hè dài ngày, chúng tôi quyết định tham gia sự kiện của địa phương, nhưng mà——",
+      "jpname": "モノローグ",
+      "jptext": "こうして長い夏合宿のさなか、\n地元のイベントに出場を決めたのだが――"
+    },
+    {
+      "name": "",
+      "text": "(Rào rào rào rào——)",
+      "jpname": "モノローグ",
+      "jptext": "（ザァアアアア――）"
+    },
+    {
+      "name": "Durandal",
+      "text": "Bầu trời đang khóc than……",
+      "jpname": "デュランダル",
+      "jptext": "空が泣いている……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Tình hình này thì việc tổ chức đại hội coi như vô vọng rồi. Tựa như ý trời đang can ngăn những cuộc tranh đấu vậy——",
+      "jpname": "デュランダル",
+      "jptext": "この様子では、大会の開催は絶望的でしょう。\nまるで、天が争いを諫めてでもいるかのよう――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vốn dĩ hôm nay sẽ là ngày đầy kiêu hãnh để dâng trọn chiến thắng lên minh quân. Thật là tiếc nuối khôn nguôi……",
+      "jpname": "デュランダル",
+      "jptext": "我が君に勝利を捧げる、誇るべき日となる予定でしたが。\n無念です……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Cất công chuẩn bị, rõ ràng là sẽ lập công thật đỉnh rồi được ngài khen ngợi cơ mà.",
+      "jpname": "デュランダル",
+      "jptext": "……せっかく、\nバッチリ活躍して褒めてもらえるはずだったのに。"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Ấy, xin lỗi ngài có điện thoại gọi đến. Thần xin phép một chút.",
+      "jpname": "デュランダル",
+      "jptext": "――と、すみません着信が。失礼いたします。"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Dạ? Vậy sao, dự báo đến tối mưa sẽ tạnh à. Vâng. Vì thế sẽ đổi sang bộ môn khác thay cho bóng chuyền bãi biển. Ra là thế.",
+      "jpname": "デュランダル",
+      "jptext": "――えっ？　そうですか、予報では夜には。\nはい。それで、ビーチバレーの代わりの競技をと。なるほど。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vậy bộ môn thay thế là gì—— hả?",
+      "jpname": "デュランダル",
+      "jptext": "それで代わりに何を――えっ？"
+    },
+    {
+      "name": "Durandal",
+      "text": "……A. Dạ không, chẳng có gì đâu ạ. Tôi đã rõ rồi.",
+      "jpname": "デュランダル",
+      "jptext": "……っ。\nいえ、何でもありません。承知いたしました。"
+    },
+    {
+      "name": "",
+      "text": "Đúng như dự báo thời tiết, đêm đến mưa đã tạnh hẳn. Dẫu vậy thi đấu trong màn đêm rất khó khăn, và hoạt động được chuẩn bị để thay thế là——",
+      "jpname": "モノローグ",
+      "jptext": "天気予報のとおり、夜にはすっかり雨が上がった。とはいえ\n闇の中で試合をするのは難しく、代わりに用意されたのが――"
+    },
+    {
+      "name": "Nhân viên học viện",
+      "text": "Các bạn tham gia đại hội thử thách lòng dũng cảm ơi, bàn đăng ký ở bên này nhé!",
+      "jpname": "学園スタッフ",
+      "jptext": "肝試し大会にご参加のかた～、エントリーはこちらになります～！",
+      "choice_data_list": [
+        "Ồ, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Mình đi thôi!",
+        "A, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Tụi mình đi thôi!"
+      ],
+      "jpchoice_data_list": [
+        "お、受付が始まったみたいだ。行こうか！",
+        "あ、受付が始まったみたい。行こっか！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "…………Ư.",
+      "jpname": "デュランダル",
+      "jptext": "…………っ。"
+    },
+    {
+      "name": "",
+      "text": "Đại hội thử thách lòng dũng cảm này chắc là giải pháp tình thế được chuẩn bị vội. Dù vậy, khu rừng đêm vẫn toát lên một bầu không khí rùng rợn lạnh gáy——",
+      "jpname": "モノローグ",
+      "jptext": "急場しのぎで用意されただろう肝試し大会。\nとはいえ、夜の森はおどろおどろしい雰囲気に満ちており――"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Tối tăm ghê rợn…… Tựa như hiệp sĩ không đầu trong truyện cổ tích sắp nhảy bổ ra vậy……)",
+      "jpname": "デュランダル",
+      "jptext": "（何て暗さ……。\n童話で見た首なし騎士でも出てきそうな……）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Không được…… Mình mà run sợ thì ra thể thống gì nữa chứ! Là một hiệp sĩ, mình phải bảo vệ \"Vua\" đến cùng——)",
+      "jpname": "デュランダル",
+      "jptext": "（いえ……私が怯えてどうするのです！\n騎士として、“王”を護り抜かないと――）"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Hỡi đức vua. Tầm nhìn hạn hẹp thế này chắc ngài đang bất an lắm.",
+      "jpname": "デュランダル",
+      "jptext": "――我が君。見通しが悪く、さぞご不安なことでしょう。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nhưng ngài cứ yên tâm. Dù có bất kỳ mối hiểm nguy nào ập tới, Durandal này nhất định sẽ trừ khử sạch sẽ!",
+      "jpname": "デュランダル",
+      "jptext": "しかしご安心ください。どのような危機が迫ろうとも、\n必ずこのデュランダルが排除してみせます！",
+      "choice_data_list": [
+        "Có cả nhân viên bố trí xung quanh nữa mà, không sao đâu"
+      ],
+      "jpchoice_data_list": [
+        "スタッフも配置されてるし、大丈夫だよ"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Vâng. ……Không, dẫu vậy thì vẫn có thể xảy ra chuyện vạn nhất. Trong giờ phút nguy nan, xin ngài đừng bao giờ rời xa thần——",
+      "jpname": "デュランダル",
+      "jptext": "はい。……いえ、それでも万一ということがあります。\nいざという時は、決して私の傍を――"
+    },
+    {
+      "name": "Durandal",
+      "text": "……A!?",
+      "jpname": "デュランダル",
+      "jptext": "……っ！？"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Thần thất lễ rồi. Xem ra chỉ là thần nghe nhầm tiếng gió rít mà thôi.",
+      "jpname": "デュランダル",
+      "jptext": "……失礼しました。\nどうやら風の音を聞き間違えたようです。"
+    },
+    {
+      "name": "",
+      "text": "Tôi thấy lạ lẫm trước vẻ mặt căng thẳng tột độ của em. Bất chợt, tôi nhận ra bàn tay nắm chặt của em đang khẽ run rẩy.",
+      "jpname": "モノローグ",
+      "jptext": "かなり張り詰めた様子を不思議に思う。と、\n固く握った彼女の手が、微かに震えているのに気づいてしまった。",
+      "choice_data_list": [
+        "(Chẳng lẽ…… em ấy sợ bóng tối sao?)",
+        "(Chẳng lẽ…… em sợ bóng tối à?)"
+      ],
+      "jpchoice_data_list": [
+        "（もしかして……暗闇が怖いのか？）",
+        "（もしかして……暗闇が怖いの？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù ngày thường Durandal luôn thể hiện dáng vẻ oai phong lẫm liệt, nhưng em ấy cũng là một thiếu nữ bình thường, có điều sợ hãi cũng là lẽ tự nhiên.",
+      "jpname": "モノローグ",
+      "jptext": "日頃から凜とした立ち姿を見せているデュランダルだが、\n彼女にだって人並みに怖いものがあってもおかしくはない。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng chắc chắn em ấy sẽ không đời nào chịu nói ra. Bởi niềm kiêu hãnh của hiệp sĩ không cho phép điều đó. Nếu đã vậy thì——",
+      "jpname": "モノローグ",
+      "jptext": "それでもきっと、彼女はそれを口にはできないだろう。\n騎士の矜持がそれを許さないから。だったら――"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Không sao hết. Chẳng có gì phải sợ cả. Mình là một hiệp sĩ. Dũng cảm hơn ai hết, mạnh mẽ hơn bất kỳ ai——",
+      "jpname": "デュランダル",
+      "jptext": "……大丈夫。何も恐れることはない。\n私は騎士だ。誰よりも勇敢で、誰よりも強く――",
+      "choice_data_list": [
+        "Hơn nữa, còn nhanh hơn bất kỳ ai!!"
+      ],
+      "jpchoice_data_list": [
+        "それに、誰よりも速い！！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "……Ơ…………?",
+      "jpname": "デュランダル",
+      "jptext": "……え…………？"
+    },
+    {
+      "name": "",
+      "text": "Có thể tôi đã làm em giật mình, nhưng tôi vẫn tiếp tục cất lời khích lệ. Vì điều duy nhất tôi có thể làm lúc này là vực dậy lòng dũng cảm trong em.",
+      "jpname": "モノローグ",
+      "jptext": "驚かせたかもしれないが、気にせず声をかけ続ける。\n自分にできるのは、彼女を奮い立たせてあげることだけだから。",
+      "choice_data_list": [
+        "Chẳng ai có thể đánh bại được em đâu!",
+        "Không ai có thể thắng được em đâu!"
+      ],
+      "jpchoice_data_list": [
+        "君相手に勝てるものなんていない！",
+        "貴方相手に勝てるものなんていない！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "……A, Trainer……",
+      "jpname": "デュランダル",
+      "jptext": "……っ、トレーナー殿……っ。",
+      "choice_data_list": [
+        "Chỉ cần có em ở bên thì tôi chẳng sợ hãi điều gì!",
+        "Có em ở bên thì tôi chẳng còn sợ gì nữa!"
+      ],
+      "jpchoice_data_list": [
+        "君がいれば、俺も怖いものはないよ！",
+        "貴方がいれば、私も怖いものはないよ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "………….",
+      "jpname": "デュランダル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Xin hãy phó thác cho thần, hỡi đức vua. Chính vì có ngài ở bên, thần mới có thể hóa thành thanh kiếm mạnh nhất.",
+      "jpname": "デュランダル",
+      "jptext": "お任せください、我が君。\n貴方がいればこそ、私は最強の剣となれるのですから。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nào, xin mời người hãy bám lên lưng thần. Đường mòn tăm tối này, thần sẽ dùng \"Thánh Kiếm\" quét sạch chỉ bằng một nhát!",
+      "jpname": "デュランダル",
+      "jptext": "さあ、どうぞ我が背に。\n暗路など、我が『聖剣』でひと薙ぎにしてみせましょう！"
+    },
+    {
+      "name": "Durandal",
+      "text": "Xin ngài hãy bám cho thật chặt. ——Haaaaaaa!!!!",
+      "jpname": "デュランダル",
+      "jptext": "しっかりとおつかまりを。\n――ハァアアアアア！！！！"
+    },
+    {
+      "name": "Durandal",
+      "text": "Hộc, hộc, hộc——",
+      "jpname": "デュランダル",
+      "jptext": "はぁっ、はぁっ、はぁっ――",
+      "choice_data_list": [
+        "Đỉnh quá! Trong chớp mắt đã qua rồi!",
+        "Đỉnh ghê! Loáng một cái là xong rồi!"
+      ],
+      "jpchoice_data_list": [
+        "すごい！あっという間だったな！",
+        "すごい！あっという間だったね！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Đương nhiên…… rồi ạ. Một khi \"Thánh Kiếm\" của thần đã ra tay thì khu rừng cỏn con cỡ đó——",
+      "jpname": "デュランダル",
+      "jptext": "当然……っ、ですっ。\n我が『聖剣』にかかれば、あのような森ごとき――",
+      "choice_data_list": [
+        "Giờ chỉ cần vào cái hang kia lấy bùa trừ tà nữa là xong!",
+        "Giờ chỉ cần vào cái hang kia lấy lá bùa nữa là xong rồi!"
+      ],
+      "jpchoice_data_list": [
+        "あとはあの洞窟でお札をもらうだけだ！",
+        "あとはあの洞窟でお札をもらうだけだよ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "A…………",
+      "jpname": "デュランダル",
+      "jptext": "あ…………。"
+    },
+    {
+      "name": "",
+      "text": "Vừa nghe tôi nói xong, ánh mắt Durandal liền dao động kịch liệt. Khổ nỗi thử thách này bắt buộc phải lấy được lá bùa trong hang đá phía trước mới tính là hoàn thành.",
+      "jpname": "モノローグ",
+      "jptext": "伝えた途端デュランダルの瞳が揺らいだ。だがこの肝試しは\nこの先の洞窟にある、お札を取ってこないとクリアにならない。"
+    },
+    {
+      "name": "",
+      "text": "Trong hang còn tối hơn cả ngoài rừng, lại chật hẹp khó lòng chạy nhanh. Dù trước giờ tôi luôn tôn trọng ý chí và cổ vũ em, nhưng mà——",
+      "jpname": "モノローグ",
+      "jptext": "森よりも暗く、走るのも難しそうな狭さ。\nこれまで彼女の意思を尊重し、鼓舞してきたものの――",
+      "choice_data_list": [
+        "(Đến nước này có lẽ nên để em ấy bỏ cuộc thì hơn……?)"
+      ],
+      "jpchoice_data_list": [
+        "（さすがに、もう棄権させたほうが……？）"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "…………Trainer……",
+      "jpname": "デュランダル",
+      "jptext": "…………トレーナー殿……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Thần đã hạ quyết tâm rồi. Cho dù phía trước có gian nan hiểm trở nhường nào, thần xin lấy niềm kiêu hãnh này ra thề sẽ bảo vệ minh quân đến cùng.",
+      "jpname": "デュランダル",
+      "jptext": "私、覚悟を決めました。この先いかなる苦難が待ち受けようと、\nこの矜持にかけ必ず我が君をお護りすると。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nhưng phía trước càng thêm tối tăm, lối đi cũng gập ghềnh hiểm trở. Vì long thể quý báu của ngài, xin hãy ban cho thần vinh dự được nắm tay dẫn đường.",
+      "jpname": "デュランダル",
+      "jptext": "ですがこの先はより暗く、足元も危うくなっております。\nどうか大切な御身のため、私に先導する栄誉をお与えください。"
+    },
+    {
+      "name": "",
+      "text": "Hẳn là trong lòng em muốn nói \"em sợ lắm nên muốn nắm tay ngài\" rồi. Nhìn nét mặt căng cứng của em mà lòng tôi đau thắt lại.",
+      "jpname": "モノローグ",
+      "jptext": "きっと本音では『怖いから手を握りたい』と言いたいのだろう。\n強張った表情に胸が痛くなる。",
+      "choice_data_list": [
+        "(Cứ thẳng thắn dựa vào tôi cũng được mà. Nhưng mà——)"
+      ],
+      "jpchoice_data_list": [
+        "（素直に頼ってもいいのに。でも――）"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Sau này nếu có kẻ cười nhạo giấc mơ của em ấy là nực cười, thì chỉ riêng em tuyệt đối không bao giờ được quay lưng lại với sự nghiêm túc của em ấy.",
+      "jpname": "先輩トレーナー",
+      "jptext": "この先もし、彼女の夢を滑稽と笑う者が現れても、\n君だけは彼女の本気から目をそらしてはいけないよ。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Trainer chính là điểm tựa cho giấc mơ của các Mã Nương. Em phải luôn nhớ rằng bản thân là \"vị minh quân đáng tin cậy\" của em ấy nhé.",
+      "jpname": "先輩トレーナー",
+      "jptext": "トレーナーとは、ウマ娘たちの夢の支柱だ。\n“頼るべき君主”である自分を、忘れないようにしていかないとね。"
+    },
+    {
+      "name": "",
+      "text": "Hình ảnh mà em ấy khao khát chính là bản thân trong tư thế một người hiệp sĩ quả cảm và kiêu hãnh. Nếu đã vậy, tôi không được phép vạch trần dáng vẻ yếu đuối trái ngược kia.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が求めているのは、誇り高く勇敢な騎士としての自分だ。\nであるなら、そうではない姿など暴くべきではない。",
+      "choice_data_list": [
+        "Cảm ơn em, tôi chỉ còn biết trông cậy vào em thôi",
+        "Cảm ơn em nhé, tôi chỉ còn biết dựa vào em thôi"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう、君だけが頼りだ",
+        "ありがとう、貴方だけが頼りだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Nắm chặt……)",
+      "jpname": "モノローグ",
+      "jptext": "（ぎゅっ……）"
+    },
+    {
+      "name": "Durandal",
+      "text": "A…………",
+      "jpname": "デュランダル",
+      "jptext": "ぁ…………。"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Cảm tạ người, hỡi đức vua của thần. Xin ngài ngàn vạn lần đừng buông tay thần ra nhé.",
+      "jpname": "デュランダル",
+      "jptext": "……ありがとうございます、我が君。\nどうぞ、決してこの手を放しませんよう。",
+      "choice_data_list": [
+        "Tôi biết rồi, chúng ta cùng đi nào……!"
+      ],
+      "jpchoice_data_list": [
+        "わかった、一緒に行こう……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc mất quá nhiều thời gian để hoàn thành, \"Đại hội thử thách lòng dũng cảm\" kết thúc với giải khuyến khích tham gia——",
+      "jpname": "モノローグ",
+      "jptext": "結局クリアに時間がかかり、\n『肝試し大会』は参加賞に終わってしまった――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Sức mọn không tròn phận sự, thần thành thật cáo tội cùng ngài. Khắc cốt ghi tâm bài học này, sau này thần sẽ nỗ lực tôi luyện nhiều hơn nữa.",
+      "jpname": "デュランダル",
+      "jptext": "力及ばず、申し訳ありません。\nこの反省を胸に、以後も精進して参りたいと思います。"
+    },
+    {
+      "name": "Durandal",
+      "text": "(……Bàn tay ấy, ấm áp thật đấy……)",
+      "jpname": "デュランダル",
+      "jptext": "（……あの手、温かかった……）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Quả nhiên, nếu là cùng với Trainer thì mình……)",
+      "jpname": "デュランダル",
+      "jptext": "（やはり、トレーナー殿となら私は……）"
+    },
+    {
+      "name": "",
+      "text": "Đêm cùng nhau vượt qua bóng tối mịt mùng. Tôi cảm thấy khoảng cách giữa hai chúng tôi dường như đã xích lại gần nhau hơn một chút.",
+      "jpname": "モノローグ",
+      "jptext": "2人で暗闇を乗り越えた夜。\n少しだけ互いの距離が縮んだように感じたのだった。"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "title": "Lòng sùng kính thiêng liêng! Hiệp sĩ đạo chính là con đường của ta",
+  "jptitle": "神聖なる憧憬！騎士道こそ我が道",
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Về tác chiến—— tôi muốn thi đấu bằng chiến thuật \"Bứt tốc\".",
+      "jpname": "デュランダル",
+      "jptext": "作戦は――“追込”で行きたいと思います。",
+      "choice_data_list": [
+        "Ừ, cứ thế đi! Tung hết sức ra nào!",
+        "Ừm, cứ thế đi! Cháy hết mình nào!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、それで！ぶちかまそう！",
+        "うん、それで！ぶちかまそう！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Tung…… hết sức sao?",
+      "jpname": "デュランダル",
+      "jptext": "ぶち……かます？"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Cảm ơn ngài đã tán đồng. Vậy thì, xin ngài cho các chỉ thị khác——",
+      "jpname": "デュランダル",
+      "jptext": "……賛同してくれて、ありがとうございます。\nでは、それ以外の指示を――"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Ra là vậy, lại chiều theo ý đối phương hệt như Trainer thiên tài à. Nhưng mà chỉ là bản sao chép hạng bét thôi nhé.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "なるほど、天才トレーナーと同じく、相手に合わせるか。\nだが、ただの劣化コピーじゃな。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Chính là lúc này!! Nhát kiếm thứ ba, Đòn tung cánh của Olivier! Yaaaaaaa!!",
+      "jpname": "デュランダル",
+      "jptext": "ここでッ！！\n三の剣、オリヴィエの飛翔！　やぁああああああ！！"
+    },
+    {
+      "name": "",
+      "text": "Kết quả là—— lại một chiến thắng áp đảo. Quả nhiên khác biệt, đẳng cấp quá sức vượt trội. Dù tôi chỉ đưa ra vài chỉ thị nhỏ, em ấy đã đáp lại bằng độ sắc bén hoàn toàn áp đảo.",
+      "jpname": "モノローグ",
+      "jptext": "結果は――またしても圧勝。やはり違う、物が違いすぎる。\n少し指示を出しただけで、圧倒的な切れ味で応えてくれた。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Thần đã khải hoàn bình an trở về. Vinh quang này, xin bệ hạ hãy thu nhận lấy.",
+      "jpname": "デュランダル",
+      "jptext": "無事に凱旋しました。\nこの栄光、どうかお収めください。",
+      "choice_data_list": [
+        "Tuyệt vời! Tuyệt vời lắm, Durandal!"
+      ],
+      "jpchoice_data_list": [
+        "すごい！すごいよ、デュランダル！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Dạ……? Ơ kìa……",
+      "jpname": "デュランダル",
+      "jptext": "え……？　はぁ……。",
+      "choice_data_list": [
+        "Quá sức đỉnh cao! Đôi chân ấy tôi chưa từng thấy bao giờ!"
+      ],
+      "jpchoice_data_list": [
+        "すごすぎる！あんな脚、見たことないよ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "——Th-Thật vinh hạnh cho tôi. Nhưng đâu đến mức ngài phải vui mừng tới độ ấy……",
+      "jpname": "デュランダル",
+      "jptext": "――こ、光栄です。\nですが、そこまで喜ぶようなことでは……。"
+    },
+    {
+      "name": "Trainer trung cấp C",
+      "text": "Trời ạ, hớn hở đến thế kia cơ à. Đúng là trẻ con thật đấy.",
+      "jpname": "中堅トレーナーC",
+      "jptext": "あーあ、あんなにはしゃいじゃって。\nまだ子どもね。"
+    },
+    {
+      "name": "Trainer trung cấp C",
+      "text": "Vả lại, ngay cả Trainer thiên tài thắng trận còn chẳng ký được hợp đồng nữa là. Cậu ta rồi cũng……",
+      "jpname": "中堅トレーナーC",
+      "jptext": "それに、あの天才トレーナーでも勝っても契約には至らなかった。\nならば、あの子も……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Này…… thứ lỗi cho tôi nhưng……",
+      "jpname": "デュランダル",
+      "jptext": "あの……申し訳ありませんが……。",
+      "choice_data_list": [
+        "Hửm, có chuyện gì sao?"
+      ],
+      "jpchoice_data_list": [
+        "ん、なに？"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Đổi sang một ngày khác…… ngài có thể dành chút thời gian cho tôi không? Tôi muốn trò chuyện đôi chút với ngài.",
+      "jpname": "デュランダル",
+      "jptext": "日を改めて……時間をいただけませんか？\n少し話してみたいと思います、貴方と。",
+      "choice_data_list": [
+        "Được chứ, tôi rất sẵn lòng!",
+        "Được chứ, tôi sẵn lòng lắm!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、喜んで！",
+        "うん、喜んで！"
+      ]
+    },
+    {
+      "name": "Trainer trung cấp C",
+      "text": "Ơ, ơ kìa……? Chuyện thế này từ trước tới nay chưa từng có bao giờ……",
+      "jpname": "中堅トレーナーC",
+      "jptext": "あ、あら……？　こんなこと今まで1度も……。"
+    },
+    {
+      "name": "",
+      "text": "Được Durandal mời, vào ngày nghỉ tôi đã cùng em đến một nơi nọ.",
+      "jpname": "モノローグ",
+      "jptext": "デュランダルに誘われて、\n休日、ある場所に出かけた。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nếu là trò chuyện thì quả nhiên nơi này là thích hợp nhất. Xin ngài cứ tự nhiên.",
+      "jpname": "デュランダル",
+      "jptext": "話すなら、やはりここですね。\nどうか楽にしてください。",
+      "choice_data_list": [
+        "Nhà thờ? Sao lại đến đây vậy?"
+      ],
+      "jpchoice_data_list": [
+        "教会？どうして、ここへ？"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "……Nhắc tới thánh kỵ sĩ thì phải là nhà thờ chứ. Tôi rất coi trọng những nơi chốn giúp mình được sống là chính mình.",
+      "jpname": "デュランダル",
+      "jptext": "……聖騎士といえば、教会ですよね。\n自分らしくいられる場所にはこだわりたいので。"
+    },
+    {
+      "name": "",
+      "text": "Nghĩ lại thì đây là thắc mắc bấy lâu nay trong lòng tôi, nên tôi đánh bạo hỏi thử.",
+      "jpname": "モノローグ",
+      "jptext": "そういえば前から疑問ではあったのだが、思い切って聞いてみる。",
+      "choice_data_list": [
+        "Em đâu phải là hiệp sĩ thực thụ đâu đúng không?",
+        "Em đâu thực sự là một hiệp sĩ đâu đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "本当に騎士ってわけじゃないよな？",
+        "本当に騎士ってわけじゃないよね？"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "……Đáng tiếc là không phải. Nhưng tôi vẫn là hiệp sĩ. Trái tim tôi chính là một hiệp sĩ……!",
+      "jpname": "デュランダル",
+      "jptext": "……残念ながら。\nでも騎士です。心は騎士……！"
+    },
+    {
+      "name": "Durandal",
+      "text": "Đó là ước mơ mà tôi hằng ấp ủ từ thuở ấu thơ.",
+      "jpname": "デュランダル",
+      "jptext": "憧れだったんです、小さい時から。"
+    },
+    {
+      "name": "Quốc vương Charles",
+      "text": "Roland, vất vả cho khanh rồi. Chiến công lần này của khanh quả thực vô cùng xuất sắc.",
+      "jpname": "国王シャルル",
+      "jptext": "ローラン、ご苦労であった。\nこの度の其方の働き、実に素晴らしかったぞ。"
+    },
+    {
+      "name": "Thánh kỵ sĩ Roland",
+      "text": "Được bệ hạ ngợi khen, thần vô cùng vinh hạnh. Lưỡi kiếm của thần mãi mãi chỉ hướng về—— đức vua.",
+      "jpname": "聖騎士ローラン",
+      "jptext": "お褒めに与り、光栄です。\n我が剣はただ――王のために。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Chỉ dâng kiếm cho duy nhất một vị vua đáng kính, và rồi—— sống một đời tận tụy cống hiến.",
+      "jpname": "デュランダル",
+      "jptext": "ただ1人、尊敬する王に剣を捧げ、\nそして――尽くして生きる。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Tôi từng ao ước một ngày nào đó sẽ trở thành hiệp sĩ như trong truyện cổ tích…… Thế rồi vào một ngày nọ——",
+      "jpname": "デュランダル",
+      "jptext": "いつか、童話で見た騎士のようになりたい……。\nそんなある日――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Chị gái tôi đã tham gia một cuộc đua và giành chiến thắng…… Trainer phụ trách đã ngợi ca chiến công ấy hệt như một vị quân vương.",
+      "jpname": "デュランダル",
+      "jptext": "私の姉がレースに出たんです。そして勝利……。\n担当トレーナーは、王のようにその働きを称えていました。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Đó đích thực là mối quan hệ quân thần lý tưởng. Niềm khao khát trong tôi càng thêm mãnh liệt, mong muốn được sống như một hiệp sĩ trong thế giới đường đua này.",
+      "jpname": "デュランダル",
+      "jptext": "まさしく理想の主従。憧れはより強まりました。\n私もレースの世界で、騎士のように生きてみたいと。",
+      "choice_data_list": [
+        "Ra là vậy sao……",
+        "Ra là như thế……"
+      ],
+      "jpchoice_data_list": [
+        "そうだったのか……",
+        "そうだったんだ……"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Có lẽ…… đó chỉ là một ước vọng ngây ngô trẻ con mà thôi……",
+      "jpname": "デュランダル",
+      "jptext": "もしかしたら……子どもじみた憧憬かもしれませんが……。",
+      "choice_data_list": [
+        "Không có chuyện đó đâu. Đẹp đẽ lắm chứ!"
+      ],
+      "jpchoice_data_list": [
+        "そんなことない。素晴らしいよ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Đẹp đẽ…… Ngài có quá lời không đấy……",
+      "jpname": "デュランダル",
+      "jptext": "素晴らしい……。やや大仰では……。",
+      "choice_data_list": [
+        "Không, ước mơ là thứ đáng để theo đuổi tới cùng!",
+        "Không hề, ước mơ là điều nên theo đuổi đến cùng chứ!"
+      ],
+      "jpchoice_data_list": [
+        "いや、憧れはとことん追うべきだ！",
+        "ううん、憧れはとことん追うべきだよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bản thân tôi mải miết noi theo tiền bối cũng chẳng khác gì. Tôi muốn dốc lòng ủng hộ ước mơ của Durandal đến cùng.",
+      "jpname": "モノローグ",
+      "jptext": "それは先輩を追う自分も同じこと。\nデュランダルの夢をとことん後押ししてあげたかった。"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Người này…… nhiệt huyết thật đáng nể…… Nhưng không phải chỉ nói suông. Cuộc đua vừa rồi cũng đã giúp mình giành chiến thắng trọn vẹn……)",
+      "jpname": "デュランダル",
+      "jptext": "（この人……勢いがすごい……。でも口だけじゃない。\nこの間のレースでも、ちゃんと勝たせてくれた……）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Nhưng vị Trainer thiên tài kia cũng từng giúp mình chiến thắng. Nếu chỉ xét về kinh nghiệm, chắc chắn bên kia vượt trội hơn……)",
+      "jpname": "デュランダル",
+      "jptext": "（でも勝たせてくれたのは、天才と言われたあの人も同じ。\n経験だけなら、向こうの方がきっと上……）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Thế nhưng…… tại sao mình lại bận tâm về con người này nhiều đến thế chứ?)",
+      "jpname": "デュランダル",
+      "jptext": "（なのに……この人のことが、\nこんなにも気にかかるのは、どうして？）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Chẳng lẽ chỉ là…… hiểu lầm nhất thời thôi sao? Để kiểm chứng điều đó thì——)",
+      "jpname": "デュランダル",
+      "jptext": "（ただの……勘違いなのかしら？\nそれを確かめるには――）"
+    },
+    {
+      "name": "Durandal",
+      "text": "Hỡi vị vua tạm thời. Thần có một lời thỉnh cầu dành cho ngài.",
+      "jpname": "デュランダル",
+      "jptext": "仮初めの王よ。\n貴方に頼みがあります。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngài có thể cùng tôi tham gia thử thách này không? ——Một cuộc đua đối đầu với địch thủ lão luyện hơn nữa.",
+      "jpname": "デュランダル",
+      "jptext": "私と一緒に、挑んでいただけないでしょうか？\n――さらなる手練れとのレースに。",
+      "choice_data_list": [
+        "Đối thủ lão luyện hơn nữa sao?"
+      ],
+      "jpchoice_data_list": [
+        "さらなる手練れ？"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Vâng. Trong cuộc đua trước kẻ địch hùng mạnh, tôi muốn kiểm chứng cho rõ. Xem ngài có thực sự là vị vua mà tôi nên dâng hiến thanh kiếm này hay không.",
+      "jpname": "デュランダル",
+      "jptext": "はい。強敵相手のレースで確かめたいのです。\n貴方が本当に――剣を捧げるべき王であるのかどうか。",
+      "choice_data_list": [
+        "——Tôi hiểu rồi!"
+      ],
+      "jpchoice_data_list": [
+        "――わかった！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chính trong những trận chiến khốc liệt nhất, bản chất mới bộc lộ rõ ràng. Cả bản chất của tôi lẫn của Durandal.",
+      "jpname": "モノローグ",
+      "jptext": "激しい戦いの中でこそ、本質は見える。\n自分の本質も、デュランダルの本質も。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vậy chúng ta cùng xuất phát thôi, cùng tiến ra chiến trường. Và rồi——",
+      "jpname": "デュランダル",
+      "jptext": "では行きましょう、共に戦場へ。\nそして――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Hãy định đoạt xem. Đôi ta đối với nhau có thể trở thành ai trong cuộc đời này.",
+      "jpname": "デュランダル",
+      "jptext": "見定めましょう。\n私たちが互いにとって、何者たりうるのかを。"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "title": "Hỡi người, chớ hề lãng quên",
+  "jptitle": "汝、忘るることなかれ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã một thời gian kể từ ngày tôi trở thành Trainer phụ trách Durandal. Những ngày tháng đồng cam cộng khổ sát cánh bên nhau diễn ra vô cùng thuận lợi——",
+      "jpname": "モノローグ",
+      "jptext": "デュランダルの担当となりしばらく経った。\n二人三脚の日々は順調に進んでおり――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Thưa Trainer. Phần kiểm tra khớp xương và giãn cơ đã hoàn tất.",
+      "jpname": "デュランダル",
+      "jptext": "トレーナー殿。\n関節のチェックと柔軟、終了いたしました。"
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Thánh Kiếm\" của thần không một vết gợn mây mù. Nào, xin ngài cứ việc hạ mệnh lệnh.",
+      "jpname": "デュランダル",
+      "jptext": "我が『聖剣』に一点の曇りなしです。\nさ、なんなりとご下命をどうぞ。",
+      "choice_data_list": [
+        "Trước hết hãy chạy thả lỏng nhẹ nhàng để làm nóng người nhé"
+      ],
+      "jpchoice_data_list": [
+        "まずは軽く流して、体を温めようか"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Tuân lệnh, hỡi bậc minh quân của thần. Thần nhất định sẽ cho người chiêm ngưỡng những bước phi nước đại xứng đáng với kỳ vọng của ngài.",
+      "jpname": "デュランダル",
+      "jptext": "承知しました、我が君。\n王の期待にかなう疾駆を、必ずやお目にかけましょう。",
+      "choice_data_list": [
+        "……Không cần phải bung hết tốc lực ngay từ đầu đâu đấy nhé?",
+        "……Không cần bung hết tốc lực ngay từ đầu đâu nha?"
+      ],
+      "jpchoice_data_list": [
+        "……最初から飛ばさなくていいからな？",
+        "……最初から飛ばさなくていいからね？"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Vâng. Tất cả xin tuân theo ý nguyện của đức vua——",
+      "jpname": "デュランダル",
+      "jptext": "はい。全ては、王の御心のままに――"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Xem ra em làm ăn cũng khấm khá đấy nhỉ.",
+      "jpname": "先輩トレーナー",
+      "jptext": "なかなか上手くやってるみたいじゃないか。"
+    },
+    {
+      "name": "",
+      "text": "Người cất tiếng bắt chuyện chính là vị Trainer tiền bối đáng kính, nguồn cảm hứng khiến tôi quyết tâm theo đuổi nghề này.",
+      "jpname": "モノローグ",
+      "jptext": "声をかけてくれたのは、自身がトレーナーを目指す\nきっかけにもなった、尊敬する先輩トレーナーだ。",
+      "choice_data_list": [
+        "Tiền bối, anh tới xem chúng em tập sao!"
+      ],
+      "jpchoice_data_list": [
+        "先輩、見に来てくれたんですね！"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Tất nhiên rồi, buổi huấn luyện của cặp đôi đang nhận được sự chú ý lớn thế này cơ mà. ……Mà này, Durandal vẫn như mọi khi à?",
+      "jpname": "先輩トレーナー",
+      "jptext": "もちろん、今大注目のコンビのトレーニングだからな。\n……それにしても、デュランダルは相変わらずか？",
+      "choice_data_list": [
+        "Vâng, em ấy đang làm tròn bổn phận của một hiệp sĩ mẫu mực!"
+      ],
+      "jpchoice_data_list": [
+        "ええ、立派な騎士として努めてくれてます！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Durandal, trẫm ban phước cho khanh\"",
+      "jpname": "モノローグ",
+      "jptext": "『デュランダル、余は汝を祝別する』"
+    },
+    {
+      "name": "",
+      "text": "\"——Chiến thắng, vinh quang, niềm hân hoan. Hãy hoàn thành mọi sứ mệnh mà một Mã Nương phải gánh vác, và trở thành người bảo hộ của muôn loài\"",
+      "jpname": "モノローグ",
+      "jptext": "『――勝利、栄光、歓喜。ウマ娘の果たすべき、\nあらゆる職務を遂行し、全ての守護者となるように』"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vâng—— thần xin thề. Kể từ hôm nay thần sẽ trở thành hiệp sĩ của ngài, nhất định bảo vệ ngài đến cùng.",
+      "jpname": "デュランダル",
+      "jptext": "はい――誓います。本日より貴方の騎士となり、\n必ずや護り抜くことを。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ cái ngày cử hành Lễ tấn phong hiệp sĩ ấy, em vẫn luôn tận tụy phụng sự tôi như một hiệp sĩ trung thành.",
+      "jpname": "モノローグ",
+      "jptext": "騎士叙任式を行ったあの日からずっと、\n彼女は忠実な騎士として自分に尽くしてくれている。"
+    },
+    {
+      "name": "",
+      "text": "Để xứng đáng với dáng vẻ thanh cao ấy, mỗi ngày tôi đều tự nhủ bản thân phải trở nên kiêu hãnh và vững vàng hơn.",
+      "jpname": "モノローグ",
+      "jptext": "あの高潔な姿に見合うためにも、\n自分ももっと誇り高くいなければと思う日々だ。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Haha, biểu cảm tốt lắm. Có vẻ như hai đứa thực sự rất ăn ý đấy nhỉ—— nghe này.",
+      "jpname": "先輩トレーナー",
+      "jptext": "ははっ、いい顔だ。\nどうやら本当に上手くいっているようだね――いいかい？"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Sau này nếu có kẻ cười nhạo giấc mơ của em ấy là nực cười, thì chỉ riêng em tuyệt đối không bao giờ được quay lưng lại với sự nghiêm túc của em ấy.",
+      "jpname": "先輩トレーナー",
+      "jptext": "この先もし、彼女の夢を滑稽と笑う者が現れても、\n君だけは彼女の本気から目をそらしてはいけないよ。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Trainer chính là điểm tựa cho giấc mơ của các Mã Nương. Em phải luôn nhớ rằng bản thân là \"vị minh quân đáng tin cậy\" của em ấy nhé.",
+      "jpname": "先輩トレーナー",
+      "jptext": "トレーナーとは、ウマ娘たちの夢の支柱だ。\n“頼るべき君主”である自分を、忘れないようにしていかないとね。",
+      "choice_data_list": [
+        "……Vâng ạ!"
+      ],
+      "jpchoice_data_list": [
+        "……はいっ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "(Gì thế này…… Hôm nay ánh mắt của Trainer dường như còn nồng nhiệt hơn mọi khi? Chẳng lẽ phong thái hiệp sĩ của mình lại được tôi luyện sắc bén hơn rồi sao?)",
+      "jpname": "デュランダル",
+      "jptext": "（何だろう……今日はよりトレーナー殿の視線が熱いような？\n私の騎士っぷりに磨きがかかったのかしら？）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Fufu…… Nếu đã vậy thì mình phải thể hiện ra mới được. Sức mạnh ngày càng tỏa sáng rực rỡ của mình—— một nhát lóe sáng từ \"Thánh Kiếm\"!)",
+      "jpname": "デュランダル",
+      "jptext": "（ふふ……であれば示さなければいけませんね。\nより輝きを増した私の力――『聖剣』の一閃を！）"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Haaaaaaa!",
+      "jpname": "デュランダル",
+      "jptext": "――ハァアアアアアッ！",
+      "choice_data_list": [
+        "……A, Durandal"
+      ],
+      "jpchoice_data_list": [
+        "……っ、デュランダル"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bỗng nhiên em ấy tăng tốc dữ dội khiến tôi bất giác say mê ngắm nhìn. Đôi chân nước rút phi thường đủ sức tạo nên bứt tốc ngay cả ở cự ly ngắn——",
+      "jpname": "モノローグ",
+      "jptext": "なぜか猛然と速度を増した彼女の走りに思わず見惚れる。\n短距離での追込すら叶える、彼女の凄まじい末脚に――"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Hỡi đức vua của thần. Durandal vừa hoàn thành nhiệm vụ quay về diện kiến.",
+      "jpname": "デュランダル",
+      "jptext": "――我が君。\nデュランダル、ただいま帰参いたしました。",
+      "choice_data_list": [
+        "Em đỉnh lắm, Durandal ơi!!"
+      ],
+      "jpchoice_data_list": [
+        "すごかったよ、デュランダル！！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "……A, cảm ơn ngài rất nhiều.",
+      "jpname": "デュランダル",
+      "jptext": "……っ、ありがとうございます。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Dù nhận được chỉ thị \"trước hết hãy chạy nhẹ nhàng\", nhưng khi cảm nhận được sự kỳ vọng của minh quân, khát khao đáp lại dâng trào mãnh liệt…… nên thần lỡ quá trớn.",
+      "jpname": "デュランダル",
+      "jptext": "『まずは軽く』とのご指示でしたが、\n主君の期待を感じ、応えたい想いが昂ってしまい……つい。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nhưng trở thành hiệp sĩ của ngài và bảo vệ ngài đến cùng mới là tâm nguyện cả đời của thần. Hoàn thành trọn vẹn sứ mệnh ấy chính là hiệp sĩ đạo của thần.",
+      "jpname": "デュランダル",
+      "jptext": "しかし貴方の騎士となり、護り抜くことが我が本懐。\nそれを完遂することこそ我が騎士道です。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nếu là mài sắc thanh kiếm vì mục đích đó, thì trong từng lượt chạy, được đem hết thảy sinh mệnh ra đánh cược chính là ước nguyện của thần——",
+      "jpname": "デュランダル",
+      "jptext": "そのために剣を研ぐというのなら、\n一走一走、全てを賭すのが私の願い――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Từng bước chạy của thần đều dâng trọn cho vị vua tôn kính. Thần nhất định sẽ dùng \"Thánh Kiếm\" này để dâng tặng lên ngài vinh quang độc nhất vô nhị.",
+      "jpname": "デュランダル",
+      "jptext": "我が走りは全て、敬愛する王のため。\n必ずやこの『聖剣』を以て、無二の栄光を王に捧げます。",
+      "choice_data_list": [
+        "……Em quả nhiên là một hiệp sĩ đầy kiêu hãnh",
+        "……Quả nhiên em là một hiệp sĩ đầy kiêu hãnh"
+      ],
+      "jpchoice_data_list": [
+        "……君はやっぱり、誇り高い騎士だね",
+        "……貴方はやっぱり、誇り高い騎士だね"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "…………A.",
+      "jpname": "デュランダル",
+      "jptext": "…………っ。",
+      "choice_data_list": [
+        "Tôi tin em là Mã Nương sẽ chạm tới kết quả đỉnh cao nhất",
+        "Tôi tin rằng em là Mã Nương sẽ chạm tới kết quả đỉnh cao nhất"
+      ],
+      "jpchoice_data_list": [
+        "君が至上の結果を得るウマ娘だと信じてる",
+        "貴方が至上の結果を得るウマ娘だと信じてる"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "(……A, quả nhiên chỉ có con người này mà thôi——)",
+      "jpname": "デュランダル",
+      "jptext": "（……あぁ、やはりこの人しかいない――）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Niềm kiêu hãnh hiệp sĩ cùng những tâm niệm bất biến của mình, người ấy đã tin tưởng và khẳng định đến nhường này. Và rồi——)",
+      "jpname": "デュランダル",
+      "jptext": "（私の騎士としての誇り、譲れぬ想いを、\nこれほどまでに信じ、肯定してくれる。そして――）"
+    },
+    {
+      "name": "Durandal",
+      "text": "(Lại còn khen ngợi mình siêuuuu nhiều nữa chứ!! Lúc nào cũng thật tâm, nhiều hơn bất kỳ ai trên đời!!)",
+      "jpname": "デュランダル",
+      "jptext": "（すっっっごく褒めてくれる！！\nいつだって本気で、誰よりもたくさん！！）"
+    },
+    {
+      "name": "Durandal",
+      "text": "——Thưa Trainer. Hỡi \"vị vua\" cao quý của thần.",
+      "jpname": "デュランダル",
+      "jptext": "――トレーナー殿。我が、気高き“王”よ。"
+    },
+    {
+      "name": "Durandal",
+      "text": "\"Thánh Kiếm\" của thần sẽ luôn luôn song hành cùng ngài. Chừng nào mà…… ngài vẫn còn cần đến thần.",
+      "jpname": "デュランダル",
+      "jptext": "私の『聖剣』は、常に貴方と共にあります。\n貴方が……私を求めてくださる限り。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vậy thì, thần xin phép bước vào bài tập tiếp theo ngay đây ạ! Tất cả là vì vị minh chủ tôn quý của thần——",
+      "jpname": "デュランダル",
+      "jptext": "ではっ、さっそく次のメニューへ参りますね！\n全ては、尊き我が主のために――",
+      "choice_data_list": [
+        "(……Em ấy đang nhảy chân sáo sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（……スキップしてる？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vừa đuổi theo Durandal đang hớn hở hướng về dốc tập, tôi vừa tự nhủ sẽ luôn sát cánh để che chở cho ý chí thanh cao của em kể từ nay về sau.",
+      "jpname": "モノローグ",
+      "jptext": "意気揚々と坂路へ向かうデュランダルを追いかけながら、\n彼女の高潔な志を、これからも支えていこうと思うのだった。"
+    }
+  ]
+}

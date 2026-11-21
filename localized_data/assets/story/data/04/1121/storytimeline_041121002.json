@@ -1,0 +1,390 @@
+{
+  "title": "\"Thánh Kiếm\" lóe sáng! Vị vua của thần ở nơi nao?",
+  "jptitle": "『聖剣』一閃！我が王は何処に？",
+  "text_block_list": [
+    {
+      "name": "Durandal",
+      "text": "Vậy thì trăm sự nhờ ngài. Mau chóng mở quân nghị thôi.",
+      "jpname": "デュランダル",
+      "jptext": "ではよろしくお願いします。\n早速、軍議を。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Được, chúng ta cùng lên tác chiến nhé.",
+      "jpname": "先輩トレーナー",
+      "jptext": "ああ、作戦を立てようか。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Sự kết hợp giữa Durandal và vị Trainer thiên tài ấy à. Quả này đáng xem đây.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "デュランダルと、かの天才トレーナーのコンビか。\nこりゃあ見物だな。",
+      "choice_data_list": [
+        "…………"
+      ],
+      "jpchoice_data_list": [
+        "…………"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tiền bối được xưng tụng là Trainer thiên tài đã đứng ra nhận, đành chịu thôi. Hôm nay mình sẽ ngoan ngoãn đứng ngoài học hỏi vậy.",
+      "jpname": "モノローグ",
+      "jptext": "天才トレーナーと言われる先輩が名乗り出たのなら、仕方ない。\n今日のところはおとなしく勉強させてもらうことにする。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Chạy cự ly ngắn sao. Vậy thì tác chiến sẽ là——",
+      "jpname": "先輩トレーナー",
+      "jptext": "短距離戦か。ならば作戦は――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Tôi muốn thi đấu bằng chiến thuật \"Bứt tốc\".",
+      "jpname": "デュランダル",
+      "jptext": "私は“追込”で行きたいと思います。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Bứt tốc ư……? Cự ly ngắn mà dùng bứt tốc sao? Anh cũng có nghe đồn rồi…… nhưng em thật sự muốn chạy như thế à?",
+      "jpname": "先輩トレーナー",
+      "jptext": "追込……？　短距離なのに？\n噂には聞いていたけど……本当にそれで行くのかい？"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Hahaha, cự ly ngắn mà lại bứt tốc…… Điên rồ thật đấy, đúng không……?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "ははは、短距離戦で追込って……。\nどうかしてるぜ、なあ……？",
+      "choice_data_list": [
+        "Vâng…… quả thực là một kỳ sách"
+      ],
+      "jpchoice_data_list": [
+        "はい……かなりの奇策ですね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Bứt tốc\" là một trong những chiến thuật của cuộc đua. Chạy ở nửa sau đoàn đua rồi đến cuối cùng dồn lực bứt phá vượt lên, nhưng mà……",
+      "jpname": "モノローグ",
+      "jptext": "“追込”はレースにおける作戦の1つ。\n集団の後ろの方を走り、最後に一気に追い抜く策だが……。"
+    },
+    {
+      "name": "",
+      "text": "Với cự ly ngắn cần bung sức ngay từ đầu thì rõ ràng không hề phù hợp chút nào. Minh chứng là trong các chân chạy nước rút lừng danh xưa nay——",
+      "jpname": "モノローグ",
+      "jptext": "最初からトバす短距離戦には、明らかに不向き。\nその証拠に、歴代の名スプリンターには――"
+    },
+    {
+      "name": "",
+      "text": "Các Mã Nương trường phái \"Dẫn đầu\" và \"Tiên phong\" chiếm số lượng áp đảo. Điều đó chắc hẳn Durandal cũng biết rất rõ, thế mà……",
+      "jpname": "モノローグ",
+      "jptext": "“逃げ”“先行”型ウマ娘が圧倒的に多い。\nそんなことはデュランダルも知っているはずだが……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Dù vậy, tôi vẫn nhất quyết muốn dùng bứt tốc. Vũ khí tối thượng của tôi chính là \"độ sắc bén\" trong khoảnh khắc bùng nổ.",
+      "jpname": "デュランダル",
+      "jptext": "それでも、どうしても追込でいきたいのです。\n私の最大の武器は、一瞬の“切れ味”。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Tôi muốn phát huy tối đa vũ khí ấy. Xin ngài hãy đưa ra phán quyết.",
+      "jpname": "デュランダル",
+      "jptext": "それを最大限に活かしたいのです。\nどうかご決断を。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "…………Anh hiểu rồi.",
+      "jpname": "先輩トレーナー",
+      "jptext": "…………わかった。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Anh sẽ tôn trọng ý chí của em. Đổi lại, hãy để anh quyết định những việc còn lại.",
+      "jpname": "先輩トレーナー",
+      "jptext": "君の意志を尊重しよう。\nその上で、他のことは決めさせてもらいたい。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Hả, chấp nhận cho bứt tốc ư…… thật đấy à!?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "え、追込承認って……マジかよ！？",
+      "choice_data_list": [
+        "……Đúng là phong cách của tiền bối"
+      ],
+      "jpchoice_data_list": [
+        "……先輩らしいですね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sự linh hoạt không áp đặt công thức rập khuôn lên các Mã Nương. Đó chính là thế mạnh của tiền bối. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘に定石を押しつけない柔軟性。\nそれが先輩の強みだ。そして――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Fuh……!",
+      "jpname": "デュランダル",
+      "jptext": "フッ……！"
+    },
+    {
+      "name": "",
+      "text": "Lựa chọn ấy có chính xác hay không, kết quả cuộc đua sẽ nói lên tất cả.",
+      "jpname": "モノローグ",
+      "jptext": "その選択が正しいのかどうかは、レース結果を見ればわかる。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Nhịp độ đua chậm…… Nếu ai nấy đều giữ được thể lực tới tận khúc cua thẳng cuối cùng, bứt tốc sẽ càng bất lợi hơn……",
+      "jpname": "デュランダル",
+      "jptext": "ペースはスロー……。誰もが最終直線まで\nスタミナを残したままなら、追込はより不利になる……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Thế nhưng trong 3 furlong cuối cùng. Dù nhịp độ có ra sao chăng nữa, nhất định—— ta sẽ dùng đôi chân nhanh hơn bất kỳ ai để trảm phạt tất cả.",
+      "jpname": "デュランダル",
+      "jptext": "しかしラスト3ハロン。どのようなペースであろうとも、\n必ず――誰よりも速い脚で斬り伏せる。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Chỉ cần làm được điều đó—— chiến thắng sẽ không bao giờ lung lay! Haaaaaa!!",
+      "jpname": "デュランダル",
+      "jptext": "それさえできれば――勝利が揺らぐことはありません！\nハァアアアアアア！！",
+      "choice_data_list": [
+        "Đ-Đây là……!!"
+      ],
+      "jpchoice_data_list": [
+        "こ、これは……！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng thật là một \"Thánh Kiếm\". Tốc độ chậm thì những người chạy trước cũng không bị hụt hơi, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "まさしく『聖剣』だった。\nスローペースなら、その分、前も止まらないが……。"
+    },
+    {
+      "name": "",
+      "text": "Độ sắc bén ấy đã đảo ngược hoàn toàn bất lợi đó. Em ấy đã trảm phạt mọi đối thủ chỉ bằng một nhát kiếm duy nhất.",
+      "jpname": "モノローグ",
+      "jptext": "そんな不利をも覆す切れ味。\n全ての相手を、一刀のもとに斬り伏せてみせた。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Vất vả cho em rồi. Có vẻ em đã chọn đường chạy đúng như chỉ thị của anh nhỉ.",
+      "jpname": "先輩トレーナー",
+      "jptext": "お疲れ様。\nコース取りは指示通りにしてくれたみたいだね。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Vâng, tôi cảm thấy rất thoải mái và dễ chạy.",
+      "jpname": "デュランダル",
+      "jptext": "はい、とても走りやすかったです。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Tốt quá. Chân em không sao chứ? Cứ chườm đá đề phòng đi nhé. Gia tốc đột ngột thế nào cũng tạo gánh nặng lớn cho chân mà.",
+      "jpname": "先輩トレーナー",
+      "jptext": "よかった。脚は大丈夫？　念のため、アイシングしておくといい。\n急加速はどうしても負担が伴うから。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Ồ, đúng là Trainer thiên tài có khác. Từ cách ra chỉ thị cho tới việc chăm sóc đều hoàn hảo không chê vào đâu được.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "おー、さすがは天才トレーナー。\n指示の出し方から面倒の見方まで完璧だな。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Thế này thì…… chốt kèo rồi nhỉ? Xem ra bọn mình chẳng còn cửa nào nữa rồi.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "こりゃあ……決まりか？\n俺たちの出番はなかったみたいだな。",
+      "choice_data_list": [
+        "……Đúng vậy thật"
+      ],
+      "jpchoice_data_list": [
+        "……ですね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chẳng thể nào tìm đâu ra một cộng sự tuyệt vời hơn thế. Quả nhiên vị vua mà Durandal nên phụng sự chính là……",
+      "jpname": "モノローグ",
+      "jptext": "これ以上の相手などいるわけはない。\nやはりデュランダルが仕えるべき王は……。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "Vậy, em tính sao? Từ nay chúng ta chính thức bắt cặp với nhau nhé?",
+      "jpname": "先輩トレーナー",
+      "jptext": "で、どうする？　今後は正式に組むことにする？"
+    },
+    {
+      "name": "Durandal",
+      "text": "Về việc đó thì——",
+      "jpname": "デュランダル",
+      "jptext": "そのことですが――"
+    },
+    {
+      "name": "Durandal",
+      "text": "Xin cho tôi thêm chút thời gian suy nghĩ.",
+      "jpname": "デュランダル",
+      "jptext": "少し、考えさせてください。"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "……Anh hiểu rồi. Anh không ép đâu, em cứ thong thả suy nghĩ nhé.",
+      "jpname": "先輩トレーナー",
+      "jptext": "……わかった。\n強要はしないから、ゆっくり考えて。"
+    },
+    {
+      "name": "Durandal",
+      "text": "……Thành thật xin lỗi ngài.",
+      "jpname": "デュランダル",
+      "jptext": "……申し訳ありません。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Này này, không quyết định ngay là sao? Chỉ muốn suy nghĩ thêm một chút thôi, hay là……",
+      "jpname": "中堅トレーナーA",
+      "jptext": "おいおい、即決じゃないって、どういうことだ？\n少し間を置きたいだけなのか、それとも……。"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Có điều gì không vừa ý à? Chẳng lẽ việc chấp nhận chiến thuật bứt tốc một cách dễ dàng lại gây phản tác dụng sao?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "何か気に入らないことでもあったのか？\nまさか追込をすんなり認めたのが、逆によくなかったとか？"
+    },
+    {
+      "name": "",
+      "text": "Chân tướng thế nào không ai rõ. Nhưng Durandal đã chính thức từ chối hợp đồng với tiền bối và bắt đầu tìm kiếm một Trainer khác.",
+      "jpname": "モノローグ",
+      "jptext": "真相はわからない。だがデュランダルは先輩との契約を\n正式に断り、別のトレーナー探しに動き始めた。"
+    },
+    {
+      "name": "Trainer trung cấp B",
+      "text": "Durandal à, chạy cự ly ngắn mà dùng bứt tốc thì vô lý lắm. Em nên dùng chiến thuật tiên phong chắc chắn hơn……",
+      "jpname": "中堅トレーナーB",
+      "jptext": "デュランダル、やっぱり短距離で追込はありえないよ。\nもっと手堅く先行策を……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Ra vậy, tôi hiểu suy nghĩ của ngài rồi. Vậy thì—— xin phép cáo lui.",
+      "jpname": "デュランダル",
+      "jptext": "なるほど、お考えはわかりました。\nでは――失礼します。"
+    },
+    {
+      "name": "Trainer trung cấp C",
+      "text": "Bứt tốc thì…… tôi nghĩ cũng không hẳn là bất khả thi. Nhưng chí ít em nên bắt đầu tung đòn trước khúc cua số 3 một chút……",
+      "jpname": "中堅トレーナーC",
+      "jptext": "追込はまあ……絶対にナシじゃないとは思う。\nでもせめて、第3コーナー少し手前から仕掛けて……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Ý ngài là bảo tôi hãy đánh đổi và làm cùn đi độ sắc bén ở đoạn cuối sao. Thành thật xin lỗi…… tôi không thể tán đồng.",
+      "jpname": "デュランダル",
+      "jptext": "その分、最後の切れ味を鈍らせろと言うのですか。\n申し訳ありませんが……賛同はできません。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Quả nhiên chẳng dễ gì tìm thấy đâu nhỉ. Một vị vua mà Durandal có thể thật lòng công nhận.",
+      "jpname": "ファインモーション",
+      "jptext": "やっぱり簡単には見つからないよね。\nデュランダルが、心から認める王なんて。"
+    },
+    {
+      "name": "",
+      "text": "Tôi trò chuyện với Fine Motion, người mà tôi dần thân thiết hơn. Nếu một vị vua xứng đáng với Durandal không tồn tại ở Học viện Tracen này thì……",
+      "jpname": "モノローグ",
+      "jptext": "仲良くなったファインモーションと話す。もしデュランダルに\nふさわしい王が、トレセン学園にいないなら……。",
+      "choice_data_list": [
+        "Chỉ còn cách ai đó phải \"trở thành\" thôi nhỉ",
+        "Chỉ còn cách ai đó phải \"trở thành\" thôi ha"
+      ],
+      "jpchoice_data_list": [
+        "誰かが“なる”しかないよな",
+        "誰かが“なる”しかないよね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hở, ai đó là sao…… trở thành đức vua á?",
+      "jpname": "ファインモーション",
+      "jptext": "え、誰かがって……王様に？",
+      "choice_data_list": [
+        "Ừ, nếu không thì em ấy sẽ mãi là kẻ lưu lạc mất",
+        "Ừm, nếu không thì em ấy sẽ cứ mãi phiêu bạt mất"
+      ],
+      "jpchoice_data_list": [
+        "ああ、じゃないとずっと流浪のままだから",
+        "うん、じゃないとずっと流浪のままだから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một người vượt qua được Trainer tiền bối đáng kính thì làm sao có thể tìm ra ở Học viện Tracen này. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "尊敬する先輩トレーナーを超える人なんて、\nこのトレセン学園にいるわけがない。そして――"
+    },
+    {
+      "name": "",
+      "text": "Nếu cứ thế này mà không tìm được vua, \"Thánh Kiếm\" sẽ mục nát nơi đồng hoang mất. Ánh sáng ngập tràn tiềm năng nhường ấy mà lại…… Nếu vậy thì——",
+      "jpname": "モノローグ",
+      "jptext": "このまま王が見つからなければ、『聖剣』は野で朽ちてしまう。\nあれほどの可能性に満ちた輝きが……。ならば――"
+    },
+    {
+      "name": "",
+      "text": "Chỉ còn cách bản thân tôi phải đứng ra thử sức! Tôi tuyệt đối không muốn để tài năng ấy bị chôn vùi.",
+      "jpname": "モノローグ",
+      "jptext": "自分が挑むしかない！\nその素質を、絶対に埋もれさせたくはなかった。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Ngài là……",
+      "jpname": "デュランダル",
+      "jptext": "貴方は……。",
+      "choice_data_list": [
+        "Durandal, tôi tới để thử thách đây!"
+      ],
+      "jpchoice_data_list": [
+        "デュランダル、試しにきたよ！"
+      ]
+    },
+    {
+      "name": "Durandal",
+      "text": "Thử thách? Là thử thách…… tôi sao?",
+      "jpname": "デュランダル",
+      "jptext": "試しに？　私を……ですか？",
+      "choice_data_list": [
+        "Không, là thử chính mình! Xem tôi có xứng đáng với Thánh Kiếm hay không",
+        "Không đâu, là thử chính mình! Xem tôi có xứng đáng với Thánh Kiếm hay không"
+      ],
+      "jpchoice_data_list": [
+        "いや、自分を！聖剣にふさわしいかどうか",
+        "ううん、自分を！聖剣にふさわしいかどうか"
+      ]
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Này này, cái tên đó…… Đến cả thiên tài kia còn chẳng ký được hợp đồng nữa là……",
+      "jpname": "中堅トレーナーA",
+      "jptext": "おいおい、アイツ……。\nあの天才でも契約に至らなかったのに……。"
+    },
+    {
+      "name": "Trainer trung cấp C",
+      "text": "Ừ, trông hăng hái gớm chưa kìa. Đúng là một lính mới không biết tự lượng sức mình……",
+      "jpname": "中堅トレーナーC",
+      "jptext": "ええ、やる気みたいね。\nなんて身の程知らずな新人……。"
+    },
+    {
+      "name": "Durandal",
+      "text": "………….",
+      "jpname": "デュランダル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Durandal",
+      "text": "Tôi hiểu rồi. Vậy thì xin nhờ cậy vào ngài. ——Hỡi vị vua tạm thời.",
+      "jpname": "デュランダル",
+      "jptext": "わかりました。では、お願いします。\n――仮初めの王。"
+    }
+  ]
+}
