@@ -1,0 +1,412 @@
+{
+  "title": "Nhưng sâu thẳm bên trong là...",
+  "jptitle": "されど内に秘めるは",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ khi ký hợp đồng phụ trách cùng Dantsu Flame, một khoảng thời gian ngắn đã trôi qua――",
+      "jpname": "モノローグ",
+      "jptext": "ダンツフレームと担当契約をしてから、\nほんの少し時間が経ち――"
+    },
+    {
+      "name": "",
+      "text": "Hiện tại, vừa cân nhắc thời điểm cho trận ra mắt của em, tôi vừa tiến hành những bài tập vừa sức chú trọng vào nền tảng cơ bản.",
+      "jpname": "モノローグ",
+      "jptext": "今はデビュー戦のタイミングをいつにするか考えつつ、\n基礎を重視した無理のないトレーニングを行っていた。",
+      "choice_data_list": [
+        "Được rồi, hôm nay tới đây thôi. Vất vả cho em rồi."
+      ],
+      "jpchoice_data_list": [
+        "よし、今日はここまでにしよう。お疲れ様"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Phù, Trainer-san cũng vất vả rồi ạ! ......Trainer-san. Anh thấy bước chạy hôm nay của em thế nào ạ?",
+      "jpname": "ダンツフレーム",
+      "jptext": "ふぅ、お疲れさまでした～！\n……トレーナーさん。今日のわたしの走り、どうでしたか？",
+      "choice_data_list": [
+        "Em đã tiến bộ hơn hẳn so với hồi Cuộc đua Tuyển chọn rồi đấy."
+      ],
+      "jpchoice_data_list": [
+        "選抜レースのときからさらに成長しているよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi ký hợp đồng phụ trách, em vẫn kiên trì nỗ lực hết mình như trước. Thái độ tích cực ấy thực sự khiến người ta thấy an tâm và vững lòng.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は担当契約後も変わらず、ひたむきに努力を続けている。\nその前向きな姿勢が、とても頼もしい。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "À thì, chuyện sau buổi tập này...... Em xin phép tự luyện tập thêm một chút nữa có được không ạ?",
+      "jpname": "ダンツフレーム",
+      "jptext": "あの、この後なんですけど……\nもう少しだけ、自主トレしてもいいですか？"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em muốn tự mình nhìn nhận lại buổi tập hôm nay. Cũng là để lần tới nhất định sẽ trở thành \"nhân vật chính\" nữa......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "今日の振り返りとか、自分でやっておきたくて。\n次こそ“主役”になるためにも……！",
+      "choice_data_list": [
+        "Được chứ. Nhưng đừng có gắng sức quá đấy nhé."
+      ],
+      "jpchoice_data_list": [
+        "いいよ。ただし、あまり無理しないようにね"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em cảm ơn anh ạ! Vậy em xin phép đi tập đây ạ!",
+      "jpname": "ダンツフレーム",
+      "jptext": "ありがとうございます！\nそれじゃあ、行ってきます！"
+    },
+    {
+      "name": "",
+      "text": "Cứ theo đà này thì trận ra mắt chắc chắn sẽ diễn ra suôn sẻ. Dantsu Flame ắt hẳn cũng đang hừng hực khí thế hướng tới ngày thi đấu chính thức.",
+      "jpname": "モノローグ",
+      "jptext": "この調子であれば、問題なくデビューできるはず。\nダンツフレームも、来る本番に向けて燃えているのだろう。"
+    },
+    {
+      "name": "",
+      "text": "――Mọi chuyện đều đang thuận buồm xuôi gió. Tôi đã từng nghĩ như thế.",
+      "jpname": "モノローグ",
+      "jptext": "――すべてが順調だ。そう、思っていた。"
+    },
+    {
+      "name": "Trainer đồng khóa",
+      "text": "――Này, cậu đã xem lịch tổ chức cuộc đua mô phỏng cập nhật sáng nay chưa? Đang rộ lên tin có một trận đua thú vị lắm đấy.",
+      "jpname": "同期トレーナー",
+      "jptext": "――なぁ、今朝更新された模擬レースの開催予定、見たか？\n面白そうなレースがあるって話題になってるぞ。",
+      "choice_data_list": [
+        "Chưa, tôi vẫn chưa xem nữa......"
+      ],
+      "jpchoice_data_list": [
+        "いや、まだ見てないけど……"
+      ]
+    },
+    {
+      "name": "Trainer đồng khóa",
+      "text": "Đây này, xem đi. Agnes Tachyon và Jungle Pocket đấy! Hai ứng cử viên sáng giá hàng đầu trong số những gương mặt sắp ra mắt sẽ chạy cùng nhau đấy.",
+      "jpname": "同期トレーナー",
+      "jptext": "ほら、これだ。アグネスタキオンと、ジャングルポケット！\nデビューが近い子たちの中で、筆頭候補のふたりが走るんだよ。"
+    },
+    {
+      "name": "Trainer đồng khóa",
+      "text": "Các bậc tiền bối kỳ cựu cũng đang chú ý lắm, bảo rằng đây có thể là trận chiến định hình cả giới đua sau này đấy......!",
+      "jpname": "同期トレーナー",
+      "jptext": "今後のレース界を占う一戦になるかもって、\nベテランも注目してるらしいぞ……！",
+      "choice_data_list": [
+        "Có một trận đua như thế sao――...... Ơ, kìa......!?"
+      ],
+      "jpchoice_data_list": [
+        "そんなレースが――……って、あれ……！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhìn vào danh sách đăng ký tham gia trận đua mà người đồng nghiệp đưa cho, tôi bỗng lặng người không nói nên lời.",
+      "jpname": "モノローグ",
+      "jptext": "同僚から渡された該当レースの出走希望者一覧を見て、\n言葉を失う。"
+    },
+    {
+      "name": "",
+      "text": "......Không hiểu vì lý do gì, mà tên của Dantsu Flame lại nằm rành rành trong bản danh sách đó.",
+      "jpname": "モノローグ",
+      "jptext": "……そこにはどういうわけか、\nダンツフレームの名前が確かに記載されていた。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Hừm...... Nhìn lại thế này thì trục cơ thể vẫn bị lệch thật rồi...... ......A, Trainer-san! Anh vất vả rồi ạ.",
+      "jpname": "ダンツフレーム",
+      "jptext": "う～ん……こうして見ると、やっぱり軸ブレてるなぁ……。\n……あっ、トレーナーさん！　お疲れさまです。",
+      "choice_data_list": [
+        "Dantsu, chuyện này rốt cuộc là――"
+      ],
+      "jpchoice_data_list": [
+        "ダンツ、これはいったい――"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Dạ? ......A, chuyện cuộc đua mô phỏng sao ạ! Ra là vậy, chỉ mới đăng ký nguyện vọng thôi mà đã hiện tên lên rồi......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "えっ？　……あっ、模擬レースの！\nそっか、希望だけで名前出ちゃうんだ……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em xin lỗi anh! Thật ra hôm nay em định bàn bạc lại chuyện này với Trainer-san trước rồi mới làm......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "ごめんなさい！　実は今日、これについて\nトレーナーさんに確認するつもりだったんです……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Nhưng người ta bảo nếu không nộp sớm thì sẽ hết suất đăng ký, nên em cuống cuồng nộp luôn...... Thành ra thứ tự lại bị đảo ngược mất rồi.",
+      "jpname": "ダンツフレーム",
+      "jptext": "けど、早めに希望を出さないと打ち切られるって言われて、\n慌てて出しちゃって……順番、逆になっちゃいましたね。",
+      "choice_data_list": [
+        "......Tại sao em lại muốn tham gia?"
+      ],
+      "jpchoice_data_list": [
+        "……どうして、参加希望を？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hiện tại em đã ký hợp đồng phụ trách với tôi. Nói cách khác, điều kiện tiên quyết để em có thể ra mắt đều đã được chuẩn bị đầy đủ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は今、自分と担当契約を結んでいる。言い換えれば、\nデビューするための必須条件がすでに整っている状態だ。"
+    },
+    {
+      "name": "",
+      "text": "Vì thế, điều chỉnh thể trạng để chuẩn bị cho trận ra mắt mới là ưu tiên hàng đầu lúc này, thành thực mà nói, việc tham gia cuộc đua này gần như chẳng có chút ý nghĩa nào cả......",
+      "jpname": "モノローグ",
+      "jptext": "故に、今はデビュー戦にむけて調整することが最優先であり、\nこのレースに出走する意味は、正直、ほぼないといっていい……。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Dạ thì...... em nghĩ nếu muốn chứng minh bản thân hoàn toàn có thể trở thành \"nhân vật chính\", thì đây chính là cơ hội tốt nhất.",
+      "jpname": "ダンツフレーム",
+      "jptext": "えっと……ちゃんとわたしが“主役”になれるって証明するなら、\nここがチャンスだと思って。",
+      "choice_data_list": [
+        "Chứng minh...... cho vị trí nhân vật chính sao?"
+      ],
+      "jpchoice_data_list": [
+        "主役の……証明？"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Anh thấy đấy, Tachyon-chan và Pokke-chan ngay từ trước khi ra mắt đã là những Mã Nương xuất chúng, hệt như những \"nhân vật chính\" rồi còn gì ạ......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "ほら、タキオンちゃんとポッケちゃんって、デビューする前から\n“主役”みたいな、すごいウマ娘じゃないですか……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Không giống như em, hai bạn ấy tràn trề tố chất và bản lĩnh thi đấu kiên cường......! Lại còn toát ra một khí chất khiến ai nấy đều phải thốt lên là \"đẳng cấp khác biệt\"......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "わたしと違って、素質に溢れていて、勝負強くて……！\nみんなに『別格』って思わせるオーラみたいなのがあって……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Được so tài cùng lúc với cả hai bạn ấy là một cơ hội vô cùng quý giá. Nếu có thể tranh tài ở đây...... nếu có thể giành chiến thắng......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "そんなふたりと同時に競える、貴重な機会。\nここで戦えれば……勝てれば……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Thì em nhất định cũng có thể hướng tới vị trí \"nhân vật chính\"......! Em nghĩ mình có thể chứng minh được rằng bản thân đã đủ tư cách để ra mắt!",
+      "jpname": "ダンツフレーム",
+      "jptext": "わたしもきっと、“主役”を目指せる……！\nデビューしても大丈夫だって、証明できると思うんです！",
+      "choice_data_list": [
+        "......!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "......Một cảm giác cấn cộm mãnh liệt. Cùng với đó là nỗi bất an đang dâng trào. Sự thôi thúc phải làm rõ chân tướng của cảm xúc này bỗng trỗi dậy trong tôi.",
+      "jpname": "モノローグ",
+      "jptext": "……強烈な違和感。それと共ににじみ出る、不安。\nこの感覚の正体を確かめなければという焦燥が募る。",
+      "choice_data_list": [
+        "Chuyện đó...... anh muốn xác nhận lại một điều......"
+      ],
+      "jpchoice_data_list": [
+        "その……ひとつ、確認したいんだけど……"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Vâng, chuyện gì thế ạ?",
+      "jpname": "ダンツフレーム",
+      "jptext": "はい、なんですか？",
+      "choice_data_list": [
+        "Em nghĩ bây giờ ra mắt là còn quá sớm đối với em sao?",
+        "Bạn nghĩ bây giờ ra mắt là còn quá sớm đối với bạn sao?"
+      ],
+      "jpchoice_data_list": [
+        "君はまだデビューには早いと思ってるのか？",
+        "貴方はまだデビューには早いと思ってるの？"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Dạ? Vâng ạ. Bởi vì em――",
+      "jpname": "ダンツフレーム",
+      "jptext": "え？　はい。\nだって、わたし――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Đâu có chiến thắng ở Cuộc đua Tuyển chọn đâu.",
+      "jpname": "ダンツフレーム",
+      "jptext": "勝ってませんよね。選抜レース。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Thế nên, em phải chứng minh được rằng bản thân là người có đủ thực lực để sánh vai cùng những bạn như Pokke-chan!",
+      "jpname": "ダンツフレーム",
+      "jptext": "だから、ポッケちゃんたちと\n渡り合えるぐらいの存在だって、証明しないと！",
+      "choice_data_list": [
+        "――――"
+      ],
+      "jpchoice_data_list": [
+        "――――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "......Đôi mắt của Dantsu Flame quá đỗi cương trực và ngay thẳng. Trong tâm can ấy, trong từng lời nói ấy, hoàn toàn chẳng có lấy một chút hoài nghi.",
+      "jpname": "モノローグ",
+      "jptext": "……ダンツフレームの瞳は、あまりにも真っ直ぐだ。\nその気持ちに、言葉に、疑う余地などまったくない。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "À thì...... quả nhiên việc em tự ý đăng ký trước là không được rồi phải không ạ......?",
+      "jpname": "ダンツフレーム",
+      "jptext": "その……やっぱり先に希望出すの、ダメでしたか……？",
+      "choice_data_list": [
+        "......À, không hẳn thế――"
+      ],
+      "jpchoice_data_list": [
+        "……ああ、いや――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giọng nói của người con gái lẽ ra đang ở ngay trước mắt bỗng nghe xa xăm đến lạ. ......Hay ngay từ đầu, tôi vốn dĩ chưa từng ở cạnh em――",
+      "jpname": "モノローグ",
+      "jptext": "目の前にいるはずの彼女の声が、遠くに聞こえる。\n……あるいは最初から、近くになどいなかったのか――",
+      "choice_data_list": [
+        "――......Em để anh suy nghĩ một chút được không?"
+      ],
+      "jpchoice_data_list": [
+        "――……少し、考えさせてもらっていいかな"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Dạ, đúng rồi ha. Em xin lỗi vì đã đường đột bàn chuyện này với anh.",
+      "jpname": "ダンツフレーム",
+      "jptext": "そう、ですよね。\nごめんなさい、急な相談になっちゃって。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Một Mã Nương có thể trở thành \"nhân vật chính\" sẽ không thua cuộc ở Cuộc đua Tuyển chọn. Em... vẫn chưa chứng minh được rằng mình xứng đáng làm \"nhân vật chính\".",
+      "jpname": "ダンツフレーム",
+      "jptext": "……“主役”になれるウマ娘は、選抜レースで負けたりしません。\nわたし、まだ……“主役”になれるって、示せていないです。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em thực sự nghiêm túc muốn đánh bại cả Pokke-chan và mọi người! Vì vậy mong anh hãy cân nhắc giúp em nhé......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "ポッケちゃんたちにだって、ちゃんと本気で勝つつもりでいます！\nだからどうか、ご検討をお願いします……！",
+      "choice_data_list": [
+        "......Ừ. Anh sẽ suy nghĩ thật nghiêm túc về chuyện này."
+      ],
+      "jpchoice_data_list": [
+        "……うん。前向きに検討しておくよ"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......! Em cảm ơn anh nhiều lắm ạ!",
+      "jpname": "ダンツフレーム",
+      "jptext": "……！　ありがとうございますっ！"
+    },
+    {
+      "name": "",
+      "text": "Dáng vẻ vui mừng của Dantsu Flame là hình ảnh tôi đã quá quen thuộc. Thế nhưng, những điều em đang chôn giấu trong lòng lúc này...... có lẽ tôi vẫn chưa hề thấu hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "喜ぶダンツフレームの姿は、見知ったものだ。しかし、\n今の彼女が内に秘めるものを……恐らく自分は、知らない。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Dù hơi gấp nhưng sau đây em đi tự luyện tập một chút được không ạ? Những gì có thể làm từ bây giờ, em muốn dốc hết sức để làm ngay......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "早速なんですけどこの後、自主トレしてきていいですか？\n今からできること、やっておきたくて……！",
+      "choice_data_list": [
+        "Được rồi. Nhớ giữ chừng mực đấy nhé.",
+        "Được rồi. Nhớ giữ chừng mực đấy nha."
+      ],
+      "jpchoice_data_list": [
+        "わかった。ほどほどにな",
+        "わかった。ほどほどにね"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Vâng ạ, em đi đây! ――......Được anh lắng nghe tâm sự, em vui lắm ạ.",
+      "jpname": "ダンツフレーム",
+      "jptext": "はいっ、行ってきます！\n――……相談にのってくれて、嬉しかったです。"
+    },
+    {
+      "name": "",
+      "text": "......Đêm hôm đó.",
+      "jpname": "モノローグ",
+      "jptext": "……その日の夜。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Hộc...... hộc...... phù......―― Được rồi...... thêm một set nữa nào......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "はぁッ……はぁッ……ふぅっ……――\nよし……もう、1セット……！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Phải ép bản thân...... nỗ lực hơn nữa......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "もっと……追い込まなきゃ……！"
+    },
+    {
+      "name": "",
+      "text": "......Sau lúc đó, vì lo lắng cho buổi tự tập của Dantsu Flame, tôi đã đứng từ xa âm thầm quan sát. Và rồi, tôi đã phải kinh ngạc.",
+      "jpname": "モノローグ",
+      "jptext": "……自分はあの後、ダンツフレームの自主トレが気になり、\n遠目から密かにその内容を窺っていた。そして、驚かされた。"
+    },
+    {
+      "name": "",
+      "text": "Khối lượng và cường độ trong buổi tự tập của em vượt xa mọi điều tôi tưởng tượng. Không ngờ em lại duy trì cường độ này song song với các buổi tập thường ngày......",
+      "jpname": "モノローグ",
+      "jptext": "彼女が行う自主トレは、想像をはるかに超えた量と負荷だ。\nこれを普段のトレーニングと並行して行っていたとは……。",
+      "choice_data_list": [
+        "(......Mình hoàn toàn không hề hay biết gì cả.)"
+      ],
+      "jpchoice_data_list": [
+        "（……全然、知らなかった）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nét mặt của em tràn đầy sự quyết liệt. Em chỉ đang liều mình đến cùng để trở nên mạnh mẽ hơn. Khí phách ngút trời ấy dù đứng từ xa cũng có thể cảm nhận rõ mồn một――",
+      "jpname": "モノローグ",
+      "jptext": "彼女の表情は必死だ。本当にただ必死に、強くなろうとしている。\nその気迫が、遠くからでもありありと伝わってくる――"
+    },
+    {
+      "name": "",
+      "text": "......Hóa ra từ sau Cuộc đua Tuyển chọn đến nay, em vẫn luôn ôm trọn nỗi day dứt. Thậm chí em còn nghĩ rằng \"mình không có tư cách để ra mắt trong tình trạng này\".",
+      "jpname": "モノローグ",
+      "jptext": "……選抜レースから今日までずっと、彼女は悔やんでいたのだ。\n『このままデビューしていいわけがない』とさえ、思っていた。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế em mới liều mình để mạnh mẽ hơn, gom góp từng chút nỗ lực mà bản thân có thể làm. Vậy mà tôi――",
+      "jpname": "モノローグ",
+      "jptext": "だから必死に強くなろうと、自分にできる努力を積み重ねていた。\nそれなのに、自分は――",
+      "choice_data_list": [
+        "\"Mọi chuyện đều đang thuận lợi\" cái nỗi gì chứ......!"
+      ],
+      "jpchoice_data_list": [
+        "何が……『すべてが順調』だ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "......Tôi phải tìm hiểu lại từ đầu. Về những tâm tư giấu kín bên trong cô nàng Mã Nương mà mình có trách nhiệm che chở. Rằng điều đó rốt cuộc là gì――",
+      "jpname": "モノローグ",
+      "jptext": "……改めて、知らなければならない。\n支えるべき担当ウマ娘が内に秘める想い。それがどんなものかを――"
+    }
+  ]
+}

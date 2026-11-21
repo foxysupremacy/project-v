@@ -1,0 +1,440 @@
+{
+  "title": "Anh tựa như ánh nắng ấm",
+  "jptitle": "貴方は陽だまりに似て",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ cuối cùng của đợt huấn luyện mùa hè, tôi cùng Dantsu Flame đến một khu phố nọ. Nơi đây tập trung rất nhiều địa điểm đa dạng từ viện bảo tàng, phòng trưng bày mỹ thuật cho tới vườn thú.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿最終日のオフにダンツフレームと共にある街にやってきた。\nここには博物館に美術館、動物園など様々な施設が集まっている。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Oa, đúng là có nhiều nơi ghê anh nhỉ......! Chúng ta đi từ đâu trước đây ạ? Bất cứ nơi nào Trainer-san muốn đến, em đều――",
+      "jpname": "ダンツフレーム",
+      "jptext": "わぁ～、ホントにいろいろありますね……！　どこから行きますか？\nトレーナーさんが行きたいところ、どこでも――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......À không. Hôm nay hiếm khi có dịp thế này, hay là chúng mình cùng đi tới nơi anh muốn và nơi em muốn, cả hai luôn nhé?",
+      "jpname": "ダンツフレーム",
+      "jptext": "……いえ。今日はっ、せっかくですから、\nトレーナーさんとわたしの行きたいところ、両方行きませんか？",
+      "choice_data_list": [
+        "Được đấy. Thế thì trước tiên tới nơi em muốn đến nhé!",
+        "Được đấy. Thế thì trước tiên tới nơi bạn muốn đến nhé!"
+      ],
+      "jpchoice_data_list": [
+        "いいね。ならまず、君の行きたい所から！",
+        "いいね。ならまず、貴方の行きたい所から！"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Vâng ạ......! Nếu vậy thì――!",
+      "jpname": "ダンツフレーム",
+      "jptext": "はい……！　それなら――！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Oa! Có cả bạn voi, bạn gấu, rồi bạn rái cá nữa kìa anh ơi!",
+      "jpname": "ダンツフレーム",
+      "jptext": "うわ～！　ゾウちゃんにクマちゃん、カワウソちゃんもいますよ～！",
+      "choice_data_list": [
+        "Dantsu thích động vật nhỉ.",
+        "Dantsu thích động vật nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "ダンツは動物が好きなんだな",
+        "ダンツは動物が好きなんだね"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Vâng ạ! Nào là thong dong nhai đồ ăn trông bình yên ghê, rồi nào là chớp chớp đôi mắt tròn xoe chăm chú nhìn sang bên này nữa......",
+      "jpname": "ダンツフレーム",
+      "jptext": "はい！　ご飯を食べてのほほーんとしてたり、\nつぶらな瞳でこっちをじ～っと見つめていたり……。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Chỉ ngắm nhìn thôi cũng thấy tâm hồn được xoa dịu biết bao ạ. ......A! Kìa, có bạn chim cánh cụt đang lạch bạch bước về phía chúng mình này!",
+      "jpname": "ダンツフレーム",
+      "jptext": "見てるだけでなんだか癒されるんです～。\n……っ！　あれ、ペンギンちゃんがこっちのほうに歩いてきますよ！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Bạn ấy vỗ vỗ đôi cánh kìa...... Chẳng lẽ là đang vẫy tay chào chúng mình sao ta?",
+      "jpname": "ダンツフレーム",
+      "jptext": "手をパタパタ～って……\nもしかして、こっちに手を振っているのかな？",
+      "choice_data_list": [
+        "Dantsu cũng được các loài động vật yêu quý ghê nhỉ.",
+        "Dantsu cũng được các loài động vật yêu quý ghê nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "ダンツは動物にも好かれるんだな",
+        "ダンツは動物にも好かれるんだね"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "! Th-Thế ạ? E he he...... A, nhưng mà...... nhắc mới nhớ――",
+      "jpname": "ダンツフレーム",
+      "jptext": "！　そ、そうですかね？　えへへ……。\nあ、でも……そういえば――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Lần trước em có ghé một quán cà phê cún cưng...... bao nhiêu bạn cún cứ quấn quýt vây quanh em trông đáng yêu lắm luôn á!",
+      "jpname": "ダンツフレーム",
+      "jptext": "以前犬カフェに行ったんですけど……わたしのとこに\nたくさんわんちゃんが集まってくれてかわいかったんですよ！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Các bạn ấy bu lại đông quá nên em cũng hơi vất vả một chút...... a ha ha......",
+      "jpname": "ダンツフレーム",
+      "jptext": "集まりすぎちゃってちょっぴり大変でしたけど……あはは……。",
+      "choice_data_list": [
+        "Chắc là bị thu hút bởi khí chất hiền hòa của Dantsu đấy.",
+        "Chắc là bị thu hút bởi khí chất hiền hòa của Dantsu đấy."
+      ],
+      "jpchoice_data_list": [
+        "ダンツの優しいオーラに惹かれたんだな",
+        "ダンツの優しいオーラに惹かれたんだね"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Th-Thế ạ. Nhưng...... nếu đúng là vậy thì em vui lắm luôn á! Biết đâu bạn chim cánh cụt kia cũng......? Em đùa xíu thôi, phù phù.",
+      "jpname": "ダンツフレーム",
+      "jptext": "そ、そうかな～。でも……それだったら嬉しいですね！\nあのペンギンちゃんも、もしかしたら……？　なんて、ふふっ。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Ơi, bạn cánh cụt ơii! Lần sau tớ lại tới thăm bạn nhaaa!",
+      "jpname": "ダンツフレーム",
+      "jptext": "……お～い、ペンギンちゃーん！　また遊びにくるからね～！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Oa, quán cà phê đẹp tuyệt anh nhỉ......! Ngập tràn ánh nắng, ngồi ở khu ban công ngoài trời chắc dễ chịu lắm đây!",
+      "jpname": "ダンツフレーム",
+      "jptext": "わ～、素敵なカフェですね～……！\n日当たりもいいし、テラス席とか気持ちよさそう！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Phù phù, hóa ra Trainer-san muốn ghé nơi này ha.",
+      "jpname": "ダンツフレーム",
+      "jptext": "ふふ、トレーナーさんはここに来たかったんですねっ。",
+      "choice_data_list": [
+        "Đây là địa điểm quay bộ phim truyền hình anh rất thích.",
+        "Đây là địa điểm quay bộ phim truyền hình tôi rất thích."
+      ],
+      "jpchoice_data_list": [
+        "ここは好きなドラマの撮影場所なんだ",
+        "ここは好きなドラマの撮影場所なの"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ra là vậy ạ......! À thì, đó là bộ phim thế nào vậy anh?",
+      "jpname": "ダンツフレーム",
+      "jptext": "そうだったんですね……！\nあのっ、どんなドラマなんですか？"
+    },
+    {
+      "name": "",
+      "text": "Đó là một bộ phim truyền hình về đề tài công tố viên mà bố mẹ tôi mê mẩn thuở tôi còn thơ ấu. Hồi ấy tôi chưa hiểu được, nhưng khi đến tuổi này tôi mới dần cảm nhận được nét thú vị của nó.",
+      "jpname": "モノローグ",
+      "jptext": "自分が幼い頃、両親がハマって観ていた検事モノのドラマ。当時は\n理解できなかったが、この年になって面白さがわかるようになった。",
+      "choice_data_list": [
+        "Phim về công tố viên, nội dung sâu sắc lắm."
+      ],
+      "jpchoice_data_list": [
+        "検事のドラマで、話が深いんだ"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ồ, phim về công tố viên ư......! Phù phù, nghe rất đúng phong cách của Trainer-san luôn ạ.",
+      "jpname": "ダンツフレーム",
+      "jptext": "へ～検事ドラマ……！\nふふっ、なんだかトレーナーさんらしいですね。",
+      "choice_data_list": [
+        "Vậy sao?"
+      ],
+      "jpchoice_data_list": [
+        "そうかな？"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Vâng ạ! Vì hình ảnh công tố viên gợi cho em cảm giác về những người làm việc bằng niềm tin sắt đá! Nên em thấy việc Trainer-san yêu thích bộ phim ấy cũng rất dễ hiểu luôn.",
+      "jpname": "ダンツフレーム",
+      "jptext": "はい！　検事さんって信念で仕事をするイメージなので！\nだから、トレーナーさんが好きなのもなんだかわかるな～って。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......À thì. Anh thích nhất những phân cảnh nào trong bộ phim đó ạ? Nếu được, anh kể cho em nghe thật nhiều với nhé.",
+      "jpname": "ダンツフレーム",
+      "jptext": "……あの。そのドラマのどんなシーンが好きなんですか？\nもしよければ、いろいろ聞きたいですっ。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Chúng mình quay lại rồi đây ạ! Phù, coi như cũng đi dạo quanh đây được một vòng rồi ha. ......Cảm giác thời gian trôi qua nhanh như một cái chớp mắt vậy.",
+      "jpname": "ダンツフレーム",
+      "jptext": "ただいま戻りました～！　ふぅ、ここら辺は大体一周しましたね。\n……なんだかあっという間だったなぁ。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Chúng mình đã đi bộ thật nhiều, và trò chuyện cũng thật nhiều nữa. Được biết thêm bộ phim yêu thích của Trainer-san...... em vui lắm ạ!",
+      "jpname": "ダンツフレーム",
+      "jptext": "たくさん歩いたし、たくさん話しましたもんね。トレーナーさんの\n好きなドラマも知れたりして……わたし、楽しかったです！",
+      "choice_data_list": [
+        "Anh cũng rất vui khi được nghe những câu chuyện của Dantsu.",
+        "Tôi cũng rất vui khi được nghe những câu chuyện của Dantsu."
+      ],
+      "jpchoice_data_list": [
+        "俺もダンツの話が聞けて嬉しかったよ",
+        "私もダンツの話が聞けて嬉しかったよ"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Phù phù! ............A, nhắc mới nhớ!",
+      "jpname": "ダンツフレーム",
+      "jptext": "ふふっ！　…………あ、そういえば！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Trainer-san...... tối nay anh có rảnh không ạ? Hôm nay gần đây có lễ hội pháo hoa đấy ạ. Nếu anh không phiền thì......",
+      "jpname": "ダンツフレーム",
+      "jptext": "トレーナーさん……夜って時間ありますか？\n今日ここの近くで花火大会があるんです。もしよければ……。",
+      "choice_data_list": [
+        "Ừ, chúng ta cùng đi nhé!",
+        "Ừ, chúng ta cùng đi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、一緒に行こう！",
+        "うん、一緒に行こう！"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Oa! Trainer-san mặc yukata hợp lắm luôn ạ! Tông màu trầm trông rất chững chạc và trưởng thành......",
+      "jpname": "ダンツフレーム",
+      "jptext": "わわっ！　トレーナーさん、浴衣似合ってます！\n落ち着いた大人っぽい色合いで……。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Hừm. Nhưng mà hiếm khi mới đi lễ hội pháo hoa, cũng cần thêm chút tươi tắn nữa...... Đúng rồi! Chọn đai obi có hoa văn nổi bật một chút―― Em xin phép chỉnh lại nhé.",
+      "jpname": "ダンツフレーム",
+      "jptext": "うーん。でもせっかくの花火大会だし、華やかさも……\nそうだ！　帯をはっきりめの柄にして――失礼しますね。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "! Oa, trông đẹp lắm luôn ạ! Vừa chững chạc dịu dàng, lại vừa có nét đĩnh đạc chỉn chu...... Rất hợp với Trainer-san!",
+      "jpname": "ダンツフレーム",
+      "jptext": "！　わぁ、いい感じです！　大人っぽくて優しいけど、\n締めるところはキリッとしてる……トレーナーさんにぴったりです！",
+      "choice_data_list": [
+        "Anh vui lắm, cảm ơn em nhé!"
+      ],
+      "jpchoice_data_list": [
+        "嬉しいよ、ありがとう！"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Không có chi đâu ạ! ――À thì...... Trainer-san! Em cũng có một bộ yukata có họa tiết rất ưng ý, thế nhưng――",
+      "jpname": "ダンツフレーム",
+      "jptext": "いえいえ！　――あの……トレーナーさん！\nわたしも気になってるデザインの浴衣があるんですけど――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "À-À thì............ em đang phân vân về màu sắc...... Nếu được thì! Trainer-san...... có thể chọn giúp em được không ạ?",
+      "jpname": "ダンツフレーム",
+      "jptext": "そ、その…………色に悩んでて……\nもし、よかったらっ！　トレーナーさん……選んで、くれませんか？",
+      "choice_data_list": [
+        "Đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cả hai chúng tôi trong trang phục yukata cùng hướng về phía địa điểm tổ chức lễ hội pháo hoa. Và nơi em dẫn tôi tới là――",
+      "jpname": "モノローグ",
+      "jptext": "お互いに浴衣姿で花火大会の会場へ向かう。\nそして辿り着いたのは――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Ta-da! Đây là địa điểm bí mật đấy ạ. Thật ra em đã phát hiện ra từ năm ngoái...... Ở đây vắng người mà góc nhìn lại cực kỳ thoáng đãng luôn!",
+      "jpname": "ダンツフレーム",
+      "jptext": "じゃじゃーん！　隠れスポットですっ。実は去年見つけて……\n人もいないし、よく見えるんですよ！"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Hôm nay chúng mình đã đi bộ nhiều rồi nên...... ít nhất lúc này hãy cùng thong thả ngắm pháo hoa nhé anh.",
+      "jpname": "ダンツフレーム",
+      "jptext": "今日はたくさん歩いたので……\n最後くらいはゆっくり花火を楽しみましょう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi thả hồn vào khung cảnh mà em chỉ cho. Làn gió hè êm dịu chợt khẽ vuốt ve qua gò má.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が教えてくれた風景に思いを馳せる。\n優しい夏の風が、ふいに頬を撫でていった。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "............ ......Trainer-san. À thì, hôm nay anh thấy thế nào ạ?",
+      "jpname": "ダンツフレーム",
+      "jptext": "…………。\n……トレーナーさん。その、今日はどうでしたか？",
+      "choice_data_list": [
+        "Ừ, anh thấy vui lắm.",
+        "Ừ, tôi thấy vui lắm."
+      ],
+      "jpchoice_data_list": [
+        "ああ、すごく楽しかったよ",
+        "うん、すごく楽しかったよ"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "! Thế thì tốt quá rồi. Em cũng thấy vui lắm. Được cùng anh dạo chơi ở bao nhiêu nơi thế này.",
+      "jpname": "ダンツフレーム",
+      "jptext": "！　よかったっ。\nわたしも楽しかったです。あなたといろんなところに遊びに行けて。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "...... À thì, Trainer-san. Em――",
+      "jpname": "ダンツフレーム",
+      "jptext": "……。\nあの、トレーナーさん。わたし――"
+    },
+    {
+      "name": "",
+      "text": "(Đùng! Đùng đoàng!)",
+      "jpname": "モノローグ",
+      "jptext": "（ドン！　ドドン！）"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Oa! Pháo hoa kìaaa!! Nè, anh thấy sao ạ? Nhìn từ chỗ này vừa dễ trông, lại cảm giác pháo hoa còn lộng lẫy hơn bội phần nữa......!",
+      "jpname": "ダンツフレーム",
+      "jptext": "わっ！　花火だ～～～！！　ね、どうですか？\nここからだと見やすくて、一層キレイに見えるというか……！",
+      "choice_data_list": [
+        "Ừ! Đẹp tuyệt vời luôn!",
+        "Ừ! Đẹp tuyệt vời luôn!"
+      ],
+      "jpchoice_data_list": [
+        "ああ！素敵だな！",
+        "うん！素敵だね！"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "..................A.",
+      "jpname": "ダンツフレーム",
+      "jptext": "………………あっ。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Phù phù. Hóa ra khi ngắm pháo hoa Trainer-san lại có nét mặt như thế nhỉ.",
+      "jpname": "ダンツフレーム",
+      "jptext": "……ふふ。トレーナーさん、そんな風に花火を見つめるんですね。",
+      "choice_data_list": [
+        "Hở, trông mặt anh kỳ cục lắm à?",
+        "Hở, trông mặt tôi kỳ cục lắm à?"
+      ],
+      "jpchoice_data_list": [
+        "え、なんか変な顔してたか？",
+        "え、なんか変な顔してた？"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Đâu có đâu ạ, không phải thế đâu! ......Góc nghiêng của anh đẹp lắm luôn. Lần đầu tiên em được thấy đấy ạ.",
+      "jpname": "ダンツフレーム",
+      "jptext": "いえいえ、そんなこと！\n……素敵な横顔でしたっ。初めて見るくらい。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em cứ ngỡ hôm nay mình đã hiểu được rất nhiều điều về Trainer-san rồi, nhưng hóa ra vẫn còn lâu mới đủ――",
+      "jpname": "ダンツフレーム",
+      "jptext": "今日でトレーナーさんのこと、\nたくさん知ったかなって思ってたけど……まだまだだなって――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Chắc hẳn Trainer-san đối với em cũng――",
+      "jpname": "ダンツフレーム",
+      "jptext": "多分、トレーナーさんだってわたしのこと――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "............",
+      "jpname": "ダンツフレーム",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "......Dantsu?"
+      ],
+      "jpchoice_data_list": [
+        "……ダンツ？"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Trainer-san. Nếu được, em lại muốn...... cùng làm những điều như ngày hôm nay nữa.",
+      "jpname": "ダンツフレーム",
+      "jptext": "……トレーナーさん。\nよかったら、また……今日みたいなこと、したいです。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Những thứ em thích. Những thứ anh thích. Cùng nhau chia sẻ thật nhiều――",
+      "jpname": "ダンツフレーム",
+      "jptext": "わたしの好きなもの。あなたの好きなもの。\nたくさん、一緒に付き合って――"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Em muốn được hiểu thêm thật nhiều...... và cũng muốn anh hiểu thêm về em nữa.",
+      "jpname": "ダンツフレーム",
+      "jptext": "もっともっと。\n知っていきたいし……知ってほしいです。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "Có...... được không anh?",
+      "jpname": "ダンツフレーム",
+      "jptext": "どう……でしょうか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi nhớ lại khoảnh khắc em chìa tay ra khi hai chúng tôi ký hợp đồng. Vừa cảm thấy bồi hồi hoài niệm, tôi cũng đưa tay ra nắm lấy tay em.",
+      "jpname": "モノローグ",
+      "jptext": "彼女と契約した時も、こうして手を伸ばされたことを思い出す。\nそんなこともあったなと懐かしさを感じながら自分も手を伸ばした。",
+      "choice_data_list": [
+        "Tất nhiên rồi. ......Từ nay về sau cũng nhờ cả vào em nhé, Dantsu."
+      ],
+      "jpchoice_data_list": [
+        "もちろん。……これからもよろしく、ダンツ"
+      ]
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "......Vâng ạ! ――E he he.",
+      "jpname": "ダンツフレーム",
+      "jptext": "……～っ、はい！　――えへへっ。"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "(Hôm nay bàn tay của Trainer-san vẫn ấm áp và dịu dàng như thế. Giống hệt như lần anh bắt tay em trước kia.)",
+      "jpname": "ダンツフレーム",
+      "jptext": "（今日もトレーナーさんの手は、あったかくて優しい。\n前に握手してくれた時と同じ）"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "(Nhưng liệu có ngày nào đó...... bàn tay ấy sẽ mang một hơi ấm khác không nhỉ? Nếu như đúng là thế――)",
+      "jpname": "ダンツフレーム",
+      "jptext": "（でもいつか……違う温度になる日も、くるかな？\nもしそうだったら――）"
+    },
+    {
+      "name": "Dantsu Flame",
+      "text": "(Thì lúc đó mình cũng muốn được cảm nhận thế này biết bao. ......Mình muốn được biết nhiều hơn nữa.)",
+      "jpname": "ダンツフレーム",
+      "jptext": "（その時もこうして、知れたらいいな。……知りたいな）"
+    }
+  ]
+}
