@@ -1,0 +1,500 @@
+{
+  "title": "Mã Nương hoài niệm",
+  "jptitle": "ノスタルジック・ウマ娘",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ sau khi ký hợp đồng phụ trách, chuỗi ngày luyện tập cùng Nice Nature cứ thế tiếp diễn.",
+      "jpname": "モノローグ",
+      "jptext": "担当契約を交わしてからというもの、\nナイスネイチャとのトレーニングの日々が続いていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "U oa, tay chân em run rẩy hết cả rồi này...! Giáo án mà Trainer riêng chỉ định quả nhiên hiệu nghiệm thật đấy chứ......",
+      "jpname": "ナイスネイチャ",
+      "jptext": "うひゃー、手足がもうプルップル……！　専属のトレーナーが\n指示してくれるメニュー、やっぱり効くんだねー……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mai chuẩn bị tinh thần bị đau cơ là vừa... Tiếp theo thì sao ạ? Em nên làm gì tiếp đây?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "明日の筋肉痛は覚悟するとして……\n次は？　なにすればいいかな？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Trái ngược hẳn với vẻ ngoài có phần lãnh đạm ngày thường, trong lúc luyện tập cô bé lại là một đứa trẻ vô cùng nghiêm túc và ngoan ngoãn.",
+      "jpname": "モノローグ",
+      "jptext": "……普段のどこか冷めた印象とは打って変わって、\nトレーニング中の彼女はいたって真面目ないい子だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hửm? Sao thế ạ, anh Trainer?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ん？　どしたの、トレーナーさん？",
+      "choice_data_list": [
+        "Tôi chỉ nghĩ em là một cô bé luôn nỗ lực rất nghiêm túc thôi"
+      ],
+      "jpchoice_data_list": [
+        "真面目に頑張るいい子だと思って"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hả!? ...K-Không, chuyện cần làm thì em vẫn phải làm chứ? Dù sao em cũng là học viên của Học viện Tracen mà lại......?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ふぇ！？　……い、いや、そりゃやることはやるよ？\nこれでも一応、トレセン学園の生徒ですし……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Thôi nào, anh đừng nói mấy câu kỳ cục thế nữa, mau đưa ra chỉ dẫn tiếp theo đi chứ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "もー、変なこと言ってないで、\n早く次の指示くださいよー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tuy nhiên, trong cuộc đua thử với các Mã Nương khác sau khi cùng nhau rèn luyện――",
+      "jpname": "モノローグ",
+      "jptext": "しかし、そうして一緒に鍛えたのち迎えた、\n他のウマ娘との模擬レースでは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hộc, hộc, hộc, hộc......!! ...Phùuuuuu.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "はぁっ、はぁっ、はぁっ、はぁっ……！！\n……はぁーーーーー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hạng ba, nhỉ......",
+      "jpname": "ナイスネイチャ",
+      "jptext": "3着、ね……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Có cả Trainer riêng kèm cặp, rèn luyện đàng hoàng thế mà kết quả cũng chỉ dừng lại ở đó... thôi sao.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "専属トレーナーもついて、しっかり鍛えても、\n結果はそこ止まり……か。",
+      "choice_data_list": [
+        "Nhưng em suýt chút nữa là đuổi kịp rồi!",
+        "Nhưng em suýt chút nữa là làm được rồi!"
+      ],
+      "jpchoice_data_list": [
+        "でも惜しいところだった！",
+        "でも惜しいところだったよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Ha ha, thôi nào, với đứa như em thì hạng ba chắc là chạm trần rồi còn gì?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "……ははっ、いやーアタシにはやっぱり、\n3着くらいが関の山なんじゃない？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mấy câu như \"Hướng tới chiến thắng trọn vẹn hạng nhất!\" hay \"Chinh phục Twinkle Series!\" thì đứa như em sao dám mở miệng nói chứ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "『目指せ1着完全勝利！』とか、『トゥインクル・シリーズ制覇！』\nとかは、さすがに言ってられないって。",
+      "choice_data_list": [
+        "Em cứ nói ra cũng có sao đâu"
+      ],
+      "jpchoice_data_list": [
+        "言っていいのに"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Đâu có, anh nói gì lạ vậy. Chẳng phải em đã bảo ngay từ đầu rồi sao? Em không phải là một Mã Nương có gì ghê gớm đâu.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "いやいや、なにを仰いますかー。最初から言ってるでしょ？\nアタシは大したウマ娘じゃないんだって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Luyện tập thì em vẫn sẽ làm nghiêm chỉnh, và vì được cho chạy trên sân khấu lớn nên dĩ nhiên em tính dốc toàn lực rồi.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "トレーニングはちゃんとやるし、大舞台で走らせて\nもらえるんだから、もちろん全力は尽くすつもりだけどさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nhưng về bản thân em thì em là người hiểu rõ nhất mà. Cả thực lực lẫn giới hạn của một Mã Nương...... nhỉ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "アタシのことは、アタシが1番よくわかってるんだよ。\nウマ娘としての実力も、その限界も……ね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Thôi nào, chuyện này tới đây là chấm dứt nha! Nào nào, chuẩn bị giải tán――",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ハイ、この話おしまーい！\nささ、そろそろ解散に――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ục ục ục ục......)",
+      "jpname": "モノローグ",
+      "jptext": "（ぐぅぅぅぅぅ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ô kìa......? Vừa rồi là tiếng bụng của anh Trainer đấy à?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "おぉう……？　今の、トレーナーさん？",
+      "choice_data_list": [
+        "T-Tôi xin lỗi......",
+        "A-Anh xin lỗi......"
+      ],
+      "jpchoice_data_list": [
+        "す、すまん……",
+        "ご、ごめんなさい……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ha ha ha ha, không sao, không sao đâu mà! Tuổi trẻ đang tuổi ăn tuổi lớn thì phải thế chứ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あはははっ、いーのいーの！\n食べ盛りの若者はそーでなくっちゃね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Phải rồi, anh đi theo em một lát đi! Có một chỗ tuyệt lắm đấy.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "そうだ、ちょっと一緒に来なさい！\nいーいところがあるからさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Rõ ràng Nice Nature trẻ hơn tôi nhiều, thế nhưng chẳng kịp phản bác câu nào tôi đã bị cô bé kéo đi, và nơi chúng tôi đặt chân tới là――",
+      "jpname": "モノローグ",
+      "jptext": "ナイスネイチャの方が明らかに若いのだが、\nそんなことを突っ込むヒマもなく引っ張られ、たどり着いた先は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Chà, thơm quá đi mất! Bác ơi, có xiên thịt viên nướng mới ra lò không ạ?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ん～、いい匂い！\nおっちゃーん、つくね棒の焼き立てはあるー？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Ồ, chẳng phải bé Nei đây sao! Có chứ, có chứ, có cả mề gà nữa này!",
+      "jpname": "商店街のおじさん",
+      "jptext": "おおっ、ネイちゃんじゃないか！\nあるよあるよー、砂肝もあるよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oa, tuyệt quá, cho cháu một... ủa mà khoan đã, hôm nay không phải cho cháu đâu nhé!",
+      "jpname": "ナイスネイチャ",
+      "jptext": "おっ、いーねえ、いただこっかなー……\nっていやいや、今日はアタシじゃなくって！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Cháu muốn đãi anh Trainer ở đây ăn cơ. Bác gói cho cháu vài món gợi ý ngon ngon được không ạ?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "こっちのトレーナーさんに食べさせてあげたいんだ。\nおすすめ、いくつか包んでくれない？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Được rồi, cứ để bác lo! ...Ủa, gì cơơơ!? Trainer phụ trách của bé Nei á!? Cậu là người đó thật sao!?",
+      "jpname": "商店街のおじさん",
+      "jptext": "あいよ、任せな！　……って、なにぃぃー！？　ネイちゃんの\n担当トレーナーさんだって！？　アンタがそうなのかっ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Á, chết dở......",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あっ、やば……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Trời đất quỷ thần ơi! Trainer này, đợi bác một lát nhé! Bác sẽ gom hết tất cả món ngon nhất của cả khu phố mua sắm này lại cho cậu!",
+      "jpname": "商店街のおじさん",
+      "jptext": "なんてこった！　トレーナーさん、ちょっと待っててくれよな！\n商店街中のおすすめ、かき集めてくるぜ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ấy, không cần làm thế đâu mà... ơ kìa, chán ghê. Bác ấy phóng nhanh thật. Nhanh đến mức em còn muốn bác ấy chạy đua thay em luôn ấy chứ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "いや、そーいうのはいいから――って、あー。\nおっちゃん速っ。アタシの代わりにレース出て欲しいくらいだわー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Haizz, biết ngay thể nào cũng thành ra thế này nên em mới định im lặng... Ha ha, thất sách rồi, thất sách rồi......",
+      "jpname": "ナイスネイチャ",
+      "jptext": "うーむ、こういう展開になりそーだから\n黙ってるつもりだったんだけど……。いやー、失敗失敗……。",
+      "choice_data_list": [
+        "Em vẫn được mọi người ở phố mua sắm yêu quý như mọi khi nhỉ",
+        "Em vẫn được mọi người ở phố mua sắm yêu quý như xưa nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "相変わらず、商店街の人から愛されてるな",
+        "相変わらず、商店街の人から愛されてるね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ừm, bảo là yêu quý thì... Mà, trong số các học viên Tracen, em tự biết mình là Mã Nương dễ bắt chuyện nhất mà?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "うーん、愛されてるっていうか……。ま、トレセン学園生の中でも、\n気安く話せるウマ娘でーすっていう自覚はあるよ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nhà em vốn cũng ở một khu phố mua sắm giống thế này mà lị. Mẹ em mở một quán bar nhỏ, nên từ bé em đã phụ giúp ở đó rồi.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "アタシ、実家もこういう商店街だからさ。おふくろがちっちゃな\nバーやってて、ちっちゃい頃からそこの手伝いしてたんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Thành ra em có rất nhiều dịp trò chuyện với các bác, các cô chú ở phố mua sắm và khách quen.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "そしたら、商店街の人とか常連さんとか、\nそういうおっちゃんおばちゃんと話す機会が多かったってわけ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Cơ mà nhờ thế nên em mới lớn lên thành một đứa hơi ngang bướng và châm biếm thế này đây.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ま、おかげでこういう、\nちょいヒネた感じに育ちました、っていうね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Dù vậy, cũng nhờ đó mà em mới có thể thân thiết với các cô bác tốt bụng ở đây, nên em thấy biết ơn nhiều lắm.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "そのおかげで、こうして仲よくしてくれる\nおっちゃんたちとも出会えたから、わりと感謝はしてるけどさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Tự dưng nói ra lại làm em nhớ ghê. Không biết bà lão ở tiệm bánh kẹo đối diện xéo nhà em đã khỏi đau lưng chưa nhỉ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "……なんか話してたら思い出してきちゃった。\nはす向かいの駄菓子屋のおばあちゃん、痛めてた腰、治ったかなー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bà lão ở đó trông mặt dữ dằn thế thôi chứ tốt bụng lắm. Hồi em còn bé xíu, bà toàn cho em mấy phần kẹo trúng thưởng thôi à.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "そこのおばあちゃん、顔はおっかないけどいい人でさ。\nちっちゃい頃は、あたり付きお菓子のあたりばっかアタシにくれて。",
+      "choice_data_list": [
+        "Ở quê em cũng được mọi người yêu quý nhiều lắm nhỉ",
+        "Ở quê em cũng được mọi người yêu quý thật đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "地元でも愛されていたんだな",
+        "地元でも愛されていたんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ha ha... Thế nên em mới bảo bản thân em chẳng có gì to tát cả mà.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あはは……だからアタシ自身は\nそんな大したもんじゃないんだって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Chỉ là... mọi người xung quanh ai nấy đều quá dịu dàng thôi.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ただ……周りがみーんな、優しかっただけ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Một đứa chỉ chạy nhanh hơn người khác chút đỉnh như em, vậy mà lúc nào mọi người cũng cổ vũ động viên. Đã thế còn tiễn em đến tận nơi này nữa chứ.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ちょっとばかし脚が速かっただけのアタシを、いっつも応援して\n励ましてくれてさ。おまけに、こんなとこまで送り出してくれて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Cái hôm em rời quê lên đường, rầm rộ lắm luôn đó nha? Nào là cờ các nước, cờ hiệu treo khắp cả thị trấn. Nhìn cứ như lễ hội lớn vậy đó.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "向こうを発つ日なんか、すごかったんだよー？　万国旗とか\nのぼりとか街じゅう飾ってあんの。なんのお祭りだよってね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Cơ mà... được mọi người kỳ vọng vào những chiến thắng lẫy lừng như thế, để rồi cái kết nhận lại chính là như thế này đây.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ま……そーやって、きっと華々しい勝利とか\n期待されてきた末路が、これなんだけどさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Chỉ có thể đem về những kết quả tàm tạm, một đứa như em――",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ほどほどの結果しか残せない、こんな――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Trainer ơi Trainer, để cậu đợi lâu rồi! Ăn đống này cho no căng bụng đi nhé! Nhờ cậu chăm sóc cho bé Nei của chúng tôi đấy nhé!!",
+      "jpname": "商店街のおじさん",
+      "jptext": "トレーナーさんトレーナーさん、お待たせ～！　こいつを食って\n腹いっぱいになってくれよ！　ネイちゃんのこと頼むな～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ha ha... Bác ấy nói thế rồi kìa anh Trainer. Anh mau ăn lúc còn nóng đi nha?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あはは……だってさトレーナーさん。\n冷めないうちに食べなよねー？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "A, đây rồi, đây rồi! Này, Nature ơiii! Phù, cuối cùng cũng tìm thấy cậu!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "あっ、いたいた～！　おーい、ネイチャー！\nはーっ、やっと見つけた！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hửm, Teio...? Sao thế, cậu chạy vội vàng gì vậy?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "ん、テイオー……？\nどうしたの、そんな急いで。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ơ kìa, cậu vẫn chưa xem bảng phân bảng xuất phát à? Người ta dán thông báo của đại hội thể thao rồi đấy!",
+      "jpname": "トウカイテイオー",
+      "jptext": "あれ、まだ出走表見てないの？\nもう掲示されてたよ、競技大会のやつ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Ồ, là \"Đại hội Thể thao Phân môn\" nổi tiếng của Học viện Tracen đấy à! Năm nào mở cửa cho khán giả vào xem cũng náo nhiệt lắm, hào hứng ghê nha!",
+      "jpname": "商店街のおじさん",
+      "jptext": "おっトレセン学園名物『種目別競技大会』か！\n毎年客入れて大盛り上がりなんだよな～、楽しみだねえ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bác ở phố mua sắm",
+      "text": "Dĩ nhiên lần này cả đám tụi bác ở đây cũng sẽ đi cổ vũ hết mình cho cháu, bé Nei à!",
+      "jpname": "商店街のおじさん",
+      "jptext": "もちろん今回も、ここらの連中みーんなで\n応援行くからなっ、ネイちゃん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ha ha, lúc nào cũng cảm ơn các bác nhiều nhé. Mà, đã chia bảng xuất phát rồi cơ à.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あはは、いつもありがとねー。\nてか、もう出走グループ決まったんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nhưng mà Teio... sao cậu phải cất công chạy tới tận đây để báo cho tớ thế...?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "でもテイオー……なんでわざわざそれを\nアタシのとこまで教えに……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hừ hừ, Nature đăng ký cự ly cỏ 2000m đúng không? Thật ra tớ cũng thế đấy nhá!",
+      "jpname": "トウカイテイオー",
+      "jptext": "ふっふーん、ネイチャ、芝2000mに申し込んだでしょ？\n実はボクもだったんだよねー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chúng mình được xếp chung một bảng rồi đó! Thế nên hôm nay tớ đến để tuyên chiến đây! Nature, hãy phân tài cao thấp với tớ đi nào!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "ボクたち、同じグループになったよ！　だから今日は、\n宣戦布告に来たんだ！ネイチャ、ボクと勝負だーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hả......?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "え……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nice Nature",
+      "text": "M-Mình mà lại... đua cùng với Teio sao!?",
+      "jpname": "ナイスネイチャ",
+      "jptext": "あ、アタシが……テイオーと、レース！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
