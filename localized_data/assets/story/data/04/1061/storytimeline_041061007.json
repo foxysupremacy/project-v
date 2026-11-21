@@ -1,0 +1,420 @@
+{
+  "title": "Đại huấn luyện hỗn loạn!",
+  "jptitle": "大特訓パニック！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Tuần huấn luyện mùa hè đã bắt đầu từ tuần này, và King Halo vốn đang hăng say tập luyện trên bãi biển, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "今週から夏合宿が始まり、ビーチでのトレーニングに\n励んでいたキングヘイローだったのだが……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Trainer này, tập trên bãi biển thế là đủ rồi đấy.",
+      "jpname": "キングヘイロー",
+      "jptext": "トレーナー、もうビーチでのトレーニングは十分よ。",
+      "choice_data_list": [
+        "Sao đột ngột thế em?",
+        "Sao đột ngột thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "急にどうしたんだ？",
+        "急にどうしたの？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Ufufu…… Phải rồi, để em bật mí cho Trainer nhé.",
+      "jpname": "キングヘイロー",
+      "jptext": "うふふっ……♪\nそうね、トレーナーにも教えてあげるわ。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Em vừa nghe ngóng được thông tin về một bài tập bí mật đấy! Bài huấn luyện đệ nhất đẳng mà bao Mã Nương cấp GI từng kinh qua!",
+      "jpname": "キングヘイロー",
+      "jptext": "私、秘密のトレーニングの情報を聞いたの！\n数々のＧＩウマ娘もこなしたという、一流のトレーニングよ！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Nghe đâu trong khu rừng phía sau trại huấn luyện có một đường chạy siêu cao cấp dành cho dân chuyên nghiệp đấy! Anh cũng chưa biết đúng không?",
+      "jpname": "キングヘイロー",
+      "jptext": "なんでも合宿所の裏の森に、超上級者用コースがあるんですって！\nあなたも知らなかったでしょう？",
+      "choice_data_list": [
+        "Anh chưa từng nghe tới……"
+      ],
+      "jpchoice_data_list": [
+        "知らなかった……"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Ô hô hô hô! Đương nhiên rồi. Vì chính em dạo gần đây cũng mới tình cờ đọc được trên mạng thôi cơ mà!",
+      "jpname": "キングヘイロー",
+      "jptext": "おーっほっほっほ！　当然よね。\nだって私も最近ネットで見つけたんだもの！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Dù người ta có viết rằng \"Kẻ nghiệp dư sẽ phải trả giá đắt\", nhưng mà một King này đời nào lại thất bại được chứ.",
+      "jpname": "キングヘイロー",
+      "jptext": "まあ、『素人は痛い目を見る』とか書かれてたけど？\nこのキングが、失敗するわけないじゃない。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Anh chẳng có gì phải bận tâm lo lắng đâu! Cứ phó thác hết mọi sự cho em đi nhé!",
+      "jpname": "キングヘイロー",
+      "jptext": "あなたは何も心配することはないわ♪\n私に全部任せておきなさいっ！"
+    },
+    {
+      "name": "",
+      "text": "Dù King Halo đã mạnh miệng nói như vậy, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "とキングヘイローは言っていたものの――"
+    },
+    {
+      "name": "Mã Nương tóc bob",
+      "text": "Hếếế!? King ơi, ngày mai cậu thật sự định chạy trong rừng sao!?",
+      "jpname": "ボブヘアのウマ娘",
+      "jptext": "ええ～～！？　キング、本当に明日森で走るの～！？"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ừ, đúng thế thì sao nào?",
+      "jpname": "キングヘイロー",
+      "jptext": "ええ、そうだけど？"
+    },
+    {
+      "name": "Mã Nương mắt mèo",
+      "text": "N-Nhưng mà đường chạy đó liệu có ổn không đấy? Tụi mình nghe nói bản thân cung đường ấy mờ ám lắm luôn á……",
+      "jpname": "ネコ目のウマ娘",
+      "jptext": "で、でもそのコースって大丈夫なの？\nコース自体怪しいって聞いたけど……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hừm, không sao hết! King này là Mã Nương đệ nhất đẳng cơ mà! Cung đường nào em cũng sẽ chinh phục trọn vẹn cho xem!",
+      "jpname": "キングヘイロー",
+      "jptext": "ふふん、大丈夫よ！　キングは一流のウマ娘なんだから！\nどんなコースでも走り切ってみせるわ！"
+    },
+    {
+      "name": "",
+      "text": "……Dù sao thì mình cũng nên tự chuẩn bị trước cho ngày mai mới được.",
+      "jpname": "モノローグ",
+      "jptext": "……一応、明日の準備をこちらの方でもしておこう。"
+    },
+    {
+      "name": "",
+      "text": "――Và rồi ngày hôm sau.",
+      "jpname": "モノローグ",
+      "jptext": "――そして翌日。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ô hô hô hô hô! Tới rồi đấy à Trainer. Hôm nay em ban cho anh đặc ân được tháp tùng buổi tập luyện hoàn-hảo do chính em đích thân vạch ra đấy nhé!",
+      "jpname": "キングヘイロー",
+      "jptext": "おーっほっほっほっほ！　来たわね、トレーナー。\n今日は、私考案の完っ璧なトレーニングに付き合う権利をあげるわ！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Em đã chuẩn bị vô cùng chu đáo rồi đấy.",
+      "jpname": "キングヘイロー",
+      "jptext": "ちゃーんと準備もしてきたんだから。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Tối qua em đã tra cứu tường tận toàn bộ cung đường siêu cấp theo lời đồn rồi! Bản đồ trên điện thoại cũng đánh dấu chuẩn không cần chỉnh luôn!",
+      "jpname": "キングヘイロー",
+      "jptext": "昨晩、ウワサの超上級コースを全部調べたの！\n携帯の地図にもマークはバッチリよ！",
+      "choice_data_list": [
+        "Ngoài điện thoại ra không mang theo bản đồ giấy liệu có sao không em?",
+        "Ngoài điện thoại ra không mang theo bản đồ giấy liệu có sao không bạn?"
+      ],
+      "jpchoice_data_list": [
+        "携帯以外の地図は持っていなくていいのか？",
+        "携帯以外の地図は持っていなくていいの？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Không cần đâu. Giờ là thời đại công nghệ số rồi mà. Phải tích hợp mọi thứ vào chiếc điện thoại, sống một cách thông minh thời thượng chứ.",
+      "jpname": "キングヘイロー",
+      "jptext": "いらないわ。今はデジタルの時代だもの。\n携帯に全て収めて、スマートに生きないと。"
+    },
+    {
+      "name": "King Halo",
+      "text": "So ra thì anh vẫn còn non nớt lắm đấy. Vác theo đống trang bị cồng kềnh như thế định đi đâu chứ hả.",
+      "jpname": "キングヘイロー",
+      "jptext": "それに比べて、あなたはまだまだね。\nそんな重装備でどこに行くというのよ。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Mà, miễn sao anh không trở thành gánh nặng cản trở em là được. Nào, bám sát theo King này cho cẩn thận đấy nhé!",
+      "jpname": "キングヘイロー",
+      "jptext": "ま、私のお荷物にならないなら、構わないけど。\nさあ、しっかりキングについてきなさいっ！"
+    },
+    {
+      "name": "",
+      "text": "Và thế là buổi tập luyện xuyên rừng núi của cô ấy bắt đầu, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "そして彼女の山間トレーニングが開始したのだが――"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hộc hộc…… Quả nhiên đường núi khó chạy thật đấy. Quá nhiều chướng ngại vật tự nhiên với cả mô đất lồi lõm gồ ghề.",
+      "jpname": "キングヘイロー",
+      "jptext": "はあはあ……やっぱり山道は走りにくいわね。\n自然の障害物やら凹凸が多すぎるのよ。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Đã thế đường xá chẳng được trải nhựa chút nào, độ ẩm thì lại cao ngột ngạt nữa chứ…… Phù, không biết bây giờ bao nhiêu độ rồi nhỉ…… điện thoại……",
+      "jpname": "キングヘイロー",
+      "jptext": "しかも全然道も舗装されてないし、やけに湿気が凄いし……。\nはあ、いま何度かしら……けいたい……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ơ, ááá!? S-S-Sâu bọ!?",
+      "jpname": "キングヘイロー",
+      "jptext": "って、ぎゃっ！？　む、むむ虫っ！？"
+    },
+    {
+      "name": "King Halo",
+      "text": "T-Tr-Trainer mau làm gì đi chứ cứu em với!!!",
+      "jpname": "キングヘイロー",
+      "jptext": "とっ、とととトレーナーなんとかしなさいよ～～！！！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hộc…… hộc…… phù……",
+      "jpname": "キングヘイロー",
+      "jptext": "ぜえ……ぜえ……はあ……。",
+      "choice_data_list": [
+        "Em có sao không?",
+        "Bạn có sao không?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫か？",
+        "大丈夫？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "K-Không sao hết. Một King đời nào lại chùn bước trước chừng này trắc trở chứ…… Nào, đi tới điểm đến tiếp theo thôi……",
+      "jpname": "キングヘイロー",
+      "jptext": "だ、大丈夫よ。これくらいでへこたれるキングじゃないわ……。\nさあ、次の目的地に……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "……Ơ kìa?",
+      "jpname": "キングヘイロー",
+      "jptext": "……あら？"
+    },
+    {
+      "name": "King Halo",
+      "text": "Này Trainer. Anh có thấy điện thoại của em đâu không?",
+      "jpname": "キングヘイロー",
+      "jptext": "ねぇ、トレーナー。私の携帯知らない？",
+      "choice_data_list": [
+        "Em đánh rơi rồi à……?",
+        "Bạn đánh rơi mất rồi sao……?"
+      ],
+      "jpchoice_data_list": [
+        "失くしたのか……？",
+        "失くしちゃった……？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "L-Làm sao mà có chuyện đó được chứ! Em chỉ hỏi bâng quơ thôi! Mã Nương đệ nhất đẳng đời nào lại đi làm mất điện thoại chứ……",
+      "jpname": "キングヘイロー",
+      "jptext": "そ、そーんなわけないでしょう！\nただ聞いてみただけ！　一流のウマ娘が携帯を失くすだなんて……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "……Nhớ lại xem nào, nhớ lại xem…… mình…… Á!",
+      "jpname": "キングヘイロー",
+      "jptext": "……思い出すのよ、思い出すのよ……私……はっ！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Đ-Đúng rồi. Trainer ơi! Lúc nãy có cái chỗ sâu bọ xuất hiện đúng không!? Chúng ta mau quay lại chỗ đó đi!",
+      "jpname": "キングヘイロー",
+      "jptext": "そっ、そうよ。トレーナーっ！\nさっき虫が出た所あったじゃない！？　あそこまで戻りましょう！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ừm thì, chỗ điểm nghỉ chân thứ hai ấy. Không sao, sẽ ổn thôi mà. Trên bản đồ điện thoại em đã đánh dấu kỹ càng rồi……",
+      "jpname": "キングヘイロー",
+      "jptext": "ええっと、第2休憩地点のところよね。大丈夫、大丈夫よ。\n携帯の地図にはちゃんとマークを入れておいたんだから……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "……Ủa khoan, điện thoại mất tiêu rồi mà!!",
+      "jpname": "キングヘイロー",
+      "jptext": "……って、携帯！！",
+      "choice_data_list": [
+        "Em có thật sự ổn không đấy……?",
+        "Bạn có thật sự ổn không đấy……?"
+      ],
+      "jpchoice_data_list": [
+        "本当に大丈夫か……？",
+        "本当に大丈夫……？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Đ-Đương nhiên là em ổn rồi…… Chút trở ngại cỏn con này đời nào khiến em chịu đầu hàng được cơ chứ……",
+      "jpname": "キングヘイロー",
+      "jptext": "だ、大丈夫にきまってるじゃない……。\n別にこの程度のハンデで、私が諦めるわけがないんだからぁ～……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Em sẽ tìm lại điện thoại đàng hoàng, thoát khỏi khu rừng này đàng hoàng, rồi trở về trại huấn luyện cho xem……",
+      "jpname": "キングヘイロー",
+      "jptext": "ちゃんと携帯も見つけて、ちゃんと森も抜けて、\n合宿所に帰るわよぉ～……。"
+    },
+    {
+      "name": "",
+      "text": "……Cứ đà này thì lạc lối giữa rừng mất thôi. Vừa mở tấm bản đồ ra, tôi vừa rà soát lại lộ trình từ nãy tới giờ thì――",
+      "jpname": "モノローグ",
+      "jptext": "……このままだと遭難まっしぐらだ。\n地図を開きながら、これまでの道を思い出していると――"
+    },
+    {
+      "name": "King Halo",
+      "text": "Trời ơiii, nước sôi lửa bỏng thế này mà anh còn đang làm cái gì thế hả……",
+      "jpname": "キングヘイロー",
+      "jptext": "んも～、こんな時にあなた何をしているのよ～……。",
+      "choice_data_list": [
+        "Đoán trước tình huống này nên anh đã chuẩn bị rồi"
+      ],
+      "jpchoice_data_list": [
+        "こんなこともあろうかと"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Hả, đó chẳng phải là bản đồ sao! Lại còn có cả la bàn nữa! Còn vạch mực đỏ này…… không lẽ là con đường chúng ta vừa chạy qua nãy giờ?",
+      "jpname": "キングヘイロー",
+      "jptext": "えっ、それ地図じゃない！　しかもコンパスまで！\nそれにこの赤線は……もしかして、今まで走ってきた道？"
+    },
+    {
+      "name": "King Halo",
+      "text": "Làm tốt lắm, Trainer! Có cái này thì điện thoại của em cũng……",
+      "jpname": "キングヘイロー",
+      "jptext": "でかしたわっ、トレーナー！　これがあれば私の携帯も……。",
+      "choice_data_list": [
+        "Đi tìm thôi em"
+      ],
+      "jpchoice_data_list": [
+        "探しに行こうか"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Hức………… Nhờ cả, vào, anh đấy.",
+      "jpname": "キングヘイロー",
+      "jptext": "ぐっ…………よろしく、お願い、します。"
+    },
+    {
+      "name": "King Halo",
+      "text": "May mà cuối cùng cũng quay về bình an vô sự rồi nhỉ……",
+      "jpname": "キングヘイロー",
+      "jptext": "なんとか無事に戻ってこれたわね……。",
+      "choice_data_list": [
+        "Em không bị thương chứ?",
+        "Bạn không bị thương chứ?"
+      ],
+      "jpchoice_data_list": [
+        "ケガはないか？",
+        "ケガはない？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Vâng, không hề hấn gì hết. Điện thoại của em cũng lành lặn tìm lại được rồi này……",
+      "jpname": "キングヘイロー",
+      "jptext": "ええ、何も問題はないわ。\nこの通り私の携帯も無事だったし……。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Cơ mà…… anh chuẩn bị chu đáo ghê gớm thật đấy. Dù quyết định chạy cung đường này chỉ mới bất thình lình nảy ra ngày hôm qua.",
+      "jpname": "キングヘイロー",
+      "jptext": "それにしても……随分と準備が良かったのね。\nコースを決めたのは、昨日、突然だったのに。",
+      "choice_data_list": [
+        "Vì anh đang hướng tới mục tiêu trở thành Trainer đệ nhất đẳng mà",
+        "Vì tôi đang hướng tới mục tiêu trở thành Trainer đệ nhất đẳng mà"
+      ],
+      "jpchoice_data_list": [
+        "一流のトレーナーを目指しているからな",
+        "一流のトレーナーを目指しているからね"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "……Gớm, xấc xược ghê. Nhưng mà…… ừ, em thừa nhận. Lần này là do sơ suất của em…… do khâu chuẩn bị còn thiếu sót mà ra.",
+      "jpname": "キングヘイロー",
+      "jptext": "……生意気ね。でも……ええ、認めるわ。\n今回は私のミス……準備不足が招いたことよ。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Nếu anh không chu đáo chuẩn bị sẵn bản đồ với la bàn, chắc là em đã gặp phải rắc rối to rồi.",
+      "jpname": "キングヘイロー",
+      "jptext": "あなたが地図やコンパスを用意していなかったら、\nもっと大変な目に遭ってたと思う。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Thế nên là…… xin lỗi anh nhé, vì đã gây phiền toái cho anh.",
+      "jpname": "キングヘイロー",
+      "jptext": "だから……悪かったわね、迷惑かけて。",
+      "choice_data_list": [
+        "Em bình an vô sự là tốt rồi",
+        "Bạn bình an vô sự là tốt rồi"
+      ],
+      "jpchoice_data_list": [
+        "君が無事でよかった",
+        "貴方が無事でよかった"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "……Hừ.",
+      "jpname": "キングヘイロー",
+      "jptext": "……ふんっ。"
+    },
+    {
+      "name": "King Halo",
+      "text": "Duy chỉ có hôm nay là em khen anh đấy nhé. Thái độ kính cẩn phụng sự một Mã Nương đệ nhất đẳng của anh cũng đáng gọi là đệ nhất đẳng đấy chứ nhỉ?",
+      "jpname": "キングヘイロー",
+      "jptext": "今日だけは褒めてあげる。\n一流のウマ娘を敬う、あなたの姿勢は一流だったんじゃない？"
+    },
+    {
+      "name": "King Halo",
+      "text": "Vậy thì, giờ chúng ta đi họp rút kinh nghiệm thôi nào. Ngày mai nhất định buổi tập trong rừng phải hoàn hảo không một vết xước mới được.",
+      "jpname": "キングヘイロー",
+      "jptext": "じゃ、これから反省会といきましょうか。\n明日こそは森でのトレーニングをパーフェクトにするわよ。",
+      "choice_data_list": [
+        "Mai lại tập nữa sao em!?",
+        "Mai lại tập nữa sao bạn!?"
+      ],
+      "jpchoice_data_list": [
+        "明日もやるのか！？",
+        "明日もやるの！？"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Đương nhiên rồi!! Em là Mã Nương đệ nhất đẳng King Halo mà. Những từ ngữ như \"bất khả thi\" hay \"bỏ cuộc\" không bao giờ tồn tại trong từ điển của em đâu!",
+      "jpname": "キングヘイロー",
+      "jptext": "当然でしょ！！　私は一流のウマ娘キングヘイローなの。\n『不可能』とか『諦め』とかそんな言葉は私の辞書に存在しないわ！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Mau trở về trại huấn luyện thôi nào! Nếu đã là một Trainer đệ nhất đẳng thì đừng có để em phải chờ đợi đấy nhé.",
+      "jpname": "キングヘイロー",
+      "jptext": "早く合宿所へ戻りましょう！\n一流のトレーナーなら、私を待たせないはずでしょっ。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, dù bị King Halo xoay như chong chóng, hai chúng tôi vẫn thức thâu đêm suốt sáng để cùng nhau họp bàn rút kinh nghiệm.",
+      "jpname": "モノローグ",
+      "jptext": "そして、キングヘイローに振り回されながらも、\n夜通し2人で反省会をすることになったのだった。"
+    }
+  ]
+}
