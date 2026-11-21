@@ -1,0 +1,581 @@
+{
+  "title": "Đả đảo! Đối thủ là bộ móng guốc chẵn",
+  "jptitle": "打倒！ライバルは偶蹄目",
+  "text_block_list": [
+    {
+      "name": "Calstone Light O",
+      "text": "Đến đây là hết đường rồi, hãy chịu trói đi!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ここまでです、観念しなさい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tên cướp giật",
+      "text": "L-Làm sao có thể chứ!? Đuổi kịp cả xe máy á!? Đây đâu phải xe cúp, mà là xe phân khối 250cc đàng hoàng đấy……",
+      "jpname": "ひったくり",
+      "jptext": "バカな！？　バイクに追いついただと！？\n原付じゃなく、ちゃんとした250ccだぞ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy hiên ngang chặn đứng đầu tên cướp giật. Cuộc tỉ thí tốc độ tối đa với xe máy đã kết thúc với chiến thắng thuộc về Calstone Light O.",
+      "jpname": "モノローグ",
+      "jptext": "毅然とひったくり犯の前に立ちはだかる。\nバイクとの最高速勝負は、カルストンライトオの勝利に終わった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Cướp giật là hành vi phạm tội! Nếu lấy túi của người ta thì người ta sẽ bị mất túi. Người bị mất túi sẽ gặp rắc rối. Hãy xin lỗi ngay!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ひったくりは犯罪です！　バッグを取れば、相手は取られる。\n取られた相手は困ります。謝りなさい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa phải hứng trọn bài giảng đạo thẳng như ruột ngựa nghĩ gì nói nấy…… tên cướp giật vừa bàng hoàng không thể tin nổi sự thật là mình đã bị đuổi kịp.",
+      "jpname": "モノローグ",
+      "jptext": "思いつくままのズバズバ説教を食らいつつ……ひったくり犯は\nただ追いつかれた事実を飲み込めず、呆然としていた。",
+      "choice_data_list": [
+        "Cảm ơn em. Em đỉnh thật đấy, Light O……",
+        "Cảm ơn em. Em cừ thật đấy, Light O……"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう。すごいな、ライトオ……",
+        "ありがとう。すごいね、ライトオ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "――Không có gì, chuyện nhỏ thôi mà. Thật mừng vì Trainer không sao.",
+      "jpname": "カルストンライトオ",
+      "jptext": "――いえ、大したことはありません。\n本当によかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bản thân tôi cũng kinh hồn bạt vía trước tốc độ ấy chẳng kém gì hắn. Dáng chạy rực rỡ đầy ấn tượng ấy―― đến giờ vẫn in sâu trong tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "その速度に度肝を抜かれたのは自分も同じ。\n鮮烈な走りが――今も目に焼きついていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Đêm hôm đó, tại nhà thi đấu.",
+      "jpname": "モノローグ",
+      "jptext": "――その夜、体育館にて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi khởi động thiết bị thực tế ảo \"VR Umalator\". Có một điều mà tôi nhất định phải kiểm chứng bằng cỗ máy mô phỏng chuyên nghiệp này.",
+      "jpname": "モノローグ",
+      "jptext": "仮想現実装置『VRウマレーター』を起動する。\nこの本格派シミュレーターでどうしても検証したいことがあった。",
+      "choice_data_list": [
+        "Tốc độ lúc đó rốt cuộc đạt tới mức nào rồi?",
+        "Tốc độ khi đó rốt cuộc đạt tới mức nào nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "どのぐらい出ていたんだ、あの時の速度は？",
+        "どのぐらい出ていたの、あの時の速度は？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tốc độ ấy dường như đã vượt qua cả giới hạn tối đa mà một Mã Nương có thể chạm tới. Tôi quyết định mô phỏng lại xem rốt cuộc nó nhanh đến mức nào.",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘の到達できる最高速を超えているように見えた。一体\nどれほどの速さだったのか、シミュレーションしてみることにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đầu tiên, tôi nhập vào các thông số ước tính đại khái dựa trên tốc độ đã tận mắt chứng kiến. Rồi sau đó, cho em ấy so tài cùng nhiều đối thủ khác nhau.",
+      "jpname": "モノローグ",
+      "jptext": "まずは目撃した速度を、だいたいの想定で入力。\nそして、さまざまな相手と競わせることにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ハァァァァアアアア！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính là nó. Tốc độ lúc bắt tên cướp giật chuẩn xác là như thế này. Đối thủ cho cuộc đua sẽ là――",
+      "jpname": "モノローグ",
+      "jptext": "これだ。ひったくり犯を捕まえた時の速さは、\nまさにこんな感じだった。競走させる相手は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "VS Voi!",
+      "jpname": "モノローグ",
+      "jptext": "VS Elephant!",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hừ, voi sao? Độ dài của vòi thì tôi chịu thua, nhưng đọ chạy thì đừng hòng! Haaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "フッ、象だと？　鼻の長さでは勝てないが、走りなら！\nハァァァァッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O CHIẾN THẮNG!",
+      "jpname": "モノローグ",
+      "jptext": "Calstone Light O \nWIN!",
+      "choice_data_list": [
+        "Quả nhiên voi không ăn thua rồi……",
+        "Quả nhiên voi thì không đọ lại được rồi……"
+      ],
+      "jpchoice_data_list": [
+        "やはり象ではダメか……",
+        "やっぱり象じゃダメか……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tầm cỡ động vật cỡ này thì Mã Nương bình thường cũng thắng được. Đối thủ tiếp theo sẽ là――",
+      "jpname": "モノローグ",
+      "jptext": "この辺の動物なら普通のウマ娘でも勝てる。\n次なるライバルは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "VS Hươu!",
+      "jpname": "モノローグ",
+      "jptext": "VS Deer!",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lần này đối thủ là loài hươu. Với tốc độ của loài hươu thì có thể thắng được một số Mã Nương đấy, nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "今度はシカが相手だ。\nシカの速度なら一部のウマ娘には勝てそうだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hãy ngoan ngoãn mà gặm bánh gạo cho hươu đi! Haaaaaaa!",
+      "jpname": "カルストンライトオ",
+      "jptext": "おとなしくシカせんべいでも食べていろ！\nハァアアアアアア！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O CHIẾN THẮNG!",
+      "jpname": "モノローグ",
+      "jptext": "Calstone Light O \nWIN!",
+      "choice_data_list": [
+        "Không thể tin nổi! Đến cả hươu mà cũng……!",
+        "Trời ạ! Đến cả loài hươu mà cũng……!"
+      ],
+      "jpchoice_data_list": [
+        "なんてことだ！シカまでも……！",
+        "なんてこと！シカまでも……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị em ấy bỏ xa một cách dễ như bỡn. Quả nhiên đẳng cấp khác hẳn so với các Mã Nương bình thường. Đã thế này thì――",
+      "jpname": "モノローグ",
+      "jptext": "呆気なく千切られてしまった。やはり普通のウマ娘とは格が違う。\nこうなったら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "VS Linh dương sừng nhánh!",
+      "jpname": "モノローグ",
+      "jptext": "VS Pronghorn!",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Linh dương sừng nhánh Pronghorn. Tôi quyết định bấm bụng đưa đối thủ siêu cấp mang danh nhanh thứ 2 trong giới động vật này vào thử nghiệm.",
+      "jpname": "モノローグ",
+      "jptext": "プロングホーン。別名、枝角羚羊。\n動物界第2位の速さを誇る超強敵を、思い切って投入してみた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "C-Cái gì!? Tốc độ này là sao……!? Ta tìm thấy ngươi rồi, kỳ phùng địch thủ của ta! Haaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "な、なに！？　この速さは……！？\n見つけたぞ、我が好敵手！　ハァアアアアアア！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù cuộc tranh đua quyết liệt kéo dài được một hồi……",
+      "jpname": "モノローグ",
+      "jptext": "しばらく競り合いが続いたものの……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Khuất……! Khự……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "クゥゥゥッ……！　クゥッ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Linh dương sừng nhánh CHIẾN THẮNG!",
+      "jpname": "モノローグ",
+      "jptext": "Pronghorn \nWIN!",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Linh dương sừng nhánh đã chiến thắng. Nhưng suýt soát đến nghẹt thở! Tốc độ tối đa của Calstone Light O tương đương với vị trí thứ 3 trong toàn bộ sinh vật trên cạn!",
+      "jpname": "モノローグ",
+      "jptext": "プロングホーンが勝った。でも惜しかった！\nカルストンライトオの最高速度は、陸上生物でも第3位に相当する！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và khi tôi nhìn vào chỉ số tốc độ ước tính――",
+      "jpname": "モノローグ",
+      "jptext": "そして速度推定値を見ると――",
+      "choice_data_list": [
+        "Tốc độ ước tính…… 75 km/h!?"
+      ],
+      "jpchoice_data_list": [
+        "推定時速……75km！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một con số đáng sợ đã hiện ra trên màn hình…… Không có bất kỳ Mã Nương nào trước đây hay sau này có thể đạt được tốc độ khủng khiếp đến nhường này.",
+      "jpname": "モノローグ",
+      "jptext": "恐るべき数値を叩き出していた……。\nこんな速度を出せるウマ娘は後にも先にも存在しない。",
+      "choice_data_list": [
+        "Mình muốn thấy……! Nhất định phải thấy dáng chạy này trên đường đua chính thức!"
+      ],
+      "jpchoice_data_list": [
+        "見たい……！レースでぜひ、この走りを！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sự hưng phấn trào dâng không thể ngừng lại. Trái tim rạo rực của một Trainer trong tôi giờ đây đã không còn cách nào kiềm chế nổi nữa.",
+      "jpname": "モノローグ",
+      "jptext": "止まらない興奮。駆け出したトレーナーとしての気持ちは、\nもはや抑えられなくなっていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……Ơ kìa? Trainer hôm nọ. Trainer đến xem cuộc đua tuyển chọn…… ạ?",
+      "jpname": "ビリーヴ",
+      "jptext": "……あれ？　この間のトレーナーさん。\n選抜レースの見学……ですか？",
+      "choice_data_list": [
+        "Ừ, tôi rất muốn tận mắt chứng kiến dáng chạy của Light O",
+        "Đúng vậy, tôi rất muốn tận mắt chứng kiến dáng chạy của Light O"
+      ],
+      "jpchoice_data_list": [
+        "ああ、どうしてもライトオの走りが見たくて",
+        "うん、どうしてもライトオの走りが見たくて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Vậy sao ạ…… Hôm nay có lẽ sẽ được chứng kiến chị ấy dốc toàn lực đấy ạ. Bởi vì đối thủ là Mã Nương ấy mà.",
+      "jpname": "ビリーヴ",
+      "jptext": "そうですか……。今日は全力が見られそうです。\n相手は、あのウマ娘ですから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Vậy chúng ta phân cao thấp bằng một trận đấu nghiêm túc nhé. Light O, em đã chuẩn bị sẵn giác ngộ để bước lên chiến trường chưa?",
+      "jpname": "デュランダル",
+      "jptext": "では真剣勝負といきましょうか。\nライトオさん、戦場に立つ覚悟はあるかしら？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Nếu chạy mà thiếu đi lòng kiêu hãnh―― ta sẽ chỉ việc vung kiếm trảm đoạn mà thôi. Hãy làm chút bụi mờ cho \"Thánh Kiếm\" của ta đi.",
+      "jpname": "デュランダル",
+      "jptext": "矜持なき走りをするなら――斬って捨てるのみ。\n『聖剣』の曇りとなりなさい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Durandal…… Không ngờ lại đụng độ chị trong trận chiến quan trọng này.",
+      "jpname": "カルストンライトオ",
+      "jptext": "デュランダル……。\nこの大事な一戦でぶつかるとは。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Durandal. Một Mã Nương tài năng cự ly ngắn, luôn mang phong thái của một hiệp sĩ thời trung cổ.",
+      "jpname": "モノローグ",
+      "jptext": "――デュランダル。中世の騎士のように振る舞う、\n短距離の英才ウマ娘だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đặc biệt cú bứt phá ở giai đoạn cuối của cô ấy sắc bén tựa như Thánh Kiếm của anh hùng Roland vậy. Một đối thủ đáng gờm đến mức hiếm ai sánh kịp, nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "とくにその差し脚は鋭利で、英雄ローランの聖剣の如し。\n誰も敵わないレベルの強敵だが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ハァアアアアアア！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "!? Cú xuất phát thần tốc này là sao……!!",
+      "jpname": "デュランダル",
+      "jptext": "！？　このスタートダッシュは……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Oooooooooo!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ォォォォオオオオオオオッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ cú bứt tốc đột ngột―― vút thẳng lên tốc độ tối đa. Dáng chạy ấy…… đích thực là một kỳ tích.",
+      "jpname": "モノローグ",
+      "jptext": "急加速からの――最高速。\nその走りは……まさに奇跡だった。",
+      "choice_data_list": [
+        "Không ngờ lại có Mã Nương sở hữu dáng chạy như thế này tồn tại……"
+      ],
+      "jpchoice_data_list": [
+        "こんな走りのできるウマ娘がいるなんて……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hình ảnh ngày hôm ấy lại tái hiện. Khoảnh khắc vượt qua cả chiếc xe máy, một vệt sáng chớp lóe tái hiện trước mắt tôi. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "あの日の再来だった。バイクすらも追い抜いた、\n一条の閃光の再現。だが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hự, khúc cua sao…… Đã vậy còn là rẽ trái, hướng mà mình yếu nhất…… Cứ giữ tốc độ này thì……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "クッ、コーナーか……。しかも苦手な左回り……。\nこのままの速度では……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Sơ hở rồi! Kiếm thức thứ tư, Lôi Kích của Dionysus! Yaaaaaaaaaaaa!!",
+      "jpname": "デュランダル",
+      "jptext": "隙あり！　四の剣、ディオニュシウスの雷戟！\nやぁああああああああああああッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Khự…… Phải hơn nữa. Mình còn có thể nhanh hơn nữa! Nhanh hơn nữaaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "クゥゥッ……。もっとだ。もっと行ける！\nもっとぉォォォオオオ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O bám đuổi quyết liệt đến tận giới hạn. Thế nhưng, trận đấu đã ngã ngũ tại đó.",
+      "jpname": "モノローグ",
+      "jptext": "限界まで食らいつくカルストンライトオ。\nだが、勝負はそこまでだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Durandal",
+      "text": "Trận huyết chiến tóe lửa này―― ta xin ghi nhận lòng biết ơn sâu sắc. Tuy nhiên, không có thứ gì mà \"Thánh Kiếm\" của ta không thể chém đứt.",
+      "jpname": "デュランダル",
+      "jptext": "火花散るような激戦に――深謝を。\nしかし我が『聖剣』に斬れぬものなし。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hự, thảm hại quá…… Thế này thì……",
+      "jpname": "カルストンライトオ",
+      "jptext": "クッ、情けない……。\nこんな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù thất bại nhưng không phải là không có cơ hội chiến thắng. Nếu chỉ đơn thương độc mã thì đây có lẽ là giới hạn, nhưng mà……",
+      "jpname": "モノローグ",
+      "jptext": "敗れたものの、勝てる可能性がないわけではない。\n独力では、ここまでが限界かもしれないが……。",
+      "choice_data_list": [
+        "Chỉ cần có Trainer đồng hành chỉ dẫn……!"
+      ],
+      "jpchoice_data_list": [
+        "トレーナーさえつけば……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả chiến thuật đường đua lẫn kỹ năng bo cua đều còn rất nhiều tiềm năng để mài giũa. Nếu em ấy cho phép tôi đưa ra lời khuyên……",
+      "jpname": "モノローグ",
+      "jptext": "レース戦術もコーナリングも、まだ磨く余地は大いにある。\nもし自分に助言させてもらえるなら……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Aaa, tức quá đi mất! Cay đắng quá đi mất! Không ngờ lại kết thúc bằng kết quả thế này.",
+      "jpname": "カルストンライトオ",
+      "jptext": "ああ、悔しい！　悔しすぎる！\nこんな結果に終わるとは。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Đáng lẽ mình phải bứt tốc tối đa nhanh hơn nữa chứ!! Vậy mà tại sao mình lại……!?",
+      "jpname": "カルストンライトオ",
+      "jptext": "もっと最高速を出せたはず！！\nなのに私は……なぜ……！？",
+      "choice_data_list": [
+        "Light O! Tùy vào cách rèn luyện mà em hoàn toàn có thể làm tốt hơn nữa!",
+        "Light O! Tùy vào cách rèn luyện mà em hoàn toàn có thể làm tốt hơn nữa đấy!"
+      ],
+      "jpchoice_data_list": [
+        "ライトオ！やり方次第ではもっとやれる！",
+        "ライトオ！やり方次第ではもっとやれるよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "――? Trainer…… là vị Trainer hôm nọ……",
+      "jpname": "カルストンライトオ",
+      "jptext": "――？\n貴方は……この間のトレーナー……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng là Calstone Light O có hơi lập dị thật. Nhưng tâm huyết mà em ấy dồn vào đường đua là hoàn toàn chân thực.",
+      "jpname": "モノローグ",
+      "jptext": "確かにカルストンライトオは変わり者かもしれない。\nだがレースに懸ける想いは本物だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu em ấy khao khát muốn đánh bại Durandal đến nhường ấy, tôi rất muốn đem hết sức mình ra giúp đỡ.",
+      "jpname": "モノローグ",
+      "jptext": "どうしてもデュランダルに勝ちたいと願うなら、\n是が非でも力を貸してあげたかった。",
+      "choice_data_list": [
+        "Lần tới nhất định ta sẽ thắng Durandal!"
+      ],
+      "jpchoice_data_list": [
+        "次こそデュランダルに勝とう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hả, thắng Durandal……?",
+      "jpname": "カルストンライトオ",
+      "jptext": "え、デュランダルに勝つ……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer đang nói cái gì vậy chứ?",
+      "jpname": "カルストンライトオ",
+      "jptext": "なにを言っているのです、貴方は？",
+      "choice_data_list": [
+        "Ơ, chẳng phải em vừa tức tối vì không thắng được sao?",
+        "Ơ, chẳng phải em vừa tức tối vì không thắng được đấy ư?"
+      ],
+      "jpchoice_data_list": [
+        "え、だって勝てなくて悔しがってたよな？",
+        "え、だって勝てなくて悔しがってたよね？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thắng thua tôi đâu có bận tâm. Điều khiến tôi tiếc nuối hơn là……",
+      "jpname": "カルストンライトオ",
+      "jptext": "勝敗は気にしていません。\nそれより心残りは……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Là tôi chưa thể chạm tới tốc độ tối đa! Đáng lẽ tôi còn có thể nhanh hơn! Bay bổng hơn nữa! Nhanh đến mức lơ lửng giữa không trung luôn ấy chứ!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "最高速を出せなかったこと！\nもっと出せた！　もっと飛ばせた！　宙に浮くほどに！！",
+      "choice_data_list": [
+        "Cái đó á!? Không phải vì thua cuộc đua à!?"
+      ],
+      "jpchoice_data_list": [
+        "そっち！？レースに負けたことじゃなく！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hóa ra điều khiến em ấy ấm ức không phải là thất bại mà là tốc độ chưa đủ…… Chấp niệm của Calstone Light O quả thực khác xa hoàn toàn so với các Mã Nương bình thường.",
+      "jpname": "モノローグ",
+      "jptext": "悔しかったのは敗北ではなく速度不足……。カルストンライトオの\nこだわりは、普通のウマ娘とまるで違うようだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "title": "Kinh tốc! Mã Nương tựa như ánh sáng",
+  "jptitle": "驚速！そのウマ娘は光の如し",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "(Reng reng reng reng!)",
+      "jpname": "モノローグ",
+      "jptext": "（ジリリリリリッ！）",
+      "choice_data_list": [
+        "……Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "……ハッ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Mình ngủ quên mất rồi! Người mang danh Trainer như mình mà lại thế này.",
+      "jpname": "モノローグ",
+      "jptext": "――寝坊した！\nトレーナーともあろうものが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gần như không thể kịp giờ quy định nữa. Dù vậy, khi tôi vội vã chạy đến trước cổng trường...",
+      "jpname": "モノローグ",
+      "jptext": "定時には、もうほぼ間に合わない。\nそれでも急いで校門前まで走ってくると。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer…… là Trainer đúng không? Trainer đi trễ sao?",
+      "jpname": "カルストンライトオ",
+      "jptext": "貴方……トレーナーですよね。\n遅刻ですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Đang ở cương vị chỉ dạy cho các Mã Nương mà lại như vậy. Không tốt chút nào đâu nhé.",
+      "jpname": "カルストンライトオ",
+      "jptext": "ウマ娘を指導する立場なのに。\nいけませんね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bất ngờ bị một Mã Nương lạ mặt nhắc nhở ngay tại chỗ. Nhưng mà……",
+      "jpname": "モノローグ",
+      "jptext": "見知らぬウマ娘に、いきなり注意されてしまった。\nだが……。",
+      "choice_data_list": [
+        "Cơ mà chính em sao giờ này mới tới?",
+        "Cơ mà chính cô sao giờ này mới tới?"
+      ],
+      "jpchoice_data_list": [
+        "そういう君こそ、なぜこの時間に？",
+        "そういう貴方こそ、なぜこの時間に？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Xin lỗi, thật ra tôi cũng đi trễ. Nói chính xác thì, vẫn còn suýt soát một chút nữa mới trễ.",
+      "jpname": "カルストンライトオ",
+      "jptext": "すみません、実は私も遅刻で。\n正確には、まだ寸前ですが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi đến trường muộn là có lý do cả. Chuyện xảy ra là thế này……",
+      "jpname": "カルストンライトオ",
+      "jptext": "登校が遅れたのには理由があります。\nなにが起きたかと言いますと……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thật không thể tin nổi……! Ai mà ngờ lúc đang thay đồ, khóa kéo váy lại bị kẹt cứng không kéo lên được chứ……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "なんということ……！　まさか着替え中に、\nスカートのチャックが閉まらなくなるなんて……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Đã đến nước này thì chỉ còn cách dùng băng dính dán lại! Miễn không bị ai phát hiện thì chẳng có gì phải xấu hổ cả!",
+      "jpname": "カルストンライトオ",
+      "jptext": "こうなったら、テープで留めるしか！\n気づかれなければ恥ずかしくなんてない！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Vì vậy hiện tại, tôi đang dán váy lại bằng băng dính.",
+      "jpname": "カルストンライトオ",
+      "jptext": "ですので今、スカートをテープで留めています。",
+      "choice_data_list": [
+        "Không cần phải nói toẹt ra đâu……!"
+      ],
+      "jpchoice_data_list": [
+        "言わなくていいから……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ ngỡ là một Mã Nương điềm đạm…… nhưng hình như có gì đó sai sai. Rốt cuộc Mã Nương này là người thế nào vậy nhỉ.",
+      "jpname": "モノローグ",
+      "jptext": "クールなウマ娘……なのかと思ったら少し違った。\nなんなのだろう、このウマ娘は。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cảm giác em ấy nghĩ gì là nói thẳng toẹt ra nấy…… Từ những chuyện khó nói cho đến những điều tuyệt đối không nên nói ra.",
+      "jpname": "モノローグ",
+      "jptext": "思ったことをズバズバ口にしているような……。\n言いにくいことから、言ってはダメなことまで。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hả!? Chuyện đó để sau đi, không nhanh lên là không kịp đâu. Giờ vẫn còn một cách để không bị tính là đi trễ.",
+      "jpname": "カルストンライトオ",
+      "jptext": "は！？　そんなことより急がないと。\n今ならまだ遅刻せずに済む方法があります。",
+      "choice_data_list": [
+        "Ơ, làm sao mà kịp được chứ? Dù có là Mã Nương đi nữa",
+        "Ơ, làm sao mà kịp được cơ chứ? Dù có là Mã Nương đi nữa"
+      ],
+      "jpchoice_data_list": [
+        "え、無理だよな？いくらウマ娘でも",
+        "え、無理だよね？いくらウマ娘でも"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tốc độ chạy của Mã Nương quả thực nhanh hơn người thường rất nhiều. Nhưng xét theo thời gian còn lại trước giờ vào lớp thì tuyệt đối không thể……",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘の走る速度は、常人よりはるかに速い。\nしかし始業までの残り時間を考えれば、到底……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Bình thường thì sẽ không kịp. Nhưng nếu từ đây đến lớp học là một \"đường thẳng\".",
+      "jpname": "カルストンライトオ",
+      "jptext": "普通なら間に合いません。\nですが、ここから教室までが“一直線”なら。",
+      "choice_data_list": [
+        "Đường thẳng á!?"
+      ],
+      "jpchoice_data_list": [
+        "一直線！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Vâng. Hãy cứ xem như không hề có khúc cua nào tồn tại. Nếu chạy theo khoảng cách ngắn nhất trên một đường gần như thẳng tắp――",
+      "jpname": "カルストンライトオ",
+      "jptext": "はい。カーブはないものと考えます。\nほぼ直線で、最短距離を走れば――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Chắc chắn sẽ kịp! Vậy tôi đi đây! Haaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "必ず間に合うはず！　では行きます！\nハァアアアアアア！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chưa kịp cản lại với câu \"Làm gì có chuyện vô lý thế!?\", Mã Nương ấy đã lao vụt đi. Và rồi――",
+      "jpname": "モノローグ",
+      "jptext": "そんなバカな！？　と止める前に、そのウマ娘は駆けだした。\nそして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Guaaaaa! Đau quá đau quá!",
+      "jpname": "カルストンライトオ",
+      "jptext": "グアアアアアッ！　痛い痛い！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng như dự đoán, em ấy đâm sầm vào tượng Tam Nữ Thần và ngã đau điếng, lăn lông lốc giữa sân trong.",
+      "jpname": "モノローグ",
+      "jptext": "案の定、三女神像にぶつかり、体を痛打。\n中庭をゴロゴロと転がっていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Về sau, tôi nghe được đủ mọi lời đồn về cô nàng Mã Nương thẳng như ruột ngựa mang tên \"Calstone Light O\" ấy.",
+      "jpname": "モノローグ",
+      "jptext": "その、あまりに真っ直ぐなウマ娘“カルストンライトオ”の評判は\nいろいろと耳に入ってきた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Này này Light O, mình có chuyện này muốn hỏi ý kiến cậu chút…… Thật ra mình vừa cãi nhau to với bạn.",
+      "jpname": "同級生のウマ娘",
+      "jptext": "ねえねえライトオ、相談があるんだけど……。\n実は、友だちと大ゲンカしちゃってさ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Bên mình cũng thấy có lỗi rồi. Nhưng bảo mở lời xin lỗi thì khó quá, nên muốn từ từ làm lành ấy mà.",
+      "jpname": "同級生のウマ娘",
+      "jptext": "こっちも反省はしてて。でも悪かったって言いにくいし、\n少しずつ仲直りしたいってか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi hiểu rồi. Cứ khéo léo bóng gió truyền đạt lại là được chứ gì.",
+      "jpname": "カルストンライトオ",
+      "jptext": "わかった。それとなく伝えればいいんだな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi có chuyện cần nói. Cậu ấy bảo muốn làm lành với cậu. Nhưng thấy khó mở lời xin lỗi rằng mình có lỗi.",
+      "jpname": "カルストンライトオ",
+      "jptext": "話がある。あの子が仲直りしたいって。\nでも悪かったとは言いにくいって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "K-Không được nói hết huỵch toẹt ra như thế chứ——!",
+      "jpname": "同級生のウマ娘",
+      "jptext": "ぜ、全部言っちゃダメ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hừm, hôm nay là bóng rổ à. Chạy về phía trước rổ đi, Believe!",
+      "jpname": "カルストンライトオ",
+      "jptext": "フッ、今日はバスケか。\nゴール前へ走って、ビリーヴ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……Vâng! Em chuyền bóng…… Chị nhận này, chị Light O!",
+      "jpname": "ビリーヴ",
+      "jptext": "……はい！\nパス……どうぞ、ライトオさん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Đó cũng là một cách, nhưng giả vờ chuyền bóng rồi nhân lúc này――",
+      "jpname": "カルストンライトオ",
+      "jptext": "それも手だが、\nパスと見せかけて、ここは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Đột phá dẫn bóng thẳng tiến! Taaaaaaa!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ドリブル突破！\nたぁぁぁああああああああ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "A…… lao thẳng tắp vào hàng phòng ngự như thế thì! Aizzz……",
+      "jpname": "ビリーヴ",
+      "jptext": "あ……一直線にディフェンスに突っ込んだら！\nああ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O không chút do dự lao thẳng vào chính giữa đội hình đối phương, và lập tức bị cướp mất bóng.",
+      "jpname": "モノローグ",
+      "jptext": "カルストンライトオは迷うことなく敵陣の中央に突っ込み、\nそしてたちまちボールを奪われた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Bị dẫn cách biệt gấp đôi điểm số rồi…… Thua thảm hại quá……",
+      "jpname": "ビリーヴ",
+      "jptext": "ダブルスコアか……。\nひどい負け方……。",
+      "choice_data_list": [
+        "Chào em, cho tôi hỏi chút được không?"
+      ],
+      "jpchoice_data_list": [
+        "こんにちは、ちょっといい？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Ơ…… Trainer của ai đó sao ạ?",
+      "jpname": "ビリーヴ",
+      "jptext": "え……どこかのトレーナーさん？",
+      "choice_data_list": [
+        "Ừ. Còn em là?",
+        "Đúng vậy. Còn cô là?"
+      ],
+      "jpchoice_data_list": [
+        "ああ。君は？",
+        "うん。貴方は？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "……Em là Believe ạ. Dạ, có chuyện gì sao ạ?",
+      "jpname": "ビリーヴ",
+      "jptext": "……ビリーヴです。\nあの、なにか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hóa ra Believe là một Mã Nương cự ly ngắn thuộc tuýp cẩn trọng, từ tốn. Khi tôi thử hỏi thêm về Calstone Light O――",
+      "jpname": "モノローグ",
+      "jptext": "ビリーヴは、じっくり慎重派の短距離ウマ娘らしい。\nカルストンライトオについて、改めて聞いてみると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Vâng ạ…… Chị Light O lúc nào cũng thẳng băng như thế, chẳng chịu linh hoạt chút nào cả.",
+      "jpname": "ビリーヴ",
+      "jptext": "はい……。\nライトオさんはいつも真っ直ぐで、融通が利かなくて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Believe",
+      "text": "Dù là bóng rổ hay bóng đá thì chị ấy cũng chỉ dẫn bóng theo đường thẳng. Thế nên toàn bị bắt bài rồi thua ngược……",
+      "jpname": "ビリーヴ",
+      "jptext": "バスケでもサッカーでも直線ドリブル。\nで、動きを読まれて、返り討ちに……。",
+      "choice_data_list": [
+        "Ra là vậy……",
+        "Vậy à……"
+      ],
+      "jpchoice_data_list": [
+        "そうか……",
+        "そう……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O tuy vẻ ngoài trông rất sắc sảo, đĩnh đạc, nhưng hóa ra lại là một Mã Nương thú vị đến không ngờ.",
+      "jpname": "モノローグ",
+      "jptext": "カルストンライトオは、見た目こそシュッとしているが、\nなかなかの面白ウマ娘のようだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, trên đường về nhà vào một ngày nọ.",
+      "jpname": "モノローグ",
+      "jptext": "――そして、ある日の帰り道。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tên cướp giật",
+      "text": "Oaaa!! Lụm được rồi nhá!!",
+      "jpname": "ひったくり",
+      "jptext": "おりゃあ！！　いただきっ！！",
+      "choice_data_list": [
+        "――!? Cướp……!!"
+      ],
+      "jpchoice_data_list": [
+        "――！？泥棒……！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không ngờ chiếc xe máy phóng tới từ phía sau lại giật phăng túi xách của tôi! Chẳng thể tin nổi mình lại bị cướp giật giữa ban ngày ban mặt thế này.",
+      "jpname": "モノローグ",
+      "jptext": "あろうことか、後ろから迫ってきたバイクにカバンを取られた！\nまさかひったくりに遭うとは。",
+      "choice_data_list": [
+        "Đ-Đứng lại!"
+      ],
+      "jpchoice_data_list": [
+        "ま、待て！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vã định đuổi theo, nhưng con đường này hoàn toàn là một đường thẳng tắp. Ở đây thì làm sao mà đuổi kịp xe máy được chứ.",
+      "jpname": "モノローグ",
+      "jptext": "急いで追おうとしたが、道は完全な直線。\nここでバイクに追いつけるわけがない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngay khoảnh khắc tôi nghĩ mọi chuyện đã vô phương cứu vãn――",
+      "jpname": "モノローグ",
+      "jptext": "どうにもならない――と思ったその時。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer có sao không!? Chỗ này cứ để tôi――!",
+      "jpname": "カルストンライトオ",
+      "jptext": "無事ですか！？\nここは私が――！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi nhất định sẽ bắt tên cướp giật đó và bắt hắn phải đền tội. Chắc chắn!",
+      "jpname": "カルストンライトオ",
+      "jptext": "あのひったくり犯は捕まえて、償わせます。\n必ず！",
+      "choice_data_list": [
+        "K-Không thể nào đâu, Light O……!",
+        "K-Không kịp đâu, Light O……!"
+      ],
+      "jpchoice_data_list": [
+        "む、無理だ、ライトオ……！",
+        "む、無理だよ、ライトオ……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mã Nương quả thực nhanh vượt trội so với con người. Nhưng đối thủ lần này là xe máy thì lại là chuyện khác hoàn toàn. Bị bỏ xa đến mức ấy thì làm sao mà đuổi kịp được……",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘は、人と比べれば圧倒的に速い。しかし相手がバイクと\nなると話は別だ。あそこまで飛ばされると追いつけるはずが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ハァァァァアアアア！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gia tốc mượt mà đến kinh ngạc, quả không hổ danh là Mã Nương. Nhưng vấn đề thực sự bắt đầu từ bây giờ.",
+      "jpname": "モノローグ",
+      "jptext": "加速は滑らか。さすがはウマ娘。\nだが問題はここからだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Làm sao có thể đạt được tốc độ tối đa vượt qua cả xe máy chứ. Nhất định sẽ chạm trần ở đâu đó, rồi bị bỏ rơi lại phía sau mà thôi……",
+      "jpname": "モノローグ",
+      "jptext": "バイクを超えるトップスピードなど出せるわけがない。\nどこかで頭打ちになり、そして引き離され……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Bắt đầu từ đây―― nàyyyyy! Ooooooo――!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ここから――だぁぁぁッ！\nォォォォオオオッ――！！",
+      "choice_data_list": [
+        "――!?"
+      ],
+      "jpchoice_data_list": [
+        "――！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi đã chứng kiến một điều không thể tin vào mắt mình. Mã Nương ấy――",
+      "jpname": "モノローグ",
+      "jptext": "信じられないものを見た。\nそのウマ娘は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Calstone Light O―― đã hóa thành một mũi tên xé gió, nhanh hơn cả gió trời. Vượt qua cả tốc độ tối đa mà một Mã Nương có thể đạt được, và rồi――",
+      "jpname": "モノローグ",
+      "jptext": "カルストンライトオは――風より速い矢となった。\nウマ娘の出しうる最高速度を超え、そして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tên cướp giật",
+      "text": "Oaaa, không thể nàooooo!?",
+      "jpname": "ひったくり",
+      "jptext": "どおおおおっ、バカなぁぁぁぁ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi―― đã nhìn thấy ánh sáng. Một dải sáng rực rỡ.",
+      "jpname": "モノローグ",
+      "jptext": "光を――見た。\n一条の光を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mã Nương ấy―― đã bứt phá đạt tốc độ tối đa vượt qua cả xe máy, hiên ngang chặn đứng đầu tên cướp giật.",
+      "jpname": "モノローグ",
+      "jptext": "そのウマ娘は――バイクを超える最高速度を叩き出し、\nひったくりの前に立ちはだかったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

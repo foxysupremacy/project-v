@@ -1,0 +1,539 @@
+{
+  "title": "Kinh thán! Thế giới mở rộng nhanh hơn cả vũ trụ",
+  "jptitle": "驚嘆！広がる世界は宇宙より速く",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đợt tập huấn mùa hè đã bắt đầu. Còn về phần Calstone Light O thì――",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿が始まった。\nカルストンライトオはというと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Cát cát cát cáttttt!! Đừng hòng nghĩ chút cát này có thể giữ chân được ta!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "砂砂砂砂ァッ！！\nこの程度で、私の脚を取れると思うなよッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lực chân phi thường của cô gái luôn hướng tới tốc độ tối thượng dường như chẳng hề bận tâm đến lực cản do cát lún gây ra.",
+      "jpname": "モノローグ",
+      "jptext": "最速を目指す彼女の脚力はすさまじく、\n砂による負荷を物ともしていないようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thấy chưa hả!! Hôm nay cũng là một chiến thắng giòn giã nữa của ta――",
+      "jpname": "カルストンライトオ",
+      "jptext": "見たかッ！！\n今日も私の完勝だっ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Gwaaaaaaaa!? Con cua!! Chân tôi, bị cua kẹp rồi――!?",
+      "jpname": "カルストンライトオ",
+      "jptext": "グワァァァァァッ！？\nカニィ！！　脚を、カニがーー！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù xảy ra đủ thứ chuyện dở khóc dở cười, hôm nay em ấy vẫn miệt mài nỗ lực hướng tới tốc độ tối thượng. Đó là một câu chuyện xảy ra vào mùa hè năm ấy.",
+      "jpname": "モノローグ",
+      "jptext": "色々ありつつ、今日も彼女は最速を目指し、励んでいる。\nそんな夏のことであった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer, tôi có điều này muốn thử nghiệm.",
+      "jpname": "カルストンライトオ",
+      "jptext": "トレーナー、試したいことがあります。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi muốn chạy trên mặt nước. Kéo theo Trainer đang ngồi trên thứ này.",
+      "jpname": "カルストンライトオ",
+      "jptext": "水上を走ろうと思います。\nこれに乗ったトレーナーを引いて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, em ấy chỉ tay vào chiếc xuồng cao su bơm hơi thường thấy ở các hồ bơi.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って指さしたのは、プールなどでよく見かける\nビニールボートであった。",
+      "choice_data_list": [
+        "……Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Nhờ sở hữu tốc độ tối thượng, hai chúng ta đã bay lên bầu trời. Vậy thì mục tiêu tiếp theo chính là―― biển cả!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "最速をもってして、2人で空を飛んだ。ならば次は――海！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Chẳng lẽ Trainer lại không muốn ngắm nhìn sao? Phong cảnh của tốc độ tối thượng ấy.",
+      "jpname": "カルストンライトオ",
+      "jptext": "トレーナーは見たくないのですか？\n最速の景色を。",
+      "choice_data_list": [
+        "……Tôi muốn thấy!"
+      ],
+      "jpchoice_data_list": [
+        "……見たい！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hừm, tôi biết ngay là Trainer sẽ nói vậy mà.",
+      "jpname": "カルストンライトオ",
+      "jptext": "フッ、そう言うと思っていました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Để có thể chạy trên mặt nước thì phải vượt qua nhiều điều kiện ngặt nghèo. Tốc độ, sức mạnh, và cả trọng lực―― tất cả những thứ đó đều cần phải được siêu việt.",
+      "jpname": "モノローグ",
+      "jptext": "水上を走るのにはいくつかクリアするべき条件がある。\n速さ、強さ、そして重力――それらを超越する必要があるのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Khoảnh khắc một bên chân vừa chạm vào mặt nước thì lập tức nhấc lên, đồng thời vung chân còn lại ra phía trước, cứ thế lặp đi lặp lại――!",
+      "jpname": "カルストンライトオ",
+      "jptext": "片方の脚が水面についた瞬間に脚をあげて\nもう片方の脚を前に出すことを、繰り返す――！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi đã hiểu quy luật rồi! Vậy thì bắt đầu bài tập luyện trong tưởng tượng nào! Haaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "理解しました！　ではイメージトレーニング！\nはぁぁぁぁぁぁっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaa, ặc, !? Gực!! Hai chân bị trẹo vào nhau rồiiiii!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "はぁぁぁぁぁぁぁ、っ、！？　ぐはぁ！！\n脚が、もつれたぁぁぁっ！！",
+      "choice_data_list": [
+        "Em có sao không!?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Vượt qua, vượt qua, tôi nhất định sẽ vượt qua! Tôi sẽ siêu việt hóa tất cả mọi thứ cho xem!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "越えるっ、越えるっ、越えてみせるっ！\nすべてを！　超越してみせるっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Chị Light O tràn đầy khí thế ghê nha! Cuộc đua tới khéo lại lập kỷ lục tốc độ nhanh nhất cũng nên ấy chứ!?",
+      "jpname": "ウマ娘A",
+      "jptext": "ライトオさん、気合い入ってる～！\n次のレース、最速記録出ちゃうんじゃない！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Đâu có, hình như…… là để chạy trên mặt nước đấy.",
+      "jpname": "ウマ娘B",
+      "jptext": "いや、なんか……水上走るためらしいよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tiến ra biển cả nào!! Kieeeeeeeeeee!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "いざ海へ！！　きぇぇぇぇぇぇぇぇぇっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Một hai một hai một hai hai một ùng ục ục ục ục!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "いちにいちにいちにちにいちごぼぼぼぼぼっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Sủi bọt ục ục ục……)",
+      "jpname": "モノローグ",
+      "jptext": "（ぶくぶくぶく……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bất chấp những ánh mắt xôn xao bàn tán của các Mã Nương xung quanh, em ấy vẫn không dừng bước thử thách. Calstone Light O đã dần dần đạp lên được mặt nước một cách rõ rệt.",
+      "jpname": "モノローグ",
+      "jptext": "周囲のウマ娘たちがざわつこうと、挑戦は止めなかった。\nカルストンライトオは確実に水面を蹴り始めている。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và hơn hết thảy――",
+      "jpname": "モノローグ",
+      "jptext": "なにより――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hộc, hộc……! Trainer! Cho tôi thử lại một lần nữa!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ぜはっ、ぜはっ……！\nトレーナー！　もう1度！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy không bao giờ từ bỏ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、諦めなかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Ực, ực…… khà! Hộc, hộc…… cảm ơn Trainer. Tôi làm được rồi.",
+      "jpname": "カルストンライトオ",
+      "jptext": "んぐっ、んぐっ……ぷはっ！\nはぁ、はぁ……ありがとうございます。いけます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "――Trainer, xin mời ngồi lên.",
+      "jpname": "カルストンライトオ",
+      "jptext": "――トレーナー、乗ってください。",
+      "choice_data_list": [
+        "Ừ, tôi biết rồi……!",
+        "Được, tôi lên ngay……!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、わかった……！",
+        "うん、わかった……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mặt trời sắp sửa lặn dần về phía tây. Có lẽ đây là cơ hội cuối cùng của ngày hôm nay.",
+      "jpname": "モノローグ",
+      "jptext": "そろそろ日が沈もうとしている。\nおそらくは、これがラストチャンスだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hù…… hắt……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ふー……すー……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaa!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "はぁぁぁぁぁっ！！",
+      "choice_data_list": [
+        "Cố lên, Light O!"
+      ],
+      "jpchoice_data_list": [
+        "頑張れ、ライトオ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Haaaaaaaaaaaaaa!!!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "はぁぁぁぁぁぁぁぁぁぁっ！！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Bõm, bõm, bì bõm bì bõm)",
+      "jpname": "モノローグ",
+      "jptext": "（バシャッ、バシャ、バシャバシャバシャッ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đôi chân Calstone Light O dẫm đạp lên mặt nước với xung lực kinh hoàng không ngừng nghỉ―― và chiếc xuồng bơm hơi bắt đầu lướt băng băng trên mặt biển!",
+      "jpname": "モノローグ",
+      "jptext": "カルストンライトオの両脚はすさまじい勢いで、\n水面をたたき続け――ビニールボートが、海上を滑る！",
+      "choice_data_list": [
+        "Làm được rồi, Light O!",
+        "Làm được rồi nhé, Light O!"
+      ],
+      "jpchoice_data_list": [
+        "やったな、ライトオ！",
+        "やったね、ライトオ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "……Làm được rồi? Làm được rồi, làm được rồi……! Làm…… được rồiiiiiii!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "……やった？　やった、やった……！\nいやっ……たぁぁぁぁぁ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Cảm ơn Trainer rất nhiều! Và cũng chúc mừng Trainer nữa nhé!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ありがとうございます！\nトレーナーもおめでとうございます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Nhân tiện thì, Trainer!",
+      "jpname": "カルストンライトオ",
+      "jptext": "ところで、トレーナー！",
+      "choice_data_list": [
+        "Hửm?"
+      ],
+      "jpchoice_data_list": [
+        "うん？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tôi không biết cách dừng lại như thế nào cả!! Nuooooooo――!!",
+      "jpname": "カルストンライトオ",
+      "jptext": "止まり方がわかりません！！\nぬぉおおおおーーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Khi định thần lại, chúng tôi đã phóng một mạch tới tận một hòn đảo hoang không tên.",
+      "jpname": "モノローグ",
+      "jptext": "――気づけば、知らない無人島まで駆け抜けていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hộc, hộc, hộc……! Phù…… hàaa!",
+      "jpname": "カルストンライトオ",
+      "jptext": "はぁっ、はぁっ、はぁっ……！\nふふっ……はぁ～～！",
+      "choice_data_list": [
+        "Chúng ta vừa làm nên một chuyện không tưởng đấy……!",
+        "Chúng ta vừa làm nên một chuyện không tưởng nhỉ……!"
+      ],
+      "jpchoice_data_list": [
+        "すごいことしちゃったな……！",
+        "すごいことしちゃったね……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hừm…… vâng! Trainer thấy sao, cảnh tượng này đâu hề thua kém bầu trời mà chúng ta đã thấy hôm đó đúng không?",
+      "jpname": "カルストンライトオ",
+      "jptext": "フッ……はい！\nどうです、あの日見た空に勝るとも劣らなかったでしょう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Có rất nhiều chim muông. Dù tôi chẳng rõ là loài chim gì, nhưng có rất nhiều con bay là là sát mặt nước.",
+      "jpname": "カルストンライトオ",
+      "jptext": "鳥がいました。\nなんの鳥かわかりませんが、水面ぎりぎりに、たくさん。",
+      "choice_data_list": [
+        "Tôi còn thấy cả tàu thuyền nữa. Chắc họ kinh ngạc lắm đấy",
+        "Tôi còn thấy cả tàu thuyền nữa. Chắc họ kinh ngạc lắm nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "船も見えた。きっと驚いていただろうな",
+        "船も見えた。きっと驚いていただろうね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thế ạ, biết vậy lúc đó tôi vẫy tay chào họ rồi. Khéo lại làm một trận so tài tốc độ trên biển cũng nên.",
+      "jpname": "カルストンライトオ",
+      "jptext": "なんと、手を振ればよかったですね。\n海上競走もできたかもしれない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "……Thật ra đêm qua, tôi không tài nào chợp mắt được.",
+      "jpname": "カルストンライトオ",
+      "jptext": "……実は昨日、眠れませんでした。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Càng nghĩ rằng mình phải ngủ thì mắt lại càng mở thao láo. Bởi vì――",
+      "jpname": "カルストンライトオ",
+      "jptext": "寝なければと思うほど、目が冴えました。\nだって――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "C-Cái quái gì thế này? Chạy trên mặt nước sao!? Thách thức tốc độ tối thượng ngay trên biển cả……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "な、なんだコレは？　水上走り！？\n海上での、最速の挑戦……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "……Chỉ có nước lao vào làm thử thôi. Rốt cuộc chuyện gì sẽ xảy ra tiếp theo đây……!",
+      "jpname": "カルストンライトオ",
+      "jptext": "……やるしかないじゃないか。\n一体、なにが起きてしまうんだろう……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "……Thật khiến lòng người dâng trào cảm xúc. Trước đây tôi chưa từng mảy may nghĩ tới việc sẽ cùng ai đó đồng hành trong thế giới của tốc độ tối thượng.",
+      "jpname": "カルストンライトオ",
+      "jptext": "……感慨深いものです。\n考えたこともなかったのに。最速の世界で、共に過ごすなど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Trainer thì đi bộ hay chạy bộ đều chậm như rùa, lại còn hở tí là cạn kiệt năng lượng, tôi đã nghĩ Trainer thực sự chẳng hợp tí nào với tốc độ tối thượng.",
+      "jpname": "カルストンライトオ",
+      "jptext": "貴方は歩くのも走るのもめちゃくちゃ遅いし\nすぐ干上がるし、これはマジ最速に向いていない、と。",
+      "choice_data_list": [
+        "Em đã nghĩ về tôi như thế thật đấy à!?",
+        "Cậu đã nghĩ về tôi như thế thật đấy ư!?"
+      ],
+      "jpchoice_data_list": [
+        "そんなふうに思ってたのか！？",
+        "そんなふうに思ってたの！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Thế nhưng―― tôi đã thấu cảm được rồi. Cảm giác hưng phấn tột cùng đến mức mất ăn mất ngủ.",
+      "jpname": "カルストンライトオ",
+      "jptext": "ですが――知ってしまった。眠れないほどの、興奮を。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Tiếp theo chúng ta sẽ làm gì đây? Bầu trời và biển cả đều đã chinh phục xong rồi. Giờ chỉ còn lại mặt đất mà thôi.",
+      "jpname": "カルストンライトオ",
+      "jptext": "次はなにをしましょうか。\n空と海を制しました。あとは地上です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Vô địch giải đấu trượt xe các-tông thế giới…… Không, nghe thế này thì có vẻ \"nhẹ đô\" quá nhỉ.",
+      "jpname": "カルストンライトオ",
+      "jptext": "段ボールソリ滑り、世界大会優勝……\nいえ、これでは“弱い”ですね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Hay là chạy đua với báo săn cheetah? Dùng thân xác trần tục tham gia giải đua xe thể thao? Hay là…… nhắm tới kỷ lục chạy nhanh nhất băng qua 6 lục địa?",
+      "jpname": "カルストンライトオ",
+      "jptext": "チーターと走りますか？　モータースポーツに生身で出場？\nそれとも……6大陸横断最速記録、狙いますか？",
+      "choice_data_list": [
+        "B-Bắt đầu từ trò trượt bìa các-tông trước đi đã!"
+      ],
+      "jpchoice_data_list": [
+        "だ、段ボールからやっていこう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Sao Trainer lại chùn bước thế chứ. Đồ nhát cáy, sâu róm, bọ chân đều. Làm được hết mà. Tôi sẽ làm cho xem bằng hết!",
+      "jpname": "カルストンライトオ",
+      "jptext": "なにを及び腰に。弱虫、毛虫、グソクムシ。\n全部できますよ。やってやりますとも。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Calstone Light O",
+      "text": "Vì vậy, Trainer và tôi―― Hừm…… hãy cùng nhau sống trọn trong thế giới của \"tốc độ tối thượng\" nhé!",
+      "jpname": "カルストンライトオ",
+      "jptext": "だから貴方と私――\nフッ……共に、“最速”の世界で生きましょう！",
+      "choice_data_list": [
+        "……Ừ!",
+        "……Được chứ!"
+      ],
+      "jpchoice_data_list": [
+        "……ああ！",
+        "……うん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế giới của tốc độ tối thượng mà cả hai chúng tôi cùng bị cuốn hút. Người tiến bước nơi tuyến đầu sẽ không còn đơn độc một mình nữa――",
+      "jpname": "モノローグ",
+      "jptext": "共に惹かれた最速の世界。\n先頭を征くのは、ただ1人ではなく――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi sẽ cùng nhau tiến bước, cùng nhau sẻ chia cả thế giới này. Niềm hân hoan rực rỡ ấy khiến lồng ngực tôi rạo rực khôn nguôi.",
+      "jpname": "モノローグ",
+      "jptext": "共に進み、世界を分け合える。\nその喜びに、胸が躍るのであった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
