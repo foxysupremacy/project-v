@@ -1,0 +1,432 @@
+{
+  "title": "Soi rọi ánh sáng, trở thành ánh quang",
+  "jptitle": "光を照らす、光と成れ",
+  "text_block_list": [
+    {
+      "name": "Mejiro Bright",
+      "text": "—Hà... Quả là một khoảng thời gian tuyệt vời. Dáng vẻ đáng tự hào của mọi người... Em cũng muốn sớm được chào hỏi khán giả trong một sự kiện chính thức như thế quá ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "――はぁ～。素敵な時間でしたわね。誇りある皆さまのお姿……\nわたくしも早く、正式な場で皆さまにご挨拶したいですわ～。"
+    },
+    {
+      "name": "",
+      "text": "Sự kiện của gia tộc Mejiro đã khép lại trong sự phấn khích cuồng nhiệt của khán giả. Trên đường về, khi tôi và Mejiro Bright vẫn còn đang đắm chìm trong dư âm của buổi tiệc thì—",
+      "jpname": "モノローグ",
+      "jptext": "メジロ家のイベントは大盛り上がりで幕を閉じた。\nメジロブライトと2人、その余韻に浸っていた帰り道――"
+    },
+    {
+      "name": "Người tham gia sự kiện A",
+      "text": "—Sự kiện hôm nay đỉnh thật đấy, nhưng mà nói thật nhé... Bright với Dober thì sao nhỉ? Chẳng thấy nghe ngóng được tin tức gì về hai người đó cả.",
+      "jpname": "イベントの参加者A",
+      "jptext": "――今日のイベント、めっちゃよかったけどさ。ぶっちゃけ\nブライトとドーベルってどうなん？　話、全然聞かないよな。"
+    },
+    {
+      "name": "Người tham gia sự kiện B",
+      "text": "Nghe đồn bước chạy cũng chẳng có gì nổi bật. Lúc nãy thấy hai cô bé xuất hiện như thể ngôi sao mới nổi của nhà Mejiro, nhưng mà thấy cũng hơi lo ngại ghê...",
+      "jpname": "イベントの参加者B",
+      "jptext": "噂だけど、走りはイマイチらしい。メジロ家の新星ですよって\n感じで2人出てたけど、ちょっと心配だよな～。"
+    },
+    {
+      "name": "",
+      "text": "Qua khoảng thời gian gắn bó vừa rồi, tôi biết em ấy sẽ không dễ gì dao động trước dăm ba lời chỉ trích. Thế nhưng hôm nay dường như lại khác—",
+      "jpname": "モノローグ",
+      "jptext": "ここまでの付き合いで、彼女が多少の批判では動じないことは\nわかっていた。けれど、その日は違っていたようで――"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ở cuộc đua tuyển chọn, nhất định em phải mang lại kết quả thật tốt. Phải thể hiện một màn trình diễn xứng đáng với kỳ vọng của mọi người...",
+      "jpname": "メジロブライト",
+      "jptext": "……選抜レースでは、必ず結果を残さなければなりませんわね。\n皆さまに、ご期待いただける走りをしなければ……。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Với tư cách là một Mã Nương nhà Mejiro, em nhất định...",
+      "jpname": "メジロブライト",
+      "jptext": "メジロ家のウマ娘として、必ず……。",
+      "choice_data_list": [
+        "...Này em, mình ghé qua chỗ này một chút được không—",
+        "...Này bạn, mình ghé qua chỗ này một chút được không—"
+      ],
+      "jpchoice_data_list": [
+        "……なぁ、寄り道してもいいかな――",
+        "……ねぇ、寄り道してもいいかな――"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Nơi này là... nơi đầu tiên em gặp anh... Fufu... Đúng rồi, hai chúng ta đã đứng cạnh nhau ngước nhìn cái cây đằng kia—",
+      "jpname": "メジロブライト",
+      "jptext": "ここは……あなたと、初めてお会いした……。\nふふ……そう、2人で並んで、あの木を見上げていて――"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ô kìa? Chiếc lá ấy... rốt cuộc đã rụng xuống mất rồi ạ. Dù nó đã kiên cường bám trụ đến thế...",
+      "jpname": "メジロブライト",
+      "jptext": "……あら？　葉っぱが……すべて、落ちてしまったのですね～。\n頑張って、しがみついていたのですが……。",
+      "choice_data_list": [
+        "Nhưng em nhìn kỹ lại xem."
+      ],
+      "jpchoice_data_list": [
+        "でも、よく見てごらん"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ôi chao! Búp non... Em nhìn thấy một chiếc mầm non bé xíu đang nhú lên kìa anh!",
+      "jpname": "メジロブライト",
+      "jptext": "……まあ！　つぼみが……。\nひとつ、ちょこんと見えますわ～！"
+    },
+    {
+      "name": "",
+      "text": "Chiếc lá khô mà chúng tôi cùng trông chừng tuy đã rụng xuống, nhưng nơi đó lại đang nuôi dưỡng một mầm sống mới. Chỉ cần kiên cường vượt qua mùa đông dài đằng đẵng, mùa đơm chồi nảy lộc sẽ sớm gõ cửa.",
+      "jpname": "モノローグ",
+      "jptext": "見守った枯れ葉は落ちてしまったが、また新たな命を育んでいる。\n長い長い冬を耐え抜けば、もうすぐ芽吹く季節はやってくるのだ。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ra là vậy ạ. Mùa xuân... sắp sửa tràn về rồi anh nhỉ.",
+      "jpname": "メジロブライト",
+      "jptext": "そうですか～。\nもうすぐ……春が来るのですわね。",
+      "choice_data_list": [
+        "Mùa xuân của em đấy, Bright.",
+        "Mùa xuân của bạn đấy, Bright."
+      ],
+      "jpchoice_data_list": [
+        "君の春だ、ブライト",
+        "貴方の春だよ、ブライト"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cho đến nay, em ấy vẫn luôn tiến bước theo nhịp độ của riêng mình mà không hề nôn nóng. Chính nhờ nền tảng vững chắc tích lũy bấy lâu ấy, chỉ cần một vài lời khuyên nhỏ là đã tạo nên sự chuyển biến rõ rệt.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はこれまで、焦らず自分のペースでゆっくりでも進んできた。\nその下地があったからこそ、少しのアドバイスで変化が生まれた。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "—Mùa xuân... của em. Liệu mùa xuân ấy... đã ở ngay trước mắt rồi sao anh?",
+      "jpname": "メジロブライト",
+      "jptext": "――わたくしの……春。\nそれは……もう、すぐそこなのですか？",
+      "choice_data_list": [
+        "Giờ chính là lúc đơm chồi nảy lộc.",
+        "Bây giờ chính là lúc đơm chồi nảy lộc đấy."
+      ],
+      "jpchoice_data_list": [
+        "芽吹く時は今だ",
+        "芽吹く時は今だよ"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Liệu em có thể trở nên giống như mọi người được không ạ? Với tư cách là một thành viên của gia tộc Mejiro mà em hằng yêu quý...?",
+      "jpname": "メジロブライト",
+      "jptext": "……わたくしも、皆さまのようになれるでしょうか？\n大好きなメジロ家の一員として……？",
+      "choice_data_list": [
+        "Nhất định sẽ được!!"
+      ],
+      "jpchoice_data_list": [
+        "なれる！！"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...!",
+      "jpname": "メジロブライト",
+      "jptext": "……っ。"
+    },
+    {
+      "name": "Họ hàng nhà Mejiro A",
+      "text": "'—Con bé Bright ấy mà. Thân hình nó mảnh khảnh quá... Tội nghiệp con bé, chắc khó mà chạy đua được rồi.'",
+      "jpname": "メジロ家の親戚A",
+      "jptext": "『――ブライトねぇ。あの子はどうにも体つきがほっそりして……\nかわいそうに、きっとレースは難しいわね』"
+    },
+    {
+      "name": "Trainer riêng",
+      "text": "'Ryan chạy tốt thật đấy! Nhất định con bé sẽ làm nên chuyện lớn. ...Hửm? Bright ấy à... Thôi con cứ đứng bên cạnh quan sát đi đã nhé.'",
+      "jpname": "専属トレーナー",
+      "jptext": "『ライアンはいい走りをするなぁ！　きっと大成するだろう。\n……ん？　ブライトは……とりあえず、横で見ておきなさい』"
+    },
+    {
+      "name": "Ryan lúc nhỏ",
+      "text": "Bright, em đang làm gì... à. Ra là đang nhìn mọi người tập luyện hả. Cùng vào chạy với tụi chị đi chứ!",
+      "jpname": "幼いライアン",
+      "jptext": "ブライト、なにして……って、ああ。みんなのこと見てたんだね。\nいっしょに走ればいいのに！"
+    },
+    {
+      "name": "Bright lúc nhỏ",
+      "text": "...Chị ơi. Liệu một ngày nào đó... một ngày nào đó em có thể trở nên giống như các chị được không ạ?",
+      "jpname": "幼いブライト",
+      "jptext": "……おねえさま～。わたくしも、いつか……\nいつか、おねえさまたちのように、なれるでしょうか？"
+    },
+    {
+      "name": "Ryan lúc nhỏ",
+      "text": "Được chứ em! Chị chẳng rõ giống như tụi chị là thế nào đâu, nhưng mà... chỉ cần Bright muốn trở thành, em nhất định sẽ làm được thôi!",
+      "jpname": "幼いライアン",
+      "jptext": "なれるよっ！　あたしたちみたいって、どんなのかわかんないけど。\nブライトがなりたいなら、なれるよ！"
+    },
+    {
+      "name": "Ryan lúc nhỏ",
+      "text": "Thế nên là—tụi mình cùng chạy nhé!",
+      "jpname": "幼いライアン",
+      "jptext": "だから――いっしょに走ろうっ！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Giờ thì em đã hiểu rồi ạ. Chắc chắn rằng ở nơi đây—em đã luôn kiên nhẫn đợi chờ anh.",
+      "jpname": "メジロブライト",
+      "jptext": "……今、わかりましたわ。\nわたくしはきっと、ここで――あなたを待っていたのですね。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trong cuộc đua tuyển chọn ngày mai, em sẽ cho mọi người thấy một kết quả rực rỡ. Và rồi—tiến tới trận ra mắt chính thức!",
+      "jpname": "メジロブライト",
+      "jptext": "明日の選抜レースでは、素晴らしい結果をお見せいたします。\nそして――デビューへ！"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "—Ơ kìa, hôm nay... toàn là những cô bé muốn chạy bám sau thôi. Chắc ai cũng ghìm tốc độ đợi tới đoạn đường thẳng, nhịp độ cuộc đua sẽ cực kỳ chậm cho mà xem.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "――あれ、今日って……後ろからレースしたい子ばっかりだ。\n直線まで抑えるだろうし、かなりスローペースになりそうですね。"
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Có cả cô bé Mejiro Bright 'nổi danh' kia nữa kìa. Vẫn cứ thong dong như mọi khi... Chọn sai thời điểm bứt tốc là coi như xong phim, không biết em ấy định chạy kiểu gì đây?",
+      "jpname": "中堅トレーナーB",
+      "jptext": "“あの”メジロブライトもいるぞ。相変わらずのんびりしてる……。\n勝負どころを間違えたら終わりだけど、大丈夫かねぇ。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trainer-san tạm thời ơi. Em đã chuẩn bị xong xuôi rồi ạ. Vậy hôm nay chiến thuật là gì thế ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "仮トレーナーさま～。準備が終わりましたわ。\nそれで、本日は～？",
+      "choice_data_list": [
+        "Trước tiên hãy tập trung vào vị trí và bước chạy của bản thân nhé."
+      ],
+      "jpchoice_data_list": [
+        "まず自分の走りと位置取りに集中しよう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Suốt chặng đua sẽ là một cuộc đọ sức về độ kiên nhẫn xem ai chịu bung sức trước. Nếu quá để tâm đến thời gian chạy mà vỡ nhịp thì sẽ rơi vào thế bất lợi. Sau đó, ta sẽ bứt phá ở thời khắc quyết định.",
+      "jpname": "モノローグ",
+      "jptext": "道中はいつ飛び出すかの我慢比べとなるだろう。タイムを気にして\nペースを崩せば不利になる。その後、勝負どころが訪れたとき――"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Đúng như những gì đã luyện tập, chớp đúng thời cơ rồi một mạch lao vút lên... đúng không anh? ...Liệu em có thể giành chiến thắng được không ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "練習したように、機を見計らって一気に駆け上がる……ですわね。\n……わたくしは、勝てるでしょうか？",
+      "choice_data_list": [
+        "Em sẽ thắng!!"
+      ],
+      "jpchoice_data_list": [
+        "勝てる！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Em ấy chỉ khởi động cỗ máy chậm thôi, chứ đôi chân nước rút cuối thì tuyệt vời vô cùng. Chỉ cần phát động tấn công chuẩn xác ngay thời điểm quyết định, nhất định em ấy sẽ vượt lên!",
+      "jpname": "モノローグ",
+      "jptext": "エンジンの掛かりが遅いだけで、素晴らしい末脚を持っている。\n勝負どころできちんと仕掛けられれば、絶対に負けない。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Fufu, em cảm ơn anh nhiều ạ. Em nhất định... sẽ mang đến một màn trình diễn xứng đáng với kỳ vọng của anh!",
+      "jpname": "メジロブライト",
+      "jptext": "ふふ、ありがとうございます。\nそのご期待に添える走りを……必ず、お見せいたしますわ！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "—Và cuộc đua đã chính thức bắt đầu! Đường cỏ 1800m với 6 tuyển thủ, nhịp độ diễn biến đang diễn ra hết sức thong thả.",
+      "jpname": "実況",
+      "jptext": "――さぁ、スタートしました！　芝1800m、6人立てのレース、\nとてもゆったりとした流れで進んでいきます！"
+    },
+    {
+      "name": "Mã Nương thi đấu A",
+      "text": "...K-Khoan đã... bảo là thong thả chứ thế này thì... Ai đó mau vượt lên dẫn đầu đi chứ... không thì...!",
+      "jpname": "出走ウマ娘A",
+      "jptext": "……ちょ、ちょっと……ゆったりっていうか……。\n誰か、早く前に出てよ……じゃないと……！"
+    },
+    {
+      "name": "Khán giả",
+      "text": "Fufu... xem cũng vui mắt đấy chứ. Cơ mà thế này thì chậm quá mức rồi đấy.",
+      "jpname": "観客たち",
+      "jptext": "ふふっ……ちょっとおもしろい。\nさすがにこれは、遅すぎでしょ。"
+    },
+    {
+      "name": "Mã Nương thi đấu B",
+      "text": "Ư ư... C-Chịu hết nổi rồi! Dù có hơi sớm một chút... nhưng kệ đi, lao lên thôi!!",
+      "jpname": "出走ウマ娘B",
+      "jptext": "ううっ……も、もう無理～っ！\nちょっと早いけど……行っちゃえ！！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "(...Không sao cả. Mình sẽ kiên nhẫn chờ đợi thời cơ theo đúng nhịp độ của mình. Và rồi, khi nhận ra thời khắc hoa nở rộ đã tới...—)",
+      "jpname": "メジロブライト",
+      "jptext": "（……大丈夫。わたくしは、わたくしのペースで機を待つ。\nそして、咲くべき時がわかれば……――）"
+    },
+    {
+      "name": "",
+      "text": "'Bright!'",
+      "jpname": "モノローグ",
+      "jptext": "『ブライト！』"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "(—Em đã nghe thấy rồi, tiếng gọi của anh. Thời khắc để em đơm chồi nảy lộc... chính là ngay lúc này!!)",
+      "jpname": "メジロブライト",
+      "jptext": "（――聞こえます、あなたのお声が。\nわたくしが芽吹く時は……今っっ！！）"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và giờ là đoạn đường thẳng cuối cùng! Các Mã Nương đồng loạt phát động tấn công— Ối chà!? Từ vị trí bét bảng cuối cùng, Mejiro Bright đã phóng vọt lên rồi!",
+      "jpname": "実況",
+      "jptext": "さあ、最後の直線！　各ウマ娘一斉に勝負を――\nっとぉ！？　最後方から、メジロブライトが飛び出してきたぁ！？"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Toàn thể quý vị xin hãy dõi theo bước chân em...! Em chính là vầng quang mới—chứng minh cho uy danh rực rỡ của gia tộc Mejiro!",
+      "jpname": "メジロブライト",
+      "jptext": "皆さま、ご覧くださいませ……！\nわたくしが、メジロ家の威光を示す――新たな光ですわ！"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, Mejiro Bright đã giành chiến thắng ngoạn mục trong cuộc đua tuyển chọn! Thế nhưng—",
+      "jpname": "モノローグ",
+      "jptext": "こうして見事、メジロブライトは選抜レースに勝利した！\nしかし――"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "2-2 phút lận sao...!? Ở cự ly 1800m á!? C-Chậm dã man...! Chậm hơn mức trung bình gần 10 giây lận...!",
+      "jpname": "中堅トレーナーA",
+      "jptext": "に、2分……！？　1800mで！？\nお、おっそい……！　平均よりも10秒近く遅い……！"
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Ahaha... chà, kết quả này vượt ngoài dự liệu thật... Một đứa bé chạy 1800m mất tận 2 phút thì biết huấn luyện kiểu gì đây trời.",
+      "jpname": "中堅トレーナーB",
+      "jptext": "あははっ……いや～、ちょっとこれは想定よりも……。\n1800mに2分もかかる子、どうやって育てるんだよ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Tớ đã nhìn thấy rồi. Sức mạnh của cậu... cả sự quyết tâm của cậu nữa. Tớ cũng... phải tiến bước về phía trước thôi...!",
+      "jpname": "メジロドーベル",
+      "jptext": "……アタシには、見えたよ。あなたの強さが……あなたの、覚悟が。\nアタシも……前に進まなくちゃ……！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Em đã quay trở lại rồi đây, Trainer-san tạm thời ơi. ...Em đã giành được chiến thắng rồi ạ!",
+      "jpname": "メジロブライト",
+      "jptext": "ただいまですわ、仮トレーナーさま～。\n……わたくし、勝利いたしました～！",
+      "choice_data_list": [
+        "Em đã chạy tuyệt vời lắm!",
+        "Em đã chạy rất tuyệt vời đấy!"
+      ],
+      "jpchoice_data_list": [
+        "すごくいい走りだったぞ！",
+        "すごくいい走りだったよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng là đồng hồ bấm giờ ghi nhận thành tích khá chậm. Nhưng trong nhịp độ rùa bò như thế này, những sải chân nước rút cuối sắc sảo vượt qua đối thủ chắc chắn sẽ là một vũ khí lợi hại ở các giải đấu đỉnh cao!",
+      "jpname": "モノローグ",
+      "jptext": "確かに時計は遅かった。だがこのスローペースで、最後にしっかり\n差し切った末脚はトップクラスのレースでも間違いなく武器になる！"
+    },
+    {
+      "name": "",
+      "text": "Nếu tiếp tục tôi rèn, tương lai em ấy sẽ còn tiến xa hơn nữa—Vừa nghĩ vậy, tôi bỗng nhận ra lòng mình tha thiết muốn được ngắm nhìn khung cảnh phía trước... một tương lai được chiếu rọi bởi ánh quang của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "鍛えていけば、この先はもっと――そう考え、ふと先の景色を……\n彼女の光が照らす未来を、見たくなっていることに気づいた。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Vậy thì, Trainer-san ơi. Kể từ hôm nay, em lại làm phiền anh chiếu cố em rồi ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "では、トレーナーさま～。\n本日よりまた、お世話になりますわ～。",
+      "choice_data_list": [
+        "...Hửm? Chữ 'tạm thời' biến mất rồi sao?"
+      ],
+      "jpchoice_data_list": [
+        "……ん？仮が取れてる？"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Nơi em hướng đến là đỉnh cao xa vời vợi. Để tiến tới nơi đó, ánh sáng ấy quá chói lòa đối với một người đơn độc.",
+      "jpname": "メジロブライト",
+      "jptext": "わたくしが目指すところは、遙か頂にございます。\nそこへ向かうには、1人では眩しすぎるのです。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Chỉ khi có anh... chỉ đường dẫn lối cho em. Liệu anh có bằng lòng cùng em dõi theo mùa xuân rực rỡ ấy không ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "あなたが……道を教えてくださらなければ。\nどうかわたくしと、ともに春を見届けてくださいませんか？",
+      "choice_data_list": [
+        "Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...! Em vui sướng lắm ạ. Hoan hô!",
+      "jpname": "メジロブライト",
+      "jptext": "……！\n嬉しいですわ～。わぁ～い。"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, tôi và Mejiro Bright đã cùng nhau tiến bước vào Twinkle Series, hướng tới vầng quang rực rỡ mới!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、メジロブライトと新たな光を目指して、\nトゥインクル・シリーズを歩んでいくこととなった！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Hoan hô, phù, nhẹ cả người rồi ạ. Em cũng sắp ra mắt rồi nhé!",
+      "jpname": "メジロブライト",
+      "jptext": "わぁ～い。ふぅ～ですわ～。\nわたくしも、でびゅ～♪"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Anh định đứng nhìn con bé đến bao giờ thế? Nếu muốn làm Trainer của Bright, chỗ nào cần nghiêm khắc thì phải chấn chỉnh ngay... không thì mọi chuyện chẳng tiến triển đâu.",
+      "jpname": "メジロドーベル",
+      "jptext": "……いつまで見守ってる気？　ブライトのトレーナーになるなら、\n締めるところは締めないと……話、進まないんじゃない。",
+      "choice_data_list": [
+        "M-Mình chuẩn bị về thôi nào!",
+        "M-Mình chuẩn bị về thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "そ、そろそろ帰ろう！",
+        "そ、そろそろ帰ろう！"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Nè, có thể là em lo chuyện bao đồng thôi, nhưng mà nếu anh làm Trainer của Bright thì lúc cần dứt khoát nghiêm khắc là phải làm tới nơi tới chốn đấy nhé.",
+      "jpname": "メジロドーベル",
+      "jptext": "……ねぇ、余計なお節介かもしれないけど。ブライトの\nトレーナーになるなら、締めるところは締めたほうがいいよ。",
+      "choice_data_list": [
+        "M-Mình chuẩn bị về thôi nào!",
+        "M-Mình chuẩn bị về thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "そ、そろそろ帰ろう！",
+        "そ、そろそろ帰ろう！"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Vâng ạ!",
+      "jpname": "メジロブライト",
+      "jptext": "はぁ～い♪"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Vâng ạ!",
+      "jpname": "メジロブライト",
+      "jptext": "はぁ～い♪"
+    }
+  ]
+}

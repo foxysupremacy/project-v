@@ -1,0 +1,254 @@
+{
+  "title": "Đầu hạ, ánh nắng chan hòa",
+  "jptitle": "初夏、日差しは燦々と",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một buổi trưa đầu hạ ngập tràn ánh nắng rực rỡ. Vào khoảng thời gian tiếng chuông tan học vừa vang lên, cánh cửa phòng Trainer mở ra.",
+      "jpname": "モノローグ",
+      "jptext": "初夏の日差しがまばゆい昼下がりのこと。\n終業のチャイムが鳴った頃、トレーナー室の扉が開いた。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trainer-san ơi. Bây giờ anh có rảnh một lát không ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "トレーナーさま。\n今、少々よろしいでしょうか～？"
+    },
+    {
+      "name": "",
+      "text": "Người bước vào là Mã Nương tôi đang phụ trách, Mejiro Bright. Thế nhưng hôm nay em ấy bảo có việc bận liên quan đến gia đình cơ mà—",
+      "jpname": "モノローグ",
+      "jptext": "入ってきたのは担当ウマ娘、メジロブライトだった。\nしかし彼女は今日、実家関連の用事があるとかで――",
+      "choice_data_list": [
+        "Hôm nay em được nghỉ tập mà đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "トレーニングは休みじゃなかった？"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dạ vâng. Hiện tại em đang đợi xe từ dinh thự tới đón đi công chuyện ấy ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "ええ。今はご用事のためにお屋敷からお車が、\nぶ～んとお迎えに来るのを待っているところなのですが。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Thế nên là, từ giờ cho tới lúc xe đến đón, em có thể xin phép ngồi chờ ở đây được không anh?",
+      "jpname": "メジロブライト",
+      "jptext": "ですから～、お迎えの時間まで、\nここで待たせていただいてもよろしくて？",
+      "choice_data_list": [
+        "Ừ, đương nhiên rồi!",
+        "Ừm, đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、もちろん！",
+        "うん、もちろん！"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Em cảm ơn anh nhiều ạ. Vậy thì... em xin phép làm phiền anh một lát nhé ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "ありがとうございます。\nではでは……しばらく、お邪魔させていただきますわ～。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Trời đã sang hẳn mùa hè rồi anh nhỉ. Kỳ nghỉ tới, chắc chắn sẽ là một ngày thời tiết tuyệt hảo để đi công viên giải trí đấy ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "もうすっかり夏ですわね～。\n今度のお休みは、きっと絶好の遊園地日和になりますわ。",
+      "choice_data_list": [
+        "Thời tiết lý tưởng đi công viên giải trí?"
+      ],
+      "jpchoice_data_list": [
+        "遊園地日和？"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Vâng ạ. Hôm nọ cha có gửi vé vào cổng cho em—",
+      "jpname": "メジロブライト",
+      "jptext": "はい～。この間、\nお父さまがチケットを送ってくださって――"
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi trò chuyện bâng quơ với nhau một hồi lâu. Khoảng thời gian trôi qua chầm chậm êm đềm ấy thật dễ chịu, thế nhưng—",
+      "jpname": "モノローグ",
+      "jptext": "しばらく、とりとめのない話をする。\nゆったりと流れる時間が心地よいが――",
+      "choice_data_list": [
+        "Mãi mà xe đón vẫn chưa tới nhỉ...",
+        "Mãi mà xe đón vẫn chưa tới nhỉ..."
+      ],
+      "jpchoice_data_list": [
+        "なかなか迎えが来ないな……",
+        "なかなか迎えが来ないね……"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Đúng thế thật anh nhỉ... Nhưng mà em vốn giỏi khoản thong thả chờ đợi mà. Em nghĩ mình cứ ngồi đợi thêm một chút nữa xem sao ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "そうですわね～……でも、のんびりするのは得意ですし。\nもう少し待ってみようと思いますの。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "A, nhưng hôm nay là ngày Trainer-san có thể 'về sớm' đúng không ạ? Anh sắp rời khỏi phòng này rồi sao ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "あ、けれど、トレーナーさまは『早上がり』のできる日ですわよね？\nもうこちらのお部屋からは出てゆかれますか～？"
+    },
+    {
+      "name": "",
+      "text": "Đúng là hôm nay không có lịch tập nên tôi có thể về sớm hơn thường lệ. Thế nhưng tôi đâu thể bỏ mặc Mejiro Bright một mình ở đây được.",
+      "jpname": "モノローグ",
+      "jptext": "確かに練習の予定がない今日は、普段より早く帰れる日だった。\nしかし、メジロブライトを放り出すわけにもいかないだろう。",
+      "choice_data_list": [
+        "Không sao đâu. Anh vẫn ở lại đây cùng em mà."
+      ],
+      "jpchoice_data_list": [
+        "大丈夫。まだここにいるから"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Em cảm ơn anh ạ. ...Fufu, tự dưng em lại nhớ lại chuyện cũ ghê.",
+      "jpname": "メジロブライト",
+      "jptext": "ありがとうございます。\n……ふふ、なんだか思い出しますわ～。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Cái hồi hai chúng ta ngồi kề bên nhau, thong thả ngắm nhìn vạn vật thế này. Vào mùa đông cũng từng có lúc như vậy rồi anh nhỉ...",
+      "jpname": "メジロブライト",
+      "jptext": "こうして2人で並んで、の～んびりしていたこと。\n冬の頃にもありましたわね～……。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Mỗi khi có Trainer-san ở bên cạnh... em lại cảm thấy bản thân mình so với mọi khi—",
+      "jpname": "メジロブライト",
+      "jptext": "……トレーナーさまが、隣にいてくださると……\nわたくし、いつもより――"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "dường như càng trở nên vô tư lự, thong thả hơn nữa ấy ạ...",
+      "jpname": "メジロブライト",
+      "jptext": "もっと、のんびりさんになってしまうような気が\nいたしますのよ……。"
+    },
+    {
+      "name": "",
+      "text": "(Bính boong... bính boong...)",
+      "jpname": "モノローグ",
+      "jptext": "（キーンコーン……カーンコーン……）"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ơ kìa? Ôi chao... Trời đã chuyển hẳn sang hoàng hôn rồi sao ạ?",
+      "jpname": "メジロブライト",
+      "jptext": "……あら～？\nまあ、まあ……もう、すっかり夕暮れ時なのですね～？",
+      "choice_data_list": [
+        "...Rõ ràng là xe đón đến muộn quá đúng không?",
+        "...Rõ ràng là xe đón đến muộn quá đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "……やっぱり、迎えが遅いよな？",
+        "……やっぱり、迎えが遅いよね？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kế hoạch 'về sớm' coi như tan thành mây khói. Đồng hồ đã chỉ sang giờ gần như sắp phải làm thêm tới nơi rồi.",
+      "jpname": "モノローグ",
+      "jptext": "『早上がり』の予定はどこへやら。\n時計は残業もあわやという時間を示している。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Quả thật, bác tài xế nhà Mejiro mà lại thong dong nhàn nhã hơn cả em thì đúng là chuyện hiếm thấy thật đấy ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "確かに、メジロ家の運転手さまが\nわたくしよりのんびりなさっているのは珍しいことですわ。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Để em gọi điện thoại kiểm tra thử xem sao... Ơ kìa? Màn hình tối đen như mực rồi này anh.",
+      "jpname": "メジロブライト",
+      "jptext": "電話をかけて確認を…………あら？\n画面が真っ暗ですわ～。"
+    },
+    {
+      "name": "",
+      "text": "Sau khi cắm sạc một lúc để chiếc điện thoại hồi sinh, tôi kiểm tra thì thấy có vài tin nhắn thoại trong hộp thư thoại.",
+      "jpname": "モノローグ",
+      "jptext": "充電器に接続し、ややあって息を吹き返したスマートフォンを\n確認してみると、留守番電話が何件か入っていた。"
+    },
+    {
+      "name": "Tài xế nhà Mejiro",
+      "text": "'Thưa tiểu thư Bright, tôi xin phép được báo tin. Về lịch trình hôm nay của tiểu thư, do có một số chuyện phát sinh nên đã được hoãn lại.'",
+      "jpname": "メジロ家の運転手",
+      "jptext": "『ブライトお嬢様、失礼いたします。本日の予定に関してですが、\n諸事情ございまして延期の運びとなりました』"
+    },
+    {
+      "name": "Tài xế nhà Mejiro",
+      "text": "'Vì vậy, rất lấy làm tiếc nhưng tiểu thư không cần phải rời khỏi học viện nữa—'",
+      "jpname": "メジロ家の運転手",
+      "jptext": "『つきましては、恐縮ではございますが\n学園からの外出も不要となりますので――』"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Ôi trời, tin nhắn từ tận 3 tiếng trước lận sao. Điều đó có nghĩa là...",
+      "jpname": "メジロブライト",
+      "jptext": "……まあ、3時間も前のメッセージなのですね。\nということは……。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Không lẽ em đã khiến Trainer-san phải ngồi chờ dài cổ oan uổng ngần ấy thời gian rồi sao ạ.",
+      "jpname": "メジロブライト",
+      "jptext": "もしかして、トレーナーさまにも\nずいぶん待ちぼうけをさせてしまいましたでしょうか～。"
+    },
+    {
+      "name": "",
+      "text": "Tôi bảo em ấy đừng bận tâm, vì nhờ vậy mà tôi đã giải quyết xong cả phần việc của ngày mai, vả lại bản thân tôi cũng chẳng hề nhắc nhở gì em ấy. Nghe vậy—",
+      "jpname": "モノローグ",
+      "jptext": "おかげで明日の分も仕事を進めることができたし、\n自分も止めなかったのだから気にしていないと伝えた。すると――"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Nếu được vậy thì tốt quá rồi ạ... Cơ mà em thấy hình như hai chúng mình có hơi 'thong thả' quá đà rồi thì phải.",
+      "jpname": "メジロブライト",
+      "jptext": "であれば、よいのですけれど～……\nちょっぴり、『のんびり』しすぎた気もいたしますわ。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dù rằng đối với em, được trò chuyện thật nhiều với anh thế này em thấy vui lắm luôn...",
+      "jpname": "メジロブライト",
+      "jptext": "わたくしは、\nたくさんお話ができて楽しかったのですけれど～……。",
+      "choice_data_list": [
+        "Anh cũng thấy rất vui.",
+        "Tôi cũng thấy rất vui."
+      ],
+      "jpchoice_data_list": [
+        "俺も楽しかったぞ",
+        "私も楽しかったよ"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Ufufu, vậy sao anh? Nếu thế thì chắc là ổn rồi nhỉ.",
+      "jpname": "メジロブライト",
+      "jptext": "うふふ、そうですか？　なら、よかったのかしら。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Liệu có thật là ổn không nhỉ?",
+      "jpname": "メジロブライト",
+      "jptext": "……よかったのかしら？"
+    },
+    {
+      "name": "",
+      "text": "Dẫu mặt trời đã lặn tự bao giờ... nhưng không thể phủ nhận rằng chúng tôi đã có một khoảng thời gian thảnh thơi và trọn vẹn bên nhau.",
+      "jpname": "モノローグ",
+      "jptext": "すっかり日は傾いてしまったものの……\nゆっくり充実した時間を過ごせたことには違いない。"
+    },
+    {
+      "name": "",
+      "text": "Tiễn Mejiro Bright với vẻ mặt đầy khó hiểu về tận ký túc xá, tôi kết thúc ngày làm việc của mình.",
+      "jpname": "モノローグ",
+      "jptext": "何やら不思議そうな顔をしたメジロブライトを寮まで送り、\nその日は仕事を終えることにした。"
+    }
+  ]
+}
