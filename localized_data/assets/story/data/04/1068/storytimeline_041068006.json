@@ -1,0 +1,368 @@
+{
+  "title": "Hỡi Những Dãy Núi Nhuộm Sắc Đỏ Tuyệt Đẹp",
+  "jptitle": "紅美しき山々よ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Bên cạnh các buổi tập sáng sớm, hễ có thời gian rảnh là Kitasan Black lại miệt mài lao vào tập luyện.",
+      "jpname": "モノローグ",
+      "jptext": "早朝トレーニングに加え、空き時間ができると\nトレーニングに勤しむキタサンブラック。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hộc, hà... Vẫn chưa xong đâu ạ! Trainer-san, xin hãy tiếp tục bài tập đi ạ!",
+      "jpname": "キタサンブラック",
+      "jptext": "はっ、はぁ……まだまだぁ！\nトレーナーさん、このまま続けてください！",
+      "choice_data_list": [
+        "Chúng ta nghỉ ngơi một chút đi em"
+      ],
+      "jpchoice_data_list": [
+        "そろそろ休憩しよう"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Em không sao đâu ạ! Em vẫn còn tràn đầy năng lượng mà. Em không muốn làm lãng phí thời gian của Trainer-san đâu! Chúng ta tiếp tục thôi ạ!",
+      "jpname": "キタサンブラック",
+      "jptext": "大丈夫です！　元気いっぱいなのでっ。\nトレーナーさんの時間を無駄にはしません！　行きましょう！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ooooo...!",
+      "jpname": "キタサンブラック",
+      "jptext": "おおおお……！"
+    },
+    {
+      "name": "",
+      "text": "Kitasan Black lao đi với một tốc độ kinh hồn. Một khí thế hừng hực hơn cả mọi ngày, và đâu đó tôi còn cảm nhận được cả sự gấp gáp, nóng lòng của em.",
+      "jpname": "モノローグ",
+      "jptext": "ものすごい勢いで走り出すキタサンブラック。\nいつも以上の気合いと、どこか必死さが伝わってくる。"
+    },
+    {
+      "name": "",
+      "text": "\"Em không muốn làm lãng phí thời gian của Trainer-san đâu\".",
+      "jpname": "モノローグ",
+      "jptext": "『トレーナーさんの時間を無駄には』"
+    },
+    {
+      "name": "",
+      "text": "...Chẳng lẽ những giáo án luyện tập mà tôi dày công xây dựng cho Kitasan Black lại vô tình khiến em cảm thấy sốt ruột và áp lực sao?",
+      "jpname": "モノローグ",
+      "jptext": "……もしや、キタサンブラックのためにと組み立てたメニューから、\n焦りでも感じさせてしまったのだろうか。",
+      "choice_data_list": [
+        "(Cứ để thế này là không ổn rồi...)"
+      ],
+      "jpchoice_data_list": [
+        "（このままではいけない……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi không muốn em phải chạy trong sự nôn nóng như vậy. Tôi muốn Kitasan Black có thể thảnh thơi, tự do sải bước theo đúng phong cách của riêng em...",
+      "jpname": "モノローグ",
+      "jptext": "焦るような走りはさせたくない。キタサンブラックには伸び伸びと、\n自分らしい走りをしてほしい――"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Dạ? Ngày mai đi ngắm lá đỏ mùa thu... sao ạ? Lịch trình đáng lẽ là tập luyện cơ mà, sao đột ngột vậy anh...",
+      "jpname": "キタサンブラック",
+      "jptext": "え？　明日、紅葉狩りに……ですか？\nトレーニングの予定だったのに、どうして急に……。",
+      "choice_data_list": [
+        "Anh nghĩ đổi gió một chút cũng tốt cho em"
+      ],
+      "jpchoice_data_list": [
+        "気分転換にいいかと思って"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Đổi gió sao ạ...",
+      "jpname": "キタサンブラック",
+      "jptext": "気分転換……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "..................Hả!",
+      "jpname": "キタサンブラック",
+      "jptext": "……………………はっ！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "R-Ra là thế! Trainer-san đang mệt mỏi đúng không ạ...! Đúng rồi, điều đó là đương nhiên mà.",
+      "jpname": "キタサンブラック",
+      "jptext": "そ、そっか！　トレーナーさん疲れてるんだ……！\nそうだよね、当たり前だよねっ。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Trời ơi là trời. Bản thân em đúng là vô tâm thật đấy...!",
+      "jpname": "キタサンブラック",
+      "jptext": "ああもうっ。\nあたしってば、気が利かないんだから……！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Em hiểu rồi ạ! Chúng ta hãy cùng nhau đổi gió hết mình nhé!",
+      "jpname": "キタサンブラック",
+      "jptext": "わかりました！　全力で気分転換しましょう！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Thư giãn thật đã, thật thoải mái nào!! Cứ để hết mọi chuyện cho em lo nhé!!",
+      "jpname": "キタサンブラック",
+      "jptext": "どどんっと、のんびり！！\nぜーんぶあたしに任せてください！！"
+    },
+    {
+      "name": "",
+      "text": "Dù cái khí thế hừng hực ấy hoàn toàn trái ngược với tinh thần \"thư giãn\", nhưng trước mắt, tôi đã hẹn cùng Kitasan Black đi ngắm lá đỏ mùa thu.",
+      "jpname": "モノローグ",
+      "jptext": "のんびりとは真逆の気合いの入り方だったが――ひとまず、\nキタサンブラックと紅葉狩りに行く約束をしたのだった。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ủa? Người đằng kia...",
+      "jpname": "キタサンブラック",
+      "jptext": "あれ？　あの人……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Chị ơi, chị có sao không ạ? Có phải chị đang bị lạc đường không...",
+      "jpname": "キタサンブラック",
+      "jptext": "あのっ、大丈夫ですか？\nもしかして道に迷ってたりとか……。"
+    },
+    {
+      "name": "Người phụ nữ lạc đường",
+      "text": "A... v-vâng, đúng vậy.",
+      "jpname": "道に迷っている女性",
+      "jptext": "あ……そ、そうなんです。"
+    },
+    {
+      "name": "Người phụ nữ lạc đường",
+      "text": "Bạn tôi có vẽ bản đồ cho tôi, nhưng vì không rành đường sá ở đây nên tôi chẳng hiểu gì cả...",
+      "jpname": "道に迷っている女性",
+      "jptext": "友人に地図を描いてもらったんですけど、\n土地勘がないから、よくわからなくて……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Chị đợi em một chút nhé. Ga tàu ở đây, vậy thì... A, đường này hơi quanh co một chút. Lại còn khá xa nữa, để em...",
+      "jpname": "キタサンブラック",
+      "jptext": "待ってくださいね。ここが駅だから、えーっと……\nあ、少し複雑かも。距離もあるし、あたしが――",
+      "choice_data_list": [
+        "Để chúng tôi dẫn đường cho chị nhé",
+        "Để chúng tôi dẫn đường cho bạn nhé"
+      ],
+      "jpchoice_data_list": [
+        "俺たちが案内しますよ",
+        "私たちが案内しますよ"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "!",
+      "jpname": "キタサンブラック",
+      "jptext": "！"
+    },
+    {
+      "name": "Người phụ nữ lạc đường",
+      "text": "Thật sao ạ? Hai người tốt bụng quá, cảm ơn hai người nhiều lắm!",
+      "jpname": "道に迷っている女性",
+      "jptext": "本当ですか？　ご親切にありがとうございます！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "............",
+      "jpname": "キタサンブラック",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Cụ ông",
+      "text": "Hà... ỳ ạch mãi... Ô, ối kìa...",
+      "jpname": "おじいさん",
+      "jptext": "はぁ……よっこらせ……。\nお、おっとと……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Oa oa, nguy hiểm quá...! Cụ mang nhiều hành lý quá ạ.",
+      "jpname": "キタサンブラック",
+      "jptext": "わわっ、危ない……！\nすごい荷物ですね、おじいさん。"
+    },
+    {
+      "name": "Cụ ông",
+      "text": "Ồ, làm cháu giật mình, cho ông xin lỗi nhé. Tính mua chút quà cho đứa cháu, ai dè mua nhiều quá...",
+      "jpname": "おじいさん",
+      "jptext": "おお、驚かせてすまんね。孫に土産と思ったら、\nちょっと買い過ぎてなぁ……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Cụ muốn đưa hành lý lên giá để đồ đúng không ạ? Nếu vậy thì cứ để em...",
+      "jpname": "キタサンブラック",
+      "jptext": "荷物を棚に載せるんですよね？\nだったらあたしに任せて――",
+      "choice_data_list": [
+        "Nào, lên nhé!"
+      ],
+      "jpchoice_data_list": [
+        "よいしょ！"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "A...",
+      "jpname": "キタサンブラック",
+      "jptext": "あ……。",
+      "choice_data_list": [
+        "Khi nào đến ga cần xuống thì cụ cứ bảo chúng cháu nhé"
+      ],
+      "jpchoice_data_list": [
+        "降りる駅に着いたら教えてください"
+      ]
+    },
+    {
+      "name": "Cụ ông",
+      "text": "Ồ, may quá. Cảm ơn cháu nhiều vì đã giúp đỡ nhé.",
+      "jpname": "おじいさん",
+      "jptext": "ああ、助かったよ。親切にありがとうねぇ。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "............",
+      "jpname": "キタサンブラック",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Oa, đẹp quá chừng...! Rực rỡ ghê luôn...!",
+      "jpname": "キタサンブラック",
+      "jptext": "わあ、綺麗……！　すっごく鮮やか……！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Tiếng bước chân giẫm lên lá nghe cũng thích tai nữa! Nào, chúng ta sang phía bên kia xem thử đi Trainer-san!",
+      "jpname": "キタサンブラック",
+      "jptext": "葉を踏む音も気持ちいいです！\nほら、向こうにも行ってみましょう、トレーナーさんっ。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Phong cảnh nhìn từ đây cũng đỉnh quá chừng...! Ủa!? Bên kia có quán bán bánh dango kìa!",
+      "jpname": "キタサンブラック",
+      "jptext": "ここからの景色も最高……！\nあれ！？　あっちにお団子屋さんがある！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Trainer-san nhìn kìa! Phía ngọn núi đằng kia có...",
+      "jpname": "キタサンブラック",
+      "jptext": "トレーナーさん見てください！\nあそこの山に――"
+    },
+    {
+      "name": "",
+      "text": "Chuyến đi ngắm lá đỏ có vẻ là một dịp thư giãn tuyệt vời. Thế nhưng, để theo kịp nhịp độ tung tăng hớn hở của Kitasan Black cũng là một thử thách khá gian nan...",
+      "jpname": "モノローグ",
+      "jptext": "紅葉狩りはよい息抜きになっているようだ。だが、\nはしゃぐキタサンブラックのペースは、なかなかにハードで――"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Aaa, anh đổ nhiều mồ hôi quá kìa... Anh có sao không, Trainer-san?",
+      "jpname": "キタサンブラック",
+      "jptext": "あああ、すごい汗……。\nだ、大丈夫ですか、トレーナーさん。",
+      "choice_data_list": [
+        "Nghỉ một chút là anh khỏe lại ngay ấy mà"
+      ],
+      "jpchoice_data_list": [
+        "少し休めば平気"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "............ ...Em xin lỗi anh nhiều lắm!",
+      "jpname": "キタサンブラック",
+      "jptext": "…………。\n……ごめんなさい！",
+      "choice_data_list": [
+        "? Sao lại xin lỗi anh?"
+      ],
+      "jpchoice_data_list": [
+        "？何が？"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Chỉ tại em cứ kéo anh đi hết chỗ này chỗ nọ làm anh mệt lử cả người...!",
+      "jpname": "キタサンブラック",
+      "jptext": "あたしが引っ張り回したせいで、疲れさせちゃって……！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Lại còn, lúc trên đường đến đây nữa... việc giúp đỡ người khác... em lại để Trainer-san phải phụ giúp em nữa.",
+      "jpname": "キタサンブラック",
+      "jptext": "それに、ここに来るまでも……その、人助け……\nトレーナーさんにまで手伝わせちゃって。"
+    },
+    {
+      "name": "",
+      "text": "Thấy người trước mắt đang giúp đỡ người khác, nếu không vướng bận gì thì chung tay phụ giúp là chuyện đương nhiên mà. Huống hồ...",
+      "jpname": "モノローグ",
+      "jptext": "近くで人助けしているのだから、邪魔にならない限り\n手伝うのは当然のことだろう。それに――",
+      "choice_data_list": [
+        "Được giúp một tay anh thấy vui lắm"
+      ],
+      "jpchoice_data_list": [
+        "手伝えて嬉しかった"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "! Trainer-san...!",
+      "jpname": "キタサンブラック",
+      "jptext": "！　トレーナーさん……！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...Khoan đã, ý em không phải như vậy! À không, được nghe anh nói vậy em cũng vui lắm chứ!",
+      "jpname": "キタサンブラック",
+      "jptext": "……って、そうじゃなくて！\nいえっ、こちらこそすっごく嬉しいんですけど！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Nhưng mà, em muốn Trainer-san được nghỉ ngơi cơ, thường ngày anh cũng đã mệt mỏi nhiều rồi, em muốn...",
+      "jpname": "キタサンブラック",
+      "jptext": "でも、あたしはトレーナーさんに休んでほしいというか、\n日頃の疲れもあるでしょうし、もっと――",
+      "choice_data_list": [
+        "Chắc anh phải rèn luyện thêm thể lực mới được rồi..."
+      ],
+      "jpchoice_data_list": [
+        "もっと体力つけないとダメかも……"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hức! Thể lực của anh thế là quá đủ rồi, đủ lắm rồi ấy chứ ạ...!",
+      "jpname": "キタサンブラック",
+      "jptext": "くぅぅうう！　それは充分です、充分ですよぅ……！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ngày nào anh cũng theo sát em tập luyện, những lúc chạy ngoài trường thì đạp xe bên cạnh em...!",
+      "jpname": "キタサンブラック",
+      "jptext": "毎日、トレーニングにも付き合ってくれて、\n外を走る時は自転車で隣にいてくれるし……！",
+      "choice_data_list": [
+        "Đó là bổn phận đương nhiên của một Trainer mà em"
+      ],
+      "jpchoice_data_list": [
+        "トレーナーとして当然のことだよ"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Đ-Đúng là có thể như vậy thật, nhưng cái chuyện đương nhiên ấy lại khiến em... ư ư...",
+      "jpname": "キタサンブラック",
+      "jptext": "そ、それはそうかもしれないですけど、\nその当たり前が、とても……う、うう～……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...Phải làm sao đây... Lúc nào cũng chỉ có mỗi em... là người được che chở và đỡ đần thôi...",
+      "jpname": "キタサンブラック",
+      "jptext": "……どうしよう……いつも、あたしだけ……\n支えてもらってばっかりだ……。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "(Hà... Bố ơi... Để có thể trở thành chỗ dựa cho một ai đó, quả thực khó quá bố nhỉ.)",
+      "jpname": "キタサンブラック",
+      "jptext": "（はぁ……。父さん……誰かを支えるって、難しいね）"
+    }
+  ]
+}
