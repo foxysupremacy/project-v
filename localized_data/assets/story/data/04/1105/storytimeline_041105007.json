@@ -1,0 +1,466 @@
+{
+  "title": "Bản giao tín 7: Đồng bộ, bắt đầu",
+  "jptitle": "交信録7・同期、始まり",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày cuối cùng của đợt tập huấn mùa hè. Hôm nay cũng vậy…… tôi lại bị nhìn chăm chú.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿最終日。\n今日も今日とて……見つめられている。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi đã hoàn toàn quen với tình cảnh này rồi. Và đáp lại ánh mắt ấy, tôi luôn hỏi một câu thế này.",
+      "jpname": "モノローグ",
+      "jptext": "この状況にも、すっかり慣れてしまった。\nそして、視線に対しては必ずこう返すことにしている。",
+      "choice_data_list": [
+        "Em đã \"quan sát\" được gì chưa?"
+      ],
+      "jpchoice_data_list": [
+        "“観測”はできた？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "!",
+      "jpname": "ネオユニヴァース",
+      "jptext": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Vẫn chưa.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……まだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe đáp lại với vẻ gì đó khá thích thú.",
+      "jpname": "モノローグ",
+      "jptext": "どこか楽しそうに、ネオユニヴァースは答える。",
+      "choice_data_list": [
+        "Thực ra thì——"
+      ],
+      "jpchoice_data_list": [
+        "実は――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi cũng đang cố quan sát Neo Universe đấy——tôi nói đùa với em ấy như vậy.",
+      "jpname": "モノローグ",
+      "jptext": "自分もネオユニヴァースを観測しようとしている――\n彼女に向かって、そんな冗談を言ってみる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"Quan sát\"…… Neo Universe sao……? Là Trainer…… ư?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースを……“観測”……\nトレーナーが……？",
+      "choice_data_list": [
+        "A……"
+      ],
+      "jpchoice_data_list": [
+        "あ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chết dở. Nếu chỉ nghe qua từ ngữ thì có vẻ hơi đáng ngờ.",
+      "jpname": "モノローグ",
+      "jptext": "しまった。\n言葉だけ聞くと、怪しさがあるかもしれない。",
+      "choice_data_list": [
+        "Chỉ là với tư cách Trainer thôi!"
+      ],
+      "jpchoice_data_list": [
+        "あくまでトレーナーとして！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi chỉ đang muốn thấu hiểu Mã Nương mình đảm nhiệm thôi mà——tôi vội vàng phân trần để em ấy không hiểu lầm.",
+      "jpname": "モノローグ",
+      "jptext": "担当のウマ娘を知ろうとしているだけで――\n慌てて変な意味ではないと言い訳をする。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Vâng…… Affirmative.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ん……アファーマティブ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe gật đầu lia lịa. Xem chừng em ấy đã hiểu cho tôi rồi. ……Chắc vậy.",
+      "jpname": "モノローグ",
+      "jptext": "うんうんと頷くネオユニヴァース。\nわかってもらえたと思っても大丈夫そうだ。……多分。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ phía xa văng vẳng tiếng nhạc lễ hội. Giờ này, chắc các Mã Nương tham gia trại huấn luyện đang cùng nhau đi chơi hội rồi.",
+      "jpname": "モノローグ",
+      "jptext": "遠くから祭囃子が聞こえる。今頃、合宿に参加している\nウマ娘たちが、祭りへと遊びに行っていることだろう。",
+      "choice_data_list": [
+        "Trời quang mây tạnh thế này thật tốt quá."
+      ],
+      "jpchoice_data_list": [
+        "晴れてよかったなぁ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dạo gần đây trời đêm nhiều mây nên chẳng mấy khi thấy sao. Dù đã là ngày cuối cùng, nhưng một bầu trời đêm mà nơi thành thị không thể nào thấy được——",
+      "jpname": "モノローグ",
+      "jptext": "このところ、夜は曇りがちで星があまり見えなかった。\n最終日になってしまったが、都会では見られないような空が――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bất chợt, tôi nhớ lại hình ảnh Neo Universe ngước nhìn lên bầu trời đêm trên sân thượng ngày ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ふと、屋上で空を見上げていたネオユニヴァースを思い出した。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mã Nương đang đùa nghịch",
+      "text": "Nhanh lên nhanh lên nào, đi lễ hội thôi! Đợt huấn luyện vất vả thế rồi, ngày cuối phải quẩy hết mình chứ!",
+      "jpname": "はしゃぐウマ娘",
+      "jptext": "早く早くっ、お祭りお祭り～！\n合宿頑張ったもんね、最後くらい遊ぶぞ～！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mã Nương trông vui vẻ",
+      "text": "Chuẩn luôn! Mình muốn càn quét sạch các quầy hàng ăn uống quá đi!",
+      "jpname": "楽しそうなウマ娘",
+      "jptext": "うんうん！　屋台制覇したーい！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……\"Năm ánh sáng\"…… chẳng thể với tới, thế nhưng…… So với hôm qua, hôm nay……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“光年”……届かない、でも……\n昨日より、今日は……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "May quá, em ở đây rồi!"
+      ],
+      "jpchoice_data_list": [
+        "よかった、いた！"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "A……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "あ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thoáng thấy bóng tôi, Neo Universe liền thoăn thoắt chạy lại gần. ——May quá, tôi cứ ngỡ em ấy đã đi đâu mất rồi.",
+      "jpname": "モノローグ",
+      "jptext": "こちらの姿を見つけ、パタパタと走り寄ってくるネオユニヴァース。\n――よかった、もうどこかに出かけてしまったかと思った。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Đứng trước một Neo Universe đang ngơ ngác, tôi lấy lại nhịp thở.",
+      "jpname": "モノローグ",
+      "jptext": "きょとんとするネオユニヴァースの前で、息を整える。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Trainer?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……トレーナー？",
+      "choice_data_list": [
+        "Lát nữa em có hẹn với ai chưa?"
+      ],
+      "jpchoice_data_list": [
+        "これから誰かと予定はある？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Kế hoạch…… ……Neo Universe…… với Trainer……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "予定……。\n……ネオユニヴァースは……トレーナーを……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Đang tiến hành…… \"tìm kiếm\"…… Vì thế, muốn cùng…… Trainer……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“探索”……してた……。\nだから、トレーナーと……一緒に……。",
+      "choice_data_list": [
+        "Thế thì đúng lúc quá rồi!"
+      ],
+      "jpchoice_data_list": [
+        "なら、ちょうどよかった！"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……？",
+      "choice_data_list": [
+        "Tôi vừa tìm được một chỗ rất tuyệt, đi thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "穴場を見つけたから、行こう！"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Chỗ rất tuyệt……?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……穴場……？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nơi tôi dẫn Neo Universe đến là một bờ biển tách biệt khỏi tiếng nhạc hội rộn rã.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースを連れてやってきたのは、\n祭囃子が遠ざかった海辺。",
+      "choice_data_list": [
+        "Ở đây ngắm sao rõ lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "ここなら星がよく見えるよ！"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "…………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Đôi mắt của Neo Universe phản chiếu ánh sao lung linh lấp lánh. Bầu trời đêm in bóng xuống mặt biển, ngỡ như chúng tôi đang trôi giữa dải ngân hà.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースの瞳は、キラキラと星を映している。\n海には星空が反射して、まるで宇宙の中にいるようだった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Trainer…… đã \"quan sát\"…… Neo Universe sao?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "トレーナー……は、\nネオユニヴァースを……“観測”したの？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Tôi cứ ngỡ người sẽ không \"hạ cánh\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“着陸”はしないと思った。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Thế nhưng Trainer lại…… \"flyby\"…… \"Quỹ đạo\"…… không phải hướng về \"hành tinh\" mà là……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……でもトレーナーは……“フライバイ”……\n“軌道”は……“惑星”じゃなく……。",
+      "choice_data_list": [
+        "A……"
+      ],
+      "jpchoice_data_list": [
+        "あ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi đã tin chắc rằng Neo Universe muốn ngắm sao.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースは星を見たかった――と、信じて疑わなかった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù kết quả có vẻ là đúng, nhưng nhỡ đâu em ấy cũng có mong muốn đi dự lễ hội thì sao.",
+      "jpname": "モノローグ",
+      "jptext": "結果としては正解だったようだが、祭りに行きたかった可能性も\nあったかもしれないのに。",
+      "choice_data_list": [
+        "Vì muốn ngắm cùng em nên tôi lỡ……"
+      ],
+      "jpchoice_data_list": [
+        "一緒に見たくて、つい……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mong muốn cho em ấy thấy và khao khát được ngắm nhìn cùng em dường như đã lấn át tất cả. Tôi tự kiểm điểm rằng có lẽ mình đã quá đường đột.",
+      "jpname": "モノローグ",
+      "jptext": "見せたかった気持ちと、一緒に見たいと思った気持ちが\n先行してしまった節がある。強引過ぎたかもと反省する。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Không đâu. Neo Universe đang…… cảm thấy \"bồn chồn\". Đây là cảm giác \"vui sướng\" nhỉ.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……ううん。ネオユニヴァースは……\n『そわそわ』してる。これは『嬉しい』だね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Vẫn chưa thể \"quan sát\" trọn vẹn…… thế nhưng…… dường như chúng ta đã \"đồng bộ\" rồi……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“観測”はまだ……\nけれど……“同期”したみたい……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Thấy \"háo hức\" lắm. Tựa như hy vọng đang tràn về vậy.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……『ワクワク』するよ。\n“きぼう”がやってくるみたいに。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Hãy nhắm mắt lại. Chói lòa lắm, nên từ từ thôi……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……目を、閉じて。\n眩しいから、ゆっくり……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi nhắm mắt lại đúng như lời dặn. Và khi làm theo tiếng gọi khẽ khàng bảo \"mở mắt ra đi\"——",
+      "jpname": "モノローグ",
+      "jptext": "言われるがまま目を閉じる。\nそして『開けて』という小さな声に従うと――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nơi đó, tựa hồ như——",
+      "jpname": "モノローグ",
+      "jptext": "そこは、まるで――",
+      "choice_data_list": [
+        "Ngân hà, đang……"
+      ],
+      "jpchoice_data_list": [
+        "銀河、が……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cảm giác chạm đất vẫn còn…… tôi nghĩ thế. Chắc chắn chỉ là ảo giác do bị cuốn vào bầu không khí của các vì sao và Neo Universe mà thôi……",
+      "jpname": "モノローグ",
+      "jptext": "地面の感触はある……と、思う。星々とネオユニヴァースの\n雰囲気に呑まれ、錯覚しているだけのはず……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, ban nãy em ấy đã nói rằng \"chói lòa\". Vậy thì điều này là…… Trước khung cảnh ngút ngàn choáng ngợp trải ra trước mắt, bước chân tôi bất giác lảo đảo.",
+      "jpname": "モノローグ",
+      "jptext": "だが、先ほど彼女は『眩しい』と言った。ならばこれは……。\n目の前に転がる圧倒的な景色に、足元がふらつく。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Em ở ngay đây nè.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ここに、いるよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe đứng ngay trước mặt như muốn đỡ lấy tôi. Đôi mắt thăm dò phản ứng của tôi ánh lên sự bất an lẫn niềm hy vọng mong chờ.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースが、支えるように目の前に立つ。\nこちらの反応を窺うような瞳には、不安と期待が滲んでいて。",
+      "choice_data_list": [
+        "……Cảm ơn em."
+      ],
+      "jpchoice_data_list": [
+        "……ありがとう"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "!",
+      "jpname": "ネオユニヴァース",
+      "jptext": "！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù là ảo giác hay thực tại, tôi nghĩ điều đó chẳng còn quan trọng nữa. Bất kể là gì, giờ phút này đây trái tim tôi đang rộn ràng \"háo hức\".",
+      "jpname": "モノローグ",
+      "jptext": "錯覚でも、本物でも、どちらでも構わないと思った。\nなんであれ、いま自分は『わくわく』しているのだから。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe trông như đang ngượng ngùng bẽn lẽn. Dù có thể chỉ là do tôi tưởng tượng ra.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースは、もじもじと照れているように見える。\n気のせいかもしれないけれど。",
+      "choice_data_list": [
+        "Tôi cảm giác như mình đã quan sát được em một chút rồi đấy."
+      ],
+      "jpchoice_data_list": [
+        "少しだけ、君を観測できた気がする"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "————",
+      "jpname": "ネオユニヴァース",
+      "jptext": "――――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Hi hi.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……えへへ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe đã nở một nụ cười ngây thơ trong trẻo——tựa như đang tan hòa vào muôn ngàn vì tinh tú.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースは、あどけない――\n星に溶けるような笑みを見せてくれたのだった。",
+      "choice_data_list": []
+    }
+  ]
+}

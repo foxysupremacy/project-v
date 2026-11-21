@@ -1,0 +1,503 @@
+{
+  "title": "Bản giao tín 3: Đối thoại ngoài trời và nhật ký trò chơi",
+  "jptitle": "交信録3・屋外での対話、及び遊戯録",
+  "text_block_list": [
+    {
+      "name": "Neo Universe",
+      "text": "Hà, hà…… Tín hiệu của \"kẻ truy vết\" đã——mất dấu.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "はぁ、はぁ……。\n“追跡者”の信号は――ロスト。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe muốn làm sáng tỏ một điều. Bạn định \"đối xử\" với \"tôi\"——như thế nào?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースは明確にしたい。\nあなたは『わたし』を――どう“処遇”？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính bản thân tôi cũng chưa biết mình muốn làm gì. Nhưng trước hết, tôi muốn hiểu được tâm tư của Neo Universe.",
+      "jpname": "モノローグ",
+      "jptext": "どうしたいのかは自分でもわからない。\nだがまずはネオユニヴァースの気持ちを知りたかった。",
+      "choice_data_list": [
+        "Này, em rốt cuộc là ai và muốn làm gì thế?",
+        "Này, rốt cuộc em là ai và muốn làm gì?"
+      ],
+      "jpchoice_data_list": [
+        "なあ、君は何者で何がしたいんだ？",
+        "ねえ、貴方は何者で何がしたいの？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu không biết được điều đó thì tôi chẳng thể giúp đỡ được. Dù em ấy chưa thể tiết lộ thân phận, chí ít tôi cũng muốn biết mục đích của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "それがわからなければ手助けのしようがない。\n仮に正体は明かせなくとも、せめて目的は知りたかった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Muốn làm…… gì sao…… Neo Universe muốn——\"thăng hoa\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "なにが……したい……。\nネオユニヴァースは――“昇華”をしたい。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Vì mục đích đó nên cần thấu hiểu bản thân…… và rồi——\"học theo tiền nhân\"?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "そのために自己理解……そして――“倣古”？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "……Có vẻ em ấy có việc muốn làm, nhưng rốt cuộc những từ ngữ đó ám chỉ điều gì thì tôi không rõ. Liệu đó có phải là những điều không thể diễn tả bằng ngôn ngữ thông thường?",
+      "jpname": "モノローグ",
+      "jptext": "……やりたいことはあるようだが、何を指し示しているのかは、\nわからない。言語化不可能な内容なのだろうか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Trước hết, tôi muốn——\"đối thoại\" với bạn.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "まずはあなたと――“対話”したい。",
+      "choice_data_list": [
+        "……Tôi hiểu rồi."
+      ],
+      "jpchoice_data_list": [
+        "……わかった"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giữa những câu từ khó hiểu đó, đây là lời hiếm hoi mà tôi có thể nắm bắt. Neo Universe đang mong muốn được giao lưu với tôi.",
+      "jpname": "モノローグ",
+      "jptext": "そんな中でもかろうじて通じた言葉。\nネオユニヴァースは自分との交流を求めている。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vậy thì…… tôi quyết định sẽ cùng em ấy tìm hiểu lẫn nhau. Tôi đưa em ấy đi tham quan khắp nơi bên ngoài học viện, những nơi mà có lẽ em ấy chưa từng đặt chân tới.",
+      "jpname": "モノローグ",
+      "jptext": "ならば……と理解を深め合うことにした。ネオユニヴァースが\n行ったことのなさそうな、学園外のあちこちを見学させながら。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước tiên, chúng tôi ghé vào một quán mì ramen.",
+      "jpname": "モノローグ",
+      "jptext": "まずはラーメン屋へとやってきた。",
+      "choice_data_list": [
+        "Đây là mì ramen Tonkotsu đấy."
+      ],
+      "jpchoice_data_list": [
+        "これが豚骨ラーメンだよ"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Ton-kotsu…… ramen…… Ramen……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ト・コツ……ラメーン……。ラーメン……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Là \"đồ ăn\"…… nhỉ. Dù chưa từng nếm thử, nhưng mà……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "『食べ物』……だね。\n食したことはない、けれど……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Khái niệm về thức ăn xem ra em ấy hoàn toàn nắm được. Sau khi xác nhận những điều căn bản, tiếp theo sẽ là……",
+      "jpname": "モノローグ",
+      "jptext": "食べ物の概念は、問題なくあるようだった。\n基礎を確認したら、次は……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Nơi này là…… \"trại nuôi nhốt\" sao?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ここは……“繋養所”？",
+      "choice_data_list": [
+        "Phải rồi, đây là sở thú.",
+        "Ừm, đây là vườn bách thú đó."
+      ],
+      "jpchoice_data_list": [
+        "ああ、動物園だ",
+        "うん、動物園だよ"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Nơi để——yêu thương che chở cho các sinh vật khác loài——",
+      "jpname": "ネオユニヴァース",
+      "jptext": "異種生物を――愛でる、ところ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Mỗi khi nhìn thấy điều \"dễ thương\", Neo Universe lại thấy dâng trào cảm xúc…… Tức là cảm thấy \"háo hức\" đấy.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "『かわいい』を見ると、ネオユニヴァースは高揚……。\nつまり『ワクワク』になるよ。",
+      "choice_data_list": [
+        "Em thích động vật lắm đúng không?",
+        "Em thích động vật lắm nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "動物、好きなんだな？",
+        "動物、好きなんだね？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Affirmative. ——Rất \"thích\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "アファーマティブ。――『好き』。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Sự thấu hiểu giữa hai người ngày một sâu sắc hơn. Thậm chí em ấy còn bắt đầu nở một nụ cười mờ nhạt.",
+      "jpname": "モノローグ",
+      "jptext": "相互理解はどんどんと深まる。\nかすかに笑みらしきものも見せてくれるようになった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Hôm nay…… tôi đã trải nghiệm điều \"vui vẻ\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "今日は……『楽しい』をした。",
+      "choice_data_list": [
+        "Ừ, tôi cũng vậy.",
+        "Ừm, tôi cũng thế."
+      ],
+      "jpchoice_data_list": [
+        "ああ、俺も",
+        "うん、私も"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi đã cởi mở với nhau hơn rất nhiều. Lời nói cũng dễ thấu hiểu hơn. Nếu là bây giờ……",
+      "jpname": "モノローグ",
+      "jptext": "かなり打ち解けることができた。言葉もより通じるようになった。\n今なら……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biết đâu tôi có thể khéo léo hỏi ra được. Rằng Neo Universe là ai và muốn làm gì, ý định thực sự của em ấy là thế nào.",
+      "jpname": "モノローグ",
+      "jptext": "うまく聞き出せるかもしれない。\nネオユニヴァースが何者で何をしたいのか、その真意を。",
+      "choice_data_list": [
+        "Neo Universe, này…… rốt cuộc em là……",
+        "Neo Universe, chuyện là…… em……"
+      ],
+      "jpchoice_data_list": [
+        "ネオユニヴァース、あの……君は……",
+        "ネオユニヴァース、あの……貴方は……"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Cho em hỏi, chị Uni phải không ạ? Đúng là chị Uni rồi!",
+      "jpname": "？？？",
+      "jptext": "あのっ、ユニさん？　ユニさんですよね！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngay lúc đó, một Mã Nương chạy vội về phía chúng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "とその時、1人のウマ娘がこちらに駆け寄ってきた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Quả nhiên là chị rồi! Ban nãy em tình cờ thấy chị chạy ở trường đua. Em đây ạ, em là Zenno Rob Roy bên ban thư viện.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "やっぱり！　さっき走っているのを見かけたもので。\n私です、ゼンノロブロイですっ。図書委員の。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Zenno…… Rob Roy……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ゼンノ……ロブロイ……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Sự hiện diện ấy…… đã \"biết đến\". Được em chăm sóc nhiều rồi, nhỉ.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "その存在は……“既知”。\nお世話になっています、だね。",
+      "choice_data_list": [
+        "Em biết Neo Universe sao?",
+        "Em có quen biết Neo Universe ư?"
+      ],
+      "jpchoice_data_list": [
+        "君は、ネオユニヴァースを知っているのか？",
+        "貴方は、ネオユニヴァースを知っているの？"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Dạ, tất nhiên rồi ạ! Vì chị Uni……",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "はい、もちろんです！\nだってユニさんは……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Là học sinh của Học viện Tracen mà.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "トレセン学園の生徒ですから。",
+      "choice_data_list": [
+        "Học sinh của…… Học viện Tracen ư?"
+      ],
+      "jpchoice_data_list": [
+        "トレセン学園の……生徒？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lần đầu tiên tôi có được manh mối về thân phận bí ẩn của em ấy. Hóa ra Neo Universe là một Mã Nương của Học viện Tracen……",
+      "jpname": "モノローグ",
+      "jptext": "謎に包まれたその正体について、初めて情報が入った。\nネオユニヴァースはトレセン学園のウマ娘……。",
+      "choice_data_list": [
+        "Nhưng em chưa từng mặc đồng phục lần nào……"
+      ],
+      "jpchoice_data_list": [
+        "でも制服を着ていたことは1度も……"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Đồng phục……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "制服……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Thứ này…… cũng đang \"nắm giữ\"……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "これも……“保持”……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn bộ dạng ấy, tôi mới vỡ lẽ. Rốt cuộc Neo Universe vẫn là một học sinh bình thường của Học viện Tracen……",
+      "jpname": "モノローグ",
+      "jptext": "その姿を見て納得した。ネオユニヴァースはやはり、\nごく普通のトレセン学園の生徒……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Không, chẳng hề bình thường chút nào. Hành vi của em ấy quá đỗi kỳ lạ. Rốt cuộc em ấy là một Mã Nương như thế nào chứ?",
+      "jpname": "モノローグ",
+      "jptext": "いや、ごく普通ではない。挙動はあまりに変わっている。\n一体どういうウマ娘なのだろう？",
+      "choice_data_list": [
+        "Rob Roy, em có biết gì thêm không?"
+      ],
+      "jpchoice_data_list": [
+        "ロブロイ、何か知ってる？"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Về chị Uni ạ? Dạ vâng, chị Uni thì……",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "ユニさんについてですか？\nはいっ、ユニさんは……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Là một Mã Nương có chút kỳ bí…… Cách dùng từ của chị ấy khá khó hiểu nên…… ở trong lớp chị ấy thường ở một mình……",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "少し不思議なウマ娘……。言葉遣いがやや難しいので……\nクラスなどではお1人でいらっしゃることも多いようで……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Nhưng em thì…… thỉnh thoảng cũng được trò chuyện cùng chị ấy. Vì em là ủy viên thư viện mà, chị Uni thường xuyên ghé qua thư viện lắm.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "でも私は……しばしばお話させていただくことがあるんです。\n図書委員ですので。ユニさん、よく図書室にいらっしゃいますから。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Chị Uni…… chuyện là. Dù đã nói chuyện với chị nhiều lần, nhưng hôm nay mới là lần đầu tiên em thấy chị chạy. Phải nói sao nhỉ……",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "ユニさん……あのっ。私、ユニさんとはたくさん話しましたけど\n走るところは今日はじめて見ました。なんというか……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Đó là một màn trình diễn thật sự…… vô cùng tuyệt vời! Khác với những bước chạy của người anh hùng mà em hằng ngưỡng mộ, đây là một khả năng phán đoán ở tầm thứ nguyên cao hơn hẳn! Có thể nói là như vậy đấy ạ.",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "とても……素晴らしい走りでした！　私の憧れる英雄の走りとは\nまた違う、高次元の判断力！　と言いますか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Đặc biệt là…… cú bứt tốc ở đoạn thẳng cuối cùng! Quá đỗi ngoạn mục luôn ạ. Chị ấy lao thẳng vào kẽ hở giữa bức tường người mà không một chút do dự. Thậm chí trong tích tắc cứ như chị ấy biến mất vậy……!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "とくに……あの最終直線のスパート！　お見事でしたっ。迷いなく\n壁の隙間に飛び込んで。一瞬、消えたように見えるほどで……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Trông như thể đã biến mất. Nói cách khác, em ấy không thực sự biến mất vào hư không. Nếu là vậy thì……",
+      "jpname": "モノローグ",
+      "jptext": "消えたように見えた。ということは、\nやはり本当に消えたわけではなかったようだ。とすると……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thân phận thực sự của Neo Universe chỉ là một Mã Nương có tính cách hơi khác người đôi chút. Có lẽ tôi đã suy nghĩ quá nhiều rồi.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースの正体は、性格が少し変わっているだけのウマ娘。\n自分の気にしすぎだったのかもしれない。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, vẫn còn vài điều khiến tôi bận lòng. Chắc chắn Neo Universe đang khát khao một điều gì đó, và tôi vẫn chưa thể biết nó là gì. Thêm vào đó——",
+      "jpname": "モノローグ",
+      "jptext": "だが、いくつか気になることがある。ネオユニヴァースは確実に\n何かを欲していて、それが何なのかはまだわからない。さらに――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bí ẩn vào cái đêm trên sân thượng hôm ấy. Nếu không phải từ trên trời bay xuống, thì làm sao em ấy có thể bước vào sân thượng đã bị khóa chặt như thế?",
+      "jpname": "モノローグ",
+      "jptext": "あの日――屋上にいた謎。空から飛来したのでなければ、\nなぜ施錠された屋上に入ることができたのだろう？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Trainer ơi, anh sao thế ạ?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "トレーナーさん、どうかしましたか？",
+      "choice_data_list": [
+        "Không, chỉ là tôi đang băn khoăn một chuyện……",
+        "À không, chỉ là có điều làm tôi bận tâm……"
+      ],
+      "jpchoice_data_list": [
+        "いや、ひとつ気になったことが……",
+        "ううん、ひとつ気になったことが……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chuyện này có lẽ…… chỉ nên nói riêng giữa hai người chúng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "この話はもしかしたら……\n2人だけでしたほうがいいかもしれない。",
+      "choice_data_list": [
+        "Neo Universe, em đi theo tôi được không?",
+        "Neo Universe, em đi cùng tôi một lát nhé?"
+      ],
+      "jpchoice_data_list": [
+        "ネオユニヴァース、ついてきてくれないか？",
+        "ネオユニヴァース、ついてきてくれない？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi tạm biệt Zenno Rob Roy, hai chúng tôi cùng hướng về nơi chốn năm nào.",
+      "jpname": "モノローグ",
+      "jptext": "ゼンノロブロイと別れた後、\n2人で、かの場所へと向かうことにした。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "——Sân thượng vào ban đêm. Nơi đầu tiên mà tôi chạm trán Neo Universe.",
+      "jpname": "モノローグ",
+      "jptext": "――夜の屋上。\nネオユニヴァースと初めて遭遇した場所。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm ấy, làm thế nào mà Neo Universe có thể lên được đây?",
+      "jpname": "モノローグ",
+      "jptext": "あの日、ネオユニヴァースはどうやってここに入ったのだろう？",
+      "choice_data_list": [
+        "Rõ ràng đã khóa cửa, sao em vào được……"
+      ],
+      "jpchoice_data_list": [
+        "施錠してあったのに入れるはずが……"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……\"MUTX\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“MUTX”。",
+      "choice_data_list": [
+        "……?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Đã là \"MUTX\". Neo Universe…… ban đầu……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“MUTX”だったんだ。\nネオユニヴァースは……最初……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Những ngôn từ rời rạc. Thế nhưng từ đó tôi phần nào liên tưởng ra được. Có khi nào vào ngày hôm ấy, Neo Universe……",
+      "jpname": "モノローグ",
+      "jptext": "断片的な言葉。だがそこからなんとなく連想できた。\nもしかしたらネオユニヴァースはあの日……。",
+      "choice_data_list": [
+        "Em đã…… ở cùng với ai đó sao?",
+        "Em…… đi cùng ai đó ư?"
+      ],
+      "jpchoice_data_list": [
+        "誰かと……一緒にいたのか？",
+        "誰かと……一緒にいたの？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Có vẻ đúng là như vậy. Dù cho bản thân Neo Universe không thể tự vào, nhưng vẫn có vài người có quyền lên sân thượng vào ban đêm.",
+      "jpname": "モノローグ",
+      "jptext": "どうやら、そのようだ。たとえネオユニヴァースは入れなくても、\n夜の屋上に入れる者は何人かいる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Phải rồi, chẳng hạn như……",
+      "jpname": "モノローグ",
+      "jptext": "そう、例えば……。",
+      "choice_data_list": []
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Bản giao tín 1: Sinh mệnh thể Mã Nương giáng lâm",
+  "jptitle": "交信録1・ウマ娘生命体、飛来す",
+  "text_block_list": [
+    {
+      "name": "Người thuyết minh",
+      "text": "Trong vũ trụ bao la này——tồn tại những dạng sống chưa được biết đến mà chúng ta không thể nào quan sát.",
+      "jpname": "ナレーション",
+      "jptext": "この広大な宇宙には――我々には観測できない\n未知の生命体が存在する。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người thuyết minh",
+      "text": "Dù là \"người ngoài hành tinh\" hay \"thể astral\" tồn tại ở đa chiều không gian. Một ngày nào đó, những tồn tại ấy có thể ghé thăm hành tinh này mà chẳng hề báo trước.",
+      "jpname": "ナレーション",
+      "jptext": "『異星人』や多次元に生きる『アストラル体』。そういった\n存在はある日、何の前触れもなくこの星を来訪するかもしれない。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "——Tại Học viện Tracen vào ban đêm. Khi tôi đang ở một mình trong khu giảng đường để giải quyết vài việc riêng…… thì bỗng nghe thấy một âm thanh kỳ lạ vang lên từ phía trên đỉnh đầu.",
+      "jpname": "モノローグ",
+      "jptext": "――夜のトレセン学園。所用のため、1人で校舎内にいると……\n頭上から奇妙な音が聞こえた。",
+      "choice_data_list": [
+        "Âm thanh này…… từ trên sân thượng sao?",
+        "Âm thanh này…… từ trên sân thượng ư?"
+      ],
+      "jpchoice_data_list": [
+        "この音は……屋上からか？",
+        "この音は……屋上から？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "*Đây là độc thoại của hệ thống.",
+      "jpname": "モノローグ",
+      "jptext": "※システム上のモノローグです。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu thiết bị gặp sự cố thì nguy to. Để xác định nguyên nhân, tôi vội mượn chìa khóa từ bác bảo vệ trực đêm rồi vội vã chạy lên sân thượng.",
+      "jpname": "モノローグ",
+      "jptext": "もし設備の故障なら大変だ。原因を確かめるべく、\n宿直のおじさんから鍵を借り、あわてて屋上へと出る。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và tại nơi đó——",
+      "jpname": "モノローグ",
+      "jptext": "と、そこには――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Một thiếu nữ xa lạ đang đứng đó. Đôi tai kia là của Mã Nương. Nhưng…… hình dạng lại có chút kỳ lạ.",
+      "jpname": "モノローグ",
+      "jptext": "見知らぬ少女が立っていた。\nあの耳はウマ娘のもの。だが……少し形状が変だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Hơn nữa, dù có là Mã Nương đi chăng nữa thì cũng không thể nhảy qua một sân thượng đã khóa chặt như vậy được. Thiếu nữ này rốt cuộc là……",
+      "jpname": "モノローグ",
+      "jptext": "そして、いくらウマ娘でも施錠してあった屋上に\n飛び移れるわけはない。この少女は一体……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "……………………",
+      "jpname": "？？？",
+      "jptext": "……………………。",
+      "choice_data_list": [
+        "Ờ, cho tôi hỏi……"
+      ],
+      "jpchoice_data_list": [
+        "あ、あの……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi rụt rè cất tiếng hỏi. Liệu rằng…… em ấy có hiểu được lời tôi nói không?",
+      "jpname": "モノローグ",
+      "jptext": "こわごわと話しかける。\nはたして……言葉は通じるのだろうか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "…………\"Giao tín\".",
+      "jpname": "？？？",
+      "jptext": "…………“交信”。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Thử…… \"giao tín\" với Neo Universe không? Nếu như…… đó là \"INTI\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースと“交信”……してみる？\nそれが……“INTI”なら。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe…… đó là tên của thiếu nữ này sao? Những lời em ấy nói, tôi phần nào có thể hiểu được.",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァース……というのが、この少女の名前なのだろうか。\n発言内容はなんとなく理解できる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Là Mã Nương, hay là sinh mệnh thể bí ẩn mang hình dáng Mã Nương…… Dù sao đi nữa, có vẻ bước sóng của tôi và thiếu nữ này khá tương thích. Vậy thì……",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘なのか、それともウマ娘型の謎の生命体か……。\nともかくこの少女とは波長が合うようだ。ならば……。",
+      "choice_data_list": [
+        "Em đang làm gì ở đây thế?",
+        "Em làm gì ở đây vậy?"
+      ],
+      "jpchoice_data_list": [
+        "ここで、何をしているんだ？",
+        "ここで、何をしているの？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe…… đang lấp đầy \"đoạn tuyệt\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "“断絶”……を埋めていたの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Bởi vì âm giai ghé thăm nơi đây…… là thứ Neo Universe \"yêu thích\". Sự cộng hưởng vào tầng sâu sẽ mang lại \"bình yên\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "来訪した音階は……『お気に入り』だから。\n深層への共鳴は『やすらぎ』になるよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "——Lấp đầy đoạn tuyệt. Tôi không rõ đó là hành động gì và mang lại hiệu quả ra sao. Thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "――断絶を埋める。それがどういう行為で、\nどのような効果があるのかはわからない。だが……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thiếu nữ này xem ra không phải là người mang lại hiểm họa cho xung quanh.",
+      "jpname": "モノローグ",
+      "jptext": "この少女はどうやら、\n周りに害をもたらす者ではなさそうだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Thành phần trực thuộc của anh…… là \"người dưỡng dục\". Được gọi là…… \"Trainer\" sao?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "あなたの所属は……“養成者”。\n『トレーナー』……と呼ばれている？",
+      "choice_data_list": [
+        "Phải, tôi là Trainer.",
+        "Ừ, tôi là Trainer đây."
+      ],
+      "jpchoice_data_list": [
+        "ああ、トレーナーだ",
+        "うん、トレーナーだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù vẫn chưa quyết định Mã Nương đảm nhiệm, nhưng khi tôi giải thích mình là Trainer……",
+      "jpname": "モノローグ",
+      "jptext": "担当ウマ娘はまだ決まっていない。\nだがトレーナーだと説明すると……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Trainer…… Nếu là một tồn tại phù hợp…… tôi muốn thực hiện việc \"mưu cầu\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "トレーナー……。\n合致する存在ならば……“求める”をしたい。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"Quan sát\" sự \"cạnh tranh\"…… Không, là điều trường tồn hơn thế nữa ở phía trước……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "“競合”の“観測”……。\nいえ、その先へとさらに永続する……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Không chỉ dừng lại ở \"quan sát\"…… mà là \"???\"……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "“観測”に留まらない……『？？？』……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "……Có vẻ em ấy đang muốn bày tỏ điều gì đó. Thế nhưng lại chẳng thể diễn đạt thành lời.",
+      "jpname": "モノローグ",
+      "jptext": "……何かを訴えかけてきているようだ。\nしかし、うまく言葉にできずにいる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Thiếu nữ mang hình dáng Mã Nương \"Neo Universe\" này, rốt cuộc đang mong muốn điều gì?",
+      "jpname": "モノローグ",
+      "jptext": "このウマ娘の姿をした少女“ネオユニヴァース”は、\n何を欲しているのだろうか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Trước hết là \"hiện thực hóa\". Làm cho nó trở nên \"hữu hình\"……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "まずは“具現”。\n“可視である”をすること……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Nếu không làm thế thì chẳng thể \"tiến vào quỹ đạo\"……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "それをしなければ“軌道に乗る”ができない……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe ngước nhìn lên bầu trời đêm. Tò mò liệu có gì ở đó, tôi cũng ngước nhìn theo, và định bảo rằng \"tôi chẳng thấy gì cả\" thì……",
+      "jpname": "モノローグ",
+      "jptext": "夜空を見上げるネオユニヴァース。何かあるのかと自分も見上げ、\n“何も見えないけど”と伝えようとすると……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bóng dáng ấy…… đã biến mất. Tựa như tan biến vào đường ranh giới của không thời gian.",
+      "jpname": "モノローグ",
+      "jptext": "その姿は……消えていた。\nまるで時空の稜線に溶け去るかのように。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Neo Universe\"…… liệu có thật sự tồn tại? Hay tôi vừa nhìn thấy ảo ảnh nào đó?",
+      "jpname": "モノローグ",
+      "jptext": "“ネオユニヴァース”は……本当に存在したのだろうか？\nあるいは幻か何かを見たのだろうか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "——Vài ngày sau đó. Tại khu vực diễn ra cuộc đua mô phỏng.",
+      "jpname": "モノローグ",
+      "jptext": "――その数日後。\n模擬レースの会場にて。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Hôm nay có khá nhiều cô bé đầy tiềm năng tham gia đấy nhỉ.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "今日は結構、有力な娘たちが出るのよねぇ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer trung cấp B",
+      "text": "Ừ, mong chờ xem cuộc đua sẽ ra sao quá. Trong số đó thì……",
+      "jpname": "中堅トレーナーB",
+      "jptext": "ああ、どんなレースになるのか楽しみだ。\n中でも……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "A, ai thế kia……?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "だ、誰……？",
+      "choice_data_list": [
+        "Em là……!?",
+        "Em là……!?"
+      ],
+      "jpchoice_data_list": [
+        "君は……！？",
+        "貴方は……！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thiếu nữ mang tên \"Neo Universe\" bỗng nhiên xuất hiện tại trường đua. Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "あの少女“ネオユニヴァース”は忽然と会場に現れた。\nそして――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Sẽ thực hiện…… \"tranh tài\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "『競走』……をする。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe sẽ…… \"STDA\"…… Thu nhận \"khớp thần kinh\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースは……“STDA”……。\n“シナプス”を獲得する。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Giữa sự ngỡ ngàng của mọi người, em ấy chẳng hề bận tâm mà bước thẳng ra đường đua cỏ. Cứ thế, thiếu nữ bí ẩn đã bất ngờ tham gia vào cuộc đua.",
+      "jpname": "モノローグ",
+      "jptext": "皆が唖然とする中、気にすることなくターフへと歩んでいく。\nこうして謎の少女は予期せずしてレースに出走することになった。",
+      "choice_data_list": []
+    }
+  ]
+}

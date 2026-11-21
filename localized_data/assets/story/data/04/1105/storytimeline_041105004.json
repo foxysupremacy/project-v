@@ -1,0 +1,430 @@
+{
+  "title": "Bản giao tín 4: Tổng kết và triển vọng về thân phận thực sự",
+  "jptitle": "交信録4・正体についての総括、展望",
+  "text_block_list": [
+    {
+      "name": "Neo Universe",
+      "text": "Đêm hôm ấy, \"tôi\"…… đã……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "あの夜、『わたし』……は……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Những người có thể bước lên sân thượng đã khóa, dĩ nhiên là có vài người. Đúng vậy, chẳng hạn như——",
+      "jpname": "モノローグ",
+      "jptext": "施錠された屋上に入れる存在は、もちろん何人かいる。\nそう、例えば――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu là một \"Trainer\" thì ai cũng có thể. Giống như tôi ngày hôm ấy, chỉ cần mượn chìa khóa từ nhân viên trực đêm là có thể ra vào dễ dàng.",
+      "jpname": "モノローグ",
+      "jptext": "“トレーナー”であるなら、誰でも。あの日の自分のように\n宿直員から鍵を借りれば、簡単に出入りすることができる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Có lẽ nào vào đêm hôm đó, Neo Universe……",
+      "jpname": "モノローグ",
+      "jptext": "もしかしたらネオユニヴァースは、あの夜……。",
+      "choice_data_list": [
+        "Em đã ở cùng một Trainer khác sao?",
+        "Em từng ở bên một Trainer khác ư?"
+      ],
+      "jpchoice_data_list": [
+        "別のトレーナーと一緒にいたのか？",
+        "別のトレーナーと一緒にいたの？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………………… ——Hồi tưởng.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。\n――回想。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Hồi tưởng. Bản ghi chép \"giao tín\"——của \"ngày X\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "回想。“エックスデー”の――“交信”記録。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Neo Universe, cảm ơn em đã đến. Điều tôi muốn nói là……",
+      "jpname": "あるトレーナー",
+      "jptext": "ネオユニヴァース、来てくれてありがとう。\n話したいことっていうのはね……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Về bản hợp đồng Trainer chính thức với em. Tôi nghĩ…… tốt nhất là chúng ta không nên ký kết.",
+      "jpname": "あるトレーナー",
+      "jptext": "貴方との正式なトレーナー契約についてよ。\nやっぱり……結ばないほうがいいと思うの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…………………… Khuyến nghị…… \"không ký kết\" sao? Đó là do…… tôi thiếu \"tốc độ\" ư?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。“未締結”……が推奨される？\nそれは……『スピード』が足りないから？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Không, tôi hoàn toàn công nhận tài năng của em. Ngay lần đầu thấy em chạy, tôi đã tin chắc cô bé này sẽ tiến tới \"Nippon Derby\"!",
+      "jpname": "あるトレーナー",
+      "jptext": "ううん、貴方の才能は認めてる。初めて走りを見た時に\nこの娘は『日本ダービー』に行く！　って思ったもの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Thế nhưng tôi không thể giao tiếp thuận lợi với em. Em đang nói gì, đang cảm thấy ra sao, thật lòng tôi không thể nào hiểu nổi……",
+      "jpname": "あるトレーナー",
+      "jptext": "でも貴方とは意志の疎通がうまくできない。\n何を言っているのか、感じているのか、正直わからない……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……………………",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Hơn nữa…… Thật ra trước em, đã có một Mã Nương khác chủ động ngỏ lời ký hợp đồng với tôi.",
+      "jpname": "あるトレーナー",
+      "jptext": "それにね……。実は貴方より前に、\n契約を申し出てくれたウマ娘がいるの。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Tôi muốn trọn nghĩa với em ấy. Vì vậy, nếu buộc phải chọn một trong hai thì……",
+      "jpname": "あるトレーナー",
+      "jptext": "彼女への義理も果たしたい。\nだから、どちらかを選ばなきゃいけないなら……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Một Trainer nọ",
+      "text": "Tôi thật sự xin lỗi. Dù không thể trở thành Trainer của em, tôi vẫn cầu chúc cho em gặt hái thành công.",
+      "jpname": "あるトレーナー",
+      "jptext": "ごめんね、本当に。トレーナーにはなれないけど、\n貴方の成功、祈ってるから。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tóm lại câu chuyện của Neo Universe là như vậy. Em ấy được một Trainer khác gọi ra để rồi bị từ chối ký hợp đồng. Thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースの話は、要約するとそういうことだった。\n別のトレーナーから呼び出され、契約を断られた。だが……。",
+      "choice_data_list": [
+        "Vậy còn \"âm thanh UFO\" kia là……?"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、あの“UFOの音”は……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Âm thanh kỳ lạ phát ra từ sân thượng hôm đó. Rốt cuộc chân tướng của âm thanh ấy là gì?",
+      "jpname": "モノローグ",
+      "jptext": "屋上から聞こえた奇妙な音。\nあの音の正体は何だったのだろうか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Âm thanh…… của \"UFO\"…… Có phải là…… cái này không……?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "『UFO』の……音……。\nもしかして……これ……？",
+      "choice_data_list": [
+        "Bài hát đó là……?"
+      ],
+      "jpchoice_data_list": [
+        "その曲は……？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Đây là bài hát mà Neo Universe \"yêu thích\". Mỗi khi lắng nghe khúc ca này——",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースが『お気に入り』にした曲なんだ。\nこれを聴くと――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "\"Đoạn tuyệt\" sẽ được lấp đầy…… Sự cộng hưởng vào tầng sâu sẽ mang lại \"bình yên\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "“断絶”が埋まる……。\n深層への共鳴は『やすらぎ』になるよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Đoạn dạo đầu của bài hát ưa thích…… Hóa ra em ấy đã nghe bản nhạc này để xoa dịu sự đoạn tuyệt…… tức là nỗi đau xót khi mối liên kết bị cắt đứt.",
+      "jpname": "モノローグ",
+      "jptext": "お気に入りの曲のイントロ……。どうやらこの音楽を聴いて、\n断絶……すなわち関係の切れた悲しみを癒していたようだった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe——muốn được kết nối…… và thực hiện việc \"chạy\".",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースは――つながって……\n『走る』をしたかった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Dù ngôn từ bị \"CUTT\"——nhưng chỉ cần chạy là có thể \"kết nối\". Bởi vì…… các cá thể khác cũng có thể cảm nhận được……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "言葉は“CUTT”でも――走れば“コネクト”できる。\n他の個体にも感じてもらえる……から……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe chỉ muốn thực hiện việc \"mưu cầu\"…… Thế nhưng…… lại là \"STDA\"……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースはただ“求める”をしたかった……。\nだけど……“STDA”……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "——Những lời giãi bày nhuốm màu cô quạnh. Ý nghĩa của chúng…… tôi đã phần nào đoán được. Nhờ khoảng thời gian ở bên nhau, mức độ thấu hiểu của tôi cũng đã tăng lên.",
+      "jpname": "モノローグ",
+      "jptext": "――寂しげに語られる言葉。その意味は……どうにか推測できた。\nしばらく一緒に過ごしたことにより、理解度も上がった。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Neo Universe chẳng phải sinh mệnh thể bí ẩn nào cả. Em ấy là một Mã Nương muốn thông qua những bước chạy để thấu hiểu người khác và hướng tới điều gì đó xa hơn. Và rồi……",
+      "jpname": "モノローグ",
+      "jptext": "ネオユニヴァースは謎の生命体などではない。走りを通じて、\n他者とわかり合い、その先の何かを目指すウマ娘。そして……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chỉ vì cách nói năng khó hiểu mà con đường phía trước đã bị chặn đứng ngay từ đầu. Có lẽ em ấy là một Mã Nương đáng thương như vậy……",
+      "jpname": "モノローグ",
+      "jptext": "言葉が難解というだけで、最初からその道を断たれてしまった。\nそんな悲しいウマ娘なのかもしれない……。",
+      "choice_data_list": [
+        "Em muốn \"mưu cầu\" một \"sự kết nối\" đúng không?",
+        "Em đang muốn \"mưu cầu\" một \"mối liên kết\" nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "君は“つながり”を“求めたい”んだな？",
+        "貴方は“つながり”を“求めたい”んだね？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "——Affirmative. \"Quỹ đạo\"…… không còn nữa. Tôi chẳng thể nhìn thấy……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "――アファーマティブ。\n“軌道”が……ない。見えないの……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe…… không muốn quay trở lại trạng thái \"mặc định\" đâu……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ネオユニヴァースは……\n“デフォールト”に戻る、をしたくない……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi không biết điều gì đang chờ đợi phía trước trên con đường thiếu nữ này đi. Càng không rõ nó mang ý nghĩa gì. Thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "この少女の進む先に、何があるのかはわからない。\nどんな意味があるのかも。だが――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy khao khát được chạm tới đích đến đó. Chỉ bấy nhiêu thôi là đã quá đủ rồi. Nếu đã vậy, chúng tôi hoàn toàn có thể \"kết nối\" cùng hướng về phía ấy.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はたどり着きたいと願っている。それだけで十分だった。\nならば、そこに向けて“つながる”ことはできる。",
+      "choice_data_list": [
+        "Hãy để tôi…… được góp sức giúp em nhé?",
+        "Hãy để tôi…… chung tay cùng em nhé?"
+      ],
+      "jpchoice_data_list": [
+        "俺に……力にならせてくれる？",
+        "私に……力にならせてくれる？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Sức mạnh……?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "チカラ……？",
+      "choice_data_list": [
+        "Ừ, như thế này này.",
+        "Ừm, như thế này nè."
+      ],
+      "jpchoice_data_list": [
+        "ああ、こんなふうに",
+        "うん、こんなふうに"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi nắm lấy hai bàn tay trước mặt em. Nếu là cử chỉ tay thông dụng toàn nhân loại, à không, toàn vũ trụ thế này thì chắc hẳn……",
+      "jpname": "モノローグ",
+      "jptext": "目の前で、2つの手を結び合わせる。\n万国共通、いや宇宙共通のハンドサインならきっと……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……\"Kết nối\"?",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……“コネクト”？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Cuộc cách mạng…… Copernic…… \"ASEM\" trở thành \"LAMD\"…… Thành ánh sáng……",
+      "jpname": "ネオユニヴァース",
+      "jptext": "コペルニクス的……転回……。\n“ASEM”が“LAMD”に……。光、に……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "……Sphira. Thật sự…… rất Sphira, nhỉ.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "……スフィーラ。とても……スフィーラ、だね。",
+      "choice_data_list": [
+        "……Sphira?"
+      ],
+      "jpchoice_data_list": [
+        "……スフィーラ？"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "——Sphira!",
+      "jpname": "ネオユニヴァース",
+      "jptext": "――スフィーラ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi không hiểu khái niệm hàm chứa trong từ ngữ ấy. Thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "その言葉の持つ概念はわからない。\nでもネオユニヴァースの……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Nụ cười khẽ khàng của Neo Universe đã truyền đạt trọn vẹn ý tứ. Rằng \"em chấp nhận 'bạn'\". ",
+      "jpname": "モノローグ",
+      "jptext": "かすかな笑顔が、意思を伝えてくれた。\n“『あなた』を受け入れます”と。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, tôi cùng Neo Universe chính thức ký kết hợp đồng Trainer——",
+      "jpname": "モノローグ",
+      "jptext": "そして、ネオユニヴァースと自分は\n正式にトレーナー契約を結び――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Hự……!!",
+      "jpname": "ネオユニヴァース",
+      "jptext": "ふっ……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Trainer ơi, Neo Universe sẽ \"báo cáo liên lạc trao đổi\" nhé. Kể từ lúc kích hỏa…… đang là \"đường cong đi lên\" đấy.",
+      "jpname": "ネオユニヴァース",
+      "jptext": "トレーナー、ネオユニヴァースは『報連相』するね。\n点火から……“上昇曲線”だよ。",
+      "choice_data_list": [
+        "Ừ, phong độ tuyệt vời lắm!",
+        "Ừm, đỉnh hết mức luôn!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、絶好調だな！",
+        "うん、絶好調だね！"
+      ]
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Này…… bộ đôi đó trông lạ lùng ghê nhỉ. Sao họ có thể nói chuyện hiểu nhau được ta?",
+      "jpname": "ウマ娘A",
+      "jptext": "ねえ……あのコンビ、なんか変わってるよね。\nどうして会話通じるのかな？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Ai biết…… Nhưng Neo Universe có vẻ ngoan hơn mình tưởng. Cảm giác ấn tượng về cậu ấy đã thay đổi đôi chút rồi.",
+      "jpname": "ウマ娘B",
+      "jptext": "さあ……。でもネオユニヴァースって、思ったより\nいい子そう。少しイメージ変わったっていうか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Những hiểu lầm cũng đang dần dần được hóa giải. Đúng vậy, Neo Universe không phải sinh mệnh thể bí ẩn, mà chỉ là một Mã Nương có chút khác biệt.",
+      "jpname": "モノローグ",
+      "jptext": "誤解も徐々に解けつつある。そう、ネオユニヴァースは\n謎の生命体ではなく、少し変わっているだけのウマ娘。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ nay hai chúng tôi sẽ cùng chung một giấc mơ——",
+      "jpname": "モノローグ",
+      "jptext": "これからは2人で同じ夢を――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Chào mọi người ạ! Trainer ơi, chị Uni…… đâu rồi ạ?",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "お疲れ様ですっ！　トレーナーさん、ユニ……さん？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ủa? Vừa nãy anh còn ở cùng chị Uni cơ mà? Rõ ràng vừa ở đây……",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "あれ？　今、ユニさんと一緒じゃありませんでしたか？\nたしか、ここに……。",
+      "choice_data_list": [
+        "——!?"
+      ],
+      "jpchoice_data_list": [
+        "――！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Rõ ràng là vừa ở cùng nhau…… Thế nhưng bóng dáng Neo Universe lại chẳng thấy đâu…… Xem ra vẫn chưa thể khẳng định chắc nịch rằng em ấy không phải là sinh mệnh thể bí ẩn.",
+      "jpname": "モノローグ",
+      "jptext": "一緒だったはず……。しかしネオユニヴァースの姿はどこにも……。\n謎の生命体ではないとは、まだ言い切れないようだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người thuyết minh",
+      "text": "Trong vũ trụ bao la này——tồn tại những dạng sống chưa được biết đến mà chúng ta không thể nào quan sát.",
+      "jpname": "ナレーション",
+      "jptext": "この広大な宇宙には――我々には観測できない\n未知の生命体が存在する。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Người thuyết minh",
+      "text": "Vị khách viếng thăm thông tuệ vừa mới giáng lâm này sẽ mang lại điều gì cho hành tinh này, hiện tại vẫn chưa một ai hay biết.",
+      "jpname": "ナレーション",
+      "jptext": "降り立ったばかりの聡明な来訪者が、\nこの星に何をもたらすのかは、まだ誰にもわからない。",
+      "choice_data_list": []
+    }
+  ]
+}
