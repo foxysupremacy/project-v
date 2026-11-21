@@ -1,0 +1,444 @@
+{
+  "title": "Khổ Luyện Mới Thành Tài",
+  "jptitle": "Ohne Fleiß kein Preis",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "——Quay ngược thời gian về vài ngày trước trận tuyển trạch.",
+      "jpname": "モノローグ",
+      "jptext": "――時は少し遡り、選抜レースの数日前。"
+    },
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ. Khi đang đi dạo dọc bờ sông, tôi bắt gặp Eishin Flash đang tập luyện. Thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "休日。河川敷を歩いていると、\nトレーニング中のエイシンフラッシュを見かけた。だが――"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "——...Hà... hà... Bắt đầu nghỉ ngơi——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "――……はぁっ……はぁっ……。\n休憩開始――"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như em ấy đang tự đẩy mình vào cường độ tập luyện rất gắt gao. Từ vẻ mặt đau đớn, có thể thấy rõ sự mệt mỏi đã tích tụ đến mức nào.",
+      "jpname": "モノローグ",
+      "jptext": "どうやら、相当追い込んでトレーニングをしているらしい。\n苦しげな表情から、疲労の溜まっている様子が見てとれる。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hà... phù... Hết giờ nghỉ...",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "は……ふぅ……休憩、終了……。",
+      "choice_data_list": [
+        "(Nhanh vậy!?)"
+      ],
+      "jpchoice_data_list": [
+        "（早い！？）"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hà... Tiếp theo là——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "はぁ……次は――",
+      "choice_data_list": [
+        "Em nên nghỉ thêm chút nữa đi...!"
+      ],
+      "jpchoice_data_list": [
+        "もう少し休憩した方が……！"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ứ... Bạn là...?",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "っ……？　貴方は……？"
+    },
+    {
+      "name": "",
+      "text": "Tôi giới thiệu lại mình là Trainer của Học viện Tracen, và nhắc rằng trông em ấy vẫn cần phải nghỉ ngơi thêm, nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "改めてトレセン学園のトレーナーだと名乗り、\nまだ休息が必要そうに見えると指摘してみたのだが――"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Không ạ... phù. ...Không ảnh hưởng gì đâu ạ. Nghỉ ngắn là điều đã được ấn định trong lịch trình rồi.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "いえっ……ふぅ。……支障はありません。\n休憩が短いのはスケジュールで決めていたことなので。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cảm giác mệt mỏi vào lúc 15 giờ hôm nay, tức là thời điểm này, hoàn toàn nằm trong dự tính. Em dự định sẽ lấy lại sức vào quãng nghỉ 30 phút tiếp theo.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "今日の15時、つまりこの時間での疲労感は想定通り。\n次に用意した30分の休憩で息を整える予定です。"
+    },
+    {
+      "name": "",
+      "text": "Dường như em ấy có niềm tin tuyệt đối vào lịch trình do chính mình vạch ra, và kiên quyết tuân theo nó bằng mọi giá. Nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "彼女はどうやら、自分の作ったスケジュールに絶対の自信があり、\nその通りに進行することにこだわっているらしい。だが……。",
+      "choice_data_list": [
+        "Nếu có chuyện ngoài dự kiến xảy ra thì em tính sao?",
+        "Nếu có chuyện ngoài dự kiến xảy ra thì bạn tính sao?"
+      ],
+      "jpchoice_data_list": [
+        "予定外のことが起こったらどうするんだ？",
+        "予定外のことが起こったらどうするの？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Đương nhiên em đã chừa lại một khoảng dự phòng nhất định. Chẳng hạn như lúc này, việc nói chuyện với anh đã làm trễ mất 4 phút 25 giây...",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "当然、ある程度のバッファはとっています。例えば今、\n貴方と話していることで4分25秒の遅れが生じていますが……。",
+      "choice_data_list": [
+        "A... xin lỗi em"
+      ],
+      "jpchoice_data_list": [
+        "あ……ごめん"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Không sao đâu ạ. Em chỉ cần cắt bớt 5 phút nghỉ sau đó là có thể quay lại đúng lịch trình ban đầu thôi.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "いえ、構いません。この後の5分の休憩を削り、\n元のスケジュールに戻ればいいだけですから。",
+      "choice_data_list": [
+        "Cắt bớt giờ nghỉ á!?",
+        "Cắt bớt giờ nghỉ sao!?"
+      ],
+      "jpchoice_data_list": [
+        "休憩を削るのか！？",
+        "休憩を削るの！？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Em biết rõ làm vậy là hơi gượng ép. Lần này vì muốn đạt được mục tiêu nên em đã lên lịch trình rất dày đặc, thời gian chừa ra cũng ít hơn thường lệ.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "若干の無理は承知の上です。今回は目標まで密度の高い\nスケジュールを組んだため、普段より時間的猶予を抑えています。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hoàn thành lịch trình này một cách hoàn hảo là ưu tiên hàng đầu. Nếu không thì...——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "このスケジュールを完璧にこなすことが最優先です。\nでなければ……――",
+      "choice_data_list": [
+        "(......?)"
+      ],
+      "jpchoice_data_list": [
+        "（……？）"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Đã trôi qua 5 phút 45 giây. Vì muốn tránh lãng phí thêm thời gian, em xin phép.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……5分45秒経過。これ以上の時間的ロスは避けたいので、\n失礼します。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Em quên mất. Cảm ơn vì sự quan tâm của anh. Chào anh.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……言い忘れていました。\nご心配ありがとうございます。それでは。"
+    },
+    {
+      "name": "",
+      "text": "Tôi hiểu rằng Eishin Flash đang dồn nhiệt huyết phi thường cho trận đua sắp tới. Nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "今度のレースに向け、エイシンフラッシュの気合いは充分……\nというよりも、肩の力が入りすぎているようにも見えた。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, đêm trước ngày diễn ra trận tuyển trạch đã đến——",
+      "jpname": "モノローグ",
+      "jptext": "選抜レースは確かに重要だが、年に数回チャンスはある。\n今回どうしてもデビューしたい理由があるのかと考えていると――"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tình cờ, tôi đi ngang qua khu vực sinh hoạt chung của ký túc xá. Người đang ở đó là...",
+      "jpname": "スマートファルコン",
+      "jptext": "こ・ん・に・ち・は～～っ☆\nファル子ともちょこっとお話、いいかな？",
+      "choice_data_list": [
+        "!! Em là...",
+        "!! Bạn là..."
+      ],
+      "jpchoice_data_list": [
+        "！！君は……",
+        "！！貴方は……"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Trainer-san. Thật tình cờ. Giờ này anh còn ở đây có việc gì sao?",
+      "jpname": "スマートファルコン",
+      "jptext": "――ファル子、フラッシュさんと同室なんだ。\nだから今、すごーく頑張ってるのも知ってるの。",
+      "choice_data_list": [
+        "Chẳng lẽ lý do em ở đây cũng là vì chuyện đó?"
+      ],
+      "jpchoice_data_list": [
+        "もしかしてその理由も？"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "(Cộc, cộc, cộc...)",
+      "jpname": "スマートファルコン",
+      "jptext": "……ふふっ。もちろん！\n今からする話は、オフレコでお願いね？"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Gõ 3 tiếng lên mặt bàn phòng sinh hoạt chung, Eishin Flash nói.",
+      "jpname": "スマートファルコン",
+      "jptext": "今度の選抜レースには、ドイツからフラッシュさんの\nご両親が観に来るんだって！",
+      "choice_data_list": [
+        "Cha mẹ em..."
+      ],
+      "jpchoice_data_list": [
+        "ご両親が……"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Vâng. Anh cũng biết sao. Hành động gõ lên gỗ 3 lần là một bùa cầu may ở Đức đấy ạ.",
+      "jpname": "スマートファルコン",
+      "jptext": "フラッシュさんの実家って、人気のケーキ屋さんみたいでね？\n超忙しい中来てくれるから、フラッシュさんも張り切ってるの。"
+    },
+    {
+      "name": "",
+      "text": "Dù chiếc bàn này là gỗ ép, khó mà gọi là gỗ thực thụ... nhưng làm vậy vẫn tốt hơn là không.",
+      "jpname": "モノローグ",
+      "jptext": "肩の力が入る理由も、今回に賭ける事情もわかった。しかし成長の\nためとはいえ、なぜあそこまでスケジュールに固執するのだろうか。"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eishin Flash thoáng hiện vẻ bất an. Muốn làm dịu đi bầu không khí căng thẳng của em ấy, tôi cất lời.",
+      "jpname": "スマートファルコン",
+      "jptext": "とりあえず、ファル子が今言えるのはそれくらいかな？",
+      "choice_data_list": [
+        "Sao em lại kể cho anh nghe vậy?",
+        "Sao bạn lại kể cho tôi nghe vậy?"
+      ],
+      "jpchoice_data_list": [
+        "なんで俺に教えてくれたんだ？",
+        "なんで私に教えてくれたの？"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Có lẽ vì khi nói ra, em muốn sắp xếp lại tâm trạng của mình.",
+      "jpname": "スマートファルコン",
+      "jptext": "ん～とね……ピピッ！　ときたから、かな☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lúc đó, tôi chợt nhớ lại. Chuyện lần trước khi em ấy buộc lại dây giày.",
+      "jpname": "スマートファルコン",
+      "jptext": "2人が話してるところを見てて、思ったの。あなたなら、\nフラッシュさんのいいところをわかってくれそうだなって☆",
+      "choice_data_list": [
+        "......?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "À... Đó là vì người ta quan niệm giẫm phải dây giày là điềm gở. Do lỡ giẫm phải nên em đã buộc lại ạ.",
+      "jpname": "スマートファルコン",
+      "jptext": "フラッシュさんのこと、気になってるんでしょ？\n……だったらしっかり、見ててあげてね☆"
+    },
+    {
+      "name": "",
+      "text": "Ở Đức có rất nhiều điều mê tín, chẳng hạn như chạm vào người thợ quét ống khói sẽ mang lại may mắn, hay nhìn thấy nhện cũng là điềm may...",
+      "jpname": "モノローグ",
+      "jptext": "――選抜レースの前日。スマートファルコンの言葉の意味を\n考えつつ、学園内を歩いていると……。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Và cả——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "toi,toi,toi……――",
+      "choice_data_list": [
+        "(Có tiếng động? Hơn nữa, giọng nói này là——)"
+      ],
+      "jpchoice_data_list": [
+        "（音がする？それに、この声は――）"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "(Cộc, cộc, cộc) Toi, toi, toi......——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……っ。\nあ……貴方は、この間お会いした……。",
+      "choice_data_list": [
+        "Hình như có tiếng gì đó..."
+      ],
+      "jpchoice_data_list": [
+        "何か物音がしたけど……"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...! Anh nghe thấy rồi sao.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……両親から教わった、ドイツのおまじないです。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Vừa gõ bàn 3 lần, vừa lẩm bẩm \"toi, toi, toi\". Người ta bảo âm thanh đó có thể xua đuổi tà ma và giữ lại may mắn.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "机を3回叩きながら、『toi,toi,toi……』と繰り返す。\nその音で魔を祓い、幸運を守ってくれるそうです。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dù có thể chỉ để an ủi tâm lý, nhưng em muốn ngày mai không xảy ra bất kỳ điều gì ngoài dự kiến dù là nhỏ nhất...",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "気休めかもしれませんが、明日に万が一にも\n予定外のことが起こらないようにしたいので……。",
+      "choice_data_list": [
+        "Em có điều gì lo lắng sao?",
+        "Bạn có điều gì lo lắng sao?"
+      ],
+      "jpchoice_data_list": [
+        "懸念でもあるのか？",
+        "懸念でもあるの？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Cũng không hẳn là vậy ạ. Chỉ là ngày mai, cha mẹ sẽ tranh thủ thời gian bận rộn để đến xem em thi đấu.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……そういうわけでは、ありませんが。\n明日は両親が、多忙の合間を縫ってレースを観に来てくれます。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Thực hiện đúng đắn công việc chuẩn xác để mang lại kết quả hoàn hảo. Thể hiện được điều đó là sứ mệnh tuyệt đối của em với tư cách một người con gái.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "正しい仕事を正しく行い、完璧な結果を導く。\nその姿を見せることが、娘として絶対の使命なので。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Nếu lỡ cho cha mẹ thấy một kết quả ngoài dự kiến... một kết quả thảm hại, chắc hẳn hai người sẽ chẳng thể tự hào về em...",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "仮に予定外の……情けない結果を見せてしまえば、\n2人は私を誇りに思わないでしょうから……。",
+      "choice_data_list": [
+        "...Có thật là vậy không?"
+      ],
+      "jpchoice_data_list": [
+        "……そういうものかな？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ý anh là sao ạ?",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……それは、どういう意味ですか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi chưa hiểu nhiều về em ấy, càng không rõ về cha mẹ em. Nhưng chỉ cần nhìn dáng chạy của em, bất kỳ ai cũng có thể nhận ra em là một người nỗ lực đến nhường nào.",
+      "jpname": "モノローグ",
+      "jptext": "彼女のこともよく知らないし、ましてや両親のことなどわからない。\nだが、彼女の走る姿を見れば大変な努力家なことは誰でもわかる。",
+      "choice_data_list": [
+        "Anh nghĩ sự nỗ lực của em rất đáng để tự hào",
+        "Tôi nghĩ sự nỗ lực của bạn rất đáng để tự hào"
+      ],
+      "jpchoice_data_list": [
+        "君の努力は誇りに値するものだと思う",
+        "貴方の努力は誇りに値するものだと思う"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ư, đó là ngụy biện. Lời động viên vô nghĩa... xem nhẹ quy tắc và lý lẽ...",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……っ、詭弁ですね。\n規則や理屈を軽んじた……意味のない励ましです……。",
+      "choice_data_list": [
+        "(......?)"
+      ],
+      "jpchoice_data_list": [
+        "（……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giờ tôi mới nhận ra, dáng vẻ của em ấy rất lạ. Em ấy vừa nói vừa phải thở dốc, trông sắc mặt có vẻ không khỏe...",
+      "jpname": "モノローグ",
+      "jptext": "今気づいたが、彼女の様子がおかしい。\nどこか息をつきながらで、体調が悪そうに見える……。",
+      "choice_data_list": [
+        "Chẳng lẽ em thấy không khỏe trong người sao?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして具合が悪い？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Có lẽ lịch trình có hơi quá sức một chút, nhưng em đã hoàn thành mọi điều cần thiết để tiến bộ.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……少しばかり無理なスケジュールだったかもしれませんが、\n成長に必要なことは全て達成しました。"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Vì thế chút mệt mỏi này vẫn nằm trong sai số cho phép. Hôm nay em đã xếp lịch nghỉ ngơi hoàn toàn, dự kiến ngày mai sẽ bình phục.",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "ですからこの程度の体調不良は誤差の範囲内。\n今日は全休にしているので、明日には回復する予定です。"
+    },
+    {
+      "name": "",
+      "text": "...Dù nói vậy nhưng suốt cuộc trò chuyện, tôi không hề cảm nhận được chút sinh khí nào. Thật khó tin rằng em ấy có thể hồi phục hoàn toàn vào ngày mai...",
+      "jpname": "モノローグ",
+      "jptext": "……などと話している間も、覇気を感じられない。\n明日に全快するとはとても思えないが……。",
+      "choice_data_list": [
+        "Em nên cân nhắc việc nghỉ ngơi vào ngày mai đi——"
+      ],
+      "jpchoice_data_list": [
+        "明日休むことも考えてみた方が――"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ư, không thể nào!",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "……っ、ありえません！",
+      "choice_data_list": [
+        "......!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Trong kế hoạch không có chuyện ngày mai em không chạy. Em đã cố gắng hết mình để hướng tới kết quả hoàn hảo là chiến thắng trận đua mà...!",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "明日走らないという予定はありません。\nレースで勝つという、完璧な結果を目指して頑張ったんです……！"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Thực hiện lịch trình không một chút sai sót, tuân thủ đúng các bước đã định. Nếu không thì... nếu kh-không thì——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "1つの狂いもなくスケジュールを遂行し、\n決められた手順を全うする。でなければ……でな、ければ――"
+    },
+    {
+      "name": "",
+      "text": "(Bịch......)",
+      "jpname": "モノローグ",
+      "jptext": "（ドサッ……）",
+      "choice_data_list": [
+        "Flash......!?"
+      ],
+      "jpchoice_data_list": [
+        "フラッシュ……！？"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tất cả... sẽ xáo trộn mất...——",
+      "jpname": "エイシンフラッシュ",
+      "jptext": "全てが狂ってしまう……から……――"
+    }
+  ]
+}
