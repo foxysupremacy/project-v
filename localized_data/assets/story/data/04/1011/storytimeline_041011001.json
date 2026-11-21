@@ -1,0 +1,370 @@
+{
+  "title": "Đoan trang nhã nhặn",
+  "jptitle": "慎ましく",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một buổi trưa nọ——",
+      "jpname": "モノローグ",
+      "jptext": "ある日の昼下がり――"
+    },
+    {
+      "name": "",
+      "text": "Bất chợt nổi hứng đi mua sắm ở một nơi xa lạ chưa từng đến, tôi đã bị lạc đường. Giữa lúc đang bối rối chẳng biết phải làm sao thì……",
+      "jpname": "モノローグ",
+      "jptext": "ふと思い立ち、いつもは行かない遠い場所へ買い出しに出たら、\n道に迷ってしまった。どうしたものかと困り果てていると……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dạ... xin lỗi anh.",
+      "jpname": "グラスワンダー",
+      "jptext": "あの～、すみません。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Có phải anh là Trainer của học viện không ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "もしかして、学園所属の\nトレーナーさんではありませんか？",
+      "choice_data_list": [
+        "Đúng là vậy, nhưng mà……"
+      ],
+      "jpchoice_data_list": [
+        "そうですが……"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "A, đúng là anh rồi. Em cứ thấy gương mặt này quen quen, hình như đã gặp vài lần trong học viện.",
+      "jpname": "グラスワンダー",
+      "jptext": "あっ、やっぱり～。学園内で何度か\nお見かけした顔だなーと思ったんです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mà trông anh có vẻ đang gặp khó khăn, đã có chuyện gì xảy ra vậy ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "ところで、何かお困りのように見えましたが、\nどうなさったのですか？"
+    },
+    {
+      "name": "",
+      "text": "Trước lời hỏi thăm ân cần của Grass Wonder, tôi thú thật rằng đây là lần đầu mình đi xa đến khu vực này nên đã bị lạc đường……",
+      "jpname": "モノローグ",
+      "jptext": "親切に訊ねてくれたグラスワンダーに、初めてこの辺りまで\n足を伸ばしてみたら迷ってしまったことを正直に話した……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi trời, vậy thì phiền phức thật đấy ạ!",
+      "jpname": "グラスワンダー",
+      "jptext": "まあまあ、それは大変！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nếu anh không phiền, em sẽ dẫn đường cho anh về học viện nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "私でよければ、学園までご案内しますよ。",
+      "choice_data_list": [
+        "Có được không em?",
+        "Có được không bạn?"
+      ],
+      "jpchoice_data_list": [
+        "いいのか？",
+        "いいの？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, đằng nào em cũng đang trên đường trở về mà. \"Đi đường cần bạn, ở đời cần tình\" mà anh♪",
+      "jpname": "グラスワンダー",
+      "jptext": "ええ、私もちょうど帰るところですから。\n『旅は道連れ、世は情け』です♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em hay đến khu này để mua đồ cho sở thích của mình nên khá rành đường sá ở đây. Anh cứ yên tâm giao cho em nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "この辺りには趣味のものをよく買いに\n来るので、一応地理にも詳しいんですよ。ど～んとお任せください。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vậy chúng ta cùng đi thôi ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "では、参りましょうか。"
+    },
+    {
+      "name": "",
+      "text": "Đồng hành cùng nàng Mã Nương tốt bụng Grass Wonder, tôi thong thả từng bước quay trở về học viện……",
+      "jpname": "モノローグ",
+      "jptext": "親切なウマ娘、グラスワンダーと一緒に\nゆっくりゆっくり学園を目指して歩いた……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Phù... Đi đến đây rồi thì chỉ còn một đoạn ngắn nữa là tới học viện thôi ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふ～。ここまで来れば、学園までは\nあともう少しですよ。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trời đã ngả bóng hoàng hôn rồi nhỉ. Tại em cứ mải thong thả tản bộ... Em xin lỗi anh nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "すっかり日が暮れてしまいましたね～。\n私、ついついのんびり歩いてしまって……すみません。",
+      "choice_data_list": [
+        "Vừa đi vừa ngắm cảnh cũng rất thú vị mà em"
+      ],
+      "jpchoice_data_list": [
+        "景色を楽しみながら歩くのも楽しかったよ"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi, vậy sao ạ. Hóa ra Trainer-san lại là một người biết thưởng thức \"Mono no aware\".",
+      "jpname": "グラスワンダー",
+      "jptext": "あら、まあ。トレーナーさんは、\n『もののあはれ』を楽しめる方なのですね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Như vần thơ \"Khi ráng chiều buông\" vậy nhỉ. Bầu trời nhuộm sắc đỏ thắm, mỗi lần ngắm lại mang một vẻ riêng, thật đẹp làm sao.",
+      "jpname": "グラスワンダー",
+      "jptext": "……『夕されば』、ですね。\n茜色に染まった空は、いつ見ても異なる彩りで、とても美しいです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cảm giác như có thể ngắm nhìn mãi không thôi…… Bởi thế mà em cứ vô thức bước chậm lại.",
+      "jpname": "グラスワンダー",
+      "jptext": "いつまでも見入っていられそう……。\nだから、ついつい足取りもゆっくりになってしまいます。"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc vừa trò chuyện vừa cùng Grass Wonder dừng chân ngước nhìn bầu trời thì——",
+      "jpname": "モノローグ",
+      "jptext": "そんなことを語らいながら、\nグラスワンダーと一緒に足を止め空を見上げていると――"
+    },
+    {
+      "name": "",
+      "text": "(Ọtttttt)",
+      "jpname": "モノローグ",
+      "jptext": "（ぐぅぅぅぅ）"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Ôi chao...",
+      "jpname": "グラスワンダー",
+      "jptext": "……あら、まあ～。",
+      "choice_data_list": [
+        "Làm hỏng bầu không khí mất rồi, xin lỗi em nhé……",
+        "Làm hỏng bầu không khí mất rồi, xin lỗi bạn nhé……"
+      ],
+      "jpchoice_data_list": [
+        "雰囲気ぶち壊しですまん……",
+        "雰囲気ぶち壊しでごめんなさい……"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Phì, không sao đâu anh. Đi bộ suốt cả quãng đường dài thế này, bụng đói cũng là lẽ đương nhiên thôi mà.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふふっ、いえいえ。歩き通しでしたし、\nお腹、空いちゃいますよね～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Đúng rồi, em có một thứ rất hợp lúc này đấy ạ. Trainer-san, anh có phiền nán lại thêm một chút thời gian nữa không?",
+      "jpname": "グラスワンダー",
+      "jptext": "そうだ、ちょうどいいものがあるんです。\nトレーナーさん、もう少しだけお時間をいただいても構いませんか？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nếu anh không phiền, xin hãy để em tiếp đãi anh bằng một buổi \"Nodate\" nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "もしよろしければ、トレーナーさんを\n『野点』でおもてなしさせてください。",
+      "choice_data_list": [
+        "\"Nodate\" sao?"
+      ],
+      "jpchoice_data_list": [
+        "『野点』？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, đó là một buổi thưởng trà ngoài trời ạ. Thưởng thức trà ngoài trời trong khi cảm nhận ánh nắng và hương vị của khí trời, là nét văn hóa tao nhã lắm đó anh.",
+      "jpname": "グラスワンダー",
+      "jptext": "はい、野外で楽しむお茶会です。お外で、日射しや空気の匂いを\n感じながらお茶をいただく、風流な文化ですよ～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sở thích của em là trà đạo mà. Hôm nay em đi xa như vậy cũng là để đặt mua bột matcha và bánh kẹo từ một cửa tiệm em ưng ý.",
+      "jpname": "グラスワンダー",
+      "jptext": "私、茶道が趣味なので。今日遠出をしていたのも\nお気に入りのお店で、お抹茶やお菓子を注文するためだったんです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em cũng đang mang theo sẵn dụng cụ đây…… Anh thấy thế nào ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "ちょうど道具も持ち歩いていましたから……\nいかがですか？",
+      "choice_data_list": [
+        "Nhất định rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ぜひ！"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tuyệt quá♪ Vậy em sẽ chuẩn bị ngay đây ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "よかったです～♪\nでは、さっそく準備しますね。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, tôi đã được thưởng thức chén trà và những món wagashi thanh tao do chính tay Grass Wonder pha chế……",
+      "jpname": "モノローグ",
+      "jptext": "それから、グラスワンダーが点ててくれた\nお茶と、上品な和菓子を楽しんだ……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Anh thấy hương vị thế nào, Trainer-san?",
+      "jpname": "グラスワンダー",
+      "jptext": "いかがでしたか、トレーナーさん？",
+      "choice_data_list": [
+        "Ngon tuyệt vời luôn em ạ"
+      ],
+      "jpchoice_data_list": [
+        "大変美味しゅうございました"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Phù, được nghe vậy thì còn gì bằng ạ♪",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふっ、それは何よりでございます♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lấp đầy cả dạ dày lẫn tâm hồn, đó chính là điểm tuyệt vời của trà đạo đấy ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "お腹も心も満たしてくれるのが、\nお茶のいいところですよね。",
+      "choice_data_list": [
+        "Em đã học trà đạo từ lâu rồi sao?",
+        "Bạn đã học trà đạo từ lâu rồi sao?"
+      ],
+      "jpchoice_data_list": [
+        "茶道は昔から習っていたのか？",
+        "茶道は昔から習っていたの？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, từ khi em còn nhỏ xíu lận.",
+      "jpname": "グラスワンダー",
+      "jptext": "ええ、小さい頃から。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trà đạo, cắm hoa, thư pháp, múa truyền thống Nhật Bản…… Ngoài ra, em còn học qua cả trường đao naginata nữa ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "茶道、華道、書道、日本舞踊……\nあと、薙刀なんかもひと通り。",
+      "choice_data_list": [
+        "Đỉnh vậy sao!?",
+        "Đỉnh vậy sao!?"
+      ],
+      "jpchoice_data_list": [
+        "すごいな！？",
+        "すごいね！？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dạ đâu có, cũng bình thường thôi mà. Chẳng qua vì quá yêu thích nên em mới học thôi ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "いえいえ、それほどでも～。\n好きが高じてのことですよ。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tuy nơi sinh của em đúng là ở Mỹ, nhưng bố mẹ em đều là những người say mê văn hóa Nhật Bản từ tận đáy lòng.",
+      "jpname": "グラスワンダー",
+      "jptext": "私、生まれは一応アメリカなのですが、\n両親がどちらも根っからの日本好きでして。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mỗi khi có dịp, bố mẹ lại giảng giải cho em nghe về vẻ đẹp tuyệt vời của văn hóa Nhật Bản... nên em cũng nảy sinh niềm đam mê từ lúc nào không hay.",
+      "jpname": "グラスワンダー",
+      "jptext": "折に触れ、日本文化の素晴らしさを\n説いてくれたので……自然と、興味が湧いてきたんです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hơn nữa ở bên đó cũng có giáo viên giảng dạy, nên em đã xin bố mẹ cho đi học đủ mọi bộ môn đấy ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "それで、向こうにも稽古の先生はいらっしゃいましたから、\n両親に頼んで、いろいろと習わせてもらったんですよ～。",
+      "choice_data_list": [
+        "Em thực sự yêu thích văn hóa Nhật Bản nhỉ",
+        "Bạn thực sự yêu thích văn hóa Nhật Bản nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "本当に日本文化が好きなんだな",
+        "本当に日本文化が好きなのね"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, dĩ nhiên rồi ạ!",
+      "jpname": "グラスワンダー",
+      "jptext": "ええ、それはもう！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nhờ có chúng mà em đã học được rất nhiều điều trân quý…… như lễ nghi, sự chân thành, và lòng quan tâm đến người khác.",
+      "jpname": "グラスワンダー",
+      "jptext": "お陰様で、礼節、真心、他者への思いやり、\nなどなど……大切なことを数多く学べました。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dù nói vậy, nhưng bản thân em vẫn còn nhiều thiếu sót lắm ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "といっても、まだまだ\n至らぬところばかりですけどね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mong rằng một ngày nào đó, em có thể trở thành một Yamato Nadeshiko lễ phép, uyên bác và mang phong thái kiêu hãnh... Em vẫn đang tu dưỡng từng ngày vì điều đó.",
+      "jpname": "グラスワンダー",
+      "jptext": "いずれは、礼儀正しく教養に溢れる、\n凛とした佇まいの大和撫子になれたら……と、日々修行中です。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ấy... Em xin lỗi, mải nói chuyện nên em quên khuấy mất thời gian.",
+      "jpname": "グラスワンダー",
+      "jptext": "っと……すみません、\nすっかり話し込んでしまいましたね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lần này thì chúng ta cùng trở về học viện thôi anh♪",
+      "jpname": "グラスワンダー",
+      "jptext": "今度こそ、学園へ戻りましょうか♪"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, tôi chia tay Grass Wonder và quay về ký túc xá của Trainer……",
+      "jpname": "モノローグ",
+      "jptext": "こうして、グラスワンダーとは別れ、\nトレーナー宿舎まで戻ってきた……。"
+    },
+    {
+      "name": "",
+      "text": "Nàng Mã Nương mang trọn dáng vẻ của một Yamato Nadeshiko, Grass Wonder. Cô gái vừa mỉm cười dịu dàng vừa pha trà ấy rốt cuộc sẽ chạy như thế nào đây——",
+      "jpname": "モノローグ",
+      "jptext": "大和撫子然としたウマ娘、グラスワンダー。和やかに笑みながら\nお茶を点てていた彼女は果たしてどんな走りをするのだろう――"
+    },
+    {
+      "name": "",
+      "text": "Và thắc mắc ấy dường như đã có câu trả lời sớm hơn tôi tưởng.",
+      "jpname": "モノローグ",
+      "jptext": "その疑問には、案外早く答えが出そうだった。"
+    },
+    {
+      "name": "",
+      "text": "\"Thông báo dành cho Trainer. Về việc tổ chức trận đua tuyển chọn\"",
+      "jpname": "モノローグ",
+      "jptext": "『トレーナー向けのお知らせ。\n選抜レース開催に際してのご連絡』"
+    },
+    {
+      "name": "",
+      "text": "Trên danh sách đăng ký thi đấu đính kèm trong email ấy—— đã xuất hiện cái tên \"Grass Wonder\".",
+      "jpname": "モノローグ",
+      "jptext": "そう書かれたメールの出走登録表には――\n『グラスワンダー』の名が記されていた。"
+    }
+  ]
+}

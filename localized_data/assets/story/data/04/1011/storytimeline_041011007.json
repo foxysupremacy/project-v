@@ -1,0 +1,354 @@
+{
+  "title": "Mối gắn kết tìm thấy",
+  "jptitle": "得た絆",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Các Mã Nương của Học viện Tracen, bao gồm cả Grass Wonder, đang tham gia đợt tập huấn mùa hè tại một cơ sở ven biển.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーを含むトレセン学園のウマ娘たちは、\n海辺にある施設へ合宿に来ていた。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Chào buổi sáng anh, Trainer-san.",
+      "jpname": "グラスワンダー",
+      "jptext": "おはようございます、トレーナーさん。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, mỗi sáng vừa thức dậy là có thể bắt tay ngay vào luyện tập, đây đúng là môi trường không gì sánh bằng anh nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふっ、毎日朝起きてすぐにトレーニングだなんて、\nこの上ない環境ですね～。",
+      "choice_data_list": [
+        "Tràn trề nhiệt huyết ghê em nhỉ",
+        "Tràn trề nhiệt huyết ghê bạn nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "やる気に溢れてるな",
+        "やる気に溢れてるね"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Đợt tập huấn này là cơ hội vô cùng quý giá, nên em dự định sẽ nỗ lực trưởng thành vượt bậc tại đây.",
+      "jpname": "グラスワンダー",
+      "jptext": "貴重な合宿という機会ですし、\nここでしっかり成長していくつもりです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vì vậy, rất mong anh tiếp tục đồng hành và chỉ bảo cho em nhé♪",
+      "jpname": "グラスワンダー",
+      "jptext": "そういうことで、お付き合いよろしくお願いいたします♪"
+    },
+    {
+      "name": "",
+      "text": "Và cứ như thế, đợt tập huấn chính thức bắt đầu——",
+      "jpname": "モノローグ",
+      "jptext": "こうして、合宿がスタートした――"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hộc…… phù…… phù…… ……Mình vẫn chưa thể chạy…… hộc…… như mong muốn……",
+      "jpname": "グラスワンダー",
+      "jptext": "はぁ……ふぅ……ふぅ……。\n……思うような走りが……はぁ……できてない……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, em xin phép…… chạy thêm một lượt nữa nhé. Vì em vẫn chưa…… đạt được kết quả như ý…… phù……",
+      "jpname": "グラスワンダー",
+      "jptext": "トレーナーさん、もう1本……走りますね。\n納得のいく成果を……出せてないので……ふぅ……。"
+    },
+    {
+      "name": "",
+      "text": "Dường như Grass Wonder vẫn chưa chạm tới được cột mốc mà em tự đặt ra cho bản thân.",
+      "jpname": "モノローグ",
+      "jptext": "どうやらグラスワンダー自身が目指す目標には届いていないようだ。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng có lẽ do kiệt sức, tư thế chạy của em đã bắt đầu xiêu vẹo. Nếu cứ tiếp tục thế này sẽ rất dễ dẫn tới chấn thương——",
+      "jpname": "モノローグ",
+      "jptext": "しかし疲労からか、走るフォームがすでに崩れてしまっている。\nこれ以上続けたらケガに繋がる恐れがある――",
+      "choice_data_list": [
+        "Hôm nay dừng lại ở đây thôi em"
+      ],
+      "jpchoice_data_list": [
+        "今日はここでやめておこう"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em không sao đâu ạ…… Em vẫn chạy tiếp được mà anh……?",
+      "jpname": "グラスワンダー",
+      "jptext": "大丈夫です……まだ、走れますよ……？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ở đợt tập huấn này, em……",
+      "jpname": "グラスワンダー",
+      "jptext": "私は……この合宿で……。",
+      "choice_data_list": [
+        "Không được chạy thêm nữa đâu đấy em!",
+        "Không được chạy thêm nữa đâu đấy bạn!"
+      ],
+      "jpchoice_data_list": [
+        "これ以上は走っちゃダメだ！",
+        "これ以上は走っちゃダメ！"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……!?",
+      "jpname": "グラスワンダー",
+      "jptext": "……！？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Em hiểu rồi, vậy chúng ta quay về khu nhà trọ tập huấn thôi ạ. Anh vất vả rồi, Trainer-san.",
+      "jpname": "グラスワンダー",
+      "jptext": "……わかりました、それでは合宿所に戻りましょう。\nお疲れ様でした、トレーナーさん。"
+    },
+    {
+      "name": "",
+      "text": "Trái với tôi nghĩ, Grass Wonder ngoan ngoãn nghe theo lời tôi và rảo bước quay về khu nhà trọ.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーは思いのほかすんなりと話を受け入れると、\n合宿所へと戻っていった。"
+    },
+    {
+      "name": "",
+      "text": "Vào đêm hôm đó——",
+      "jpname": "モノローグ",
+      "jptext": "その日の夜――"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, hóa ra anh ở đây sao.",
+      "jpname": "グラスワンダー",
+      "jptext": "トレーナーさん、こんなところにいたんですね～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em nghe nói gần đây đang tổ chức lễ hội mùa hè, nên em đến rủ Trainer-san đấy ạ. Anh có muốn đi cùng em không?",
+      "jpname": "グラスワンダー",
+      "jptext": "近くで夏祭りをやっていると聞いたので、\nトレーナーさんを誘いに来たんです。一緒に行きませんか？"
+    },
+    {
+      "name": "",
+      "text": "Cứ ngỡ em ấy sẽ giận dỗi vì bị tôi ngăn không cho luyện tập tiếp, nhưng trông Grass Wonder vẫn điềm tĩnh như mọi ngày.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングを止めたことに不満を持っているとも思ったが、\nグラスワンダーはいつもと変わらない様子に見えた。",
+      "choice_data_list": [
+        "Đương nhiên là được chứ em"
+      ],
+      "jpchoice_data_list": [
+        "もちろん構わないよ"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, nhắc tới mùa hè Nhật Bản là phải nhắc tới lễ hội, chúng ta cùng đi thưởng thức trọn vẹn nét văn hóa này nhé anh.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふっ、日本の夏と言えばお祭りですから、\nたっぷり文化を堪能しましょう。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tản bộ thì ở những nơi yên tĩnh sẽ thích hơn, nhưng lễ hội thì chính bầu không khí náo nhiệt này mới là điều tuyệt vời anh nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "散歩は静かな場所のほうが望ましいですけど、\nお祭りはこの賑やかさがあってこそですね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "A, anh nhìn kìa. Có món kẹo hình cả quả dưa hấu nguyên vẹn luôn đấy ạ. Trainer-san, bụng anh đã chừa chỗ để ăn uống chưa đấy?",
+      "jpname": "グラスワンダー",
+      "jptext": "あ、見てください。まるごとスイカ飴というのがありますよ。\nトレーナーさん、ちゃんとお腹は空かせてきましたか？",
+      "choice_data_list": [
+        "Ăn sao hết nổi quả to thế kia……!"
+      ],
+      "jpchoice_data_list": [
+        "食べきれない……！"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, em đùa đấy ạ. Chúng mình cùng vui chơi có chừng mực nhé anh♪",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふ、冗談です。\n羽目を外さない程度に楽しみましょう♪"
+    },
+    {
+      "name": "",
+      "text": "Khi cả hai đang cùng nhau dạo quanh các gian hàng, Grass Wonder bỗng dừng chân trước một quầy bắn súng trúng thưởng.",
+      "jpname": "モノローグ",
+      "jptext": "2人で出店を見回っていると、\n射的の前でグラスワンダーの脚が止まった。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi chao. Con thú bông hình chú mèo kia trông đáng yêu quá anh nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "まあ～。\nあのネコのぬいぐるみ、可愛いですね～。"
+    },
+    {
+      "name": "Bác chủ sạp bắn súng",
+      "text": "Ồ, cô bé Mã Nương đằng kia ơi. Cháu có muốn chơi thử một ván không?",
+      "jpname": "射的屋のおじさん",
+      "jptext": "お、ウマ娘のお嬢ちゃん。\n遊んでいくかい？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Xem nào…… Trainer-san, để em vào thử sức một chút nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "そうですね～……。\nトレーナーさん、ちょっと挑戦してみます。"
+    },
+    {
+      "name": "",
+      "text": "Một Grass Wonder ngày thường vốn dịu dàng nhu mì nay lại giương súng nhắm bắn. Trong lúc còn đang ngỡ ngàng trước nét đối lập đầy thú vị ấy thì——",
+      "jpname": "モノローグ",
+      "jptext": "普段おとなしいグラスワンダーが銃を構える。\nその姿にギャップを感じつつ、見守っていると――"
+    },
+    {
+      "name": "",
+      "text": "(Tách—— lịch bịch……)",
+      "jpname": "モノローグ",
+      "jptext": "（パシュッ――ぽと……）"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bắn trúng rồi ạ! Một phát ăn ngay luôn♪",
+      "jpname": "グラスワンダー",
+      "jptext": "やりましたぁ～！　1発でゲットです♪"
+    },
+    {
+      "name": "Bác chủ sạp bắn súng",
+      "text": "Thật không ngờ đấy! Chúc mừng cô bé nhé!",
+      "jpname": "射的屋のおじさん",
+      "jptext": "こいつは驚きだ！　お嬢ちゃんおめでとう！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cháu cảm ơn bác ạ. ……Nào, vẫn còn vài viên đạn nữa nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ありがとうございます～。\n……さてと、まだ弾が残ってますね。"
+    },
+    {
+      "name": "",
+      "text": "(Tách—— lịch bịch…… Tách—— lịch bịch……)",
+      "jpname": "モノローグ",
+      "jptext": "（パシュッ――ぽと……パシュッ――ぽと……）"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi chao, được cả đống thú bông luôn rồi.",
+      "jpname": "グラスワンダー",
+      "jptext": "あらあら、ぬいぐるみがいっぱいに。"
+    },
+    {
+      "name": "Bác chủ sạp bắn súng",
+      "text": "T-Trời đất ơi kinh ngạc thật đấy. Cứ nhắm món nào là một phát rụng ngay món đó…… Cứ như một sát thủ bắn tỉa thực thụ vậy!",
+      "jpname": "射的屋のおじさん",
+      "jptext": "こ、こりゃたまげた。どれもこれも狙った景品を1発で……。\nまるでヒットマンだ。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi chao, đâu có đáng sợ đến mức đấy đâu bác. Mọi sự đều giữ tâm bình thản... Đây là thành quả từ sự tĩnh tại trong tâm hồn đó ạ♪",
+      "jpname": "グラスワンダー",
+      "jptext": "まあ、そんな物騒なものではありません。\n何事も平常心……和の心あっての賜物です♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lễ hội hôm nay vui thật đấy anh nhỉ♪ Dù là tập huấn nhưng đôi khi xả hơi thư giãn một chút cũng rất cần thiết.",
+      "jpname": "グラスワンダー",
+      "jptext": "お祭り、楽しかったですね～♪\n合宿とはいえ、羽を伸ばすことも必要です。",
+      "choice_data_list": [
+        "Thật ra so với đi lễ hội thì em muốn chạy đua hơn đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "本当はお祭りより走りたかったんじゃない？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, đúng là trong lòng em cũng từng nghĩ thế thật ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふっ、たしかにそうした気持ちもあります。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bởi vì từ nay về sau, những gì không thể nhượng bộ em nhất định sẽ không nhượng bộ, và những gì đã quyết định em cũng không có ý định thay đổi.",
+      "jpname": "グラスワンダー",
+      "jptext": "だって私は、これからも譲らないものは譲らないですし、\n決めたことを変えるつもりもありませんので。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Thế nhưng, sở dĩ em có thể giữ vững sự bướng bỉnh ấy của mình chính là vì đã có Trainer-san luôn ở bên cạnh nâng đỡ, chở che.",
+      "jpname": "グラスワンダー",
+      "jptext": "でも、そんなふうに頑固な私でいられるのは、\nトレーナーさんが支えてくれているからです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bởi vào những thời khắc thực sự cần phải dừng lại, anh sẽ nghiêm khắc can ngăn em.",
+      "jpname": "グラスワンダー",
+      "jptext": "本当に止めなくてはいけない時、\n厳しく止めてくれますから。",
+      "choice_data_list": [
+        "Anh sẽ cố gắng để luôn là điểm tựa vững chắc cho em từ nay về sau",
+        "Tôi sẽ cố gắng để luôn là điểm tựa vững chắc cho bạn từ nay về sau"
+      ],
+      "jpchoice_data_list": [
+        "これからも支えていけるよう頑張るよ",
+        "これからも支えていけるよう頑張るから"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, em cũng sẽ dốc toàn lực để đáp lại sự kỳ vọng của anh, dù là trong đợt tập huấn này hay trên chặng đường dài phía trước, xin anh hãy chỉ bảo cho em nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "はい、私も全力で応えてみせますので、\n合宿でも、その先でも、よろしくお願いいたします。"
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm sau, nhằm hiện thực hóa ước nguyện của Grass Wonder, tôi quyết định áp dụng một giáo án luyện tập hoàn toàn mới.",
+      "jpname": "モノローグ",
+      "jptext": "翌日、グラスワンダーの想いを叶えるために\n一新したトレーニングメニューを行うことにした。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Phù…… Trainer-san, em đã hoàn thành bài bơi đường dài rồi ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふぅ～……。\nトレーナーさん、遠泳終わりました～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Để tránh áp lực đè nặng quá mức lên đôi chân, anh đã khéo léo đan xen bài tập vận động dưới biển vào đúng không ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "脚に負荷が集中しないよう、\n適度に海でのトレーニングが組み込まれているわけですね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Ủa, ủa kìa? Bài tập hôm nay đến đây là hết rồi sao ạ? Lạ thật đấy, em thấy mình vẫn còn sức để chạy tiếp nhiều lắm mà.",
+      "jpname": "グラスワンダー",
+      "jptext": "……って、あら？　これでトレーニングは終了ですか？\nおかしいですね、私はまだまだ走れますけど。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, có phải anh tính nhầm khối lượng bài tập rồi không ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "トレーナーさん、トレーニングの量を間違えてしまいましたか？",
+      "choice_data_list": [
+        "Chiến thêm một hiệp nữa nào em!"
+      ],
+      "jpchoice_data_list": [
+        "もう1セット行っちゃおう！"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Lấy tâm truyền tâm\"…… Quả nhiên Trainer-san luôn là người thấu hiểu em nhất mà, hi hi♪",
+      "jpname": "グラスワンダー",
+      "jptext": "『心を以て心に伝う』……やっぱりトレーナーさんは\n私を理解してくださってますね～、ふふっ♪"
+    },
+    {
+      "name": "",
+      "text": "Muốn làm điểm tựa vững chắc sau lưng Grass Wonder, tôi sẽ phải nỗ lực đuổi theo em với một tốc độ phi thường.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーの背中を支えるには、\n並々ならぬスピードで追いかけなければいけないのだった。"
+    }
+  ]
+}

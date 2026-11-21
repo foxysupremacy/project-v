@@ -1,0 +1,350 @@
+{
+  "title": "Chung một nhịp bước",
+  "jptitle": "揃う足並み",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ nọ, khi tôi đang tản bộ trong công viên thì có tiếng ai đó cất lời gọi.",
+      "jpname": "モノローグ",
+      "jptext": "ある休日のこと、公園を散歩していると\n声をかけられた。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ơ kìa, Trainer-san.",
+      "jpname": "グラスワンダー",
+      "jptext": "あら、トレーナーさん。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gặp được anh ở nơi thế này đúng là tình cờ thật đấy nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "こんなところでお会いするなんて奇遇ですね～。",
+      "choice_data_list": [
+        "Em đang làm gì thế?",
+        "Bạn đang làm gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "何してるんだ？",
+        "何してるの？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em chỉ đi loanh quanh không mục đích thôi... nói cách khác là tản bộ ấy mà. Vào những ngày nghỉ, em cũng hay dành thời gian như thế này lắm ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "私は目的もなくトコトコと……つまりはお散歩です。\n休日はこうして過ごすことも多いんですよ。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bạn bè thường bảo em như thế là lãng phí thời gian, nhưng với một người đến từ nước Mỹ như em thì chỉ cần vừa đi dạo vừa ngắm nhìn cảnh vật xung quanh thôi cũng đủ thấy mãn nguyện rồi.",
+      "jpname": "グラスワンダー",
+      "jptext": "友だちからは、よく時間が潰せるねって言われたりしますけど、ア\nメリカから来た私にとっては景色を見て歩くだけで充分楽しめます。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hơn nữa, dẫu là ngày nghỉ nhưng em vẫn muốn được vận động cơ thể một chút.",
+      "jpname": "グラスワンダー",
+      "jptext": "それに、休日とはいえ\n少しでも体を動かしたいというのもありますし。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vừa vận động thân thể, vừa có thể cảm nhận nét phong vị tao nhã của đất nước này…… Tản bộ đúng là một thú vui giải trí tuyệt vời nhỉ♪",
+      "jpname": "グラスワンダー",
+      "jptext": "体を動かしながら、この国の情緒を楽しめる……。\nお散歩はまさにエンターテインメントですね～♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Thế nhưng, quanh khu này em đã đi ngắm hết một lượt rồi, nên em đang phân vân không biết tiếp theo nên đi đâu đây.",
+      "jpname": "グラスワンダー",
+      "jptext": "とはいえ、この辺りはもう見て回りましたので、\n次はどこに行こうか悩んでたんです。",
+      "choice_data_list": [
+        "Nếu em không phiền, để anh làm hướng dẫn viên cho nhé"
+      ],
+      "jpchoice_data_list": [
+        "よかったらどこか案内しようか"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dạ, anh dẫn đường cho em đi dạo sao? Ý kiến hay quá, vậy thì tuyệt vời quá rồi ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "え、散歩の場所をですか？\nなるほど、それはいい提案ですね～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bởi biết đâu Trainer-san lại biết những cảnh đẹp mà em chưa từng được thấy thì sao.",
+      "jpname": "グラスワンダー",
+      "jptext": "私の知らない景色をトレーナーさんは\n知っているかもしれませんし。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, vậy em xin phép nhận lòng tốt của anh nhé, chúng mình cùng thong thả dạo bước nào!",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふ、それではお言葉に甘えて、\n2人でのんびりと歩いて回りましょう！"
+    },
+    {
+      "name": "",
+      "text": "Tôi quyết định chọn những nơi có vẻ Grass Wonder chưa từng biết đến để dẫn em ấy đi tham quan một vòng.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーが知らなそうな場所を選び、\n連れて回ることにした。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em không ngờ ở một nơi như thế này lại có quán trà đấy ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "こんなところにお茶屋さんがあるだなんて\n知りませんでした～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Giữa biết bao dãy cửa hàng thời thượng san sát nhau, quán trà vẫn giữ trọn vẹn nét thanh tao mang đậm cái hồn của văn hóa truyền thống Nhật Bản, cảnh tượng này thật giàu cảm xúc làm sao.",
+      "jpname": "グラスワンダー",
+      "jptext": "おしゃれなショップが多く並ぶ中で、\nそれでも和の心を忘れない情緒あふれる光景ですね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ôi chao, thực đơn sử dụng món matcha khoái khẩu của em nhiều đến thế này cơ ạ♪",
+      "jpname": "グラスワンダー",
+      "jptext": "まあ、私の好きなお抹茶を使ったメニューが\nこんなにたくさん♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Nhưng mà, biết đến nơi này có khi lại là một sai lầm cũng nên. Sự cám dỗ của đồ ngọt…… ưm ưm……",
+      "jpname": "グラスワンダー",
+      "jptext": "……でも、ここを知ってしまったのは失敗かもしれません。\nスイーツの誘惑が……んんん～……。"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, tôi cùng Grass Wonder ghé thăm thêm nhiều nơi khác——",
+      "jpname": "モノローグ",
+      "jptext": "こうして、グラスワンダーといろんな場所を見て回り――"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tản bộ yên tĩnh một mình cũng hay, nhưng đi dạo vui vẻ như hôm nay cũng thích lắm anh nhỉ. Đây chính là thành quả của việc hai người cùng đồng hành đấy ạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "静かな散歩もいいですが、今日みたいな楽しい散歩もいいですね。\n2人で歩いたからこその成果です。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, tiếp theo chúng ta sẽ đi đâu nữa đây anh?",
+      "jpname": "グラスワンダー",
+      "jptext": "トレーナーさん、次はどこへ行ってみましょう？"
+    },
+    {
+      "name": "",
+      "text": "Được Grass Wonder hỏi về điểm đến tiếp theo, tôi nhìn quanh một hồi thì trông thấy một trung tâm trò chơi điện tử.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーに行き先を尋ねられ、辺りを見回してみると\nゲームセンターが目に入った。",
+      "choice_data_list": [
+        "Em có muốn ghé qua trung tâm trò chơi không?"
+      ],
+      "jpchoice_data_list": [
+        "ゲームセンターに行ってみる？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trung tâm trò chơi sao ạ……? Ưm... Những nơi như thế thì em lại không quen thuộc cho lắm……",
+      "jpname": "グラスワンダー",
+      "jptext": "ゲームセンター、ですか……？\nう～ん、そういったところにはあまり馴染みがなくて……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hơn nữa nhắc tới tản bộ thì em nghĩ thong thả rảo bước ở những nơi tĩnh lặng sẽ hợp hơn……",
+      "jpname": "グラスワンダー",
+      "jptext": "それに散歩と言えばやはり、\n静かなところをのんびり歩く方がいいと言いますか……。",
+      "choice_data_list": [
+        "Nhưng biết đâu lại tìm thấy điều gì mới mẻ thì sao"
+      ],
+      "jpchoice_data_list": [
+        "でも新しい発見があるかも"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Điều gì mới mẻ sao……",
+      "jpname": "グラスワンダー",
+      "jptext": "新しい発見……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Đúng là những nơi chúng ta ghé qua từ nãy đến giờ cũng mang lại cho em không ít phát hiện mới lạ.",
+      "jpname": "グラスワンダー",
+      "jptext": "たしかにここまで見たところにも、\nそうした発見はいくつもありましたね。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Em hiểu rồi. Hiếm khi mới có dịp đi dạo cùng Trainer-san, vậy chúng ta cùng thử vào xem sao nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "……わかりました。せっかくのトレーナーさんとのお散歩ですし、\nそれでは行ってみることにしましょう。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Quả nhiên là náo nhiệt thật đấy anh nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "やはり、賑やかですね～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, trò này là chơi như thế nào vậy ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "トレーナーさん、これはどういうゲームなのでしょう？"
+    },
+    {
+      "name": "",
+      "text": "Thứ mà Grass Wonder đang tò mò ngắm nhìn chính là một cỗ máy trò chơi khiêu vũ điều khiển bằng chân.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーが不思議そうに見ていたのは、\n脚で操作をするダンスゲームだった。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Trò chơi bước nhảy theo nhịp điệu sao ạ. Trông có vẻ giống như buổi diễn Winning Live ấy nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "ステップを踏んで遊ぶゲームなんですか。\nなんだかウイニングライブみたいですね。",
+      "choice_data_list": [
+        "Thử chơi một ván xem sao em!"
+      ],
+      "jpchoice_data_list": [
+        "やってみよう！"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dạ? Em... chơi sao ạ?",
+      "jpname": "グラスワンダー",
+      "jptext": "え？　私が……ですか？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ưm…… Nhưng đúng là em từng tập luyện vũ đạo rồi, nên chắc em cũng có thể chơi được……",
+      "jpname": "グラスワンダー",
+      "jptext": "う～ん……でもたしかにダンストレーニングをしていますから、\n私でも遊べるかも……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vâng, em sẽ thử xem sao. Dù em chơi không giỏi thì anh cũng đừng cười em nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "わかりました、やってみます。\n上手くできなくても、笑わないでくださいね。"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, Grass Wonder bắt đầu bước vào trò chơi, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "そういってグラスワンダーはゲームを始めたのだが……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ưm…… chỗ này…… Ấy, kìa……!?",
+      "jpname": "グラスワンダー",
+      "jptext": "んっ……とっ……。\nあっ、あっ……！？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "………………",
+      "jpname": "グラスワンダー",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Trò này hơi khó một chút nhỉ em",
+        "Trò này hơi khó một chút nhỉ bạn"
+      ],
+      "jpchoice_data_list": [
+        "ちょっと難しかったな",
+        "ちょっと難しかったね"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Không thể trơn tru như khi biểu diễn Winning Live được rồi.",
+      "jpname": "グラスワンダー",
+      "jptext": "……ウイニングライブのようにはいきませんでした。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "A, nhưng mà trò này thú vị thật đấy ạ. Coi như vừa vặn vận động thân thể luôn.",
+      "jpname": "グラスワンダー",
+      "jptext": "あ、ですがとても面白いゲームでした。\nほどよく体も動かしますし。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hóa ra cũng có những trò chơi thế này cơ đấy. Hôm nay em học hỏi thêm được bao nhiêu điều mới mẻ.",
+      "jpname": "グラスワンダー",
+      "jptext": "こんなゲームもあるんですね～。\n今日は、知らなかったことがいろいろ見つかります。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tất cả đều là nhờ có chuyến đi dạo cùng nhau của hai ta. Trainer-san, cảm ơn anh đã đồng hành cùng em nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "これも、2人で一緒にお散歩をしたおかげ。\nトレーナーさん、お付き合い頂きありがとうございました。",
+      "choice_data_list": [
+        "Không có gì đâu mà em"
+      ],
+      "jpchoice_data_list": [
+        "どういたしまして"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sau này mỗi khi có dịp rảnh rỗi, chúng mình lại cùng nhau đi tản bộ tiếp nhé anh♪",
+      "jpname": "グラスワンダー",
+      "jptext": "これからも都合が合うときは、一緒にお散歩しましょう♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nào, vậy thì để em thử thêm một lần nữa……",
+      "jpname": "グラスワンダー",
+      "jptext": "さてと、それではもう1度……。",
+      "choice_data_list": [
+        "Vì mục đích là vận động thân thể mà, đúng không em",
+        "Vì mục đích là vận động thân thể mà, đúng không bạn"
+      ],
+      "jpchoice_data_list": [
+        "体を動かすため、だもんな",
+        "体を動かすため、だもんね"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Lấy tâm truyền tâm\"…… Chẳng cần cất lời mà vẫn thấu hiểu lòng nhau, sự nhạy bén của Trainer-san khiến em khâm phục vô cùng.",
+      "jpname": "グラスワンダー",
+      "jptext": "『心を以て心に伝う』……言葉を使わずとも通じているなんて、\nトレーナーさんの理解力には感服いたします。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lần này em nhất định sẽ vượt qua màn chơi, anh hãy dõi theo em nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "次はクリアしますから、見ていてください。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ưm…… Mãi mà vẫn chưa được như ý nhỉ……",
+      "jpname": "グラスワンダー",
+      "jptext": "う～ん……なかなかうまくいきませんね……。",
+      "choice_data_list": [
+        "Hay là chúng ta chuyển sang chỗ tiếp theo đi em……?",
+        "Hay là chúng ta chuyển sang chỗ tiếp theo đi bạn……?"
+      ],
+      "jpchoice_data_list": [
+        "そろそろ次に行こうか……？",
+        "そろそろ次に行こっか……？"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ơ kìa, anh thực sự nghĩ vậy sao ạ? Em vẫn chưa vận động thân thể cho thỏa thích đâu đấy nhé anh?",
+      "jpname": "グラスワンダー",
+      "jptext": "まあ、本心でそう仰ってます？\nまだ私は体を動かし足りないですよ？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Chính vì vậy, em sẽ chơi lại thêm một ván nữa. Đằng nào thì đây cũng là để vận động thân thể mà.",
+      "jpname": "グラスワンダー",
+      "jptext": "ということで、もう1度プレイしますね。\nこれも体を動かすためですから～。"
+    },
+    {
+      "name": "",
+      "text": "Chuyến đi dạo của tôi cùng Grass Wonder cứ thế tiếp diễn cho tới tận khi em ấy chơi thành thạo trò chơi đó mới thôi.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーとの散歩は、\n彼女がゲームをうまくプレイできるまで続くのだった。"
+    }
+  ]
+}

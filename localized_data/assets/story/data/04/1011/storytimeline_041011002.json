@@ -1,0 +1,350 @@
+{
+  "title": "Nỗi lòng chôn giấu",
+  "jptitle": "秘めた心は",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"Trận đua tuyển chọn\" là nơi các Mã Nương hướng tới màn ra mắt thể hiện thực lực của bản thân trước các Trainer nhằm tìm kiếm cơ hội được chiêu mộ.",
+      "jpname": "モノローグ",
+      "jptext": "デビューを目指すウマ娘たちが、トレーナーに自身の実力を\nアピールし、スカウトを狙う『選抜レース』"
+    },
+    {
+      "name": "",
+      "text": "Một trong những sự kiện lớn của Học viện Tracen hôm nay lại chuẩn bị bắt đầu! Tôi liền rảo bước ngay ra đường đua thì——",
+      "jpname": "モノローグ",
+      "jptext": "トレセン学園の一大行事が、今日も始まろうとしていた！\nさっそくコースヘ足を運ぶと――"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ơ kìa? Có phải anh là…… Trainer-san bị lạc đường mà em gặp hôm nọ không ạ!?",
+      "jpname": "グラスワンダー",
+      "jptext": "あら？　あなたは、もしかして……\n先日お会いした、迷子のトレーナーさん！？",
+      "choice_data_list": [
+        "Bị gọi là kẻ lạc đường nghe hơi xấu hổ đấy em……",
+        "Bị gọi là kẻ lạc đường nghe hơi xấu hổ đấy bạn……"
+      ],
+      "jpchoice_data_list": [
+        "迷子の、はちょっと恥ずかしいな……",
+        "迷子の、はちょっと恥ずかしいね……"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, em xin lỗi anh nhé. Tại hôm ấy để lại nhiều kỷ niệm quá nên em lỡ lời.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふふ、すみません。\n思い出深い1日だったもので、つい～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Anh đến xem trận đua tuyển chọn nhỉ. Hôm nay em thi đấu ở lượt chạy cuối cùng, nên nếu anh nán lại đến lúc đó thì em vui lắm.",
+      "jpname": "グラスワンダー",
+      "jptext": "選抜レース、ご覧になるんですね。私は今日の最終グループに\n出走するので、途中で帰らずにいてくださると嬉しいです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vậy em xin phép đi chuẩn bị đây ạ. Nắng hôm nay khá gắt, anh nhớ giữ gìn sức khỏe nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "では、準備がありますので、そろそろ。\n日射しが強いので、お体には気をつけてくださいね。"
+    },
+    {
+      "name": "",
+      "text": "Vẫn giữ nguyên vẻ điềm đạm cùng nụ cười dịu dàng chan chứa, Grass Wonder cất bước tiến về phía đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "グラスワンダーは、穏やかな調子を全く崩さず和やかな微笑みで\nコースへと向かっていった。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, các lượt đua cứ thế nối tiếp nhau diễn ra——",
+      "jpname": "モノローグ",
+      "jptext": "そして、レースは次々と進行していき――"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oa oa oa, lượt tiếp theo là nhóm của mình chạy rồi……! M-M-Mình bắt đầu thấy căng thẳng quá đi mất……!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "あわわわ、次、私のグループが出走だ……！\nき、き、緊張してきた～……！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ha ha ha! Spe-chan, cậu căng cứng người quá rồi đới. Cứ thế này khéo hóa đá trước khi xuất phát mất thôi đới?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "なっはっは！　スペちゃん、カタくなりすぎデース。\n出走前に石化しちゃいますデスよ？"
+    },
+    {
+      "name": "Special Week",
+      "text": "Hóa đá á!? T-thế thì sao mà chạy được nữa cơ chứ……!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "石化っ！？\nそ、それじゃ走れなくなっちゃうよ～！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bình tĩnh nào, Spe-chan. Thả lỏng ra đi nào, thả lỏng ra nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "まあまあ、スペちゃん。\nリラ～ックスですよ、リラ～ックス～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Tận nhân lực, tri thiên mệnh\". Spe-chan này, để chuẩn bị cho ngày hôm nay, cậu đã dốc hết sức mình luyện tập rồi đúng không?",
+      "jpname": "グラスワンダー",
+      "jptext": "『人事を尽くして天命を待つ』。スペちゃんは、今日のために\nやれる限りのトレーニングを積んできましたよね？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Giờ chỉ cần tin vào bản thân và chạy hết sức mình, kết quả tốt đẹp tự khắc sẽ đến thôi.",
+      "jpname": "グラスワンダー",
+      "jptext": "あとは自分を信じて思いっきり走れば、\n自ずといい結果になりますよ。"
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass-chan……! Hức, cảm ơn cậu nhiều lắm……!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "グラスちゃんっ……！\nうぅ、ありがとう～……！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Không có gì đâu mà. ……Ơ kìa?",
+      "jpname": "グラスワンダー",
+      "jptext": "いえいえ～。\n……あら？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ưm…… El này? Cậu có thể né sang bên kia một chút được không?",
+      "jpname": "グラスワンダー",
+      "jptext": "う～んと……エル？\nちょっと向こうにずれてもらえますか？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué? Hả, thế này hở đới?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ケ？\nはぁ、こうデス？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tự dưng lại bảo thế hả Grass……!?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "急になんデスか、グラス……っ！？"
+    },
+    {
+      "name": "",
+      "text": "Ngay khoảnh khắc sau đó, một Mã Nương đang thi đấu có vẻ do vào cua quá đà đã lao thẳng về phía này!",
+      "jpname": "モノローグ",
+      "jptext": "直後、レースを走っていたウマ娘の1人が、\nカーブで勢い余ったらしく突っ込んできた！"
+    },
+    {
+      "name": "Mã Nương thi đấu",
+      "text": "Oa oa oa a a!! M-Mình xin lỗi……!!",
+      "jpname": "出走ウマ娘",
+      "jptext": "わわわわわぁっ！！\nご、ごめんっ……！！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cậu có bị thương ở đâu không? Tốt nhất là nên đi kiểm tra một chút xem sao nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "おケガはありませんか～？\n一応、診てもらったほうがいいと思いますよ。"
+    },
+    {
+      "name": "Mã Nương thi đấu",
+      "text": "Ừm, mình sẽ đi ngay... Thật sự xin lỗi hai cậu nhé!!",
+      "jpname": "出走ウマ娘",
+      "jptext": "うん、そうする……ほんとにごめんね！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "C-Cẩn thận nhé……",
+      "jpname": "エルコンドルパサー",
+      "jptext": "お、お大事に～……。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Phù u u u! H-Hú hồn hú vía luôn đới……!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "っぶはあああ！\nび、びっくりしましたデェース……！"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mà công nhận Grass-chan siêu thật đấy! Bình tĩnh đến mức khó tin luôn……!!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "っていうか、グラスちゃんすごいね！\n落ち着いてるにもほどがあるよ……！！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hi hi, có gì đâu mà. El không sao là tốt rồi.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふ、いえいえ～。\nエルも無事で、よかったです～。"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Cô bé kia là Grass Wonder... phải không nhỉ? Đứng trước đấu trường lớn thế này mà bình tĩnh ghê! Tinh thần thép đó đúng là một thứ vũ khí lợi hại.",
+      "jpname": "新人トレーナーA",
+      "jptext": "あの子、グラスワンダー……でしたっけ？　大舞台なのに、\n相当落ち着いてるなぁ！　あの精神力は、かなり武器になりますね。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Hơn nữa, cô bé ấy đâu chỉ có mỗi tâm lý vững vàng... Nhìn vào thành tích từ trước tới nay, thể lực cũng thuộc hàng đáng gờm đấy. Ứng viên số một của lượt chạy cuối cùng đấy nhé.",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "それに、あの子はメンタルだけじゃない……。これまでの実績\nからして、フィジカルも相当なものよ。最終グループの大本命ね。"
+    },
+    {
+      "name": "",
+      "text": "Giữa muôn vàn ánh mắt dõi theo đầy kỳ vọng, trận đua có sự góp mặt của Grass Wonder cuối cùng cũng bắt đầu……!",
+      "jpname": "モノローグ",
+      "jptext": "皆の注目が集まる中、とうとう\nグラスワンダーの出走するレースが始まった……！"
+    },
+    {
+      "name": "",
+      "text": "Tâm điểm chú ý Grass Wonder chọn vị trí ở giữa đoàn, dường như đang bình tĩnh quan sát cục diện trận đấu, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "皆の関心を集めているグラスワンダーは、中団につけ、\n落ち着いた走りで戦況を窺っているように見えたが――"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hả!? Hự……!!",
+      "jpname": "グラスワンダー",
+      "jptext": "っ！？　く……！！"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Ồ, Grass Wonder bứt lên phía trước rồi kìa! ...Nhưng mà, dáng chạy vừa rồi trông có gì đó hơi lạ đúng không……?",
+      "jpname": "新人トレーナーA",
+      "jptext": "おっ、グラスワンダーが前に出てきたぞ！\n……でも、今の走り、なんかちょっと変じゃなかったですか……？"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Hình như cô bé chạy cạnh Grass vừa bị lảo đảo một chút. Chắc do các lượt đua trước dẫm đạp làm mặt đường xấu đi đấy mà.",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "グラスの横を走っていた子、少しよろめいていたように見えたわ。\n前のレースでコースが踏み荒らされて、状態が悪くなっていたのね。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Grass đã nhanh trí vọt lên trước để tránh va chạm, nhưng mà……",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "グラスは衝突を避けるために、とっさに前へ出たようだけれど……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hộc, hộc, hộc, hộc……!!",
+      "jpname": "グラスワンダー",
+      "jptext": "はっ、はっ、はっ、はっ……！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Chỉ còn 200m cuối cùng, người dẫn đầu đang là Grass Wonder! Nhưng mà…… cô ấy đang bị bám đuổi quyết liệt!",
+      "jpname": "実況",
+      "jptext": "残り200m、先頭はグラスワンダー！\nですが……追われています！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Liệu Grass Wonder có thể giữ vững khoảng cách để về đích an toàn không!? Cục diện thắng bại sẽ ra sao đây——!!",
+      "jpname": "実況",
+      "jptext": "グラスワンダー、このまま逃げ切れるか！？\nさあ、勝負の行く末は――！！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hự……!!",
+      "jpname": "グラスワンダー",
+      "jptext": "っ……！！"
+    },
+    {
+      "name": "",
+      "text": "Kết quả—— Grass Wonder bị vượt mặt ở những mét cuối cùng, ngậm ngùi cán đích ở vị trí thứ 2 chỉ trong đường tơ kẽ tóc.",
+      "jpname": "モノローグ",
+      "jptext": "結果――グラスワンダーは最後の最後で\n追い抜かれ、ハナ差の2着に終わった。"
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass-chan, cậu vất vả rồi……! À, ừm thì……",
+      "jpname": "スペシャルウィーク",
+      "jptext": "グラスちゃんっ、お疲れさま……！\nえっと、その……。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Ưm, tiếc thật đó! Chỉ thiếu một chút nỗ lực ở giây phút quyết định nữa thôi nhỉ.",
+      "jpname": "グラスワンダー",
+      "jptext": "……う～ん、残念でした！\nもうひと踏ん張り、足りなかったですね～。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nhưng dẫu sao mình cũng đạt được kết quả tương đối khả quan rồi. Lần sau mình sẽ cố gắng để giành vị trí thứ nhất.",
+      "jpname": "グラスワンダー",
+      "jptext": "でも、それなりの結果は残せましたから。\n次は1着を取れるように、頑張ります。"
+    },
+    {
+      "name": "Special Week",
+      "text": "A…… Ừ-Ừm! Tụi mình cùng cố gắng nhé!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "あ……う、うんっ！\n一緒にがんばっていこうね！"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Grass tiếc thật đấy. Nếu không vướng phải rắc rối giữa chừng thì với thực lực của em ấy, vị trí thứ nhất đã nắm chắc trong tay rồi……!",
+      "jpname": "新人トレーナーA",
+      "jptext": "グラスは惜しかったなぁ。途中のトラブルが無ければ、\n実力的には盤石の1着だと思っていたんですがね……！"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Nhưng pha xử lý tình huống chớp nhoáng ấy thật tuyệt vời. Mình nhất định phải chiêu mộ được cô bé này về đội, Grass Wonder……!",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "でも、瞬発力を感じさせる応対は見事だったわ。\nぜひともうちに欲しいわね、グラスワンダー……！"
+    },
+    {
+      "name": "",
+      "text": "Dù kết quả có phần đáng tiếc, nhưng phản ứng của mọi người lại rất tích cực. Chắc chắn em ấy sẽ nhận được vô số lời mời chiêu mộ.",
+      "jpname": "モノローグ",
+      "jptext": "惜しい結果となってしまったけれど、反応は上々。\nきっと多くのスカウトが集まることだろう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi đã nghĩ như vậy, nhưng rồi——",
+      "jpname": "モノローグ",
+      "jptext": "と、思っていたのだが――"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "……Grass!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "……グラス！！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ơ kìa, El? Có chuyện gì sao cậu?",
+      "jpname": "グラスワンダー",
+      "jptext": "あら、エル？\nどうかしましたか？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Luyện tập đêm…… nếu cậu định tập, tớ sẽ tập cùng đới?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "夜練……やるなら、付き合いますデスよ？"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "……Không đâu, hôm nay vừa đua xong mà. Tớ định sẽ nghỉ ngơi dưỡng sức.",
+      "jpname": "グラスワンダー",
+      "jptext": "……いえいえ、今日はレースでしたから。\nゆっくり休むつもりです。"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vậy tớ xin phép nhé.",
+      "jpname": "グラスワンダー",
+      "jptext": "では、失礼しますね。"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "………………",
+      "jpname": "エルコンドルパサー",
+      "jptext": "………………。"
+    },
+    {
+      "name": "",
+      "text": "——\"Grass Wonder đang từ chối tất cả các lời mời chiêu mộ\".",
+      "jpname": "モノローグ",
+      "jptext": "――『グラスワンダーが、全てのスカウトを断っている』"
+    },
+    {
+      "name": "",
+      "text": "Tin đồn ấy bắt đầu rộ lên không lâu sau đó.",
+      "jpname": "モノローグ",
+      "jptext": "その噂が流れ始めたのは、それからすぐのことだった。"
+    }
+  ]
+}
