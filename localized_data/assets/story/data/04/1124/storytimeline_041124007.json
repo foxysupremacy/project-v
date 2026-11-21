@@ -1,0 +1,416 @@
+{
+  "title": "Ánh mắt đặt trọn niềm tin",
+  "jptitle": "信じる瞳",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Trại huấn luyện mùa hè――Quá trình tập luyện của Bubble Gum Fellow đang tiến triển vô cùng thuận lợi. Sau khi hoàn thành giáo án buổi sáng và cùng nhau đúc kết lại nội dung...",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿――バブルガムフェローのトレーニングは順調そのものだ。\n午前のメニューをこなし、振り返りも済んだので……。",
+      "choice_data_list": [
+        "Chiều nay em được nghỉ như kế hoạch đấy."
+      ],
+      "jpchoice_data_list": [
+        "この後は、予定通りオフだよ"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em cảm ơn anh nha. Nè, chiều nay Trainer có rảnh không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ありがとう。\nねぇ、トレーナーさんは午後、時間ある？",
+      "choice_data_list": [
+        "? Anh có rảnh, nhưng sao thế...?"
+      ],
+      "jpchoice_data_list": [
+        "？あるけど……"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "May quá. Vậy thì, đi thám hiểm cùng em nhé!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "よかった。\nじゃあ、私と探検しよう！"
+    },
+    {
+      "name": "",
+      "text": "Nghe theo lời dặn \"cả hai đứa mặc đồ bơi rồi tập trung ở bãi biển nhé!\", tôi vừa đặt chân tới bờ cát thì――",
+      "jpname": "モノローグ",
+      "jptext": "『お互い水着を着て浜に集合！』との指定を受けて、\n浜にやってきたところ――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Phía đằng xa kia, ngay mỏm đá ngoài rìa bãi biển anh thấy có một hang động đúng không? Nghe bảo sâu bên trong đó có một tuyệt cảnh hiếm có đấy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "向こうの方、浜の端に洞窟が見えるでしょ？\nあそこの奥にさ、とっておきの絶景があるんだって。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em nghe người dân địa phương kể lại rằng, nếu băng qua hang động đó sẽ đến được một vùng biển vô cùng kỳ vĩ... đại loại thế đó anh.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "地元の人から聞いたんだけど、\n洞窟を抜けるとすごい海があるらしい……みたいな話でさ。",
+      "choice_data_list": [
+        "\"Vùng biển kỳ vĩ\" ư? Không biết sẽ như thế nào nhỉ..."
+      ],
+      "jpchoice_data_list": [
+        "“すごい海”？どんなのだろう……"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ai mà biết được chứ? Nghe nói mọi người trong học viện cũng chưa từng có ai tới đó đâu. Bởi vậy, hai chúng mình hãy là những người đầu tiên đặt chân đến nhé!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "さあ？　学園のみんなもまだ誰も行ったことないって。\nだからさ、私たちで1番乗りしちゃおうよ！"
+    },
+    {
+      "name": "",
+      "text": "Thông tin có phần khá mơ hồ và sơ sài. Bình thường nếu chỉ dựa vào bấy nhiêu đó mà đi thám hiểm thì ắt hẳn sẽ rất bất an. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "かなり大雑把な情報ではある。\n普通なら、それだけを頼りに探検するのは不安だ。でも――"
+    },
+    {
+      "name": "",
+      "text": "Nếu là cùng với Bubble Gum Fellow, tôi tin chắc rằng hai chúng tôi nhất định sẽ tìm được vùng biển kỳ diệu ấy.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローと一緒なら、\n必ずそのとっておきの海に辿り着ける――そう確信できる。",
+      "choice_data_list": [
+        "Hãy trở thành những người đầu tiên nào!"
+      ],
+      "jpchoice_data_list": [
+        "1番乗り、やっちゃおう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bên trong hang động vô cùng tĩnh mịch, không một tia sáng nào lọt vào khiến việc nhìn rõ bước chân dưới đáy hang trở nên khó khăn. Dù cấu trúc bên trong xem chừng không quá phức tạp...",
+      "jpname": "モノローグ",
+      "jptext": "洞窟の中は静かで、少しも光が差し込まず、足元も見えづらかった。\n内部の構造としては、そこまで複雑ではなさそうだが……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer ơi, chú ý chỗ đặt chân nhé. Ngay đằng trước có bậc gập ghềnh đấy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "トレーナーさん、ここ足場気を付けて。\n次、ちょっと段差あるよ。"
+    },
+    {
+      "name": "",
+      "text": "Tin tưởng vào lời hướng dẫn của người dẫn đường Bubble Gum Fellow, tôi từng bước, từng bước tiến sâu dần vào bên trong...",
+      "jpname": "モノローグ",
+      "jptext": "先導してくれるバブルガムフェローの言葉を信じ、\n一歩ずつ、奥へ奥へと進んでいくと……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A, đằng kia hình như có chút ánh sáng kìa? Nếu đi thêm một đoạn nữa thì――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あっ、なんかちょっと光が見えない？\nもう少し行けば――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, tuyệt quá! Cái này là phiến đá đang phản chiếu ánh sáng sao...?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "わあっ、すごい！\nこれ、岩が光を反射してる……？",
+      "choice_data_list": [
+        "Đẹp thật đấy...!",
+        "Đẹp thật đấy...!"
+      ],
+      "jpchoice_data_list": [
+        "綺麗だな……！",
+        "綺麗だね……！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Nhưng mà, đây đâu phải là \"biển\". Có lẽ phong cảnh \"kỳ diệu\" vẫn còn ở phía trước.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……でも、これは『海』ではないよね。\nたぶん『とっておき』はまだ先だ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Fufu, đi tiếp thôi nào!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ふふ、さあ行こう！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, tuyệt quá...!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "わ、すごい……！"
+    },
+    {
+      "name": "",
+      "text": "Ẩn mình tĩnh lặng nơi đây là một vùng biển trong vắt tuyệt đẹp. Màu lam nhạt, sắc xanh thẫm, xanh ngọc bích... dải chuyển màu huyền ảo ấy khiến tâm hồn tôi hoàn toàn bị mê hoặc.",
+      "jpname": "モノローグ",
+      "jptext": "ひっそりと佇むように、美しく澄んだ海があった。水色、深い青、\nエメラルドグリーン……幻想的なグラデーションに、心を奪われる。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Đẹp quá... Với lại, trông như một căn cứ bí mật vậy nhỉ. ――Vùng biển chỉ thuộc về riêng hai chúng mình.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "綺麗だ……それに、なんか秘密基地みたいだね。\n――私たちだけの海だ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Được rồi, đã cất công tới đây thì mình cùng lặn biển thôi nào!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "よーし、せっかくだし潜っちゃおうか！",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em lặn xuống tận đáy xem thử một chút nhé! Anh đợi em nha!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ちょっと底の方まで見に行ってみるよ！\n待ってて！"
+    },
+    {
+      "name": "",
+      "text": "(Ào!)",
+      "jpname": "モノローグ",
+      "jptext": "（ザバーン！）"
+    },
+    {
+      "name": "",
+      "text": "Nhảy ào xuống làn nước biển, Bubble Gum Fellow thoăn thoắt lặn sâu xuống đáy chỉ trong chớp mắt. Tôi đành tạm thời đứng đợi...",
+      "jpname": "モノローグ",
+      "jptext": "勢いよく海に飛び込み、バブルガムフェローはあっという間に\n深くまで潜っていってしまった。ひとまず待つことにして……。"
+    },
+    {
+      "name": "",
+      "text": "............ ........................",
+      "jpname": "モノローグ",
+      "jptext": "…………。\n……………………。",
+      "choice_data_list": [
+        "............Em ấy lặn lâu thế kia ư!?",
+        "............Không phải là lặn quá lâu sao!?"
+      ],
+      "jpchoice_data_list": [
+        "…………長いな！？",
+        "…………長くない！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lẽ nào vùng biển này sâu hơn mình tưởng rất nhiều chăng? Giữa lúc tôi bắt đầu thấy lo lắng thì――",
+      "jpname": "モノローグ",
+      "jptext": "もしやこの海、かなり深いのではないだろうか。\n少し心配になってきた、その時――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Kỳ diệu lắm, Trainer ơi!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――すごいよ、トレーナーさん！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Dưới đó có một nơi đẹp tuyệt trần luôn. Cảnh tượng \"kỳ diệu\" chính là điều đó đấy anh!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "すごく綺麗な場所があったんだ。\n『とっておき』って、あれのことだったんだよ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em cũng muốn cho Trainer được chiêm ngưỡng nó nữa cơ. ――Nè, anh cùng lặn xuống với em nhé?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "トレーナーさんにも見てほしいなぁ。\n――ねえ、一緒に潜ってみない？",
+      "choice_data_list": [
+        "Ơ..."
+      ],
+      "jpchoice_data_list": [
+        "えっ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi phỏng đoán chắc sẽ phải lặn xuống một độ sâu rất lớn. Thành thực mà nói... tôi thấy hơi sợ. Vốn dĩ với khả năng bơi lội của mình, liệu có thể xuống tới nơi được hay không...",
+      "jpname": "モノローグ",
+      "jptext": "察するに、かなり深くまで潜ることになりそうだ。正直……怖い。\nそもそも、自分の泳ぎでそこまで辿り着けるかも……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Anh thấy bất an sao?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "不安？"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A ha ha! Cũng phải thôi, vì phải lặn xuống khá sâu mà. Nhưng mà...",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あははっ！　だよね、結構深くまで潜ることになるし。\nでも……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Em tin anh mà. Nếu là anh thì nhất định sẽ làm được.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――私は信じてるよ。貴方ならできる。"
+    },
+    {
+      "name": "",
+      "text": "Những lời nói tràn đầy sự quả quyết ấy đã tiếp thêm cho tôi bao niềm dũng khí. \"Làm được\"... nếu đó là điều cô gái ấy khẳng định――tôi có thể tin tưởng.",
+      "jpname": "モノローグ",
+      "jptext": "確信に満ちた言葉に、勇気が湧いてくる。\n『できる』……そう言ってくれた彼女の言葉なら――信じられる。"
+    },
+    {
+      "name": "",
+      "text": "Hãy thử xem nào. Không――",
+      "jpname": "モノローグ",
+      "jptext": "やってみよう。いや――",
+      "choice_data_list": [
+        "Anh sẽ làm được. Vì anh tin vào Bubble!"
+      ],
+      "jpchoice_data_list": [
+        "やってみせる。バブルを信じて！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Dạ, phải thế chứ!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うん、その意気だ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nào, anh nắm chặt lấy tay em nhé. Em sẽ đưa anh đến với cảnh sắc \"kỳ diệu\" ấy!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "さあ、私の手を握って。\n『とっておき』に連れて行こう、貴方を！"
+    },
+    {
+      "name": "",
+      "text": "(Tõm!)",
+      "jpname": "モノローグ",
+      "jptext": "（ざぷんっ！）"
+    },
+    {
+      "name": "",
+      "text": "Được Bubble Gum Fellow nắm tay dẫn đường, chúng tôi lặn sâu dần, sâu dần. Càng tiến tới, ánh sáng càng lùi xa, nhường chỗ cho sắc lam thẫm bao trùm...",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローに手を引かれ、どんどん深くまで潜っていく。\n進むほどに光が遠のき、深い青に包まれていき……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――――!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――――！"
+    },
+    {
+      "name": "",
+      "text": "Bubble Gum Fellow làm thủ thế ra hiệu điều gì đó với tôi. Bước thêm một nhịp về hướng ngón tay em đang chỉ và nhìn ra――",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローが、ジェスチャーで何かを伝えてくれている。\n彼女の指し示す場所へもう一歩進み、目を向けると――"
+    },
+    {
+      "name": "",
+      "text": "――Trước mắt tôi, một tuyệt cảnh chưa từng thấy trong đời đang mở ra bát ngát.",
+      "jpname": "モノローグ",
+      "jptext": "――そこには、かつて見たことのない絶景が広がっていた。"
+    },
+    {
+      "name": "",
+      "text": "Ánh nắng mặt trời từ đâu đó rọi xuống, khiến làn nước biển lấp lánh như ngàn vì sao. Những rạn san hô mềm rực rỡ sắc màu bung nở kiêu sa, cùng muôn vàn chú cá tuyệt đẹp tung tăng uốn lượn.",
+      "jpname": "モノローグ",
+      "jptext": "どこからか太陽の光が差し込み、海がきらきらと輝いている。\n色鮮やかなソフトコーラルが咲き誇り、美しい魚たちが踊っていた。",
+      "choice_data_list": [
+        "(Đẹp quá chừng...)",
+        "(Đẹp quá...)"
+      ],
+      "jpchoice_data_list": [
+        "（綺麗だ……）",
+        "（綺麗……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(――Ào!)",
+      "jpname": "モノローグ",
+      "jptext": "（――ザバッ！）"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Anh thấy sao? Đẹp lắm đúng không nào!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "どう？　綺麗だったでしょう！",
+      "choice_data_list": [
+        "Tuyệtttt vời không tưởng luôn!"
+      ],
+      "jpchoice_data_list": [
+        "すっっごかった！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Đúng không nào!? A ha ha! Ngoài hai từ \"tuyệt vời\" ra thì chẳng biết nói gì hơn nữa, vì đẹp quá chừng mà! Ha ha ha, ――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "でしょ！？　あははっ！\nもう『すごい』しか言えないよね、綺麗すぎて！　はははっ、――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Anh thấy đấy, đúng như những gì em đã tin tưởng.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――ね、信じたとおりだ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nếu là anh thì nhất định có thể lao mình nhảy xuống. Và chắc chắn sẽ chạm tới cảnh tượng \"kỳ diệu\" ấy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "貴方なら飛び込める。\n『とっておき』の景色に、辿り着けるってね。",
+      "choice_data_list": [
+        "...!!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em luôn tin tưởng vào chính mình. Và anh thì lúc nào cũng dành trọn niềm tin cho một người như em. Vậy nên...",
+      "jpname": "バブルガムフェロー",
+      "jptext": "私は私を信じてる。\nそんな私を、貴方はいつだって信じてくれるよね。だから……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em cũng đặt trọn niềm tin nơi anh.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "私も、貴方を信じてる。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em có thể làm được mọi điều. Và nếu đồng hành cùng em, anh cũng có thể làm được tất cả mọi thứ. ――Em đưa anh đến đây, chính là vì muốn nói với anh điều đó.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "私はなんだってやれる。貴方も、私と一緒ならなんだってやれるよ。\n――それを伝えたくてさ。ここまで連れてきたんだ。"
+    },
+    {
+      "name": "",
+      "text": "Được đôi mắt chân thành của Bubble Gum Fellow nhìn thẳng vào tâm can... Lồng ngực tôi bỗng trào dâng một cảm giác ấm áp khôn cùng.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローの真摯な瞳に、まっすぐ見つめられて……\n胸が、熱くなる。",
+      "choice_data_list": [
+        "Liệu anh có làm được không...",
+        "Liệu tôi có làm được không..."
+      ],
+      "jpchoice_data_list": [
+        "できるかな。俺も……",
+        "できるかな、私も……"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Làm được chứ, bất kể điều gì đi nữa. Hai chúng ta sẽ cùng nhau biến tất cả thành hiện thực.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "できるよ、なんだって。2人で実現してみせる。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nếu là hai chúng ta, anh và em, thì nhất định sẽ làm được.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "貴方と私の2人なら、必ずね。"
+    },
+    {
+      "name": "",
+      "text": "Lời nói của Bubble Gum Fellow lúc nào cũng tràn đầy sự quả quyết. Rằng chỉ cần hai người chúng tôi kề vai sát cánh, không gì là không thể――Tự tận đáy lòng, tôi cũng tin tưởng sâu sắc vào điều đó.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローの言葉は、いつだって確信に満ちている。\n2人ならなんだってできる――自分も、心の底からそう思えた。"
+    }
+  ]
+}

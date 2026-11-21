@@ -1,0 +1,446 @@
+{
+  "title": "Tín niệm giương cao",
+  "jptitle": "掲げる信条",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ. Nhân dịp này tôi muốn đi đâu đó đổi gió nên đã ra trước nhà ga, đúng lúc ấy――",
+      "jpname": "モノローグ",
+      "jptext": "休日。せっかくなのでどこかに出かけようかと\n駅前まで出てきたところ――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Ơ kìa. Chào buổi sáng Trainer. Anh đang đi chơi đấy à?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あれっ。\nおはようトレーナーさん。おでかけ？",
+      "choice_data_list": [
+        "Anh tính đi dạo loanh quanh thôi. Còn em?",
+        "Tôi tính đi dạo loanh quanh thôi. Còn bạn?"
+      ],
+      "jpchoice_data_list": [
+        "適当にブラつこうかなって。君は？",
+        "適当にブラつこうかなって。貴方は？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em cũng tương tự thế. Định bụng đi đánh golf một chút để thư giãn đầu óc.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "似たような感じ。\n息抜きがてら、ちょっとゴルフでもと思って。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A, phải rồi! Trainer ơi, nếu không phiền thì anh đi cùng em nhé?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "そうだ！\nトレーナーさん、よかったら一緒に行かない？"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Tụi mình tự đánh nhẹ nhàng 9 lỗ thôi thì sao nào? Chỉ riêng hai đứa mình, thoải mái vô tư.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "セルフで軽く9ホールだけ回る感じでどう？\n2人っきりで、気楽にさ。",
+      "choice_data_list": [
+        "Bubble thường hay chơi golf lắm à?",
+        "Bubble thường hay chơi golf lắm à?"
+      ],
+      "jpchoice_data_list": [
+        "バブルはよくゴルフやるのか？",
+        "バブルはよくゴルフやるの？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Hửm... Cũng không hẳn là chơi chuyên sâu gì đâu anh. Chỉ xem như một cách đổi gió thư giãn thôi. Còn Trainer thì sao?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ん～……特別やり込んでるってワケじゃないよ。\n息抜きの手段の1つって程度かな。トレーナーさんは？",
+      "choice_data_list": [
+        "Anh thì gần như là tay mơ hoàn toàn rồi."
+      ],
+      "jpchoice_data_list": [
+        "ほぼ初心者みたいなものかなぁ"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A ha ha, thế à! Thôi cứ thong thả tận hưởng nha. Chỉ cần vung gậy đánh bóng một cách thoải mái thôi cũng thấy sảng khoái lắm rồi đó.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あはは、そっか！　まあのんびり楽しもうよ。\n適当に打つだけでも、結構スッキリするよ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Phù...! ――Hửm. Hôm nay phong độ có vẻ tốt đấy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ふっ……！\n――ん。今日は調子いいかも。"
+    },
+    {
+      "name": "",
+      "text": "Em ấy nói chỉ là chơi đổi gió thôi... nhưng thực tế lại giỏi đến kinh ngạc! Đường gậy hoa mỹ, bóng lăn gọn gàng vào lỗ chỉ sau vài cú đánh ít ỏi, quả thực vô cùng mãn nhãn.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は息抜き程度、と言っていたが……とてつもなく上手い！\n少ない打数で確実にカップインする華麗なクラブ捌きは、圧巻だ。",
+      "choice_data_list": [
+        "Em cừ thật đấy, Bubble!",
+        "Bạn cừ thật đấy, Bubble!"
+      ],
+      "jpchoice_data_list": [
+        "すごいな、バブル！",
+        "すごいね、バブル！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Vậy sao? Cảm ơn anh nhé!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "そうかな？　ありがとう！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer cũng chơi tốt lắm đấy chứ! Tư thế của anh đang chuẩn dần đều rồi, mà cự ly của cú đánh đầu tiên cũng xa hơn nữa.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "トレーナーさんも、すごくいい感じだよ！\n段々フォーム整ってきたし、ファーストショットの距離も伸びてる。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――A, phải rồi! Đã mất công đến đây, hay là tụi mình cùng đặt ra mục tiêu đi. Như thế chẳng phải sẽ vui hơn sao?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――そうだ！　せっかくだし、お互いに目標を決めようよ。\nその方が楽しそうじゃない？"
+    },
+    {
+      "name": "",
+      "text": "Mục tiêu――trước mắt tôi muốn đạt điểm \"Par\" ít nhất một lần... tức là đưa bóng vào lỗ trong số gậy tiêu chuẩn. Dù không tự tin lắm, nhưng mục tiêu thì phải đặt cho cao!",
+      "jpname": "モノローグ",
+      "jptext": "目標――とりあえず1度くらいは『パー』……標準打数内に\nカップインしたい。自信はないが、目標は高く設定する！",
+      "choice_data_list": [
+        "Mục tiêu là đạt điểm \"Par\"!"
+      ],
+      "jpchoice_data_list": [
+        "目標は『パー』達成！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Hay đấy. Chỉ cần đánh bóng bay xa hơn một chút nữa là anh làm được ngay thôi! Vậy còn em thì sao đây ta...",
+      "jpname": "バブルガムフェロー",
+      "jptext": "いいね。もう少し飛距離が伸びればきっとイケるよ！\nじゃあ私はどうしようかな～。"
+    },
+    {
+      "name": "",
+      "text": "Bất chợt tôi nghĩ, nếu Bubble Gum Fellow hoàn thành mục tiêu thì mình thưởng cho em ấy cái gì đó cũng hay.",
+      "jpname": "モノローグ",
+      "jptext": "そこでふと、バブルガムフェローが目標を達成したら\nご褒美をあげるのもいいかもしれない、と思いつく。",
+      "choice_data_list": [
+        "Nếu em hoàn thành mục tiêu, anh sẽ đãi em đồ ngọt nhé!",
+        "Nếu bạn hoàn thành mục tiêu, tôi sẽ đãi bạn đồ ngọt nhé!"
+      ],
+      "jpchoice_data_list": [
+        "君が目標達成したら、スイーツ奢ろうか！",
+        "貴方が目標達成したら、スイーツ奢ろっか！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Thật hả anh!? Tuyệt cú mèo! Vậy thì――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "本当？　やった！\nそれじゃあ――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em xin tuyên bố luôn. Ngay cú đánh tiếp theo, em sẽ ghi điểm Hole-in-one!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "宣言しよう。\n次のショットで、ホールインワンを決める！"
+    },
+    {
+      "name": "",
+      "text": "Tôi giật mình trước mục tiêu quá đỗi táo bạo ấy. Nghe nói Hole-in-one gần như là một điều kỳ tích...",
+      "jpname": "モノローグ",
+      "jptext": "これはまた大きく出たな、と驚く。\nホールインワンなんて、ほぼ奇跡みたいなものだと聞くが……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Dù vậy, một mình em tận hưởng niềm vui thì không hay lắm. Để đáp lễ cho chầu đồ ngọt, cú đánh này em xin dành tặng riêng cho anh nhé!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "とはいえ、私だけいい思いをするのもなんだからね。\nスイーツのお礼に、このショットは貴方に捧げよう！",
+      "choice_data_list": [
+        "Ơ kìa――"
+      ],
+      "jpchoice_data_list": [
+        "えっ――"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Phù!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――ふっ！"
+    },
+    {
+      "name": "",
+      "text": "(Vútttttt... cộp, lăn lăn lăn...)",
+      "jpname": "モノローグ",
+      "jptext": "（ヒュ～～～～……トッ、コロコロコロ……）"
+    },
+    {
+      "name": "",
+      "text": "(――――Cạch!)",
+      "jpname": "モノローグ",
+      "jptext": "（――――スコン！）",
+      "choice_data_list": [
+        "...V-Vào rồi ư!?"
+      ],
+      "jpchoice_data_list": [
+        "……は、入った！？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Anh thấy sao? Cú đánh em tặng anh, anh ưng ý chứ?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――どう？　私からのショット、気に入ってくれたかな？",
+      "choice_data_list": [
+        "Đỉnh quá đi! Cảm xúc bùng nổ luôn!!"
+      ],
+      "jpchoice_data_list": [
+        "すごい！興奮した！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không ngờ em ấy lại thực sự làm được chỉ với một cú đánh duy nhất! Khả năng biến lời nói thành hiện thực đáng kinh ngạc ấy khiến tôi cảm phục vô ngần!",
+      "jpname": "モノローグ",
+      "jptext": "まさか、本当に1本で成功してしまうだなんて！\n彼女の驚異的な実現力に、感動すら覚える！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A ha ha, thế thì tốt quá rồi! Nào, giờ tới lượt Trainer đấy. Cố gắng hướng tới điểm Par nhé anh!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あははっ、それはよかった！\nさあ、次はトレーナーさんの番だよ。パー目指して頑張ろう！"
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc mục tiêu tôi đặt ra trong lúc cao hứng đã không hoàn thành được, nhưng tôi đã có một khoảng thời gian vô cùng vui vẻ. Và đúng như lời hứa――",
+      "jpname": "モノローグ",
+      "jptext": "結局、自分が勢いで立てた目標は達成ならずだったが、\nとても楽しい時間を過ごせた。そして約束通り――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, dễ thương quá chừng...! Em đã muốn ghé quán này từ lâu lắm rồi. Cả cách bài trí lẫn thực đơn đều xinh xắn hết nấc luôn!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うわぁ、カワイイ……！　この店、ずっと来てみたかったんだ。\n内装もメニューもすごくカワイくてさ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, món nào trông cũng ngon mắt hết! Biết gọi món gì bây giờ ta!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うわ～、全部美味しそう！\nどれ頼もうかな～！",
+      "choice_data_list": [
+        "Em cứ gọi bất cứ món gì mình thích nhé!",
+        "Bạn cứ gọi bất cứ món gì mình thích nhé!"
+      ],
+      "jpchoice_data_list": [
+        "なんでも頼んでいいぞ！",
+        "なんでも頼んでいいよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trong lúc cùng em xem qua thực đơn――tôi đã phát hiện ra một thứ kinh ngạc. \"Tháp pancake siêu ngọt & mộng mơ chồng ngập tràn\"...!",
+      "jpname": "モノローグ",
+      "jptext": "一緒にメニューを覗き込んでいると――すごいものを見つけた。\n『激甘＆ゆめかわ♡爆盛りパンケーキタワー』……！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, món này đỉnh thật đấy! Vừa dễ thương lại trông ngon tuyệt! Ô, hình như còn có cả chương trình thử thách nữa này.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "わ、すごいねこれ！　カワイイし美味しそう！\nおっ、チャレンジ企画もあるんだって。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nếu ăn hết trong thời gian giới hạn 15 phút thì sẽ được miễn phí, lại còn được tặng quà kỷ niệm nữa... Dạ. Được đấy, em sẽ chơi thử thách này!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "制限時間15分以内に食べきれば無料、さらに記念品プレゼント……\nうん。いいね、これやろう！",
+      "choice_data_list": [
+        "Chừng này đồ ăn, mà trong 15 phút ư...!?"
+      ],
+      "jpchoice_data_list": [
+        "この量、15分で……！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Từng lớp pancake xếp chồng lên nhau tới tận 8 tầng như một chiếc burger khổng lồ. Kẹp ngập tràn các loại bánh kẹo và kem tươi――khối lượng đồ ăn đồ sộ đến choáng ngợp!",
+      "jpname": "モノローグ",
+      "jptext": "まるでハンバーガーのごとく、8段も積み上げられたパンケーキ。\n数多のお菓子と生クリームをどっぷり挟んで――とてつもない量だ！"
+    },
+    {
+      "name": "",
+      "text": "Dù em có hảo ngọt đến đâu, dù có là Mã Nương đi chăng nữa... thế này... chẳng phải là bất khả thi sao...!?",
+      "jpname": "モノローグ",
+      "jptext": "いくら甘いもの好きとはいえ、ウマ娘とはいえ……\nこれは……無理なのでは……！？"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Không đâu anh, em ăn được mà. Đâu chỉ riêng 15 phút――em sẽ phá luôn kỷ lục mới cho anh xem!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "いや、いけるよ。\n15分どころじゃない――新記録だって出してみせる！"
+    },
+    {
+      "name": "Nhân viên quán cà phê",
+      "text": "Vậy thì, thử thách ăn nhanh \"Tháp pancake siêu ngọt & mộng mơ chồng ngập tràn\"... bắt đầu!",
+      "jpname": "カフェ店員",
+      "jptext": "ではでは～、『激甘＆ゆめかわ♡爆盛りパンケーキタワー』\n早食いチャレンジ……スタート～♪"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em xin phép được ăn đây!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "いただきます！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――――Ưm, ngon tuyệt cú mèo!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――――っ、んんっ！　美味しい！"
+    },
+    {
+      "name": "",
+      "text": "Bubble Gum Fellow vừa thưởng thức hương vị trọn vẹn, vừa ăn với tốc độ vũ bão. Dẫu đồ ngọt có béo ngậy đến đâu, nhịp độ của em vẫn không hề suy chuyển――",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローは、しっかり味を楽しみつつも、猛烈な勢いで\n食べ進めた。どんなに重たいお菓子にもペースを落とすことなく――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Em ăn xong rồi ạ!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――ごちそうさまでした！"
+    },
+    {
+      "name": "Nhân viên quán cà phê",
+      "text": "Đ-Đã ăn sạch bách rồi! Thời gian là... kinh ngạc chưa, 8 phút 26 giây! Đây là kỷ lục mới toanh của quán chúng tôi đấy ạ!!",
+      "jpname": "カフェ店員",
+      "jptext": "か、完食～！\n記録は……なんと、8分26秒！　当店新記録です～！！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Tuyệt quá! Phù... Ngon miệng ghê. Có điều phải ăn hơi vội nên chưa thưởng thức kỹ được thì hơi tiếc một xíu.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "やった！　はぁ～……美味しかった。\nちょっと急いじゃったのがもったいなかったけど。"
+    },
+    {
+      "name": "",
+      "text": "Em ấy thực sự đã lập nên một kỷ lục mới...! Bản tính nói là làm của em, lần nào cũng khiến tôi phải ngỡ ngàng thán phục...!",
+      "jpname": "モノローグ",
+      "jptext": "本当に新記録を出してしまった……！\n彼女の有言実行っぷりには、毎度驚かされる……！",
+      "choice_data_list": [
+        "Quá đỉnh luôn! Không ngờ em lại ăn hết thật đấy!",
+        "Quá đỉnh luôn! Không ngờ bạn lại ăn hết thật đấy!"
+      ],
+      "jpchoice_data_list": [
+        "すごいな！本当にやりきっちゃうなんて！",
+        "すごいね！本当にやりきっちゃうなんて！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Vậy sao anh? Đó là lẽ đương nhiên thôi mà. Việc gì không làm được thì em chẳng bao giờ nói đâu.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "そう？\n当然のことだよ。できないことは言わないからね。",
+      "choice_data_list": [
+        "...!!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em tin rằng bản thân có thể làm được mọi điều. Vì thế em mới nói là sẽ làm, và chứng minh cho mọi người thấy bằng hành động.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "私はなんだってできる。そう信じてる。\nだからやると言うし、やってみせるだけだ。"
+    },
+    {
+      "name": "",
+      "text": "Nếu là bản thân tôi, tôi sẽ nghĩ \"dù không tự tin có làm được hay không, nhưng mình cứ thử xem sao\". ――Không, đâu chỉ riêng tôi, đại đa số mọi người có lẽ đều như thế.",
+      "jpname": "モノローグ",
+      "jptext": "自分ならば『やれるかどうか自信はないが、やってみる』と考える。\n――否、自分だけでなく、大抵の人はそうだろう。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, Bubble Gum Fellow thì khác. Sức mạnh của em... không chỉ nằm ở năng lực xuất chúng, mà còn ở \"niềm tin vững chắc vào chính bản thân mình\".",
+      "jpname": "モノローグ",
+      "jptext": "だが、バブルガムフェローは違う。彼女の強さは……\nその高い能力だけでなく、『自分自身を信じる力』にもあるのだ。"
+    },
+    {
+      "name": "",
+      "text": "――Tôi muốn đặt trọn niềm tin. Muốn dốc toàn lực để tin vào sức mạnh ấy của em. Vậy nên hãy tuyên bố đi nào. Noi theo phong thái của em ấy...",
+      "jpname": "モノローグ",
+      "jptext": "――信じたい。そんな彼女の強さを、自分も全力で。\nだから宣言しよう。彼女の姿勢を倣って……。",
+      "choice_data_list": [
+        "Anh cũng tin vào điều đó! Nếu là em thì có thể làm được mọi thứ!",
+        "Tôi cũng tin vào điều đó! Nếu là bạn thì có thể làm được mọi thứ!"
+      ],
+      "jpchoice_data_list": [
+        "俺も信じてるよ！君なら何でもできる！",
+        "私も信じてるよ！貴方なら何でもできる！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "A ha ha! Đó là lời tuyên ngôn của anh sao? Tuyệt lắm, hay cực kỳ luôn!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あははっ！\nそれは貴方の宣言？　いいね、すごくいい！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Dạ, hãy luôn tin tưởng ở em nhé. Hãy đứng ở nơi gần nhất để dõi theo em. Dù là lúc nào, việc gì em cũng sẽ làm được cho anh xem.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――うん、信じていて。1番近くで見ていてよ。\n私はいつでも、なんだってやってみせるから。"
+    },
+    {
+      "name": "Nhân viên quán cà phê",
+      "text": "Đây là phần thưởng bộ gấu bông kỷ niệm dành cho người vượt qua thử thách ạ! Chúng tôi cũng có chụp ảnh kỷ niệm nữa đó nha!",
+      "jpname": "カフェ店員",
+      "jptext": "そちら、チャレンジ成功特典のぬいぐるみセットです～！\n記念撮影もできますよ～！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Oa, dễ thương quá đi! Trainer ơi, tụi mình cùng chụp một tấm đi!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うわぁ～、カワイイ！\nトレーナーさん、一緒に撮ってもらおうよ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nè, anh cầm bé cún con bên này đi!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ほら、こっちのワンちゃん持って！"
+    },
+    {
+      "name": "Nhân viên quán cà phê",
+      "text": "Vậy tôi chụp nhé! Hai bạn đứng sát lại gần nhau một chút nào! Cười lên nào, một hai ba!",
+      "jpname": "カフェ店員",
+      "jptext": "ではいきまーす！\nお2人とも寄って寄って～！　はい、チーズ！"
+    },
+    {
+      "name": "Nhân viên quán cà phê",
+      "text": "――Vâng, bức ảnh này xin tặng lại cho hai bạn nhé!",
+      "jpname": "カフェ店員",
+      "jptext": "――はーい、こちらの写真、プレゼントでーす♪"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Cháu cảm ơn cô nhiều ạ! A ha, Trainer ơi, ảnh chụp anh trông dễ thương lắm luôn nè!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ありがとうございます！\nあはっ、トレーナーさん、すごくカワイく撮れてるよ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nhìn xem này. Ôm bé cún trông anh hơi ngượng ngùng một xíu. Fufu――Dễ thương lắm đó, Trainer ơi.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ほら。ワンちゃん抱えてさ、ちょっと照れが出ちゃってるけど。\nふふっ――カワイイよ、トレーナーさん。"
+    },
+    {
+      "name": "",
+      "text": "Dù chụp ảnh có đôi chút ngượng ngùng thật... nhưng thấy Bubble Gum Fellow vui vẻ suốt cả buổi, hôm nay quả là một ngày trọn vẹn và ý nghĩa.",
+      "jpname": "モノローグ",
+      "jptext": "写真は少し照れ臭かったが……バブルガムフェローが\n終始楽しそうで、充実した1日だった。"
+    }
+  ]
+}

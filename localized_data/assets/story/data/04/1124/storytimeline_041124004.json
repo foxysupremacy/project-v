@@ -1,0 +1,422 @@
+{
+  "title": "Giấc mơ lớn dần",
+  "jptitle": "膨らむ夢",
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
+      "text": "――Vậy thì, cự ly 2000m chạy vòng trái nhé. ...Vào vị trí thôi nào.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "――では、左回りの2000mで。\n……位置につくとしよう。"
+    },
+    {
+      "name": "Mã Nương học viện A",
+      "text": "――Căng thẳng chẳng khác gì một cuộc đua chính thức luôn. Không biết hôm nay Bubble-san sẽ thi đấu thế nào đây nhỉ...?",
+      "jpname": "学園のウマ娘A",
+      "jptext": "――本番のレースかってぐらい緊張感あるね。\nバブルさん、今日はどうやって戦うんだろう……？"
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Để xem một trong \"Tứ Thiên Vương\" lừng danh có thể làm được gì trước đối thủ như Symboli Rudolf nào――",
+      "jpname": "中堅トレーナー",
+      "jptext": "噂の『四天王』があのシンボリルドルフ相手にどこまで\nやれるか、しっかり見させてもらうか――",
+      "choice_data_list": [
+        "Cố lên nhé, Bubble...!"
+      ],
+      "jpchoice_data_list": [
+        "頑張れ、バブル……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(――Cạch!!)",
+      "jpname": "モノローグ",
+      "jptext": "（――ガコンッ！！）"
+    },
+    {
+      "name": "Mã Nương học viện A",
+      "text": "A, giống y lần trước kìa...! Bubble-san lại bứt lên chạy Tiên phong rồi...!",
+      "jpname": "学園のウマ娘A",
+      "jptext": "あっ、この前と同じ……！\nまたバブルさんが先行してる……！"
+    },
+    {
+      "name": "Mã Nương học viện B",
+      "text": "...Nhưng mà này, lần trước cú tăng tốc ban đầu trông khủng hơn nhiều cơ mà? Khoảng cách dẫn trước hình như cũng đâu có xa mấy đâu――",
+      "jpname": "学園のウマ娘B",
+      "jptext": "……でもさ、この前は最初の加速、もっとすごくなかった？\nリードもそんなに開いてないような――",
+      "choice_data_list": [
+        "(Tốt rồi, cứ thế mà làm...!)"
+      ],
+      "jpchoice_data_list": [
+        "（よし、これでいい……！）"
+      ]
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Sắp bước vào giai đoạn cuối rồi mà khoảng cách dẫn trước lỡ cỡ thế kia là sao chứ...! Đối thủ là Symboli Rudolf đấy, chắc chắn sẽ bị vượt qua thôi...!",
+      "jpname": "中堅トレーナー",
+      "jptext": "もうすぐ終盤だというのに、なんだあの中途半端なリードは……！\n相手はあのシンボリルドルフだぞ、差されるに決まってる……！"
+    },
+    {
+      "name": "Mã Nương học viện B",
+      "text": "A a, khoảng cách đang bị thu hẹp dần rồi! Không duy trì được vị trí dẫn đầu rồi...! Cứ thế này thì còn tệ hơn cả lần trước――",
+      "jpname": "学園のウマ娘B",
+      "jptext": "ああっ、どんどん差をつめられてる！\n先行できなかったんだ……！　これじゃ前よりも――"
+    },
+    {
+      "name": "",
+      "text": "――Không phải. Bubble Gum Fellow không phải là không thể nới rộng khoảng cách mà bị bắt kịp. Em ấy đã cố tình làm như thế.",
+      "jpname": "モノローグ",
+      "jptext": "――違う。バブルガムフェローはリードを広げられずに\n追いつかれたのではない。あえてこうしたのだ。",
+      "choice_data_list": [
+        "Chính là lúc này, Bubbleeeee!!",
+        "Chính là lúc này, Bubbleeeee!!"
+      ],
+      "jpchoice_data_list": [
+        "今だっ、バブルーーーーッ！！",
+        "今だよっ、バブルーーーーッ！！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――So tài nào, Hội trưởng!!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――勝負だ、会長さんッ！！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ra là tính nước này sao...!",
+      "jpname": "シンボリルドルフ",
+      "jptext": "そうきたか……！"
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Đúng là quá liều lĩnh...! Dám so kè trực diện với Symboli Rudolf cơ đấy...!",
+      "jpname": "中堅トレーナー",
+      "jptext": "さすがに無謀だ……！\nシンボリルドルフと競り合いだなんて……！"
+    },
+    {
+      "name": "Mã Nương học viện A",
+      "text": "Nhưng mà... ơ kìa...? Sao trông có vẻ còn nhanh hơn cả lần trước thế kia...!?",
+      "jpname": "学園のウマ娘A",
+      "jptext": "でも……あれ……？\nなんか、この前より速くない……！？"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Đoạn cuối mà anh lại muốn em cố tình lao vào so kè tay đôi sao?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――終盤で、あえて競り合いに行くの？",
+      "choice_data_list": [
+        "Đúng vậy, nên ta sẽ không dùng chiến thuật Tiên phong dẫn xa như trước.",
+        "Phải rồi, nên ta sẽ không dùng chiến thuật Tiên phong dẫn xa như trước."
+      ],
+      "jpchoice_data_list": [
+        "ああ、だから前みたいな先行策はとらない",
+        "うん、だから前みたいな先行策はとらない"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Em có thể biết lý do không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……根拠を聞いていい？",
+      "choice_data_list": [
+        "Bởi vì em là tuýp người càng so kè gay cấn thì ngọn lửa chiến đấu càng bùng cháy mãnh liệt.",
+        "Bởi vì bạn là tuýp người càng so kè gay cấn thì ngọn lửa chiến đấu càng bùng cháy mãnh liệt."
+      ],
+      "jpchoice_data_list": [
+        "君は、競り合いでこそ燃えるタイプだから",
+        "貴方は、競り合いでこそ燃えるタイプだから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phân tích từng bước chạy của Bubble Gum Fellow cho đến hôm nay, tôi đã hiểu ra. Chỉ khi đối đầu so kè trực diện, ngọn lửa chiến đấu trong em mới thực sự bốc cao.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローの走りを今日まで分析してわかった。\n彼女は追い比べる競り合いでこそ、闘志が強く燃える。"
+    },
+    {
+      "name": "",
+      "text": "Vào lúc đó, sự sắc bén và uy lực trong từng bước chạy của em đều gia tăng toàn diện. Đúng nghĩa là――――bùng nổ.",
+      "jpname": "モノローグ",
+      "jptext": "その時の彼女は、走りの鋭さ、力強さ、その全てが増す。\nそれこそ――――爆発的に。"
+    },
+    {
+      "name": "",
+      "text": "Để mở ra cơ hội chiến thắng trước đối thủ vượt trội như Symboli Rudolf, chỉ có thể đặt cược vào sức bùng nổ ấy của em...!",
+      "jpname": "モノローグ",
+      "jptext": "格上のシンボリルドルフに対し勝機を切り開くとしたら、\n彼女のこの爆発力に賭けるべきだ……！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Thế nên anh mới bảo em cố tình chạy khớp nhịp cùng Hội trưởng để kéo dài thời gian so kè trực diện... đúng không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "だからあえて、競り合いの時間が長くなるように\n会長さんに併せに行く……と。",
+      "choice_data_list": [
+        "Đúng vậy. Đợi sẵn ở đó và nghênh chiến trực diện.",
+        "Đúng vậy. Đợi sẵn ở đó và nghênh chiến trực diện."
+      ],
+      "jpchoice_data_list": [
+        "そう。待ち構えて、受けて立つんだ",
+        "そう。待ち構えて、受けて立つんだよ"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Haha! Kế hoạch bùng nổ và điên rồ hết nấc luôn đấy anh...! Quyết định vậy đi. Em sẽ làm theo cách đó.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……ははっ！　最高にハジけたプランだね、それ……！\n決めた。それでいくよ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em sẽ đối đầu trực diện với Hội trưởng, đem sức mạnh đỉnh nhất của mình ra để――――thắng!!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "会長さんに真正面から挑んで、私の最強で――――勝つ！！"
+    },
+    {
+      "name": "Mã Nương học viện B",
+      "text": "Không thể tin được!? So kè dai dẳng hơn hẳn lần trước kìa...! Thế này, biết đâu chừng...!?",
+      "jpname": "学園のウマ娘B",
+      "jptext": "嘘でしょ！？　この前よりずっと競り合ってる……！\nこれ、もしかして……！？",
+      "choice_data_list": [
+        "Tiến lênnnnn!!!!"
+      ],
+      "jpchoice_data_list": [
+        "いけーーーーっ！！！！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Haaaaaaaaa!!!!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ハァァァァァッ！！！！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Trước lòng dũng cảm và tinh thần chiến đấu ấy của em, hãy để tôi một lần nữa bày tỏ sự kính trọng――",
+      "jpname": "シンボリルドルフ",
+      "jptext": "君のその勇気に、闘志に、\n改めて敬意を表そう――"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "――――Haa!!",
+      "jpname": "シンボリルドルフ",
+      "jptext": "――――ハァッ！！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Hà, hà, hà, hà...!! Hừ... Lại không được rồi...!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ハァッ、ハァッ、ハァッ、ハァッ……！！\nくッ……また、ダメだった……！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "――Lòng can đảm khi dám triển khai một thế trận \"nghênh chiến sòng phẳng\" trước mặt tôi. Cùng với bước chạy đầy uy lực biến điều đó thành hiện thực. ...Cả hai đều vô cùng tuyệt vời.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "――私相手に『受けて立つ』レースをする胆力。\nそれを可能にする力強き走り。……どちらも見事だった。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tôi hy vọng em sẽ luôn giữ vững tinh thần dũng cảm tiến bước ấy để tung hoành trên đường đua Twinkle Series. ...Tôi sẽ luôn cổ vũ cho em.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "これからもその進取果敢たる心持ちで、\nトゥインクル・シリーズを駆けるといい。……応援しているよ。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Vậy nhé. Cảm ơn em vì ngày hôm nay――",
+      "jpname": "シンボリルドルフ",
+      "jptext": "では。今日はありがとう――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "............Hội trưởng...―― Em cảm ơn chị rất nhiều ạ!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "…………会長さん……――\nありがとうございました！",
+      "choice_data_list": [
+        "――――Bubble!!"
+      ],
+      "jpchoice_data_list": [
+        "――――バブル！！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer ơi...! ...Em xin lỗi. Dù anh đã giúp đỡ em nhiều đến thế mà... em vẫn thua.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "トレーナーさん……！　……ごめん。\nあんなに力を貸してもらったのに……負けた。",
+      "choice_data_list": [
+        "Không, chính anh mới là người còn thiếu sót...!",
+        "Không, chính tôi mới là người còn thiếu sót...!"
+      ],
+      "jpchoice_data_list": [
+        "いや、俺のほうこそ力不足だった……！",
+        "ううん、私のほうこそ力不足だった……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu tôi có thể làm được điều gì đó tốt hơn, có lẽ em đã chạm tới tầm của Symboli Rudolf rồi. Cảm giác ấy... lúc này thực sự vô cùng tiếc nuối và cay đắng.",
+      "jpname": "モノローグ",
+      "jptext": "自分がもっと何かできていれば、シンボリルドルフに\n届いていたかもしれない。それが……今はとにかく悔しい。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Fufu. Anh lạ thật đấy. Trông anh còn tiếc nuối cay cú hơn cả em nữa cơ.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……ふふっ。\nすごいね。私よりも、悔しそうだ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nè anh. Sau buổi này thì――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あのさ。この後なんだけど――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Nào, cạn ly!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――はい、乾杯！",
+      "choice_data_list": [
+        "Cạn ly!"
+      ],
+      "jpchoice_data_list": [
+        "乾杯！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Buổi \"tiệc mừng công\" chỉ có hai người chúng tôi bắt đầu theo lời gợi ý của Bubble Gum Fellow. Nhấp một ngụm nước trái cây đóng lon, tôi thấy hương vị dường như ngọt ngào lạ thường.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローの提案で始まった2人だけの『お疲れ様会』。\n缶ジュースを口に含むと、なんだか妙に美味しく感じられた。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Cơ mà chúng mình mua nhiều bánh kẹo ghê ha. Nhiều thế này làm em hoa cả mắt không biết chọn gì... Ơ, cái này――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "それにしても、たくさんお菓子買っちゃったね。\nこれだけあると、目移りするな……って、これ――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Kẹo cao su thổi bóng! Lại còn đúng loại em hay ăn nữa chứ...! Trainer mua cho em đấy à?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "フーセンガム！　しかも、いつもの……！\nトレーナーさんが買ってくれたの？",
+      "choice_data_list": [
+        "Anh nghĩ có khi em sẽ muốn ăn nên mua thôi."
+      ],
+      "jpchoice_data_list": [
+        "もしかしたら食べるかなと思って"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Haha, anh hiểu ý em ghê nha. Vậy thì em xin nhận nhé.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ははっ、わかってるね。\nじゃあ、ありがたくいただくよ。",
+      "choice_data_list": [
+        "...Em thích kẹo cao su thổi bóng thật đấy nhỉ.",
+        "...Bạn thích kẹo cao su thổi bóng thật đấy nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "……フーセンガム、本当に好きなんだな",
+        "……フーセンガム、本当に好きなんだね"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Bánh kẹo thì món nào em cũng thích cả, nhưng kẹo cao su thổi bóng là đặc biệt nhất. ...Với em, nó giống như một bùa chú nhỏ vậy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "お菓子はどれも好きだけどさ、フーセンガムは特別。\n……私にとっては、ちょっとしたおまじないなんだよ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Một bùa chú để giúp ước mơ lớn dần lên.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "夢を膨らませるためのね。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Nè. Giờ anh đã biết thổi bóng chưa?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……ね。\nフーセンガム、膨らませられるようになった？"
+    },
+    {
+      "name": "",
+      "text": "Nhắc mới nhớ, từ dạo đó tôi chưa hề thử lại. Chợt nảy ra ý định, tôi bèn bỏ viên kẹo vào miệng và thử thổi――",
+      "jpname": "モノローグ",
+      "jptext": "そういえば、あれ以来挑戦していなかった。\n思い立ってフーセンガムを口に含み膨らませようとすると――"
+    },
+    {
+      "name": "",
+      "text": "――Bong bóng bắt đầu phồng to một cách dễ dàng đến kinh ngạc, như thể nỗi chật vật lần trước chỉ là một trò đùa vậy.",
+      "jpname": "モノローグ",
+      "jptext": "――驚くほど簡単に、大きく膨らみ始めた。\n以前にやった時の苦戦が、嘘のように。"
+    },
+    {
+      "name": "",
+      "text": "(――Bụp!)",
+      "jpname": "モノローグ",
+      "jptext": "（――パンッ！）"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Haha, kêu giòn tan luôn! ...Thế nào? Ước mơ trong lòng anh bây giờ cũng đang lớn dần lên đúng không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "ははっ、いい音！\n……どう？　貴方も今、夢膨らんでる？"
+    },
+    {
+      "name": "",
+      "text": "...Tôi gật đầu, và rồi. Tôi biến những cảm xúc đang căng tràn trong lồng ngực thành lời.",
+      "jpname": "モノローグ",
+      "jptext": "……頷いて、そして。\n膨らんだ想いを、言葉にする。",
+      "choice_data_list": [
+        "――Anh muốn trở thành Trainer phụ trách của em.",
+        "――Tôi muốn trở thành Trainer phụ trách của bạn."
+      ],
+      "jpchoice_data_list": [
+        "――俺は、君の担当トレーナーになりたい",
+        "――私は、貴方の担当トレーナーになりたい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thẳng thắn, can trường, không ngừng thổi bùng lên những ước mơ. Nơi em... tôi đã nhìn thấy một giấc mơ vĩnh viễn không bao giờ tan vỡ.",
+      "jpname": "モノローグ",
+      "jptext": "真っ直ぐに、恐れずに、留まることなく夢膨らませる。\nそんな彼女に……自分は、決して割れない夢を見た。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――――"
+    },
+    {
+      "name": "",
+      "text": "Bubble Gum Fellow bắt đầu thổi bong bóng kẹo. Bong bóng dần phồng to đến mức che khuất cả gương mặt em――",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローがガムを膨らませ始める。\nそれはやがて、彼女の顔を隠すほどに大きく膨らみ――"
+    },
+    {
+      "name": "",
+      "text": "(――ĐÙNG!!!)",
+      "jpname": "モノローグ",
+      "jptext": "（――パァンッ！！！）"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Đây chính là lời tuyên ngôn. ...Hãy cùng nhau tạo nên đi, em và anh――",
+      "jpname": "バブルガムフェロー",
+      "jptext": "これは宣言だ。\n……起こそう、私と――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Hãy cùng nhau ấp ủ giấc mơ lớn dần lên. Và tạo ra một vụ nổ long trời lở đất, đảo lộn cả thế giới đường đua này!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "一緒に夢、膨らませて。\nレース界をひっくり返すような、爆発を！"
+    },
+    {
+      "name": "",
+      "text": "...Giấc mơ hằng ấp ủ bấy lâu, nay đã hóa thành sức mạnh để tôi nắm chặt lấy bàn tay em――",
+      "jpname": "モノローグ",
+      "jptext": "……膨らませていた夢が今、\n彼女の手を握り返す力に変わった――"
+    }
+  ]
+}

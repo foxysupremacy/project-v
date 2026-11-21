@@ -1,0 +1,276 @@
+{
+  "title": "Trái tim không nao núng",
+  "jptitle": "怯まぬ心",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, trong lúc tôi cùng Bubble Gum Fellow ngồi uống trà――",
+      "jpname": "モノローグ",
+      "jptext": "ある日、バブルガムフェローと共に\nお茶を飲んでいた時のこと――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer nghe tin gì chưa? Nghe bảo sắp tới sẽ có một vị chuyên gia nghiên cứu giải đua từ Mỹ sang giảng bài đấy.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "トレーナーさん聞いた？　今度アメリカから、\nレース研究家の先生が講義しにきてくれるって。",
+      "choice_data_list": [
+        "Ừ! Cơ hội tuyệt vời quá nhỉ.",
+        "Ừ! Cơ hội tuyệt vời quá nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "ああ！すごいことだよな",
+        "うん！すごいことだよね"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em có đủ trọn bộ sách của thầy ấy luôn đó. Dù phải qua phiên dịch, nhưng được nghe thầy giảng trực tiếp là em háo hức lắm luôn!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あの人の本、全部持っててさ。\n通訳越しでも、生で講義が聴けるのすごく楽しみだよ！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Buổi giảng đó ai có nguyện vọng cũng được tham gia, dù là học viên hay Trainer. Anh có đi cùng không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "あれ、希望者なら生徒でもトレーナーでも誰でも聴けるんだよね。\n貴方も参加する？",
+      "choice_data_list": [
+        "Chắc chắn rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ]
+    },
+    {
+      "name": "Mã Nương Hội Học Sinh A",
+      "text": "Haizz... Phải làm sao bây giờ... Hôm nay liên hệ ai cũng không được hết. Cứ thế này thì chỉ còn cách hủy buổi giảng mất thôi...",
+      "jpname": "生徒会のウマ娘A",
+      "jptext": "はぁ～……どうしよう……今日当たってみた人も全部ダメ。\nこのままじゃ講義中止にするしかなくなっちゃう……。"
+    },
+    {
+      "name": "Mã Nương Hội Học Sinh B",
+      "text": "Dù thế nào đi nữa cũng phải tìm bằng được người phiên dịch thay thế! Chúng mình nên mở rộng điều kiện ra một chút rồi rà soát lại danh sách ứng viên lần nữa xem sao――",
+      "jpname": "生徒会のウマ娘B",
+      "jptext": "とにかくなんとしても代わりの通訳さん見つけなきゃ！\nもう少し条件広くして、もう1回候補の洗い出しを――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Phiên dịch viên mà hai bạn nói... có phải là cho buổi giảng đặc biệt sắp tới không?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "通訳って……もしかして、今度の特別講義の？"
+    },
+    {
+      "name": "Mã Nương Hội Học Sinh A",
+      "text": "Hở, a... Đúng là thế ạ. Ban đầu thầy nghiên cứu định đưa phiên dịch viên riêng đi cùng, nhưng người đó lại đột xuất không đến được...",
+      "jpname": "生徒会のウマ娘A",
+      "jptext": "えっ、あ……そうなんです。元々、研究家の先生が専属の通訳を\n連れてくる予定だったんですけど、急遽来られなくなって……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Và đến giờ vẫn chưa tìm được người thay thế đúng không.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "で、代わりも見つかってない感じか。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "...Thế thì, để tôi làm cho!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "……じゃあ、私がやるよ！",
+      "choice_data_list": [
+        "Hả...!? Em có thể làm được việc đó thật sao!?",
+        "Hả...!? Bạn có thể làm được việc đó thật sao!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ……！？そんなことできるのか！？",
+        "えっ……！？そんなことできるの！？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Vâng. Tiếng Anh giao tiếp thì em biết rồi, chỉ cần nắm vững các thuật ngữ chuyên môn nữa là gánh được thôi mà. Cứ giao cho em nhé.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うん。英会話はできるし、あとは専門用語をマスターすれば\n務まるでしょ。私に任せてよ。"
+    },
+    {
+      "name": "Mã Nương Hội Học Sinh B",
+      "text": "N-Nhưng mà...! Chỉ còn chưa đầy một tuần nữa là đến ngày diễn ra rồi, thế thì gấp quá――",
+      "jpname": "生徒会のウマ娘B",
+      "jptext": "で、でも……！\n当日まですでに1週間切ってますし、さすがに――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Chừng đó thời gian là quá đủ rồi! ――Đừng lo. Tôi nhất định sẽ làm được.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "それだけあれば十分！\n――大丈夫だよ。必ずやってみせる。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ hôm đó, Bubble Gum Fellow bắt đầu lao vào học ngày học đêm. Tôi cũng chủ động đề nghị được hỗ trợ em hết sức có thể――",
+      "jpname": "モノローグ",
+      "jptext": "その日から、バブルガムフェローは猛勉強を始めた。\n自分は、せめてとサポートを申し出て――"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Bản gốc tiếng Anh các cuốn sách của thầy, chỗ này là hết rồi đúng không anh?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "先生の本の原書、これで全部かな？",
+      "choice_data_list": [
+        "Đọc sách nguyên bản tiếng Anh, trông chừng khó nhằn đấy nhỉ...",
+        "Đọc sách nguyên bản tiếng Anh, trông chừng khó nhằn đấy nhỉ..."
+      ],
+      "jpchoice_data_list": [
+        "原書、難しそうだな……",
+        "原書、難しそうだね……"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Đúng thế thật. Nhưng không sao đâu anh! Bản tiếng Nhật em đã đọc hết cả rồi, nên vẫn nằm trong tầm hiểu được!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "そうだね。でも大丈夫だよ！\n日本語版は全部読んだことがあるし、読み解ける範囲！"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Analyzing the release of different types of energy during a race――release ở đây là \"lượng tiêu hao\"...",
+      "jpname": "バブルガムフェロー",
+      "jptext": "Analyzing the release of different types of\nenergy during a race――releaseは“消費量”で……。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "――Dạ rồi. Các thuật ngữ chuyên môn thì em cũng đã nắm được sơ bộ hết rồi.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "――うん。専門用語はひと通り把握できたかな。"
+    },
+    {
+      "name": "",
+      "text": "Hôm nay sau buổi tập em cũng lại cặm cụi học bài. Tôi chuẩn bị sẵn chút đồ ăn nhẹ để giúp em xua tan đi phần nào mệt mỏi.",
+      "jpname": "モノローグ",
+      "jptext": "今日も彼女は、トレーニング後に勉強に励んでいた。\n少しでも疲れを癒せるようにと、軽食を用意する。",
+      "choice_data_list": [
+        "Em vất vả rồi, nghỉ ngơi một lát đi chứ?",
+        "Bạn vất vả rồi, nghỉ ngơi một lát đi chứ?"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様、少し休憩しないか？",
+        "お疲れ様、少し休憩しない？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Dạ, em nghỉ đây. ...Fufu, toàn là những món bánh kẹo em thích không này! Cảm ơn Trainer nhé.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "うん、そうする。……ふふ、私の好きなお菓子がいっぱいだね！\nありがとう、トレーナーさん。",
+      "choice_data_list": [
+        "Liệu có kịp cho buổi giảng không em?"
+      ],
+      "jpchoice_data_list": [
+        "講義までに間に合いそう？"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Tất nhiên rồi anh. Dạo này có cả ứng dụng luyện phiên dịch nữa đấy. Nhờ nó mà em rèn luyện được rất nhiều. ――Ngày mai anh cứ chờ xem nhé.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "もちろん。最近は通訳トレーニングのアプリもあってね。\nこれでかなり訓練できてるんだよ。――当日、楽しみにしてて。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, ngày diễn ra buổi giảng đặc biệt đã tới.",
+      "jpname": "モノローグ",
+      "jptext": "そして、特別講義の当日。"
+    },
+    {
+      "name": "Nhà nghiên cứu giải đua",
+      "text": "――Therefore, improving the anaerobic energy supply system is of utmost importance.",
+      "jpname": "レース研究家",
+      "jptext": "――Therefore, improving the anaerobic energy\nsupply system is of utmost importance."
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Trong các cuộc đua, năng lượng yếm khí đóng vai trò vô cùng quan trọng. Vì vậy, việc nâng cao chức năng của hệ thống cung cấp năng lượng yếm khí là điều tối quan trọng.\"",
+      "jpname": "バブルガムフェロー",
+      "jptext": "『レース中において、無酸素性エネルギーは重要な役割を担います。\n故に、無酸素性エネルギー供給系の機能を高める必要があるのです』"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Cụ thể làm thế nào để nâng cao chức năng của hệ thống cung cấp năng lượng yếm khí, ắt hẳn mọi người đều rất tò mò nhỉ. Hãy để tôi hỏi thầy xem sao nhé.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "無酸素性エネルギー供給系の機能を具体的にどう高めるのかが\n気になりますね。お聞きしてみましょう。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Professor, what can we do to improve our anaerobic energy supply systems?",
+      "jpname": "バブルガムフェロー",
+      "jptext": "Professor, what can we do to improve\nour anaerobic energy supply systems?"
+    },
+    {
+      "name": "Nhà nghiên cứu giải đua",
+      "text": "Hypoxic training, for starters. A simple way to do this is to use a training mask.",
+      "jpname": "レース研究家",
+      "jptext": "Hypoxic training, for starters. A simple way\nto do this is to use a training mask."
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "\"Trước hết, phương pháp luyện tập trong điều kiện thiếu oxy là rất quan trọng. Cách đơn giản nhất là sử dụng mặt nạ tập luyện\". Điều này chúng ta hoàn toàn có thể áp dụng ngay từ ngày mai được đấy!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "『第一には、低酸素トレーニングが重要。簡単な方法としては、\nトレーニングマスクの活用です』。これは明日からでもできますね！"
+    },
+    {
+      "name": "Mã Nương tham gia",
+      "text": "Bubble-san đỉnh thật đấy...! Khả năng phiên dịch chuẩn chỉ không chê vào đâu được...! Lại còn hỏi đúng những điều tụi mình muốn biết nữa chứ! Đúng là có thể áp dụng ngay từ ngày mai thật rồi!",
+      "jpname": "参加者のウマ娘",
+      "jptext": "バブルさん、すごい……！　通訳完璧じゃん……！\n訊いてほしいこと訊いてくれるし！　マジで明日から試せそう～！"
+    },
+    {
+      "name": "",
+      "text": "Bubble Gum Fellow không chỉ phiên dịch vô cùng chuẩn xác bằng thứ tiếng Anh lưu loát, mà còn chủ động đặt câu hỏi để giúp mọi người khai thác thêm nhiều kiến thức sâu rộng từ vị chuyên gia.",
+      "jpname": "モノローグ",
+      "jptext": "バブルガムフェローは、流暢な英語で的確に通訳するだけでなく、\n積極的に質問をして、先生の話を引き出してくれている。",
+      "choice_data_list": [
+        "(Thật đáng nể phục...!)",
+        "(Thật đáng nể phục...!)"
+      ],
+      "jpchoice_data_list": [
+        "（すごいな……！）",
+        "（すごい……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Buổi giảng đặc biệt đã kết thúc thành công rực rỡ, mang lại vô vàn kiến thức bổ ích cho người tham dự. Trọng trách phiên dịch viên ấy, Bubble Gum Fellow đã hoàn thành xuất sắc đúng như lời tuyên bố của mình.",
+      "jpname": "モノローグ",
+      "jptext": "そうして特別講義は盛況に終わり、参加者は多くの学びを得た。\n通訳という大役を、バブルガムフェローは宣言通りやり遂げたのだ。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Chà, em được nghe bao nhiêu điều bổ ích luôn. Vui thật đấy!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "いやあ、いい話たくさん聴けたね。楽しかった～！",
+      "choice_data_list": [
+        "Quả không hổ danh là Bubble của anh!",
+        "Quả không hổ danh là Bubble!"
+      ],
+      "jpchoice_data_list": [
+        "さすがだな、バブル！",
+        "さすがだね、バブル！"
+      ]
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Em đã bảo rồi mà? Rằng em nhất định sẽ làm được.",
+      "jpname": "バブルガムフェロー",
+      "jptext": "言ったでしょう？　必ずやってみせるって。"
+    },
+    {
+      "name": "Bubble Gum Fellow",
+      "text": "Nếu muốn vươn tới đỉnh cao, ta phải không ngừng chủ động tiến bước chứ! Được học hỏi ngay tại hàng ghế VIP số một thế này, hôm nay quả là một trải nghiệm tuyệt vời đối với em!",
+      "jpname": "バブルガムフェロー",
+      "jptext": "高みを目指すなら、どんどん切り込んでいかないと！\n1番の特等席で勉強できたんだ。今日はいい経験だったよ！"
+    },
+    {
+      "name": "",
+      "text": "Dù việc đó có vẻ liều lĩnh đến đâu, em vẫn xung phong đi đầu và chứng minh bằng hành động――Hình ảnh ấy của em lại tiếp thêm cho tôi bao niềm dũng khí.",
+      "jpname": "モノローグ",
+      "jptext": "どんなに無謀だと思えることでも率先して手を挙げ、\nやってみせる――そんな彼女の姿に、また勇気をもらったのだった。"
+    }
+  ]
+}
