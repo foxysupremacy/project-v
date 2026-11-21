@@ -1,0 +1,442 @@
+{
+  "title": "Anh là người mang đến điều đặc biệt",
+  "jptitle": "あなたは特別をくれる人",
+  "text_block_list": [
+    {
+      "name": "Mã Nương A",
+      "text": "A, áp phích lễ hội nè. Lại còn có bắn pháo hoa nữa chứ.",
+      "jpname": "ウマ娘A",
+      "jptext": "あ、お祭りのポスター。しかも花火もあるじゃん。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Nghe đồn từ đây đi sâu vào phía núi một đoạn, có nơi ngắm được đom đóm nữa đó.",
+      "jpname": "ウマ娘B",
+      "jptext": "噂だと、ここからちょっと山入ったところに、\nホタルが見られる場所もあるんだってー。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Tớ cũng muốn đi lắm nhưng…… hiếm hoi lắm mới có đợt trại huấn luyện nên tớ muốn tập trung hơn. Dù là sau buổi tập đi nữa mà để tinh thần chùng xuống thì không hay lắm.",
+      "jpname": "ウマ娘A",
+      "jptext": "行きたいけど……せっかくの合宿だし、集中したいんだよね。\nトレーニング後とはいえ、気が抜けちゃったら嫌だし。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Chuẩn luôn. Thời gian trại huấn luyện cũng chẳng còn bao nhiêu nữa…… ừm, cố lên nào!",
+      "jpname": "ウマ娘B",
+      "jptext": "だよね。合宿の残りも少ないし……ん、がんばろ！"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "…………",
+      "jpname": "ヒシミラクル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "――Chuyện là như thế đó ạ. Bản thân em thì muốn đi chơi lắm, nhưng thấy mọi người ai nấy đều dốc sức nên em chẳng nỡ vô duyên rủ rê……",
+      "jpname": "ヒシミラクル",
+      "jptext": "――というわけでして。わたしは遊びに行きたいんですけど、\nみんながんばってるし、空気読まずに誘うわけにも……。",
+      "choice_data_list": [
+        "Thế thì để anh đi cùng em nhé?"
+      ],
+      "jpchoice_data_list": [
+        "だったら付き合おうか？"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Nhưng mà, Trainer-san cũng bận rộn lắm còn gì ạ. Nào là chuẩn bị bài tập, rồi lúc nào cũng phải theo sát kèm cặp em――",
+      "jpname": "ヒシミラクル",
+      "jptext": "でも、トレーナーさんも忙しかったじゃないですか。\nトレーニングの準備やら、ずっとわたしに付きっきりで――"
+    },
+    {
+      "name": "",
+      "text": "Giọng của Hishi Miracle nhỏ dần đi vì thấy có lỗi. Không muốn em phải giữ kẽ, tôi liền cố tình buông lời trêu chọc.",
+      "jpname": "モノローグ",
+      "jptext": "申し訳ないと少しだけ声が小さくなるヒシミラクル。\n遠慮してほしくはないと、わざとからかうように言ってみる。",
+      "choice_data_list": [
+        "Không ngờ cũng có ngày Hishi Miracle biết giữ kẽ đấy……"
+      ],
+      "jpchoice_data_list": [
+        "ヒシミラクルが気を使うだなんて……"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ủa kìa, sao anh lại nói thế chứ! Bình thường em cũng là đứa biết điều lắm chứ bộ!?",
+      "jpname": "ヒシミラクル",
+      "jptext": "ちょっ、なんでですかっ。\nもともと普通に使える子ですけど！？",
+      "choice_data_list": [
+        "Ra là vậy sao……!",
+        "Thì ra là thế……!"
+      ],
+      "jpchoice_data_list": [
+        "そうだったのか……！",
+        "そうだったんだ……！"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Haizz. Thôi được rồi nha. Vậy em không khách sáo nữa đâu. Em sẽ bắt Trainer-san phải hộ tống em đi cùng đó.",
+      "jpname": "ヒシミラクル",
+      "jptext": "はぁ。も～いいです。じゃあ、遠慮しません。\nトレーナーさんに付き合ってもらうことにします。",
+      "choice_data_list": [
+        "Tất nhiên rồi, anh rất sẵn lòng"
+      ],
+      "jpchoice_data_list": [
+        "もちろん、喜んで"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "A, nhưng mà.",
+      "jpname": "ヒシミラクル",
+      "jptext": "あ、でも。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ừm…… nếu đã đi rồi, thì thay vì đến lễ hội…… hôm nay anh thử cùng em làm điều gì đó đặc biệt một xíu được không?",
+      "jpname": "ヒシミラクル",
+      "jptext": "その……せっかくなら、お祭りじゃなくて……\n今日くらいはちょっとだけ、特別なことしてみませんか。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Hừm, chẳng thấy bóng dáng con nào hết á…… Chẳng lẽ đom đóm chỉ là tin đồn nhảm thôi sao ta.",
+      "jpname": "ヒシミラクル",
+      "jptext": "うーん、いませんねぇ……。\nただの噂だったんですかね、ホタル。",
+      "choice_data_list": [
+        "Đừng nên đi sâu vào trong quá em à"
+      ],
+      "jpchoice_data_list": [
+        "あまり奥には行かないほうが"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Anh nói phải. Cho em xin lỗi nha. Đến em còn chẳng biết rõ địa điểm mà lại lôi anh theo thế này.",
+      "jpname": "ヒシミラクル",
+      "jptext": "ですよね。すみません。\n場所もわからないのに、連れてきちゃって。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "(Chẳng giống mình chút nào, bày đặt muốn cho người ta ngắm cảnh đẹp…… đồ ha. Cứ hễ làm mấy chuyện ngày thường không làm là dính đòn liền nè)",
+      "jpname": "ヒシミラクル",
+      "jptext": "（柄にもなく、きれいな景色を見せて……とか。\n普段しないようなことしたら、これか～）"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Haizz, tiếc ghê. Cứ tưởng làm thế này để cảm ơn được cơ chứ.",
+      "jpname": "ヒシミラクル",
+      "jptext": "はあっ、残念。お礼になるかと思ったんだけどな。",
+      "choice_data_list": [
+        "Cảm ơn sao?"
+      ],
+      "jpchoice_data_list": [
+        "お礼？"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "A…… em lỡ buột miệng nói ra thành tiếng hả anh?",
+      "jpname": "ヒシミラクル",
+      "jptext": "あ……声、出てました？"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ầy…… chuyện là thế này nè anh. Từ trước đến giờ em vẫn luôn có một điều suy nghĩ mãi trong lòng.",
+      "jpname": "ヒシミラクル",
+      "jptext": "や～～～……その、ですね。\n前々からちょっと思っていたことがあって。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Đó là, Trainer-san lúc nào cũng đặt rất nhiều kỳ vọng vào các trận đua…… kỳ vọng vào em rất nhiều đúng không ạ?",
+      "jpname": "ヒシミラクル",
+      "jptext": "ほら、トレーナーさんってレースに……\nわたしにすごく期待してくれてるじゃないですか。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Và bản thân em thì cũng rất muốn đáp lại sự kỳ vọng đó, dù là người như em thì trong bụng ít nhiều cũng nghĩ như thế, nhưng mà……",
+      "jpname": "ヒシミラクル",
+      "jptext": "で、わたしはその期待に応えたいな～と\nこれでも一応、思ってるわけなんですけど……。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Chỉ bấy nhiêu thôi thì em e là không đủ sánh với nhiệt huyết của Trainer-san. Cứ nghĩ đến điều đó là em lại thấy bận lòng không yên.",
+      "jpname": "ヒシミラクル",
+      "jptext": "それだけじゃ、トレーナーさんの熱には足りないかな、と。\nそういうの考えてたら、気になっちゃって。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Nên em tính chí ít cũng làm điều gì đó để cảm ơn cho những gì anh đã làm vì em…… Ai ngờ như anh thấy đấy. Thất bại thảm hại luôn.",
+      "jpname": "ヒシミラクル",
+      "jptext": "せめて、わたしにしてくれている分のお礼でも……\nと考えていたら、まぁこの通りです。失敗しました。",
+      "choice_data_list": [
+        "Chỉ tấm lòng của em thôi là anh đã vui lắm rồi"
+      ],
+      "jpchoice_data_list": [
+        "気持ちだけでも嬉しいよ"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "A ha ha. Biết ngay là nếu là Trainer-san thì anh sẽ nói thế mà. Bản thân em thực ra cũng chẳng nghĩ ngợi gì quá nặng nề đâu nha.",
+      "jpname": "ヒシミラクル",
+      "jptext": "あはは。トレーナーさんなら、そう言いますよね。\nわたしとしても、そんなに重たく考えていたわけではないので。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Khi nào có dịp khác thì cho em cảm ơn bù nhé. Anh cứ xem như đó là chút lòng biết ơn nho nhỏ thôi là được rồi ạ.",
+      "jpname": "ヒシミラクル",
+      "jptext": "またなにかの機会があれば、お礼させてください。\n軽い感謝の気持ちと思ってもらえればいいので。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "(……Cơ mà công nhận, tiếc thật sự luôn á)",
+      "jpname": "ヒシミラクル",
+      "jptext": "（……ほんと、残念ではあるんですけどね）"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "(Bầu trời ở đây vừa cao vừa rộng, cảm giác đặc biệt ghê cơ. Nếu ngay lúc này mà được chiêm ngưỡng đom đóm lập lòe thì lòng mình đã nhẹ nhõm biết bao)",
+      "jpname": "ヒシミラクル",
+      "jptext": "（空とかすっごく広くて、ちょっと特別感あるし。\nここでバチッとホタル見て決められていたら、スッキリしたのに）"
+    },
+    {
+      "name": "",
+      "text": "Trông em không có vẻ gì là suy sụp. ……Thế nhưng, chắc chắn trong lòng em đang thấy thất vọng lắm.",
+      "jpname": "モノローグ",
+      "jptext": "落ち込んでいるようには見えない。\n……が、ガッカリしているのは間違いなさそうだ。"
+    },
+    {
+      "name": "",
+      "text": "Em thực sự chẳng cần phải cảm ơn tôi làm gì. Chỉ riêng việc em luôn cố gắng đáp lại kỳ vọng ấy thôi, đã là điều khiến tôi hạnh phúc vô cùng rồi.",
+      "jpname": "モノローグ",
+      "jptext": "お礼なんて、本当に必要ない。\n応えようとしてくれているだけでも、本当に嬉しいことなのに。",
+      "choice_data_list": [
+        "Vậy thì, anh nên nhờ em làm gì đây ta!"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、何してもらおうかな！"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Dạ?",
+      "jpname": "ヒシミラクル",
+      "jptext": "えっ？",
+      "choice_data_list": [
+        "Tăng thêm bài tập nhé? Hay là――"
+      ],
+      "jpchoice_data_list": [
+        "もっとトレーニング増やす？それとも――"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Thôi thôi thôi tha cho em! Em vừa bảo là khi nào có dịp khác cơ mà anh!?",
+      "jpname": "ヒシミラクル",
+      "jptext": "いやいやいや！\nまた機会があればって、いま言いましたよね！？"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Mà khoan, chuyện đó mà cũng tính là cảm ơn được sao trời!? Nếu cần thì bình thường em cũng tập mà.",
+      "jpname": "ヒシミラクル",
+      "jptext": "っていうか、それお礼になるんですか！？\n普通にしますって、必要ならっ。"
+    },
+    {
+      "name": "",
+      "text": "Dường như nhận ra qua tông giọng rằng tôi chỉ đang nói đùa, Hishi Miracle liền khẽ bật cười khúc khích.",
+      "jpname": "モノローグ",
+      "jptext": "こちらの声色から、ふざけて言っているということは\n理解しているようで、ヒシミラクルは小さく笑っている。"
+    },
+    {
+      "name": "",
+      "text": "――Tôi chưa bao giờ đòi hỏi em phải có cùng mức nhiệt huyết với mình. Chỉ cần em thực sự khao khát được chạy, khao khát được chiến thắng.",
+      "jpname": "モノローグ",
+      "jptext": "――同じ熱量など、求めてはいない。\nただもし、彼女が走りたい、勝ちたいと願っているのなら。"
+    },
+    {
+      "name": "",
+      "text": "Và nếu em sẵn lòng nỗ lực vì những niềm kỳ vọng ấy. Tôi sẽ luôn sát cánh hỗ trợ để biến điều đó thành lẽ tự nhiên.",
+      "jpname": "モノローグ",
+      "jptext": "期待のために、頑張りたいと思ってくれているのなら。\nそれが当たり前にできるように、協力したい。",
+      "choice_data_list": [
+        "Chạy bộ về tận học viện chẳng hạn?"
+      ],
+      "jpchoice_data_list": [
+        "走って学園まで帰ったりとか？"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Làm vậy thì Trainer-san cũng phải đi cùng em đấy nhé? Em nghĩ kể cả anh có đạp xe theo thì cũng mệt bở hơi tai đấy.",
+      "jpname": "ヒシミラクル",
+      "jptext": "それ、トレーナーさんも付き合うことになるんですよ？\n自転車でもつらいと思いますけど。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Thật tình, anh chỉ toàn đùa giỡn linh tinh thôi à. Em đang nói chuyện nghiêm túc đàng hoàng lắm đó nha?",
+      "jpname": "ヒシミラクル",
+      "jptext": "まったく、すーぐふざけるんですから。\nわたしはそこそこ、真面目な話をしていたんですけど～？",
+      "choice_data_list": [
+        "Ừ, anh thực sự rất vui"
+      ],
+      "jpchoice_data_list": [
+        "うん、本当に嬉しかった"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Hừm……",
+      "jpname": "ヒシミラクル",
+      "jptext": "む……。",
+      "choice_data_list": [
+        "Vì em đã bận lòng suy nghĩ nhiều cho anh đến thế……"
+      ],
+      "jpchoice_data_list": [
+        "そんなに必死になって考えてくれて……"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "C, cũng đâu đến mức……",
+      "jpname": "ヒシミラクル",
+      "jptext": "そ、そこまでじゃ……。",
+      "choice_data_list": [
+        "Nhiều đến mức đêm về mất ngủ luôn……"
+      ],
+      "jpchoice_data_list": [
+        "夜も眠れないほど……"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Trời ơi! Tin đồn nhảm, bịa đặt trắng trợn đấy ạ! Đêm em ngủ ngon lành cành đào luôn á!!",
+      "jpname": "ヒシミラクル",
+      "jptext": "もー！　それ捏造、捏造ですよ！\n夜は寝てます、ぐっすり！！",
+      "choice_data_list": [
+        "A ha ha ha"
+      ],
+      "jpchoice_data_list": [
+        "あははは"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Haizz. Trainer-san chẳng mảy may để bụng, thế mà em cứ chênh lệch nhiệt huyết này nọ, rồi tự một mình suy nghĩ vớ vẩn, nhìn ngốc xít ghê không cơ chứ.",
+      "jpname": "ヒシミラクル",
+      "jptext": "はぁ。トレーナーさん気にしてないのに、熱量の差……とか言って、\n1人で変に気にしちゃってたの、バカみたいじゃないですか。"
+    },
+    {
+      "name": "",
+      "text": "Tôi mỉm cười nhìn Hishi Miracle đang thở phào như trút được gánh nặng trong lòng. Dù mức độ nhiệt huyết của cả hai có khác nhau, điều đó chưa hẳn đã là chuyện xấu.",
+      "jpname": "モノローグ",
+      "jptext": "肩の力が抜けたように息を吐くヒシミラクルに、笑顔を向ける。\nお互いの熱が違っていても、悪いとは限らない。"
+    },
+    {
+      "name": "",
+      "text": "Đúng là mối quan hệ này có khác biệt so với các cặp Mã Nương và Trainer khác, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "他のウマ娘やトレーナーとは、確かに違うのだろうけれど、\nそれでも――",
+      "choice_data_list": [
+        "Vì anh thấy vui mà",
+        "Vì tôi thấy vui mà"
+      ],
+      "jpchoice_data_list": [
+        "楽しいと思えるからな",
+        "楽しいと思えるからね"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "――――",
+      "jpname": "ヒシミラクル",
+      "jptext": "――――"
+    },
+    {
+      "name": "",
+      "text": "Cả hai đều có thể cùng nói câu cố gắng. Chẳng ai cảm thấy đối phương là gánh nặng. Nếu đã vậy thì chẳng có vấn đề gì cả. Cả hai chắc chắn sẽ cùng nhau tiến bước một cách trọn vẹn.",
+      "jpname": "モノローグ",
+      "jptext": "一緒に頑張ろうと言える。互いを重荷には感じない。\nだったら、問題はない。ちゃんと一緒に進んでいけるはずだ。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "……Chuyện đó, vâng. Đúng là thế thật ạ.",
+      "jpname": "ヒシミラクル",
+      "jptext": "……それは、うん。ですね。",
+      "choice_data_list": [
+        "Tụi mình thử đi sâu vào thêm một đoạn nữa xem sao"
+      ],
+      "jpchoice_data_list": [
+        "もう少しだけ、奥に入ってみよう"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Dạ? Tự dưng anh sao thế ạ? Kìa, Trainer-san! Đằng đó tối thui à――",
+      "jpname": "ヒシミラクル",
+      "jptext": "え？　急にどうしたんですか？\nちょっ、トレーナーさん！　そっちは暗すぎて――"
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi bước sâu vào thêm một đoạn ngắn. Và rồi, qua khoảng trống giữa tán cây ngước nhìn lên bầu trời――",
+      "jpname": "モノローグ",
+      "jptext": "今よりほんの少しだけ奥に進む。\nすると、木々の隙間から見上げた空に――"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Oa…… Những vì sao, trông gần…… kinh khủng…… Dù tụi mình chỉ đổi vị trí có một xíu thôi vậy mà.",
+      "jpname": "ヒシミラクル",
+      "jptext": "わ……星、すっごい……近い……。\nちょっと場所を変えただけなのに。",
+      "choice_data_list": [
+        "Vì nơi càng tối thì càng nhìn rõ sao trời mà"
+      ],
+      "jpchoice_data_list": [
+        "暗いほうがよく見えるから"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "……Nếu chỉ có một mình, chắc chắn em đã bỏ lỡ mất rồi. Phía trước nhìn chẳng rõ, lại có chút bất an nữa…… một mình em thì chẳng thể bước đến tận đây đâu.",
+      "jpname": "ヒシミラクル",
+      "jptext": "……1人だったら、きっと見逃してました。先もよく見えないし、\nちょっと不安だし……ここまでは、来られなかったなぁ。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Hôm nay…… em cứ ngỡ ngày trôi qua bình thường như mọi khi, chẳng có chuyện gì đặc biệt, không thấy đom đóm rồi cứ thế kết thúc trong bình dị thôi.",
+      "jpname": "ヒシミラクル",
+      "jptext": "今日も……いつも通り、何事もなく、\nホタルも見られないまま、普通に終わるんだと思ってました。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "…… Thế nhưng…… nhờ có Trainer-san, mà em đã được nếm trải một chút cảm giác đặc biệt rồi nè.",
+      "jpname": "ヒシミラクル",
+      "jptext": "……。でも……トレーナーさんのおかげで、\nちょっと特別感を味わっちゃいました。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "……Không biết chừng, sau này cũng sẽ có những điều tương tự như thế này nữa không ta?",
+      "jpname": "ヒシミラクル",
+      "jptext": "……もしかしたら、これからも同じようなことがあるのかな？"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "…… Anh nhớ vừa vừa phải phải thôi đấy nha. Vì em đã quá quen với chữ \"bình thường\" rồi. ……Nếu không thì.",
+      "jpname": "ヒシミラクル",
+      "jptext": "……。ほどほどにしてくださいね。\nわたしは『普通』に慣れきっているので。……じゃないと。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "――Em sẽ vì quá đỗi ngỡ ngàng mà bật khóc mất đó.",
+      "jpname": "ヒシミラクル",
+      "jptext": "――驚き過ぎて、泣いちゃうかも。"
+    },
+    {
+      "name": "",
+      "text": "Vừa vừa phải phải thôi―― thế nhưng, trong ánh mắt em lại lấp lánh sự mong chờ. Nếu đã vậy thì làm sao tôi có thể không muốn đáp lại niềm kỳ vọng ấy cho được.",
+      "jpname": "モノローグ",
+      "jptext": "ほどほどに――けれど、その目には期待がある。\nならば応えたくなってしまうのは、仕方のないことだろう。"
+    }
+  ]
+}
