@@ -1,0 +1,456 @@
+{
+  "title": "Cảm xúc chẳng thể uốn nắn",
+  "jptitle": "丸められない気持ち",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã một thời gian kể từ ngày tôi trở thành Trainer của Espoir City―― Lần này chúng tôi đã đến với kỳ tập huấn mùa hè.",
+      "jpname": "モノローグ",
+      "jptext": "エスポワールシチーのトレーナーとなってしばらくが経ち――\n今回は夏合宿にやってきた。"
+    },
+    {
+      "name": "Tân sinh hiểu chuyện",
+      "text": "Tiền bối, chị vất vả rồi ạ! Em mang cà ri đến cho chị này!",
+      "jpname": "常識人の新入生",
+      "jptext": "先輩、お疲れ様です！\nカレーを持ってきました！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ừ. Gì đây, biết ý ghê nhỉ.",
+      "jpname": "エスポワールシチー",
+      "jptext": "おう。なんだよ、気ぃ利くじゃん。"
+    },
+    {
+      "name": "Tân sinh nghiêm túc",
+      "text": "Tiền bối, em mang natto, rong biển và dưa muối đến cho chị ạ.",
+      "jpname": "真面目な新入生",
+      "jptext": "先輩、納豆と海苔とお新香を持ってきました。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ờ, ừ... Kết hợp chán đời thế...",
+      "jpname": "エスポワールシチー",
+      "jptext": "お、おう……相性悪っ……。"
+    },
+    {
+      "name": "Tân sinh bất cẩn",
+      "text": "Tiền bối, em mang thịt bò xào ớt chuông thêm cà rốt với cả sữa chua đến này!",
+      "jpname": "うかつな新入生",
+      "jptext": "先輩、にんじん入りチンジャオロースと\nヨーグルトを持ってきました！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Thôi dẹp đi! Tụi mày nghĩ tao ăn được bao nhiêu hả!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "いやいらねーよ！　どんだけ食うと思ってんだ！？",
+      "choice_data_list": [
+        "Cậu với các em ấy đã thân nhau lắm rồi nhỉ",
+        "Bạn với các em ấy đã thân nhau lắm rồi nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "すっかり仲良くなったな",
+        "すっかり仲良くなったね"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ồn ào quá! Toàn lũ phiền phức thì có!",
+      "jpname": "エスポワールシチー",
+      "jptext": "うっせーな！　こんなんうっとうしいだけだっつーの！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Phù... Nhờ ơn ba đứa nó mà bụng tao no căng nứt ra rồi, thật là...",
+      "jpname": "エスポワールシチー",
+      "jptext": "ふぅ～……アイツらのおかげで\n腹パンパンだよ、ったく……。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Hì hì, được rồi! Giờ thì chuẩn bị tập luyện thôi――",
+      "jpname": "エスポワールシチー",
+      "jptext": "……へへ、うっし！\nそんじゃトレーニングの準備を――"
+    },
+    {
+      "name": "Nhân viên học viện",
+      "text": "...Kìa, chẳng phải em Espo đó sao. Em...――",
+      "jpname": "学園職員",
+      "jptext": "……あら、エスポさんじゃないですか。\n貴方……――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hic, giám thị sinh hoạt... Chậc, lại cằn nhằn nữa à...",
+      "jpname": "エスポワールシチー",
+      "jptext": "げっ、生活指導員……チッ、ま～た小言かよ……。"
+    },
+    {
+      "name": "Nhân viên học viện",
+      "text": "――Cảm ơn em chuyện dẫn đường cho các tân sinh hôm nọ nhé! Tất cả các em ấy đều khen em là một tiền bối rất biết chăm sóc người khác đấy!",
+      "jpname": "学園職員",
+      "jptext": "――この前は新入生の案内ありがとうございました！\nみんな、面倒見のいい先輩だって話してましたよ！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Dạ? Ơ? D-Dạ vâng...",
+      "jpname": "エスポワールシチー",
+      "jptext": "……え？　あ？　あ、あぁ……。"
+    },
+    {
+      "name": "Nhân viên học viện",
+      "text": "Cứ phát huy thế này từ nay về sau nhé! Chúc em tập luyện tốt nha!",
+      "jpname": "学園職員",
+      "jptext": "この調子でこれからもよろしくお願いしますね！\nでは、トレーニング頑張って！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "............Được giám thị sinh hoạt khen á? Ha ha... Đùa nhau à.",
+      "jpname": "エスポワールシチー",
+      "jptext": "…………生活指導員に褒められたぁ？\nはは……マジかよ。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Nhưng đâu phải mình thích làm đâu chứ, vốn dĩ là do tên đó tự tiện...――",
+      "jpname": "エスポワールシチー",
+      "jptext": "……でも、あーしが好きでやったわけじゃなくて\nそもそもアイツが勝手に……――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "............ ...Thật là... làm bao nhiêu trò cho mình cơ chứ.",
+      "jpname": "エスポワールシチー",
+      "jptext": "…………。\n……ホント……いろいろしてくれやがるよなぁ。"
+    },
+    {
+      "name": "",
+      "text": "Bữa sáng kết thúc, buổi huấn luyện ở đợt tập huấn bắt đầu―― thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "朝食も済み、合宿でのトレーニングを開始――したのだが。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "............Ư............",
+      "jpname": "エスポワールシチー",
+      "jptext": "…………う～…………。",
+      "choice_data_list": [
+        "Cậu sao thế?",
+        "Bạn sao thế?"
+      ],
+      "jpchoice_data_list": [
+        "どうしたんだ？",
+        "どうしたの？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Ồn ào quá!! Không có gì hết!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "うっせー！！　なんでもねーよ！！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Aaaa bực mình thật! Khốn kiếp! Mình đâu có muốn nói mấy lời như thế này...!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（あーもう！　くそが～っ！\nこういうこと言いたいんじゃなくて……！）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(...Thế mình rốt cuộc muốn nói cái gì chứ... Muốn gây sự à? Không, đâu phải thế... ý là...)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……じゃ、なにが言いたいってんだ、あーしは……\n喧嘩売りてーのか？　いや、ちがくて……つまり……）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(...Khốnnn kiếppp!! Cơn bực bội này là sao chứ...!!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……くっそ～～～～！！\nなんだぁ、このイライラは……！！）",
+      "choice_data_list": [
+        "(S-Sắc mặt cậu ấy trông ghê quá...!?)"
+      ],
+      "jpchoice_data_list": [
+        "（な、なんかすごい顔してる……！？）"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "(!... Phải rồi! Đâu nhất thiết phải nói bằng miệng cơ chứ!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……！　そうだ！\n別に口で言わなくてもいいじゃねーか！）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Cứ viết nhoay nhoáy lên cát là xong―― Để xem nào, 'Cảm ơ'――)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（砂にちゃちゃっと書いてやるか――\nえーと、『ありが』――）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(...Khoan đã!! ...Chỉ cần viết 'Anh cũng được việc đấy' là được rồi――)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……いや！！　……『テメェ使えるヤツ』くらいで――）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Này, tên kia! Lại đây một chút coi!",
+      "jpname": "エスポワールシチー",
+      "jptext": "おい、テメェ！\nちょっとこっちこいや！",
+      "choice_data_list": [
+        "G-Gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "な、なに？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Ừm, cái này... nhìn đi.",
+      "jpname": "エスポワールシチー",
+      "jptext": "……ま、これ……見ろよ。"
+    },
+    {
+      "name": "",
+      "text": "(Ào àoo)",
+      "jpname": "モノローグ",
+      "jptext": "（ザザーッ）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Á!? Ch-Chữ của tôi...!",
+      "jpname": "エスポワールシチー",
+      "jptext": "あ゛っ！？　あ、あーしの字が……！",
+      "choice_data_list": [
+        "Ừm... tôi ngắm sóng biển là được hả cậu?",
+        "Ừm... tôi ngắm sóng biển là được hả bạn?"
+      ],
+      "jpchoice_data_list": [
+        "あの……波を見ればいいのか？",
+        "あの……波を見ればいいの？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...À phải đấy!! Cứ ngắm mẹ biển cả đi cho khuất mắt taooo!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "……あーっ、そうだよ！！\n母なる海でも見ときやがれーっ！！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Rốt cuộc chẳng truyền đạt được gì mà trời đã tối mất rồi...",
+      "jpname": "エスポワールシチー",
+      "jptext": "……結局、なんも伝えねーまま夜になっちまった……。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Tại sao mình lại phải khó chịu bứt rứt thế này cơ chứ, khốn kiếp! Vốn dĩ mình đâu có mở miệng nhờ vả gì đâu chứ!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "……なんでこんなモヤモヤしなきゃいけねーんだ、くそっ！\n別にあーしから頼んだことでもねーのによー！？"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Aaaa khốn kiếp khốn kiếp khốn kiếp...! Nhưng mà... thì...",
+      "jpname": "エスポワールシチー",
+      "jptext": "……あぁ～、クッソクッソクッソ……！\nでも……なぁ……。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(...Đâu phải chỉ có mỗi chuyện lần này. Tên đó dù thế nào đi nữa cũng đã, ừm... làm bao nhiêu điều cho mình...)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……今回のことだけじゃねぇんだよなぁ。\nなんだかんだアイツは、あーしに、まぁ……いろいろと……）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Chuyện đó tao biết thừa rồi! Nhưng làm thế nào để nói ra mới được chứ――",
+      "jpname": "エスポワールシチー",
+      "jptext": "……んなこたわかってんだよ！\nでも、どうやって伝えりゃいいって――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Bày tỏ... lòng biết ơn...?",
+      "jpname": "エスポワールシチー",
+      "jptext": "……感謝……伝える……？"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Vậy thì mua một hai món quà lưu niệm gửi về quê đi! Khu trung tâm thương mại này bán hầu như tất cả mọi thứ trên đời đấy.",
+      "jpname": "エスポワールシチー",
+      "jptext": "じゃあ、地元にみやげのひとつやふたつ送ってやれや！\nショッピングモールにはこの世の大体のもんが売ってっからよ。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "............ Mình cũng... thử xem sao vậy...",
+      "jpname": "エスポワールシチー",
+      "jptext": "………………。あーしも……やってみっか……。"
+    },
+    {
+      "name": "",
+      "text": "Suốt từ lúc tập luyện đến giờ tâm trạng Espoir City cứ khó chịu bực bội. ...Đang tự hỏi liệu có phải do mệt mỏi vì đợt tập huấn hay không thì――",
+      "jpname": "モノローグ",
+      "jptext": "トレーニング中からずっと、エスポワールシチーの\n機嫌が悪い。……合宿疲れかなどと考えていると――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Này... Này!",
+      "jpname": "エスポワールシチー",
+      "jptext": "……おい……おい！",
+      "choice_data_list": [
+        "Hử?"
+      ],
+      "jpchoice_data_list": [
+        "ん？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Ra đây một lát coi.",
+      "jpname": "エスポワールシチー",
+      "jptext": "……ちっと、ツラ貸せよ。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi―― vừa thấy lạ lùng vừa đi theo, thứ hiện ra trước mắt tôi là.",
+      "jpname": "モノローグ",
+      "jptext": "そして――怪訝に思いながら、ついてきた先にあったのは。",
+      "choice_data_list": [
+        "(...Quả dưa hấu? Với cả gậy bóng chày...?)"
+      ],
+      "jpchoice_data_list": [
+        "（……スイカ？と、バット……？）"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Này. Anh... thử bổ quả dưa hấu đằng kia xem thế nào.",
+      "jpname": "エスポワールシチー",
+      "jptext": "……おう。お前～……ちょっとあのスイカ、\n割ってみたらどうなんだよ。",
+      "choice_data_list": [
+        "............Sao lại thế?"
+      ],
+      "jpchoice_data_list": [
+        "…………なんで？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Đ-Đã bảo là bổ thì cứ bổ đi! Dưa hấu xịn lắm do đích thân tôi cất công đi mua về đấy biết chưa!",
+      "jpname": "エスポワールシチー",
+      "jptext": "い、いいから割れや！\nあーしがわざわざ買ってきたすげーいいスイカだぞ！",
+      "choice_data_list": [
+        "Ểếế...!?"
+      ],
+      "jpchoice_data_list": [
+        "えええ……！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và thế là, trong lúc đầu óc vẫn chưa hiểu chuyện gì thì tôi đã bị bịt mắt lại―― giữa bờ biển vốn đã tối mịt, tôi phải chơi trò đập dưa hấu trong bóng tối đen như mực.",
+      "jpname": "モノローグ",
+      "jptext": "そして、わけのわからないまま目隠しをされ――\nただでさえ暗い浜辺で、暗黒のスイカ割りをやることとなった。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Đồ ngốc, đi đâu thế hả! Sang phải nữa! ...Không phải, là bên phải từ góc nhìn của tôi cơ mà!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "バカ、どこ行ってんだ！　もっと右だよ！\n……ちがう、あーしから見て右だっての！！",
+      "choice_data_list": [
+        "(Bên nào cơ chứ...?)"
+      ],
+      "jpchoice_data_list": [
+        "（どっちぃ……？）"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Này!? Sao lại lội xuống biển thế hả!? Cách 30 phân bên cạnh có con sứa kìa! Chạy mau!",
+      "jpname": "エスポワールシチー",
+      "jptext": "おぉい！？　なんで海に入っていってんだ！？\n30センチ横にクラゲいんぞ！　逃げろ！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Ô!? Đúng rồi, chỗ đó vị trí đẹp đấy! Đập điii!",
+      "jpname": "エスポワールシチー",
+      "jptext": "……おお！？　そうだ、そこがいいポジだ！　いけぇ！",
+      "choice_data_list": [
+        "H-Hây a a!!"
+      ],
+      "jpchoice_data_list": [
+        "え、えぇい！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Bốp!)",
+      "jpname": "モノローグ",
+      "jptext": "（ボコッ）"
+    },
+    {
+      "name": "",
+      "text": "Tháo khăn bịt mắt ra, trước mắt tôi là quả dưa hấu vỡ đôi tuyệt đẹp―― cùng với một mảnh thư đặt ngay bên cạnh...",
+      "jpname": "モノローグ",
+      "jptext": "目隠しを外すと、目の前にはキレイに割れたスイカ――\nと、なにやら横に手紙が添えてある……。",
+      "choice_data_list": [
+        "(...Đây là――)"
+      ],
+      "jpchoice_data_list": [
+        "（……これは――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"C ả m  ơ n  v ì  t ấ t  c ả\"",
+      "jpname": "モノローグ",
+      "jptext": "『い　ろ　い　ろ　あ　り　が　と』"
+    },
+    {
+      "name": "Espoir City",
+      "text": "............",
+      "jpname": "エスポワールシチー",
+      "jptext": "……………………。",
+      "choice_data_list": [
+        "............C-Cái này là?"
+      ],
+      "jpchoice_data_list": [
+        "……………………こ、これは？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "............ 'Vì tất cả' là 'vì tất cả', còn 'cảm ơn' là 'cảm ơn' chứ là cái gì nữa hả tên kia!!!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "…………。『いろいろ』は『いろいろ』で、\n『ありがと』は『ありがと』だろうがコラァ！！！！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hay là anh không hiểu nghĩa của từ 'vì tất cả' với từ 'cảm ơn' hả!? Định bảo tôi dạy kèm môn Tiếng Nhật cho anh đấy chắc, hở!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "それとも『いろいろ』と『ありがと』の意味知らねーのか！？\nあーしに国語の授業やれっつってんのか、あ～！？",
+      "choice_data_list": [
+        "K-Không phải..."
+      ],
+      "jpchoice_data_list": [
+        "い、いや……"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Tóm lại là việc với anh tới đây là hết! Anh liệu mà thưởng thức dưa hấu xong rồi hãy về đấy nhé! Cút đây!",
+      "jpname": "エスポワールシチー",
+      "jptext": "とにかく、これでもうテメェに用はねぇ！\nせいぜいスイカ味わってから帰るんだな！　じゃ！"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi―― bỏ lại quả dưa hấu cùng tôi, Espoir City thoăn thoắt sải bước rời đi.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って――スイカと自分を残し、\nエスポワールシチーはさっさと歩き去ってしまった。",
+      "choice_data_list": [
+        "...Không có chi đâu"
+      ],
+      "jpchoice_data_list": [
+        "……どういたしまして"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Đúng là một đứa trẻ vụng về.",
+      "jpname": "モノローグ",
+      "jptext": "――不器用な子だ。"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "title": "Tìm kiếm con đường của riêng cậu ấy",
+  "jptitle": "彼女だけの道を探して",
+  "text_block_list": [
+    {
+      "name": "Espoir City",
+      "text": "Đồ... đồ nghe lén này! Tên ngốc kia! Anh nghe thấy những gì rồi hả!? Đ-Đứng lại mau--!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "この……盗み聞き野郎っ！　スカタン！\nなに聞いた！？　ご……ゴラァァーー！！"
+    },
+    {
+      "name": "",
+      "text": "Vừa dứt cuộc gọi với mẹ, Espoir City liền tra khảo tôi tới tấp. Sự tức giận của cô ấy hoàn toàn có lý. Nghĩ lại những gì vừa vô tình thấy, tôi cúi đầu xin lỗi và――",
+      "jpname": "モノローグ",
+      "jptext": "母親との通話を終えたエスポワールシチーに問い詰められる。\nその意見はもっともだ。見てしまったものを思い出し、頭を下げ――",
+      "choice_data_list": [
+        "Cậu muốn trở nên mạnh mẽ vì mẹ đúng không",
+        "Bạn muốn trở nên mạnh mẽ vì mẹ đúng không"
+      ],
+      "jpchoice_data_list": [
+        "君は、お母さんのために強くなりたいんだな",
+        "貴方は、お母さんのために強くなりたいんだ"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hảảả?",
+      "jpname": "エスポワールシチー",
+      "jptext": "ア゛？",
+      "choice_data_list": [
+        "A... a!? Tôi xin lỗi!!"
+      ],
+      "jpchoice_data_list": [
+        "あ……ああ！？ごめん！！"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Thì đã sao nào!? Có gì sai chắc!? Nếu dám hé răng với ai, tôi đấm cho vỡ mặt!! ...Khốn kiếp, khốn kiếp, khốn khiếp!",
+      "jpname": "エスポワールシチー",
+      "jptext": "～～～～ッ、悪ぃか！？\n誰かに言ったら、ブチのめす！！　……くそっ、くそっ、くそー！",
+      "choice_data_list": [
+        "Ơ, Espoir City!!"
+      ],
+      "jpchoice_data_list": [
+        "え、エスポワールシチー！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "............Lời xin lỗi của tôi đã không được chấp nhận. Lần này chắc hẳn cô ấy đã ghét tôi thật rồi.",
+      "jpname": "モノローグ",
+      "jptext": "…………謝罪の言葉は受け入れられなかった。\n今度こそ彼女に嫌われてしまっただろう。"
+    },
+    {
+      "name": "",
+      "text": "Dù theo kế hoạch chiều nay sẽ có buổi huấn luyện, nhưng có lẽ dù tôi có đến đó thì――",
+      "jpname": "モノローグ",
+      "jptext": "これから午後のトレーニングの予定だったのだが、\n恐らく、向かったとしても――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hảảả!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "あァん！？",
+      "choice_data_list": [
+        "Cậu vẫn đến sao!!??"
+      ],
+      "jpchoice_data_list": [
+        "いる！！？？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Tất nhiên là đến rồi, đồ ngốc này! Mau bắt đầu đi chứ tên kia!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "いんに決まってんだろが！\nさっさと始めろゴラァ！！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Mình―― phải trở nên mạnh mẽ hơn nữa! Nếu không mạnh hơn thì――...!!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（あーしは――もっと強くなんねぇといけねーんだ！\n強くなんねぇと――……！！）"
+    },
+    {
+      "name": "Mẹ của Espoir",
+      "text": "Mẹ xin lỗi nhé, lại phải nhập viện rồi. ...Nhưng mà, mẹ sẽ xin bác sĩ cho xuất viện sớm thôi! ...Nhé con?",
+      "jpname": "エスポの母親",
+      "jptext": "ごめんね、また入院しちゃって。\n……でもっ、先生に頼んですぐ退院させてもらうから！　……ね？"
+    },
+    {
+      "name": "Espoir lúc nhỏ",
+      "text": "Thôi đi! Đừng nói mấy câu đó nữa! Mẹ không cần phải lo cho con đâu mà...!!",
+      "jpname": "幼いエスポ",
+      "jptext": "いい！　そーいうのもういいからっ！\nあーしの心配なんか、いいから……！！"
+    },
+    {
+      "name": "Espoir lúc nhỏ",
+      "text": "Mẹ phải chữa khỏi bệnh đi! Phải khỏe lại cơ!! Dù không được gặp mẹ ngay thì con cũng... chẳng sao hết...! Cho nên............――",
+      "jpname": "幼いエスポ",
+      "jptext": "治して！　元気なって！！\nすぐ会えなくてもっ、ヘーキだから……！　だから…………――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Đúng thế―― mẹ cứ yên tâm mà dựa vào mình là được rồi)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（そうだ――安心して頼りゃいいんだよ、あーしに）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Mình đâu phải kẻ dễ bị coi thường. Cũng chẳng phải đứa yếu đuối hèn mọn dễ dàng nản chí!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（あーしは舐められるようなヤツじゃねェ。\nへこたれるような、しょぼいヤツでもねェ！）"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(Mình không phải kẻ yếu! Càng không phải kẻ vô tích sự! Cũng chẳng cần ai phải cứu giúp...―― Mình là một Mã Nương mạnh mẽ!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（弱いヤツじゃねェ！　ダメなヤツじゃねェ！\n助けが必要なヤツでもない……――強いウマ娘なんだ！）"
+    },
+    {
+      "name": "Giảng viên trưởng",
+      "text": "...Quả nhiên chỉ riêng Espoir City là vô phương cứu vãn sao?",
+      "jpname": "主任教官",
+      "jptext": "……やはりエスポワールシチーだけは、\nどうにもならなそうですか。"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Vâng. Vốn dĩ ngay cả các Trainer hay giảng viên kỳ cựu cũng đều bó tay trước cô bé. Chúng tôi từng kỳ vọng một phản ứng hóa học bất ngờ khi ghép với một người mới, nhưng...",
+      "jpname": "ベテラントレーナー",
+      "jptext": "はい。元々ベテランのトレーナーや教官でもお手上げだった娘です。\n化学反応を期待して、新人をつけてみましたが……。"
+    },
+    {
+      "name": "",
+      "text": "Những ngày bị Espoir City phản kháng cứ thế trôi qua vài hôm. Khi tình cờ đi ngang qua―― tôi đã nghe thấy cuộc trò chuyện đó.",
+      "jpname": "モノローグ",
+      "jptext": "エスポワールシチーから反発される日々が続いて、数日。\n通りかかった先で――そんな会話が聞こえてしまった。"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "...Xem ra gánh nặng này quá lớn rồi. Một Mã Nương chống đối lại tất cả mọi thứ thì dẫu có áp dụng phương pháp chỉ dẫn nào đi chăng nữa...",
+      "jpname": "ベテラントレーナー",
+      "jptext": "……やはり荷が重いように見えます。\n全てに反抗するウマ娘なら、どんな指導で向き合っても……。"
+    },
+    {
+      "name": "Giảng viên trưởng",
+      "text": "Thực tế thì đôi khi cũng có những em không thích hợp để làm Mã Nương thi đấu. ...Dù tàn nhẫn, nhưng hướng em ấy sang một con đường khác khi còn có thể cứu vãn cũng――",
+      "jpname": "主任教官",
+      "jptext": "事実、競走ウマ娘に適していない娘も時にはいます。\n……酷ですが、取り返しがつくうちに別の道へ進ませるのも――",
+      "choice_data_list": [
+        "...Không không không! Xin đợi một chút!!"
+      ],
+      "jpchoice_data_list": [
+        "……いやいやいや！あの！！"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Này!! Tên kia, làm cái bộ mặt ngái ngủ gì đấy hả! Buổi huấn luyện của tôi bắt đầu rồi đấy biết chưa!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "オイ！！　テメェ、寝ぼけた顔してんじゃねぇよ！\nあーしのトレーニング始まってんだぞ！？",
+      "choice_data_list": [
+        "A... ừ. Đúng rồi nhỉ!",
+        "Ư... ừ. Đúng rồi nhỉ!"
+      ],
+      "jpchoice_data_list": [
+        "あ……ああ。そうだな！",
+        "う……うん。そうだね！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhớ lại cuộc trò chuyện ban nãy. Hiện tại đánh giá dành cho Espoir City gần như... chạm đáy.",
+      "jpname": "モノローグ",
+      "jptext": "先ほどの会話を思い出す。\n今のところエスポワールシチーの評価はほぼ……最低だ。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy không nghe chỉ thị, liên tục chống đối. Nhưng tất cả những điều đó―― chỉ là vẻ cứng cỏi giả tạo vì không muốn bị xem là 'kẻ yếu' mà thôi.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は指示を聞かない。反抗ばかり繰り返す。\nだがそれも全部――ただ“弱い”と見られたくない強がりなだけで。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hảảả...!? Gì thế hả...! Buồn ngủ à!? Bị sốt à!? Nếu thấy mệt thì mau cút về đi!",
+      "jpname": "エスポワールシチー",
+      "jptext": "ハァ～……！？　ア゛～………！\n眠ぃのか！？　熱っぽいのか！？　ダリィならさっさと帰れ！",
+      "choice_data_list": [
+        "...Không phải đâu. Vì tôi cũng muốn giúp cậu mạnh hơn mà!",
+        "...Không phải đâu. Vì tôi cũng muốn giúp bạn mạnh hơn mà!"
+      ],
+      "jpchoice_data_list": [
+        "……違う。俺だって君を強くしたいから！",
+        "……違う。私だって貴方を強くしたいから！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hiện tại những gì tôi có thể rèn cho cô ấy chỉ toàn là các bài tập cơ bản. ...Còn những bài tập bù đắp điểm yếu thì đều bị từ chối sạch trơn.",
+      "jpname": "モノローグ",
+      "jptext": "今の自分が、彼女に施せているのは基礎的なトレーニングばかりだ。\n……弱点を補うトレーニングは、ことごとく拒否されている。",
+      "choice_data_list": [
+        "(Dù vậy... mình cũng không thể bỏ cuộc được)"
+      ],
+      "jpchoice_data_list": [
+        "（だからって……諦めるわけにいかない）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phải dựa trên những gì đã trải qua để không ngừng suy nghĩ về một phương pháp mới. Nếu ngừng suy nghĩ――... mình sẽ chẳng thể trao cho cô ấy bất cứ điều gì cả!",
+      "jpname": "モノローグ",
+      "jptext": "これまでを踏まえたうえで、新しい方法を考え続けるのだ。\n思考を止めれば――……彼女に何も与えられないままだ！",
+      "choice_data_list": [
+        "(Dẫn dắt các em ấy chẳng phải là bổn phận của Trainer sao!)",
+        "(Dẫn dắt các em ấy chẳng phải là bổn phận của Trainer sao!)"
+      ],
+      "jpchoice_data_list": [
+        "（導くのがトレーナーの役目だろ！）",
+        "（導くのがトレーナーの役目でしょう！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Tối hôm đó, tôi đã mua một cuốn sổ.",
+      "jpname": "モノローグ",
+      "jptext": "――その夜、一冊のノートを買った。",
+      "choice_data_list": [
+        "\"Sách giáo khoa\" dành riêng cho Espoir City!",
+        "\"Sách giáo khoa\" dành riêng cho Espoir City đây!"
+      ],
+      "jpchoice_data_list": [
+        "エスポワールシチー専用“教科書”、だ！",
+        "エスポワールシチー専用“教科書”、だよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trên cuốn sổ có đề chữ 'Sách giáo khoa' ngoài bìa đó, tôi viết ra những phương pháp đã từng thử và cả những phương pháp chưa từng thử.",
+      "jpname": "モノローグ",
+      "jptext": "表紙に『教科書』と書いたそのノートに、\nこれまでに試した方法と試さなかった方法を書きつづる。"
+    },
+    {
+      "name": "",
+      "text": "Espoir City cũng sở hữu một tài năng tỏa sáng rực rỡ. Chỉ là những phương pháp chỉ dẫn thông thường không phù hợp với cô ấy mà thôi. Miễn sao tìm ra được phương pháp phù hợp với cô ấy――!",
+      "jpname": "モノローグ",
+      "jptext": "エスポワールシチーにも輝く才能はある。ただ普通の指導方法が\n合わないだけ。彼女に合った指導法にさえ、たどり着ければ――！"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Trên đây là chuyên mục Nghiên cứu Kokura hồi hộp thót tim của Umadol siêu cấp Falco♪",
+      "jpname": "スマートファルコン",
+      "jptext": "以上、とびっきりウマドル！\nファル子のドキドキ～、小倉リサーチでした♪"
+    },
+    {
+      "name": "Nhân viên đài phát thanh",
+      "text": "――Được rồi đấy ạ. Cảm ơn Falco-san đã tham gia buổi thu âm nhéee!",
+      "jpname": "ラジオ局員",
+      "jptext": "――オッケーでーす。\nファル子さん、収録へのご参加ありがとうございました～！"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Em mới là người phải cảm ơn mọi người vì công việc Umadol này ạ! ...Lần sau có công việc xin mọi người nhất định hãy chỉ định Falco nhé!",
+      "jpname": "スマートファルコン",
+      "jptext": "私こそ、ウマドルのお仕事をありがとうございました！\n…………今度もぜひっ、ファル子指名でお仕事のご依頼くださいね！"
+    },
+    {
+      "name": "",
+      "text": "Tối hôm đó trên đường đua có cả khách ghé thăm không thuộc 'Dự án K'. Cô ấy, Smart Falcon, là một Mã Nương luôn nỗ lực trong cả hoạt động giải trí――",
+      "jpname": "モノローグ",
+      "jptext": "その夜は『プロジェクトK』参加者以外の来訪者もコースにいた。\n彼女、スマートファルコンは、芸能活動も頑張るウマ娘で――"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "――Khi Falco vượt lên dẫn đầu thì phải làm sao? (Chỉ có nước đuổi theo thôiii!) Xin hãy ủng hộ Umadol mạnh nhất, Smart Falcon nhéee☆",
+      "jpname": "スマートファルコン",
+      "jptext": "――ファル子が逃げたら～？（追うしかなーい！）\n最強ウマドル、スマートファルコンをよろしくお願いしまーす☆",
+      "choice_data_list": [
+        "(...! \"Mã Nương chạy dẫn đầu\"...!)"
+      ],
+      "jpchoice_data_list": [
+        "……！“逃げウマ娘”……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhớ lại tính cách của Espoir City cùng khát khao 'muốn trở nên mạnh mẽ' của cô ấy, tôi bắt đầu viết kín trang đầu tiên của cuốn sổ tay.",
+      "jpname": "モノローグ",
+      "jptext": "エスポワールシチーの性格と“強くあろう”とする気質を\n思い出し、ノートの1ページ目を埋めていく。",
+      "choice_data_list": [
+        "(Nếu như. Giả sử như――)"
+      ],
+      "jpchoice_data_list": [
+        "（もし。もしも――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một cô gái từng bộc lộ trọn vẹn tinh thần hiếu thắng không chịu thua ai trong trận đua tập, nếu phải so tài một đối một với một đối thủ chạy dẫn đầu thì sao.",
+      "jpname": "モノローグ",
+      "jptext": "模擬レースでもいかんなく負けん気を発揮していた彼女が、\nもしも、逃げの相手と1対1で競ったなら。",
+      "choice_data_list": [
+        "――Espoir City sẽ hành động thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "――エスポワールシチーならどう動く？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Tôi lập tức ghi lại bài tập vừa nảy ra trong đầu. Kế hoạch này cần có người trợ giúp. Và đúng lúc này, một cuộc gặp gỡ định mệnh vừa xuất hiện――",
+      "jpname": "モノローグ",
+      "jptext": "……思いついたトレーニングをすぐに書き留める。\nこれには協力者が必要だ。まさに今、運命の出会いを果たした――",
+      "choice_data_list": [
+        "Xin lỗi... Smart Falcon!"
+      ],
+      "jpchoice_data_list": [
+        "あの……スマートファルコン！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và rồi ngày hôm sau. ...Tôi hẹn cả hai người đến một bãi cỏ cách xa trường đua Kokura.",
+      "jpname": "モノローグ",
+      "jptext": "そして翌日。\n……ふたりを小倉レース場から離れた場所に呼びだした。"
+    },
+    {
+      "name": "Falco & Espoir",
+      "text": "Hai đứa mình cùng đua nào! ...Hứ!",
+      "jpname": "ファル子＆エスポ",
+      "jptext": "ふたりで競走だ～！\n……ハンッ！"
+    },
+    {
+      "name": "",
+      "text": "Đúng như dự liệu, lời đề nghị 'đua tài' đã được cô ấy chấp nhận một cách dễ dàng. ...Nắm chặt cuốn sổ trong tay, tôi ra hiệu lệnh xuất phát.",
+      "jpname": "モノローグ",
+      "jptext": "目論見通り、“競走”の提案は彼女にもすんなり受け入れられた。\n……ノートを握りしめながら、スタートの合図を出す。",
+      "choice_data_list": [
+        "...Vậy hai người chuẩn bị nhé, vào vị trí――!"
+      ],
+      "jpchoice_data_list": [
+        "……。じゃあふたりとも行くよ、よーい！"
+      ]
+    },
+    {
+      "name": "Falco & Espoir",
+      "text": "Lên nàooo! Hả!?",
+      "jpname": "ファル子＆エスポ",
+      "jptext": "や～～～～！\nは！？"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Falco, nhỏ kia! Phóng đi kiểu gì thế hả...! Úi chà chà! Đừng hòng bỏ rơi taoooo!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "ファル子、テメェ！　んな飛ばし方……！\nうがぁぁ～～ッ！　置いてかれっかよォーーーー！！"
+    },
+    {
+      "name": "Espoir City",
+      "text": "(...Cứ kìm chân giữ sức thế này thì không bắt kịp mất! Phải lên phía trước―― lên trước nữa mới được...! Khốn khiếpppp...!)",
+      "jpname": "エスポワールシチー",
+      "jptext": "（……このまま脚を溜めてても追いつかねぇ！\nもっと前――前に出ねぇと……！　くぅぅぅぅ～……！）"
+    },
+    {
+      "name": "",
+      "text": "Lượt đầu tiên, Smart Falcon bứt tốc dẫn đầu và thắng áp đảo. Espoir City dù cố gắng lội ngược dòng nhưng... cú nước rút cuối không đủ lực.",
+      "jpname": "モノローグ",
+      "jptext": "初戦、逃げたスマートファルコンが圧勝した。\nエスポワールシチーは巻き返そうとしても……末脚が伸びず。",
+      "choice_data_list": [
+        "(Nhưng chuyện này đã nằm trong dự tính)"
+      ],
+      "jpchoice_data_list": [
+        "（でもこれは想定内）"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hừ... Falco kia...! Dám phóng đi sướng thân thế hả... Lần tới thì đừng hòng...!",
+      "jpname": "エスポワールシチー",
+      "jptext": "う゛ぅ゛～……ファル子……！\nかっ飛ばしやがってェ……こんの次は……！",
+      "choice_data_list": [
+        "...Này, thêm một trận nữa có được không!?",
+        "...Này, thêm một trận nữa có được không!?"
+      ],
+      "jpchoice_data_list": [
+        "……なあ、もう一戦してもいいかな！？",
+        "……ねぇ、もう一戦してもいいかな！？"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tất nhiên rồi! Cậu hãy ghi nhớ thật kỹ vào mắt, rồi dù ở Kokura hay khi về lại học viện cũng nhớ giới thiệu cho mọi người nhé! Màn chạy đỉnh chóp tuyệt đỉnh của Umadol đó nha☆",
+      "jpname": "スマートファルコン",
+      "jptext": "もちろんっ！　しっかり目に焼きつけて、小倉でも学園に戻っても、\nみんなに紹介をよろしくね！　超絶最高なウマドルの走りっ☆",
+      "choice_data_list": [
+        "À, ừ! ...Cậu thấy thế có được không?",
+        "Ừ, ừ! ...Bạn thấy thế có được không?"
+      ],
+      "jpchoice_data_list": [
+        "あ、ああ！……君もそれでいいか？",
+        "う、うん！……貴方もそれでいいかな？"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "...Tất nhiên rồi! Sao có thể để bị thua mãi được! Tôi sẽ chặn đứng cách chạy của nó! Lần tới tôi nhất định sẽ thắng!",
+      "jpname": "エスポワールシチー",
+      "jptext": "……ったりめぇだ！　負けっぱでいられっか！\nコイツの走りを止めてやる！　次はあーしが勝つ！",
+      "choice_data_list": [
+        "Được rồi, vậy thêm một lần nữa nào! Vào vị trí――"
+      ],
+      "jpchoice_data_list": [
+        "よし、じゃあもう一度！位置について――"
+      ]
+    },
+    {
+      "name": "Espoir & Falco",
+      "text": "Lên điiii!! Oái――",
+      "jpname": "エスポ＆ファル子",
+      "jptext": "しゃぁああああッッ！！\nわっ――"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hah, thấy sao hả Falco! Bất ngờ chưa! Đừng hòng để mày thảnh thơi một mình! Cứ đà này thì――!",
+      "jpname": "エスポワールシチー",
+      "jptext": "ハッ、どぉーだファル子！　予想外だろ！\nひとり楽に行かせてたまるかよ！　んで、このまま――！"
+    },
+    {
+      "name": "",
+      "text": "...Quả nhiên bản tính không chịu thua của cô ấy đã phát huy tác dụng. Một lối chạy không nhường thế dẫn đầu cho Smart Falcon, tức là――",
+      "jpname": "モノローグ",
+      "jptext": "……やはり、彼女の負けず嫌いがうまく作用している。\nスマートファルコンにもハナを譲らない走り、すなわち――",
+      "choice_data_list": [
+        "(――Đã trở thành lối chạy \"có thể chiến đấu ngay ở phía trước\")"
+      ],
+      "jpchoice_data_list": [
+        "（――“前でも戦える”走りになっている）"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Trờiii ơi!! Lại thua nữa rồi!! Thêm trận nữa đi, Falco!!",
+      "jpname": "エスポワールシチー",
+      "jptext": "だぁ～～！！　また負けた！！\nもっかいだ、ファル子！！"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, cô ấy tự mình khắc sâu một lý thuyết chiến thuật mới vào cơ thể. Đây chính là điều. Chính là điều mà tôi hằng ấp ủ từ giây phút đầu tiên gặp cô ấy...――",
+      "jpname": "モノローグ",
+      "jptext": "こうして彼女は自ら、その体に新しいセオリーを染みつかせる。\nこれが。これこそが。初めて出会った時から思い描いていた……――",
+      "choice_data_list": [
+        "(...Con đường dẫn tới chiến thắng của Espoir City)"
+      ],
+      "jpchoice_data_list": [
+        "（……エスポワールシチーの勝ち筋）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và rồi vài ngày sau. Một trận đua tập khác lại được tổ chức trong khuôn khổ 'Dự án K'. Hôm đó tôi không đưa ra bất kỳ chỉ thị nào cho Espoir City. ――Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "そして後日。再び『プロジェクトK』内で模擬レースが開催された。\n当日こちらから、エスポワールシチーに出した指示はない。――が。"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Tuyệt vờiiii, về nhì rồi!! Nhì............ Ểếế!? Thật kìa!? Sao lại thế được!? .........Ôi trời ơiii!?",
+      "jpname": "エスポワールシチー",
+      "jptext": "しゃーーーーッッ、2着！！　にッ……………んえええッ？\nマジだ！？　なんでだ！？　………おおおおおお～～！？",
+      "choice_data_list": [
+        "(――Tốt lắm!!)"
+      ],
+      "jpchoice_data_list": [
+        "（――よし！！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi ghi lại vào cuốn sổ dáng vẻ chạy xuất sắc chưa từng có của cô ấy cùng toàn bộ quan sát đến ngày hôm qua. ――Trang đầu tiên đã được lấp đầy.",
+      "jpname": "モノローグ",
+      "jptext": "これまでにない好走を見せた彼女の様子と、\n昨日までの記録をノートにつづる。――まずは1ページが埋まった。"
+    }
+  ]
+}
