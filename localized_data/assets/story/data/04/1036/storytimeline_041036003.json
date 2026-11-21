@@ -1,0 +1,454 @@
+{
+  "title": "\"Permission Denied\"",
+  "jptitle": "“Permission Denied”",
+  "text_block_list": [
+    {
+      "name": "Giáo viên tiểu học",
+      "text": "\"――Em Shakur là một đứa trẻ rất thông minh. Nhưng dường như em ấy vẫn chưa hiểu được rằng không phải cứ đúng đắn thì sẽ là chân lý...\"",
+      "jpname": "小学校の先生",
+      "jptext": "『――シャカールさんは、とても頭がよい子です。ですが、\n正しいことだけが真実にはならないと、わからないようで……』"
+    },
+    {
+      "name": "Giáo viên tiểu học",
+      "text": "\"Thành thật mà nói, ngay cả các thầy cô giáo cũng rất khó xử khi dạy dỗ em ấy. Em ấy bị cô lập trong lớp, lại còn thường xuyên xảy ra xung đột với các bạn khác.\"",
+      "jpname": "小学校の先生",
+      "jptext": "『正直に申し上げますと、先生の間でも扱いに困ってしまって。\nクラスの中でも孤立しており、衝突してしまった子たちもいます』"
+    },
+    {
+      "name": "Giáo viên tiểu học",
+      "text": "\"Mọi người đều nỗ lực thấu hiểu em ấy, nhưng mà... Nếu bản thân em ấy không chịu mở lòng bước tới một chút thì chúng tôi cũng chẳng biết phải làm sao...\"",
+      "jpname": "小学校の先生",
+      "jptext": "『みんな、あの子を理解しようと努力しているのですが……。\nもう少し、向こうからも歩み寄ってくれなければ、なんとも……』"
+    },
+    {
+      "name": "Mẹ của Shakur",
+      "text": "\"Tôi xin lỗi. Con bé từ xưa đến nay vốn đã như vậy rồi. Bản tính nó là thế... nên các thầy cô cứ mặc kệ con bé đi ạ. Xin đừng kích động nó...\"",
+      "jpname": "シャカールの母親",
+      "jptext": "『すみません。あの子は昔からああなんです。そういう子\nなんです……だから、構わないで大丈夫です。刺激しないで……』"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(――Từ khi còn bé, tôi đã là một sự tồn tại \"không thể thấu hiểu\". Chẳng hiểu vì sao, kẻ luôn sai sót và dị thường lại luôn là tôi.)",
+      "jpname": "エアシャカール",
+      "jptext": "（――子どもの頃から、オレは“理解できない”存在だった。\nなぜか、いつも間違っていて異常なのはオレのほうだった）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Những gì lọt vào tai chỉ toàn là tạp âm nhiễu loạn... Rõ ràng dùng chung một ngôn ngữ, vậy mà chẳng thể trò chuyện được với ai. Dần dần, tôi từ bỏ việc đối thoại.)",
+      "jpname": "エアシャカール",
+      "jptext": "（聞こえるのは、ノイズばかり……同じ言葉を使っているのに、\n誰とも話が通じなかった。そのうち、オレは対話を諦めた）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Đúng lúc ấy... tôi gặp được chiếc máy tính. Lần đầu tiên, tôi cảm thấy như nghe thấy được tiếng nói. Lập trình chính là ngôn ngữ duy nhất giúp tôi có thể giao tiếp.)",
+      "jpname": "エアシャカール",
+      "jptext": "（そンな時……PCと出会った。初めて、声が聞こえた気がした。\nプログラミングこそが、意思疎通可能な唯一の言語だったンだ）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Chỉ cần có cộng sự bên cạnh, tôi có thể gạt bỏ mọi tạp âm. Và để làm nơi chứng minh bản thân một cách hiệu quả nhất―― tôi đã nhắm tới Học viện Tracen.)",
+      "jpname": "エアシャカール",
+      "jptext": "（相棒がいれば、ノイズを搔き消せる。そして最も効果的に、\n自分を証明できる場所として――オレはトレセン学園に目をつけた）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(\"Parcae\" mà tôi hoàn thiện ngay sau khi nhập học đã trở thành người cộng sự tuyệt vời nhất. Càng nạp cho nó nhiều dữ liệu, độ chính xác trong đáp án mà nó đưa ra càng tăng cao――)",
+      "jpname": "エアシャカール",
+      "jptext": "（入学してすぐ完成させた『Parcae』は、最高の相棒になった。\nデータを食わせるほどに、ヤツの導く答えの精度は高まり――）"
+    },
+    {
+      "name": "",
+      "text": "\"――Air Shakur, rốt cuộc em đang nghĩ gì trong đầu khi chạy thế hả... Không thèm nghe giảng viên chỉ bảo, không có tinh thần hợp tác, độc đoán chuyên quyền... Nhưng mà...\"",
+      "jpname": "モノローグ",
+      "jptext": "『――エアシャカール、一体何を考えて走ってるんだ……。\n教官の話もまともに聞かない、協調性もない、独善的……でも』"
+    },
+    {
+      "name": "",
+      "text": "\"Mình chẳng muốn chạy cùng tiền bối Shakur chút nào... Chị ấy như người ở thế giới khác, chẳng hiểu nổi nên đáng sợ lắm... Nhưng mà...\"",
+      "jpname": "モノローグ",
+      "jptext": "『シャカール先輩、一緒に走りたくないんだよねぇ……。\nちょっと違う世界の人みたいで、わかんなくて怖い……でも』"
+    },
+    {
+      "name": "",
+      "text": "\"――Vì chị ấy 'chiến thắng', nên quả nhiên là đỉnh thật...\"",
+      "jpname": "モノローグ",
+      "jptext": "『――“勝つ”から、やっぱすごい……』"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(...Cảm giác lúc đó tuyệt vời khôn tả. Đứng trước kẻ chiến thắng, lũ người ồn ào đều phải câm nín, tạp âm đã biến mất. Nếu thế, chỉ cần tôi tiến lên tầm cao hơn nữa...)",
+      "jpname": "エアシャカール",
+      "jptext": "（……最高の気分だった。うるさいヤツらも全員、勝者には口を\n閉ざし、ノイズは消えた。なら、もっと上がっていけば……）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(――Chỉ cần tiếp tục thắng, thắng nhiều hơn nữa. Đúng vậy, chẳng hạn như... danh hiệu chỉ dành riêng cho những kẻ mạnh thực thụ... nếu tôi đội chiếc vương miện Tam Miện lên đầu mình...!)",
+      "jpname": "エアシャカール",
+      "jptext": "（――もっともっと、勝っていけば。そう、例えば……本物の強者\nしか手にできない称号を……三冠を、この頭に戴けば……！）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Chính lúc ấy... đáng lẽ ra tôi sẽ \"     \"――)",
+      "jpname": "エアシャカール",
+      "jptext": "（その時こそ……“　　　　　”はずだったンだ――）"
+    },
+    {
+      "name": "",
+      "text": "Đuổi theo Air Shakur sau khi cậu ấy kết thúc buổi tập, tôi thấy cậu ấy đang đứng thẫn thờ giữa quảng trường.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングを終えたエアシャカールを追いかけると、\n彼女は広場で佇んでいた。",
+      "choice_data_list": [
+        "Shakur!"
+      ],
+      "jpchoice_data_list": [
+        "シャカール！"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "! Anh... cái người hôm nọ. Có việc gì à?",
+      "jpname": "エアシャカール",
+      "jptext": "！\nアンタ……あの時の。なンか用か？",
+      "choice_data_list": [
+        "Dáng chạy ban ngày của cậu tuyệt vời lắm"
+      ],
+      "jpchoice_data_list": [
+        "昼間の走り、すごくよかった"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả? ...À... Hử?",
+      "jpname": "エアシャカール",
+      "jptext": "ハ？\n……あァ……アァ？",
+      "choice_data_list": [
+        "Tôi cảm nhận được những nỗ lực bấy lâu nay của cậu",
+        "Tôi cảm nhận được những nỗ lực bấy lâu nay của bạn"
+      ],
+      "jpchoice_data_list": [
+        "君のこれまでの努力を感じた",
+        "貴方のこれまでの努力を感じた"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hừ. Cái quái gì thế, đừng có nói nhảm bừa bãi...",
+      "jpname": "エアシャカール",
+      "jptext": "……っ。\nなンだそれ、適当こくな……。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Mà anh cất công đến tận đây chỉ để nói mỗi câu đó đấy à? Thế thì nhọc lòng anh quá. Xong rồi thì biến về đi.",
+      "jpname": "エアシャカール",
+      "jptext": "つーか、それをわざわざ言いにきたのか？\nなら、ご苦労様。もういいから、帰れ。"
+    },
+    {
+      "name": "",
+      "text": "Không, không chỉ có vậy. Lý do tôi đến bắt chuyện... là vì sau khi chứng kiến dáng chạy của cậu ấy, tôi muốn tìm hiểu về cậu ấy nhiều hơn nữa. Phải rồi――",
+      "jpname": "モノローグ",
+      "jptext": "違う、それだけじゃない。声をかけにきたのは……彼女の走りを\nしっかり見て、彼女をもっと知りたいと思っているからだ。そう――",
+      "choice_data_list": [
+        "Tôi muốn trở thành Trainer của cậu!",
+        "Tôi muốn trở thành Trainer của bạn!"
+      ],
+      "jpchoice_data_list": [
+        "君のトレーナーになりたいんだ！",
+        "貴方のトレーナーになりたいの！"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "... Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "……。\nハ？"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ đó là một lời nói quá đỗi đường đột. Nhưng khoảnh khắc thốt ra, tôi lập tức hiểu ra rằng: ngay từ lần đầu gặp mặt, lựa chọn ấy đã luôn hiện hữu trong tim tôi rồi.",
+      "jpname": "モノローグ",
+      "jptext": "あまりにも唐突な言葉だったかもしれない。けれど口に出した瞬間\n腑に落ちた。初めて会った時から、その選択肢は心にあったのだ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Chẳng có tí logic nào cả. À, cái trò yêu từ cái nhìn đầu tiên đấy à? Thế thì tiếc thật, tôi xin phép từ chối. Tôi không rảnh nghe mấy chuyện vô căn cứ đâu.",
+      "jpname": "エアシャカール",
+      "jptext": "……全くロジカルじゃねェな。あァ、ひと目惚れってヤツか？\nなら残念だが断らせてもらうぜ。根拠のねェ話は聞けねェなァ。",
+      "choice_data_list": [
+        "Căn cứ thì tôi sẽ được cậu chỉ bảo sau",
+        "Căn cứ thì tôi sẽ được bạn chỉ bảo sau"
+      ],
+      "jpchoice_data_list": [
+        "根拠は君から教えてもらう",
+        "根拠は貴方から教えてもらう"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "…………あァ？",
+      "choice_data_list": [
+        "Hãy cho tôi biết cậu mong ước điều gì và vì sao cậu lại chạy",
+        "Hãy cho tôi biết bạn mong ước điều gì và vì sao bạn lại chạy"
+      ],
+      "jpchoice_data_list": [
+        "君が何を望んで、なぜ走るのか教えてくれ",
+        "貴方が何を望んで、なぜ走るのか教えて"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Biết mấy thứ đó thì giải quyết được cái thá gì? Căn cứ mà tôi nói là điều kiện dựa trên năng lực và mục tiêu của tôi cơ.",
+      "jpname": "エアシャカール",
+      "jptext": "ンなモン知って、なンになる？\n根拠っつーのは、オレの能力や目標に基づいた条件とかの話だ。",
+      "choice_data_list": [
+        "Nếu biết được, tôi có thể giúp sức cho cậu",
+        "Nếu biết được, tôi có thể giúp sức cho bạn"
+      ],
+      "jpchoice_data_list": [
+        "知ることができれば、君の力になれる",
+        "知ることができれば、貴方の力になれる"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Bằng cách nào? Anh thì làm được cái gì... Ngay từ đầu, anh làm sao có thể làm việc hiệu quả hơn tôi được chứ?",
+      "jpname": "エアシャカール",
+      "jptext": "……どうやって。アンタになにが……\nそもそも、オレ以上の働きができるのか？"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Dinh dưỡng học, công nghệ thể thao... toàn bộ lý thuyết và số liệu đều nằm gọn trong đầu tôi rồi. Nói thử xem nào. Anh có thể giúp được gì cho tôi hả?",
+      "jpname": "エアシャカール",
+      "jptext": "栄養学、スポーツ工学……全部の理論やデータは頭に入ってる。\n言ってみろ。アンタが、オレの、どンな力になれる？",
+      "choice_data_list": [
+        "..."
+      ],
+      "jpchoice_data_list": [
+        "……"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Thấy chưa, có trả lời được đâu. Nói thẳng ra đi, thực chất... chỉ là do \"bản thân anh\" muốn làm thế thôi đúng không?",
+      "jpname": "エアシャカール",
+      "jptext": "ほらな、答えられない。言ってみろよ、本当は……\n“お前が”そうしたいだけなンだろ？"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chỉ là muốn tự mãn rằng mình có thể giúp đỡ... có thể cứu rỗi ai đó mà thôi. Trong khi chẳng ai có thể làm được trò trống gì cho tôi cả.",
+      "jpname": "エアシャカール",
+      "jptext": "誰かを助けられる……救えンだって、思い上がりたいだけだ。\n誰にも、なにもできやしないのに。"
+    },
+    {
+      "name": "",
+      "text": "Thứ đặt trước mắt tôi là lời cự tuyệt rõ ràng―― thế nhưng ẩn sâu bên dưới những lời lẽ ấy dường như là điều tôi muốn biết... nên tôi không thể thoái lui.",
+      "jpname": "モノローグ",
+      "jptext": "突きつけられたのは、明確な拒絶――けれどその言葉の奥に、\n知りたいことが隠されているようで……引き下がれなかった。",
+      "choice_data_list": [
+        "Tôi vẫn còn chưa làm được gì mà"
+      ],
+      "jpchoice_data_list": [
+        "まだ何もしてないよ"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "アァ？",
+      "choice_data_list": [
+        "Thế sao cậu lại nghĩ tôi chẳng thể làm được gì?",
+        "Thế sao bạn lại nghĩ tôi chẳng thể làm được gì?"
+      ],
+      "jpchoice_data_list": [
+        "なのになぜ、何もできないって思うんだ？",
+        "なのになぜ、何もできないって思うの？"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Dai như đỉa đói vậy. Đã bảo là...!",
+      "jpname": "エアシャカール",
+      "jptext": "しつっっこいな。\nだから……！"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Được rồi, đi theo tôi. Để tôi cho anh thấy bằng những con số.",
+      "jpname": "エアシャカール",
+      "jptext": "……もういい、ついてこい。\n数字で示してやるよ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "――Đó chính là đáp án mà tôi... mà \"Parcae\" đã tính toán ra.",
+      "jpname": "エアシャカール",
+      "jptext": "――それがオレの……『Parcae』の、導いた答えだ。"
+    },
+    {
+      "name": "",
+      "text": "Thứ Air Shakur cho tôi xem là màn hình chiếc máy tính xách tay mà cậu ấy luôn ôm bên mình.",
+      "jpname": "モノローグ",
+      "jptext": "エアシャカールに見せられたのは、いつも彼女の抱えている\nノートパソコンに映し出された画面だった。"
+    },
+    {
+      "name": "",
+      "text": "Trên đó xếp đầy những công thức toán học và con số phức tạp, và phía sau dấu bằng cuối cùng là...",
+      "jpname": "モノローグ",
+      "jptext": "そこには難しい数式や数字がいくつも並べられていて、\n最後にイコールで繋がれていたのは……。",
+      "choice_data_list": [
+        "\"-7\"..."
+      ],
+      "jpchoice_data_list": [
+        "“−7”……"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Từ lần đầu tiên chạy thử toán cho tới tận bây giờ. Đáp án đó chưa từng lung lay một lần nào. Con số ấy biểu thị rằng...",
+      "jpname": "エアシャカール",
+      "jptext": "最初に試算したところから、今の今まで。\nその答えはずっと揺るがない。その数字が示すのは……。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tại \"Nippon Derby\", tôi sẽ thua chỉ với khoảng cách 7 cm. Và rồi, đánh mất Tam Miện... Đó chính là lời giải.",
+      "jpname": "エアシャカール",
+      "jptext": "『日本ダービー』で、オレは7cm差で負ける。\nで、三冠を逃す……その解だ。",
+      "choice_data_list": [
+        "...!!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tam Miện mà cậu ấy nói đến... chính là chiến thắng cả 3 trận đua GI chỉ có thể tham dự vào cấp Classic: \"Satsuki Sho\", \"Nippon Derby\" và \"Kikuka Sho\".",
+      "jpname": "モノローグ",
+      "jptext": "彼女の示す三冠とは……クラシック級でしか挑めないGⅠ3レース、\n『皐月賞』『日本ダービー』『菊花賞』全てで勝つこと。"
+    },
+    {
+      "name": "",
+      "text": "Người chiến thắng tất cả sẽ được tôn vinh là Tam Miện Mã Nương, lưu danh vào sử sách. Hàng vạn người từng thử sức bấy lâu nay, nhưng số người đạt được danh hiệu ấy chỉ đếm trên đầu ngón tay――",
+      "jpname": "モノローグ",
+      "jptext": "それらを勝った者は三冠ウマ娘と呼ばれ、歴史に名を刻む。今まで\n何万と挑み、片手に収まるほどしか得られなかった称号――"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tôi... vĩnh viễn không thể trở thành Tam Miện Mã Nương. Cho dù đến tận hôm nay tôi có nhập lại bao nhiêu số liệu đi chăng nữa, chỉ riêng lời giải này là không hề bị lật ngược.",
+      "jpname": "エアシャカール",
+      "jptext": "オレは……絶対に三冠ウマ娘になれない。今日まで何度数値を\n入力し直しても、この解だけは覆らなかった。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Đừng có mở mồm bảo chương trình bị sai đấy nhé. Tất cả đều hoàn hảo. Và chính vì hoàn hảo... nên tôi tuyệt đối không thể chiến thắng.",
+      "jpname": "エアシャカール",
+      "jptext": "プログラム自体が間違ってる、なンて言うなよ。\n全て完璧だ。完璧だから……オレは絶対に、勝てない。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hiểu rồi chứ. Một kẻ như anh làm sao có thể làm được gì. Đến ngay cả tôi... còn không thể đảo ngược được cơ mà.",
+      "jpname": "エアシャカール",
+      "jptext": "わかっただろ。アンタになにかできるわけがない。\nこのオレでさえ……覆せなかったンだから。"
+    },
+    {
+      "name": "",
+      "text": "Tôi không thể thấu hết nỗi tuyệt vọng sâu thẳm của cậu ấy. Nhưng ít nhất qua câu chuyện vừa rồi... tôi biết cậu ấy vẫn đang vùng vẫy đấu tranh. Lý do chỉ có một mà thôi――",
+      "jpname": "モノローグ",
+      "jptext": "彼女の絶望の深さはわからない。けれど、少なくとも今の話から……\n彼女があがいていることはわかる。その理由はただひとつ――",
+      "choice_data_list": [
+        "Dù vậy, cậu vẫn nhất định muốn chiến thắng đúng không",
+        "Dù vậy, bạn vẫn nhất định muốn chiến thắng đúng không"
+      ],
+      "jpchoice_data_list": [
+        "それでも君は、絶対に勝ちたいんだな",
+        "それでも貴方は、絶対に勝ちたいんだね"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "……あァ？"
+    },
+    {
+      "name": "",
+      "text": "Điều tôi muốn biết, tâm nguyện của cậu ấy―― chính là chiến thắng. Một ước nguyện đơn giản, phổ quát và duy nhất hằn sâu trong trái tim bất kỳ ai...",
+      "jpname": "モノローグ",
+      "jptext": "知りたかった、彼女の望み――それは勝つこと。\nシンプルで、誰の心にもある、普遍的で唯一の願い……。",
+      "choice_data_list": [
+        "Nếu có ý chí ấy, kết quả chắc chắn sẽ thay đổi!"
+      ],
+      "jpchoice_data_list": [
+        "その想いがあれば、きっと変わる！"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hực.",
+      "jpname": "エアシャカール",
+      "jptext": "……ッッ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nếu ba cái thứ ý chí vớ vẩn mà thay đổi được! Thì tôi đã lật ngược nó từ lâu lắm rồi!!",
+      "jpname": "エアシャカール",
+      "jptext": "想いごときで変わンなら！\nとっくにひっくり返ってンだよ！！",
+      "choice_data_list": [
+        "...!!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vùng vẫy thảm hại, giãy giụa hết lần này đến lần khác... Dù biết thừa là bất khả thi, nhưng tôi đã tính toán lại không biết bao nhiêu lần, bao nhiêu lần, bao nhiêu lần, bao nhiêu lần!",
+      "jpname": "エアシャカール",
+      "jptext": "無様にあがいて、あがいて……無理だとわかってンのに、\n何度も何度も何度も何度も何度も何度も！　計算して！"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chạy, rồi chạy... lại chạy...! Cứ nghĩ rằng một ngày nào đó, một ngày nào đó... Thế mà vẫn là không thể... Trong khi anh chẳng hiểu cái thá gì cả...",
+      "jpname": "エアシャカール",
+      "jptext": "走って、走って……走って……！　いつかは、いつか……\nなのに、無理だったンだ……わかってねェくせに……。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Đột nhiên xuất hiện! Rồi làm cái bộ mặt như đấng cứu thế!! Tên như ngươi... thì làm được cái trò trống gì cơ chứ...!!",
+      "jpname": "エアシャカール",
+      "jptext": "パッと現れて！　救世主ヅラして！！\nてめェに……なにができるンだよ……！！"
+    },
+    {
+      "name": "",
+      "text": "Cơn giận dữ và nỗi đau đớn trực tiếp va chạm vào nhau. Lập luận của cậu ấy hẳn bắt nguồn sâu xa từ những trải nghiệm trong quá khứ. Tôi không có quyền phủ nhận điều đó. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "怒りと悲しみが真っすぐぶつかる。彼女の主張には、経験したこと\nが深く根ざしているのだろう。それを否定する権利はない。だが――",
+      "choice_data_list": [
+        "(Bản thân \"tôi\" vẫn chưa nỗ lực làm gì cả!)",
+        "(Bản thân \"tôi\" vẫn chưa cố gắng làm gì cả!)"
+      ],
+      "jpchoice_data_list": [
+        "（まだ、“俺は”何も頑張ってない！）",
+        "（まだ、“私は”何も頑張ってない！）"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tóm lại là như thế đấy. Hiểu rồi thì đừng bao giờ dính líu đến tôi thêm một lần nào nữa.",
+      "jpname": "エアシャカール",
+      "jptext": "……とにかく、そういうことだ。\nわかったらもう2度と、絡んでくンな。",
+      "choice_data_list": [
+        "(...Trước hết mình phải tìm hiểu về cậu ấy đã)"
+      ],
+      "jpchoice_data_list": [
+        "（……まずは彼女を知らなければ）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù bị Air Shakur thẳng thừng cự tuyệt, nhưng khi chưa làm được gì cho cậu ấy, tôi tuyệt đối không cam lòng thoái lui――",
+      "jpname": "モノローグ",
+      "jptext": "エアシャカールには拒否されてしまったが、\n何もしていないのに、引き下がる気にはなれなかった――"
+    }
+  ]
+}

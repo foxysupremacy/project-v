@@ -1,0 +1,420 @@
+{
+  "title": "Nhịp đập thuật toán",
+  "jptitle": "脈打つアルゴリズム",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"Parcae\" \"thấu hiểu\". Nó phân tích dữ liệu đầu vào và đưa ra đáp án chính xác. Trung thành và chuẩn xác, nó hiểu rõ ý đồ được giao mà hoạt động.",
+      "jpname": "モノローグ",
+      "jptext": "『Parcae』は“理解”する。入力されたデータを分析し、\n正しい答えを導く。忠実かつ正確に、狙う意図を理解し働く。"
+    },
+    {
+      "name": "",
+      "text": "Chỉ cần giá trị đầu vào chuẩn xác, đáp án đưa ra sẽ mang tính tuyệt đối. Một phép toán chuẩn định không thể đảo ngược, hoàn mỹ độc nhất và bác bỏ mọi phỏng đoán mơ hồ.",
+      "jpname": "モノローグ",
+      "jptext": "入力値が正しければ、その答えは絶対的だ。覆しようのない、\nただ1つの完璧な、あらゆる推量を拒むwell-definedな演算。"
+    },
+    {
+      "name": "",
+      "text": "Vì lẽ đó―― \"Parcae\" lại không hề \"thấu hiểu\". Trong thế giới của số 0 và 1, chẳng tồn tại bất kỳ dòng mã nào có thể xử lý được nỗi tuyệt vọng.",
+      "jpname": "モノローグ",
+      "jptext": "故に――『Parcae』は、“理解”しない。\n0と1の世界に、絶望を処理するコードは存在しない。"
+    },
+    {
+      "name": "",
+      "text": "Vào một ngày nọ, tôi đi quan sát buổi tập của các cô bé chưa ra mắt để tìm kiếm Mã Nương đảm nhận huấn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "担当するウマ娘を探すため、まだデビューしていない子たちの\nトレーニングを見学していたある日のこと。"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Chị Opera O và chị Top Road tuyệt vời thật đấy... ...Dù có thể em sẽ không theo kịp, nhưng mà...!",
+      "jpname": "メイショウドトウ",
+      "jptext": "オペラオーさんも、トップロードさんも、すごいなぁ……。\n……追いつけないかもしれないけど、でも……！"
+    },
+    {
+      "name": "",
+      "text": "Đúng là Học viện Tracen, toàn những Mã Nương đầy triển vọng. Trong lúc lồng ngực đang rộn ràng háo hức, tôi chợt nhìn sang bên cạnh――",
+      "jpname": "モノローグ",
+      "jptext": "さすがトレセン学園、優秀そうなウマ娘たちばかりだ。\n胸をわくわくさせつつ、ふと隣を見てみると――"
+    },
+    {
+      "name": "???",
+      "text": "――...",
+      "jpname": "？？？",
+      "jptext": "――……。"
+    },
+    {
+      "name": "",
+      "text": "Có một cô bé với vẻ mặt nghiêm nghị đang chăm chú dõi theo các Mã Nương trên đường chạy. Thỉnh thoảng, cậu ấy lại gõ thứ gì đó vào chiếc máy tính xách tay.",
+      "jpname": "モノローグ",
+      "jptext": "真剣な表情で、コースにいるウマ娘たちを眺めている子がいた。\n時折ノートパソコンに何かを打ち込んでいる。",
+      "choice_data_list": [
+        "(Chăm chú thật đấy... nhưng mà――)"
+      ],
+      "jpchoice_data_list": [
+        "（熱心だなぁ……でも――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không chỉ có thế... ánh mắt thẳng thắn đến nhói lòng của cậu ấy dường như đã xuyên qua các Mã Nương và màn hình máy tính, như thể đang kiếm tìm một điều gì đó――",
+      "jpname": "モノローグ",
+      "jptext": "それだけではなく……痛ましいほどに真っすぐな彼女の視線は、\nウマ娘たちやパソコンを通り越して、何かを探しているような――"
+    },
+    {
+      "name": "???",
+      "text": "...Chậc!",
+      "jpname": "？？？",
+      "jptext": "……チッ！",
+      "choice_data_list": [
+        "!?"
+      ],
+      "jpchoice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "......",
+      "jpname": "？？？",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "(Mình nhìn chằm chằm người ta thất lễ quá...)"
+      ],
+      "jpchoice_data_list": [
+        "（不躾に見すぎた……）"
+      ]
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Này, thấy vừa nãy không? Tiền bối Air Shakur quả nhiên đáng sợ thật đấy. Dám lườm nguýt cả người lớn thế kia...",
+      "jpname": "ウマ娘A",
+      "jptext": "ね、今の見た？　エアシャカール先輩、やっぱ怖いよねぇ。\n大人にメンチ切るって……。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Nhưng chị ấy thông minh lắm đúng không? Hôm nọ giáo viên vừa than thở là \"Thông minh và chạy giỏi thế mà thái độ sống lại...\".",
+      "jpname": "ウマ娘B",
+      "jptext": "でもすっごく頭いいんでしょ？　この前先生が、\n『賢くて走りの能力も高いのに、生活態度が……』って嘆いてた。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Nghe đâu hầu như lúc nào cũng sát giờ giới nghiêm mới về. Chắc gọi là bất hảo nhỉ? Lúc nào trông cũng cáu kỉnh bực bội... Chẳng hiểu chị ấy nghĩ gì trong đầu nữa.",
+      "jpname": "ウマ娘B",
+      "jptext": "基本、門限ギリギリらしいね。不良っていうのかなぁ？\nなんかいつもイライラしてるし……何考えてんだろうねぇ。"
+    },
+    {
+      "name": "",
+      "text": "Air Shakur―― có vẻ cậu ấy bị các bạn khác sợ hãi. Cá tính độc đáo của cậu ấy... đặc biệt là ánh mắt kiên định đó, cứ mãi đọng lại trong tâm trí tôi.",
+      "jpname": "モノローグ",
+      "jptext": "エアシャカール――彼女は他の子から怖がられているようだ。\n独特な個性を持つ彼女の……とりわけその眼差しが、心に残った。"
+    },
+    {
+      "name": "???",
+      "text": "――Đã... bảo là tôi chẳng làm cái quái gì rồi cơ mà...",
+      "jpname": "？？？",
+      "jptext": "――だ～から、なンもしてねェって\n言ってンだろ……。"
+    },
+    {
+      "name": "",
+      "text": "Tối hôm đó, trên đường từ bên ngoài trở về học viện... tôi bắt gặp một Mã Nương đang bị cảnh sát giữ lại hỏi han.",
+      "jpname": "モノローグ",
+      "jptext": "その日の夜、外出先から学園へ戻ろうとすると……\n警察に声をかけられているウマ娘を見つけた。",
+      "choice_data_list": [
+        "(Đôi tai đó... chẳng lẽ là)"
+      ],
+      "jpchoice_data_list": [
+        "（あの耳……もしかして）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Lần nào cũng thế, dai như đỉa ấy. Với lại giờ này mà bắt giữ gì chứ, còn sớm chán... A.",
+      "jpname": "？？？",
+      "jptext": "毎回毎回、しつけェンだよ。\nつか補導すンには時間も早すぎ……あ。",
+      "choice_data_list": [
+        "Air Shakur...!"
+      ],
+      "jpchoice_data_list": [
+        "エアシャカール……！"
+      ]
+    },
+    {
+      "name": "Cảnh sát",
+      "text": "Hửm? Anh... là người quen của bé này à?",
+      "jpname": "警察",
+      "jptext": "ん？　貴方……この子の知り合いですか？",
+      "choice_data_list": [
+        "Cậu ấy là học sinh trường tôi"
+      ],
+      "jpchoice_data_list": [
+        "うちの生徒です"
+      ]
+    },
+    {
+      "name": "Cảnh sát",
+      "text": "Vậy ra là người của học viện... May quá. Thầy cũng nên khuyên nhủ em ấy đi nhé. Dạo này thấy em ấy cứ lang thang ngoài đường đến tận khuya...",
+      "jpname": "警察",
+      "jptext": "じゃあ、学園の……よかった。先生も話を聞いてあげてください。\n最近夜遅くまでぶらついているみたいなので……。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Khuyên nhủ \"giùm\" cơ à? Chẳng qua mấy người chỉ nghi ngờ tôi làm chuyện mờ ám thôi chứ gì.",
+      "jpname": "エアシャカール",
+      "jptext": "聞いて“あげる”？\nどうせ怪しいことしてる～とか、疑ってるだけだろうが。"
+    },
+    {
+      "name": "Cảnh sát",
+      "text": "Không phải thế! Cháu cứ ru rú trong quán net suốt, nhỡ dính vào rắc rối gì thì nguy hiểm nên chú mới lo... Cháu lúc nào cũng bướng bỉnh thế hả!",
+      "jpname": "警察",
+      "jptext": "違うよ！　ネットカフェにこもってばかりで、もしトラブルにでも\n巻き込まれちゃってるなら心配だから……いつも頑なだなぁ、君は！"
+    },
+    {
+      "name": "",
+      "text": "Cứ đà này thì cuộc nói chuyện sẽ chẳng đi đến đâu mất. Nếu vậy thì...",
+      "jpname": "モノローグ",
+      "jptext": "このままでは、話は平行線を辿る一方のようだ。\nならば……。",
+      "choice_data_list": [
+        "Tôi đã bảo cậu ấy đợi ở đó",
+        "Tôi đã bảo bạn ấy đợi ở đó"
+      ],
+      "jpchoice_data_list": [
+        "俺がそこで待機するよう指示しました",
+        "私がそこで待機するよう指示しました"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "は？",
+      "choice_data_list": [
+        "Thành thật xin lỗi vì đã làm phiền các anh cảnh sát"
+      ],
+      "jpchoice_data_list": [
+        "ご心配おかけして申し訳ございません"
+      ]
+    },
+    {
+      "name": "Cảnh sát",
+      "text": "...Thế thì được rồi. Nhưng đừng để một đứa trẻ vị thành niên ở một mình như thế nữa nhé. Còn cháu, nếu đi cùng thầy thì lần sau cứ nói thẳng ra từ đầu!",
+      "jpname": "警察",
+      "jptext": "……ならいいんです。ですが、未成年の子をあまり1人にしないで\nくださいよ。君も、先生が一緒なら次から素直に言いなさい！"
+    },
+    {
+      "name": "",
+      "text": "Được cảnh sát cho đi, tôi đã đưa được Air Shakur an toàn về đến ký túc xá. Suốt dọc đường, cậu ấy chẳng nói một lời, nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "警察から解放され、無事エアシャカールを寮まで送ることができた。\n道中、彼女はずっと黙ったままだったが……。",
+      "choice_data_list": [
+        "Đừng đi về muộn quá đấy nhé",
+        "Đừng đi về muộn quá nhé"
+      ],
+      "jpchoice_data_list": [
+        "あまり遅くなりすぎないようにな",
+        "あまり遅くなりすぎないようにね"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Thế là xong rồi đấy à? Một đứa học sinh tai tiếng lang thang ngoài đường đến sát giờ giới nghiêm đấy. Người bình thường ai chẳng nghi ngờ.",
+      "jpname": "エアシャカール",
+      "jptext": "……それだけでいいのか？　評判悪ィ生徒が、\n門限ギリギリまで外を歩き回ってンだぜ。怪しむだろ普通。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hay là anh không muốn dính thêm rắc rối nào nữa? À, nếu thế thì tôi hiểu được đấy.",
+      "jpname": "エアシャカール",
+      "jptext": "それとも、面倒ごとにはこれ以上関わりたくないって？\nあァ、それなら納得できるぜ。",
+      "choice_data_list": [
+        "Chắc cậu có việc quan trọng đúng không?",
+        "Chắc bạn có việc quan trọng đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "大事な用だったんだろ？",
+        "大事な用だったんでしょう？"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "……ア？",
+      "choice_data_list": [
+        "Vì cậu... có lẽ là một đứa trẻ nghiêm túc",
+        "Vì bạn... có lẽ là một đứa trẻ nghiêm túc"
+      ],
+      "jpchoice_data_list": [
+        "君は……多分、真面目な子だから",
+        "貴方は……多分、真面目な子だから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt nghiêm túc tôi nhìn thấy hồi trưa. Một cô bé chăm chú suy ngẫm đến nhường ấy thì chẳng thể nào là kẻ làm chuyện xấu được.",
+      "jpname": "モノローグ",
+      "jptext": "昼間見た、真剣な眼差し。あれほど熱心に何かを思考していた子が、\n悪いことをしているようには思えなかった。"
+    },
+    {
+      "name": "",
+      "text": "Thay vào đó... tôi thấy hợp lý hơn khi nghĩ rằng cậu ấy đang tìm kiếm một môi trường yên tĩnh để tập trung làm việc gì đó thật sự quan trọng đối với bản thân.",
+      "jpname": "モノローグ",
+      "jptext": "それよりも……彼女にとって大事な何かをするために、\n集中できる環境に身を置いていたと考えるほうがしっくりくる。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Nên mới không thèm gặng hỏi chứ gì? Phán đoán dựa trên ấn tượng chủ quan không có căn cứ xác thực... Anh cũng giống hệt lão cảnh sát vừa nãy thôi.",
+      "jpname": "エアシャカール",
+      "jptext": "……だから、詮索しないってか？　ソースなしの勝手な印象と、\n思い込みで判断……さっきの警察と同じだな。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Rút cuộc ai cũng chỉ nhìn thấy thứ mình muốn thấy. Phán đoán của con người luôn bị cảm xúc và mong muốn xen vào... nên mới sai lệch. Không thể tin nổi. ...Về khoản này thì \"cộng sự\" của tôi vượt trội hơn nhiều.",
+      "jpname": "エアシャカール",
+      "jptext": "結局、全員見たいものしか見ねェ。人の判断には願望が入り込む……\nだから狂う。信用できねェ。……その点、オレの“相棒”は優秀だ。",
+      "choice_data_list": [
+        "Cộng sự?"
+      ],
+      "jpchoice_data_list": [
+        "相棒？"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hừ. ...Máy tính đấy. Cơ mà không phải cỗ máy tầm thường đâu. Đó là một bộ não có thể đưa ra đáp án cho mọi câu hỏi.",
+      "jpname": "エアシャカール",
+      "jptext": "……っ。……PCだよ。つっても、ただの箱じゃねェ。\nあらゆる問いに答えを出す、ひとつの頭脳だ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Dựa trên lượng dữ liệu khổng lồ, nó vạch ra phương pháp huấn luyện hiệu quả, cách nắm chắc chiến thắng trong các trận đua thử nghiệm... tìm ra lời giải cho tất cả.",
+      "jpname": "エアシャカール",
+      "jptext": "ソレは莫大なデータを基に、効率的なトレーニング、\n模擬レースで確実に勝利する方法……全ての解を導く。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chỉ cần nhập vào dữ liệu chính xác, nó nhất định sẽ trả về đáp án đúng. Tuyệt đối không lẫn chút mơ hồ cảm tính nào, là thứ hoàn hảo độc nhất vô nhị.",
+      "jpname": "エアシャカール",
+      "jptext": "正しいデータを入力しさえすりゃァ、必ず正答を吐きだす。\n曖昧なニュアンスは一切含まねェ、唯一のモノだ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nếu nó không toàn năng, thì chỉ do người sử dụng còn non nớt mà thôi. Nhưng tôi thì khác. Vì thế, tôi luôn có thể tìm ra chân lý duy nhất.",
+      "jpname": "エアシャカール",
+      "jptext": "もしヤツが万能じゃねェとすれば、ソレは扱う側が未熟なだけ。\nオレは違う。だから常に、唯一の真実を導ける。",
+      "choice_data_list": [
+        "Cậu tin tưởng cộng sự của mình thật đấy",
+        "Bạn tin tưởng cộng sự của mình thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "相棒をすごく信頼してるんだな",
+        "相棒をすごく信頼してるんだね"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Đương nhiên rồi. Vì đó là do chính tôi tạo ra cơ mà.",
+      "jpname": "エアシャカール",
+      "jptext": "……当たり前だろうが。\nこのオレが作ったンだから。",
+      "choice_data_list": [
+        "Cậu... tuyệt thật đấy",
+        "Bạn... tuyệt thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "君は……すごいな",
+        "貴方は……すごいね"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hực.",
+      "jpname": "エアシャカール",
+      "jptext": "……っ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Gớm quá.",
+      "jpname": "エアシャカール",
+      "jptext": "……キモ。",
+      "choice_data_list": [
+        "!?"
+      ],
+      "jpchoice_data_list": [
+        "！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hình như tôi lại khiến cậu ấy khó chịu rồi... Tôi vừa ngẫm lại lời ăn tiếng nói của mình trong ngày, vừa rảo bước trở về phòng.",
+      "jpname": "モノローグ",
+      "jptext": "また彼女を不快にさせてしまったらしい……。\nその日の自分の言動を振り返りつつ、自分の部屋へと戻った。"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A! Chị Shakur, mừng chị đã về ạ! A, em, chuyện là... ừm... chuyện là...!",
+      "jpname": "メイショウドトウ",
+      "jptext": "あっ！　シャカールさん、お帰りなさ～い！\nあ、あの、その……ええと……あの……！"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tôi chỉ đi sắp xếp lại dữ liệu thôi. Ở ngoài tập trung hơn ở đây.",
+      "jpname": "エアシャカール",
+      "jptext": "……データ整理してただけだ。\nこっちより、外のが集中できるからな。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Với lại tôi bảo rồi, đừng có thức đợi tôi. Tôi ra ngoài không phải vì... Thôi, đi ngủ đi. Mai cậu cũng phải dậy sớm mà đúng không.",
+      "jpname": "エアシャカール",
+      "jptext": "つか前も言っただろ、起きて待ってンな。\n外行くのは、お前の…………いい、寝ろ。明日も早いンだろ。"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Dạ vâng ạ... À, nhắc mới nhớ... Chị Shakur ơi, buổi tập ngày mai sẽ có Trainer đi cùng chị đúng không ạ...?",
+      "jpname": "メイショウドトウ",
+      "jptext": "はいぃ～……。あの、そういえば……シャカールさん、\n明日のトレーニングには、トレーナーさんがつくんですよね……？"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bảo là muốn xem năng lực của tôi. Thì cứ thử xem sao... Dù sao cũng chỉ là \"kết quả như mọi khi\" thôi. Chẳng cần chạy mô phỏng cũng thừa biết.",
+      "jpname": "エアシャカール",
+      "jptext": "オレの能力を見たいンだとよ。まァ、やってみるが……\nどうせ“いつもの結果”だ。シミュレーションしなくてもわかる。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Mà cậu không cần bận tâm đâu. Tôi tắt đèn đây.",
+      "jpname": "エアシャカール",
+      "jptext": "まァ、お前が気にすることじゃねェ。\n電気消すぞ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "――...Quả nhiên, đáp án vẫn chẳng hề thay đổi. Phải không, \"Parcae\"...",
+      "jpname": "エアシャカール",
+      "jptext": "――……やっぱり、答えは変わらねェか。\nなァ、『Parcae』……。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(\"Parcae\"―― người cộng sự mà chính tay tôi tạo ra từ hệ điều hành cho đến ứng dụng nhằm hướng tới Twinkle Series...)",
+      "jpname": "エアシャカール",
+      "jptext": "（『Parcae』――トゥインクル・シリーズを見据えて\nOSからアプリまで、全てをこの手で作り上げたオレの相棒……）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Chỉ còn một chút nữa là đến ngày ra mắt tối ưu nhất do \"Parcae\" tính toán. Thể trạng đã đạt chuẩn đúng như dự liệu... Nhưng mà...)",
+      "jpname": "エアシャカール",
+      "jptext": "（『Parcae』が導いた、デビューに最適な日までもう少し。\n体は想定通りに仕上がってる……だが）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(――Chỉ số của \"thứ đó\" vẫn không hề biến chuyển. Cũng phải thôi, mã nguồn chuẩn xác thì đó chính là lời giải tuyệt đối.)",
+      "jpname": "エアシャカール",
+      "jptext": "（――“アレ”の数値は、まだ変化しない。\n当然だ、コードが合ってンだから、アレが絶対の解なンだ）"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "(Vậy mà tại sao tôi... vẫn cố tìm kiếm? Vẫn giãy giụa? Vẫn suy nghĩ? Tại sao chứ...――)",
+      "jpname": "エアシャカール",
+      "jptext": "（なのにオレはなぜ……まだ探す？　あがく？　考える？\nなぜ……――）"
+    }
+  ]
+}

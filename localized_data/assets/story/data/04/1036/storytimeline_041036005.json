@@ -1,0 +1,314 @@
+{
+  "title": "Hãy tuân theo YAGNI",
+  "jptitle": "YAGNIに従え",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã được một thời gian kể từ khi tôi trở thành Trainer phụ trách Air Shakur. Tuy không xảy ra rắc rối gì lớn, nhưng có một điều luôn khiến tôi trăn trở. Đó là――",
+      "jpname": "モノローグ",
+      "jptext": "エアシャカールの担当になってしばらく経つ。\n目立ったトラブルはないが、1つだけ心配事があった。それは――"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chuyện gì? ...Gì nữa đây.",
+      "jpname": "エアシャカール",
+      "jptext": "話？　……なンだよ。",
+      "choice_data_list": [
+        "À thì... tập xong đi ăn chút gì không cậu?",
+        "À thì... tập xong đi ăn chút gì không bạn?"
+      ],
+      "jpchoice_data_list": [
+        "その……終わったら、ご飯でもどうだ？",
+        "その……終わったら、ご飯でもどう？"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Hả?",
+      "jpname": "エアシャカール",
+      "jptext": "……はァ？"
+    },
+    {
+      "name": "",
+      "text": "Khoảng cách giữa tôi và Air Shakur chẳng hề thu hẹp lại chút nào.",
+      "jpname": "モノローグ",
+      "jptext": "エアシャカールとの距離が一向に縮まらないことだ。"
+    },
+    {
+      "name": "",
+      "text": "Bản thân cậu ấy vốn đã luôn có nét gì đó bấp bênh chực vỡ. Để có thể đồng hành và nâng đỡ cậu ấy suốt Twinkle Series, tôi muốn làm mọi việc cần thiết.",
+      "jpname": "モノローグ",
+      "jptext": "ただでさえどこか危うい彼女。トゥインクル・シリーズで\n支え抜くために、必要なことはなんでもやっておきたい。"
+    },
+    {
+      "name": "",
+      "text": "Đặc biệt, mối quan hệ tin cậy lẫn nhau là điều không thể thiếu. Dù không thể làm được ngay trong một sớm một chiều, nhưng tôi cần phải từng bước gắn kết thân thiết, tạo nền tảng để dễ dàng xây dựng mối quan hệ hơn.",
+      "jpname": "モノローグ",
+      "jptext": "特に、信頼関係は必要不可欠だろう。今すぐは無理でも、\n少しずつでも親睦を深め、関係を築きやすくしておく必要がある。"
+    },
+    {
+      "name": "",
+      "text": "Thế là, dựa vào thông tin thu thập được từ mọi mối quan hệ quen biết, tôi đã chuẩn bị những thứ mà Air Shakur có vẻ sẽ hứng thú! Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "そんなわけで、あらゆるツテから集めた情報をもとに、\nエアシャカールが興味を持ちそうなものを用意した！　が――"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả? Lễ hội âm nhạc ngoài trời á? Không đi.",
+      "jpname": "エアシャカール",
+      "jptext": "は？　野外フェス？\n行かねェ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả? Tự lắp ráp máy tính á? Ngươi á? Hầy. ...Rồi sao?",
+      "jpname": "エアシャカール",
+      "jptext": "ハ？　PC自作した？　お前が？\nハァ。…………で？"
+    },
+    {
+      "name": "",
+      "text": "Air Shakur chỉ muốn duy trì một mối quan hệ thuần túy công việc, thực sự quá đỗi khó nhằn.",
+      "jpname": "モノローグ",
+      "jptext": "ビジネスライクな関係を望むエアシャカールは手ごわかった。",
+      "choice_data_list": [
+        "(...Nhưng không thể bỏ cuộc ở đây được!)"
+      ],
+      "jpchoice_data_list": [
+        "……でも、ここで諦めるわけにはいかない！"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Rồi, tiếp theo là \"Muốn cùng đi ra ngoài\" đấy à. Mấy hôm nay ngươi rốt cuộc đang mưu tính cái trò gì thế hả.",
+      "jpname": "エアシャカール",
+      "jptext": "で、お次は『一緒に出かけたい』か。\nこの間から、何企ンでやがる。",
+      "choice_data_list": [
+        "Tôi muốn hai ta gắn bó thân thiết hơn",
+        "Tôi muốn hai ta gắn bó thân thiết hơn"
+      ],
+      "jpchoice_data_list": [
+        "もっと親睦を深めたいんだ",
+        "もっと親睦を深めたいの"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Không cần. Ngươi chỉ là \"Trainer\" cần thiết để ta ra mắt nên ta mới chọn bừa thôi chứ――",
+      "jpname": "エアシャカール",
+      "jptext": "いらねェ。お前はデビューに必要な『トレーナー』だったから\n適当に選ンだだけで――",
+      "choice_data_list": [
+        "Đi đâu cũng được, miễn là nơi cậu muốn đến",
+        "Đi đâu cũng được, miễn là nơi bạn muốn đến"
+      ],
+      "jpchoice_data_list": [
+        "君の行きたい場所でいいから",
+        "貴方の行きたい場所でいいから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không cần trò chuyện cũng được, tôi chỉ muốn trở thành một người mà cậu có thể dựa dẫm phần nào mỗi khi cần. Tôi dốc hết tâm can truyền đạt như vậy――",
+      "jpname": "モノローグ",
+      "jptext": "会話もなくていい、ただ少しでも君にとって頼りやすい\n位置にいる存在になりたい。とにかく懸命にそう伝えると――"
+    },
+    {
+      "name": "",
+      "text": "Không cần trò chuyện cũng được, tôi chỉ muốn trở thành một người mà bạn có thể dựa dẫm phần nào mỗi khi cần. Tôi dốc hết tâm can truyền đạt như vậy――",
+      "jpname": "モノローグ",
+      "jptext": "会話もなくていい、ただ少しでも貴方にとって頼りやすい\n位置にいる存在になりたい。とにかく懸命にそう伝えると――"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "........................Hầy.",
+      "jpname": "エアシャカール",
+      "jptext": "……………………ハァ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Biết rồi. Lãng phí thật. Cái khoảng thời gian giằng co này quá lãng phí. ...Ngươi vừa bảo đi đâu cũng được đúng không?",
+      "jpname": "エアシャカール",
+      "jptext": "わかった。無駄だ。この時間が無駄だ。\n…………場所はどこでもいいっつったな？"
+    },
+    {
+      "name": "",
+      "text": "Thế là sang ngày hôm sau, nơi cậu ấy dắt tôi đến chính là――",
+      "jpname": "モノローグ",
+      "jptext": "そんなわけで、翌日。連れていかれた先は――",
+      "choice_data_list": [
+        "Quán net...!!"
+      ],
+      "jpchoice_data_list": [
+        "ネットカフェ……！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đã vậy còn là buồng riêng đơn lẻ. Thậm chí còn chẳng nằm cạnh nhau. ...Dù sao thì trót nói \"Đi đâu cũng được\" rồi nên tôi không thể đổi ý.",
+      "jpname": "モノローグ",
+      "jptext": "しかも、シングルブース。隣同士でさえない。\n……とはいえ『どこでもいい』と言った手前、場所は変えられない。"
+    },
+    {
+      "name": "",
+      "text": "Nhưng nghĩ đến việc chẳng biết bao giờ cậu ấy mới lại đồng ý đi cùng lần nữa... tôi muốn tận dụng cơ hội này. Vì thế――",
+      "jpname": "モノローグ",
+      "jptext": "が、次いつお出かけを了承してくれるかわからないことを\n考えると……努力はしておきたい。というわけで――"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Cái gì đấy. Chuyện tào lao là tôi đấm bay màu đấy nhé.",
+      "jpname": "エアシャカール",
+      "jptext": "なンだよ。\nしょうもねェことだったらぶっ飛ばすぞ。",
+      "choice_data_list": [
+        "Cậu có đói bụng không?",
+        "Bạn có đói bụng không?"
+      ],
+      "jpchoice_data_list": [
+        "お腹、空いてないか？",
+        "お腹、空いてない？"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "... Không đói, và nhảm nhí ngoài sức tưởng tượng của tôi luôn đấy.",
+      "jpname": "エアシャカール",
+      "jptext": "…………。\n空いてねェし、想像以上にしょうもねェな。",
+      "choice_data_list": [
+        "Nhưng cũng sắp đến trưa rồi..."
+      ],
+      "jpchoice_data_list": [
+        "でも、そろそろお昼だし……"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "jpname": "エアシャカール",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Th-Thế thì... ít ra cũng uống chút gì chứ"
+      ],
+      "jpchoice_data_list": [
+        "じゃ、じゃあ……せめて飲み物を"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "ỒN ÀO VỪA THÔIIII!!",
+      "jpname": "エアシャカール",
+      "jptext": "うるっっっっせェ！！"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Nghe đây, nếu ngươi muốn thắt chặt cái gọi là \"gắn kết\" với ta ấy hả...! Thì ĐỪNG! CÓ! LÀM! PHIỀN! TA!",
+      "jpname": "エアシャカール",
+      "jptext": "いいか、オレと『親睦』とやらを深めたいンならなァ……！\nオレの、邪魔を、すンな！"
+    },
+    {
+      "name": "Nhân viên quán net A",
+      "text": "Kính thưa quý khách, phiền quý khách một chút được không ạ.",
+      "jpname": "お店のスタッフA",
+      "jptext": "お客様、少々よろしいでしょうか。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "HẢ!? ...À.",
+      "jpname": "エアシャカール",
+      "jptext": "アァ！？　…………あ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "... ...Chậc, lại khó lui tới quán này rồi.",
+      "jpname": "エアシャカール",
+      "jptext": "……。\n……チッ、通いづらくなった。",
+      "choice_data_list": [
+        "Tôi xin lỗi..."
+      ],
+      "jpchoice_data_list": [
+        "ごめん……"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Những cặp Trainer và Mã Nương thuần túy công việc ngoài kia có hàng vạn người. Và số người liên tiếp giành chiến thắng ở các trận Trọng Thưởng cũng đâu có ít.",
+      "jpname": "エアシャカール",
+      "jptext": "……ビジネスライクなトレーナーとウマ娘はゴマンといる。\nそンで重賞勝利を重ねているヤツらだって少なかねェ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chuyện đó chẳng đời nào ngươi lại không biết. Vậy thì lý do cho những hành động phiền toái của ngươi chỉ có một.",
+      "jpname": "エアシャカール",
+      "jptext": "それを、お前が知らねェわけねェ。\nならウゼェ行動の理由は1つだ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ngươi mê muội tin rằng việc thân thiết với ta sẽ tốt cho ta. Ngươi thấy một kẻ đơn độc chẳng cần đến ai như ta thật đáng thương hại tột cùng.",
+      "jpname": "エアシャカール",
+      "jptext": "オレと仲よしこよしすることが、オレのためになると妄信している。\nひとりぼっちで他人を必要としねェオレが、哀れでたまらねェ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Ngươi cũng chỉ có thế thôi đúng không.",
+      "jpname": "エアシャカール",
+      "jptext": "……そンなとこだろ。お前も。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Cộng sự của tôi chỉ cần một chiếc máy tính này là quá đủ rồi. Hiểu rồi thì từ nay về sau đừng bao giờ rủ rê tôi nữa.",
+      "jpname": "エアシャカール",
+      "jptext": "オレの相棒はPC1台で充分だ。\nわかったら今後一切、誘うな。",
+      "choice_data_list": [
+        "...Điều đó thì tôi không hứa trước được"
+      ],
+      "jpchoice_data_list": [
+        "……それは、約束できない"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng là Air Shakur không hề cần giao tiếp với người khác. Dựa vào những con số, cậu ấy đủ kiên cường để tự lực gánh vác và giải quyết mọi việc một cách độc lập.",
+      "jpname": "モノローグ",
+      "jptext": "たしかにエアシャカールは他者との交流を必要としていない。\n数字をもとに、自己完結で淡々と物事を進められるタフさがある。",
+      "choice_data_list": [
+        "(Nhưng nếu nghĩ ngược lại thì――)"
+      ],
+      "jpchoice_data_list": [
+        "（でもそれは、裏を返せば――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhưng ngộ nhỡ một ngày nào đó cậu ấy va phải bức tường không thể tự mình vượt qua―― nếu đến lúc cần một người khác giúp sức, cậu ấy sẽ rơi vào bước đường cùng.",
+      "jpname": "モノローグ",
+      "jptext": "万が一、1人で処理できない壁にぶち当たった時――いつか他者が\n必要となった時。どうしようもなくなってしまうということだ。",
+      "choice_data_list": [
+        "Tôi không muốn dễ dàng bỏ cuộc"
+      ],
+      "jpchoice_data_list": [
+        "簡単に諦めたくはない"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Cái quái gì thế.",
+      "jpname": "エアシャカール",
+      "jptext": "…………ンだそれ。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Vẫn phi logic như mọi khi. Bị nói đến nước này thì chịu thua có phải nhẹ người hơn không.",
+      "jpname": "エアシャカール",
+      "jptext": "相変わらずロジカルじゃねェな。\nこンだけ言われりゃ折れたほうが楽だろうが。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...",
+      "jpname": "エアシャカール",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Tùy ngươi đấy.",
+      "jpname": "エアシャカール",
+      "jptext": "……勝手にしろ。"
+    }
+  ]
+}
