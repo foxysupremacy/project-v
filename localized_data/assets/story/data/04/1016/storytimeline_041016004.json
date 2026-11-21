@@ -1,0 +1,372 @@
+{
+  "title": "Chân thật",
+  "jptitle": "真",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "……Hôm đó, tôi dắt theo Narita Brian đến trường đua Hanshin, nơi diễn ra trận ra mắt của Biwa Hayahide.",
+      "jpname": "モノローグ",
+      "jptext": "……この日はナリタブライアンを連れ、ビワハヤヒデの\nメイクデビューが開催される阪神レース場を訪れていた。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Anh, những lời nói sáng nay chắc chắn là thật chứ?",
+      "jpname": "ナリタブライアン",
+      "jptext": "オマエ、今朝言ったことは本当だろうな。",
+      "choice_data_list": [
+        "Chuyện gì cơ?"
+      ],
+      "jpchoice_data_list": [
+        "何のこと？"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Giả ngây giả ngô cũng vô ích thôi. Đã đến tận đây rồi, tôi sẽ không để anh nuốt lời hứa đâu.",
+      "jpname": "ナリタブライアン",
+      "jptext": "とぼけたって無駄だぞ。\nここまで来て、あの約束を反故にはさせるものか。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Chậc…… Anh đúng là dai như đỉa mà!! Tôi lấy tư cách gì mà phải đi theo anh chứ!",
+      "jpname": "ナリタブライアン",
+      "jptext": "チッ……本当にしつこいな！！\n私がオマエについていく義理がどこにある！",
+      "choice_data_list": [
+        "Nhưng tôi nhất định muốn em đến mà!",
+        "Nhưng tôi nhất định muốn bạn đến mà!"
+      ],
+      "jpchoice_data_list": [
+        "でも絶対に来てほしいんだ！",
+        "でも絶対に来てほしいから！"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Vậy nếu tôi đi, anh có hứa từ nay về sau sẽ không dính dáng gì nữa không? Không, chừng đó vẫn chưa đủ. Trả lại cả huy hiệu Trainer của anh luôn đi!",
+      "jpname": "ナリタブライアン",
+      "jptext": "では行けば、今後一切関わらないと約束するか？\nいや、それだけでは足りん。オマエのトレーナーバッジも返上しろ！",
+      "choice_data_list": [
+        "Được thôi!"
+      ],
+      "jpchoice_data_list": [
+        "わかった！"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Hô.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……ほう。",
+      "choice_data_list": [
+        "(…………Á!)"
+      ],
+      "jpchoice_data_list": [
+        "（…………あっ！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "……Dẫu sao thì tôi cũng đã đưa được em ấy đến đây. Còn lại thì——",
+      "jpname": "モノローグ",
+      "jptext": "……とはいえ彼女をここに連れてくることはできた。\n後は――"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và tiếp theo là trận ra mắt cấp Junior! Ai sẽ là người tỏa sáng giành chiến thắng đây?",
+      "jpname": "実況",
+      "jptext": "さあ、続いてはジュニア級メイクデビュー！\n誰が勝者に輝くのか？"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Sắp bắt đầu rồi sao.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……そろそろ、来るか。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(……Em đang nhìn chứ, Brian.)",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "（……見ているか、ブライアン）"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Em yêu việc chạy và đuổi theo hơn bất kỳ ai. Chính vì thế em mới luôn khát khao một đối thủ đủ sức tranh tài cùng mình.)",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "（お前は誰よりも走り、そして追うことが好きだったな。\nだからこそ自分と競える相手を自然と欲したのだろう）"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Thế nhưng em lại quá mạnh. Kỳ vọng đó luôn bị dập tắt. Chính trải nghiệm ấy…… đã tạo nên thói quen xấu là sớm buông xuôi thất vọng.)",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "（だがお前は強すぎた。その期待は破られるのが常だった。\nその経験が……見切りをつけるという悪い癖を生んでしまった）"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Thế nhưng Brian này. Em cần phải biết rằng. Đối thủ cạnh tranh cũng được sinh ra từ chính những kẻ mà em ngoảnh mặt làm ngơ—— từ những kẻ bại trận!)",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "（だがな、ブライアン。お前は知る必要がある。\n競う相手はお前が目を背けた者――敗者からも生まれることを！）"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Haaaaaaaaaaaaaa!!!!!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "はぁあああああああああああああ！！！！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Biwa Hayahide đang dẫn đầu! Đã bứt phá hoàn toàn! Khoảng cách dẫn trước là 2 thân ngựa, không, 3 thân ngựa…… không, đây là cách biệt quá lớn! Một chiến thắng áp đảo!!",
+      "jpname": "実況",
+      "jptext": "ビワハヤヒデが先頭！　完全に抜け出した！\nリードは2バ身、いや3バ身……いや、これは大差だ！　圧勝だ！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cái gì thế kia……! Từ bao giờ mà chị ấy có thể chạy như vậy chứ……!? Với đôi mắt như loài đi săn, chỉ chăm chú găm vào vạch đích——",
+      "jpname": "ナリタブライアン",
+      "jptext": "なんだ、あれは……！　いつからそんな走りができるように……！？\nまるで狩るような目で、ゴールだけを見据えて――"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Chậc!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "……チッ！！",
+      "choice_data_list": [
+        "Brian!?"
+      ],
+      "jpchoice_data_list": [
+        "ブライアン！？"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Chị hai! Tại sao từ trước đến nay lại giấu việc chị có thể chạy thú vị đến thế chứ! Sao chị không rủ em so tài cùng cơ chứ!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "姉貴！　どうして今まで、あんな面白い走りができると伏せていた！\nなぜ、私に競おうと誘ってくれなかったんだ！！"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Em đã đến rồi nhỉ, Brian. ……Và cả cậu nữa.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "来てくれたんだな、ブライアン。\n……そして君も。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vậy ta cùng lên khán đài nào.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "では共に観客席まで行くとするか。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hả? Em đang nói chuyện với chị mà……",
+      "jpname": "ナリタブライアン",
+      "jptext": "は？　私は今アンタと話して……。"
+    },
+    {
+      "name": "",
+      "text": "(OÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワァアアアアアアーーーーーッ！！）"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hả!? Tiếng reo hò này là sao. Còn vang dội hơn cả cuộc đua vừa rồi của chị hai……",
+      "jpname": "ナリタブライアン",
+      "jptext": "っ！？　なんだこの歓声は。\nさっきの姉貴のレースよりも……。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Phải, rất lớn. Dù sao trận tôi vừa chạy cũng chỉ là trận ra mắt thôi. Chưa thể sánh với trận đua chính được đâu.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "そう、大きい。所詮私が走ったのはメイクデビューだ。\nメインレースほどには至らんよ。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian, đừng coi thường. Ở nơi này có những người còn đứng trên cả tôi nữa.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "ブライアン、侮るな。\nここには私よりももっと上の者たちがいる。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và giờ đây, trận đua chính của ngày hôm nay đã đến! Tất cả đang bám sát nhau ở tốp đầu. Ai sẽ là người bứt phá vươn lên dẫn đầu đây!?",
+      "jpname": "実況",
+      "jptext": "さあ、やって参りました。本日のメインレース！\n全員前へと固まった。この中で誰が先頭に躍り出るか！？"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian, em nghĩ ai sẽ chiến thắng cuộc đua này?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "ブライアン、お前はこのレース誰が勝つと思う？"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Chẳng quan tâm. Sao cũng được. So với chuyện đó thì lúc này tôi muốn so tài với chị hai hơn——",
+      "jpname": "ナリタブライアン",
+      "jptext": "……別に。どうでもいい。\n私はそれよりも今は姉貴と――"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi nghĩ sẽ là cô bé đó.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "私はあの子だと思うよ。"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Taaaaaaaaa!!",
+      "jpname": "先輩ウマ娘",
+      "jptext": "たぁああああああああーーーーーーっ！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……! Giọng nói đó là——",
+      "jpname": "ナリタブライアン",
+      "jptext": "……！　あの声は――"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Em hoàn toàn chẳng thắng được gì cả……! Con quái vật đó…… đâu phải đối thủ mà hạng như em có thể đối đầu chứ……!",
+      "jpname": "先輩ウマ娘",
+      "jptext": "私、全然勝ててなんかいない……っ！　あんな怪物……っ、\n私なんかが競っていい相手じゃなかったんです……！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Không lẽ nào. Người đó là đối thủ lúc trước sao……? Thế nhưng trước đây làm gì có sự kiên cường đó. Không, đến cả sự chấp niệm với chiến thắng cũng……!",
+      "jpname": "ナリタブライアン",
+      "jptext": "……まさか。アレがあの時の相手だというのか……？\nしかし以前はあんな粘りは。いや、勝ちへの執念すら……！"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cô bé ấy từng nói đấy…… “Dù bây giờ chưa thể với tới, nhưng em nhất định sẽ đánh bại cậu”. Rằng sẽ rèn giũa lại bản thân, một ngày nào đó sẽ cùng em so tài trên cùng một đấu trường.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "彼女、言っていたよ……『今は届かずとも、お前を倒す』とね。\n自らを鍛え直し、いつかはお前と同じ舞台で相まみえてみせる、と。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vì vậy trước hết cô bé phải chiến thắng cuộc đua này đã.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "だからまずはこのレースに勝つのだ、と。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "……Brian, đây chính là Twinkle Series. Nơi mà bất cứ ai cũng vùng vẫy đấu tranh đến giây phút cuối cùng để chạm tới đỉnh cao.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……ブライアン、ここはトゥインクル・シリーズ。\n誰もが最後の最後までもがき、上に至ろうとする場所だ。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hãy đến đây, Brian. Đến với thế giới này. Em hiện tại còn chưa đứng ở vạch xuất phát nữa kia.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "来い、ブライアン。この世界まで。\nお前はまだスタート地点にすら立っていない。"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi nhất định sẽ nghênh đón em. Trên đấu trường đỉnh cao mang tên GI.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "私は必ずお前を迎え撃ってみせるよ。\nGⅠという最高峰の舞台で。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……",
+      "jpname": "ナリタブライアン",
+      "jptext": "……っ。"
+    },
+    {
+      "name": "",
+      "text": "Một tiếng nuốt nước bọt ực một cái vang lên. Thế nhưng ngay cả âm thanh ấy cũng bị——",
+      "jpname": "モノローグ",
+      "jptext": "ごくり、と唾をのむ音がする。\nだがその音すらも――"
+    },
+    {
+      "name": "",
+      "text": "(OÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワァアアアアアアアアアアアアーーーーーッ！！）"
+    },
+    {
+      "name": "",
+      "text": "Tiếng reo hò của Twinkle Series nhấn chìm tất cả. Vang dội với khí thế như muốn cuốn phăng cả trái tim em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "トゥインクル・シリーズの歓声は上書きしていく。\n彼女の心すらも捉えてしまうほどの勢いで。",
+      "choice_data_list": [
+        "……Em cũng muốn được chạy ở nơi đó chứ?",
+        "……Bạn cũng muốn được chạy ở nơi đó chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……君もあの場所で走りたいか？",
+        "……貴方もあの場所で走りたい？"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Đương nhiên rồi……! ……Chậc!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "ったりまえだ……！　……チッ！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Tôi muốn thay đổi nội dung lời hứa sáng nay. Anh hãy tiếp tục làm Trainer đi. Nhưng đổi lại——",
+      "jpname": "ナリタブライアン",
+      "jptext": "……今朝の約束の内容を変更したい。\nアンタはトレーナーでいろ。ただその代わり――"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hãy trở thành Trainer của tôi. Và đưa tôi đến với Twinkle Series…… đi!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "私のトレーナーになれ。\nそして私をトゥインクル・シリーズへと連れていけ……っ！！"
+    },
+    {
+      "name": "",
+      "text": "——Và rồi, vài ngày sau hôm đó.",
+      "jpname": "モノローグ",
+      "jptext": "――そして、あの日から数日後。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "……Brian. Trận tiếp theo cậu định tham gia cuộc đua nào thế?",
+      "jpname": "ヒシアマゾン",
+      "jptext": "……ブライアン。次はなんのレースに出るんだい。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…………Tôi có nói thì cũng chẳng liên quan gì đến cậu đâu.",
+      "jpname": "ナリタブライアン",
+      "jptext": "…………話してもアンタには関係ないと思うが。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Liên quan lớn đấy chứ, đồ ngốc. Tôi sẽ đặc huấn cho tới ngày đó. Để nghiền nát cậu ra.",
+      "jpname": "ヒシアマゾン",
+      "jptext": "大アリだよ、バカ。アタシはその日まで特訓してやる。\nアンタをブッ潰すためにね。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Đấu tay đôi là phải phân tài cao thấp cho tới khi một trong hai gục ngã cơ. Tôi vẫn chưa ngã xuống đâu…… Đừng có tự tiện kết thúc chứ.",
+      "jpname": "ヒシアマゾン",
+      "jptext": "タイマンっつーのはね、どっちかが倒れるまでするもんだ。\nまだアタシは倒れてない……勝手に終わらすんじゃないよ。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……!",
+      "jpname": "ナリタブライアン",
+      "jptext": "……！",
+      "choice_data_list": [
+        "……Từ giờ trở đi em ấy cũng sẽ mạnh mẽ hơn nhiều đấy.",
+        "……Từ giờ trở đi bạn ấy cũng sẽ mạnh mẽ hơn nhiều đấy."
+      ],
+      "jpchoice_data_list": [
+        "……これから彼女も強くなるだろうな",
+        "……これから彼女も強くなるだろうね"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Haha! Ra là vậy, quả thực là tôi đã coi thường rồi. Đây chính là Học Viện Tracen sao.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……ははっ！　なるほど確かに私は侮っていた。\nこれがトレセン学園か。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tốt lắm. Tôi sẽ cho tất cả bọn họ hít khói. Đi thôi, Trainer……!",
+      "jpname": "ナリタブライアン",
+      "jptext": "十分だ。全員ブッちぎってやる。\nいくぞ、トレーナー……！"
+    }
+  ]
+}

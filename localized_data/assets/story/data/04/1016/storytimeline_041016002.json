@@ -1,0 +1,302 @@
+{
+  "title": "Chấn động",
+  "jptitle": "震",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vài ngày kể từ khi chứng kiến cuộc đua ấy của Narita Brian. Tôi đã thử tiếp cận em ấy vài lần, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "ナリタブライアンのあのレースを見てから、数日。\n彼女に何度かアプローチしてみたのだが――"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Không có gì để nói cả.",
+      "jpname": "ナリタブライアン",
+      "jptext": "話すことはない。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Thật phiền phức.",
+      "jpname": "ナリタブライアン",
+      "jptext": "しつこい。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……",
+      "jpname": "ナリタブライアン",
+      "jptext": "……。"
+    },
+    {
+      "name": "",
+      "text": "…………",
+      "jpname": "モノローグ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Không ngờ em ấy còn chẳng thèm nói chuyện với mình!"
+      ],
+      "jpchoice_data_list": [
+        "まさか会話すらしてくれないなんて！"
+      ]
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Oa, người đó lại tới kìa. Đúng là kiên trì thật đấy nha.",
+      "jpname": "ウマ娘A",
+      "jptext": "わっ、またあの人来てる。すごい根性だねー。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Chắc là vị Trainer dai dẳng nhất từ trước đến giờ rồi nhỉ? Nhưng cuối cùng vẫn bị từ chối thôi mà. Giống như hồi tham gia cuộc đua tuyển chọn ấy——",
+      "jpname": "ウマ娘B",
+      "jptext": "今までで1番しつこいトレーナーさんなんじゃない？\nでも結局はお断りでしょ。前の選抜レースに出た時みたいに――",
+      "choice_data_list": [
+        "(……Cuộc đua tuyển chọn sao?)"
+      ],
+      "jpchoice_data_list": [
+        "（……選抜レース、か）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi từng nghe nói. Em ấy từng chạy ở “Cuộc đua tuyển chọn”, sân khấu để các Mã Nương nhận lời chiêu mộ, nhưng lại chẳng chấp nhận lời mời của bất kỳ ai……",
+      "jpname": "モノローグ",
+      "jptext": "聞いたことがある。彼女はウマ娘がスカウトを受けるための舞台\n『選抜レース』に出走したが、誰の勧誘も受け付けなかった……と。"
+    },
+    {
+      "name": "",
+      "text": "Thậm chí còn có lời kể rằng cứ hễ đề cập tới chuyện ra mắt, em ấy liền bỏ đi ngay lập tức. ……Liệu câu trả lời cho vấn đề mà em ấy đang trăn trở có nằm ở đó chăng?",
+      "jpname": "モノローグ",
+      "jptext": "デビューの話になると、すぐに去ってしまったという話まであった。\n……彼女の抱える問題の答えはそこにあるのだろうか？"
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau. Tôi nghe tin Narita Brian lại tham gia một cuộc đua nữa. Liền vội vã chạy ra đường đua thì……",
+      "jpname": "モノローグ",
+      "jptext": "数日後。ナリタブライアンが再びレースをするという\n話を聞いた。急いでコースに向かうと……。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "……Nhận lấy nàyyyyyyyy!!!!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "……だりゃあああああああ！！！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Hự!",
+      "jpname": "ナリタブライアン",
+      "jptext": "……っ！"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Hôm nay khí thế của chị Hishi Ama còn dữ dội hơn hẳn mọi khi nữa……!",
+      "jpname": "ウマ娘A",
+      "jptext": "ヒシアマさんの気迫、今日は一段と凄いね……！"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Nghe bảo trận này là do chị Hishi Ama chủ động rủ đấy? Thế nên làm sao chịu thua được—— A! Chị Hishi Ama bắt đầu tăng tốc rồi!!",
+      "jpname": "ウマ娘B",
+      "jptext": "なんでも今回のレース、ヒシアマさんの方から誘ったらしいよ？\nそりゃ負けるわけに――あっ！　ヒシアマさんが仕掛けた！！"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tôi…… nhất định sẽ thắng cậu!! Uraaaaaaaaaaaa!!!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "アタシは……アンタに勝つっ！！\nうらぁあああああああ！！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "………… ……Hừ……!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "…………。\n……ふっ……！！"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "C-Cái gì……!?",
+      "jpname": "ヒシアマゾン",
+      "jptext": "なっ……！？"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Khốn………… khốn khiếp thật chứ!!!! Oaaaaaaaaaaaaaaaaaaaaaaa!!!!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "くっ…………くっそおおおお！！\nうぉおおおおおおおおおおおおおお！！！！"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hộc…… hộc……! ……Chết tiệt!!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "はぁ……はぁ……！\n……くっ！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……",
+      "jpname": "ナリタブライアン",
+      "jptext": "……。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Đứng lại đó!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "待ちな！"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "……Cậu định đi đâu hả. Trận đấu vẫn chưa kết thúc đâu. Cuộc đấu tay đôi mà lần này tôi thách đấu là đánh ba hiệp đấy.",
+      "jpname": "ヒシアマゾン",
+      "jptext": "……アンタ、どこ行くつもりだい。まだ勝負は終わってないよ。\n今回、アタシが挑んだタイマンは3本勝負だ。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Lần tới nhất định tôi sẽ thắng! Thế nên là thêm một lần nữa——",
+      "jpname": "ヒシアマゾン",
+      "jptext": "次こそアタシは勝つよ！\nだから、もう1回――"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Thắng bại đã ngã ngũ rồi. Dù sau này có chạy thêm bao nhiêu lần nữa, chính cậu cũng hiểu rõ kết quả sẽ chẳng thay đổi mà, đúng chứ?",
+      "jpname": "ナリタブライアン",
+      "jptext": "……すでに勝敗は決した。アンタだって、これから何度\n走ろうと、結果が変わらないことをわかってるんだろう？"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "……Hự!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "……っ！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tôi không muốn nhìn thấy thêm ngọn lửa nào vụt tắt trước mắt mình nữa. Và việc tự tay dập tắt nó…… tôi cũng xin kiếu.",
+      "jpname": "ナリタブライアン",
+      "jptext": "もう目の前で灯が消えるのは見たくない。\n自ら消すのも……ごめんだ。"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "…………Khốn nạn thật……! Tôi hiểu chứ……!! Rằng bản thân tôi hiện tại không thể thắng nổi cậu……!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "…………ちくしょう……！　わかってるよ……！！\n今のアタシじゃアンタに勝てないことくらい……！"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "……Nhưng mà, chỉ mới thua một lần mà đã bắt tôi từ bỏ thì có mơ đi……! Đừng có…… làm như cậu hiểu hết về tôi thế chứ……!!",
+      "jpname": "ヒシアマゾン",
+      "jptext": "……でも、1度負けたくらいで諦められるわけねえだろ……ッ！\nアタシのことなんでも……わかったふりすんじゃねえよ……！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……",
+      "jpname": "ナリタブライアン",
+      "jptext": "……。",
+      "choice_data_list": [
+        "……Tôi tin chắc em ấy sẽ lại thách đấu em lần nữa đấy.",
+        "……Tôi tin chắc em ấy sẽ lại thách đấu bạn lần nữa đấy."
+      ],
+      "jpchoice_data_list": [
+        "……彼女はきっとまた君に挑むと思うよ",
+        "……彼女はきっとまた貴方に挑むと思う"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Lại là anh à.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……オマエは。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Anh đúng là dai như đỉa vậy. Đừng bận tâm đến tôi thêm nữa.",
+      "jpname": "ナリタブライアン",
+      "jptext": "本当にしつこいぞ。\nもうこれ以上構うな。",
+      "choice_data_list": [
+        "Nhưng mà……!"
+      ],
+      "jpchoice_data_list": [
+        "だけど……！"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nếu vậy thì tôi nói cho mà biết. Cái hạng người đó, dù ngoài mặt tỏ ra cứng rắn một lần, nhưng ngọn lửa chiến đấu bên trong đã sớm nguội lạnh rồi.",
+      "jpname": "ナリタブライアン",
+      "jptext": "なら言ってやる。ああいう手合いは、\n1度は強がってみせるが、闘志は既に冷え切っているんだ。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cái phường giống như thế, tôi đã thấy hàng tá rồi. Tranh tài với những kẻ như vậy chỉ tổ phí công vô ích.",
+      "jpname": "ナリタブライアン",
+      "jptext": "同じような輩を私は、何十と見てきた。\nそんな奴らと競っても無駄なこと。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……Chẳng thể nào lấp đầy được điều gì cả.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……何も満たされないだけだ。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(——Phải rồi. Suốt từ hồi ấy đến nay.)",
+      "jpname": "ナリタブライアン",
+      "jptext": "（――そう。あの時からずっと）"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Tôi…… vẫn luôn khao khát khôn nguôi.)",
+      "jpname": "ナリタブライアン",
+      "jptext": "（私は……渇き続けている）"
+    },
+    {
+      "name": "Hayahide lúc nhỏ",
+      "text": "——Lại đây nào! Brian!!",
+      "jpname": "幼いハヤヒデ",
+      "jptext": "――おいで！　ブライアン！！"
+    },
+    {
+      "name": "Brian lúc nhỏ",
+      "text": "……Dạ!",
+      "jpname": "幼いブライアン",
+      "jptext": "……うんっ！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Những ngày tháng ấy, thứ luôn hiện diện trước mắt tôi là bóng lưng của người chị quyết chẳng để ai vượt qua. Tôi đã say sưa đuổi theo. Bởi vì đó là điều vui sướng hơn bất cứ thứ gì trên đời.)",
+      "jpname": "ナリタブライアン",
+      "jptext": "（あの頃私の前にあったのは、誰も抜かせまいとする姉の背中。\n私は夢中になって追った。それが何よりも楽しいことだったから）"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Chạy, rồi đuổi theo…… chạy nhanh hơn, đuổi gấp hơn…… Cõi lòng tôi càng được lấp đầy bao nhiêu, lại càng thèm khát những “lần tới” bấy nhiêu.)",
+      "jpname": "ナリタブライアン",
+      "jptext": "（走って、追って……もっと走って、もっと追って……。\n私の心は満たされれば満たされるほど“次”を欲しがった）"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(——Và rồi, ngày hôm ấy đã đến.)",
+      "jpname": "ナリタブライアン",
+      "jptext": "（――そしてあの日が来た）"
+    },
+    {
+      "name": "",
+      "text": "(RẦMMMMMM!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ガシャーーーーン！！）"
+    },
+    {
+      "name": "Brian lúc nhỏ",
+      "text": "……Chị ơi? Chị mở mắt ra đi. Chị ơi! Chị ơi!!",
+      "jpname": "幼いブライアン",
+      "jptext": "……ねーちゃん？ 目を開けてよ。\nねーちゃん！ ねーちゃん！！"
+    },
+    {
+      "name": "Hayahide lúc nhỏ",
+      "text": "Ư…… Chị xin lỗi nhé, Brian.",
+      "jpname": "幼いハヤヒデ",
+      "jptext": "うぅ……ごめんな、ブライアン。"
+    },
+    {
+      "name": "",
+      "text": "(Bíp bo…… bíp bo……)",
+      "jpname": "モノローグ",
+      "jptext": "（ピーポー……ピーポー……）"
+    }
+  ]
+}
