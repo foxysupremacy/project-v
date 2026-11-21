@@ -1,0 +1,424 @@
+{
+  "title": "Lời mời ngoài mong đợi",
+  "jptitle": "望外のインビテーション",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, tại nhà thể chất. Một trong những nàng Mã Nương tiêu biểu của gia tộc Mejiro, Mejiro McQueen, đã đưa ra một thông báo.",
+      "jpname": "モノローグ",
+      "jptext": "ある日、体育館にて。メジロ家を代表するウマ娘の1人、\nメジロマックイーンから告知があった。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Kính thưa toàn thể các bạn học viên, và quý vị Trainer hằng ngày vẫn luôn quan tâm giúp đỡ. Gia tộc Mejiro chúng tôi có một thông báo muốn gửi tới quý vị.",
+      "jpname": "メジロマックイーン",
+      "jptext": "在学生の皆さん。そして普段お世話になっている\nトレーナーの皆さん。メジロ家からお伝えしたいことがございます。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sắp tới đây, gia tộc chúng tôi sẽ tổ chức một buổi tiệc giao lưu thân mật. Kính mời quý vị cứ thoải mái diện thường phục đến chung vui.",
+      "jpname": "メジロマックイーン",
+      "jptext": "近々、交流のためのパーティーを、当家主催にて開催させて\nいただきます。どうぞお気軽に、普段着でお越しくださいませ。"
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Hể, tiệc thân mật của nhà Mejiro à. Lúc nào họ cũng đứng ra tổ chức đủ thứ hoạt động, thật đáng quý quá. Cậu cũng sẽ đi chứ?",
+      "jpname": "新人トレーナーA",
+      "jptext": "へー、メジロ家のカジュアルパーティーか。いろいろ企画して\nくれて、いつもありがたいな。君も行くだろ？",
+      "choice_data_list": [
+        "Ừ, cũng đi...",
+        "Vâng, chắc tôi cũng đi..."
+      ],
+      "jpchoice_data_list": [
+        "うん、まあ……",
+        "ええ、まあ……"
+      ]
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Vậy hẹn gặp ở bữa tiệc nhé. À mà cậu biết tin gì chưa? Buổi thi tuyển Trainer cho Satono Diamond ấy, người trúng tuyển nghe đâu...",
+      "jpname": "新人トレーナーA",
+      "jptext": "じゃあ会場でな。あ、そういえば知ってるか？　例のサトノ\nダイヤモンドのトレーナートライアルだけど、合格者は……。"
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "―Hình như chẳng có ai được chọn cả. Không biết sắp tới họ sẽ tính sao đây?",
+      "jpname": "新人トレーナーA",
+      "jptext": "――誰も出なかったらしいな。\nこれから、どうするんだろ？"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, vào ngày diễn ra bữa tiệc. Tôi bắt gặp Satono Diamond và Kitasan Black đang hào hứng tham gia các trò chơi tập thể tại hội trường.",
+      "jpname": "モノローグ",
+      "jptext": "そしてパーティー当日。会場でパーティーゲームに興じる\nサトノダイヤモンドとキタサンブラックの姿を見かけた。"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ểêê, cờ lật Reversi mà bị chiếm mất góc là thua chắc luôn mà? Thế mà cậu lại đặt vào góc đó hả Dia-chan!?",
+      "jpname": "キタサンブラック",
+      "jptext": "えええっ、リバーシって端っこ取られたら負けちゃう\nゲームでしょ？　なのにそこに置くの、ダイヤちゃん！？"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ừm. Bị chiếm bốn góc là sẽ thua. Nếu người ta đã đồn đại như thế thì―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "うん。四隅を取られたら負け。\nそんなふうに言われているなら――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Càng phải phá vỡ định kiến đó chứ! Mình sẽ phá vỡ nó và giành chiến thắng cho xem!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ジンクスは破らないとね！\n破って勝ってみせるから！"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Oa, tới rồi! Chiêu phá vỡ định kiến của Dia-chan! Mỗi lần cậu ấy bật chế độ này lên là―",
+      "jpname": "キタサンブラック",
+      "jptext": "うわっ、出た！　ダイヤちゃんのジンクス破り！\nこのモードに入った時は――"
+    },
+    {
+      "name": "",
+      "text": "Kết quả là... Satono Diamond đã đại thắng. Tôi đã nhìn thấy một khía cạnh thú vị ở em, rất khác với dáng vẻ của một nàng tiểu thư dịu dàng thông thường.",
+      "jpname": "モノローグ",
+      "jptext": "結果は――サトノダイヤモンドの圧勝だった。\nただのおとなしいお嬢様とは違う、面白い一面を見た。"
+    },
+    {
+      "name": "",
+      "text": "Định kiến, những điều mê tín... dường như cứ hễ thấy là em lại muốn đập tan chúng. Khi tôi còn đang băn khoăn về tính cách của em thì...",
+      "jpname": "モノローグ",
+      "jptext": "ジンクス――迷信のようなものを見かけると打ち破りたくなる\nようだ。どんな人柄なのか、はかりかねていると――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Dạ... em xin phép làm phiền một chút có được không ạ? Anh là người hôm trước em từng trông thấy phải không?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あの……少しよろしいでしょうか？\n前にお見かけした方ですよね？",
+      "choice_data_list": [
+        "Satono Diamond...?"
+      ],
+      "jpchoice_data_list": [
+        "サトノダイヤモンド……？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Lúc diễn ra trận đua tập, anh đã dõi theo em đúng không ạ? Chuyện là... em có điều này muốn hỏi anh một chút.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "模擬レースの時、私のことを見てくださっていましたよね？\nその……お聞きしたいことが～。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Buổi thi tuyển Trainer, tại sao anh lại không tới tham dự ạ? Em cứ ngỡ là anh có hứng thú với em chứ...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "トレーナートライアル、どうしてお越しいただけなかったの\nでしょう？　関心を持っていただけていると思ったのですが……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Lý do khiến em không lọt vào mắt xanh của anh là gì thế ạ? ...Hay là vì tố chất của em vẫn còn chưa đủ?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "お眼鏡にかなわなかった理由はなんでしょう？\n……やはり素質が足りなかったとか？",
+      "choice_data_list": [
+        "Không có chuyện đó đâu. Vì...!"
+      ],
+      "jpchoice_data_list": [
+        "そんなことはないよ。だって……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không thể kìm lòng, tôi đành bộc bạch. Tôi thấy tố chất của em vô cùng tuyệt vời, nhưng bản thân tôi chỉ là một Trainer bình thường, không đủ tầm để bước qua ngưỡng cửa danh gia vọng tộc ấy.",
+      "jpname": "モノローグ",
+      "jptext": "たまらず打ち明けた。素質は素晴らしいと思ったが、自分は\n一般のトレーナーで、高い垣根を越えられるような者ではないと。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nhưng mà, điều đó...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "でも、それは……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hì hì, tôi hiểu cảm giác e dè, nhưng tự ti đến mức thu mình lại như thế thì hơi quá rồi đấy ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふふ、臆するのはわかりますけれど、そこまで萎縮するのは\n行き過ぎだと思いますわ。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A, chị McQueen♪ Chào buổi tối chị ạ, em xin phép làm phiền nhé!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ああっ、マックイーンさん♪\nこんばんは、お邪魔しています～！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chào buổi tối. Chào mừng em, Satono-san, và cả vị Trainer trẻ tuổi nữa. Tôi có thể mạn phép xen vào câu chuyện một chút được chăng?",
+      "jpname": "メジロマックイーン",
+      "jptext": "こんばんは。ようこそサトノさん、そして若きトレーナーさん。\n少しばかり話にまぜてくださいますこと？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Satono quả thực là một tập đoàn tài phiệt khổng lồ, nhưng gia tộc họ không hề khó gần đâu. Việc họ tổ chức buổi tuyển chọn Trainer rầm rộ như vậy là vì...",
+      "jpname": "メジロマックイーン",
+      "jptext": "サトノは確かに一大コンツェルンですが、近寄りがたい人々では\nありませんわ。トレーナー選考なんて大仰なことをするのは――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Họ \"vô cùng thận trọng\" mà thôi. Đúng vậy không, Satono-san?",
+      "jpname": "メジロマックイーン",
+      "jptext": "それだけ『慎重になっている』から。\nそうですわよね、サトノさん？"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...Vâng, đúng là như vậy ạ. Tìm kiếm Trainer chính là tìm người gửi gắm ước mơ của em, và cũng là tâm nguyện cháy bỏng của gia tộc Satono.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "……はい、その通りです。トレーナー探しは、\n私の夢、そしてサトノ家の悲願を託す相手探しですから。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Gia tộc Satono... dẫu vẫn là một thế lực mới nổi, nhưng dành tình yêu sâu sắc cho văn hóa đua của các Mã Nương, và luôn mong muốn được cống hiến cho sự phát triển ấy.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "サトノ家は――まだ新興ではありますが、ウマ娘のレース文化に\n深い愛情を抱き、その発展に貢献したいと考えています。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Chúng em đã thực hiện đủ mọi hoạt động, từ hỗ trợ vận hành đến công tác từ thiện. Thế nhưng, so với nhà Mejiro thì lịch sử vẫn còn non trẻ, và vẫn chưa thể làm được \"một cống hiến lớn nhất\".",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "運営協力、慈善事業など、あらゆる活動を行ってきました。でも\nメジロに比べると歴史は浅く『ある最大の貢献』ができていません。",
+      "choice_data_list": [
+        "Cống hiến lớn nhất ư?"
+      ],
+      "jpchoice_data_list": [
+        "最大の貢献？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Vâng, cống hiến đó chính là... \"sản sinh ra một danh Mã Nương xuất thân từ gia tộc có thể giành chiến thắng ở giải GⅠ\".",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "はい、それは――『一族から、GⅠを勝利するような\n名ウマ娘を輩出すること』です。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Đây chính là nét văn hóa đặc thù của giới Mã Nương chúng tôi. Sản sinh ra một danh Mã Nương chính là cống hiến to lớn nhất, không gì có thể đánh đổi được.",
+      "jpname": "メジロマックイーン",
+      "jptext": "これはウマ娘界ならではの文化ですわね。名ウマ娘を輩出する\nことは、何物にも代えがたい、最大の貢献になりますわ。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Và ngôi sao hy vọng tự mình gánh vác hoài bão lớn lao ấy chính là Satono Diamond đây. Buổi thi tuyển Trainer được tổ chức chính là để tìm kiếm người nâng đỡ em ấy.",
+      "jpname": "メジロマックイーン",
+      "jptext": "その大望を自ら背負う期待の星が、このサトノダイヤモンドさん。\nさらに支える存在を探すため行われたのがトレーナートライアル。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tập đoàn Satono không hề kiêu kỳ ở trên cao đâu, họ chỉ đang dốc hết tâm can mà thôi. Có phải vậy không, Satono-san?",
+      "jpname": "メジロマックイーン",
+      "jptext": "サトノグループは高い位置に構えているわけではなく、\nただ必死なだけですわ。ですわよね、サトノさん？"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...Vâng. Tất cả là để hoàn thành tâm nguyện của gia tộc. Vì vậy em muốn tìm kiếm bằng mọi cách và nghênh đón người có thể cùng em gánh vác ước mơ này.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "……はい。すべては家の悲願を成し遂げるため。ですから私は、\nあらゆる方法でともに夢を担える方を探し、お迎えしたいのです。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Trainer-san, xin anh hãy nói cho em biết. Anh đã nghĩ gì khi nhìn em chạy hôm ấy ạ? Ánh mắt đầy tha thiết như muốn nói điều gì đó của anh cứ khiến em bận lòng mãi.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "トレーナーさん、お聞かせください。あなたは私の走りに、何を\n思ったのでしょう？　あの訴えるような目がどうしても気になって。"
+    },
+    {
+      "name": "",
+      "text": "Nét mặt của em vô cùng nghiêm túc. Đôi mắt trong sáng và chân thành ấy chỉ đơn thuần khát khao được biết, tất cả chỉ vì mục tiêu mà em hướng đến...",
+      "jpname": "モノローグ",
+      "jptext": "その表情は真剣そのものだった。ただ目指すもののために、\n純粋に知りたいと願う真っ直ぐな瞳……。"
+    },
+    {
+      "name": "",
+      "text": "Tôi cảm thấy nếu không nói ra cảm nhận về bước chạy của em thì thật là thất lễ. Trước hết, tôi thành thật khen ngợi tài năng của em, rồi sau đó mới chỉ ra những vấn đề mà tôi nhận thấy.",
+      "jpname": "モノローグ",
+      "jptext": "走りの感想を伝えないのは失礼だと思った。まずは素直に\n才能を褒め称え――次に見えた課題を伝えることにした。",
+      "choice_data_list": [
+        "Trước hết, anh nghĩ em còn thiếu kinh nghiệm so kè thực chiến hết mình"
+      ],
+      "jpchoice_data_list": [
+        "まず、本気の競り合い経験が足りないと思う"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "So kè thực chiến hết mình ư...? Ý anh cụ thể là thế nào ạ...?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "本気の競り合い……？　それはどのような……？",
+      "choice_data_list": [
+        "Trong suốt cuộc đua, em có cảm thấy ngột ngạt vì áp lực từ xung quanh không?"
+      ],
+      "jpchoice_data_list": [
+        "レース中、周囲の圧力に苦しんでなかった？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A, đúng là ở trận đua tập hôm ấy... em đã có phần bối rối. Sự kèm cặp gắt gao chưa từng thấy, cảm giác không được chạy theo ý mình.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あ、確かにあの模擬レースの時……戸惑いがありました。\nこれまでにないマークのきつさ、好きにさせてもらえない感じ。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nhưng ngay từ thuở nhỏ, em đã dặn các bạn chạy tập cùng mình rồi mà. Rằng \"khi chạy song hành thì đừng nương tay nhé\".",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "でも幼少の頃から、トレーニング相手には伝えていたのですけれど。\n『併走の時は手加減しないでね』って。",
+      "choice_data_list": [
+        "Nhưng dù vậy có lẽ họ vẫn nể nang kiêng dè em đấy"
+      ],
+      "jpchoice_data_list": [
+        "それでも遠慮されていたのかも"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Tôi hiểu chứ. Đây chính là số mệnh của người sinh ra trong gia tộc lớn. Một khi có quan hệ chủ tớ, dù không cố ý nương tay, họ cũng chẳng thể đem khí thế áp đảo thực sự ra đối đầu...",
+      "jpname": "メジロマックイーン",
+      "jptext": "……わかりますわ。これは生まれの宿命ですわね。主従があれば、\n手加減こそしていないつもりでも、ねじ伏せる気概ではこない……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "R, ra là vậy ạ. Em chưa từng nghĩ tới điều đó luôn...! Thì ra đó là lý do em cảm thấy áp lực lớn đến vậy...!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "な、なるほど～。思いもしなかったです……！\nそれが当たりが強く感じた理由……！",
+      "choice_data_list": [
+        "Còn một điều nữa. Em quá hiếu thắng và dễ nổi nóng"
+      ],
+      "jpchoice_data_list": [
+        "あともう1つ。ムキになりすぎる"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ơ... em hiếu thắng nổi nóng sao? Dường như đây là lần đầu tiên trong đời có người nói với em như vậy... Chuyện đó là sao ạ?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "えっ……ムキに？　それは生まれて初めて\n言われたような……。どういうことでしょう？"
+    },
+    {
+      "name": "",
+      "text": "Tôi kể lại những gì mình đã thấy trong cuộc đua. Ở giai đoạn giữa chặng vốn cần phải nhẫn nại, khi bị các đối thủ xung quanh so kè, nhịp độ của em đã vô thức nhanh lên đôi chút.",
+      "jpname": "モノローグ",
+      "jptext": "レースで見たままを話す。中盤の我慢しなければならない時、\n周囲と競り合うとかすかにペースが速くなった。"
+    },
+    {
+      "name": "",
+      "text": "Đó là vì em đã lỡ nổi máu hiếu thắng. Tính cách chân thật ngủ sâu bên dưới phong thái tiểu thư đài các đã vô tình bộc lộ ra ngoài.",
+      "jpname": "モノローグ",
+      "jptext": "あれは、ついムキになったから。令嬢然としたふるまいの奥底に\n眠る、素の性格が出てしまったからだと。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "―!? Đúng là lúc đó, em đã nóng lòng muốn bứt lên đến mức đôi chân bứt rứt không yên...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "――！？　確かにあの時、行きたくて行きたくて、\n脚がうずうずして……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nhưng em đã kìm lại ngay. Em cứ ngỡ mình đã kìm lại được rồi... vậy mà chỉ trong một khoảnh khắc xao động thoáng qua ấy, anh...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "でも、すぐにこらえました。こらえたはずなのに……\nわずかに乱れた一瞬を、あなたは……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Anh... rốt cuộc là người như thế nào vậy ạ? Chỉ qua một trận đua duy nhất, tại sao anh có thể hiểu thấu về em đến mức ấy...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あなたは……どういう方なのですか？　たった1レースで、\nどうして私のことを、そこまで……。",
+      "choice_data_list": [
+        "Vì anh đã bị cuốn hút bởi những bước chạy của em nhiều đến thế",
+        "Vì tôi đã bị cuốn hút bởi những bước chạy của em nhiều đến thế mà"
+      ],
+      "jpchoice_data_list": [
+        "それだけ走りに惹かれたからだ",
+        "それだけ走りに惹かれたからだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chính vì bị cuốn hút, nên cả ưu điểm lẫn khuyết điểm tôi đều nhìn thấu trong nháy mắt. Dù không hiểu rõ về gia thế hào môn, nhưng bản chất của Satono Diamond thì tôi đã thấu hiểu ngay tức khắc.",
+      "jpname": "モノローグ",
+      "jptext": "惹かれたからこそ、長所も短所も一瞬で見えた。家の格式のことは\nわからなくても、サトノダイヤモンドの本質は一瞬で理解できた。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Chưa từng có ai... chưa từng có ai nói với em những điều như vậy cả. Những người đến tham gia buổi thi tuyển đều không ai... Thế nhưng anh thì―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "誰も……誰もそんなことは言ってくださいませんでした。\nトライアルに来た方々は誰も……。でもあなたは――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hì hì, tốt quá rồi còn gì. Thật may là trong một bữa tiệc tình cờ, em lại tìm được một ứng viên sáng giá thế này.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふふ、よかったですわね。偶然のパーティーで、\nいい候補が見つかって。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Satono-san, hay là em cho vị Trainer này thi tuyển lại xem sao? Biết đâu lại lọt vào mắt xanh của các vị bên tập đoàn Satono thì―",
+      "jpname": "メジロマックイーン",
+      "jptext": "サトノさん、あらためて、この方もトライアルしてみては？\nもしかしてサトノグループの方々のお眼鏡にも――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "―Em chọn anh rồi.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "――採用です。",
+      "choice_data_list": [
+        "...Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Em tuyển anh! Anh... chính anh là Trainer của em! Anh là người duy nhất bấy lâu nay em kiếm tìm. Vì vậy em quyết định chọn anh rồi!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "採用っ！　あなたが……あなたが私のトレーナーさん！\n私の探していた、ただ1人の人です。ですから採用っ！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hả, Satono-san!? Em có hiểu chuyện gì không đấy? Việc tìm kiếm Trainer cho em là vấn đề trọng đại đến nhường nào đối với nhà Satono chứ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ええっ、サトノさん！？　わかっているでしょう？\n貴方のトレーナー探しが、サトノにとってどれほどの重大事項か。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Đâu thể chỉ dựa vào cảm tính mà quyết định ngay tắp lự như thế được! Trước hết hãy về nhà bàn bạc lại―",
+      "jpname": "メジロマックイーン",
+      "jptext": "フィーリングで即決していいものではありませんわ！\nまずは帰って相談を――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Không, em quyết định rồi. Riêng chuyện này, dù là lời khuyên của chị McQueen mà em hết mực kính trọng, em cũng không thay đổi đâu ạ.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "いえ、決めました。こればかりは、\n尊敬するマックイーンさんの助言でも変えられません。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Trainer của em là người này! Chỉ có thể là người này mà thôi. Bình thường có lẽ đây là việc cần phải thưa gửi bàn bạc, nhưng mà―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "私のトレーナーはこの方！　この方しかいません。\n普通なら相談すべきことかもしれませんけど、でも――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Để cả gia tộc biểu quyết thông qua... cũng chắc chắn là một định kiến gò bó. Vậy thì em sẽ tin vào trực giác của mình và phá vỡ nó! Trainer của em, bất kể ai nói gì đi nữa, cũng chính là anh!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "家の総意で決めるのも――きっとジンクス。なら直感を信じて、\n破ります！　私のトレーナーは、誰がなんと言おうとあなた！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Quyết định thế nhé. Em đã chọn rồi. Anh sẽ đồng ý làm Trainer của em chứ, nha, nha anh?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "決まりです。決めました。\n受けてくれますよね、ね、ね？"
+    },
+    {
+      "name": "",
+      "text": "Ý chí kiên định đến mức khó tin ở một tiểu thư đoan trang thùy mị. Satono Diamond nhất quyết nắm chặt lấy tay tôi, không chịu buông ra cho đến khi tôi gật đầu đồng ý.",
+      "jpname": "モノローグ",
+      "jptext": "おしとやかなお嬢様らしからぬ、確固たる意志。サトノ\nダイヤモンドはこちらが頷くまで決して手を離してくれなかった。"
+    }
+  ]
+}

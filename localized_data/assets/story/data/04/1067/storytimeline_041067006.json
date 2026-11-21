@@ -1,0 +1,422 @@
+{
+  "title": "Nét ngây thơ ngập ngừng",
+  "jptitle": "逡巡のイノセンス",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ, khi đang dạo bước trên phố, tôi tình cờ bắt gặp Satono Diamond với dáng vẻ dường như đang có điều gì đó băn khoăn trăn trở...",
+      "jpname": "モノローグ",
+      "jptext": "休日、町を散歩していると何やら悩んでいる様子の\nサトノダイヤモンドを見かけた……。",
+      "choice_data_list": [
+        "Có chuyện gì thế em?",
+        "Có chuyện gì thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうかしたのか？",
+        "どうかしたの？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ơ kìa, Trainer-san! Thật là đúng lúc quá, lại gặp được anh ở đây.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あら、トレーナーさん！\nちょうどいいところでお会いしましたね。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Anh có muốn cùng em đến công viên giải trí không ạ?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "遊園地、行きませんかっ？"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Oa a! Hóa ra vào những ngày không bao trọn công viên, nơi đây lại nhộn nhịp đông vui đến thế này cơ đấy!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "うわぁ～！　遊園地って、\n貸し切りじゃない日はこんなに賑やかなんですね！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "E he he, em đường đột rủ rê thế này mà anh vẫn nhận lời, cảm ơn anh nhiều lắm ạ. Vé ưu đãi hôm nay là ngày hết hạn rồi nên may quá chừng♪",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "えへへ、急にお誘いしたのにありがとうございます。\n優待券の有効期限、今日までだったので助かります♪"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Kita-chan lại bận việc đột xuất phải về gấp mất rồi... Em đang tính hay là cứ đi một mình luôn thì gặp anh đấy ạ!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "キタちゃんが急用で帰らないといけなくなって……\nいっそ1人で行こうかと思っていたところだったんです！",
+      "choice_data_list": [
+        "Em hào hứng muốn đi đến thế cơ à",
+        "Bạn hào hứng muốn đi đến thế cơ à"
+      ],
+      "jpchoice_data_list": [
+        "よっぽど行きたかったんだな",
+        "よっぽど行きたかったんだね"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Em mong chờ đến mức tối qua mất cả ngủ luôn ấy chứ―Á kìa! Đằng kia có linh vật Uma-kun kìa anh! Chúng mình qua nhờ chụp ảnh đi!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "それはもう、昨夜は眠れなかったくらいで――まあっ！\nあちらにウーマくんがいますよ！　写真を撮ってもらいましょう！",
+      "choice_data_list": [
+        "Á, đợi anh đã...!"
+      ],
+      "jpchoice_data_list": [
+        "あっ、待って……！"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nhanh lên nhanh lên anh ơi! Trainer-san cũng vào chụp chung đi ạ! Nào, tạo dáng cười lên nào...!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "早く早く！　トレーナーさんもご一緒に！\nはいチーズ……！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Tiếp theo là... A, đằng kia! Hàng người xếp dài quá chừng...! Em muốn vào xếp hàng quá! Mình qua đó đi anh!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "次は……あっ、あそこ！　すごい行列……！\n並びたいです！　行きましょう！",
+      "choice_data_list": [
+        "Em muốn vào xếp hàng sao...?",
+        "Bạn muốn vào xếp hàng sao...?"
+      ],
+      "jpchoice_data_list": [
+        "並びにいきたいのか……？",
+        "並びにいきたいの……？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Vâng ạ! Bình thường lần nào em cũng được dẫn vào thẳng luôn... nên em muốn trải nghiệm cảm giác hồi hộp háo hức chờ đợi đến lượt mình!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "はいっ！　いつもすぐ通されてしまうので……\nわくわくしながら待ちたいのですっ！"
+    },
+    {
+      "name": "",
+      "text": "Tôi cùng em đứng vào dòng người xếp hàng, vừa trò chuyện rôm rả suốt gần một tiếng đồng hồ. Và rồi, trò chơi giải trí cuối cùng cũng đến lượt chúng tôi chính là...",
+      "jpname": "モノローグ",
+      "jptext": "彼女と行列に並び、小一時間お喋りをしながら待った。\nやっと順番が回ってきたそのアトラクションは……。"
+    },
+    {
+      "name": "Zombie",
+      "text": "Grào oo oooo ooo!!",
+      "jpname": "ゾンビ",
+      "jptext": "ヴヴオオォォォ～～～～っ！！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Á a a a!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ひゃあぁぁっ！",
+      "choice_data_list": [
+        "Em có sao không!?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫！？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "―U hu hu hu! Giật cả mình luôn ạ! Ôi trời ơi♪ Anh vừa chui ra từ chỗ nào thế ạ!?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "――うふふふっ！　ビックリですっ！\nまぁまぁっ♪　今どちらから出ていらしたんですか！？",
+      "choice_data_list": [
+        "(C, có vẻ không sao rồi)",
+        "(C, có vẻ không sao rồi)"
+      ],
+      "jpchoice_data_list": [
+        "（だ、大丈夫そうだな）",
+        "（だ、大丈夫そうだね）"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A, đây là cánh cửa bí mật sao...!? Là chỗ này đúng không!? Phía bên kia là khu vực nghỉ ngơi của các anh Zombie ạ...? Mình qua đó xem đi anh!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あっ、これは隠し扉……！？　ここですね！？\n向こうはゾンビさんの待機場所……？　行ってみましょう！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nhà ma đời mới nhất hiện nay...! Em muốn khám phá tận hậu trường bên trong cơ!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "最新のお化け屋敷……！　裏側まで知りたいですっ！",
+      "choice_data_list": [
+        "Kìa... đợi anh đã, đợi đã...!"
+      ],
+      "jpchoice_data_list": [
+        "ちょ……待って待って……！"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ưm m m! Vui quá đi mất thôi...! Trò nào cũng tuyệt vời hết sức!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "んん～～～っ！　楽しかったぁ……！\nどのアトラクションも素晴らしかったです！",
+      "choice_data_list": [
+        "Em chạy vòng quanh khắp mọi ngóc ngách rồi đấy...!",
+        "Chạy vòng quanh khắp mọi ngóc ngách rồi đấy nhỉ...!"
+      ],
+      "jpchoice_data_list": [
+        "隅々まで走り回ったな……！",
+        "隅々まで走り回ったね……！"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hì hì, chúng ta vẫn còn chơi tiếp nữa cơ mà! Tiếp theo là khu trò chơi điện tử! Nào, mình cùng đi thôi anh!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ふふっ、まだまだ遊びますよ～っ！\n次はゲームコーナーです！　さっ、参りましょう！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ở đây có đặt rất nhiều máy gắp thú do chính tập đoàn nhà em sản xuất đấy ạ.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ここには、うちのグループで作っているクレーンゲームを\nいくつも置いてくださっているんです。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A, anh nhìn kìa! Có đồ lưu niệm độc quyền của công viên giải trí này nè. Dễ thương quá đi...!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あ、見てくださいっ！\n遊園地のオリジナルグッズがありますよ。可愛い～……！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Thế nhưng ở vị trí này... có lẽ đợi lúc nhân viên nạp thêm gấu bông rồi nhắm vào sẽ dễ hơn đấy ạ. Từ giờ đến lúc đó chúng ta hãy khởi động ở máy khác trước nhé!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ですがこの位置……補充が入った後を狙ったほうがよさそうですね。\nそれまで他のでウォーミングアップいたしましょう！",
+      "choice_data_list": [
+        "Quả nhiên là em am hiểu thật đấy",
+        "Quả nhiên là bạn am hiểu thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "さすが、詳しいんだな",
+        "さすが、詳しいんだね"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Vâng, gắp thú là sở trường ruột của em đó! Từ nhỏ em đã hay chơi trò này suốt rồi mà―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "はい、クレーンゲームは大得意ですから！\n小さい頃からよくやっていたんですよ――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Mỗi lần cha mẹ ghé qua công ty trò chơi trực thuộc tập đoàn, em cũng hay lẽo đẽo theo sau...",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "両親が系列のゲーム会社へ顔を出す時、\n私もよくついていったのですが……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Trong lúc chờ cha mẹ xong việc, em cứ đứng chơi với những cỗ máy đặt trong tòa nhà để giết thời gian.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "お仕事が終わるまで、そのビルに置いてある筐体で\n遊びながら待っていたんです。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Mà có khi, chính vì muốn chơi trò ấy nên em mới hăng hái đi theo cha mẹ cũng nên ấy chứ...! Hì hì♪",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "むしろ、それがやりたくてついていった\nところがあるかもしれません……！　ふふっ♪",
+      "choice_data_list": [
+        "Vậy để anh mở rộng tầm mắt xem tài nghệ của em nào",
+        "Vậy để tôi mở rộng tầm mắt xem tài nghệ của bạn nào"
+      ],
+      "jpchoice_data_list": [
+        "じゃあお手並み拝見だな",
+        "じゃあお手並み拝見だね"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Vâng! Anh hãy nhìn cho thật kỹ nhé♪ Trainer-san muốn món nào, em cũng sẽ gắp cho bằng được tặng anh luôn!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "はい！　よーく見ていてくださいね♪\nトレーナーさんの欲しいもの、なんでも取って差し上げますからっ！"
+    },
+    {
+      "name": "",
+      "text": "Chỉ trong chớp mắt, Satono Diamond đã gắp được hàng loạt phần thưởng đủ loại cho tôi...!",
+      "jpname": "モノローグ",
+      "jptext": "サトノダイヤモンドは、様々な景品を\nあっという間に取ってくれた……！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hì hì hì...♪ Thấy sao hả anh? Em gắp đỉnh chưa nào? Vẫn còn gắp được nhiều nữa cơ đấy!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ふふふっ……♪　ね？　上手でしょう？\nまだまだたくさん取れますよ～っ！",
+      "choice_data_list": [
+        "Đ, đợi đã nào, gom phần thưởng lại cho gọn gàng đã...!"
+      ],
+      "jpchoice_data_list": [
+        "ま、待って、景品を整理してから……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi nhét đống phần thưởng vào lại các túi đựng quà. Với số lượng đồ sộ thế này, chắc hai người chúng tôi phải ôm khệ nệ cả hai tay mới mang hết về được...",
+      "jpname": "モノローグ",
+      "jptext": "景品をショッピングバッグに詰め直す。\nこの量だと2人で両手に抱えて帰ることになりそうだ……。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "E he he, thu hoạch có hơi quá tay rồi nhỉ. Lúc về hay là mình gọi taxi đi anh nhé?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "えへへ、ちょっと大漁すぎましたね。\n帰りはタクシーを呼びましょうか？"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Cái tính của em cứ hễ nghĩ ra gì là làm nấy mất rồi... ...A―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "私ってば、また思いつくまま動いてしまって……\n……あっ――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "(Nhắc mới nhớ, đợt 'Phong trào ngập tràn sắc hoa' hôm nọ cũng vậy. Lúc nào mình cũng bắt Trainer-san chiều theo những sở thích của riêng mình...)",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "（そういえば、この前の『花たくさん運動』の時もだ。\nいつも私のやりたいことに付き合っていただいてばかり……）"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "(Những lời các chị tiền bối nói hôm ấy, là chuyện này sao? Liệu có phải vì thấy anh ấy hiền hậu nuông chiều nên mình mới...)",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "（先輩が言ってたのって、こういうこと？\n私、トレーナーさんが優しいからって……）"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...Ư.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "……っ。",
+      "choice_data_list": [
+        "Dia à?"
+      ],
+      "jpchoice_data_list": [
+        "ダイヤ？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A, dạ, chuyện đường về thì anh cứ yên tâm em sẽ xoay xở được ạ! Em cũng là một Mã Nương mà, khỏe khoắn lắm đấy chứ.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "あっ、ええと、帰りはなんとかしますのでご安心ください！\n私もウマ娘ですから、力持ちですし。",
+      "choice_data_list": [
+        "Ừ, cảm ơn em nhé",
+        "Ừ, cảm ơn bạn nhé"
+      ],
+      "jpchoice_data_list": [
+        "ああ、ありがとう",
+        "うん、ありがとう"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Chỉ là... em đã quá phấn khích mà làm phiền anh, em xin lỗi anh nhiều ạ.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "いえ……はしゃぎすぎてしまって、すみません。"
+    },
+    {
+      "name": "",
+      "text": "Miệng em thì mỉm cười nói vậy, nhưng trông em dường như đang nặng lòng suy nghĩ điều gì đó. Phải rồi... nếu khuấy động bầu không khí vui vẻ lên thì em sẽ dễ mở lòng hơn chăng...?",
+      "jpname": "モノローグ",
+      "jptext": "そう言って微笑む彼女だが、何か気にしているように見えた。\nそうだ……明るい空気を作れば話しやすくなるだろうか……？",
+      "choice_data_list": [
+        "Hay là anh cũng thử chơi gắp thú xem sao nhé",
+        "Hay là tôi cũng thử chơi gắp thú xem sao nhé"
+      ],
+      "jpchoice_data_list": [
+        "俺もクレーンゲームやってみようかな",
+        "私もクレーンゲームやってみようかな"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Vâng ạ! Trainer-san cố lên nhé!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "はい！　トレーナーさんっ、ファイトです！"
+    },
+    {
+      "name": "",
+      "text": "Mục tiêu cần nhắm tới... chính là món đồ ban nãy em vừa khen dễ thương...!",
+      "jpname": "モノローグ",
+      "jptext": "狙うは……さっき彼女が可愛いと言っていた……！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Đó là món quà lưu niệm độc quyền của công viên...!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "それ、遊園地オリジナルの……！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Oa, gắp trúng rồi kìa! Chúc mừng anh nha!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "わっ、ゲットですっ！　おめでとうございます！",
+      "choice_data_list": [
+        "Này, cái này tặng em",
+        "Này, cái này tặng bạn"
+      ],
+      "jpchoice_data_list": [
+        "はい、これは君に",
+        "はい、これは貴方に"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...! Oa a! Thật sự tặng cho em sao ạ?",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "……っ！　わあぁっ！　いいんですかっ？",
+      "choice_data_list": [
+        "Để đáp lại chỗ phần thưởng em đã gắp cho anh"
+      ],
+      "jpchoice_data_list": [
+        "たくさん取ってもらったお返し"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Anh bảo đáp lễ làm gì chứ, vốn là do em muốn gắp tặng cho anh mà.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "お返しだなんて、私が差し上げたくて取っただけなのに。"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Phải rồi! Hay là em gắp thêm một con y hệt thế này nữa để hai đứa mình có đồ đôi―",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "そうだ！　私も同じものを取って、おそろ――"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "―...!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "――っ……！",
+      "choice_data_list": [
+        "Dia à?"
+      ],
+      "jpchoice_data_list": [
+        "ダイヤ？"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Dạ, ừm... không có gì đâu ạ!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ん、と……いえっ！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Không có chuyện gì đâu ạ!",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "なんでもないですっ！"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Em cảm ơn anh nhiều nhé. Em sẽ giữ gìn nó thật cẩn thận.",
+      "jpname": "サトノダイヤモンド",
+      "jptext": "ありがとうございます。大事に、しますね。"
+    },
+    {
+      "name": "",
+      "text": "Satono Diamond khẽ nở một nụ cười có phần ngập ngừng bối rối. Hôm nay, dường như tôi đã được nhìn thấy rất nhiều nét biểu cảm phong phú khác nhau của em―",
+      "jpname": "モノローグ",
+      "jptext": "少し困ったような笑顔を見せたサトノダイヤモンド。\n今日は彼女の色々な表情を見られた気がした――"
+    }
+  ]
+}
