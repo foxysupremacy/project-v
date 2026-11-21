@@ -1,0 +1,418 @@
+{
+  "title": "Ngọn gió mãi khẽ lay",
+  "jptitle": "常そよぐ、風",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Buổi sáng ở trại huấn luyện mùa hè, nơi ban ngày ngọn gió nóng như thiêu như đốt thường thổi qua. Dù trời còn rất sớm nhưng tôi đã không thấy bóng dáng của Yamanin Zephyr đâu.",
+      "jpname": "モノローグ",
+      "jptext": "日中には炎風も吹く夏合宿の朝。\nまだ早い時間だというのにヤマニンゼファーの姿が見えない。",
+      "choice_data_list": [
+        "Em ấy lại đi tìm gió rồi chăng...?"
+      ],
+      "jpchoice_data_list": [
+        "風を探しに行ったのかな……？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ơ kìa... vừa mới cảm nhận thấy luồng gió nam ven biển thì ra là...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あら……おぼせの気配を感じてみれば。",
+      "choice_data_list": [
+        "Chào buổi sáng em, em mới đi dạo về à?"
+      ],
+      "jpchoice_data_list": [
+        "おはよう、散歩の帰り？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng ạ. Được dẫn lối bởi làn gió lạ mang theo hơi ấm của ánh dương, em đã đi tìm xem nơi nào có ngọn gió mát lành thổi qua, nhưng mà...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい。陽をふくむ新風の気配に誘われまして。\n涼風の通りを探していたのですが……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngay lúc này, ngọn gió biển ban mai cuối cùng đã thổi lướt qua đất liền rồi. ...Từ phía của Trainer-san sao?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今、ようやく朝の海風が、陸へ吹き抜けました。\n……トレーナーさんの、方から？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "............",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ không, chắc hẳn chỉ là một ngọn gió trái mùa thôi. Hơn hết là buổi tập ngày hôm nay, xin nhờ anh chỉ bảo thêm cho em nhé.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "いえ、きっと季節違いの風でしょう。\nそれより本日のトレーニングも、どうぞよろしくお願いいたします。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "(Tại đây... hãy như một tia sét giông bão――!)",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "（ここで……神立のように――！）"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hộc―― hộc――, hà...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はっ――はっ――、はぁ……。",
+      "choice_data_list": [
+        "Vất vả cho em rồi, thành tích thời gian tốt lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様、いいタイムが出てるよ！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em cảm ơn anh. Để có thể hóa thành ngọn gió trời cao, em phải nắm thật chặt ngọn gió này――... A.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ありがとうございます。\n天風となるためにも、この風を離さずに――……あっ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Lại là ngọn gió mát lành...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……また、涼風……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "............",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ... Trainer-san. Em có thể xin anh một thỉnh cầu được không ạ?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あの……トレーナーさん。\n1つ、お願いを聞いていただけないでしょうか。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Chỉ khi buổi tối của anh là lặng gió thôi cũng được, em muốn anh cùng em đi đón ngọn gió.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "夜が凪でしたらで構いません、\n私と、風待ちにおいでいただきたいのです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Bởi vì có một chuyện... em nhất định muốn xác thực cho bằng được.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "どうしても……確かめたいことがありまして。"
+    },
+    {
+      "name": "",
+      "text": "Ngọn gió mà Yamanin Zephyr tha thiết muốn đón nhận đến mức nhờ tôi đi cùng. Nếu bắt gặp ngọn gió ấy, có lẽ tôi sẽ hiểu thêm về em.",
+      "jpname": "モノローグ",
+      "jptext": "付き添いを頼んでまでヤマニンゼファーが待ちたい風。\nその風に出会えれば、彼女をもっと知れるかもしれない。",
+      "choice_data_list": [
+        "Anh rất sẵn lòng đi cùng em!"
+      ],
+      "jpchoice_data_list": [
+        "喜んで付き合うよ！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi chao, thật sảng khoái và trong trẻo, em xin cảm ơn anh. Vậy thì hẹn gặp lại anh vào buổi tối nhé...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ、爽籟、感謝いたします。\nそれでは、夜にまた……。"
+    },
+    {
+      "name": "",
+      "text": "Tôi rảo bước theo sau Yamanin Zephyr trên con đường gần khu trại huấn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "合宿所近くの道を、ヤマニンゼファーに続いてそぞろ歩きする。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sự êm đềm lúc hoàng hôn lặng gió... thỉnh thoảng cũng thật tuyệt vời nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "夕凪の静穏も……時にはいいものですね。"
+    },
+    {
+      "name": "",
+      "text": "Yamanin Zephyr nói với vẻ mặt mãn nguyện. Nhưng chẳng may là lúc này không một ngọn gió thổi qua, và bầu trời đêm cũng đầy mây chẳng thấy lấy một ánh sao...",
+      "jpname": "モノローグ",
+      "jptext": "満足そうに言うヤマニンゼファー。\nしかしあいにくと風は吹いておらず、星も見えない曇り空だ……。",
+      "choice_data_list": [
+        "Thế này thì chẳng khác nào chỉ đi dạo bình thường, liệu có ổn không em?",
+        "Thế này thì chẳng khác nào chỉ đi dạo bình thường, liệu có ổn không bạn?"
+      ],
+      "jpchoice_data_list": [
+        "これだと、ただの散歩だけどいいのか？",
+        "これだと、ただの散歩だけどいいの？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ được chứ ạ... vì chúng ta đang đón gió mà. Cần phải đợi lúc hoàng hôn lặng gió qua đi thì gió mới bắt đầu thổi.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい……風待ちですから。\n夕凪が過ぎて、風が吹き始めるには時間がかかります。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng việc ấy cũng chẳng bao lâu đâu ạ. Sớm thôi, chúng ta sẽ lại được hội ngộ cùng ngọn gió em từng bắt gặp ở đây ban sáng――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "けれど、それも少しのことでしょう。\nじきに、朝ここで出会った風とまた会えるはず――",
+      "choice_data_list": [
+        "Ngọn gió ban sáng..."
+      ],
+      "jpchoice_data_list": [
+        "朝の風……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Chào buổi sáng em, em mới đi dạo về à?\"",
+      "jpname": "モノローグ",
+      "jptext": "『おはよう、散歩の帰り？』"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Vâng ạ. Được dẫn lối bởi làn gió lạ mang theo hơi ấm của ánh dương, em đã đi tìm xem nơi nào có ngọn gió mát lành thổi qua, nhưng mà...\"",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい。陽をふくむ新風の気配に誘われまして。\n涼風の通りを探していたのですが……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Ngay lúc này, ngọn gió biển ban mai cuối cùng đã thổi lướt qua đất liền rồi. ...Từ phía của Trainer-san sao?\"",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今、ようやく朝の海風が、陸へ吹き抜けました。\n……トレーナーさんの、方から？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Gió biển buổi sáng sau khi trải qua lúc hoàng hôn lặng gió sẽ chuyển thành ngọn gió từ đất liền thổi ra. Nếu chúng ta đợi gió ở đây, nhất định...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "朝の海風は、夕凪を経て陸風となりますから。\nここで風を待てば、きっと。"
+    },
+    {
+      "name": "",
+      "text": "Buổi sáng, ngọn gió từ biển thổi vào đất liền, rồi đến đêm lại từ đất liền quay trở về biển. Dường như ý em là ngọn gió em cảm nhận sáng nay cũng sắp sửa trở lại nơi này.",
+      "jpname": "モノローグ",
+      "jptext": "朝、海から陸へ吹いた風は、夜には陸から海へ戻っていく。\nだから、朝ここで感じた風もじきに戻る……ということのようだ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em muốn gặp lại để xác thực xem. Ngọn gió mát lành ấy rốt cuộc đã bắt nguồn từ đâu.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "会って、確かめたい。\nあの涼風が、いかなる起こりであったものなのか。"
+    },
+    {
+      "name": "",
+      "text": "...Cũng là vì mong ước thiết tha của em, tôi muốn mình có thể sớm nhận ra ngọn gió ấy nhất. Khi tôi đang dồn hết sự tập trung――",
+      "jpname": "モノローグ",
+      "jptext": "……切望する彼女のためにも、いち早く風に気づきたい。\nそう気合いを入れていると――"
+    },
+    {
+      "name": "",
+      "text": "(Xào xạc!)",
+      "jpname": "モノローグ",
+      "jptext": "（ガサガサッ）",
+      "choice_data_list": [
+        "Tiếng gió thổi...!?"
+      ],
+      "jpchoice_data_list": [
+        "風の音……！？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ủa kìa...? Fufu, là bạn Khăn Tay nhỉ. Không ngờ lại được gặp bạn ở nơi như thế này.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あら……？　ふふっ、ハンカチさんですね。\nこんなところでお会いできるなんて。",
+      "choice_data_list": [
+        "S-Sóc bay sao..."
+      ],
+      "jpchoice_data_list": [
+        "ム、ムササビか……"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A, Trainer-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あ、トレーナーさん。",
+      "choice_data_list": [
+        "! Gió đã thổi rồi sao em?"
+      ],
+      "jpchoice_data_list": [
+        "！風、吹いた？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ chưa, lần này là bạn Đeo Kính cơ ạ. Đến cả bạn Đeo Kính cũng ở đây, nơi này hẳn phải là một chốn ngập tràn ngọn gió ấm áp và thanh bình nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "いえ、今度はメガネさんです。メガネさんがいるなんて、\nここはきっと、ひかたでおぼせな場所なのでしょうね。"
+    },
+    {
+      "name": "",
+      "text": "Từ phía trước tầm mắt nơi Yamanin Zephyr đang mỉm cười rạng rỡ―― vẳng lại tiếng cú mèo kêu gù gù...",
+      "jpname": "モノローグ",
+      "jptext": "嬉しそうに微笑むヤマニンゼファーの視線の先から――\nホーホーッという、フクロウの声が……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ở đằng kia còn có cả bạn Vỗ Cánh nữa kìa. Fufu, mọi người trông như đang cùng nhau khiêu vũ một điệu valse vui vẻ...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あちらには、パタパタさんもおりますね。\nふふっ、みんなで楽しそうなワルツ……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Ưm... Phù...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……んん～っ…………ふぅ……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Nơi này quả là một khu rừng tuyệt vời... Giống như ngọn gió ấm ở quê hương em, bầu không khí... trong veo... thật dễ chịu làm sao.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ここは、いい森ですね……。\n故郷のひかたに似て、空気が……澄んで……心地いい。",
+      "choice_data_list": [
+        "Giờ mà có gió thổi qua nữa thì hoàn hảo nhỉ.",
+        "Giờ mà có gió thổi qua nữa thì hoàn hảo nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "後は、風が吹けば完璧なのにな",
+        "後は、風が吹けば完璧なのにね"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "――...?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "――……？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Gió... vâng, bầu khí quyển vẫn đang lặng câm... Thế nhưng――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風……ええ、大気は凪のまま……。\nけれど――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Cảm giác khoan khoái này... lại hệt như ngọn gió mát lành ấy――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "この心地は……あの、涼風と――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...A, hóa ra là như vậy sao.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……ああ、そうだったのですね。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em từng thấy rất lạ lùng. Tại sao em lại có thể cảm nhận ngọn gió mát lành... rõ rệt đến dường này.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "不思議だったんです。\nなぜこんなにもよく……涼風を、感じられるのか。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sáng nay cũng vậy. Khi tiếng gió rặng thông không thổi đến, ngọn gió hanh khô đã toan lẻn vào lòng em. Đúng lúc ấy――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今朝もそうです。松風が吹かず、心に乾風が忍び込もうとした。\nその時――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngọn gió đã vụt bay tới. Một luồng khí thanh mát tựa hồ cơn gió biển sớm mai――... bắt nguồn từ chính anh.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風が、駆けた。\n朝の海風とばかりに、涼やかな流れが――……あなたから。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vì vậy... em từng ngỡ rằng chỉ cần có anh ở bên, em sẽ được hội ngộ cùng làn gió mát. Thế nhưng...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "だから……あなたがいると、涼風に出会えるのだろう。\nそう思っていたんです。けれど……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngay cả lúc này khi trời lặng gió, ngọn gió ấy vẫn đang khẽ lay động trong tim em. ...Trainer-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風のない今も、同じ風が心にそよいでいる。\n……トレーナーさん。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Anh chính là hơi thở của sự sống. Là hiện thân... của chính ngọn gió khoan khoái êm đềm ấy.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あなたこそが、息吹。\n心地よい風……そのものだったんですね。",
+      "choice_data_list": [
+        "Zephyr..."
+      ],
+      "jpchoice_data_list": [
+        "ゼファー……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một cô gái khao khát ngọn gió tự do và thích một mình như em... lại cảm thấy an yên và dễ chịu khi có tôi ở bên cạnh.",
+      "jpname": "モノローグ",
+      "jptext": "自由な風に憧れ、独りを好む彼女が……\n自分が傍にいることを心地よく感じてくれている。",
+      "choice_data_list": [
+        "...Từ nay về sau, anh cũng sẽ gửi đến em những ngọn gió tuyệt vời nhất."
+      ],
+      "jpchoice_data_list": [
+        "……これからも、いい風を送るよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Để đáp lại tâm ý của em, tôi sẽ dốc hết lòng gửi đến em những ngọn gió lành nhất. Đúng vào lúc tôi vừa hạ quyết tâm... thì bất ngờ――!",
+      "jpname": "モノローグ",
+      "jptext": "彼女の想いに応えるためにも、自分は精一杯の風を送ろう。\nそう心に決めた……その時――！"
+    },
+    {
+      "name": "",
+      "text": "(Vùuuu――!)",
+      "jpname": "モノローグ",
+      "jptext": "（ビュオォッ――！）"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi kìa, Trainer-san! Đằng này anh ơi, theo tiếng gió rít nào!",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ、トレーナーさん。こちらです、颯に！"
+    },
+    {
+      "name": "",
+      "text": "Đuổi theo ngọn gió, nơi chúng tôi đặt chân tới... chính là biển cả. Bầu trời đêm dường như được cơn gió cuốn sạch mây mù, để lộ muôn ngàn vì sao lấp lánh phản chiếu trên mặt nước.",
+      "jpname": "モノローグ",
+      "jptext": "風を追いかけ、たどり着いた先は……海。\n先ほどの風で晴れたらしい星空が、水面を輝かせている。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Là ngọn gió lành khải hoàn... ngọn gió tuyệt vời hơn bất kỳ cơn gió nào em từng cảm nhận trước đây.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "凱風です……これまでに、感じたことがないほどの。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Liệu một ngày nào đó, em có thể đón nhận trọn vẹn ngọn gió này không nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……いつか、この風も受けることができるでしょうか。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lại một lần nữa... chỉ hai chúng ta...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "また……2人で……。",
+      "choice_data_list": [
+        "Nhất định rồi, chúng ta sẽ cùng đón nhận nó."
+      ],
+      "jpchoice_data_list": [
+        "きっと、受けよう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cùng với Yamanin Zephyr khẽ gật đầu, tôi ngước nhìn bầu trời đầy sao trong giây lát. Ngọn gió hướng về phía biển cả cứ thế êm đềm trôi đi mãi.",
+      "jpname": "モノローグ",
+      "jptext": "そっとうなずいたヤマニンゼファーと、しばらく満天の星を\n見上げた。海へ向かう風は、どこまでも穏やかに流れるのだった。"
+    }
+  ]
+}

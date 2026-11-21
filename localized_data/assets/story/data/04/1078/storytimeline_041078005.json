@@ -1,0 +1,270 @@
+{
+  "title": "Tự tại như gió",
+  "jptitle": "風、気ままに",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Bất chợt ngửi thấy hương thơm cây cỏ, tôi ngẩng đầu lên thì thấy Yamanin Zephyr xuất hiện, tựa hồ đang đuổi theo ngọn gió đầu hạ.",
+      "jpname": "モノローグ",
+      "jptext": "ふと、緑の香りを感じて顔を上げると、\n初夏の風を追うようにしてヤマニンゼファーが現れた。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ơ kìa? Có phải Trainer-san cũng được ngọn gió nam mời gọi không ạ. Tiết trời quả thật vô cùng dễ chịu nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あら？　トレーナーさんも白南風に誘われましたか。\n過ごしやすい陽気ですものね。",
+      "choice_data_list": [
+        "Em đang đi có việc gì sao?"
+      ],
+      "jpchoice_data_list": [
+        "どこかへ用事？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ không, việc bận của em là... lặng gió ạ. Thế nên em đang định tìm xem nơi nào là lý tưởng nhất để đón ngọn gió nam này.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "いえ、用事は……凪です。ですので、\nこの白南風を受けるのに1番よい場所を探してみようかと思い。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A, gió lại vừa khẽ lay rồi kìa. Vậy em xin phép đi trước nhé Trainer-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ああ、またそよぎましたね。\nではトレーナーさん、失礼いたします。"
+    },
+    {
+      "name": "",
+      "text": "\"Việc bận là lặng gió\"... Đoán theo ngữ cảnh thì chắc là em không có kế hoạch gì đặc biệt. Từ trước đến giờ thỉnh thoảng tôi vẫn thấy dáng vẻ em thong thả dạo bước khắp trường.",
+      "jpname": "モノローグ",
+      "jptext": "『用事は凪』……文脈から察するに、特に予定はないのだろう。\nこれまでも時々、気ままに校内を歩く姿を見たことがある。"
+    },
+    {
+      "name": "",
+      "text": "Vừa lúc đó thì――",
+      "jpname": "モノローグ",
+      "jptext": "と、そこへ――"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Zephyr-san ơiii! Nếu chị ở đây thì trả lời em với ạaa! ...Huhu... đằng này cũng không có sao...",
+      "jpname": "ウマ娘A",
+      "jptext": "ゼファーさ～ん！　いたら返事してくださーい！\n……ううう～～っ……ここにもいないかぁ……。",
+      "choice_data_list": [
+        "Zephyr mới vừa ở đây ban nãy đấy em..."
+      ],
+      "jpchoice_data_list": [
+        "ゼファーならついさっきまでいたけど……"
+      ]
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Hả!? ――Khoan đã, nếu em nhớ không nhầm... thì thầy là Trainer của Zephyr-san đúng không ạ!?",
+      "jpname": "ウマ娘A",
+      "jptext": "え！？　――って、たしか貴方……\nゼファーさんのトレーナーさん、ですよね！？"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Thầy có thể giúp em tìm Zephyr-san được không ạ!? Buổi liên hoan lớp chỉ còn mỗi Zephyr-san là em chưa hỏi được có tham gia hay không thôi...!",
+      "jpname": "ウマ娘A",
+      "jptext": "ゼファーさんを捜すの、手伝ってくれませんか！？\nクラスの懇親会、ゼファーさんの出欠だけ聞けてなくって……！"
+    },
+    {
+      "name": "",
+      "text": "Cân nhắc theo hướng Yamanin Zephyr vừa bước đi, trước tiên tôi ngó thử vào nhà ăn học viện, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "ヤマニンゼファーが歩き去った方角から考え、\nまずはカフェテリアをのぞいてみたが――"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Zephyr-chan á? Dạ có, lúc nãy bạn ấy vừa ở đây nè. Nhưng mà nói cái gì mà gió chiều này nọ rồi lại đi đâu mất tiêu...",
+      "jpname": "ウマ娘B",
+      "jptext": "ゼファーちゃん？　うん、さっきまでいましたよ～。\nでも、夕風がどうこうって言ってどこかへ……。",
+      "choice_data_list": [
+        "\"Gió chiều\", nghĩa là..."
+      ],
+      "jpchoice_data_list": [
+        "『夕風』って、ことは……"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Phù... Ngọn gió chiều thật khoan khoái làm sao.\"",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふう……心地よい夕風。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Nơi này là nơi đón ngọn gió tuyệt vời nhất trong học viện đấy ạ. Đặc biệt vào mùa này, thời khắc này chính là lúc gió trong lành nhất.\"",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ここは、学園の中で1番いい風が吹く場所なんです。\n特に今の季節は、この時間が1番の清風です。"
+    },
+    {
+      "name": "",
+      "text": "Đúng rồi... khi lần đầu gặp gỡ, em ấy quả thực đã nói như vậy. Nhất định là ở nơi đó――!",
+      "jpname": "モノローグ",
+      "jptext": "そう……彼女に初めて出会った時、たしかに言っていた。\nあの場所にきっと――！"
+    },
+    {
+      "name": "Mã Nương C",
+      "text": "A, Zephyr-san thì đang ở đằng ki――",
+      "jpname": "ウマ娘C",
+      "jptext": "ああ、ゼファーさんならあそこに――"
+    },
+    {
+      "name": "Mã Nương C",
+      "text": "――Ủa, đi đâu mất rồi!? Lạ thật, vừa mới tức thì bạn ấy còn ở đây mà ta...!",
+      "jpname": "ウマ娘C",
+      "jptext": "――って、いない！？\nおかしいな、本当に今の今までいたんですけど……！"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Hảaa, sao kỳ vậy! Sao mà không tài nào đuổi kịp được thế này?!",
+      "jpname": "ウマ娘A",
+      "jptext": "ええ～、そんな！　どうして追いつけないの～！？"
+    },
+    {
+      "name": "",
+      "text": "Tựa như một làn gió thoảng, Yamanin Zephyr thoắt ẩn thoắt hiện chẳng thể nào bắt kịp. Không biết em đã đi đâu tiếp, khi tôi đang đứng trên sân thượng ngó nghiêng tìm kiếm quanh trường――",
+      "jpname": "モノローグ",
+      "jptext": "流れる風のように、捕まえられないヤマニンゼファー。\n次はどこに行ったのかと、屋上から周辺を見回していると――",
+      "choice_data_list": [
+        "K-Kìa rồi――!!"
+      ],
+      "jpchoice_data_list": [
+        "い、いた――！！"
+      ]
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Cuối cùng cũng tìm thấy rồi!! Em tìm chị muốn hụt hơi luôn đó, Zephyr-san!",
+      "jpname": "ウマ娘A",
+      "jptext": "やっと見つけた～～！！　捜したよ、ゼファーさんっ！"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi chao, trông em vội vã như cơn bão hạ ấy nhỉ. Em tìm chị có việc gì sao?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ、ずいぶんと青嵐なご様子ですね。\n私に何かご用でしょうか？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "――Thế thì thật có lỗi vì để em phải cất công tìm kiếm. Chị cứ ngỡ mình đã nhắn là lặng gió rồi chứ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "――それは、わざわざ申し訳ありません。\nすでに凪とお伝えしたつもりでおりました。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Chị chẳng thể biết trước ngọn gió thổi qua sẽ về đâu, nếu làm dấy lên cơn bão giữa trời quang thì sợ là quá đường đột.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "吹き渡る風の行く先は知らず、\n晴天に嵐を起こしてはあからしまかと思いまして。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "............Dạ?",
+      "jpname": "ウマ娘A",
+      "jptext": "…………えっと？"
+    },
+    {
+      "name": "",
+      "text": "Lời nói của Yamanin Zephyr vẫn khó hiểu như mọi khi... Nhưng từ \"lặng gió\" là từ em vừa dùng lúc tôi hỏi em có việc bận gì không.",
+      "jpname": "モノローグ",
+      "jptext": "ヤマニンゼファーの言葉は相変わらず難解だが……\n『凪』という言葉は、先ほど用事があるか聞いた際にも使っていた。"
+    },
+    {
+      "name": "",
+      "text": "\"Việc bận là lặng gió\" mang hàm ý phủ định là không có việc gì bận rộn. Nếu vậy thì lần này cũng――",
+      "jpname": "モノローグ",
+      "jptext": "『用事は凪』は、用事はないと否定する意味だった。\nであれば、今回も――",
+      "choice_data_list": [
+        "Ý em là không tham gia buổi liên hoan sao...?"
+      ],
+      "jpchoice_data_list": [
+        "懇親会は不参加、ってこと……？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng ạ, vì em chẳng thể đoán trước được ngọn gió.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい、風の先読みはできませんので。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Đoán trước... không đọc trước được... A! Có phải ý chị là chưa rõ lịch trình nên không dám hứa trước không ạ?",
+      "jpname": "ウマ娘A",
+      "jptext": "先読み……先が読めない……\nあっ！　もしかして予定がわからない、ってことかな？"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Ra là thế, hôm đó có thể có lịch tập luyện nữa mà nhỉ. Em hiểu rồi! Em cảm ơn thầy Trainer nhiều vì đã giúp em nha!",
+      "jpname": "ウマ娘A",
+      "jptext": "そっか、トレーニングがあったりするかもだもんね。\n了解！　トレーナーさんも、ご協力ありがとうございました～！"
+    },
+    {
+      "name": "",
+      "text": "(Bịch bịch bịch...)",
+      "jpname": "モノローグ",
+      "jptext": "（パタパタパタ……）",
+      "choice_data_list": [
+        "Nếu là lịch tập luyện thì anh có thể điều chỉnh được mà?"
+      ],
+      "jpchoice_data_list": [
+        "トレーニングの予定なら、調整できるよ？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Dạ không đâu ạ. Bởi vì em muốn cứ để mặc theo hướng gió thổi.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……いいえ。\n風の向くままでいたいと、そう思いますので。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Khoảng thời gian sum vầy thư giãn cùng mọi người em cũng rất thích. Nhưng em cũng muốn trân trọng những phút giây thảnh thơi một mình tận hưởng ngọn gió ấm áp...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "みんなでいて憩う時間も、好ましくはあるのです。\nけれど同じくらい、独りでいるひかたも大切にしたく……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Sắc màu của ngọn gió thổi qua mỗi lúc một khác biệt. Chính vì vậy, em muốn giữ cho mình khoảng không gian lựa chọn chứ không muốn bị trói buộc như chiếc chong chóng đo gió.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "吹く風の色は、その時々で違いますから。\nであればこそ、風見の鶏をつながず選ぶ余地を残していたい。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Em muốn được thuận theo tự nhiên hơn. Liệu sẽ là ngọn gió núi lạnh giá hay làn gió quang đãng sau mưa, ngày mai thế nào chẳng ai đoán định được.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……より、自然でありたいのです。\nおろしとなるか、光風か。明日などわからないものですから。",
+      "choice_data_list": [
+        "Thế nên em mới không hẹn ước trước sao...?"
+      ],
+      "jpchoice_data_list": [
+        "だから、約束しなかった……？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng ạ. Để em... được là chính mình.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい。私が……私としてあるために。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngọn gió vốn tự do... và nếu đã vậy, thì em cũng thế...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風は自由……であるならば、私も……。"
+    },
+    {
+      "name": "",
+      "text": "Muốn thuận theo tự nhiên, muốn tự do tự tại... chính từ suy nghĩ ấy mà em không muốn ràng buộc vào những lời hẹn trước. Một nhân sinh quan thật kỳ lạ, nhưng tôi lại thấy nó rất đỗi phù hợp với em.",
+      "jpname": "モノローグ",
+      "jptext": "自然で、自由でありたい……その想いから、約束を結ばない。\n不思議な価値観だが、彼女らしいとも思う。"
+    },
+    {
+      "name": "",
+      "text": "Thứ gọi là \"tự nhiên\" và \"tự do\" trong lời em rốt cuộc là điều như thế nào. Với tư cách là Trainer đảm nhận của em, tôi thực sự muốn thấu hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の言う『自然』で『自由』とはどういったものなのか。\n担当トレーナーとして、知りたいと思うのだった。"
+    }
+  ]
+}

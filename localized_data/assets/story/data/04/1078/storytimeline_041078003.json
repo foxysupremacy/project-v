@@ -1,0 +1,440 @@
+{
+  "title": "Ấp ủ ngọn gió",
+  "jptitle": "風、秘めて",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Tôi nhận được tin việc tham gia Trận Tuyển chọn của Yamanin Zephyr bị hủy bỏ ngay vào ngày trước khi trận đua diễn ra.",
+      "jpname": "モノローグ",
+      "jptext": "ヤマニンゼファーの選抜レースへの出走が取り消しになったと\n聞いたのは、レース前日のことだった。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ư, ư ư... Chân của em... Tại sao... lại là em... một lần nữa cơ chứ...!",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "う、うう……脚が……。\nどうして……私は……また……！"
+    },
+    {
+      "name": "Giáo viên phòng y tế",
+      "text": "Thật là... em đã tập luyện liều lĩnh đến mức nào thế. Chấn thương như thế này là tất nhiên thôi. Tình trạng này thì không thể nào tham gia thi đấu được đâu.",
+      "jpname": "保健室の先生",
+      "jptext": "まったく……なんて無茶なトレーニングをしたの。\nこれじゃケガをして当たり前よ。これではレースは無理ね。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Không, em vẫn sẽ chạy. Ngọn gió một khi đã bắt đầu thổi thì không ai có thể ngăn lại được đâu ạ――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "いいえ、レースには出ます。\n1度吹き始めた風を、止めることはできないのです――"
+    },
+    {
+      "name": "Giáo viên phòng y tế",
+      "text": "Đừng có nói ngốc nghếch như thế. Nếu bây giờ em cố quá sức, có thể em sẽ vĩnh viễn không bao giờ chạy được nữa đấy.",
+      "jpname": "保健室の先生",
+      "jptext": "バカなことを言わないで。今、無茶をしたら\n2度と走れなくなるかもしれないのよ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lặng gió không phải là gió ngừng lại, mà là biến mất... Nếu không thể hóa thành ngọn gió trong trận đua, thì em――!",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "凪とは風が止まることではなく、消えること……\nレースの中で風となれないのなら、私は――！",
+      "choice_data_list": [
+        "Bình tĩnh lại đã nào, Zephyr.",
+        "Bình tĩnh lại đã nào, Zephyr."
+      ],
+      "jpchoice_data_list": [
+        "落ち着くんだ、ゼファー",
+        "落ち着いて、ゼファー"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước ý chí mạnh mẽ đến mức đáng lo ngại của Yamanin Zephyr, tôi đề nghị đưa em đến một viện dưỡng bệnh cách xa học viện.",
+      "jpname": "モノローグ",
+      "jptext": "危ういほどに強い意志を見せるヤマニンゼファーに、\n学園から離れた療養所に行くことを提案した。"
+    },
+    {
+      "name": "",
+      "text": "Trước đây em từng nói đón nhận những ngọn gió giúp em bình tâm lại. Một viện dưỡng bệnh giữa thiên nhiên chắc chắn là nơi em cần vào lúc này.",
+      "jpname": "モノローグ",
+      "jptext": "以前に風に吹かれて気持ちを落ち着けると言っていた。\n自然に囲まれた療養所は、今の彼女に必要な場所のはずだ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Giờ này, trên trường đua hẳn có biết bao Mã Nương đang tranh tài để hướng về ngọn gió... Thế mà em lại đang làm gì ở chốn này cơ chứ...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今頃、レース場では多くのウマ娘が風を目指し競い合って\nいるのでしょうね……なのに私は、何をしているのでしょう……。",
+      "choice_data_list": [
+        "Zephyr, uổng phí cảnh đẹp lắm đấy."
+      ],
+      "jpchoice_data_list": [
+        "ゼファー、もったいないよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đã đến một nơi có phong cảnh hữu tình nhường này, mà lại để tâm trí bận lòng về những chuyện xa xôi thì uổng phí biết bao.",
+      "jpname": "モノローグ",
+      "jptext": "これだけ景色のいい場所に来ているのに、\nどこか遠くのことを気にしているのはもったいない。"
+    },
+    {
+      "name": "Chim hoang dã",
+      "text": "Tsu-pi, tsu-pi, tsu-pi......",
+      "jpname": "野鳥",
+      "jptext": "ツッピィ、ツッピィ、ツッピィ……。",
+      "choice_data_list": [
+        "Kìa, chú chim nhỏ cũng đang muốn em để ý đến nó đấy."
+      ],
+      "jpchoice_data_list": [
+        "ほら、鳥も構ってほしいって言ってるよ"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Đó là tiếng của bạn Cà Vạt nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……ネクタイさんの声ですね。",
+      "choice_data_list": [
+        "Tiếng của... bạn Cà Vạt?"
+      ],
+      "jpchoice_data_list": [
+        "ネクタイさん……の声？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng. Kìa, bạn ấy đang ở đằng kia kìa.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ええ。ほら、あそこにいるでしょう？"
+    },
+    {
+      "name": "",
+      "text": "Đó là một chú chim bạc má. Loài chim hoang dã có hoa văn đặc trưng trông như chiếc cà vạt, so với \"bạn Daruma\" thì dễ hiểu hơn nhiều... cứ cho là vậy đi.",
+      "jpname": "モノローグ",
+      "jptext": "シジュウカラだ。ネクタイのような模様が特徴の野鳥で、\n『だるまさん』に比べればわかりやすい……としておこう。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Cho đến tận lúc này, em thậm chí còn chẳng nghe thấy tiếng chim hót... Phải chăng tâm hồn em đang bị cơn gió hanh khô xâm chiếm.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……今まで、鳥の声も聞こえていませんでした……。\n心が、乾風に吹かれていたのでしょうか。"
+    },
+    {
+      "name": "",
+      "text": "Em đã bắt đầu chú ý đến cảnh vật xung quanh, đó là một dấu hiệu tốt. Nếu dạo quanh thêm nhiều nơi nữa, có lẽ lòng em sẽ thanh thản hơn.",
+      "jpname": "モノローグ",
+      "jptext": "周囲に目を向けられるようになったのはいい傾向だ。\nもっといろいろな場所に行けば心も落ち着くかもしれない。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A... ngọn gió khoan khoái làm sao. Cứ như một ngọn gió gột rửa tâm hồn em vậy.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ああ……なんて心地よい風。\nまるで私の心の浚いの風です。",
+      "choice_data_list": [
+        "Em đã thấy bình tĩnh hơn chút nào chưa?"
+      ],
+      "jpchoice_data_list": [
+        "少しは落ち着いた？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng... đúng vậy ạ. Em xin lỗi anh nhé, Trainer-san. Để anh phải chứng kiến bộ dạng đáng xấu hổ khi em toan thổi bùng ngọn gió đông lạnh buốt giữa mùa hè...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ええ……そうですね。すみませんでした、トレーナーさん。\n夏に凩を吹かそうなんて、お恥ずかしい姿をお見せして……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ở nơi này làm em nhớ lại chuyện ngày xưa. Thuở bé thể trạng em vốn không được khỏe mạnh, nên phần lớn thời gian em đều sống giữa thiên nhiên.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ここにいると昔を思い出します。私は、体が丈夫ではなかったので、\n自然に囲まれた場所で過ごすことが多かったんです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Bạn chơi cùng em chỉ có chim chóc và thú rừng. Có những ngày em ngồi lắng nghe tiếng chim suốt từ sáng đến tối. Đó là một cuộc sống rất êm đềm, thế nhưng――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "遊び相手といったら野鳥や動物たち。日がな一日、鳥の声に耳を\n傾けていることもありました。それは心地よい生活でしたが――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Đồng thời, giữa thiên nhiên bao la, em lại thấy mình chỉ là một làn gió nhẹ tênh vô lực. Đến cả tạo nên một gợn sóng lăn tăn em cũng chẳng làm nổi.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "同時に、自然の中では、自分がいかに至軽風なのかと\n思わされました。私にはさざ波を起こす力もないのだ、と。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nên, em đã luôn hằng ước ao. Ước rằng mình có thể hóa thành ngọn gió――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "だから、私はずっと願っていたのです。\n風になりたい――と。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngọn gió vừa tự do, nhẹ nhàng lại vừa mạnh mẽ, và hơn hết... chẳng một ai có thể cản ngăn bước đường của nó.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風は自由で軽やかで力強く、そして……\n決して何者にも邪魔をされない。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Đối với một người thậm chí còn chẳng thể chạy nhảy như em khi ấy... ngọn gió chính là hiện thân của sự lý tưởng.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "走ることもままならなかった、当時の私にとって……\n風は理想そのものだったんです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng, vào lúc đó, nó cũng chỉ là một niềm khao khát mơ hồ. Cho đến khi em tìm ra mục tiêu thực sự mà mình phải hướng tới, chính là khoảnh khắc ấy――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "けれど、その時は漠然とした憧れにすぎませんでした。\n私が本当に目指すべきものを見つけたのはあの時――"
+    },
+    {
+      "name": "",
+      "text": "(OAAAAAAA!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワアアアアアアアアアアッ！）"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Tình cờ chứng kiến một trận đua... em đã nhìn thấy ngọn gió. Dáng chạy hiện thân trọn vẹn cho ngọn gió trời.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "偶然、目にしたレースで……私は風を見たんです。\n風を体現したあの走りを。",
+      "choice_data_list": [
+        "Đó là Mã Nương mà em ngưỡng mộ sao?",
+        "Đó là Mã Nương mà bạn ngưỡng mộ sao?"
+      ],
+      "jpchoice_data_list": [
+        "それが、君が憧れているウマ娘？",
+        "それが、貴方が憧れているウマ娘？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng... bóng hình ấy đích thực là ngọn gió. Ngọn gió tung hoành khắp đồng nội. Niềm khao khát mơ hồ của em đã trở thành mục tiêu rõ ràng kể từ thời khắc đó.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ええ……あの姿は、まさに風。野を馳せる風。\n漠然とした憧れが、明確な目標となったのはあの時からです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em đã nhận ra rằng: ngọn gió mà em tìm kiếm chỉ có thể tồn tại trên trường đua, và chỉ khi sải bước trong trận đua em mới có thể hóa thành ngọn gió thực thụ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "私は思いました。私の求める風はレース場にしかなく、\nレースの中でしか本当の風になることはできないのだと。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Những điều này, em chưa từng hé môi với bất kỳ ai... Tại sao lại thế nhỉ? Khi trò chuyện cùng anh, em lại buột miệng thổ lộ...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "こんなこと、人に言ったことはなかったんですが……\nどうしてでしょう？　あなたと話していたらつい……。"
+    },
+    {
+      "name": "",
+      "text": "Phải chăng em đã có chút tin tưởng tôi rồi? Nếu đúng là như vậy――",
+      "jpname": "モノローグ",
+      "jptext": "少しは信頼されているということだろうか。\nもしそうなら――",
+      "choice_data_list": [
+        "Hãy để anh cùng em tham gia phục hồi chức năng nhé?",
+        "Hãy để tôi cùng bạn tham gia phục hồi chức năng nhé?"
+      ],
+      "jpchoice_data_list": [
+        "リハビリに協力させてくれないか？",
+        "リハビリに協力させてくれない？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Em không hiểu vì sao anh lại sẵn lòng vì em đến vậy, nhưng xin cho phép em được nương nhờ ngọn gió thuận buồm này mà ỷ lại vào anh nhé.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……どうしてそこまでしてくださるのかわかりませんが、\nこれも帆風に乗るのだと甘えさせてください。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em cảm ơn anh nhiều lắm, Trainer-san. Quả nhiên anh chính là ngọn gió lành ấm áp.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ありがとうございます、トレーナーさん。\nやっぱりあなたは凱風なのですね。"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, quá trình phục hồi chức năng kề vai sát cánh cùng Yamanin Zephyr đã bắt đầu!",
+      "jpname": "モノローグ",
+      "jptext": "こうしてヤマニンゼファーとの二人三脚のリハビリが始まった！"
+    },
+    {
+      "name": "",
+      "text": "Để hồi phục sau chấn thương, cần phải lưu ý không tạo áp lực quá tải trong lúc tập luyện. Trước hết hãy bắt đầu rèn luyện từ cơ trung tâm.",
+      "jpname": "モノローグ",
+      "jptext": "ケガからの復帰のためには、負荷をかけすぎないトレーニングを\n心掛けなくてはいけない。まずは体幹から鍛えよう。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ý thức về trục cơ thể... động tác phải chuẩn xác... không được quên việc giữ vững tư thế đến tận các đầu chi... và nhóm cơ sâu trong là một cơn bão.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "体の配列を意識して……動作は正確に……末端まで整えることを\n忘れない……そしてインナーマッスルは嵐。"
+    },
+    {
+      "name": "",
+      "text": "Tập luyện dưới hồ bơi là một giáo án phục hồi lý tưởng, giúp tác động lên toàn thân mà không gây áp lực lên các khớp xương.",
+      "jpname": "モノローグ",
+      "jptext": "プールトレーニングは関節に負担をかけず\n全身に負荷をかけられる、理想的なリハビリメニューだ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lúc này em là ngọn gió ngoài khơi xa. Kẻ thích khách lướt đi trên mặt nước...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今の私は沖つ風。水面を駆ける刺客……。"
+    },
+    {
+      "name": "",
+      "text": "Ăn uống cũng là một phần của tập luyện. Cơ thể bị tổn thương cần được nạp đạm. Hạn chế calo và bổ sung cân bằng vitamin cùng khoáng chất.",
+      "jpname": "モノローグ",
+      "jptext": "食事もトレーニングだ。ダメージを負った体にはタンパク質。\nカロリーを控えて、ビタミンミネラルをバランスよく。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A... bụng của em đang được lấp đầy bởi ngọn gió của bữa tiệc thịnh soạn...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ああ……お腹が饗の風で満たされます……。"
+    },
+    {
+      "name": "",
+      "text": "Điều quan trọng hơn hết là không được gượng ép quá sức. Nghỉ ngơi cũng phải được xem như một phần của giáo án tập luyện.",
+      "jpname": "モノローグ",
+      "jptext": "何よりも重要なのが、無理をしないこと。\n休息もまたトレーニングの一環と考えなくてはならない。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi chao, bạn Trà Xanh hôm nay cũng cuộn tròn như viên bánh dango nhỉ. Mọi người cứ xếp hàng thế kia, khéo một cơn gió mạnh thổi qua là lăn lông lốc mất. Fufu...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あらあら、お抹茶さんは今日もおだんごですね。\nみんな並んでいると煽風でころころしそうです。ふふ……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Trainer-san. Em đã hoàn thành giáo án rồi ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "トレーナーさん。メニュー、終わりましたよ。",
+      "choice_data_list": [
+        "Tốt lắm, giáo án hôm nay tới đây thôi.",
+        "Ừm, giáo án hôm nay tới đây thôi nhé."
+      ],
+      "jpchoice_data_list": [
+        "よし、今日のメニューは以上だ",
+        "うん、今日のメニューは以上だね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mọi việc tiến triển vô cùng thuận lợi. Không bao lâu nữa em sẽ có thể tiếp tục tập luyện lại trên đường chạy.",
+      "jpname": "モノローグ",
+      "jptext": "ここまではかなり順調だ。遠からずコースでのトレーニングを\n再開することができるだろう。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dạ... em cảm ơn anh nhiều lắm.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あの……ありがとうございます。",
+      "choice_data_list": [
+        "...? Tự nhiên trang trọng thế, có chuyện gì sao?",
+        "...? Tự nhiên trang trọng thế, có chuyện gì sao?"
+      ],
+      "jpchoice_data_list": [
+        "……？改まってどうした？",
+        "……？改まってどうしたの？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Chính bản thân em cũng cảm nhận được mọi chuyện đang tiến triển rất tốt. Trước đây lúc tự mình chữa trị chấn thương, em đã chật vật hơn nhiều...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "自分でも、上手くいっているのがわかるんです。\n自分でケガを治そうとしていた時はもっと大変でしたから……。",
+      "choice_data_list": [
+        "Đó là vai trò của Trainer mà.",
+        "Đó là vai trò của Trainer mà."
+      ],
+      "jpchoice_data_list": [
+        "それがトレーナーの役割だからな",
+        "それがトレーナーの役割だからね"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Những cảm xúc vẩn đục không hề tương xứng với ngọn gió. Bất an, sợ hãi, dục vọng... Em không muốn mang những tâm tư thừa thãi ấy lên trường đua.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "濁った想いは風にふさわしくありません。不安、恐怖、欲……\n私はそんな余計な想いをレース場に持ち込みたくないんです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ở nơi đó, điều duy nhất em muốn nghĩ tới chỉ có ngọn gió mà thôi――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あの場所で私が想いたいことは、ただ風のことだけ――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng, mỗi lần dính chấn thương, em lại bị những cơn gió hanh khô bủa vây. Tâm trí em bị vẩn đục, và em dần rời xa khỏi ngọn gió...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "なのに、ケガをするたびに乾風に襲われていました。\n私の心が濁り、風から離れていた……。"
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng tôi cũng hiểu vì sao lại có tin đồn rằng em \"không có nhiệt huyết\".",
+      "jpname": "モノローグ",
+      "jptext": "なぜ彼女に『やる気がない』なんて噂が出たのかやっとわかった。"
+    },
+    {
+      "name": "",
+      "text": "Dù có bị chấn thương hay không thể dự Trận Tuyển chọn, em vẫn cố kìm nén sự nuối tiếc cay đắng để gắng giữ vẻ bình thản.",
+      "jpname": "モノローグ",
+      "jptext": "ケガをしようと、選抜レースに出られなかろうと、\n悔しい想いを押し殺し、平静であろうと努めたのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì tâm niệm không muốn mang cảm xúc vẩn đục vào trận đua. Nhưng điều đó lại vô tình trở thành nguyên nhân khiến người khác nghĩ rằng em không màng tới việc vắng mặt...",
+      "jpname": "モノローグ",
+      "jptext": "濁った想いをレースに持ち込みたくないという想いゆえに。\nだが、それが欠場を気にしていないと思われる原因となった……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Giờ đây, nhờ có Trainer-san mà em không còn bị những cơn gió bấc dữ dội cuốn đi nữa. Em thực lòng biết ơn anh.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今は、トレーナーさんのおかげで、たま風に吹かれることも\nありません。本当に、感謝しています。"
+    },
+    {
+      "name": "",
+      "text": "Yamanin Zephyr thật thuần khiết. Niềm khao khát cháy bỏng ấy rồi một ngày nhất định sẽ hiện thực hóa ước nguyện của em trên những sân khấu lớn.",
+      "jpname": "モノローグ",
+      "jptext": "ヤマニンゼファーは純粋だ。その強い憧れは、\nいずれ必ず大きな舞台で彼女の願いを形にするだろう。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, ước nguyện quá đỗi thuần khiết cũng là một con dao hai lưỡi. Nó vừa tiếp thêm sức mạnh, lại vừa khiến em tổn thương. Điều em cần lúc này chính là――",
+      "jpname": "モノローグ",
+      "jptext": "だけど、純粋すぎる願いは諸刃の剣でもある。\n彼女に力を与えると共に傷つけもする。今の彼女に必要なのは――",
+      "choice_data_list": [
+        "Hãy để anh làm Trainer đảm nhận của em nhé!?",
+        "Hãy để tôi làm Trainer đảm nhận của bạn nhé!?"
+      ],
+      "jpchoice_data_list": [
+        "担当トレーナーにしてくれないか！？",
+        "担当トレーナーにしてくれない！？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Anh quả là một cơn gió lốc bất ngờ... Nhưng... em xin cảm ơn anh.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "飄風なんですね……。\nでも……ありがとうございます。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Nếu em có một Trainer đảm nhận cho riêng mình, em cũng từng nghĩ người đó sẽ là một người như anh...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "もし私に担当トレーナーがつくとしたら、\nあなたのような方がいいと思っていました……。",
+      "choice_data_list": [
+        "Vậy thì――!"
+      ],
+      "jpchoice_data_list": [
+        "それじゃあ――！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng, em xin phép được từ chối lời đề nghị ấy――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ですが、その申し出はお断りさせていただきます――"
+    }
+  ]
+}

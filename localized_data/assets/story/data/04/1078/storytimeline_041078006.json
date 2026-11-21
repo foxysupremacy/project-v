@@ -1,0 +1,334 @@
+{
+  "title": "Ngọn gió trôi đi",
+  "jptitle": "風、流る",
+  "text_block_list": [
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi chao, sắc xanh ngút ngàn nhường này... Fufu... được tận hưởng ngọn gió ấm giữa chốn này thật là tuyệt quá...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ、こんなにも緑が……。\nふふっ……このような場所でひかたを楽しめるなんて……。"
+    },
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ, tôi dẫn Yamanin Zephyr đến sở thú. Số là chuyện bắt đầu từ việc――",
+      "jpname": "モノローグ",
+      "jptext": "休日、ヤマニンゼファーを連れて動物園に来た。\nというのも――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "............ ...Hà... bước đường tựa như giữa cơn bão hoa nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………。\n……はぁ……花嵐の道行き、ですね。",
+      "choice_data_list": [
+        "...Có chuyện gì thế em?",
+        "...Có chuyện gì thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "……どうかしたのか？",
+        "……どうかしたの？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ủa, Trainer-san? Chào anh ạ. Thật ra... em đang đi tìm một ngọn gió ấm. Em muốn được đắm mình vào thiên nhiên.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ、トレーナーさん？　こんにちは。\n実は……ひかたを求めているのです。自然を味わいたくて。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng――... Giữa chốn đô thị thì điều đó thật khó khăn. Đúng là một cơn gió trống rỗng.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "けれど――……\n都会では、それもままならない。空風ですね。",
+      "choice_data_list": [
+        "Thiên nhiên sao... A, nếu vậy thì――!"
+      ],
+      "jpchoice_data_list": [
+        "自然かぁ……あ、それなら――！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Nhưng mà, ngọn gió của ngày hội nơi đây rộn rã thật đấy. Ai nấy đều bồn chồn háo hức hệt như đang đón ngọn gió đông chuyển mùa.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "それにしても、饗の風の賑やかさですね。\nみなさん、節東風に吹かれたようにそわそわなさって。"
+    },
+    {
+      "name": "",
+      "text": "Đúng như tôi nghĩ một người yêu động vật như em sẽ thích nơi này, em tỏ ra vô cùng hào hứng. Ở đây có nhiều loài động vật quý hiếm, chắc chắn em sẽ có một khoảng thời gian vui vẻ.",
+      "jpname": "モノローグ",
+      "jptext": "動物好きな彼女なら気に入るだろうと思ったとおり、\n興味津々のようだ。珍しい動物も多いし、きっと楽しめるだろう。",
+      "choice_data_list": [
+        "Nào, trước tiên mình đi đâu――"
+      ],
+      "jpchoice_data_list": [
+        "さあ、まずはどこに――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "............",
+      "jpname": "モノローグ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "――Ủa, Zephyr đâu mất rồi!?"
+      ],
+      "jpchoice_data_list": [
+        "――って、ゼファーがいないっ！？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, bạn Góc Nhỏ tựa như ngọn gió tây mùa xuân ấy nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふふっ、すみっこは春の西風ですね。"
+    },
+    {
+      "name": "",
+      "text": "Hốt hoảng đi tìm Yamanin Zephyr khắp nơi... tôi thấy em đang ngồi nghỉ tại một góc khuất của khu dừng chân.",
+      "jpname": "モノローグ",
+      "jptext": "慌ててヤマニンゼファーを捜し回ると……\n隅っこの休憩場で休んでいるのを見つけた。",
+      "choice_data_list": [
+        "Em không xem các con thú sao?",
+        "Bạn không xem các con thú sao?"
+      ],
+      "jpchoice_data_list": [
+        "動物、見なくていいのか？",
+        "動物、見なくていいの？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "? Động vật ở ngay đây mà anh. Kìa, bên này có bạn Tí Tách...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "？　動物ならいますよ。\nほら、こちらにしとしとさんが……。"
+    },
+    {
+      "name": "",
+      "text": "Nơi hướng nhìn của Yamanin Zephyr, có một chú ếch nhỏ đang nằm ngủ say sưa.",
+      "jpname": "モノローグ",
+      "jptext": "ヤマニンゼファーの視線の先では、\n小さなカエルが眠っている。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hơn nữa ở đằng kia còn có các bạn Sọc Vằn nữa. Cả gia đình bạn ấy đang đi dã ngoại đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "それに、あちらにはしましまさんたちも。\nご家族でピクニック中、なんですよ。"
+    },
+    {
+      "name": "",
+      "text": "Yamanin Zephyr mỉm cười đầy trìu mến nhìn những chú sóc đang nhai quả hạch và tự do chuyền cành khắp các tán cây.",
+      "jpname": "モノローグ",
+      "jptext": "木の実を食べ、木々を自由に駆け回るリスたちを、\n微笑ましそうに眺めるヤマニンゼファー。"
+    },
+    {
+      "name": "",
+      "text": "Cả hai loài tuy không thường thấy ở nơi đô thành, nhưng cũng chẳng hẳn là những loài động vật quý hiếm gì cho cam.",
+      "jpname": "モノローグ",
+      "jptext": "どちらも都会でそう見かける生き物ではないが、\nかといって珍しい動物とも言えない気がする。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu... tất cả đều xoay vần theo cơn gió lốc. Đúng thực là những kẻ lãng du theo ngọn gió trời.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふふっ……みんな、つむじに。\nまさに風来坊のよう。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng có lẽ, thứ \"thiên nhiên\" mà em hằng kiếm tìm chính là những điều giản dị như thế này đây.",
+      "jpname": "モノローグ",
+      "jptext": "だがきっと、彼女が求めていた『自然』とは、\nこうしたもののことだったのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Cứ tiếp tục ở bên em như thế này, tôi sẽ càng thấu hiểu hơn những điều mà em hằng trân quý. Ngay lúc đó――",
+      "jpname": "モノローグ",
+      "jptext": "このまま一緒に過ごしていれば、彼女が大切にするものへの\n理解がより深まりそうだ。と、その時――"
+    },
+    {
+      "name": "",
+      "text": "(Chích chích chích...)",
+      "jpname": "モノローグ",
+      "jptext": "（チチチチ……）"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ôi chao, bạn Tròn Trĩnh đang chơi trò đuổi bắt đấy à?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あらあら、まんまるさんたら、追いかけっこですか？"
+    },
+    {
+      "name": "",
+      "text": "Đuổi theo chú chim sẻ vừa bay vụt qua, Yamanin Zephyr nhẹ nhàng sải bước chạy theo. Nơi em dừng chân là một con đường tản bộ vắng vẻ, tĩnh mịch nằm sâu tít bên trong khuôn viên.",
+      "jpname": "モノローグ",
+      "jptext": "飛んできたスズメを追って、ヤマニンゼファーが軽やかに駆け出す。\nたどり着いたのは園の最奥にある、ひと気のない静かな遊歩道だ。"
+    },
+    {
+      "name": "",
+      "text": "Đó là một khung cảnh có phần huyền ảo. Quanh Yamanin Zephyr, những chú chim quen thuộc như chim sẻ hay chim sáo đá đang ríu rít lượn quanh.",
+      "jpname": "モノローグ",
+      "jptext": "それはどこか幻想的な光景だった。ヤマニンゼファーの周囲を\nスズメやムクドリなど、見慣れた鳥たちが飛び交っている。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lu-la-la...♪ La-la-lu...♪",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "る～ら～ら……♪らら～る……♪"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, các bạn Sắc Cam cũng tới rồi đấy à. Chúng ta cùng nhảy múa nhé?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふふっ、オレンジさんたちもいらっしゃい。\n一緒に踊ってみましょうか？",
+      "choice_data_list": [
+        "Em gọi chim sáo đá là bạn Sắc Cam sao?"
+      ],
+      "jpchoice_data_list": [
+        "ムクドリをオレンジさんって呼んでるんだ？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng ạ... Em muốn gọi các bạn ấy bằng nét đẹp tựa như làn gió hoa―― điều mà em cảm thấy đẹp đẽ nhất.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ええ……。\n花風な――美しいと思うところで呼んでさしあげたくて。"
+    },
+    {
+      "name": "",
+      "text": "Mỏ và chân của chim sáo đá mang một màu cam rực rỡ nổi bật. Điểm xuyết gam màu ấy quả thực trông chúng rất đẹp.",
+      "jpname": "モノローグ",
+      "jptext": "ムクドリのくちばしと足は、目を見張る橙色をしている。\nそれが差し色となって、たしかに美しく見える。",
+      "choice_data_list": [
+        "Nếu là anh thì có khi anh gọi là Bạn Điệu Đà mất.",
+        "Nếu là tôi thì có khi tôi gọi là Bạn Điệu Đà mất."
+      ],
+      "jpchoice_data_list": [
+        "俺なら、おしゃれさんって呼ぶかも",
+        "私なら、おしゃれさんって呼ぶかも"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Muốn gần gũi hơn với thế giới \"thiên nhiên\" mà em yêu mến. Mang theo suy nghĩ ấy, tôi thử bắt chước em đặt biệt danh cho chú chim sáo đá. Thế rồi――",
+      "jpname": "モノローグ",
+      "jptext": "彼女の好む『自然』にもっと近づきたい。そんな思いで\n彼女に倣い、ムクドリにあだ名をつけてみた。すると――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "\"Bạn Điệu Đà\"―― sao ạ? Fufu...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "『おしゃれさん』――ですか？　ふふっ……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thật là ấm lành... một cái tên rất đỗi hợp với Trainer-san... Nhẹ nhàng tựa hồ như làn gió xuân êm đềm vậy.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "凱風で……トレーナーさんらしい、お名前ですね……。\n柔い、春風の心地になるほどに。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Tiếng hát của bạn Sắc Cam cũng... tựa như ngọn gió đông mùa lễ hội. Gợi nhắc âm vang hệt như quê nhà của em, thật hoài niệm...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "オレンジさんの歌も……盆東風です。\n故郷と同じ響きで、懐かしくて……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em chưa từng nghĩ rằng ngay giữa chốn đô hội này, em lại có thể cảm nhận được ngọn gió ấm hệt như những ngày còn ở quê hương.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "都会でも、故郷にいる時と似た\nひかたを感じられるだなんて思いませんでした。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "............",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Có chuyện gì thế em?",
+        "Có chuyện gì thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうかした？",
+        "どうかしたの？"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "............Dạ không... em chỉ vừa để mình thả hồn theo ngọn gió đôi chút.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………いえ……少し、風に任せておりました。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dòng chảy ngọn gió thổi qua... nghe như một khúc ca vậy. Một giai điệu miên man không chút ràng buộc, tự do phóng khoáng len lỏi qua từng vòm cây...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "吹き渡る流れが……歌うように聞こえたのです。\n奔放に木々を駆け、縛られぬとめどない旋律を……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế nhưng, tại sao lại như thế――?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "けれど、どうしてそれが――？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em vốn ngỡ rằng giai điệu của gió chỉ có thể cảm nhận khi ta tĩnh lặng một mình. Bởi vì tâm hồn có phẳng lặng thì mới có thể hòa làm một với ngọn gió.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "風の旋律は、独り静かでいてこそ感じられるものと思っていました。\n心が凪でなければ一体にはなれませんから。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Thế mà―― kìa anh xem.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "なのに――ほら。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Lúc này đây nó lại vừa lướt qua. Một dòng chảy tuyệt đẹp... tựa như ngọn gió đông xanh biếc đầu xuân...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今も渡ってきました。\nまるで青東風のような、美しい流れ……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hạnh phúc khi ngọn gió được thỏa sức thổi qua mà không gì cản lối, em chưa bao giờ nghĩ mình lại có thể cảm nhận được theo cách này.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "阻むものなく風の吹き抜けることの幸いを、\nこんなふうに感じることがあるなんて。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...Có lẽ ngọn gió thổi quanh anh là một ngọn gió vô cùng đặc biệt chăng.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……あなたの周りを吹く風は、とびっきり変わった風。\nなのかもしれませんね。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hôm nay em cảm ơn anh rất nhiều. Nhờ có anh mà lòng em không bị chìm trong cảm giác ảm đạm của ngọn gió nam u tối.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "今日はありがとうございました。\nおかげさまで黒南風の心地にならずにすみました。",
+      "choice_data_list": [
+        "Anh cũng thấy vui lắm, lần sau mình lại đi tiếp nhé.",
+        "Tôi cũng thấy vui lắm, lần sau mình lại đi tiếp nhé."
+      ],
+      "jpchoice_data_list": [
+        "こっちも楽しかった、また行きたいな",
+        "こっちも楽しかった、また行きたいね"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "...\"Lần sau\"... Đúng vậy nhỉ, nếu như một ngày nào đó ngọn gió tương tự lại cùng thổi qua hai ta, thì khi ấy...",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……『また』……。\nそうですね、もしまた、2人に同じ風が吹けばその時は……。"
+    },
+    {
+      "name": "",
+      "text": "Yamanin Zephyr ngập ngừng lảng tránh câu trả lời dứt khoát. Đối với em, một mình hành động có lẽ mới là \"thuận theo tự nhiên\".",
+      "jpname": "モノローグ",
+      "jptext": "曖昧に言葉を濁すヤマニンゼファー。\n彼女にとっては、1人で行動するのが『自然』なのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Dù vậy, tôi vẫn mong rằng \"lần sau\" ấy, ngọn gió tương tự sẽ lại thổi tới. Bởi chắc chắn khi đó, tôi sẽ có thể bước gần hơn vào thế giới của em.",
+      "jpname": "モノローグ",
+      "jptext": "それでも『また』、同じ風が吹くといい。\nきっとその時はより、彼女の世界に近づけるだろうから。"
+    }
+  ]
+}
