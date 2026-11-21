@@ -1,0 +1,510 @@
+{
+  "title": "Thật lòng thấy có lỗi quá chừng",
+  "jptitle": "ほに、おもさげねぇ",
+  "text_block_list": [
+    {
+      "name": "Yukino Bijin",
+      "text": "(Lần này, nhất định lần này mình phải nói ra mới được……! Nếu là một \"City Girl\" thì chuyện cỡ này có là gì――)",
+      "jpname": "ユキノビジン",
+      "jptext": "（今度こそ、今度こそ言うンだ……！\n“シチーガール”なら、こンなことくらい――）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "A, nếu thế thì này. Cậu cứ rủ người ta cùng ra ngoài đi chơi là được mà.",
+      "jpname": "ウマ娘A",
+      "jptext": "あ、だったらさ。\n一緒に出かけたりすればいいじゃん。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Đến một quán ăn có phong cách xịn sò kiểu \"City Girl\" rồi đãi một bữa chẳng hạn. Kiểu như một buổi hẹn hò nhẹ nhàng ấy.",
+      "jpname": "ウマ娘A",
+      "jptext": "“シチーガール”？　っぽいイイ感じのお店で\nご飯ごちそうしたりとか。ま、軽いデートみたいなー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "H-H-H-H-H-Hẹn hò á!?",
+      "jpname": "ユキノビジン",
+      "jptext": "デッ……デデデデデ、デートぉ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "H-Hẹn hò là cái đó đúng không…… cái kiểu…… hai người thích nhau đi riêng c-chỉ có hai người thôi ấy……",
+      "jpname": "ユキノビジン",
+      "jptext": "デ、デートって、あれだべ……あの、あれ……\n好いたもん同士が、ふ、ふたりっきりで……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Ủa…… đâu cần phải nghĩ nghiêm trọng hóa thế đâu…… Bạn bè bình thường đi cùng nhau cũng được mà…… ủa, cậu có nghe tớ nói không đấy?? Nè nè?",
+      "jpname": "ウマ娘A",
+      "jptext": "いや……そんなに重く考えなくても……。\n友だち同士で普通に……って、聞いてる？？　おーい？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Đ-Đi hẹn hò với Trainer-san…… Nếu là một \"City Girl\" thì chuyện đó cũng là bình thường thôi sao!?)",
+      "jpname": "ユキノビジン",
+      "jptext": "（ト、トレーナーさんとデート……\n“シチーガール”なら、それくらい普通なンだべか！？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Tr-Tr-Trainer-san! Dạ thì, ngày mai…… a, ơ…… a…… ừm thì……!",
+      "jpname": "ユキノビジン",
+      "jptext": "トトッ、トレーナーさん！　あのっ、明日……\nあ、あぅ……あ……ええと……！",
+      "choice_data_list": [
+        "Ừ, có chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "うん、何かな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……K-Không có gì đâu ạ!",
+      "jpname": "ユキノビジン",
+      "jptext": "……っ、な、なンでもねぇです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Hầy…… Lại hỏng bét nữa rồi. Đây đã là lần thất bại thứ mấy rồi không biết…… Căng thẳng quá chẳng mở lời rủ nổi luôn)",
+      "jpname": "ユキノビジン",
+      "jptext": "（はぁ～～～。またやっちまっただ。これで何回目の\n失敗だべか……。緊張して、まったく誘えねぇ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Mấy ngày gần đây ngày nào cũng diễn ra cảnh tương tự. Có lẽ là về \"điều muốn nói\" hôm trước.",
+      "jpname": "モノローグ",
+      "jptext": "……ここ数日、同じようなことがあった。\nおそらく例の『言いたいこと』だろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có lẽ không khí nghiêm túc khiến em ấy thấy khó mở lời. Nghĩ vậy nên――",
+      "jpname": "モノローグ",
+      "jptext": "改まった雰囲気では言いづらいのかもしれない。\nそう思い――",
+      "choice_data_list": [
+        "Yukino, nếu được thì――"
+      ],
+      "jpchoice_data_list": [
+        "ユキノ、よければ――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Dạ?",
+      "jpname": "ユキノビジン",
+      "jptext": "へ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Ủa sao……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（なして……）",
+      "choice_data_list": [
+        "Hôm nay chúng ta cùng đi chơi cho thật đã nhé!"
+      ],
+      "jpchoice_data_list": [
+        "今日は思いっきり遊ぼう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Sao tự dưng mình lại trở thành người được rủ đi thế này!?)",
+      "jpname": "ユキノビジン",
+      "jptext": "（なして、あたしが誘われる側になってンだべ！？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Dù Trainer-san nói là muốn cho mình đổi gió thư giãn, nhưng nếu cứ thế này thì……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（トレーナーさんは、気分転換にって言ってくれたけンど、\nこのままじゃ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(……Nghĩ ngợi lằng nhằng cũng chẳng được gì! Đã được anh ấy rủ đi chơi rồi, ít nhất ở đây mình phải thể hiện phong thái của một \"City Girl\"――)",
+      "jpname": "ユキノビジン",
+      "jptext": "（……っ、ウダウダ考えてても仕方ねぇべ！　せっかく誘って\nくれたンだ、せめてここで“シチーガール”らしさを――）",
+      "choice_data_list": [
+        "Em đã chơi phóng phi tiêu bao giờ chưa?"
+      ],
+      "jpchoice_data_list": [
+        "ダーツ、したことある？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Chưa bao giờ ạ…… Nhưng với đôi bàn tay đã được tôi luyện từ trò ném bóng tuyết này! Trước tiên nhìn thẳng vào mục tiêu, rồi nắm chặt quả bóng tuyết lại!!",
+      "jpname": "ユキノビジン",
+      "jptext": "ないです……でも、雪合戦で鍛えたこの手で！\nまず的を見つめて、雪玉をギュッと握ります！！",
+      "choice_data_list": [
+        "Phi tiêu! Là phi tiêu mà! Đừng có bóp chặt như thế!"
+      ],
+      "jpchoice_data_list": [
+        "矢！矢だから！ギュッとしない！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hở! R-Ra vậy. H-Hehe…… Em chỉ hơi căng thẳng tí thôi mà! Đ-Được rồi……!",
+      "jpname": "ユキノビジン",
+      "jptext": "ハッ！　そ、そっか。へ、へへ……。\nちょっと緊張しただけだべ！　よ、よぉし……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "S-Sao lại không trúng được nhỉ……!? Không, trúng thì có trúng thật đấy nhưng mà……",
+      "jpname": "ユキノビジン",
+      "jptext": "な、なして当たンねぇンだ……！？\nいや、当たりはしたけども……。",
+      "choice_data_list": [
+        "Không ngờ lại cắm trúng tấm bia bên cạnh……"
+      ],
+      "jpchoice_data_list": [
+        "まさか隣の的に当たるとは……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "M-May mà ở đó không có ai…… Uuu, suýt nữa thì làm phiền người ta rồi……",
+      "jpname": "ユキノビジン",
+      "jptext": "だ、誰もいなくてよかったべ……。\nうう、迷惑かけちまうとこだった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có vẻ sự căng thẳng vẫn kéo dài khiến vai em ấy cứng đờ cả lại. Muốn em thoải mái tận hưởng niềm vui, tôi bèn cất lời vui vẻ khích lệ.",
+      "jpname": "モノローグ",
+      "jptext": "緊張が続いているのか、ひどく肩に力が入っている。\n気軽に楽しんでもらおうと、明るく声をかける。",
+      "choice_data_list": [
+        "Thả lỏng vai ra rồi tận hưởng thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "肩の力を抜いて楽しもう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "D-Dạ vâng……",
+      "jpname": "ユキノビジン",
+      "jptext": "は、はい……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(U-Uuu…… áy náy quá đi mất…… Lại để Trainer-san phải bận tâm lo lắng cho mình rồi……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（う、うう……おもさげねぇ……。\nトレーナーさんに気を使わせてしまっただ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Lần này nhất định…… mình phải gọi món thật \"thời thượng\" và \"ngầu lòi\" đúng chất \"City Girl\" mới được!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（今度こそ……“シチーガール”っぽく、\n“すまーと”で“くーる”に注文するべ！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Cái tên nghe líu cả lưỡi, nhưng bây giờ mình đã nói tiếng chuẩn thành thạo rồi thì lo gì……!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（舌噛みそうな名前だけンど、\n標準語もカンペキにマスターした今なら……！）",
+      "choice_data_list": [
+        "Uống sinh tố thanh long đỏ mật ong tươi mát nhé――"
+      ],
+      "jpchoice_data_list": [
+        "ハニーピタヤフレッシュスムージーにし――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "! Để em gọi món cho ạ! Cho cháu gọi món này――",
+      "jpname": "ユキノビジン",
+      "jptext": "！　注文は、あたしが！\nすンません、この――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "X-Xinh tố th-thanh long mệt ong tơi, cho hai cốc ạ!!",
+      "jpname": "ユキノビジン",
+      "jptext": "はにーびたららっしゅみーじー、ふたつ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "――――",
+      "jpname": "ユキノビジン",
+      "jptext": "――――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Nói nhịu rồi!! Líu lưỡi đến mức không tài nào chữa cháy nổi luôn rồi!!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（噛んだー！！　ごまかしきれないほど噛んだべ！！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "D-Dạ thì…… vừa nãy là……",
+      "jpname": "ユキノビジン",
+      "jptext": "あ、あの……今のは……。",
+      "choice_data_list": [
+        "Tên món hơi khó phát âm thật nhỉ",
+        "Tên món này quả thực khó đọc thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "言いにくいよな",
+        "言いにくいよね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(! Lại khiến người ta phải lựa lời an ủi mình rồi sao!?)",
+      "jpname": "ユキノビジン",
+      "jptext": "（！　また気を使わせちまった……！？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(……Mình đang làm cái trò gì thế này không biết…… Cứ thế này thì…… chẳng ra làm sao cả……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（……っ、あたし……何してンだべか……。\nこンなンじゃ……ぜんぜん……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "A…… đó là thỏi son mà City-san từng quảng cáo…… Có nhiều màu sắc ghê…… Đẹp thật đấy……",
+      "jpname": "ユキノビジン",
+      "jptext": "あ……あれ、シチーさんが宣伝してたリップ……。\nいろンな色があンだな……キレイだぁ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(……Mình cũng thích lắm, nhưng mà…… một đứa như mình thì làm gì có tư cách dùng nó chứ)",
+      "jpname": "ユキノビジン",
+      "jptext": "（……欲しい、けンど……\nあたしにはまだ、そンな資格はないべな）",
+      "choice_data_list": [
+        "Em đang phân vân chưa biết chọn màu nào à?"
+      ],
+      "jpchoice_data_list": [
+        "色で迷ってる？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hả!?",
+      "jpname": "ユキノビジン",
+      "jptext": "え！？",
+      "choice_data_list": [
+        "Để tôi chọn cùng em nhé?"
+      ],
+      "jpchoice_data_list": [
+        "一緒に選ぼうか？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "A…… không không không đâu ạ! Em chỉ nhìn thôi mà! Với em thì…… ừm, vẫn còn sớm lắm ạ……",
+      "jpname": "ユキノビジン",
+      "jptext": "あ……いやいやいや！　見てただけです！\nあたしには……その、まだ早いンで……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Phải rồi…… Đến cả lời mời hẹn hò cũng không thốt nên câu, vào quán xá sang trọng thì chẳng làm nổi một cử chỉ sành điệu)",
+      "jpname": "ユキノビジン",
+      "jptext": "（そうだ……デートにも誘えない、\nオシャレな店で“すまーと”にもできない）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Đến gót chân của một \"City Girl\" mình còn chưa chạm tới được, thì một đứa như mình làm sao mà……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（“シチーガール”の足元にも届いていない\nあたしには……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "…………",
+      "jpname": "ユキノビジン",
+      "jptext": "…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dáng vẻ của Yukino Bijin trông vô cùng ủ rũ. Câu nói \"Với em thì vẫn còn sớm lắm\" vừa rồi cứ khiến tôi bận lòng mãi.",
+      "jpname": "モノローグ",
+      "jptext": "ひどく落ち込んだ様子のユキノビジン。\n先程の『あたしにはまだ早い』という言葉が気にかかる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi đã đưa em ấy tới những nơi em thích để dễ bề giãi bày tâm sự, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "例の『打ち明け話』がしやすいように、\nユキノビジンの喜ぶような店に連れて行ったのだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hầy……",
+      "jpname": "ユキノビジン",
+      "jptext": "はぁ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có vẻ đây hoàn toàn không phải bầu không khí để em ấy mở lòng. Nhưng tôi không thể cứ để mặc em ủ rũ thế này được.",
+      "jpname": "モノローグ",
+      "jptext": "とても話せるような雰囲気ではないようだ。\nだが、このまま放っておくわけにもいかない。",
+      "choice_data_list": [
+        "Cảm ơn em vì buổi đi chơi hôm nay nhé!"
+      ],
+      "jpchoice_data_list": [
+        "今日はありがとう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Trainer-san……",
+      "jpname": "ユキノビジン",
+      "jptext": "トレーナーさん……。",
+      "choice_data_list": [
+        "Nhờ có Yukino mà hôm nay vui lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "ユキノのおかげで楽しかった！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……!",
+      "jpname": "ユキノビジン",
+      "jptext": "……！",
+      "choice_data_list": [
+        "Lần tới chúng ta lại cùng đi chơi nữa nhé!"
+      ],
+      "jpchoice_data_list": [
+        "また今度、遊びに行こう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hy vọng tâm trạng em ấy sẽ khá hơn đôi chút, tôi mỉm cười nói với em. Thế rồi――",
+      "jpname": "モノローグ",
+      "jptext": "少しでも気持ちが明るくなってくれたらと思い、\n笑顔で伝える。すると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "T-Thật sao ạ!? R-Ra vậy…… anh thấy vui thật sao ạ……!",
+      "jpname": "ユキノビジン",
+      "jptext": "ほ、ほに！？\nそ、そっか……楽しかっただか……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Dù mình chẳng làm nên trò trống gì cả, nhưng Trainer-san lại cảm thấy vui vẻ sao……!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（なンも上手くいかなかったけども、\nトレーナーさんは楽しいと思ってくれただか……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Những vụng về hỏng hóc…… nếu cũng khiến anh ấy vui, thì hôm nay coi như tạm được vậy! Chỉ riêng hôm nay thôi nhé)",
+      "jpname": "ユキノビジン",
+      "jptext": "（失敗も……楽しンでもらえたなら、\n今日だけはよしとするべ！　今日だけはっ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "E-Em cũng xin cảm ơn anh rất nhiều ạ!",
+      "jpname": "ユキノビジン",
+      "jptext": "こ、こちらこそ、ありがとうございました！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Không sao hết! Mình vẫn còn cơ hội để \"phục thù\" mà!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（大丈夫だ！　まだ、“りべんじ”の機会はあるべ！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Dù không thể làm được mọi thứ ngay lập tức…… nhưng ít nhất lần tới! Mình nhất định phải tự mở lời rủ anh ấy đi hẹn hò mới được……!)",
+      "jpname": "ユキノビジン",
+      "jptext": "（いきなり、なンでもかンでもはできなくても……\nせめて次は！　あたしからデートに誘うくらいは……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nét mặt của em dường như đã tươi tắn hơn đôi chút. Nhìn Yukino Bijin lấy lại tinh thần hướng về phía trước, tôi khẽ thở phào nhẹ nhõm.",
+      "jpname": "モノローグ",
+      "jptext": "少しだけ、表情が明るくなったように見える。\n前を向くユキノビジンに、ホッと息をついたのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

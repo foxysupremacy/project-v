@@ -1,0 +1,393 @@
+{
+  "title": "Một \"City Girl\" cực đỉnh!",
+  "jptitle": "まンずイケでら“シチーガール”！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "――Cuối cùng ngày diễn ra trận đua tuyển chọn cũng đã đến. Hôm nay tôi đã bí mật mời một vài người tới……!",
+      "jpname": "モノローグ",
+      "jptext": "――ついに選抜レースの日が来た。\n今日はこっそりと、ある人たちを呼んでおいた……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "――Yuki-chan ơi! Tớ tới rồi nè!!",
+      "jpname": "美冬",
+      "jptext": "――ユキちゃんっ！　来たよっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ối trời đất ơi!!?",
+      "jpname": "ユキノビジン",
+      "jptext": "じゃじゃじゃっ！！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dân làng",
+      "text": "Yukino-chan ơi! Mọi người đến cổ vũ cho cháu đây! Hôm nay cố gắng hết sức nhé! Ôi chao, lâu lắm mới gặp lại! Chà, lớn phổng phao thế này rồi cơ đấy!",
+      "jpname": "村のみんな",
+      "jptext": "ユキノちゃーん！　応援さ来たぞ～！　今日はけっぱれ～！\nおお、久しぶりだのう～！　あらぁ、大きぐなって～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "M-Mọi người!? Cả bố và mẹ nữa! Sao mọi người lại ở đây thế này!? Hawawa, cái băng rôn lấp lánh ánh vàng kia là sao thế kia chứ――!!?",
+      "jpname": "ユキノビジン",
+      "jptext": "みっ、みんな！？　お父ちゃんお母ちゃんも！　なしてここにっ！？\nはわわ、なンだべそのキンキラの横断幕は～～～っ！！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mẹ của Yukino Bijin",
+      "text": "Hì hì…… Trainer-san đã liên lạc về nhà đấy con ạ. Thế là cả làng rủ nhau tới đây để cổ vũ cho con đấy.",
+      "jpname": "ユキノビジンの母親",
+      "jptext": "ふふふ……トレーナーさんがうちに連絡をくれてね？\n村のみんなで応援に来たのよ。",
+      "choice_data_list": [
+        "Đây là những vị khách bất ngờ đấy"
+      ],
+      "jpchoice_data_list": [
+        "サプライズゲストです"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bất ngờ sao……! Anh làm cái trò phong cách thật đấy…… làm em giật cả mình. Nhưng mà…… ahaha, em đỡ căng thẳng hẳn rồi! Cảm ơn anh nhiều lắm ạ!",
+      "jpname": "ユキノビジン",
+      "jptext": "さぷらいず……！　シャレたことを……どでンしたです。\nでも……あははっ、緊張がほぐれました！　ありがとがんす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ của Yukino A",
+      "text": "Kyaa! Là Yukino Bijin-chan kìa! Hôm nay cũng đáng yêu quá đi! Bọn chị luôn cổ vũ cho em đấy nhé!",
+      "jpname": "ユキノのファンA",
+      "jptext": "きゃ～！　ユキノビジンちゃんだわっ！\n今日もかわいいっ！　応援してるからね～～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ của Yukino B",
+      "text": "Tớ mua gấu bông Yukino-chan rồi nè! Chưa gì đã có hàng lưu niệm chính thức rồi, đúng là đậm chất thần tượng quá đi mà!",
+      "jpname": "ユキノのファンB",
+      "jptext": "私、ユキノちゃんぬいぐるみ買っちゃった～！\nもう公式グッズが出てるとか、本っ当アイドルすぎ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Oa! Yuki-chan nổi tiếng ghê chưa kìa! Đỉnh thật đấy!",
+      "jpname": "美冬",
+      "jptext": "わ～！　ユキちゃん、大人気じゃない！　すごいっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……! Mấy cái này chỉ là một cơn sốt nhất thời thôi…… Sự nổi tiếng không tương xứng với bản thân thế này thì……",
+      "jpname": "ユキノビジン",
+      "jptext": "……っ！　こンなの、ただのブームだ……\n身の丈にあってねぇ人気なンて……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yuki-chan…… tớ nghĩ cậu không cần phải bận tâm quá mức như thế đâu. Bởi vì tạo nên một cơn sốt đâu phải là chuyện xấu đâu……!",
+      "jpname": "美冬",
+      "jptext": "ユキちゃん……そんなに気にすることないと思うよ。\nだってブームって、悪いことじゃないもん……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hả……?",
+      "jpname": "ユキノビジン",
+      "jptext": "へ……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Có thêm rất nhiều người biết đến Yuki-chan và muốn cổ vũ cho cậu mà. Đã có được sự chú ý quý giá như vậy rồi thì cứ nhân cơ hội này chứng minh thực lực cho mọi người thấy là được thôi.",
+      "jpname": "美冬",
+      "jptext": "ユキちゃんを知って、応援したいって人がたくさん増えたんだよ。\nせっかく注目されてるんだから、これを機に実力も見せればいい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Sức hút và may mắn cũng quan trọng lắm đấy! Phải để người ta biết đến mình trước thì mới bắt đầu được mọi thứ chứ. Cơn sốt này chính là cơ hội đấy!",
+      "jpname": "美冬",
+      "jptext": "ブームや運って大事だよ！　まずは知ってもらわなきゃ\nなにも始まらないもん。……ブームは、チャンスなんだよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……! C-Cơn sốt này…… là cơ hội……",
+      "jpname": "ユキノビジン",
+      "jptext": "っ……！　ぶ、ブームは、チャンス……。",
+      "choice_data_list": [
+        "Đúng vậy đấy, cơn sốt này có thể mở ra tương lai cho em",
+        "Đúng thế đấy, cơn sốt này có thể sẽ mở ra tương lai cho em"
+      ],
+      "jpchoice_data_list": [
+        "そうだな、このブームが未来に繋がるかも",
+        "そうだね、このブームが未来に繋がるかも"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Tương lai sao……? Đó sẽ là một tương lai như thế nào nhỉ?",
+      "jpname": "ユキノビジン",
+      "jptext": "未来……？　それって、どンな未来でしょう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……Không, tất cả là do chính bản thân mình định đoạt đúng không……!",
+      "jpname": "ユキノビジン",
+      "jptext": "……いンや、あたし次第で決まるンですね……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Thế mà mình cứ nghĩ \"chỉ là cơn sốt nhất thời\" rồi tự thấy nản lòng…… Trong khi được mọi người chú ý vốn dĩ là một điều vô cùng đáng trân quý……)",
+      "jpname": "ユキノビジン",
+      "jptext": "（あたしは『ブームだから』なンて、勝手に落ち込ンで……。\n注目してもらえンのは、まンずありがてぇことだったのに……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Mình nhất định phải thắng! Dân làng, những người hâm mộ và cả Trainer-san nữa…… tất cả mọi người, xin hãy dõi theo em nhé……!",
+      "jpname": "ユキノビジン",
+      "jptext": "勝つぞ！　村のみんなもファンの人たちもトレーナーさんも……\nみんなみんなっ、どうか見ててくなンしぇ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "――Và người xếp ở vị trí mến mộ thứ 9 chính là cô bé này, Yukino Bijin. Chúng ta cùng kỳ vọng vào sự nỗ lực của nàng Mã Nương \"mỹ thiếu nữ\" đáng yêu đến từ địa phương nhé!",
+      "jpname": "実況",
+      "jptext": "――そして、9番人気はこの娘、ユキノビジン。\n愛らしい地方の『美少女』ウマ娘の頑張りに期待です！",
+      "choice_data_list": [
+        "9 trên 10 người được kỳ vọng sao……"
+      ],
+      "jpchoice_data_list": [
+        "10人中、9番人気か……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Phóng viên A",
+      "text": "Chắc lọt vào top có thưởng là cùng thôi. Nhưng đối với một Mã Nương thần tượng thì thế là được rồi. Chỉ cần em ấy xuất hiện trên đường đua là đã đủ khuấy động không khí rồi mà.",
+      "jpname": "記者A",
+      "jptext": "まあ入着がせいぜいでしょうね。でもアイドルウマ娘は\nそれでいいんです。出走することで盛り上がるんですから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dân làng",
+      "text": "Hửm……!?",
+      "jpname": "村のみんな",
+      "jptext": "ぬう～～～……っ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yuki-chan sẽ thắng cho mà xem……! Cậu ấy không phải chỉ là \"mỹ thiếu nữ\" suông đâu. Mà là một Mã Nương kiên cường bất khuất của Morioka đấy! Mọi người ơi! Cùng cổ vũ thật to nào!",
+      "jpname": "美冬",
+      "jptext": "ユキちゃんは、勝つよ……っ！　ただの『美少女』じゃないもん。\n盛岡のド根性ウマ娘なんだからっ！　みんな！　声出してくよっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dân làng",
+      "text": "Ồ ồ ồ ồ――!!",
+      "jpname": "村のみんな",
+      "jptext": "おお～～～っ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, cánh cổng xuất phát bật mở……!",
+      "jpname": "モノローグ",
+      "jptext": "そしてゲートが開いた……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ồ, Yukino Bijin đã chiếm được một vị trí rất thuận lợi! Liệu cô bé có thể bám đuổi nhóm dẫn đầu như thế này không đây――!?",
+      "jpname": "実況",
+      "jptext": "おおっと、ユキノビジンこれはいい位置についた！\nこのまま先頭についていけるかーーっ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Đương nhiên rồi! Lên thôi nào! Cứ thế này mình sẽ không nhường cho ai đâu――!! ……Haaaaaa――!!",
+      "jpname": "ユキノビジン",
+      "jptext": "もちろん！　いくですよっ！　こンまま、譲らねぇ――！！\n……はぁーーーーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Phóng viên A",
+      "text": "Vượt lên rồi sao……!? Này này, những đối thủ phía sau đang bị bỏ xa dần kìa……!?",
+      "jpname": "記者A",
+      "jptext": "抜いた……！？\nおいおい、後ろの子たちがどんどん離されて……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Không được thua, tuyệt đối không được thua……! Mình nhất định phải giành chiến thắng ở trận đua này……!",
+      "jpname": "ユキノビジン",
+      "jptext": "負けない、負けない……っ！\nあたしはここで勝たなきゃなンねぇンだ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Mình cũng sẽ bước tới thế giới bên kia! Để có thể ưỡn ngực sánh vai cùng những Mã Nương lấp lánh rạng ngời…… một người vừa mạnh mẽ, lại vừa đáng yêu――",
+      "jpname": "ユキノビジン",
+      "jptext": "あたしも、あっち側さ行くンだ！　キラキラのウマ娘たちに、\n胸張って並べるような……強ぐでっ、めンけぇ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Trở thành một \"City Girl\" đích thực!! Mình sẽ làm đượcccccccccc――!!",
+      "jpname": "ユキノビジン",
+      "jptext": "“シヂーガール”に゛っ！！\nなるンだあああぁぁぁぁーーーーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Yukino Bijin! Yukino Bijin không thể ngăn cản! Cú bứt tốc nước rút quá đỗi kinh hoàng――!",
+      "jpname": "実況",
+      "jptext": "ユキノビジン！　ユキノビジン止まらないッ！\nすさまじい末脚だーーーーっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Vị trí dẫn đầu không hề thay đổi! Yukino Bijin tạo khoảng cách áp đảo lên tới 3 thân ngựa và CÁNNNN ĐÍCHHHH!!!",
+      "jpname": "実況",
+      "jptext": "先頭変わらず！　ユキノビジン、\n大きく差をつけて3バ身差でゴーーーーーッル！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Dân làng",
+      "text": "Uôôôôô――!!",
+      "jpname": "村のみんな",
+      "jptext": "うおおおぉぉ～～っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hộc, hộc……! Phùuuuuu! L-Làm được rồi! Thắng rồi bà con ơi――!!",
+      "jpname": "ユキノビジン",
+      "jptext": "はぁっ、はぁっ……！　はひぃ～～～っ！\nや、やった！　勝ったでがんすーーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ của Yukino A",
+      "text": "Không thể nào……! Thắng thật kìa……! Cứ như biến thành người khác vậy…… không, đó mới chính là thực lực thật sự của Yukino Bijin sao……?",
+      "jpname": "ユキノのファンＡ",
+      "jptext": "うそ……！　勝っちゃった……！\nいつもと別人みたい……いや、あれが本当のユキノビジンなの……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Phóng viên A",
+      "text": "Trời đất ơi! Không ngờ con bé lại chạy kinh khủng đến thế. Dạo này các Mã Nương địa phương bị làm sao thế này không biết!?",
+      "jpname": "記者A",
+      "jptext": "なんてこった！　あんなに走れたなんて。\n最近の地方ウマ娘はどうなってんだ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hehe…… Ehehe! Mọi người trố mắt ngạc nhiên hết cả rồi……!",
+      "jpname": "ユキノビジン",
+      "jptext": "へへっ……えへへっ！　みなさんたまげてら……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Yuki-chan chúc mừng cậu nhé! Cậu thực sự, thực sự tuyệt vời lắm luôn……! Cậu đã truyền cho tớ biết bao dũng khí. Tớ cũng sẽ cố gắng hết mình với trượt băng!",
+      "jpname": "美冬",
+      "jptext": "ユキちゃんおめでとう！　本当に本当に、素敵だったよ……！\nすっごく勇気が湧いた。私も、スケート頑張るからねっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mifuyu",
+      "text": "……Dạ Trainer-san của Yuki-chan ơi. Từ nay về sau mong anh tiếp tục chăm sóc và đồng hành cùng Yuki-chan nhé!",
+      "jpname": "美冬",
+      "jptext": "……あの、ユキちゃんのトレーナーさん。\nこれからもユキちゃんをよろしくお願いしますね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cha của Yukino Bijin",
+      "text": "Phía chúng tôi cũng xin nhờ cậy cậu. Con bé là niềm hy vọng của cả ngôi làng này. Mong cậu hãy chỉ bảo và nâng đỡ nó lâu dài nhé.",
+      "jpname": "ユキノビジンの父親",
+      "jptext": "おらたちからも、お願ぇします。こン子は村の希望でがんす。\nどうか、末永く面倒見てやっでくだせぇ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "M-Mifuyu-chan! Đến cả bố cũng nói thế nữa……! Kìa…… anh ấy chỉ tạm thời hướng dẫn tập luyện cho con đợt này thôi mà……",
+      "jpname": "ユキノビジン",
+      "jptext": "みっ、美冬ちゃんっ！　お父ちゃんまでっ……！\nその……この方は今だけトレーニング見てもらっでるだけで……。",
+      "choice_data_list": [
+        "Nếu được thì em hãy ký hợp đồng với tôi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "よければ、契約してほしい！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ối trời đất ơi!!? C-Có thật được không ạ……? Chuyện đó thì…… với em đúng là cầu còn không được nữa là……!",
+      "jpname": "ユキノビジン",
+      "jptext": "じゃじゃっっ！！？　い、いいンですか……？\nそれはその……あたしとしても願ったり叶ったりですが……！",
+      "choice_data_list": [
+        "Hãy cùng nhau hướng tới mục tiêu trở thành một \"City Girl\" đỉnh nhất nhé!"
+      ],
+      "jpchoice_data_list": [
+        "一緒に最高の“シチーガール”を目指そう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "……! Dạ vâng……! Em nhất định sẽ trở thành một \"City Girl\" cực kỳ đỉnh cao và sành điệu ạ!",
+      "jpname": "ユキノビジン",
+      "jptext": "……っ！　はいっ……！　あたし、絶対に\nまンずイケでる“シチーガール”になりますねっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
