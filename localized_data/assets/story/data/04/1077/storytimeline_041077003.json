@@ -1,0 +1,392 @@
+{
+  "title": "Để vươn tới vạch đích hằng mong ước",
+  "jptitle": "望んだゴールへ行くために",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Giáo án tôi đã vắt óc suy nghĩ qua bao lần thử nghiệm. Lại nhận được lời khuyên từ thầy giáo, nội dung cho một tuần trước cuộc đua tập thử đã đạt tới mức độ rất thỏa đáng.",
+      "jpname": "モノローグ",
+      "jptext": "試行錯誤して考えたメニュー。先生からのアドバイスも受け、\n模擬レースまでの1週間分としては満足できる内容となった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em đã xem qua giáo án huấn luyện rồi ạ! Thật sự tuyệt vời lắm luôn! Thầy đã chỉ đúng điểm yếu của em một cách chuẩn xác... làm em ngạc nhiên lắm ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーニングメニュー、確認しました！\nこれ、すごいです！　私の弱点を的確についてて……びっくりです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Giáo án này không chỉ đơn thuần để khắc phục nhược điểm. Chính xác hơn, đó là bài tập giúp em mở rộng thêm những điều mình có thể làm được.",
+      "jpname": "モノローグ",
+      "jptext": "このメニューは、ただ弱点を克服するためだけのものではない。\n正確には、できることを増やすためのメニューだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sải bước của Narita Top Road rất rộng. Nhờ vậy, em dễ dàng đạt tốc độ tối đa và duy trì gia tốc trong thời gian dài.",
+      "jpname": "モノローグ",
+      "jptext": "ナリタトップロードの走りは、一完歩の幅が大きい。\nそのためトップスピードに乗りやすく、加速の持続性も高い。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Việc sở hữu nước rút bền bỉ đồng nghĩa với việc trên những đường đua rộng với đoạn thẳng dài, em có thể phát huy trọn vẹn sở trường của mình.",
+      "jpname": "モノローグ",
+      "jptext": "長くいい脚が使えるということは、直線が長く広いコースならば、\nその特性をいかんなく発揮できるということだ。",
+      "choice_data_list": [
+        "Thế nhưng bù lại——"
+      ],
+      "jpchoice_data_list": [
+        "ただ、その反面――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu việc chuyển số không mượt mà, em sẽ gặp muôn vàn khó khăn trong nhiều tình huống. Chẳng hạn như những khúc cua hẹp hay việc điều chỉnh nhịp độ từng chút một——",
+      "jpname": "モノローグ",
+      "jptext": "ギアの切り替えが上手くいかないと、苦戦する場面も多くなる。\n例えば小回りのコーナーや、細かなペースの調整――",
+      "choice_data_list": [
+        "Đó không phải là sở trường của em…… đúng không?",
+        "Đó không phải là điểm mạnh của em…… phải không?"
+      ],
+      "jpchoice_data_list": [
+        "得意ではない……よな？",
+        "得意ではない……よね？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "D-Dạ vâng. Thú thật thì em rất kém khoản đó. Cả lúc xuất phát hay khi tìm cách thoát khỏi đám đông ngựa đua, em cũng không thể bất ngờ tăng tốc hay hãm nhịp một cách khéo léo được...",
+      "jpname": "ナリタトップロード",
+      "jptext": "は、はい。正直、苦手です。スタートやバ群から抜け出す時も、\n急にダッシュしたり緩めたりは、上手くできないし……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hơn nữa khi điều kiện mặt sân xấu, chân em cứ bị trượt nên không thể chạy theo ý muốn được ạ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "それにバ場状態が悪いと、\nどうしても脚が滑っちゃって、思うように走れないんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Em xin lỗi ạ. Giá như em khéo léo hơn một chút thì tốt biết mấy——",
+      "jpname": "ナリタトップロード",
+      "jptext": "……すみません。\n私がもっと器用にできたら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không sao đâu. Đó chính là lý do tôi tạo ra giáo án này.",
+      "jpname": "モノローグ",
+      "jptext": "問題ない。そのために作ったメニューだ。",
+      "choice_data_list": [
+        "Chúng ta sẽ tập trung rèn luyện vào điểm đó!"
+      ],
+      "jpchoice_data_list": [
+        "そこを重点的にトレーニングしていこう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "! D-Dạ vâng! Đúng như thầy nói, mục đích tập luyện chính là vì thế... Đây là giáo án mà Trainer-san đã dày công chuẩn bị cho em mà.",
+      "jpname": "ナリタトップロード",
+      "jptext": "！　は、はい！　そうですよね、そのためのトレーニング……\nトレーナーさんが作ってくれたメニューなんですからっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thưa thầy, thầy giỏi quá ạ. Thật sự... ừm, quá tuyệt vời luôn! Chỉ nhìn em chạy vài lần mà thầy đã nhận ra đến mức này... Em cảm ơn thầy nhiều lắm!",
+      "jpname": "ナリタトップロード",
+      "jptext": "あの、すごいですっ。本当に……その、すごいです！\n何度か走りを見ただけで、ここまで……ありがとうございます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em chạy thử ngay bây giờ có được không ạ!? Em muốn áp dụng ngay bài tập này vào thực tế quá!",
+      "jpname": "ナリタトップロード",
+      "jptext": "早速走ってみてもいいですか！？\nこのメニュー、すぐに実践してみたいんです！",
+      "choice_data_list": [
+        "Đ-Đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "も、もちろん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Tuyệt quá! Vậy thì em bắt đầu đây ạ. Nếu thấy điều gì cần lưu ý thì thầy hãy nói ngay cho em nhé. Em chạy đây!",
+      "jpname": "ナリタトップロード",
+      "jptext": "やった！　それじゃあ、いってきますねっ。\n気になることがあれば、すぐに言ってください。それじゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa dứt lời là Narita Top Road đã lao vút đi. Trước khí thế hừng hực ấy, tôi bất giác mỉm cười.",
+      "jpname": "モノローグ",
+      "jptext": "言うやいなやナリタトップロードが走っていく。\nその勢いに思わず笑みがこぼれる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói thế nào nhỉ——ở những bước chạy của em có một sức mạnh kỳ diệu, như thể dẫn lối trái tim người xem hướng về nơi tràn ngập ánh sáng.",
+      "jpname": "モノローグ",
+      "jptext": "なんというか――彼女の走りには、見ている者の心を明るい方へと\n導くような、不思議な力強さがあった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hà, hà, hà...! Vừa duy trì tốc độ, vừa tìm hướng đi tối ưu nhất...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はっはっ、はっ……！\nスピードを乗せたまま、最適な道筋を……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "(Trainer-san đã đánh dấu sẵn các mốc rồi... Mình phải tập trung quan sát kỹ các mốc đó——!)",
+      "jpname": "ナリタトップロード",
+      "jptext": "（目印はトレーナーさんが用意してくれた……\nそれをちゃんと意識して――！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hự...! Hỏng rồi...! Làm lại một lần nữa ở góc cua kế tiếp...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "くっ……！　失敗……！\nもう1度、次のコーナーで……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Lớp trưởng Top Road ơii! Cố gắng tập luyện lên nhé!!",
+      "jpname": "クラスメイトのウマ娘",
+      "jptext": "トプロ委員長ー！　トレーニングがーんーばーれー！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "!",
+      "jpname": "ナリタトップロード",
+      "jptext": "！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "(Mọi người... đang cổ vũ cho mình...!)",
+      "jpname": "ナリタトップロード",
+      "jptext": "（応援……してくれてる……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Dạ vâng! Tớ cảm ơn các cậu nhiều lắm!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……っ、はい！　ありがとうございます！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Yaaaa a a a a a a!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "やあぁぁああああああ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tuy nói là giáo án khắc phục nhược điểm, nhưng nội dung bài tập lại khá đơn điệu. Phải lặp đi lặp lại cùng một động tác nhiều lần để cơ thể ghi nhớ.",
+      "jpname": "モノローグ",
+      "jptext": "弱点を克服するメニューとはいえ、中身はやや単調だ。\n何度も同じことを繰り返し、体に覚えさせていく。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thay vì ôm đồm quá nhiều thứ trong thời gian ngắn thì tập trung dồn vào một điểm duy nhất sẽ dễ đem lại kết quả hơn. ——Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "短い期間で多くをやるよりも、一点集中した方が結果は得やすい。\n――だが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hà, hự... hà... Lại hỏng rồi... Bước chân của mình cứ bị lảo đảo thế nào ấy...",
+      "jpname": "ナリタトップロード",
+      "jptext": "はぁ、はっ……はぁ……。\nまた、失敗……足元がどうしてもフラついちゃう……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế, chỉ sau vài tiếng là có khả năng sinh ra chán nản. Nếu tinh thần sa sút thì mình phải xem xét lại nội dung giáo án——",
+      "jpname": "モノローグ",
+      "jptext": "それゆえに、数時間もすれば飽きていく可能性もある。\nやる気が低下するならば、内容を見直さなくては――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hự! Thêm một lần nữa!! Trainer-san, thầy có lời khuyên nào cho em không ạ!?",
+      "jpname": "ナリタトップロード",
+      "jptext": "んっ！　もう1度！！\nトレーナーさん、何かアドバイスはありますか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Narita Top Road hỏi tôi với ánh mắt ngập tràn sức sống, y như thể em ấy chỉ vừa mới bắt đầu buổi tập.",
+      "jpname": "モノローグ",
+      "jptext": "生き生きと、今トレーニングを始めたばかりのような、\nそんな目をしながらナリタトップロードが聞いてくる。",
+      "choice_data_list": [
+        "Đừng hạ thấp tầm nhìn xuống"
+      ],
+      "jpchoice_data_list": [
+        "視線を下げないで"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em hiểu rồi ạ! Không được chú ý nhìn xuống quá nhiều đúng không ạ. Em cảm ơn thầy, em đi tập tiếp đây!",
+      "jpname": "ナリタトップロード",
+      "jptext": "わかりました！　意識しすぎちゃダメですねっ。\nありがとうございます、行ってきます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi ngẩng cao đầu như thể muốn áp dụng chính lời khuyên ấy cho bản thân, rồi lặng lẽ dõi theo từng bước chạy của em.",
+      "jpname": "モノローグ",
+      "jptext": "送ったアドバイスを自分にも向けるように顔を上げ、\nその走りを見守った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau đó. Kể cả khi thời gian luyện tập đã hết, Narita Top Road vẫn tiếp tục tự mình miệt mài rèn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "それから数日。ナリタトップロードはトレーニングの時間が\n終わってからも、自主練を繰り返していた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Phù... sảng khoái quá! Được rồi, lần này mình sẽ coi chỗ kia như một góc cua để——",
+      "jpname": "ナリタトップロード",
+      "jptext": "ふー……いい気持ち！\nよし、今度はあそこをコーナーに見立てて――",
+      "choice_data_list": [
+        "Narita Top Road"
+      ],
+      "jpchoice_data_list": [
+        "ナリタトップロード"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oái!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ひょわぁ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "T-Trainer-san!? Sao thầy lại ở nơi này vậy ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "と、トレーナーさん！？\nどうしたんですか、こんなところでっ。",
+      "choice_data_list": [
+        "Em cố gắng quá sức rồi đấy"
+      ],
+      "jpchoice_data_list": [
+        "頑張り過ぎだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A... hè hè, bị thầy bắt quả tang mất rồi. Em xin lỗi ạ. Nhưng mà những gì có thể làm được thì em đều muốn làm hết sức mình.",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ……へへ、バレちゃいましたか。ごめんなさい。\nでも、やれることはやっておきたいんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dẫu chỉ là một cuộc đua tập thử, nhưng đây là cuộc đua đầu tiên em được sát cánh cùng Trainer-san.",
+      "jpname": "ナリタトップロード",
+      "jptext": "ただの模擬レースでも、\n私がトレーナーさんと挑戦する初めてのレースなので。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Em muốn biến nó thành một cuộc đua có thể đem lại niềm vui cho Trainer-san, người đã tin tưởng chọn em!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……選んでくれたトレーナーさんに喜んでもらえるような、\nそんなレースにしたいです！",
+      "choice_data_list": [
+        "Điều đó……"
+      ],
+      "jpchoice_data_list": [
+        "それは……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Điều đó khiến tôi rất hạnh phúc. Nhưng tôi không hề muốn em phải gượng ép quá sức. Hơn hết, người phải đưa ra kết quả tốt và hỗ trợ em chính là bản thân tôi, một Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "……それは、嬉しい。けれど、それで無理はさせたくはない。\n何より良い結果に導き、力を貸すべきなのはトレーナーの自分だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong cuộc đua tập có sự tham gia của các Mã Nương do những Trainer kỳ cựu dẫn dắt, liệu mình... có thể giúp em thể hiện được những bước chạy như em hằng mong muốn hay không.",
+      "jpname": "モノローグ",
+      "jptext": "ベテラントレーナーのウマ娘たちも参加する模擬レースで、\n自分は果たして……彼女が望む走りをさせてあげられるだろうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Mọi người cũng đang nhiệt tình cổ vũ cho chúng ta, háo hức quá thầy nhỉ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "みんなも応援してくれていますし、楽しみですね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng mấy chốc cuộc đua tập thử sẽ diễn ra. Nhìn Narita Top Road nở nụ cười rạng rỡ trái ngược hẳn với sự lo âu trong lòng mình, tôi bất giác nheo mắt lại.",
+      "jpname": "モノローグ",
+      "jptext": "模擬レースまで、もうすぐ。自分とは真逆の眩しい笑顔を見せる\nナリタトップロードに、思わず目を細めてしまうのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

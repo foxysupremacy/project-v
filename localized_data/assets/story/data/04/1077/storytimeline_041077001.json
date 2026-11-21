@@ -1,0 +1,543 @@
+{
+  "title": "Ánh sáng khởi đầu",
+  "jptitle": "始まりの輝き",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã vài ngày trôi qua kể từ khi tôi đến Học viện Tracen với tư cách một Trainer chuyên nghiệp. Thế nhưng đến giờ, tôi vẫn chưa tìm được Mã Nương phụ trách cho mình.",
+      "jpname": "モノローグ",
+      "jptext": "プロのトレーナーとしてトレセン学園にやってきて、早数日。\n担当となるウマ娘は、今も見つかっていない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thầy",
+      "text": "Cứ khúm núm hạ mình thế thì đến đối phương cũng đâm ra bất an đấy chứ? Cậu cứ tự tin hơn vào bản thân đi.",
+      "jpname": "先生",
+      "jptext": "あんなに低姿勢じゃ、相手だって不安になるだろ？\nお前さんは、もっと自信を持っていいんだ。",
+      "choice_data_list": [
+        "Thầy……"
+      ],
+      "jpchoice_data_list": [
+        "先生……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi được người thầy, cựu Trainer từng hết lòng chỉ bảo tôi từ thuở chập chững bước trên con đường trở thành Trainer chuyên nghiệp, an ủi.",
+      "jpname": "モノローグ",
+      "jptext": "プロのトレーナーを目指し始めてから、ずっとお世話になってきた\n元トレーナーである先生に慰められる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thầy",
+      "text": "Chẳng phải từ xưa cậu đã luôn bảo muốn góp sức giúp các Mã Nương vươn tới ước mơ sao. Ta vẫn luôn đặt trọn kỳ vọng vào cậu đấy.",
+      "jpname": "先生",
+      "jptext": "ウマ娘が目指す夢の手助けがしたいって、昔から言ってたろ。\n俺はそんなお前さんにずーっと期待してるんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù chứng kiến bộ dạng ủ rũ thảm hại này của tôi, thầy vẫn nói rằng vẫn luôn kỳ vọng vào tôi. Bằng một ánh mắt chẳng chút mảy may nghi ngờ.",
+      "jpname": "モノローグ",
+      "jptext": "……こんな情けない姿を見ておきながら、先生はなおも\n自分に期待していると言った。一切の疑いもない目で。",
+      "choice_data_list": [
+        "Kỳ vọng, sao……"
+      ],
+      "jpchoice_data_list": [
+        "期待、か……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "???",
+      "text": "Nếu em có thể giúp được gì thì em rất sẵn lòng!",
+      "jpname": "？？？",
+      "jptext": "私でよければ、喜んで！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương đàn em",
+      "text": "Em cảm ơn tiền bối Top Road rất nhiều ạ. Em thực sự vô cùng yêu thích và ngưỡng mộ những sải bước thẳng tiến kiên định của tiền bối... Bắt tiền bối phải khó xử thế này, em xin lỗi ạ!",
+      "jpname": "後輩のウマ娘",
+      "jptext": "ありがとうございます、トプロ先輩。私、先輩の真っ直ぐな走りが\n本当に好きで憧れで……ムリ言ってすみません！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Không sao đâu mà! Dù không biết cách chạy của mình có giúp ích được gì cho em không... nhưng em cứ thoải mái quan sát nhé.",
+      "jpname": "ナリタトップロード",
+      "jptext": "大丈夫です！　私の走りが勉強になるかはわかりませんが……\nいくらでも見ていてくださいっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nếu có câu hỏi gì, lát nữa mình sẽ giải đáp cho. Đừng ngại ngần gì hết nhé. Vậy thì, bắt đầu ngay nào——",
+      "jpname": "ナリタトップロード",
+      "jptext": "質問があれば、後で答えますね。\n遠慮はなしですっ。それじゃ、早速――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ha ha ha ha ha ha!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "はーっはっはっはっはっはっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Dường như nữ thần số phận đã đan dệt sợi tơ gắn kết chúng ta lại với nhau rồi! Nào, hãy để ta bước lên sân khấu biểu diễn!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "運命の女神がボクらにその糸を絡めたようだね！\nさあ、舞台へと立たせてもらおう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Dẫu bức màn nhung chưa hạ mở, nhưng khúc dạo đầu đã vang vọng ngay tại nơi đây! Đúng không nào, Ayabe-san!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "幕はまだ開かずとも、エチュードはここに響いているのだから！\nそうだろう、アヤベさん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Chẳng hiểu cậu đang nói cái gì nữa. Đừng có lôi tôi vào.",
+      "jpname": "アドマイヤベガ",
+      "jptext": "……わけがわからない。私を巻き込むのはやめて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Opera O-chan, Ayabe-san! Hai bạn cũng đang tập luyện sao. Trùng hợp quá!",
+      "jpname": "ナリタトップロード",
+      "jptext": "オペラオーちゃん、アヤベさん！\n2人もトレーニング中だったんですね。偶然！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương đàn em",
+      "text": "Ơ... vậy là em sẽ được xem cả ba người cùng chạy sao ạ!? Em cảm ơn mọi người nhiều lắm! Trăm sự nhờ các tiền bối ạ.",
+      "jpname": "後輩のウマ娘",
+      "jptext": "えっえっ……じゃあ3人の走るところを見せてもらえるんですか！？\nありがとうございます！　よろしくお願いしますっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Đã bảo là tôi chỉ chạy một mình——",
+      "jpname": "アドマイヤベガ",
+      "jptext": "だから私は1人で――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Được chứ, quá tuyệt vời!!!!!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "いいとも！！！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Khoan đã...",
+      "jpname": "アドマイヤベガ",
+      "jptext": "ちょっ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Phì, hiếm khi có dịp thế này, chúng ta cùng chạy song hành đi! Mình tin chắc sẽ học hỏi được rất nhiều điều từ nhau đấy.",
+      "jpname": "ナリタトップロード",
+      "jptext": "ふふっ。せっかくですし、みんなで併走しましょう！\nきっと学べることも多いと思うんですっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nhưng mà... một khi đã so tài thì mình không chịu thua đâu nhé!",
+      "jpname": "ナリタトップロード",
+      "jptext": "でも……やるからには負けませんよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nghe câu nói đó, ánh mắt của T.M. Opera O và Admire Vega lập tức biến đổi.",
+      "jpname": "モノローグ",
+      "jptext": "その言葉に、\nテイエムオペラオーとアドマイヤベガの目つきが変わる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Xin lỗi, vị Trainer đằng kia ơi! Thầy có thể ra hiệu lệnh xuất phát giúp bọn em được không ạ!?",
+      "jpname": "ナリタトップロード",
+      "jptext": "すみません、そこのトレーナーさん！\nスタートの合図をいただけませんか！？",
+      "choice_data_list": [
+        "Hả? À, tôi hiểu rồi……"
+      ],
+      "jpchoice_data_list": [
+        "え？あっ、わかった……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả ba người này đều là những Mã Nương đang rất nổi tiếng trong học viện lúc này. Tôi nghe nói đặc biệt là Narita Top Road và Admire Vega đang nhận được rất nhiều sự chú ý.",
+      "jpname": "モノローグ",
+      "jptext": "この3人は、いま学園でも噂になっているウマ娘たちだ。\n特にナリタトップロードとアドマイヤベガは注目されていると聞く。",
+      "choice_data_list": [
+        "——Xuất phát!"
+      ],
+      "jpchoice_data_list": [
+        "――スタート！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng vó guốc đạp mạnh mẽ lên thảm cỏ vang rền ngay khi hiệu lệnh vừa dứt.",
+      "jpname": "モノローグ",
+      "jptext": "激しく芝を蹴る音が、合図と同時に響く。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Mặt đường chạy, tốt...! Thế này thì chẳng có vấn đề gì cả!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "バ場状態、良……！\nこれなら何の問題もない！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Haaa a a...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はぁぁああ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Khoảnh khắc chói lọi rực rỡ nhất, ta nắm rõ trong lòng bàn tay...! Hãy cất lên khúc ca khởi hành từ dàn hợp xướng này nào!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "もっとも輝く瞬間を、ボクは知っている……！\n奏でよう、アンサンブルから旅立つ歌を！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Hự, hà...! Tránh ra... mau...!",
+      "jpname": "アドマイヤベガ",
+      "jptext": "……っ、はっ……！\nそこを……どいて……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "! Opera O-chan, Ayabe-san...! Hự, mình cũng... sẽ không dừng lại ở đây đâu...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "！　オペラオーちゃん、アヤベさん……！\n……っ、私だって……まだまだいきますよ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cả 3 người",
+      "text": "Haaaa a a a a a a!!",
+      "jpname": "3人",
+      "jptext": "はぁぁああああああ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả T.M. Opera O lẫn Admire Vega đều thể hiện những bước chạy thật tuyệt hảo. Ai cũng sở hữu nét lôi cuốn độc đáo thu hút mọi ánh nhìn.",
+      "jpname": "モノローグ",
+      "jptext": "テイエムオペラオーもアドマイヤベガも、見事な走りだ。\nどちらも人の目を惹く個性的な魅力がある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, người khiến tôi không thể nào rời mắt nhất trong số họ lại là——",
+      "jpname": "モノローグ",
+      "jptext": "しかし、その中でもっとも目が離せなくなったのは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Narita Top Road...!",
+      "jpname": "モノローグ",
+      "jptext": "ナリタトップロード……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tư thế chạy với sải chân rộng và đầy uy lực. Những bước chạy không ngừng bứt tốc cuồn cuộn về phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "ストライドが広く力強いフォーム。\nグングンとスピードに乗っていく走り。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ở những bước chân vươn dài dẫn đầu đoàn chạy ấy, chẳng hề vương một chút do dự nào. Tựa hồ như đang cất tiếng reo vang rằng nơi đích đến, tương lai phía trước đang ngập tràn ánh hào quang——",
+      "jpname": "モノローグ",
+      "jptext": "ぐっと伸びて先頭を駆けていく走りに、一切の迷いは感じない。\nまるで、目指す先、未来は輝いているのだと叫んでいるような――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thật rạo rực làm sao. Trong tâm trí tôi nảy ra vô vàn giáo án luyện tập, và trái tim tôi đang đập rộn ràng hối thúc mình phải hành động.",
+      "jpname": "モノローグ",
+      "jptext": "……ワクワクする。頭の中にたくさんのトレーニングメニューが\n浮かんで、行動しろと心が躍動している。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Phù... sảng khoái thật đấy! Phì phì, tuy là cuộc chạy song hành bất ngờ nhưng vui thật đó!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ふぅー……いい気分！\nふふっ、急な併走だったけど、楽しかった～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em hậu bối cũng hào hứng ghê. Lần tới mình phải tập luyện chăm chỉ hơn nữa để cho em ấy thấy những sải bước tuyệt vời hơn nữa mới được!",
+      "jpname": "ナリタトップロード",
+      "jptext": "後輩ちゃんも興奮してたな～。次はもーっとすごい走りが\n見せられるように、トレーニングしておかなきゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, Trainer-san! Vừa nãy cảm ơn thầy rất nhiều vì đã ra hiệu lệnh xuất phát cho chúng em ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "――あ、トレーナーさんっ。\n先ほどはスタートの合図、ありがとうございました！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi chưa thể thay đổi ngay lập tức hành động hay suy nghĩ của mình. Càng chưa thể tự tin ưỡn ngực tuyên bố mình là một Trainer chuyên nghiệp tài ba.",
+      "jpname": "モノローグ",
+      "jptext": "自分の行動や思考をすぐに変えることはできない。\n胸を張ってプロのトレーナーだと主張することも、まだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vậy thì chí ít, hãy thành thật bộc bạch bằng lòng kiên định chân thành tựa như chính những bước chạy của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ならせめて誠実に、彼女の走りのような一途さで伝えてみよう。",
+      "choice_data_list": [
+        "Thật ra tôi đang tìm kiếm một Mã Nương để chiêu mộ",
+        "Hiện tại tôi đang tìm kiếm một Mã Nương để chiêu mộ"
+      ],
+      "jpchoice_data_list": [
+        "今、スカウトするウマ娘を探してたんだ",
+        "今、スカウトするウマ娘を探してたの"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, ra là vậy ạ! Thế có phải thầy là Trainer tân binh không ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ、そうなんですね！\nじゃあもしかして、新人トレーナーさんなんですか？",
+      "choice_data_list": [
+        "Thực ra đúng là như vậy",
+        "Thật ra đúng là thế đấy"
+      ],
+      "jpchoice_data_list": [
+        "実はそうなんだ",
+        "実はそうなの"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oa! Mới bắt đầu thì hồi hộp lắm phải không ạ...! Hồi em mới vào Học viện Tracen tim cũng đập thình thịch liên hồi luôn đó!",
+      "jpname": "ナリタトップロード",
+      "jptext": "わー！　最初って緊張しますよね……！\n私もトレセン学園に入ったばかりの頃はドキドキでした！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Từ nhỏ em đã lớn lên cùng những câu chuyện về Học viện Tracen do người thầy từng dạy dỗ em kể lại, nên lúc đỗ vào đây em thấy vô cùng, ừm thì... vô cùng xúc động luôn ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "子どもの頃にお世話になった先生から、トレセン学園のことを\n聞いて育っていたので入れた時はすごく、その……すごかったです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A! Thưa thầy, có điều gì em giúp được cho thầy không ạ? Nếu có ai thầy muốn bắt chuyện, em sẽ đi gọi họ lại đây giúp thầy nhé.",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ！　あの、何か私にお手伝いできることはありますか？\n声をかけたい相手とかいたら、呼んできますよっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu vậy thì tôi có điều này muốn em lắng nghe. Tôi hít một hơi thật sâu rồi đứng thẳng lưng dậy.",
+      "jpname": "モノローグ",
+      "jptext": "だったら聞かせてほしいことがある、と\n深呼吸し、背筋を伸ばす。",
+      "choice_data_list": [
+        "Em có ước mơ nào đang hướng tới không?",
+        "Ước mơ em đang hướng tới là gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "君には目指している夢はある？",
+        "貴方には目指している夢はある？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ? Ước mơ của em ạ? Nhắc mới nhớ, có lẽ đây là lần đầu tiên em nói ra điều này một cách rõ ràng như vậy.",
+      "jpname": "ナリタトップロード",
+      "jptext": "え？　私の夢ですか？\nそういえば、改めて口に出すの初めてかも。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em——muốn đáp lại kỳ vọng của tất cả mọi người!",
+      "jpname": "ナリタトップロード",
+      "jptext": "私は――みんなの期待に応えたいです！",
+      "choice_data_list": [
+        "Đáp lại kỳ vọng của mọi người……"
+      ],
+      "jpchoice_data_list": [
+        "みんなの期待に……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Vâng ạ! Gia đình, bạn bè, đàn em... tất cả những ai đang cổ vũ cho em. Và cả——",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい！　家族や友だち、後輩……応援してくれるみんな。\nそれと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nếu có Mã Nương nào xem em là đối thủ, em cũng muốn có thể chạy thật xứng đáng với điều đó để không làm ai phải thất vọng.",
+      "jpname": "ナリタトップロード",
+      "jptext": "もしも私をライバルとして見てくれるウマ娘がいるなら、\nそれに相応しい走りができるように、ガッカリさせないように。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em muốn đáp lại trọn vẹn những kỳ vọng ấy!",
+      "jpname": "ナリタトップロード",
+      "jptext": "私は、期待に応えたいと思います！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó tuyệt nhiên không phải một câu trả lời hiếm gặp. Thế nhưng, tại sao nhỉ. Nó lại chạm tới trái tim tôi một cách mạnh mẽ và vang vọng hơn bất kỳ ai từ trước đến nay.",
+      "jpname": "モノローグ",
+      "jptext": "決して、珍しい答えではなかった。けれど、どうしてだろう。\n今までの誰よりも、強く――響くように胸へと届いたのは。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi chầm chậm hít sâu thêm một lần nữa, nhìn thẳng vào mắt Narita Top Road rồi cất lời.",
+      "jpname": "モノローグ",
+      "jptext": "もう1度ゆっくりと深呼吸し、ナリタトップロードを見つめ、言う。",
+      "choice_data_list": [
+        "Tôi muốn được cùng em dõi theo ước mơ ấy",
+        "Tôi muốn cùng em chạm tới ước mơ ấy"
+      ],
+      "jpchoice_data_list": [
+        "君の夢を一緒に見たい",
+        "貴方の夢を一緒に見たい"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ơ... câu đó nghĩa là...",
+      "jpname": "ナリタトップロード",
+      "jptext": "え……それって……。",
+      "choice_data_list": [
+        "Tôi muốn trở thành Trainer của em",
+        "Hãy để tôi trở thành Trainer của em"
+      ],
+      "jpchoice_data_list": [
+        "君のトレーナーになりたいんだ",
+        "貴方のトレーナーになりたいの"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "T-Thật sự được sao ạ!? Oa, em rất mong được thầy chỉ bảo giúp đỡ ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "い、いいんですか！？\nわぁ、よろしくお願いします！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Liệu mình lại bị từ chối nữa không. Thế nhưng, dẫu vậy tôi vẫn không thể không nói——",
+      "jpname": "モノローグ",
+      "jptext": "また断られるだろうか。けれど、それでも言わずには――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "…………",
+      "jpname": "モノローグ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ơ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "え？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả hai ngơ ngác nhìn nhau. Giữa hai chúng tôi bỗng bao trùm một bầu không khí thật kỳ lạ...",
+      "jpname": "モノローグ",
+      "jptext": "互いにきょとんとし、見つめ合う。\n2人の間に、妙な空気が流れたのだった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

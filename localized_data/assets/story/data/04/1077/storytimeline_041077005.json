@@ -1,0 +1,330 @@
+{
+  "title": "Bóng đen chắn lối",
+  "jptitle": "道を塞ぐ黒い影",
+  "text_block_list": [
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Hà, hà... Phải nhanh lên không giáo viên mắng mất thôi! Trời ạ, sao lại trúng phiên trực nhật đổ rác đúng lúc thế này cơ chứ...!",
+      "jpname": "クラスメイトのウマ娘",
+      "jptext": "はぁ、はぁ……急がないと、先生に怒られちゃう～！\nもうっ、こんな時にゴミ捨て当番なんて……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oái! ...Úi chà. Cậu làm sao thế? Sao lại hớt hải vội vàng như vậy.",
+      "jpname": "ナリタトップロード",
+      "jptext": "わっ！　……っとと。\nどうしたんですか？　そんなに慌てて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Lớp trưởng Top Road! Tớ xin lỗi, tại tớ đang vội quá... Vừa nãy giáo viên gọi tớ lên gặp để phỏng vấn bây giờ luôn này...",
+      "jpname": "クラスメイトのウマ娘",
+      "jptext": "トプロ委員長！　ごめん、急いでたから……。\nさっき先生に呼ばれてさ、これから面談があって……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, vậy thì việc đổ rác cứ để tớ làm cho! Cậu mau đến phòng giáo viên đi!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ああ、でしたらゴミ捨て、私がやりますよ！\nどうぞ先生のところへ行ってください！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp",
+      "text": "Hả!? ...Thật sao? Vậy thì... phiền cậu nhé? Lần tới tớ nhất định sẽ đền ơn cậu đàng hoàng luôn đó!",
+      "jpname": "クラスメイトのウマ娘",
+      "jptext": "えっ！？　……ほんとに？\nじゃあ……お願いしてもいい？　このお礼は、今度絶対するから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A ha ha, ơn huệ gì đâu mà. Việc cỏn con này loáng cái là xong ngay ấy mà! Phỏng vấn cố lên nhé!",
+      "jpname": "ナリタトップロード",
+      "jptext": "あはは、お礼なんていいですよ。これくらいすぐ終わりますから！\n面談、頑張ってください！",
+      "choice_data_list": [
+        "(Hôm nay em ấy lại được mọi người nhờ cậy rồi)",
+        "(Hôm nay em ấy lại được tin tưởng dựa dẫm ghê)"
+      ],
+      "jpchoice_data_list": [
+        "（今日も頼られているな）",
+        "（今日も頼られているね）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đang làm việc, những mẩu đối thoại vọng vào từ ngoài cửa sổ khiến tôi bất giác mỉm cười. Sự đáng tin cậy của Narita Top Road hôm nay vẫn vẹn nguyên như mọi khi.",
+      "jpname": "モノローグ",
+      "jptext": "仕事中、窓の外から聞こえてきた会話に微笑ましくなる。\nナリタトップロードの頼もしさは今日も健在のようだ。",
+      "choice_data_list": [
+        "(Mình cũng phải cố gắng lên thôi!)",
+        "(Mình cũng phải phấn đấu mới được!)"
+      ],
+      "jpchoice_data_list": [
+        "（俺も頑張るぞ！）",
+        "（私も頑張ろう！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi quay lại giải quyết đống giấy tờ đang dở dang. Sau khi dọn dẹp xong xuôi những công việc còn tồn đọng, tôi tiến ra sân tập.",
+      "jpname": "モノローグ",
+      "jptext": "中断していた書類仕事と、再び向き合う。\nそうして残った仕事を片付け、グラウンドへと向かった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, khi đi ngang qua khu tập kết rác trên đường đi——",
+      "jpname": "モノローグ",
+      "jptext": "だが、移動中にゴミ捨て場を通りかかった時――",
+      "choice_data_list": [
+        "(Ủa……?)"
+      ],
+      "jpchoice_data_list": [
+        "（あれ……？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước bãi rác, Narita Top Road đang đứng chết lặng như chôn chân tại chỗ. Quanh tấm lưới chắn chim che trên đống rác có vài con quạ đang lượn lờ vây quanh.",
+      "jpname": "モノローグ",
+      "jptext": "ゴミ捨て場の前で、ナリタトップロードが立ち尽くしていた。\nゴミを覆う防鳥ネット付近に、数羽のカラスがたむろしている。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "......Không nhìn vào mắt chúng, không để ý đến chúng. Rón rén bước lại gần... rồi thoăn thoắt rời đi ngay...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "…………目を合わせない、気にしない。\nそっと近寄って……さっと、去る……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Quạ",
+      "text": "Quạtt.",
+      "jpname": "カラス",
+      "jptext": "カー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oái!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "うわぁ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "......Hức...... hự......",
+      "jpname": "ナリタトップロード",
+      "jptext": "…………うぅ…………っ…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Phùuuu...... Không sao, không sao cả...",
+      "jpname": "ナリタトップロード",
+      "jptext": "……ふぅーーーっ…………大丈夫、大丈夫……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Quạ",
+      "text": "Quạttt.",
+      "jpname": "カラス",
+      "jptext": "カァ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hự hự hự! ......U u u u u u u......",
+      "jpname": "ナリタトップロード",
+      "jptext": "っっっ！\n……～～～～～～～。",
+      "choice_data_list": [
+        "Chẳng lẽ…… em sợ quạ sao?",
+        "Không lẽ…… em không chịu nổi quạ à?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして……カラスが苦手なのか？",
+        "もしかして……カラスが苦手なの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, T-Trainer-san...",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ、と、トレーナーさん……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ thì, vâng... Hồi bé em từng bị chúng nó lao vào dọa dẫm hung dữ lắm... Đến tận bây giờ em vẫn cứ nhớ lại chuyện hồi đó...",
+      "jpname": "ナリタトップロード",
+      "jptext": "えっと、はい……子どもの頃、威嚇されたことがあって……\n今でも、その時のことを思い出してしまって……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Riêng loài quạ thì em tuyệt đối không thể nào chịu đựng nổi ạ...",
+      "jpname": "ナリタトップロード",
+      "jptext": "……カラスだけは、どうしてもダメなんですよね……。",
+      "choice_data_list": [
+        "——Để tôi vứt thay cho"
+      ],
+      "jpchoice_data_list": [
+        "――代わりに捨ててくるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ? Thế sao được ạ, ngại lắm ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "え？　そんな、悪いですよ！",
+      "choice_data_list": [
+        "Tôi không sợ quạ đâu, cứ để đó cho tôi",
+        "Tôi chẳng ngại quạ chút nào đâu, cứ giao cho tôi"
+      ],
+      "jpchoice_data_list": [
+        "俺はカラス、平気だから。任せて",
+        "私はカラス、平気だから。任せて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Thầy cứu em một bàn thua trông thấy rồi. Em cảm ơn thầy nhiều lắm ạ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "……助かりました。\n本当に、ありがとうございました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, em thấy bản thân mình thảm hại quá đi mất! Nếu không có thầy đến giúp thì chắc bây giờ em vẫn còn đứng chôn chân ở đây... Thật sự thật sự cảm ơn thầy rất nhiều ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ～、自分が情けないですっ！　来ていただかなかったら、\nきっとまだ……本当の本当に、ありがとうございました！",
+      "choice_data_list": [
+        "Chuyện này có gì to tát đâu, cơ mà……"
+      ],
+      "jpchoice_data_list": [
+        "このくらい大したことはないけど……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Biết nén nỗi sợ hãi để cố hoàn thành nhiệm vụ được giao là điều rất đáng khen. Nhưng nhìn bộ dạng khi nãy của em...",
+      "jpname": "モノローグ",
+      "jptext": "苦手な気持ちを我慢して、任されたことを完遂しようと\n思う気持ちは偉い。だが、先ほどの様子を見るに……。",
+      "choice_data_list": [
+        "Em nhờ người khác giúp cũng có sao đâu?"
+      ],
+      "jpchoice_data_list": [
+        "他の人にお願いしてもよかったんじゃ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Vì em đã nhận lời rồi ạ. Em nghĩ bản thân phải có trách nhiệm làm đến cùng.",
+      "jpname": "ナリタトップロード",
+      "jptext": "……私が引き受けたことですから。\n私が最後までやるべきだと思ったんです。",
+      "choice_data_list": [
+        "Nhưng việc có quạ là ngoài dự tính của em mà?",
+        "Nhưng quạ xuất hiện là ngoài dự tính mà đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "でも、カラスは予想外だったんだろ？",
+        "でも、カラスは予想外だったんでしょ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ thì, đúng là thế thật... nhưng em đâu thể cứ vứt rác chỏng chơ ở đó được ạ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "ええ、まぁ……ですけど、ゴミを\nそのままにしておくことはできませんから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hơn nữa, bạn ấy giao lại cho em là vì tin tưởng rằng em sẽ hoàn thành chu đáo.",
+      "jpname": "ナリタトップロード",
+      "jptext": "それに、任せてくれた子も、私ならきちんとやり遂げると\n信じてくれたんだと思うんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "——Nếu đã vậy thì em muốn đáp lại niềm kỳ vọng ấy.",
+      "jpname": "ナリタトップロード",
+      "jptext": "――なら、私はその期待に応えたい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dẫu có khó khăn, vất vả đến đâu đi chăng nữa. Bởi vì em xem đó là trách nhiệm khi được người khác trao gửi niềm tin!",
+      "jpname": "ナリタトップロード",
+      "jptext": "どんなにきつくても、大変でも。\nそれが、期待を託された責任だと思うので！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Đáp lại kỳ vọng của mọi người chính là niềm hạnh phúc lớn nhất của em mà!",
+      "jpname": "ナリタトップロード",
+      "jptext": "期待に応えることが、私の喜びですから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Cơ mà, vừa được thầy cứu một phen xong mà lại mạnh miệng nói thế thì chẳng có chút thuyết phục nào thầy nhỉ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "……って、助けていただいたのに言っても、\n説得力ないですよね。",
+      "choice_data_list": [
+        "Không hề đâu. Tôi thấy đó là chí hướng rất đáng trân trọng"
+      ],
+      "jpchoice_data_list": [
+        "そんなことないよ。立派な志だと思う"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em cảm ơn thầy ạ. Để không chỉ là kẻ nói suông, em sẽ cố gắng nhiều hơn nữa!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ありがとうございます。\n口先だけにならないよう、もっともっと頑張りますっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tinh thần trách nhiệm cao độ và luôn có ý chí cầu tiến. Đó là phẩm chất tuyệt vời, thế nhưng——tôi lại bất giác mong rằng em ấy có thể dựa dẫm vào những người xung quanh nhiều hơn một chút.",
+      "jpname": "モノローグ",
+      "jptext": "責任感が強く、向上心が高い。それは、よいことなのだが――\nもう少し、周囲を頼ってもいいのにと思ってしまうのであった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "title": "Con đường dẫn tới đích",
+  "jptitle": "そこへ至る道",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "——Mùa hè đã sang. Các Mã Nương tụ hội về miền biển, dốc sức rèn giũa bản thân đến tận cùng giới hạn trong kỳ huấn luyện mùa hè.",
+      "jpname": "モノローグ",
+      "jptext": "――夏が来た。\nウマ娘たちは海に集い、夏合宿の間、限界まで己を鍛える。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Haaaa a a a a!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はぁぁぁぁぁぁぁ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dưới ánh nắng gay gắt, Narita Top Road đạp tung những hạt cát. Thực lực của em đang vững vàng tiến bộ từng ngày.",
+      "jpname": "モノローグ",
+      "jptext": "炎天の下、ナリタトップロードが砂を蹴り上げる。\n着実に実力をつけていく。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các Mã Nương bạn cùng lớp",
+      "text": "Lớp trưởng Top Road ơii! Cố lên nhéee!!",
+      "jpname": "クラスのウマ娘たち",
+      "jptext": "トプロ委員長ー！　頑張って～～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "! Yaaaa a a a a——!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "！\nやぁぁぁぁぁぁーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "——Tất cả là để đáp lại niềm kỳ vọng. Bầu nhiệt huyết rực cháy ấy dường như chẳng hề biết đến điểm dừng.",
+      "jpname": "モノローグ",
+      "jptext": "――すべては、期待に応えるために。\nその熱量はとどまるところを知らないのであった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trainer-san, hôm nay cũng cảm ơn thầy đã hết lòng chỉ dẫn cho em ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさん、\n今日もご指導ありがとうございました！",
+      "choice_data_list": [
+        "Ừ, vậy hẹn mai gặp lại nhé"
+      ],
+      "jpchoice_data_list": [
+        "うん、じゃあ、また明日"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ vâng, hẹn... A, phải rồi. Trainer-san, lát nữa thầy có kế hoạch gì chưa ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい、また……あ、そうだ。\nトレーナーさん、この後ご予定はありますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em định đi lễ hội mùa hè gần đây để đổi gió thư giãn chút xíu! Nếu được thì thầy đi cùng em có được không ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "私、息抜きに近くの夏祭りへ行こうと思うんです！\nよければご一緒に、いかがですか？",
+      "choice_data_list": [
+        "Được chứ, nhất trí luôn!",
+        "Ừ, tôi rất sẵn lòng!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、ぜひとも！",
+        "うん、ぜひとも！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Ồ, mùi nước sốt thơm nức mũi luôn ạ! Trainer-san, mình nên ăn món gì trước đây thầy nhỉ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "おおー、ソースのいい匂いです！\nトレーナーさん、何から食べましょうか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Bánh xèo Okonomiyaki này, mì xào Yakisoba này... Kìa? Những người đằng kia chẳng phải là...",
+      "jpname": "ナリタトップロード",
+      "jptext": "お好み焼きに、焼きそば……\nあれ？　あそこにいるのって……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các Mã Nương bạn cùng lớp",
+      "text": "A, Lớp trưởng Top Road! Đúng lúc quá chừng!! Xin cậu đấy, cứu bọn tớ vớiii!!",
+      "jpname": "クラスのウマ娘たち",
+      "jptext": "あっ、トプロ委員長！　いいところに！！\nお願いっ、助けてぇ～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước một gian hàng bắn súng trúng thưởng, một nhóm Mã Nương đang tụ tập với gương mặt đầy vẻ tiếc nuối. Dường như họ là bạn cùng lớp của Narita Top Road.",
+      "jpname": "モノローグ",
+      "jptext": "射的の屋台の前に、悔しそうな顔のウマ娘たちが集まっている。\nナリタトップロードのクラスメイトのようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp A",
+      "text": "Bọn tớ nhắm bộ pháo hoa cầm tay kia mãi mà chẳng ai bắn rơi được cả! Rõ ràng bọn tớ muốn cùng nhau chơi pháo hoa mà lị...!",
+      "jpname": "クラスのウマ娘A",
+      "jptext": "あの手持ち花火セットを狙ってるんだけど、誰も落とせなくって！\nみんなで花火したいのに～～っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp B",
+      "text": "Lớp trưởng Top Road! Cậu phục thù giúp bọn tớ có được không!?",
+      "jpname": "クラスのウマ娘B",
+      "jptext": "トプロ委員長！\n私たちのカタキ、取ってもらえない！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hả!? Tớ á!?",
+      "jpname": "ナリタトップロード",
+      "jptext": "えっ！？　私がですか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Bộ pháo hoa ở góc kia thì phải bắn chuẩn xác vào góc trên bên phải... Nhưng mà... tớ không giỏi mấy việc tỉ mỉ này cho lắm...",
+      "jpname": "ナリタトップロード",
+      "jptext": "……花火は、あの状態だと正確に右上に当てる必要が……\nでも……私、あまり細かいことは……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các Mã Nương bạn cùng lớp",
+      "text": "Lớp trưởng ơi, đi mà cậu!!",
+      "jpname": "クラスのウマ娘たち",
+      "jptext": "委員長、お願いっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "——Tớ hiểu rồi. Trước hết tớ sẽ bắn thử xem sao nhé!",
+      "jpname": "ナリタトップロード",
+      "jptext": "――わかりました。\nとりあえず、やってみますっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nhắm vào góc trên bên phải............ Bắn! ——A, trượt mất rồi...",
+      "jpname": "ナリタトップロード",
+      "jptext": "右上を狙って…………えいっ！\n――あっ、外れた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Lần này nhất định............ Bắn! ——Oái, lần này lại bay lên trên............ Hự, thêm một phát nữa!",
+      "jpname": "ナリタトップロード",
+      "jptext": "次こそ…………えいっ！\n――うわ、今度は上に…………っ、もう1回っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "......Thôi chết rồi. Chỉ còn đúng một viên đạn cuối cùng...",
+      "jpname": "ナリタトップロード",
+      "jptext": "…………しまった。弾、あとひとつ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "(Làm sao bây giờ, mọi người đã tin tưởng nhờ vả mình như thế... Mình không thể kết thúc trong thất bại thế này được... nhưng mà...!)",
+      "jpname": "ナリタトップロード",
+      "jptext": "（どうしよう、みなさんに頼っていただいたのに……\nこのまま終わるわけには……でも……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bất chợt, ánh mắt tôi chạm phải ánh nhìn của Narita Top Road.",
+      "jpname": "モノローグ",
+      "jptext": "ぱち、と。ナリタトップロードと目が合う。",
+      "choice_data_list": [
+        "(Tôi luôn sẵn sàng giúp em một tay bất cứ lúc nào đấy……!)",
+        "(Tôi luôn sẵn lòng hỗ trợ em bất cứ lúc nào mà……!)"
+      ],
+      "jpchoice_data_list": [
+        "（こっちは、いつでも力になるぞ……！）",
+        "（こっちは、いつでも力になるよ……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trainer-san! Xin thầy hãy chỉ cho em mẹo ngắm bắn với ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさん！\n撃ち方のコツを教えてください！",
+      "choice_data_list": [
+        "Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước tiên, vì thấy em đang gồng quá sức nên tôi bảo em hãy hạ súng xuống một chút. Tôi khuyên em đừng chỉ dùng mỗi cánh tay để giữ súng mà hãy dùng cả cơ thể làm điểm tựa.",
+      "jpname": "モノローグ",
+      "jptext": "まず、力みすぎているので一旦銃を下ろすよう伝えた。\n腕だけで銃を支えるのでなく、体で支える意識でと告げる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dùng cả cơ thể làm điểm tựa đúng không ạ. Em sẽ thử xem sao!",
+      "jpname": "ナリタトップロード",
+      "jptext": "体で支える、ですね。やってみます！",
+      "choice_data_list": [
+        "Với lại khi bóp cò dễ bị giật nảy nên hãy khép chặt nách lại nhé"
+      ],
+      "jpchoice_data_list": [
+        "あと、撃つ時にブレるから脇を締めて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Rõ ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "了解です！",
+      "choice_data_list": [
+        "Cả khi lấy đường ngắm cũng xoay trọn người theo nhé"
+      ],
+      "jpchoice_data_list": [
+        "狙いを定める時も、体ごと向けて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ vâng...! Lên nào!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい……！　いざっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Pằng... cạch! Rơi bịch)",
+      "jpname": "モノローグ",
+      "jptext": "（ポンッ……ポコン！　トサッ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Tr...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……やっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp A",
+      "text": "Trúng rồiii!! Cảm ơn Lớp trưởng nhiều nhéee!!",
+      "jpname": "クラスのウマ娘A",
+      "jptext": "やった～～～～！！\n委員長、ありがと～～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ rồi, dạ rồi! Không có chi đâu mà!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はいっ、はいっ！\nどういたしまして！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Hì hì. May quá đi mất...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……えへへ。よかったぁ……！",
+      "choice_data_list": [
+        "Em vất vả rồi!"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương bạn cùng lớp B",
+      "text": "Này này, Lớp trưởng cũng cùng chơi pháo hoa với bọn tớ đi! Ra chỗ nhìn thấy pháo hoa tầm cao để ngắm pháo hoa đôi luôn nha!",
+      "jpname": "クラスのウマ娘B",
+      "jptext": "ねえねえ、委員長も花火、一緒にやろっ！\n打ち上げ花火が見えるところで、ダブル花火だよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oa, nhất định rồi! Mình cùng đi thôi, Trainer-san!",
+      "jpname": "ナリタトップロード",
+      "jptext": "わぁ、ぜひ！\n行きましょう、トレーナーさん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi lặng ngắm các Mã Nương đang nô đùa ríu rít với phần thưởng pháo hoa trên tay. Từ giữa vòng vui chơi, Narita Top Road bỗng tách ra và chạy lại gần tôi.",
+      "jpname": "モノローグ",
+      "jptext": "景品の花火を手に、はしゃぐウマ娘たちを見守る。その中心で\n遊んでいたナリタトップロードが、輪を抜けて駆け寄ってきた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trainer-san cũng vào chơi pháo hoa đi ạ? Dù sao thầy cũng là công thần lớn nhất lần này mà!",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさんも、花火やりませんか？\nせっかく今回の立役者なんですから！",
+      "choice_data_list": [
+        "Chỉ cần nhìn thôi là tôi cũng thấy vui rồi"
+      ],
+      "jpchoice_data_list": [
+        "見てるだけで楽しいよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Chỉ cần nhìn thôi là...... ............",
+      "jpname": "ナリタトップロード",
+      "jptext": "見てるだけで……、\n…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Phì phì, đúng là thế thật ạ. Trông ai nấy đều vô cùng hạnh phúc!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……ふふっ、そうですね。\nみんなすっごく楽しそうです！",
+      "choice_data_list": [
+        "Thấy mọi người vui vẻ như vậy thật tốt quá",
+        "Mọi người đều vui mừng như thế thật là tốt quá"
+      ],
+      "jpchoice_data_list": [
+        "喜んでもらえてよかったな",
+        "喜んでもらえてよかったね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ vâng. ...Hóa ra Trainer-san luôn trân trọng những điều mà em hằng nâng niu gìn giữ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい。……トレーナーさんは、私が大事にしたいことを、\nずっと大事にしてくれているんですね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Trước đây ở công viên giải trí, chẳng phải thầy từng bảo với em rằng hãy cứ dựa dẫm vào thầy sao.",
+      "jpname": "ナリタトップロード",
+      "jptext": "……前に遊園地で、『頼ってほしい』って、\n言ってくれたことがあったじゃないですか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Lúc đó em đã hơi ngạc nhiên một chút. Bởi vì em cứ ngỡ một khi đã được giao việc thì tự mình hoàn thành là điều hiển nhiên.",
+      "jpname": "ナリタトップロード",
+      "jptext": "私、ちょっとびっくりしたんです。\n任された以上、1人でやるのは当たり前だと思ってたので。",
+      "choice_data_list": [
+        "Em lúc nào cũng vô tình cố gồng gánh một mình quá mức mà",
+        "Em toàn vô thức gắng gượng một mình quá mức thôi"
+      ],
+      "jpchoice_data_list": [
+        "つい、1人で頑張りすぎてしまうんだな",
+        "つい、1人で頑張りすぎてしまうんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A ha ha, đúng là vậy thật ạ. Cứ được người khác tin tưởng giao phó là em lại thấy vui ơi là vui... thế nên dẫu có vất vả em cũng chẳng nề hà gì.",
+      "jpname": "ナリタトップロード",
+      "jptext": "あはは、そうなんです。任せてもらったことが\n嬉しくて、嬉しくて……だから、大変でもへっちゃらで。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thế nhưng, thầy đã giúp em nhận ra rằng đôi khi tự mình gồng gánh không phải là lựa chọn tốt nhất.",
+      "jpname": "ナリタトップロード",
+      "jptext": "でも、1人でやることがベストじゃない時もあるんだって、\n気づかされました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "——Mình hoàn toàn có thể nhờ cậy người khác. Hoàn toàn có thể cùng nhau kề vai sát cánh mà làm!",
+      "jpname": "ナリタトップロード",
+      "jptext": "――頼っても、いいんだ。\n一緒にやっても、いいんだって！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trainer-san, em muốn đáp lại trọn vẹn niềm kỳ vọng của tất cả mọi người.",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさん、\n私、みんなの期待に応えたいです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thầy có thể tiếp tục tiếp thêm sức mạnh cho em được không ạ? ...Cùng nhau kề vai sát cánh từ nay về sau!",
+      "jpname": "ナリタトップロード",
+      "jptext": "力を貸していただけませんか？\n……一緒に、これからも！",
+      "choice_data_list": [
+        "……Được chứ!",
+        "……Nhất trí luôn!"
+      ],
+      "jpchoice_data_list": [
+        "……ああ！",
+        "……うん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phía trên đỉnh đầu, những chùm pháo hoa rực rỡ bừng nở trên nền trời. Hai chúng tôi cùng nhau ngắm nhìn khung cảnh náo nhiệt tưng bừng chẳng hề thua kém tiếng pháo nổ giòn tan ấy.",
+      "jpname": "モノローグ",
+      "jptext": "頭上で盛大に打ち上げ花火が上がる。その音に負けないくらいの\n賑やかさをみせる光景を、2人で眺めたのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

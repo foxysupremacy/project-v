@@ -1,0 +1,529 @@
+{
+  "title": "Cùng nhau trải bước đường",
+  "jptitle": "共に道を敷く",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ khi đang đi dạo, tôi tình cờ bắt gặp Narita Top Road với dáng vẻ vô cùng hăng hái phấn khởi.",
+      "jpname": "モノローグ",
+      "jptext": "休日に散歩をしていたところ、\n張り切った様子のナリタトップロードに出会った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thời gian từ ký túc xá đến nhà ga, chuẩn rồi! Dự trù thư thả thế này là ổn thỏa. ——Nào, hướng tới nhà ga thôi.",
+      "jpname": "ナリタトップロード",
+      "jptext": "寮から駅までの時間、よし！　これくらい余裕をみておけば\n大丈夫だよね。――さ、駅に向かおう。",
+      "choice_data_list": [
+        "Em đi đâu chơi à?"
+      ],
+      "jpchoice_data_list": [
+        "どこかにお出かけ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trainer-san! Dạ vâng, em định đi công viên giải trí ạ! ...Nói vậy chứ hôm nay em chỉ đi khảo sát trước thôi ạ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさん！　はい、遊園地へ行くんです！\n……と言っても、今日は下見なんですけど。",
+      "choice_data_list": [
+        "Khảo sát trước công viên giải trí sao……?"
+      ],
+      "jpchoice_data_list": [
+        "遊園地に下見……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Sắp tới em có hẹn đi chơi cùng bạn bè và được giao nhiệm vụ làm trưởng nhóm tổ chức. Thế nên em muốn đi thám thính thực tế để chuẩn bị chu đáo mọi thứ ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "今度友だちと遊びに行くんですけど、幹事を任されまして。\nだから下見をして、色々準備しておこうと思って！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy nói bằng giọng điệu như thể đó là lẽ đương nhiên... nhưng tự làm một mình chắc chắn sẽ vất vả lắm. Dù vậy, nếu mình bảo muốn giúp thì khả năng cao em ấy sẽ ngại ngùng từ chối——",
+      "jpname": "モノローグ",
+      "jptext": "本人は当然のように言うが……1人でやるのは大変だろう。\nかといって、手伝うと言っても遠慮をしそうだし――",
+      "choice_data_list": [
+        "Công viên giải trí à, hay đấy. Tôi đi cùng có được không?",
+        "Công viên giải trí sao, thú vị đấy. Cho tôi đi cùng nhé?"
+      ],
+      "jpchoice_data_list": [
+        "遊園地か、いいね。俺も同行しても？",
+        "遊園地か、いいね。私も同行しても？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Cả Trainer-san nữa ạ? ...A, thầy muốn đi đổi gió thư giãn sao ạ? Nhưng đi cùng em thì sợ thầy chẳng chơi được mấy trò đâu——",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさんも？　……あ、息抜きにって感じですか？\nでも、私と一緒じゃあまり回れないかも――",
+      "choice_data_list": [
+        "Có người đi cùng bao giờ chẳng vui hơn!",
+        "Có bạn đồng hành lúc nào cũng vui hơn chứ!"
+      ],
+      "jpchoice_data_list": [
+        "誰かと一緒のほうが楽しいだろ！",
+        "誰かと一緒のほうが楽しいでしょ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Phì phì, đúng là thế thật ạ! Nếu được cùng dạo chơi với Trainer-san thì chắc chắn một ngày của em cũng sẽ ngập tràn niềm vui! Rất mong thầy đồng hành cùng em ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ふふっ、そうですね！　私もトレーナーさんと回れたら、\n1日楽しく過ごせそうです！　ぜひご一緒にっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nào, những việc em muốn kiểm tra hôm nay là... thời gian các trò chơi và tình trạng đông đúc của từng khu vực. Dựa vào đó em sẽ lên lịch trình chuẩn cho ngày đi chơi chính thức!",
+      "jpname": "ナリタトップロード",
+      "jptext": "さて、今日チェックしておきたいのは……アトラクションの時間と、\n混雑状況ですね。それを基に、当日のコースを考えるつもりです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Mọi người bảo tuyệt đối không thể bỏ lỡ buổi diễu hành và háo hức mong chờ lắm! Thế nên em muốn xếp lịch trình bám theo giờ biểu diễn của buổi diễu hành ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "みんな、パレードは絶対外せないって楽しみにしてました！\nなので、パレードの時間に合わせてコースを組もうと思いまして！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Để xem nào, giờ diễu hành là... lượt đầu tiên lúc 11 giờ 30 phút. Nếu thế mà xếp hàng chơi trò cảm giác mạnh trước thì e là không kịp rồi...",
+      "jpname": "ナリタトップロード",
+      "jptext": "……えーっと、パレードの時間は……最初の回が11時30分。\nとなると、アトラクションに並ぶのは無理がありますね……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hay là đi xem đồ lưu niệm trước... cơ mà xách lỉnh kỉnh theo người thì cồng kềnh lắm nhỉ.",
+      "jpname": "ナリタトップロード",
+      "jptext": "お土産を先に見て……でも、荷物になっちゃうかな。",
+      "choice_data_list": [
+        "Hay mình ăn trưa sớm trước thì sao?"
+      ],
+      "jpchoice_data_list": [
+        "先に早めの昼食にするのはどう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lúc buổi diễu hành kết thúc cũng vừa khéo đến giờ ăn trưa. Tôi góp ý rằng nhà hàng khi đó sẽ rất đông, ngược lại lượng người xếp hàng ở các trò chơi ăn khách sẽ vãn đi trông thấy.",
+      "jpname": "モノローグ",
+      "jptext": "パレードが終わる頃は、ちょうど昼食時だ。レストランが混む一方、\n人気アトラクションに並ぶ人は少なくなるだろうと伝える。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "A, chuẩn quá rồi ạ...! Như vậy thì cả việc ăn trưa lẫn chơi các trò chơi đều tránh được cảnh chen chúc! Lại còn dễ dàng trải nghiệm các trò nổi tiếng nữa chứ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "あ、なるほど……！　それなら昼食もアトラクションも、\n混雑を避けられますね！　人気アトラクションも乗りやすそうです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Vậy tiếp theo là... đi tìm nhà hàng ăn trưa ạ! Em muốn chấm trước một quán thật ưng ý!",
+      "jpname": "ナリタトップロード",
+      "jptext": "では、次は……お昼のレストラン探しですね！\nお店に目星をつけておきたいです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Quán này trông tuyệt ghê thầy nhỉ! Nhìn qua cửa sổ là thấy ngay đường diễu hành, nên có thể nắm bắt được lượng người đang đứng chờ xem luôn!",
+      "jpname": "ナリタトップロード",
+      "jptext": "このお店よさそうですね！　窓からパレードコースが見えますから、\nパレード待ちの方の混み具合を把握できます！",
+      "choice_data_list": [
+        "Nếu phải ra ngoài nhanh thì ngồi gần cửa thoát sẽ tiện hơn nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "外に出るとなると、出口付近の席がいいかな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Đúng thế thật ạ, nếu được thì em sẽ đề nghị chọn chỗ đó. Giờ mình gọi món ăn thử xem mất khoảng bao lâu nhé thầy!",
+      "jpname": "ナリタトップロード",
+      "jptext": "そうですね、可能なら席のリクエストをしてみます。\nじゃあ、実際に注文して、所要時間を確認してみましょう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Mmm, ngon quá đi mất...! Nhưng mà thật ngoài dự tính. Không ngờ thực đơn lại khiến mình phân vân đắn đo đến mức này!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ん～、おいしいっ……！　でも、予想外でした。\nメニューでこんなに迷うなんて！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em đã đắn đo mãi giữa món này với món mà Trainer-san chọn. Xem ra phải tính thêm cả thời gian chọn món vào lịch trình nữa rồi.",
+      "jpname": "ナリタトップロード",
+      "jptext": "トレーナーさんが選んだものと、最後まで悩んでしまいました。\n選ぶ時間も、考えておいたほうがよさそうですね。",
+      "choice_data_list": [
+        "Tôi chia cho em một phần nhé?"
+      ],
+      "jpchoice_data_list": [
+        "ひと口分けようか？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vì phần ăn chưa động vào nên tôi nhờ nhân viên lấy thêm một con dao để cắt đôi phần đồ ăn của mình. Rồi tôi đặt một nửa sang đĩa của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "まだ手をつけていなかったため、店員にナイフをもらって\n注文した料理を切り分けた。片方を彼女の皿にのせてあげる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "! Em cảm ơn thầy nhiều ạ! Phải rồi, chia sẻ cho nhau ăn chung...! Thế thì mọi người sẽ không phải đau đầu lựa chọn nữa. Hi hi, chắc chắn sẽ vui lắm đây!",
+      "jpname": "ナリタトップロード",
+      "jptext": "！　ありがとうございます！　そっか、シェア……！\nそれなら、みんな悩まず注文できるかも。ふふ、楽しいだろうなぁ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Tuyệt, mình đã giành được một vị trí ngắm cảnh đắc địa rồi! Ở chỗ này thì chẳng có gì chắn tầm nhìn cả!",
+      "jpname": "ナリタトップロード",
+      "jptext": "よし、ちゃんといいところを取れました！\nここなら視界を遮るものはありません！",
+      "choice_data_list": [
+        "Nếu đi cùng cả nhóm đông thì khu bên kia rộng rãi có khi lại hay hơn đấy"
+      ],
+      "jpchoice_data_list": [
+        "みんなとなら、向こうも広くていいかも"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Đúng thật ạ... phía bên kia trông thoáng đãng thong thả hơn nhiều. Phải đưa bên đó vào danh sách dự phòng... ——A! Đoàn diễu hành đến rồi kìa thầy ơi!",
+      "jpname": "ナリタトップロード",
+      "jptext": "確かに……向こうはゆとりがありそうですね。\nあちらも候補に……――あっ！　来ましたよ、パレード！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Oa! Dẫn đầu là Carrot Queen kìa! Trang phục dễ thương ghê! Cỗ xe hoa cũng lộng lẫy quá chừng...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "わあっ！　先頭はキャロットクイーンです！\n衣装が可愛くなってます！　フロートも豪華で……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Cả các vũ công lẫn âm nhạc đều lấp lánh rộn ràng... A, hình như khách cũng được hòa vào điệu nhảy kìa thầy!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ダンサーさんも、音楽も、きらきらで……\nあっ、ダンスに参加できるみたいですよ！",
+      "choice_data_list": [
+        "Hiếm có dịp, mình vào nhảy cùng thôi nào!"
+      ],
+      "jpchoice_data_list": [
+        "せっかくだし参加しよう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ vâng!",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Xoay vòng xoay vòng tròn... Phì phì! Nhìn Trainer-san nhảy múa trông lạ mắt ghê đó nha! Hi hi hi!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ぐるぐるぐるぐる……ふふっ！\nトレーナーさんが踊っているって、なんか珍しいですね！　ふふふ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau khi tận hưởng trọn vẹn buổi diễu hành, chúng tôi lập tức di chuyển ngay đến tàu lượn siêu tốc ăn khách số một.",
+      "jpname": "モノローグ",
+      "jptext": "パレードを存分に楽しんだ後。\n真っ先に、1番人気のジェットコースターへと移動した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Đúng như dự đoán, vào giờ ăn trưa thì tàu lượn nổi tiếng nhất cũng vắng hoe. ——Chuẩn rồi, sau lễ diễu hành sẽ chốt đi Núi Sấm Sét Khổng Lồ luôn ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "やっぱりお昼時は、1番人気のジェットコースターも空いてますね。\n――うん、パレードの後はビッグカミナリ山で決まりですっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Trước đây có bạn cùng lớp bảo trò này \"dễ say xe\" làm em cứ băn khoăn mãi... Em nghĩ mình nên tự mình kiểm tra trước xem sao!",
+      "jpname": "ナリタトップロード",
+      "jptext": "前にクラスメイトが、『酔いやすい』って言っていたのが\n気になりまして……前もって調べておいたほうがいいかと！",
+      "choice_data_list": [
+        "Được rồi, đi thôi!"
+      ],
+      "jpchoice_data_list": [
+        "よし、行こう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "O-O-O-Oa...! T-Thầy nhìn kìa, ở phía dưới có người đang vẫy tay với mình... Ơi, ơiiii! Ha ha...",
+      "jpname": "ナリタトップロード",
+      "jptext": "わ、わ、わ、わ……！　み、見てください、\n下で、手を振ってくれている人が……お、おーい！　はは……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Á, k-khoan... A a a a a a a!!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ひっ、ちょ……いやぁぁぁぁぁっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...E-Em xin lỗi thầy, đáng lẽ không phải thế này đâu... U u u...",
+      "jpname": "ナリタトップロード",
+      "jptext": "……す、すみません、こんなはずでは……。\nうぅ……。",
+      "choice_data_list": [
+        "Em có sao không? Chỗ nào nghỉ ngơi được thì——"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫？休めそうな場所は――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi mở bản đồ khu vui chơi để tìm một chỗ nghỉ chân. Quanh bờ hồ gần đó dường như có vài chiếc ghế dài. Tôi dìu em ấy và quyết định tiến về phía đó.",
+      "jpname": "モノローグ",
+      "jptext": "園内マップを広げ、休憩できそうな場所を探す。近くの池の周りに、\nベンチがあるようだ。彼女を支え、そちらへ移動することにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "......Phù...",
+      "jpname": "ナリタトップロード",
+      "jptext": "…………ふぅ……。",
+      "choice_data_list": [
+        "Em đã đỡ hơn chút nào chưa?"
+      ],
+      "jpchoice_data_list": [
+        "落ち着いた？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Dạ rồi, nhờ có thầy cả đấy ạ. Em xin lỗi vì đã làm phiền và gây rắc rối cho thầy.",
+      "jpname": "ナリタトップロード",
+      "jptext": "はい、おかげさまで。\nすみません、ご迷惑をおかけしてしまって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...... ...Trainer-san, ừm...",
+      "jpname": "ナリタトップロード",
+      "jptext": "…………。\n……トレーナーさん、あの……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thầy... có thấy vui không ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "楽しめて、ますか？",
+      "choice_data_list": [
+        "Sao cơ?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Bởi vì từ sáng tới giờ thầy cứ phải đi theo em suốt... Miệng thì bảo đi đổi gió thư giãn mà rốt cuộc thầy chẳng được chơi bời gì cả đúng không ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "だって、朝からずっと、私につきあっていただいて……\n息抜きだって言ってたのに。全然遊べてないですよね？",
+      "choice_data_list": [
+        "Được đi cùng em là tôi thấy vui rồi",
+        "Vì đi cùng em nên tôi thấy rất vui mà"
+      ],
+      "jpchoice_data_list": [
+        "君と一緒だから、楽しいよ",
+        "貴方と一緒だから、楽しいよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Nhưng toàn là một mình em nhận sự giúp đỡ từ Trainer-san thôi. Liệu có làm phiền thầy quá không ạ...?",
+      "jpname": "ナリタトップロード",
+      "jptext": "でも、私がトレーナーさんに、一方的に手伝ってもらうばかりで。\nご迷惑に、なっていませんか……？",
+      "choice_data_list": [
+        "Không hề. ——Thế em có thấy chuyến đi khảo sát này là gánh nặng không?",
+        "Đâu có. ——Thế em có thấy việc khảo sát này là gánh nặng không?"
+      ],
+      "jpchoice_data_list": [
+        "いいや。――君は今回の下見、負担か？",
+        "ううん。――貴方は今回の下見、負担？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Làm sao có chuyện đó được ạ! Với tư cách người tổ chức, chính bản thân em muốn đi khảo sát trước mà!",
+      "jpname": "ナリタトップロード",
+      "jptext": "そんなわけありません！\n幹事として、自分で下見をしようと思ったんです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Bởi vì em muốn mọi người có một chuyến đi chơi vui hết nấc! Việc này vô cùng ý nghĩa! Tự thâm tâm em rất muốn làm điều đó ạ!",
+      "jpname": "ナリタトップロード",
+      "jptext": "みんなに、めいっぱい楽しんでほしいから！\nやりがいがあります！　私自身が、やりたいんですっ！",
+      "choice_data_list": [
+        "Tôi cũng như vậy thôi"
+      ],
+      "jpchoice_data_list": [
+        "同じだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Cũng như vậy sao ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "……同じ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi nói cho em biết rằng tôi thấy Narita Top Road thật tuyệt vời khi có thể tận tụy vì người khác và tìm thấy niềm vui trong điều đó.",
+      "jpname": "モノローグ",
+      "jptext": "誰かのために献身的になれる。そこにやりがいを感じる。\nそれを進んでできるナリタトップロードはすごいと思う、と伝える。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế, tôi mong em hãy làm cho tới cùng, hãy đáp lại trọn vẹn kỳ vọng của mọi người. Thế nhưng, những khi một mình gánh vác quá khó khăn thì——",
+      "jpname": "モノローグ",
+      "jptext": "だからこそ、やり切ってほしい。みんなの期待に応えてほしい。\nでも、1人で叶えるのが難しい時は――",
+      "choice_data_list": [
+        "Tôi mong em cứ đừng ngần ngại mà dựa vào tôi",
+        "Tôi muốn em hãy cứ thoải mái nhờ cậy tôi"
+      ],
+      "jpchoice_data_list": [
+        "遠慮なく、頼ってほしいんだ",
+        "遠慮なく、頼ってほしいの"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...!",
+      "jpname": "ナリタトップロード",
+      "jptext": "……！",
+      "choice_data_list": [
+        "Hai người cùng làm thì sẽ nhận ra được nhiều điều hơn đúng không?",
+        "Có hai người thì bao giờ cũng quan sát được nhiều điều hơn mà?"
+      ],
+      "jpchoice_data_list": [
+        "2人のほうが、気づけることも多いだろう？",
+        "2人のほうが、気づけることも多いでしょ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Hai người thì............ A.",
+      "jpname": "ナリタトップロード",
+      "jptext": "2人のほうが…………あ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "(...Đúng rồi. Thay vì chỉ có một mình mình xoay sở. Hai người cùng góp sức sẽ tìm ra được nhiều ý tưởng tuyệt vời hơn...!)",
+      "jpname": "ナリタトップロード",
+      "jptext": "（……そうだ。私1人でやるよりも。\n2人のほうが、よりいいアイディアが見つかる……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "(Để mọi người có thể vui chơi thỏa thích nhất. ——Mình hoàn toàn có thể nhờ cậy sự giúp sức của người khác mà!)",
+      "jpname": "ナリタトップロード",
+      "jptext": "（みんなが1番楽しめるように。\n――誰かの力を借りたって、いいんだ！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "...Nếu Trainer-san đã nói với em như vậy rồi.",
+      "jpname": "ナリタトップロード",
+      "jptext": "……トレーナーさんが、そうおっしゃってくださるなら。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Thầy có thể tiếp tục đồng hành cùng em trong chuyến khảo sát này được không ạ?",
+      "jpname": "ナリタトップロード",
+      "jptext": "下見の続き、つきあっていただけますか？",
+      "choice_data_list": [
+        "Tôi rất sẵn lòng!"
+      ],
+      "jpchoice_data_list": [
+        "よろこんで！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Narita Top Road",
+      "text": "Em cảm ơn thầy nhiều ạ! Vậy thì điểm đến tiếp theo... chúng ta cùng vào Ngôi Nhà Ma Ám nhé!",
+      "jpname": "ナリタトップロード",
+      "jptext": "ありがとうございます！\nでは、次は……ホーンテッド館に行きましょう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bước theo sau Narita Top Road, người đang sải bước với gương mặt rạng rỡ nhẹ nhõm. Khoảng thời gian hai chúng tôi cùng nhau bàn bạc đưa ra các ý tưởng quả thực vô cùng trọn vẹn và ý nghĩa.",
+      "jpname": "モノローグ",
+      "jptext": "晴れ晴れした顔で歩き出したナリタトップロードに続く。\n2人で案を出し合う時間は、とても充実したものになったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
