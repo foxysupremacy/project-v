@@ -1,0 +1,485 @@
+{
+  "title": "Nút thắt Gordian",
+  "jptitle": "ゴルディアスの結び目",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay là 'Cuộc đua Tuyển chọn'. Đây là ngày trọng đại để các Mã Nương bước vào giai đoạn trưởng thành và nở rộ năng lực chạy phô diễn thực lực trước các Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "今日は『選抜レース』。本格化を迎え走力が開花したウマ娘たちが\nその実力をトレーナーたちに披露する、大事な日だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bản thân tôi cũng rất hào hứng muốn tìm kiếm tiềm năng từ những Mã Nương đầy triển vọng nơi đây để chiêu mộ về đội của mình, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "自分としても、ここで未来あるウマ娘たちの可能性を見出し、\n担当のためのスカウトを行いたいと意気込んでいたのだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Bất ngờ thật đấy. Vừa nãy có tài liệu bổ sung phát ra, tôi tò mò xem thử thì thấy tên của Agnes Tachyon đã được thêm vào danh sách xuất phát rồi kìa……!",
+      "jpname": "ベテラントレーナーＡ",
+      "jptext": "驚いたわね。さっき配られた追加資料、何事かと思って見てみたら、\n出走表にアグネスタキオンの名前が加わってるじゃない……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Hả, Agnes Tachyon á!? Chẳng phải là cô bé có thực lực cực cao nhưng bị đồn là rất nguy hiểm đó sao……!?",
+      "jpname": "新人トレーナーＡ",
+      "jptext": "えっ、アグネスタキオン！？\n実力は高いけどかなり危険な子だって噂の、あの……！？",
+      "choice_data_list": [
+        "(Agnes Tachyon……!?)"
+      ],
+      "jpchoice_data_list": [
+        "（アグネスタキオン……！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ký ức kinh hoàng mấy ngày trước ùa về khiến sống lưng tôi lạnh toát. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "先日の恐ろしい記憶が蘇り、背筋に寒いものが走る。\nだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên Cuộc đua Tuyển chọn",
+      "text": "Tachyon-san ơiii, Agnes Tachyon-san ơiii!? Lạ thật đấy…… Cafe-san, em có thấy Tachyon-san đâu không!?",
+      "jpname": "選抜レース係員",
+      "jptext": "タキオンさーんっ、アグネスタキオンさーん！？\nおかしいな……カフェさん、タキオンさん見てませんか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ơ…… h-hỏi em thì em cũng……",
+      "jpname": "マンハッタンカフェ",
+      "jptext": "え……わ、私に聞かれても……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Nhân viên Cuộc đua Tuyển chọn",
+      "text": "Hả…… gay go thật rồi đây……",
+      "jpname": "選抜レース係員",
+      "jptext": "えぇ～……参ったなぁ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Gì chứ, rốt cuộc lần này Tachyon lại không tới rồi. Tôi đã rất mong được chứng kiến cú nước rút được mệnh danh là 'siêu tốc' của em ấy mà.",
+      "jpname": "新人トレーナーＡ",
+      "jptext": "なぁんだ、タキオンはやっぱり今回も来ないんですね。\n『超高速』とさえ言われている末脚、見てみたかったんですが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Bà ngoại vô địch 'Oaks', mẹ vô địch 'Ouka Shou'…… Trước khi nhập học, em ấy từng được ca tụng là 'kiệt tác vĩ đại nhất' trong một gia tộc đầy vinh quang vậy mà.",
+      "jpname": "ベテラントレーナーＡ",
+      "jptext": "祖母は『オークス』、母は『桜花賞』……。\n栄誉ある一族の中でも“最高傑作”と入学前は謳われていたのに。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Cái tính lập dị kỳ quặc đó đúng là hết nói nổi mà……",
+      "jpname": "ベテラントレーナーＡ",
+      "jptext": "あの奇人ぶりには困ったものね……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Xin lỗi đã làm phiền, Manhattan Cafe. Agnes Tachyon…… vẫn chưa đến sao?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "失礼、マンハッタンカフェ。\nアグネスタキオンは……来ていないのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Về Cuộc đua Tuyển chọn lần này, phía học viện chắc chắn đã có thông báo yêu cầu em ấy bắt buộc phải xuất phát rồi mà.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "今回の選抜レースに関しては必ず出走するようにと、\n学園側からも通達があったはずだが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "A, vâng…… Chuyện đó em chắc chắn đã chuyển lời mấy hôm trước, và cũng thấy chị ấy…… đi nghe thông báo rồi…… nhưng mà, ừm……",
+      "jpname": "マンハッタンカフェ",
+      "jptext": "あ、はい……その話は確かに先日伝えましたし、\n聞きに行くところも……見ましたが……えっと、でも……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hôm nay em ấy lại không tham gia…… sao. Chị đã nắm rõ tình hình rồi, cảm ơn em.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "本日も不参加……か。委細承知した、感謝する。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sắc mặt của Symboli Rudolf trông có vẻ nghiêm trọng khác thường. Cứ tiếp tục vắng mặt thế này liệu Agnes Tachyon có sao không nhỉ……",
+      "jpname": "モノローグ",
+      "jptext": "シンボリルドルフの表情は、どこか物々しい。\nアグネスタキオンはこのまま不参加で大丈夫なのだろうか……。",
+      "choice_data_list": [
+        "(……Mình đi tìm em ấy một chút xem sao)"
+      ],
+      "jpchoice_data_list": [
+        "（……ちょっと探しに行ってみよう）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi quyết định tạm rời khỏi khu vực Cuộc đua Tuyển chọn để đi tìm Agnes Tachyon.",
+      "jpname": "モノローグ",
+      "jptext": "いったん選抜レース会場を離れ、\nアグネスタキオンを探しに行くことにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hả……? Sao mày lại lởn vởn ở đây thế hả, Tachyon.",
+      "jpname": "エアシャカール",
+      "jptext": "あァ……？\nなんでてめェがここにいやがんだ、タキオン。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Một câu hỏi phi logic chẳng giống cậu chút nào cả, Shakur-kun. Ta là học sinh của học viện thì việc ta ở trong khuôn viên có gì để mà thắc mắc chứ?",
+      "jpname": "アグネスタキオン",
+      "jptext": "君らしからぬ非論理的な問いだな、シャカール君。\n学園生徒である私が敷地内にいる、それのどこに疑問を挟む余地が？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Chậc, ý tao không phải thế!! Chẳng phải hôm nay mày phải tham gia Cuộc đua Tuyển chọn sao hả!",
+      "jpname": "エアシャカール",
+      "jptext": "チッ、そうじゃねェ！！\nてめェは今日の選抜レースに出てるハズじゃねェのかって話だよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ha ha ha! Nào nào, việc gì phải cáu kỉnh thế chứ! Bộ cậu đang bị thiếu hụt serotonin đấy à?",
+      "jpname": "アグネスタキオン",
+      "jptext": "ハッハッハ！　まぁそうカリカリするなよ！\nセロトニンが足りていないのかい？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Câu trả lời rất đơn giản, 'bởi vì ta phán đoán là không cần thiết'. Đáng tiếc là ý định của ta và mục đích của Cuộc đua Tuyển chọn chẳng hề trùng khớp nhau.",
+      "jpname": "アグネスタキオン",
+      "jptext": "答えは簡単、“必要がないと判断したから”だ。\n私の意図と選抜レースの目的は、残念ながら合致していないんだよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hơn nữa, lần tham gia trước ta đã phải chịu một phen khốn đốn rồi. Đám Trainer cứ bu kín lại như bầy chuột bạch tranh nhau bắp cải vậy……",
+      "jpname": "アグネスタキオン",
+      "jptext": "それに、以前参加した折には散々な目に遭ったからね。\nキャベツに群がるモルモットのようにトレーナーがわらわらと……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……Thì chẳng phải vì người ta bị cuốn hút bởi bước chạy của mày đến mức đó sao.",
+      "jpname": "エアシャカール",
+      "jptext": "……そりゃ、そんだけてめェの走りに魅せられたんだろ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thế nhưng lịch trình mà bọn họ đưa ra lại chứa đầy sự lãng phí. Việc ném thời gian nghiên cứu quý giá xuống cống rãnh thì ta tuyệt đối không chấp nhận được.",
+      "jpname": "アグネスタキオン",
+      "jptext": "だが、彼らの提示するスケジュールには無駄が多くてねぇ。\n貴重な研究時間をドブに捨てるというのは、さすがにいただけない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cũng như việc các Trainer dùng hệ quy chuẩn giá trị của mình để đánh giá Mã Nương, thì Mã Nương chúng ta cũng có quyền lựa chọn vậy. Chẳng phải thế sao?",
+      "jpname": "アグネスタキオン",
+      "jptext": "トレーナーがウマ娘を彼らの価値基準に当てはめ判断するように、\n我々ウマ娘にも選別の権利がある。そうだろう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "A phiền quá, biết rồi biết rồi!! Được rồi đấy, tao cóc thèm quan tâm nữa. Thích trốn thì cứ việc trốn đi.",
+      "jpname": "エアシャカール",
+      "jptext": "あーッ、わァったわァった！！\nもういいよ、知るか。好き勝手サボってろ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "……Nhưng mà này, suốt ngày thí nghiệm với chả thí nghiệm, học thì trốn, Cuộc đua Tuyển chọn cũng không tham gia, chiêu mộ thì từ chối, và đương nhiên là chẳng chịu ra mắt.",
+      "jpname": "エアシャカール",
+      "jptext": "……けどな、実験実験で授業にもまともに出ねェ、選抜レースにも\n出ねェ、スカウトも受けねェ、当然デビューもしねェ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Shakur",
+      "text": "――Cái vị thế của mày ở học viện này sắp tới hồi nguy to rồi đấy.",
+      "jpname": "エアシャカール",
+      "jptext": "――てめェの学園での立場、そろそろヤベェぞ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hừm. Miệng thì bảo 'cóc thèm quan tâm' với 'thích làm gì thì làm' nhưng vẫn không quên đưa ra lời khuyên…… Kha kha, Shakur-kun lúc nào cũng thú vị thật đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ふぅン。『知るか』『好き勝手やれ』と言いつつも忠告していく……\nククッ、相変わらず愉快だなシャカール君は。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ấy, ồ kìa……? Ngươi chẳng phải là―― Tân binh Trainer-kun hôm nọ sao!",
+      "jpname": "アグネスタキオン",
+      "jptext": "と、おや……？\n君は――先日の新人トレーナー君じゃないか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chẳng lẽ ngươi tự mình đến đây để làm vật thí nghiệm đấy ư!? Tinh thần chuột bạch quả là tuyệt vời làm sao! Ta chỉ có thể thốt lên hai từ thán phục!",
+      "jpname": "アグネスタキオン",
+      "jptext": "まさか自ら被験体となりに来てくれたのか！？\nなんたる素晴らしいモルモット精神！　感服の一言に尽きるね！",
+      "choice_data_list": [
+        "Không phải không phải không phải đâu!"
+      ],
+      "jpchoice_data_list": [
+        "違う違う違う違う！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng can ngăn Agnes Tachyon đang quá đỗi phấn khích, rồi giải thích rằng mình đến đây để khuyên em tham gia Cuộc đua Tuyển chọn.",
+      "jpname": "モノローグ",
+      "jptext": "興奮するアグネスタキオンを必死にいさめて、\n選抜レースへの参加を促しに来たのだと説明した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "À ra là vậy sao. Thế thì thật đáng tiếc, ta chẳng có chút ý định tham gia nào đâu.",
+      "jpname": "アグネスタキオン",
+      "jptext": "あぁそういうことか。であれば残念、私に参加の意思はないよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cũng giống như đối với Trainer, đây là nơi để tìm kiếm mục tiêu chiêu mộ, thì với Mã Nương, Cuộc đua Tuyển chọn là sân khấu để phô diễn thực lực.",
+      "jpname": "アグネスタキオン",
+      "jptext": "トレーナーにとってはスカウト対象を見出す場であるように、\nウマ娘にとって選抜レースは実力をアピールするための場だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thế nhưng ở hiện tại, ta không hề thấy có nhu cầu phải chứng tỏ thực lực đường đua cho cánh Trainer xem. Vì thế ta không tham gia. Câu chuyện chấm dứt ở đây.",
+      "jpname": "アグネスタキオン",
+      "jptext": "しかしながら現状、私はレースの実力をトレーナー陣に\nアピールする必要を感じていない。故に不参加。話は以上だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "――Nào, thay vì chuyện đó thì chúng ta tiếp tục thí nghiệm thôi chứ nhỉ!?",
+      "jpname": "アグネスタキオン",
+      "jptext": "――さっ、そんなことより実験の続きといこうか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thực ra mẫu thử của thiết bị đo chức năng cơ bắp do ta tự phát triển vừa hoàn thành tối qua đấy. Nếu sử dụng nó thì dữ liệu chi tiết sẽ gấp cả nghìn lần thiết bị thông thường――",
+      "jpname": "アグネスタキオン",
+      "jptext": "実は独自に開発していた、筋機能測定装置のプロトタイプが\n昨晩完成してね。用いれば従来の1000倍は詳細なデータが――",
+      "choice_data_list": [
+        "Cô thật sự trong đầu chỉ toàn nghĩ tới thí nghiệm thôi đấy à!?",
+        "Em thật sự trong đầu chỉ toàn nghĩ tới thí nghiệm thôi đấy à!?"
+      ],
+      "jpchoice_data_list": [
+        "本当に実験のことしか頭にないんだな！？",
+        "本当に実験のことしか頭にないのね！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mọi tiềm năng đều phải được khai quật và kiểm chứng thông qua thí nghiệm. Thời gian nghiên cứu có bao nhiêu cũng chẳng thể đủ được, chẳng phải vậy sao?",
+      "jpname": "アグネスタキオン",
+      "jptext": "あらゆる可能性は、実験によって発掘され検討されるべきだ。\n研究の時間は幾らあっても足りやしない、違うかな？",
+      "choice_data_list": [
+        "Đến mức đó thì cô rốt cuộc đang nghiên cứu điều gì cơ chứ……?",
+        "Đến mức đó thì em rốt cuộc đang nghiên cứu điều gì cơ chứ……?"
+      ],
+      "jpchoice_data_list": [
+        "そこまでして何を研究しているんだ……？",
+        "そこまでして何を研究しているの……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Là 'tiềm năng của Mã Nương' đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "“ウマ娘の可能性”だよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nói rõ hơn thì đó là 'tiềm năng thể xác đang ngủ say bên trong sinh vật mang tên Mã Nương', tức là 'tốc độ tối đa'―― à không, có lẽ phải gọi là 'vùng đất vượt trên cả đỉnh cao'.",
+      "jpname": "アグネスタキオン",
+      "jptext": "更に言うならば“ウマ娘という生物に眠る肉体の可能性”、\nすなわち“最高速度”――否、“最高のその先”といった所か。",
+      "choice_data_list": [
+        "Vượt trên cả đỉnh cao……?"
+      ],
+      "jpchoice_data_list": [
+        "その先……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Giờ đây sự tồn tại của chúng ta dường như đã được coi là điều hiển nhiên, nhưng mọi định kiến thông thường đều là kẻ thù của sự khám phá. Do đó, nếu gạt bỏ chúng đi mà suy xét――",
+      "jpname": "アグネスタキオン",
+      "jptext": "最早その存在は当然のものとして扱われつつあるが、\nあらゆる常識は発見の敵だ。故に排除して考えると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thì ngay từ đầu, bản thân sự tồn tại của Mã Nương chúng ta vốn vẫn là một điều vô cùng thâm sâu đấy, Trainer-kun.",
+      "jpname": "アグネスタキオン",
+      "jptext": "そもそも我々ウマ娘は、存在自体がいまだ深遠なのだよ、君。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sở hữu ngoại hình tương đồng với loài người nhưng lại có đôi tai cùng chiếc đuôi với hiệu năng cực cao, còn sức mạnh cơ bắp thì to lớn đến dị thường so với khối lượng cơ thể.",
+      "jpname": "アグネスタキオン",
+      "jptext": "人類に酷似した外見でありながら高性能・高機能な耳と尾を持ち、\nその筋力は質量に反し異様に甚大。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đặc biệt là khả năng chạy vượt trội ngay cả trong thế giới động vật, nắm giữ tốc độ thuộc hàng thượng thừa giữa muôn loài――",
+      "jpname": "アグネスタキオン",
+      "jptext": "特に走力は動物界においても突出しており、\n全種族中でも上位に値するスピードを有している――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "――A ha ha ha!! Quả thực!! Ngươi có thấy nó quả thực vô cùng thú vị không nào!?",
+      "jpname": "アグネスタキオン",
+      "jptext": "――アッハッハッハ！！\n実に！！　実に興味深いとは思わないか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tức là nhé Trainer-kun, thôi thúc lấp đầy tâm trí ta vốn rất đỗi giản đơn: 'Chúng ta có thể chạy nhanh đến nhường nào!?' 'Giới hạn tiềm năng đó sẽ mở rộng tới đâu!?'",
+      "jpname": "アグネスタキオン",
+      "jptext": "つまりね君、私の脳内を埋め尽くす衝動はシンプルだよ。\n『我々はどこまで速くなれるか！？』『その可能性の拡がりは！？』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ta! Ta muốn dùng chính cơ thể này để chạm đến tận cùng của tiềm năng―― biết được 'vận tốc giới hạn' là gì!!",
+      "jpname": "アグネスタキオン",
+      "jptext": "私は！　この体で可能性の果て――“限界速度”を知りたいのさ！！",
+      "choice_data_list": [
+        "Nghiên cứu đến mức đó là để xác nhận điều ấy sao……!?"
+      ],
+      "jpchoice_data_list": [
+        "それを確かめるために研究を……！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Có thể nói trong số tất cả Mã Nương, những người phát huy được tốc độ cao nhất chính là những kẻ đã bước vào 'giai đoạn trưởng thành' và tham gia các cuộc đua.",
+      "jpname": "アグネスタキオン",
+      "jptext": "あらゆるウマ娘の中で最もスピードを発揮できているのは、\n“本格化”を迎えレースに出走している者たちだといえる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tranh tài ở những cuộc đua càng khắc nghiệt với những đối thủ càng hùng mạnh là điều tối quan trọng để hoàn thiện thực lực chạy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "より困難なレースで、より強大な相手と競い合うことは\n走力の充実に必要不可欠。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nói cách khác, giành được quyền xuất phát ở Twinkle Series sẽ giúp nghiên cứu của ta tiến một bước dài. Đó là lý do ta đến học viện này.",
+      "jpname": "アグネスタキオン",
+      "jptext": "つまりトゥインクル・シリーズへの出走権を手にすることは、\n私の研究を大きく前進させる。故にこの学園へ来たのだがね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mà, thế nhưng――",
+      "jpname": "アグネスタキオン",
+      "jptext": "まぁ、しかし――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Giáo viên",
+      "text": "Agnes Tachyon. ……Bên phía học viện có thông báo. Đi theo thầy.",
+      "jpname": "教師",
+      "jptext": "アグネスタキオン。\n……学園側より通達がある。来い。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hừm, bị gọi lên vào lúc này sao. ……Vậy thì ta xin phép đi trước nhé, Tân binh-kun.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ふぅン、ここでお呼び出しか。\n……では、私はこれで失礼するよ、新人君。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Agnes Tachyon rời đi cùng người giáo viên đang toát ra bầu không khí chẳng lành……",
+      "jpname": "モノローグ",
+      "jptext": "何やら不穏な気配を漂わせる教師と共に、\nアグネスタキオンは立ち去ってしまった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

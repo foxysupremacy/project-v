@@ -1,0 +1,319 @@
+{
+  "title": "Câu hỏi: Mộng hay thực?",
+  "jptitle": "問・夢か現か？",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "……――? Cảm giác uể oải nặng trĩu như vừa ngoi lên khỏi mặt nước bao trùm khắp toàn thân tôi.",
+      "jpname": "モノローグ",
+      "jptext": "……――？\n水から上がったような気怠さが、全身を包み込んでいる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chậm rãi mở mi mắt ra, hiện lên trước mắt tôi là phòng học đêm khuya tĩnh mịch cùng với bóng hình của Agnes Tachyon.",
+      "jpname": "モノローグ",
+      "jptext": "ゆっくりと瞼を開けると、静まり返った夜の教室と一緒に\nアグネスタキオンの姿が映り込んできた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đang vã mồ hôi kìa. Thân nhiệt cũng…… hừm, nhìn qua có vẻ đang tăng lên đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "発汗しているね。\n体温も……ふむ、見た感じ上昇しているようだ。",
+      "choice_data_list": [
+        "Ơ…… ơ!?"
+      ],
+      "jpchoice_data_list": [
+        "え……え！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dù mang danh chuột bạch nhưng phản ứng tản nhiệt rốt cuộc vẫn là con người nhỉ. Mà, không như thế thì hỏng bét.",
+      "jpname": "アグネスタキオン",
+      "jptext": "モルモットと言えど、熱放散反応はやはり人か。\nまぁ、そうでなくては困るんだが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Định thần nhìn lại cơ thể mình…… tôi đang bị trói chặt vào một mớ dụng cụ thí nghiệm chưa từng thấy bao giờ!",
+      "jpname": "モノローグ",
+      "jptext": "自分の体を確認すると……\n見たこともないような実験器具に縛り付けられている！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Gợi nhớ lại lúc chúng ta mới gặp nhau ghê nhỉ. Nhưng lần này khác hẳn rồi. Nơi này là phòng thí nghiệm của ta, của riêng ta mà thôi. Không một ai cản trở được đâu!",
+      "jpname": "アグネスタキオン",
+      "jptext": "出会った時を思い出すねぇ。だが、あの時とは違う。\nここは私の、私だけの実験室。誰にも邪魔はされない！",
+      "choice_data_list": [
+        "Phòng thí nghiệm cái gì…… đây chỉ là phòng học bình thường thôi mà!?",
+        "Phòng thí nghiệm cái gì…… đây chỉ là phòng học bình thường thôi đấy!?"
+      ],
+      "jpchoice_data_list": [
+        "実験室って……普通の教室だぞ！？",
+        "実験室って……普通の教室だよ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Không hề nhé! Chính vì ngươi mong muốn thí nghiệm nên ta mới có mặt ở đây!",
+      "jpname": "アグネスタキオン",
+      "jptext": "いいや！　君が実験を望んだから私はここにいる！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Không gian này là do ngươi chuẩn bị cho ta. Nếu vậy thì gọi nó là phòng thí nghiệm chẳng phải quá thích hợp sao?",
+      "jpname": "アグネスタキオン",
+      "jptext": "この空間は君が用意してくれたものだ。\nであれば、実験室と呼ぶのが相応しいだろう？",
+      "choice_data_list": [
+        "Tôi chẳng hiểu cô nói cái quái gì cả……!"
+      ],
+      "jpchoice_data_list": [
+        "意味がわからない……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "A ha ha ha! Nếu vậy thì hãy hiểu cho rõ đây. Bổn phận của chuột bạch là phải đón nhận mọi hiện tượng như một cuộc thí nghiệm.",
+      "jpname": "アグネスタキオン",
+      "jptext": "アッハッハッハッ！　ならば理解するといい。\nいかなる事象も実験として受け入れるのがモルモットだと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ngươi đã tự nguyện xin làm chuột bạch cơ mà. Đến nước này rồi ngươi đâu thể đòi hỏi mỗi lần trước khi thí nghiệm đều phải hỏi ý kiến đồng thuận chứ?",
+      "jpname": "アグネスタキオン",
+      "jptext": "君は自らモルモットに志願した。\n今更、実験前に都度コンセンサスを取れだなんて言うまい？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Để vượt qua giới hạn và khai phóng tiềm năng ẩn giấu nơi đôi chân Mã Nương thì cần phải có nỗ lực không ngừng nghỉ cùng nghiên cứu…… tức là những cuộc thí nghiệm đấy!",
+      "jpname": "アグネスタキオン",
+      "jptext": "限界を超え、ウマ娘の脚に秘められた可能性を導くには、\nたゆまぬ努力と研究……実験が必要なのだよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nào, ta sẽ cho ngươi uống thứ thuốc thú vị vừa mới điều chế xong nhé. Nó phát quang màu xanh lam nên nhìn bằng mắt cũng thích thú lắm đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "さて、出来たばかりの楽しいお薬を飲ませてあげよう。\n青く発光しているから、目でも楽しめるぞ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Kha kha kha…… Nhờ thứ này mà sức mạnh cơ bắp của ngươi sẽ tăng lên gấp bội, sở hữu một cơ thể đỉnh cao vượt mặt bất kỳ quái vật nào cho mà xem!",
+      "jpname": "アグネスタキオン",
+      "jptext": "クククッ……これで君の筋力は何倍にも増強され、\nどんな怪物をも凌駕する最高の肉体を手に入れることだろう！",
+      "choice_data_list": [
+        "!?"
+      ],
+      "jpchoice_data_list": [
+        "！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nào, há miệng ra đi chứ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "さぁ、口を開けたまえ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một khi em ấy đã thế này thì chẳng có cách nào ngăn cản nổi. Vả lại, ban đầu chính mình là người đã bảo rằng làm chuột bạch cũng được cơ mà.",
+      "jpname": "モノローグ",
+      "jptext": "こうなった彼女を止める術はない。\nそもそも、モルモットでいいと告げたのは自分だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi hạ quyết tâm, run rẩy hé mở miệng mình――",
+      "jpname": "モノローグ",
+      "jptext": "覚悟を決めて、恐る恐る口を開けた――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "――Ồ kìa, chào buổi sáng nhé Chuột bạch-kun.",
+      "jpname": "アグネスタキオン",
+      "jptext": "――おや、おはようモルモット君。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ánh sáng chói lòa tràn vào mắt đến nhức nhối. ……Chẳng lẽ những chuyện vừa rồi là.",
+      "jpname": "モノローグ",
+      "jptext": "痛いくらいの光が目に飛び込んできた。\n……もしや、さっきまでの出来事は。",
+      "choice_data_list": [
+        "Ơ, ơ kìa……!? Là mơ sao!?"
+      ],
+      "jpchoice_data_list": [
+        "あ、あれ……！？夢！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hửm? Trông ngươi khiếp sợ ghê nhỉ? Chẳng lẽ lại gặp ác mộng sao?",
+      "jpname": "アグネスタキオン",
+      "jptext": "んん？　随分と怯えているね？　もしや悪夢でも見たのかい？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lượng ánh sáng đâu có thay đổi gì, vậy mà đồng tử lại hơi run rẩy. Kha kha kha…… Ta bắt đầu thấy hứng thú rồi đấy. Kể ra nghe xem nào.",
+      "jpname": "アグネスタキオン",
+      "jptext": "光の量に変化はないはずだが、僅かに瞳孔が震えている。\nクククッ……興味が出たぞ。話してみるといい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cơ chế của giấc mơ quả thực vẫn còn nhiều bí ẩn. Nhưng nếu xét theo tâm lý học tầng sâu――",
+      "jpname": "アグネスタキオン",
+      "jptext": "夢のメカニズムは、いまだ謎の多い部分ではある。\nが、これを深層心理として考えると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thì trong tiềm thức của ngươi, ta chính là 'Mã Nương chẳng chịu nghe người khác nói mà cứ tự tiện làm thí nghiệm' rồi nhỉ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "君の潜在意識にいる私は\n『人の話を聞かず勝手に実験をするウマ娘』、ということになるな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cơ mà…… ra là vậy. Ta trong giấc mơ lại làm trò đó cơ đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "それにしても……そうか。夢の中の私がそんなことをねぇ。",
+      "choice_data_list": [
+        "Xin lỗi, tôi không có ác ý gì đâu……",
+        "Xin lỗi nhé, tôi không có ác ý gì đâu……"
+      ],
+      "jpchoice_data_list": [
+        "ごめん、悪気はなくて……",
+        "ごめんね、悪気はなくて……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Kha kha…… Lại còn cất công bảo 'há miệng ra' nữa chứ. Ta trong giấc mơ làm mấy chuyện phiền toái thật đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ククッ……わざわざ『口を開けろ』、とは。\n夢の中の私は、随分と面倒なことをするな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đối với chuột bạch thì cần quái gì phải xin phép hay hỏi ý kiến xem có được thí nghiệm hay không chứ!",
+      "jpname": "アグネスタキオン",
+      "jptext": "モルモットに実験可否の返事も意見も聞く必要はないだろうに！",
+      "choice_data_list": [
+        "Hả"
+      ],
+      "jpchoice_data_list": [
+        "えっ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ha ha ha! Sao lại đực mặt ra thế kia? Ngươi quên mất bản thân mình chính là vật thí nghiệm rồi đấy à?",
+      "jpname": "アグネスタキオン",
+      "jptext": "ハッハッハッ！　何をポカンとしているんだい。\n自身が被験体であることを忘れていたのかい？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cơ mà vừa nãy tiếc thật đấy. Chỉ suýt chút nữa thôi là ta đã đổ được Dược phẩm β vào miệng một kẻ đang say giấc nồng như ngươi rồi.",
+      "jpname": "アグネスタキオン",
+      "jptext": "いやしかし先程は実に惜しかった。あともう少しで\n安らか～に眠る君の口に薬品βを流し込めたのに。",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "À cái này ấy, nói trước là lòng nhân từ của riêng ta đấy nhé? Dược phẩm β tuy hiệu quả rất đáng mong đợi nhưng vị của nó thì tồi tệ kinh khủng.",
+      "jpname": "アグネスタキオン",
+      "jptext": "あぁこれは、言っておくけれど私なりの慈悲というやつだよ？\n薬品βは効果こそ望めるものの味が最悪でね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nhưng thay vì vừa rót 120 mililit vừa phải lo lắng nó đổ ra ngoài, ngươi hãy tự dùng đôi tay đã mang lại nền văn minh cho nhân loại mà làm đi.",
+      "jpname": "アグネスタキオン",
+      "jptext": "けれど零すだのなんだの気にしながら120ミリリットルを\n流し込むより、人類に文明をもたらしたその両の手を使ってくれ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dĩ nhiên là như thế thì ta sẽ nhàn nhã hơn nhiều rồi!!",
+      "jpname": "アグネスタキオン",
+      "jptext": "無論、当然、その方が私は楽だからね！！",
+      "choice_data_list": [
+        "Khoan, nhưng mà――"
+      ],
+      "jpchoice_data_list": [
+        "いや、あの――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sao thế Chuột bạch-kun? Những gì ngươi cần làm chỉ là '1. Nhận lấy thuốc' và '2. Uống cạn', chỉ có thế thôi mà?",
+      "jpname": "アグネスタキオン",
+      "jptext": "どうしたモルモット君？　君が行うべきは\n『①薬を受け取る』『②飲み干す』、それのみだが？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Xì xào bàn tán……",
+      "jpname": "モノローグ",
+      "jptext": "ざわざわ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau đó, do tác dụng phụ của Dược phẩm β, tôi đành phải ngậm ngùi sống những chuỗi ngày bị mọi người đứng từ xa chỉ trỏ dòm ngó cặp đùi phát quang màu xanh lam nhạt của mình.",
+      "jpname": "モノローグ",
+      "jptext": "その後、薬品βの副作用で青白く発光する大腿部を\n遠巻きに見られながら、しばらく生活する羽目になったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

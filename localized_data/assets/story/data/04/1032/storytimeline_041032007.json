@@ -1,0 +1,507 @@
+{
+  "title": "Câu hỏi: Vật thí nghiệm hay cộng sự?",
+  "jptitle": "問・実験体か相棒か？",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay là ngày bắt đầu trại huấn luyện mùa hè. Để nâng cao năng lực cho các Mã Nương, toàn đội sẽ luyện tập tại khu nhà tập huấn ven biển……",
+      "jpname": "モノローグ",
+      "jptext": "今日から夏合宿だ。ウマ娘たちの能力向上のため、\n海辺の合宿所でトレーニングを行う……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Đáng lẽ ra phải là như thế.",
+      "jpname": "モノローグ",
+      "jptext": "――はず、だったのだが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ta đang muốn chứng minh học thuyết mà mình đã thức trắng mấy đêm liền để dựng nên đây. Rất muốn tiến hành thí nghiệm ngay lập tức……",
+      "jpname": "アグネスタキオン",
+      "jptext": "ここしばらく寝ずに組み立てていた理論を証明したくてね。\nさっそく実験を行いたいのだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Trainer-kun, tâm trạng ngươi lúc này thế nào hả!? Đã đo thân nhiệt chưa? Thời gian ngủ là bao nhiêu? Đã ăn những gì rồi?",
+      "jpname": "アグネスタキオン",
+      "jptext": "トレーナー君、今の気分はどうだい！？\n体温は計ったかな？　睡眠時間は？　食事は何を？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Biến số phụ thuộc thể trạng là rất lớn đấy nhé. Phải ghi chép lại thật chi tiết làm dữ liệu tiền thí nghiệm mới được!",
+      "jpname": "アグネスタキオン",
+      "jptext": "体調による変化は大きいからねっ。\n実験前のデータとして詳細に残しておかなくては！",
+      "choice_data_list": [
+        "Hôm nay theo lịch là luyện tập cơ mà……"
+      ],
+      "jpchoice_data_list": [
+        "今日はトレーニングの予定じゃ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Kha kha…… Học thuyết này vốn nhắm tới mục đích tăng cường năng lực chạy. Có nói thác đi là luyện tập thì cũng đâu có sai!",
+      "jpname": "アグネスタキオン",
+      "jptext": "ククッ……この理論は走力増強を目的としたものだ。\nトレーニングと言い換えても、間違いではないだろう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mà, người thực hiện lại là ngươi cơ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ま、やるのは君なんだけどさ。",
+      "choice_data_list": [
+        "Hả cái gì cơ……"
+      ],
+      "jpchoice_data_list": [
+        "えええ……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ha ha ha ha ha! Gì chứ, ta đâu có để ngươi đến mức ngất xỉu mất ý thức đâu mà lo.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ハッハッハッハッハッ！　なーに、意識を失うようなことは\nさせないから安心したまえよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Được rồi, trước tiên hãy đo lường mức tiêu hao năng lượng của từng cơ quan trong trạng thái căng thẳng và quá tải nào. Sau đó chia theo từng giai đoạn――",
+      "jpname": "アグネスタキオン",
+      "jptext": "よし、まずは緊張及び過負荷状態で臓器別のエネルギー消費量を\n測定しよう。そして段階的に分けながら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Agnes Tachyon cứ thao thao bất tuyệt một mình…… Xem ra em ấy chẳng có chút ý định luyện tập bình thường nào cả.",
+      "jpname": "モノローグ",
+      "jptext": "アグネスタキオンは1人話し続けている……。\nどうやら普通のトレーニングをするつもりはないようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "……Vì thế cho nên, ngươi cũng đừng có bị bó buộc bởi lối tư duy thiếu sáng tạo như kiểu hễ đi trại hè thì phải chạy trên bãi biển, hãy vận dụng não bộ một cách linh hoạt vào.",
+      "jpname": "アグネスタキオン",
+      "jptext": "……であるから、君も夏合宿に来たらビーチを走ることが\n鉄則だなんて独創性に乏しい思考に囚われず、脳は柔軟に使え。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chừng nào còn theo đuổi tiềm năng thì chúng ta chẳng có thì giờ đâu mà đứng yên một chỗ. Nào, mau bắt đầu thí nghiệm thôi chứ!",
+      "jpname": "アグネスタキオン",
+      "jptext": "可能性を追い続ける限り、私たちに立ち止まっている暇はないぞ。\nさぁ、実験を始めようじゃないか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Trước hết hãy tận dụng độ dốc của con đường để kích hoạt chức năng tim phổi nào!",
+      "jpname": "アグネスタキオン",
+      "jptext": "まずは道の傾斜を利用して、心肺機能を活性化するぞ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Để thu thập dữ liệu thì từ đây ra bãi biển ít nhất phải chạy đi chạy lại 3 vòng đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "データを取るためには、ここからビーチまで\n少なくとも3往復は必要だろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chuẩn bị máy đo xong xuôi chưa? Cứ mỗi vòng ta sẽ ghi lại nồng độ oxy nên đừng có quên đấy nhé.",
+      "jpname": "アグネスタキオン",
+      "jptext": "測定器の準備はいいかい？\n1周ごとに酸素濃度を記録するから、忘れずに頼むよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thêm nữa, dẫu có đau đớn khó thở thì cũng đừng dừng lại mà hãy tiếp tục chạy. Ta rất muốn có được dữ liệu mấp mé giới hạn cơ thể mà.",
+      "jpname": "アグネスタキオン",
+      "jptext": "それと、苦しくなっても休まずに走り続けてくれ。\n限界ギリギリのデータが好ましいのでね。",
+      "choice_data_list": [
+        "Vô lý hết sức……"
+      ],
+      "jpchoice_data_list": [
+        "そんな無茶苦茶な……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Gì chứ, chỉ cần khua tay múa chân như một chú chuột hamster vô tư quay bánh xe thôi mà!",
+      "jpname": "アグネスタキオン",
+      "jptext": "なーに、無心で滑車を回すハムスターのように、\n手足を動かせばいいだけさ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mà ngươi dẫu sao cũng chỉ là chuột bạch, năng lực vận động chắc chẳng dám trông mong được như hamster đâu nhỉ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "まぁ君はあくまでモルモットで、\nハムスターほどの運動能力は期待できないだろうが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đừng lo, ta cũng sẽ đi cùng ngươi. Dù sao ta cũng cần giám sát để ngươi không bị chệch khỏi cung đường chạy mà.",
+      "jpname": "アグネスタキオン",
+      "jptext": "案ずるな、私も同行する。\n君がコースから外れないよう、見守る必要があるからね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Xem ra chẳng còn đường nào mà trốn nữa rồi.",
+      "jpname": "モノローグ",
+      "jptext": "……どうやら逃げ場はないようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nữa đi, nhanh hơn nữa đi, Trainer-kun! Tiếp tục nhấc cao đùi lên! Đúng rồi, duy trì tốc độ ổn định vào!",
+      "jpname": "アグネスタキオン",
+      "jptext": "もっと、もっとだ、トレーナー君！\n太ももを高く上げ続けろ！　そう、一定の速さを保って！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đừng làm rối loạn nhịp thở! Như thế chỉ tổ mệt thêm thôi đấy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "呼吸のリズムを崩すな！　余計に苦しくなるぞっ。",
+      "choice_data_list": [
+        "Nói thì dễ lắm nhưng thở không ra hơi rồi……"
+      ],
+      "jpchoice_data_list": [
+        "とはいっても息が……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ha ha ha! Tốt lắm, giới hạn sắp đến rồi sao! Cứ thế này chạy thêm 2 vòng nữa! Nào, cố lên một chút nữa thôi!",
+      "jpname": "アグネスタキオン",
+      "jptext": "ハハハッ！　いいぞ、限界が近いか！\nこのまま2往復！　さぁ、もう少しだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hừm…… Có vẻ cơ bắp mỏi mệt hơn ta tưởng nhỉ. Chưa đến mức co giật nhưng đứng vững thôi cũng đã là gắng gượng hết sức rồi sao.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ふぅン……思ったよりも筋肉疲労が大きいようだね。\n痙攣とまではいかないが、立っているのが精一杯か。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Được rồi được rồi, cứ thế này chuyển sang thí nghiệm tiếp theo nào. Ta đang muốn có dữ liệu về cơ quan hô hấp khi chạy lên dốc trong trạng thái này đây.",
+      "jpname": "アグネスタキオン",
+      "jptext": "よしよし、このまま次の実験に移ろう。\nこの状態で坂道を走った際の呼吸器官のデータが欲しい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Kha kha, đây chắc chắn sẽ là dữ liệu cực kỳ quan trọng! Biết đâu nó sẽ là bước đệm mở ra cánh cửa tiềm năng mà chúng ta hằng hướng tới đấy!",
+      "jpname": "アグネスタキオン",
+      "jptext": "ククッ、これはきっと重要なデータになるぞ！\n我々の目指すべき可能性の扉が開く、きっかけとなるかも知れない！",
+      "choice_data_list": [
+        "T-Tôi sẽ cố……",
+        "T-Tôi sẽ ráng……"
+      ],
+      "jpchoice_data_list": [
+        "が、頑張るよ……",
+        "が、頑張るね……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "……Ta đã nghĩ vậy, nhưng mà. Nhìn sắc mặt ngươi thì chẳng phải mấp mé giới hạn nữa, mà là tới hạn luôn rồi.",
+      "jpname": "アグネスタキオン",
+      "jptext": "……と、思ったのだが。\nその顔色を見るに、限界ギリギリというよりも、もう限界だな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đành chịu vậy, ta tính toán sai mức độ điều chỉnh rồi. Thế này thì chẳng lấy được dữ liệu mong muốn đâu, để dịp khác vậy.",
+      "jpname": "アグネスタキオン",
+      "jptext": "仕方あるまいね、調整を間違えた。\nこれでは欲しいデータは取れないし、また次回にしよう。",
+      "choice_data_list": [
+        "Thế có ổn không?",
+        "Thế có được không?"
+      ],
+      "jpchoice_data_list": [
+        "いいのか？",
+        "いいの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Nếu ngươi muốn tiếp tục thì ta cũng chẳng cản. Nhưng thay vì thu thập dữ liệu vô ích thì ta muốn làm những thí nghiệm có lợi hơn.",
+      "jpname": "アグネスタキオン",
+      "jptext": "続けたいと言うなら私は構わないがね。\nだが不要なデータを取るよりも、もっと有益な実験をしたい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "……Dẫu vậy thì làm được gì bây giờ nhỉ. Ở đây lại chẳng có dụng cụ thí nghiệm nào dùng được…… Hừm.",
+      "jpname": "アグネスタキオン",
+      "jptext": "……とはいえ、何が出来るだろうな。\nこの場で使えるような実験器具もないし……う～ん。",
+      "choice_data_list": [
+        "Tận dụng nước biển để làm gì đó được không nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "海水を使って何か出来ないかな"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "……Nước biển sao. Đi biển đâu chỉ có mỗi việc bơi, nhưng không có dụng cụ thì dùng nước biển kiểu gì chứ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "……海水か。何も泳ぐだけが海ではないが、\nだからと言って器具もなく海水をどう使うって言うんだい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chẳng lẽ ngươi định bảo uống thử đấy nhé.",
+      "jpname": "アグネスタキオン",
+      "jptext": "まさか飲んでみるだとか言わないだろうね。",
+      "choice_data_list": [
+        "Ví dụ như chườm lạnh chẳng hạn?"
+      ],
+      "jpchoice_data_list": [
+        "例えばアイシングとか？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chườm lạnh…… Xét theo nhiệt độ hôm nay thì nước biển cũng phải trên 25 độ C. Về mặt nhiệt độ nước thì không phù hợp lắm, nhưng mà……",
+      "jpname": "アグネスタキオン",
+      "jptext": "アイシング……今日の気温から考えて、海は25度以上。\n水温としては不適合だが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hừm, ý tưởng tầm thường nhưng cũng không tệ. Quả thật là ta đã không nghĩ ra điều đó.",
+      "jpname": "アグネスタキオン",
+      "jptext": "ふむ、発想は凡庸だが悪くない。実際、私は気づかなかったし。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tập trung vào co thắt cơ bắp để lấy dữ liệu mới…… Không, đúng hơn là hiệu ứng giữ nhiệt…… Hừm.",
+      "jpname": "アグネスタキオン",
+      "jptext": "筋収縮に焦点を当てて新たなデータを……\nいや、むしろ保温効果で……ふむ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Được rồi! Độ mặn đặc thù của biển, lực nổi và lực ma sát từ sóng biển. Chúng ta hãy kiểm chứng xem những yếu tố đó tác động lên cơ thể ngươi như thế nào!",
+      "jpname": "アグネスタキオン",
+      "jptext": "よし！　海特有の塩分濃度、浮力、波による摩擦力。\nこれらが君の体にどのように作用するか検証してみよう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ra là thế, ra là thế, thu được dữ liệu thú vị phết đấy. Tuy vẫn chưa đủ để chứng minh học thuyết của ta, nhưng mà……",
+      "jpname": "アグネスタキオン",
+      "jptext": "なるほどなるほど、興味深いデータが取れたぞ。\n私の理論を証明するまでには至らなかったが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Thế nhưng nếu dựa vào đây để tiếp tục đào sâu nghiên cứu thì chắc chắn cánh cửa tiềm năng mới sẽ mở ra……!",
+      "jpname": "アグネスタキオン",
+      "jptext": "だがこれをもとに更にもっと深く追求していけば、\n新たな可能性の扉が開くはず……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Kha kha kha…… Được đấy, làm được đấy! Trainer-kun, chúng ta tổng hợp dữ liệu nào! Hãy phụ giúp ta một tay!",
+      "jpname": "アグネスタキオン",
+      "jptext": "クククッ……いける、いけるぞ！\nトレーナー君、データをまとめよう！　手伝ってくれたまえ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trở về khu nhà tập huấn, tôi vừa tổng hợp dữ liệu hôm nay vừa thức trắng đêm để giúp em ấy nghiên cứu……",
+      "jpname": "モノローグ",
+      "jptext": "合宿所に戻り今日のデータをまとめながら、\n徹夜で研究の手伝いをした……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, ngày hôm sau――",
+      "jpname": "モノローグ",
+      "jptext": "そして、翌日――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oáp…… Buổi sáng tuyệt vời nhỉ, Trainer-kun!",
+      "jpname": "アグネスタキオン",
+      "jptext": "ふぁ～あ……いい朝だね、トレーナー君！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Chà chà, cảm ơn sự hợp tác của ngươi nhé. Nhờ có ngươi mà ta đã phát triển được loại thuốc mới dựa trên học thuyết rồi.",
+      "jpname": "アグネスタキオン",
+      "jptext": "いやぁ、協力感謝するよ。\nおかげで、理論に基づいた新薬の開発が出来た。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dù mới chỉ là trên trang giấy thôi. Ở khu tập huấn này không có dụng cụ thí nghiệm nên việc điều chế phải đợi về học viện đã.",
+      "jpname": "アグネスタキオン",
+      "jptext": "あくまでノートの上で、だけどね。\n合宿所には実験器具がないから、製作は戻ってからだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Trước đó ta cũng muốn tham khảo thêm nhiều ý kiến từ ngươi, qua đợt nghiên cứu đến tận sáng nay thì ngươi có nhận ra điều gì không?",
+      "jpname": "アグネスタキオン",
+      "jptext": "その前に君の意見も色々と参考にしたいのだけれど、\n今朝までの研究で、何か気づいたことはあったかい？",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Đặc biệt là việc tối ưu hóa hiệu quả cung cấp oxy khi cơ bắp co thắt là một vấn đề lớn. Ta rất muốn lắng nghe nhiều ý kiến khác nhau.",
+      "jpname": "アグネスタキオン",
+      "jptext": "特に筋肉の収縮時における酸素供給の効率化は大きな課題だ。\n様々な意見が欲しい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hơn nữa, có thể nói đó là giá trị của sự bình phàm nhỉ. Những phát biểu của ngươi khá là mới mẻ, khiến ta thấy hứng thú cả với những thắc mắc vụn vặt.",
+      "jpname": "アグネスタキオン",
+      "jptext": "それに、凡庸であることの価値というのかな。\n君の発言はなかなか新鮮で、小さな疑問にも興味を持たせてくれる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Quan trọng nhất là kẻ ngoan ngoãn theo ta làm thí nghiệm chỉ có mỗi mình ngươi thôi đấy. Ta rất kỳ vọng vào sự thể hiện của ngươi với vai trò 'chuột bạch kiêm trợ lý' đấy nhé!",
+      "jpname": "アグネスタキオン",
+      "jptext": "何より素直に実験に付き合ってくれるのは、君しかいないしねっ。\n“モルモット兼助手”としての活躍を期待しているよ！",
+      "choice_data_list": [
+        "Trợ lý á!?"
+      ],
+      "jpchoice_data_list": [
+        "助手！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ngươi có tố chất vật thí nghiệm rất cao, lại có góc nhìn không hề tồi. Xét một cách toàn diện thì gọi là 'trợ lý' cũng chẳng có gì sai đúng không nào?",
+      "jpname": "アグネスタキオン",
+      "jptext": "君は被検体としての素養が高く、かつ視点も悪くない。\n総合的に考えれば、“助手”と呼ぶのも間違いではないだろ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cả hai vai trò đó đều là thứ không thể thay thế trong nghiên cứu của ta. Nếu nhận ra điều gì thì cứ tự nhiên nói ra xem nào! Nào nào!",
+      "jpname": "アグネスタキオン",
+      "jptext": "どちらも研究において掛け替えのないものだ。\n気づいたことがあれば遠慮せずに言ってみたまえ！　さぁさぁ！",
+      "choice_data_list": [
+        "Em bắt đầu chịu lắng nghe ý kiến của tôi rồi đấy nhỉ",
+        "Cô bắt đầu chịu lắng nghe ý kiến của tôi rồi đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "意見を聞いてくれるようになったなぁ",
+        "意見を聞いてくれるようになったねぇ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ồ, thế à? Hừm, nếu vậy thì đây cũng có thể coi là một bước tiến triển hướng tới tiềm năng mới nhỉ.",
+      "jpname": "アグネスタキオン",
+      "jptext": "おや、そうだったかい？\nふむ、であればこれもまた、可能性への進展と言えるな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hãy vui mừng đi, Trainer-kun! Bước đi này một ngày nào đó chắc chắn sẽ dẫn lối tới một con đường thênh thang.",
+      "jpname": "アグネスタキオン",
+      "jptext": "喜びたまえ、トレーナー君！\nこの一歩は、いつか大きな道へと繋がるはずだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Được rồi, đã quyết như vậy thì tiếp tục thí nghiệm thôi nào! Thời gian là hữu hạn mà.",
+      "jpname": "アグネスタキオン",
+      "jptext": "よし、そうと決まれば実験の続きをしよう！\n時間は有限だからねっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hôm qua ta tính nhầm mức điều chỉnh, nhưng hôm nay nhất định phải nhắm đúng vào thể lực mấp mé giới hạn để vắt kiệt cơ thể ngươi mới được! Đi thôi, Trainer-kun!",
+      "jpname": "アグネスタキオン",
+      "jptext": "昨日は調整をミスったが、今日こそは限界ギリギリの体力を狙って\n体を酷使だ！　行くぞ、トレーナー君！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Bị bắt chạy trong tình trạng thức trắng đêm, giới hạn cơ thể đã ập đến chỉ trong một chớp mắt……",
+      "jpname": "モノローグ",
+      "jptext": "……徹夜のまま走らされ、\n限界は一瞬にしてやってきたのだった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
