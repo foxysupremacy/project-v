@@ -1,0 +1,390 @@
+{
+  "title": "Khoảng Cách Vẫn Còn Đó",
+  "jptitle": "いまだ、ディスタンス",
+  "text_block_list": [
+    {
+      "name": "Mejiro Dober",
+      "text": "...Có gì đó sai sai... vị trí của mũi chăng...? Phải cao hơn một chút nữa, nhỉ...",
+      "jpname": "メジロドーベル",
+      "jptext": "……なんか違う…………鼻の位置……？\nもっと上、かな……。"
+    },
+    {
+      "name": "",
+      "text": "Ở một góc thư viện, Mejiro Dober đang ôm đầu trăn trở. Vẻ mặt đầy nghiêm túc. Có vẻ như em ấy đang dốc toàn tâm toàn ý vẽ một thứ gì đó.",
+      "jpname": "モノローグ",
+      "jptext": "図書室の隅の席でメジロドーベルが頭を悩ませていた。\n真剣な表情。一心に何かを描いているようだった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Không được, thế này khéo phải sửa lại từ đường nét viền khuôn mặt mất thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "……いやこれ、輪郭から直さないとダメかも。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tạm thời tẩy đi đã nào...... A!",
+      "jpname": "メジロドーベル",
+      "jptext": "一旦消して…………あ！"
+    },
+    {
+      "name": "",
+      "text": "Đôi bàn tay đang ra sức chà xát cục tẩy bỗng trượt mạnh một cái. Và như một cú quét gạt, em vô tình hất rơi hết đồ dùng học tập trên bàn xuống đất.",
+      "jpname": "モノローグ",
+      "jptext": "ゴシゴシと消しゴムを往復させていた彼女の手が大きく滑る。\nそして払いのけるように、机の上の文房具を落としてしまった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A trời ạ, hỏng bét rồi...",
+      "jpname": "メジロドーベル",
+      "jptext": "ああもう、やっちゃった……。"
+    },
+    {
+      "name": "",
+      "text": "Định bụng giúp một tay, tôi cúi xuống nhặt cuốn sổ tay em đánh rơi lên. Trang giấy đang mở ra có vẽ hình một nhân vật hoạt hình.",
+      "jpname": "モノローグ",
+      "jptext": "手伝おうと、彼女が落とした手帳を拾った。\n開いていたページには、アニメキャラのイラストが描かれていた。"
+    },
+    {
+      "name": "",
+      "text": "Đó là bộ phim hoạt hình dành cho thiếu nhi mang tên \"Veggie Carolyn\" đã phát sóng suốt nhiều năm qua. Chắc là đang tập vẽ chăng, khi mà có rất nhiều bức hình nhân vật chính Carolyn nằm san sát nhau.",
+      "jpname": "モノローグ",
+      "jptext": "長年放送されている『べじキャロリン』という幼児向けアニメだ。\n練習だろうか、主人公キャロリンの絵がいくつも並んでいる。",
+      "choice_data_list": [
+        "Anh để cái này trên bàn nhé",
+        "Tôi để cái này trên bàn nhé"
+      ],
+      "jpchoice_data_list": [
+        "これ、机に置いておくよ",
+        "これ、机に置いておくね"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A... Trainer. ...Chào anh.",
+      "jpname": "メジロドーベル",
+      "jptext": "あ……トレーナー。……どうも。",
+      "choice_data_list": [
+        "Hình vẽ \"Carolyn\" trông giống thật đấy chứ",
+        "Hình vẽ \"Carolyn\" trông đáng yêu thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "『キャロリン』のイラスト、似てるな",
+        "『キャロリン』のイラスト、可愛いね"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A... hóa ra là Trainer. Cảm ơn chị đã nhặt giúp em nhé.",
+      "jpname": "メジロドーベル",
+      "jptext": "あ……なんだ、トレーナーだったんだ。\n拾ってくれて助かった。どうもありがとう。",
+      "choice_data_list": [
+        "Hình vẽ \"Carolyn\" trông giống thật đấy chứ",
+        "Hình vẽ \"Carolyn\" trông đáng yêu thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "『キャロリン』のイラスト、似てるな",
+        "『キャロリン』のイラスト、可愛いね"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "KHOAN... Đừng có tự tiện nhìn trộm chứ!!",
+      "jpname": "メジロドーベル",
+      "jptext": "ちょ……勝手に見ないで！！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Không thể nào... Ch-chị thấy rồi sao...?",
+      "jpname": "メジロドーベル",
+      "jptext": "うそ……み、見たの……？"
+    },
+    {
+      "name": "",
+      "text": "Vì cuốn sổ mở sẵn nên tôi mới vô tình nhìn thấy thôi, tôi vội vàng phân bua.",
+      "jpname": "モノローグ",
+      "jptext": "ページが開いていたから偶然見えただけだと、慌てて弁解した。"
+    },
+    {
+      "name": "",
+      "text": "Vì cuốn sổ mở sẵn nên tôi mới vô tình nhìn thấy thôi, tôi vội vàng phân bua.",
+      "jpname": "モノローグ",
+      "jptext": "ページが開いていたから偶然見えただけだと、慌てて弁解した。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Đằng nào thì anh cũng đang nghĩ là tôi vẽ tệ hại lắm đúng không!",
+      "jpname": "メジロドーベル",
+      "jptext": "……どうせ下手だと思ってるんでしょ！",
+      "choice_data_list": [
+        "Không có chuyện đó đâu mà",
+        "Không có chuyện đó đâu"
+      ],
+      "jpchoice_data_list": [
+        "そんなことないよ",
+        "そんなことないよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trông chẳng giống chút nào đúng không... Tự bản thân em cũng biết rõ mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "似てないでしょ……自分でもわかってるから。",
+      "choice_data_list": [
+        "Không có chuyện đó đâu mà",
+        "Không có chuyện đó đâu"
+      ],
+      "jpchoice_data_list": [
+        "そんなことないよ",
+        "そんなことないよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhân vật mà em vẽ mang đôi mắt ngập tràn ánh sáng long lanh, dường như chan chứa hy vọng hướng về tương lai phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の描いたキャラクターは瞳にたくさんの光を宿していて、\n未来への希望にあふれているようだ。"
+    },
+    {
+      "name": "",
+      "text": "Nhân vật mà em vẽ mang đôi mắt ngập tràn ánh sáng long lanh, dường như chan chứa hy vọng hướng về tương lai phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の描いたキャラクターは瞳にたくさんの光を宿していて、\n未来への希望にあふれているようだ。"
+    },
+    {
+      "name": "",
+      "text": "Khuôn miệng khẽ mỉm cười toát lên vẻ dịu dàng trìu mến, tôi còn bảo rằng hàng mi vốn không có ở nhân vật hoạt hình gốc trông thật thời trang và phong cách.",
+      "jpname": "モノローグ",
+      "jptext": "控えめに微笑む口元は慈愛に満ちていたし、\nアニメキャラにはないまつ毛がオシャレだと伝える。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Đó là... anh đang khen thật đấy à? Hay đang trêu chọc tôi đấy?",
+      "jpname": "メジロドーベル",
+      "jptext": "それ……褒めてる？　バカにしてない？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trời ạ... dù sao thì chị khen quá lời rồi. Nhưng mà được chị tìm ra những điểm hay để khen thế này em vui lắm.",
+      "jpname": "メジロドーベル",
+      "jptext": "もう……いくらなんでも褒めすぎ。\nそうやって、いいところを見つけてくれるのは嬉しいけど。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tranh của tôi... có nét vẽ hơi đặc thù, kiểu như truyện tranh thiếu nữ ấy. Tôi tự biết là trông chẳng giống bản gốc chút nào mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシの絵……癖があるっていうか、少女漫画っぽいし。\n似てない自覚はあるの。",
+      "choice_data_list": [
+        "Em vẽ trông đáng yêu lắm đó!",
+        "Bạn vẽ trông đáng yêu lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "可愛く描けてたぞ！",
+        "可愛く描けてたよ！"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nhưng nét vẽ của em... trông giống truyện tranh thiếu nữ lắm đúng không. Những chỗ được chị khen ấy, thực ra chỉ là do thói quen vẽ tay của em lộ ra thôi...",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、アタシの絵……少女漫画っぽいでしょ。\n褒めてもらったとこはさ、手癖が出ちゃってるってことだよね……。",
+      "choice_data_list": [
+        "Em vẽ trông đáng yêu lắm đó!",
+        "Bạn vẽ trông đáng yêu lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "可愛く描けてたぞ！",
+        "可愛く描けてたよ！"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Thôi anh đừng nhắc đến chuyện đó nữa mà!!",
+      "jpname": "メジロドーベル",
+      "jptext": "……ッそれはもういいから！！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "X-xấu hổ chết đi được ấy!!",
+      "jpname": "メジロドーベル",
+      "jptext": "は、恥ずかしいって！！"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "...Xin vui lòng giữ trật tự trong thư viện ạ.",
+      "jpname": "ウマ娘A",
+      "jptext": "……図書室ではお静かにお願いします。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "...Xin vui lòng giữ trật tự trong thư viện ạ.",
+      "jpname": "ウマ娘A",
+      "jptext": "……図書室ではお静かにお願いします。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thấy chưa... bị mắng rồi kìa. Ra ngoài thôi, Trainer. Cũng sắp đến giờ tập luyện rồi đúng không.",
+      "jpname": "メジロドーベル",
+      "jptext": "ほら……怒られちゃった。\n出よ、トレーナー。そろそろトレーニングの時間でしょ。"
+    },
+    {
+      "name": "",
+      "text": "Trên đường đi về phòng Trainer, tôi thử hỏi em về điều mình băn khoăn bấy lâu nay.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー室へ向かいながら、\n気になっていたことを彼女に質問してみた。",
+      "choice_data_list": [
+        "Em thích \"Veggie Carolyn\" à?",
+        "Bạn thích \"Veggie Carolyn\" à?"
+      ],
+      "jpchoice_data_list": [
+        "『べじキャロリン』好きなのか？",
+        "『べじキャロリン』好きなの？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cũng không hẳn... chỉ là hồi nhỏ tôi hay xem thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "別に……小さい頃は観てたけど。",
+      "choice_data_list": [
+        "Nhưng rõ ràng em đang tập vẽ tranh mà?",
+        "Nhưng rõ ràng bạn đang tập vẽ tranh mà?"
+      ],
+      "jpchoice_data_list": [
+        "でも、イラストの練習をしてただろ？",
+        "イラストの練習をしてなかった？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cũng không phải là thích lắm đâu... nhưng hồi nhỏ em hay xem suốt. Nhìn ra được nhân vật thì chắc Trainer cũng từng như vậy đúng không.",
+      "jpname": "メジロドーベル",
+      "jptext": "好きなわけじゃないけど……小さい頃は、よく観てたよ。\nキャラがわかるってことは、トレーナーもそんな感じでしょ。",
+      "choice_data_list": [
+        "Nhưng rõ ràng em đang tập vẽ tranh mà?",
+        "Nhưng rõ ràng bạn đang tập vẽ tranh mà?"
+      ],
+      "jpchoice_data_list": [
+        "でも、イラストの練習をしてただろ？",
+        "イラストの練習をしてなかった？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tình cờ nhìn thấy nên tôi mới vẽ lại thôi. ...Tôi thích vẽ tranh mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "たまたま目についたから描いてただけ。\n……絵を描くの、好きなの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em chỉ vẽ cho vui tay thôi. Em cũng khá thích vẽ tranh... chứ đâu phải đang tập vẽ nhân vật đó đâu.",
+      "jpname": "メジロドーベル",
+      "jptext": "手慰みに描いただけ。絵を描くのは、わりと好きだし……\nあのキャラを練習してたとかじゃないの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vẽ đúng bộ phim đó chỉ là trùng hợp ngẫu nhiên thôi mà!",
+      "jpname": "メジロドーベル",
+      "jptext": "あのアニメだったのは、単なる偶然！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạo gần đây tình cờ xem lại hoạt hình nên còn đọng lại chút ấn tượng thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "久しぶりにアニメを観たから、印象に残ってただけだよ。"
+    },
+    {
+      "name": "",
+      "text": "Mejiro Dober nói như vậy, nhưng vẻ mặt của em lúc vẽ tranh trông vô cùng nghiêm túc... thậm chí có phần như đang dốc hết tâm can.",
+      "jpname": "モノローグ",
+      "jptext": "メジロドーベルはそう言ったが、絵を描いていた時の\n彼女の表情はとても真剣で……必死にも見えた。"
+    },
+    {
+      "name": "",
+      "text": "Mejiro Dober nói như vậy, nhưng vẻ mặt của em lúc vẽ tranh trông vô cùng nghiêm túc... thậm chí có phần như đang dốc hết tâm can.",
+      "jpname": "モノローグ",
+      "jptext": "メジロドーベルはそう言ったが、絵を描いていた時の\n彼女の表情はとても真剣で……必死にも見えた。"
+    },
+    {
+      "name": "",
+      "text": "Tôi chợt nghĩ, hay là em có uẩn khúc gì đó bắt buộc phải vẽ tranh, nên mới phải khổ luyện như thế chăng...",
+      "jpname": "モノローグ",
+      "jptext": "何か絵を描かなければならない事情があって、\n練習をしているのかもしれないと思ったのだが……。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nhưng mà, tôi biết cứ thế này mãi thì không ổn... rồi sẽ lại lặp lại thất bại ở trận đua thử nghiệm vừa rồi mất thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、このままじゃダメだって……またこの間の模擬レースの\n繰り返しになるって、わかってるから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nhưng mà, em biết cứ thế này mãi thì không ổn... rồi sẽ lại lặp lại thất bại ở trận đua thử nghiệm vừa rồi mất thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、このままじゃダメだって……またこの間の模擬レースの\n繰り返しになるって、わかってるから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Thế nên là, nói chuyện với anh cũng là một bài tập rèn luyện tâm lý đấy! Anh là Trainer phụ tá cơ mà, đi cùng tôi một chút là trách nhiệm của anh đúng không?",
+      "jpname": "メジロドーベル",
+      "jptext": "……だからっ、アンタと話すのも、メンタルトレーニング！\nサブトレーナーだし、付き合う義理くらいあるでしょ？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nên là... từng chút một. Nếu có thể nói chuyện với người chưa quen thế này để rèn luyện tâm lý thì tốt biết mấy... Chị có thể đi cùng em được không?",
+      "jpname": "メジロドーベル",
+      "jptext": "だから……少しずつ。こうやって、慣れてない人とも話して、\nメンタル鍛えられたらなって……付き合ってもらえる？"
+    },
+    {
+      "name": "",
+      "text": "Vốn mắc chứng sợ người lạ, em luôn gồng mình đề phòng trước những ai chưa thực sự thân thiết. Có lẽ việc giãi bày hoàn cảnh hay tâm sự riêng tư lúc này vẫn còn là điều quá khó khăn đối với em.",
+      "jpname": "モノローグ",
+      "jptext": "あがり症ゆえ、特別親しい相手以外には身構えてしまう彼女だ。\n個人的な事情や悩みを打ち明けるのは、まだ難しいのかもしれない。",
+      "choice_data_list": [
+        "Nếu gặp khó khăn gì thì cứ nói nhé, anh sẽ giúp",
+        "Nếu gặp khó khăn gì thì cứ nói nhé, tôi sẽ giúp"
+      ],
+      "jpchoice_data_list": [
+        "困っていることがあれば手伝うから",
+        "困っていることがあれば手伝うから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vốn mắc chứng sợ người lạ, em luôn gồng mình đề phòng trước những ai chưa thực sự thân thiết. Có lẽ việc giãi bày hoàn cảnh hay tâm sự riêng tư lúc này vẫn còn là điều quá khó khăn đối với em.",
+      "jpname": "モノローグ",
+      "jptext": "あがり症ゆえ、特別親しい相手以外には身構えてしまう彼女だ。\n個人的な事情や悩みを打ち明けるのは、まだ難しいのかもしれない。",
+      "choice_data_list": [
+        "Nếu gặp khó khăn gì thì cứ nói nhé, anh sẽ giúp",
+        "Nếu gặp khó khăn gì thì cứ nói nhé, tôi sẽ giúp"
+      ],
+      "jpchoice_data_list": [
+        "困っていることがあれば手伝うから",
+        "困っていることがあれば手伝うから"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hả...? ...A... ừm. Tạm thời tôi sẽ ghi nhớ lời anh...",
+      "jpname": "メジロドーベル",
+      "jptext": "え……？　……あ……うん。一応、覚えておく……。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hả...? A... cảm ơn chị nhé. Vâng, vậy thì khi nào gặp rắc rối... nhất định em sẽ nhờ chị tư vấn giúp.",
+      "jpname": "メジロドーベル",
+      "jptext": "え……？　あ……ありがとう。\nうん、まあ、困った時は……なるべく、相談させて。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, dẫu chẳng cần trao nhau quá nhiều lời, dường như chúng tôi đã có thể phần nào thấu hiểu được suy nghĩ của đối phương――",
+      "jpname": "モノローグ",
+      "jptext": "けれど、多くの言葉を重ねなくても、なんとなく\nお互いの考えを察せるくらいには、なれているように思う――"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, dẫu chẳng cần trao nhau quá nhiều lời, dường như chúng tôi đã có thể phần nào thấu hiểu được suy nghĩ của đối phương――",
+      "jpname": "モノローグ",
+      "jptext": "けれど、多くの言葉を重ねなくても、なんとなく\nお互いの考えを察せるくらいには、なれているように思う――"
+    }
+  ]
+}

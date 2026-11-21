@@ -1,0 +1,512 @@
+{
+  "title": "Tiến Bước Nào, Kẻ Mộng Mơ",
+  "jptitle": "すすめ、ドリーマー",
+  "text_block_list": [
+    {
+      "name": "Mejiro Dober",
+      "text": "(...Cảm giác như máu trong người mình đang dần lạnh ngắt)",
+      "jpname": "メジロドーベル",
+      "jptext": "（……血が、冷たくなっていくような感じ）"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(...Thế nhưng, chỉ có gương mặt là nóng bừng lên một cách kỳ lạ. Tay chân bồng bềnh vô lực, không sao dồn sức vào được. Cả cơ thể như hóa thành một trái tim, tiếng đập ồn ào đến nhức nhối)",
+      "jpname": "メジロドーベル",
+      "jptext": "（なのに、顔だけが変に熱い。手足の感覚がふわふわしてて、\nうまく力が入らない。全身が心臓になったみたいに鼓動がうるさい）"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(Ồn quá, ồn quá, im hết đi――!)",
+      "jpname": "メジロドーベル",
+      "jptext": "（うるさい、うるさい、うるさい――！）"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "――Bell. ...Dober!",
+      "jpname": "メジロブライト",
+      "jptext": "――ベル。……ドーベル！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dober!",
+      "jpname": "メジロブライト",
+      "jptext": "ドーベル！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...――...!!",
+      "jpname": "メジロドーベル",
+      "jptext": "っ――……！！"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Dober, chị có sao không thế ạ? Đã có chỉ thị bảo các bạn lượt chạy tiếp theo tiến về phía cổng xuất phát rồi đấy ạ...",
+      "jpname": "メジロブライト",
+      "jptext": "ドーベル、どうかなさいまして？\n次走の子は、もうゲート前に行くよう指示が出ていますが～……。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A... c-chị xin lỗi. Cảm ơn em nhé...",
+      "jpname": "メジロドーベル",
+      "jptext": "あ……ご、ごめん。ありがとう……。"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "...Dober, sắc mặt chị trông kém lắm đấy ạ. Nếu trong người thấy không được khỏe thì――",
+      "jpname": "メジロブライト",
+      "jptext": "……ドーベル、顔色が悪いですわ。\nご体調がよくないのでしたら――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Chị không sao đâu mà...!",
+      "jpname": "メジロドーベル",
+      "jptext": "大丈夫だからっ……！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Chị ổn mà, thật đấy. Chị không gượng ép bản thân đâu. Chị chỉ tham gia trận đua thử nghiệm thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "……大丈夫、だから。\n無理じゃない。アタシは模擬レースに出るだけ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Chỉ, chỉ có vậy thôi mà...!!",
+      "jpname": "メジロドーベル",
+      "jptext": "ただ、それだけなんだから……！！"
+    },
+    {
+      "name": "",
+      "text": "Hôm nay là ngày Mejiro Dober xuất trận trong trận đua thử nghiệm. Với tư cách Trainer phụ tá, tôi cùng Trainer trưởng đến khán đài theo dõi, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "今日はメジロドーベルの模擬レース出走日。サブトレーナーとして、\nチーフトレーナーと共に観客席に来ていたのだが――",
+      "choice_data_list": [
+        "Nhưng mà, trông em ấy có vẻ không được bình thường... sao ạ?"
+      ],
+      "jpchoice_data_list": [
+        "あの、様子がおかしくなかったですか……？"
+      ]
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Đúng vậy nhỉ... Nhưng lúc này hãy cứ dõi theo con bé đã. Kìa, sắp đến lượt xuất phát của nhóm bé Bell rồi đấy.",
+      "jpname": "チーフトレーナー",
+      "jptext": "そうね……でも今は、見守ってあげて。\nほら、そろそろベルちゃんたちの出走よ。"
+    },
+    {
+      "name": "",
+      "text": "Dù Trainer trưởng đã nói thế... nhưng dự cảm chẳng lành trong tôi đã biến thành sự thật ngay trên đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "チーフトレーナーはそう言っていたが……\n不穏な予感は、レース本番で現実のものとなった。"
+    },
+    {
+      "name": "",
+      "text": "(――Cạch!!)",
+      "jpname": "モノローグ",
+      "jptext": "（――ガコン！！）"
+    },
+    {
+      "name": "Khán đài",
+      "text": "Phía trong, nép vào phía trong đi! Chưa được đâu, giữ sức, kìm lại! Tiền bối ơi, cố lên ạ! Chị ơi, tiến lên đi!!",
+      "jpname": "観客席",
+      "jptext": "内だ、内に寄れー！　まだまだ、溜めて溜めて！\n先輩、頑張ってくださ～い！　お姉ちゃん、いっけー！！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hà, hà, khục...!",
+      "jpname": "メジロドーベル",
+      "jptext": "はっ、はぁっ、かはっ……！",
+      "choice_data_list": [
+        "(Ơ kìa...!?)"
+      ],
+      "jpchoice_data_list": [
+        "（あれ……！？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dáng chạy của Mejiro Dober trong trận đua thử nghiệm khác hẳn với hôm trước, hoàn toàn đánh mất sự sắc bén vốn có...!",
+      "jpname": "モノローグ",
+      "jptext": "模擬レースでのメジロドーベルの走りは、先日とは打って変わって、\nまったくキレのないものだった……！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(Đừng nhìn, đừng nhìn, tuyệt đối không được nhìn về phía khán đài! Tập trung vào trận đua, chỉ cần tập trung, nhất định sẽ...!)",
+      "jpname": "メジロドーベル",
+      "jptext": "（見るな、見るなっ、観客席なんか見るな！\nレースに集中っ、集中すれば、きっと……！）"
+    },
+    {
+      "name": "Khán đài",
+      "text": "(Waaaaaa!!)",
+      "jpname": "観客席",
+      "jptext": "（ワァァァァー！！）"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Aaaaa...!!",
+      "jpname": "メジロドーベル",
+      "jptext": "～～～ッ……！！"
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc, Mejiro Dober khép lại trận đua ở vị trí thứ 8 với một màn trình diễn hoàn toàn thiếu đi sự khởi sắc...",
+      "jpname": "モノローグ",
+      "jptext": "結局メジロドーベルは、大いに精彩を欠いた走りのまま、\n8着でレースを終えてしまった……。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Bé Bell ấy mà... từ hồi còn rất nhỏ con bé đã phải trải qua một biến cố đau lòng, nên giờ rất sợ phải xuất hiện trước đám đông.",
+      "jpname": "チーフトレーナー",
+      "jptext": "ベルちゃんはね……うんと小さい頃に辛いことがあって、\n人前に出るのがとても苦手になってしまったみたいなの。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Dù vậy, con bé vẫn luôn dốc hết sức khổ luyện tại một góc khuất ít người qua lại trong khuôn viên rộng lớn của nhà Mejiro――",
+      "jpname": "チーフトレーナー",
+      "jptext": "それでもメジロの広い広い敷地の隅っこの、なるべく目につかない\nトレーニング場所で、一生懸命鍛えてきたらしいんだけど――"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Lớn lên trong môi trường chỉ toàn các cô hầu gái và các Mã Nương, nên trước mặt đám đông... đặc biệt là trước mặt nam giới, đến tận bây giờ con bé vẫn vô cùng e sợ.",
+      "jpname": "チーフトレーナー",
+      "jptext": "メイドさんや、同じウマ娘しかいない環境でずっと育ってきたから、\n大勢の前……特に男の人の前に出るのが、今もすごく苦手なのよ。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Vì vậy, khi bước vào trận đua thực sự nơi hàng vạn ánh mắt đổ dồn vào, con bé hầu như chẳng thể phát huy được chút thực lực nào.",
+      "jpname": "チーフトレーナー",
+      "jptext": "だから、大勢の視線が集まるレース本番だと、\nほとんど実力が発揮できなくなってしまうの。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Muốn được chạy đua, muốn được chiến thắng nên mới đến đây, thật đau đớn biết bao. Con bé trông luôn đau khổ suốt bấy lâu nay... Thế nhưng mà.",
+      "jpname": "チーフトレーナー",
+      "jptext": "レースに出たくて、勝ちたくてここへ来たのに、辛いわよね。\n辛そうだわ、ずっと。……でもね。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "――Dẫu vậy, bé Bell chưa từng bỏ cuộc đâu.",
+      "jpname": "チーフトレーナー",
+      "jptext": "――それでもベルちゃんは、諦めていないのよ。"
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau trận đua thử nghiệm. Khi tôi đang vừa dùng bữa trưa vừa ngẫm nghĩ lại những lời dặn dò của Trainer trưởng thì――",
+      "jpname": "モノローグ",
+      "jptext": "模擬レースから数日後。そんなチーフトレーナーの言葉を\n思い返しながら、昼食を取っていると――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Ngồi đây được chứ?",
+      "jpname": "メジロドーベル",
+      "jptext": "……ここ、いい？",
+      "choice_data_list": [
+        "Hả!? À, ừ!",
+        "Hả!? Ừ, ừm!"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？あ、ああ！",
+        "えっ！？う、うん！"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Đừng có giật mình như thế chứ. ...Dù tôi biết là từ trước tới giờ còn chẳng buồn nhìn thẳng vào mắt anh, giờ đột ngột thế này thì cũng hơi kỳ...",
+      "jpname": "メジロドーベル",
+      "jptext": "ビビんないでよ。……まともに目も合わせてこなかったのに、\n突然すぎっていうのは自分でもわかってるけどさ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Đến tận hôm nay em vẫn chưa nói chuyện đàng hoàng với chị, đột ngột thế này em xin lỗi nhé. Tại em... ừm... sợ người lạ ấy mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "……今日までまともに話してもこなかったのに、突然ごめん。\nアタシ、その……人見知りで。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nhưng mà, tôi biết cứ thế này mãi thì không ổn... rồi sẽ lại lặp lại thất bại ở trận đua thử nghiệm vừa rồi mất thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、このままじゃダメだって……またこの間の模擬レースの\n繰り返しになるって、わかってるから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nhưng mà, em biết cứ thế này mãi thì không ổn... rồi sẽ lại lặp lại thất bại ở trận đua thử nghiệm vừa rồi mất thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、このままじゃダメだって……またこの間の模擬レースの\n繰り返しになるって、わかってるから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Thế nên là, nói chuyện với anh cũng là một bài tập rèn luyện tâm lý đấy! Anh là Trainer phụ tá cơ mà, đi cùng tôi một chút là trách nhiệm của anh đúng không?",
+      "jpname": "メジロドーベル",
+      "jptext": "……だからっ、アンタと話すのも、メンタルトレーニング！\nサブトレーナーだし、付き合う義理くらいあるでしょ？",
+      "choice_data_list": [
+        "Tất nhiên rồi, anh sẽ đi cùng em",
+        "Tất nhiên rồi, tôi sẽ đi cùng bạn"
+      ],
+      "jpchoice_data_list": [
+        "もちろん、付き合うよ",
+        "もちろん、付き合うよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nên là... từng chút một. Nếu có thể nói chuyện với người chưa quen thế này để rèn luyện tâm lý thì tốt biết mấy... Chị có thể đi cùng em được không?",
+      "jpname": "メジロドーベル",
+      "jptext": "だから……少しずつ。こうやって、慣れてない人とも話して、\nメンタル鍛えられたらなって……付き合ってもらえる？",
+      "choice_data_list": [
+        "Tất nhiên rồi, anh sẽ đi cùng em",
+        "Tất nhiên rồi, tôi sẽ đi cùng bạn"
+      ],
+      "jpchoice_data_list": [
+        "もちろん、付き合うよ",
+        "もちろん、付き合うよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Cảm ơn anh.",
+      "jpname": "メジロドーベル",
+      "jptext": "……どうも。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em cảm ơn chị... và cũng xin lỗi chị nữa.",
+      "jpname": "メジロドーベル",
+      "jptext": "ありがとう……ごめんね。"
+    },
+    {
+      "name": "",
+      "text": "Đúng như lời Trainer trưởng nói, Mejiro Dober đang vô cùng nỗ lực―― Nhìn bóng dáng em ấy, tôi chợt muốn hỏi một câu.",
+      "jpname": "モノローグ",
+      "jptext": "チーフトレーナーの言う通り、メジロドーベルは懸命だ――\nそんな彼女を見ていたら、ふと訊ねたくなった。",
+      "choice_data_list": [
+        "Sao em lại chọn bước chân vào thế giới đường đua vậy?",
+        "Sao bạn lại chọn bước chân vào thế giới đường đua thế?"
+      ],
+      "jpchoice_data_list": [
+        "君は、どうしてレースの世界を志したんだ？",
+        "貴方は、どうしてレースの世界を志したの？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng như lời Trainer trưởng nói, Mejiro Dober đang vô cùng nỗ lực―― Nhìn bóng dáng em ấy, tôi chợt muốn hỏi một câu.",
+      "jpname": "モノローグ",
+      "jptext": "チーフトレーナーの言う通り、メジロドーベルは懸命だ――\nそんな彼女を見ていたら、ふと訊ねたくなった。",
+      "choice_data_list": [
+        "Sao em lại chọn bước chân vào thế giới đường đua vậy?",
+        "Sao bạn lại chọn bước chân vào thế giới đường đua thế?"
+      ],
+      "jpchoice_data_list": [
+        "君は、どうしてレースの世界を志したんだ？",
+        "貴方は、どうしてレースの世界を志したの？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Gì mà tự dưng hỏi thế...",
+      "jpname": "メジロドーベル",
+      "jptext": "なに、急に……。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ơ, chị hỏi bất ngờ ghê? Ừm...",
+      "jpname": "メジロドーベル",
+      "jptext": "え、急だね？　うーん――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cũng chẳng có gì to tát đâu... Bình thường thôi mà. Vốn dĩ đối với các Mã Nương nhà Mejiro, thế giới đường đua đã rất đỗi gần gũi rồi... Đơn giản chỉ là tôi ngưỡng mộ thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "別に……月並みだよ。そもそもメジロのウマ娘にとって、\nレースの世界はすごく身近にあるから……シンプルに、憧れただけ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cũng chẳng có gì to tát đâu... Bình thường thôi mà. Vốn dĩ đối với các Mã Nương nhà Mejiro, thế giới đường đua đã rất đỗi gần gũi rồi... Đơn giản chỉ là em ngưỡng mộ thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "別に……月並みだよ。そもそもメジロのウマ娘にとって、\nレースの世界はすごく身近にあるから……シンプルに、憧れただけ。"
+    },
+    {
+      "name": "Dober lúc nhỏ",
+      "text": "Chị Ryan! Nè nè nè chị Ryan! Em cũng muốn tham gia! Em muốn chạy đua! Cho em tham gia vớiii!!",
+      "jpname": "幼いドーベル",
+      "jptext": "ライアンっ！　ねえねえねえ、ライアン！\nあたしもでたい！　レース、でたい！　だして！！"
+    },
+    {
+      "name": "Ryan lúc nhỏ",
+      "text": "Oái oái, Dober? Tự dưng em làm sao thế?",
+      "jpname": "幼いライアン",
+      "jptext": "わわっ、ドーベル？　きゅうにどうしたの？"
+    },
+    {
+      "name": "Dober lúc nhỏ",
+      "text": "Em quyết định rồi! Em bảo này, em cũng――!",
+      "jpname": "幼いドーベル",
+      "jptext": "きめたの！　あのね、あたしもね――！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dù là tôi thì cũng nhất định sinh ra là để chạy đua và giành chiến thắng. Chỉ là... trong lòng tôi đã quyết định như thế thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシだって絶対、走って勝つために生まれてきたんだ、って。\nただ……そう、心に決めただけ。"
+    },
+    {
+      "name": "",
+      "text": "Mejiro Dober nói ra điều đó với vẻ dửng dưng... nhưng trong đôi mắt em, ánh lên một tia sáng toát ra ý chí vô cùng kiên định.",
+      "jpname": "モノローグ",
+      "jptext": "メジロドーベルはあくまで淡々とそう言い放ったが……\nその目には、とても強い意志を感じさせる光が宿っていた。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nhưng, nếu đừng nói tới chiến thắng mà ngay cả việc chạy đàng hoàng trong một trận đua cũng không làm nổi, thì chẳng ra làm sao cả. Dù thế nào đi nữa, tôi cũng phải trở nên mạnh mẽ hơn.",
+      "jpname": "メジロドーベル",
+      "jptext": "でも、勝つどころかまともにレースにも出られないようじゃ、\n話にならないから。アタシはとにかく、強くならないといけないの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer đã nói rằng sẽ luôn là điểm tựa cho một đứa như tôi. Vì vậy tôi cũng... phải sớm đem về chiến thắng cho Trainer mới được...!",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナーは、こんなアタシのことを支えるって言ってくれた。\nだからアタシも……早くトレーナーに、勝利をあげなきゃ……！",
+      "choice_data_list": [
+        "Nếu là em, nhất định em sẽ chiến thắng thôi",
+        "Nếu là bạn, nhất định bạn sẽ chiến thắng thôi"
+      ],
+      "jpchoice_data_list": [
+        "君なら、必ず勝てるようになるよ",
+        "貴方なら、必ず勝てるようになるよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cái gì chứ... đừng có nói dễ dàng như thế.",
+      "jpname": "メジロドーベル",
+      "jptext": "なに……軽々しく言わないでよ。",
+      "choice_data_list": [
+        "Anh thật lòng nghĩ vậy mà",
+        "Tôi thật lòng nghĩ vậy đấy"
+      ],
+      "jpchoice_data_list": [
+        "本当にそう思ってるんだ",
+        "本当にそう思ってるよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hửm... được chị nói vậy em vui lắm. Nhưng thật sự thì một đứa như em vẫn còn yếu đuối lắm――",
+      "jpname": "メジロドーベル",
+      "jptext": "ん……そう言ってもらえるのは、嬉しいよ。\nけど本当、アタシなんかまだまだ弱いから――",
+      "choice_data_list": [
+        "Anh thật lòng nghĩ vậy mà",
+        "Tôi thật lòng nghĩ vậy đấy"
+      ],
+      "jpchoice_data_list": [
+        "本当にそう思ってるんだ",
+        "本当にそう思ってるよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...A.",
+      "jpname": "メジロドーベル",
+      "jptext": "……っ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...A.",
+      "jpname": "メジロドーベル",
+      "jptext": "……っ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Vậy sao.",
+      "jpname": "メジロドーベル",
+      "jptext": "……そう。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Anh... hơi lạ người đấy nhỉ. Tôi cứ ngỡ người nói với tôi những lời như thế chỉ có mỗi Trainer thôi chứ.",
+      "jpname": "メジロドーベル",
+      "jptext": "アンタ……ちょっと変わってるね。\nアタシにそんなこと言うの、トレーナーだけだと思ってた。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "――Này, ăn xong thì đi cùng tôi một lát nhé. Đi đăng ký trận đua thử nghiệm. ...Đây cũng là việc của Trainer phụ tá đúng không?",
+      "jpname": "メジロドーベル",
+      "jptext": "――あのさ、食べ終わったら付き合って。\n模擬レースの申し込み。……これも、サブトレーナーの仕事でしょ？",
+      "choice_data_list": [
+        "Được chứ, anh sẽ đi cùng em",
+        "Được chứ, tôi sẽ đi cùng bạn"
+      ],
+      "jpchoice_data_list": [
+        "ああ、一緒に行くよ",
+        "うん、一緒に行くよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "――Này, em nhờ chị một chuyện được không? Ăn xong em muốn đi đăng ký trận đua thử nghiệm.",
+      "jpname": "メジロドーベル",
+      "jptext": "――ねえ、ひとつお願いしていいかな？　ご飯の後、\n模擬レースの申し込みに行きたいんだ。",
+      "choice_data_list": [
+        "Được chứ, anh sẽ đi cùng em",
+        "Được chứ, tôi sẽ đi cùng bạn"
+      ],
+      "jpchoice_data_list": [
+        "ああ、一緒に行くよ",
+        "うん、一緒に行くよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lần tới nhất định... em sẽ không để lộ dáng vẻ đáng xấu hổ như vậy nữa đâu.",
+      "jpname": "メジロドーベル",
+      "jptext": "次こそ……みっともないとこは、見せないから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cảm ơn anh. Lần tới, tôi muốn cho người ấy thấy tôi đường hoàng giành chiến thắng. Mà... cả cho anh thấy nữa.",
+      "jpname": "メジロドーベル",
+      "jptext": "ありがと。次こそ、ちゃんと勝つとこ、見てもらいたいから。\nまあ……アンタにも、さ。"
+    },
+    {
+      "name": "",
+      "text": "Dù đau đớn nhưng Mejiro Dober vẫn liều mình vùng vẫy đấu tranh. Dẫu chỉ từng chút một, tôi cảm thấy dường như khoảng cách giữa mình và em đang dần được thu hẹp――",
+      "jpname": "モノローグ",
+      "jptext": "辛くとも必死にもがくメジロドーベル。少しずつだが、\n彼女との距離も近づいてきたような気がしていた――"
+    },
+    {
+      "name": "",
+      "text": "Dù đau đớn nhưng Mejiro Dober vẫn liều mình vùng vẫy đấu tranh. Dẫu chỉ từng chút một, tôi cảm thấy dường như khoảng cách giữa mình và em đang dần được thu hẹp――",
+      "jpname": "モノローグ",
+      "jptext": "辛くとも必死にもがくメジロドーベル。少しずつだが、\n彼女との距離も近づいてきたような気がしていた――"
+    },
+    {
+      "name": "",
+      "text": "Đúng vào lúc đó, biến cố bất ngờ ập đến.",
+      "jpname": "モノローグ",
+      "jptext": "そんな矢先のことだった。"
+    },
+    {
+      "name": "",
+      "text": "Đúng vào lúc đó, biến cố bất ngờ ập đến.",
+      "jpname": "モノローグ",
+      "jptext": "そんな矢先のことだった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em xin phép vào ạ. Trainer, buổi tập hôm nay―― Trainer? ...Bà... đang ngủ sao ạ...?",
+      "jpname": "メジロドーベル",
+      "jptext": "失礼します。トレーナー、今日のトレーニング――\nトレーナー？　……寝てるん、ですか……？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...!? Trainer, Trainer!? Bà làm sao thế này ạ...!!",
+      "jpname": "メジロドーベル",
+      "jptext": "……！？　トレーナーっ、トレーナー！？\nどうしたんですかっ……！！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A... Ai đó! Mau đến đây với, Trainer...!!",
+      "jpname": "メジロドーベル",
+      "jptext": "だ……誰か！　誰か来てっ、トレーナーが……！！"
+    }
+  ]
+}

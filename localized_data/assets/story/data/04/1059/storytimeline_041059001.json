@@ -1,0 +1,344 @@
+{
+  "title": "Hạt Sáng Lấp Lánh",
+  "jptitle": "きらり、パーティクル",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ khi bước qua cánh cổng Học Viện Tracen với tư cách một Trainer tân binh, thời gian đã thấm thoát trôi qua. Và hôm nay, chuỗi ngày mới cuối cùng cũng bắt đầu...!",
+      "jpname": "モノローグ",
+      "jptext": "新人トレーナーとしてトレセン学園の門を叩いてからしばらく。\n今日からいよいよ、新しい日々が始まる……！"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Rất vui được gặp cậu, Trainer <username>. Tôi là Trainer trưởng của đội mà cậu sẽ gia nhập kể từ hôm nay.",
+      "jpname": "チーフトレーナー",
+      "jptext": "初めまして、<username>トレーナーさん。\n私が、貴方の今日から所属するチームの、チーフトレーナーです。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Như cậu thấy đấy, tôi đã khá lớn tuổi rồi, khoảng thời gian có thể chỉ dạy cho cậu có lẽ chẳng còn bao lâu... nhưng với tư cách Trainer phụ tá, rất mong được cậu giúp đỡ nhé.",
+      "jpname": "チーフトレーナー",
+      "jptext": "見ての通り私はもうずいぶん年寄りだし、教えてあげられる期間は\n短いかもしれないけれど……サブトレーナーとして、よろしくね。",
+      "choice_data_list": [
+        "Vâng, trăm sự nhờ tiền bối chỉ dạy ạ!"
+      ],
+      "jpchoice_data_list": [
+        "はい、よろしくお願いします！"
+      ]
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Phì phì, câu trả lời hay lắm. Tôi đặt nhiều kỳ vọng vào cậu đấy, cố lên nhé? Thực ra tôi đã quan sát kỹ càng rồi mới quyết định chọn cậu đấy.",
+      "jpname": "チーフトレーナー",
+      "jptext": "ふふふ、いいお返事。期待しているから、頑張ってね？\n私、実は結構、貴方のことちゃ～んと見て選んだつもりだから。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Vậy thì không để mất thời gian nữa―― Chúng ta cùng đi gặp Mã Nương quý giá của đội mình nào.",
+      "jpname": "チーフトレーナー",
+      "jptext": "それじゃあさっそく――\n私たちの大事なウマ娘に、会いに行きましょうか。"
+    },
+    {
+      "name": "",
+      "text": "Những tân binh tại học viện đôi khi sẽ làm Trainer phụ tá, hỗ trợ đội ngũ do một Trainer kỳ cựu dẫn dắt để tích lũy kinh nghiệm cho đến khi có thể tự đứng vững trên đôi chân của mình.",
+      "jpname": "モノローグ",
+      "jptext": "学園所属の新人は、サブトレーナーとしてベテランの率いる\nチームを手伝い、独り立ちできるまで経験を積むこともある。"
+    },
+    {
+      "name": "",
+      "text": "Lần này, người đón nhận tôi vào vị trí phụ tá là một Trainer trưởng vô cùng dày dạn kinh nghiệm. Còn Mã Nương phụ trách là――",
+      "jpname": "モノローグ",
+      "jptext": "今回、自分をサブとして迎え入れてくれたのは\n大ベテランのチーフトレーナー。担当ウマ娘は――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hà... hà... Em đã hoàn thành xong bài tập rồi, Trainer. Xin hãy cho em chỉ dẫn tiếp theo ạ!",
+      "jpname": "メジロドーベル",
+      "jptext": "はっ、はっ……メニュー終わりました、トレーナー。\n次のご指示をお願いします！"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Vất vả cho cháu rồi, bé Bell. Tiếp theo là bài tập chạy song hành, nhưng trước khi bắt đầu thì... ――Cậu ấy chính là Trainer phụ tá mà ta đã nhắc hôm trước đấy.",
+      "jpname": "チーフトレーナー",
+      "jptext": "お疲れ様、ベルちゃん。次は併走だけれど……始める前に少しいい？\n――彼が、先日話していたサブトレーナーよ。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Vất vả cho cháu rồi, bé Bell. Tiếp theo là bài tập chạy song hành, nhưng trước khi bắt đầu thì... ――Cô ấy chính là Trainer phụ tá mà ta đã nhắc hôm trước đấy.",
+      "jpname": "チーフトレーナー",
+      "jptext": "お疲れ様、ベルちゃん。次は併走だけれど……始める前に少しいい？\n――彼女が、先日話していたサブトレーナーよ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Chào anh.",
+      "jpname": "メジロドーベル",
+      "jptext": "……どうも。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A... vâng. Dạ, mong được chị giúp đỡ ạ.",
+      "jpname": "メジロドーベル",
+      "jptext": "あ……はい。えっと、よろしくお願いします。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Này Trainer phụ tá, để ta giới thiệu lại một lần nữa nhé, con bé là bé Bell... Mejiro Dober. Là một Mã Nương vô cùng, vô cùng quý giá của đội ta.",
+      "jpname": "チーフトレーナー",
+      "jptext": "サブトレーナー、改めてになるけれど、彼女がベルちゃん……\nメジロドーベルよ。私のチームの、大事な大事なウマ娘。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Này Trainer phụ tá, để ta giới thiệu lại một lần nữa nhé, con bé là bé Bell... Mejiro Dober. Là một Mã Nương vô cùng, vô cùng quý giá của đội ta.",
+      "jpname": "チーフトレーナー",
+      "jptext": "サブトレーナー、改めてになるけれど、彼女がベルちゃん……\nメジロドーベルよ。私のチームの、大事な大事なウマ娘。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Đối với ta, có lẽ đây sẽ là Mã Nương phụ trách cuối cùng. Như cháu thấy đấy, ta cũng đã thành một bà lão lọm khọm mất rồi.",
+      "jpname": "チーフトレーナー",
+      "jptext": "私にとっては、たぶん最後の担当ウマ娘になるかしら。\n見ての通り、ずいぶんおばあちゃんになってしまったものね、私も。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer...",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナー……。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Ái chà ta xin lỗi nhé, không sao đâu bé Bell! Ta thấy mình vẫn còn khỏe khoắn chán, nên đừng làm vẻ mặt buồn bã như thế.",
+      "jpname": "チーフトレーナー",
+      "jptext": "あらごめんなさい、大丈夫よベルちゃん！\nまだまだ元気なつもりだから、そんなさみしそうな顔しないで。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "――Xin phép làm phiền. Tôi đến để làm đối thủ chạy song hành đây, mọi người đã sẵn sàng bắt đầu chưa?",
+      "jpname": "エアグルーヴ",
+      "jptext": "――失礼します。\n併走相手に参りましたが、始められそうでしょうか？"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Được chứ, tất nhiên rồi! Cảm ơn cháu đã đến nhé, Air Groove. Bé Bell, cháu chuẩn bị xong chưa?",
+      "jpname": "チーフトレーナー",
+      "jptext": "ええ、もちろん！　来てくれてありがとう、エアグルーヴさん。\nベルちゃん、準備はいいかしら？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ rồi ạ...! Mong tiền bối chỉ giáo thêm ạ!",
+      "jpname": "メジロドーベル",
+      "jptext": "はいっ……！\n先輩、よろしくお願いします！"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, buổi chạy song hành giữa Mejiro Dober và Air Groove chính thức bắt đầu!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、メジロドーベルとエアグルーヴ、\n2人の併走が始まった！"
+    },
+    {
+      "name": "",
+      "text": "Đối thủ chạy song hành là Air Groove, cô gái được xưng tụng là \"Nữ Hoàng\". Một Mã Nương đầy thực lực từng cùng mẹ làm nên kỳ tích hai thế hệ liên tiếp xưng vương tại giải GI \"Oaks\".",
+      "jpname": "モノローグ",
+      "jptext": "併走相手は“女帝”の呼び声が高いエアグルーヴ。\nGⅠ『オークス』の母娘二代制覇も果たした実力者だ。"
+    },
+    {
+      "name": "",
+      "text": "Mặt khác, Mejiro Dober vẫn chưa có màn ra mắt. Cứ ngỡ em chỉ gắng gượng bám đuổi theo sau, nào ngờ――!",
+      "jpname": "モノローグ",
+      "jptext": "かたやメジロドーベルはデビュー前。\nついて行くのがやっとか、と思いきや――！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hà, hà, hà... Haaaaaaa!!",
+      "jpname": "メジロドーベル",
+      "jptext": "はっ、はっ、はっ……はぁああああああっ！！"
+    },
+    {
+      "name": "Air Groove",
+      "text": "...! Hừ, khá lắm...!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "……！　ふ、やるな……！！",
+      "choice_data_list": [
+        "(Cú bứt tốc vừa rồi là...!)"
+      ],
+      "jpchoice_data_list": [
+        "（今の加速は……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Toàn thân vận động uyển chuyển tạo nên một tốc độ đáng kinh ngạc. Đó là dáng chạy toát lên tài năng thiên bẩm. Thế nhưng, không chỉ dừng lại ở đó――",
+      "jpname": "モノローグ",
+      "jptext": "美しく躍動する全身が作り出す、素晴らしいスピード。\n天性の才能を感じさせる走りだった。だが、それだけではなく――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Chưa đâu, chưa xong đâuuu!! ――Aaaaaaaa!!",
+      "jpname": "メジロドーベル",
+      "jptext": "まだ、まだぁああっ！！\n――ぁあああああっ！！"
+    },
+    {
+      "name": "",
+      "text": "Ý chí thi đấu ngoan cường, quyết không bỏ cuộc cho đến giây phút cuối cùng, không ngừng lao về phía trước. Ánh sáng từ ý chí kiên định ấy đã để lại ấn tượng sâu đậm trong tôi...!",
+      "jpname": "モノローグ",
+      "jptext": "最後まで決して諦めずに、前へ前へと進み続ける勝負根性。\nその意志の輝きが、強く印象に残った……！",
+      "choice_data_list": [
+        "(Mejiro Dober... cô bé thật đáng kinh ngạc...!)",
+        "(Mejiro Dober... quả là một cô bé tuyệt vời...!)"
+      ],
+      "jpchoice_data_list": [
+        "（メジロドーベル……すごい子だ……！）",
+        "（メジロドーベル……すごい子……！）"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hà... hà... hà... Em cảm ơn... tiền bối rất nhiều...!",
+      "jpname": "メジロドーベル",
+      "jptext": "はぁっ、はぁっ、はぁっ……ありがとう、ございました……！"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Không có gì. Cơ mà... em tiến bộ nhiều đấy, Dober. Tốc độ vừa rồi rất cừ.",
+      "jpname": "エアグルーヴ",
+      "jptext": "構わん。にしても……実力をつけたな、ドーベル。\n素晴らしいスピードだった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ đâu có... Cả vị trí lẫn thời điểm bứt tốc, em vẫn còn non kém lắm. Rốt cuộc thì em chẳng thể vượt lên trước tiền bối lấy một lần...",
+      "jpname": "メジロドーベル",
+      "jptext": "いえ、そんな……位置取りとか仕掛けのタイミングとか、\nまだまだです。結局、1回も先輩の前に出られませんでしたし……。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Haha, ta đâu có dễ nhường như vậy. Nhưng đúng là ta đã cảm nhận được áp lực áp sát từ phía sau. ...Em đã tìm được một Trainer tốt đấy nhỉ.",
+      "jpname": "エアグルーヴ",
+      "jptext": "はは、そう簡単には譲らんさ。だが確かに背後へ迫られているのを\n感じたぞ。……いいトレーナーがついたのだな。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ vâng...!",
+      "jpname": "メジロドーベル",
+      "jptext": "はいっ……！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em vẫn còn rất yếu đuối... nhưng nếu trông em có mạnh mẽ hơn đôi chút, thì tất cả đều nhờ công của Trainer ạ.",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシはまだ全然、弱いままで……だけどちょっとでも\n強く見えたのなら、それは全部、トレーナーのおかげです。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Ừ, ừ! Bé Bell, đường chạy vừa rồi tuyệt vời lắm đấy.",
+      "jpname": "チーフトレーナー",
+      "jptext": "うんうん！　ベルちゃん、とってもいい走りだったわね。",
+      "choice_data_list": [
+        "Đúng là như vậy ạ...!!"
+      ],
+      "jpchoice_data_list": [
+        "ですね……！！"
+      ]
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Ái chà! Phì phì, mắt cậu đang sáng lấp lánh kìa. ...Ừm, tôi biết ngay cậu sẽ là kiểu Trainer nhìn con bé với ánh mắt như thế mà.",
+      "jpname": "チーフトレーナー",
+      "jptext": "あらま！　ふふ、貴方、おめめがキラキラ。\n……うん、そんな目をしてくれるトレーナーだと思っていたのよね。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "...Bé Bell tuyệt vời lắm đúng không. Cả tâm hồn lẫn thể chất, con bé đều tràn đầy tiềm năng vô hạn.",
+      "jpname": "チーフトレーナー",
+      "jptext": "……すごいでしょう、ベルちゃんは。\n心も体も、可能性に満ち溢れているの。"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Tương lai rực rỡ của con bé, ta cũng muốn dõi theo mãi mãi, nhưng mà――",
+      "jpname": "チーフトレーナー",
+      "jptext": "あの子の素晴らしい未来を、私もずっと見守っていたいけれど――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ, thưa Trainer! Em vẫn còn sức, nên trước khi hạ nhiệt, em có thể ra ngoài chạy cùng tiền bối một chút được không ạ?",
+      "jpname": "メジロドーベル",
+      "jptext": "あの、トレーナー！　まだ体力あるので、\nダウンの前に先輩と外を走ってきてもいいですか？"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "Chà chà, bé Bell dạo này hăng hái đặc biệt nhỉ! Được rồi, nếu chỉ một vòng thì được. Nhưng chạy tốc độ vừa phải thôi nhé?",
+      "jpname": "チーフトレーナー",
+      "jptext": "まあまあ、ベルちゃんたら、最近特にやる気満々ね！\nそうね、1周だけならいいでしょう。ゆっくりめのペースでね？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ vâng, em cảm ơn Trainer. Em xin phép đi đây ạ!",
+      "jpname": "メジロドーベル",
+      "jptext": "はい、ありがとうございます。行ってきます！"
+    },
+    {
+      "name": "Trainer trưởng",
+      "text": "...Nào, chúng ta dọn dẹp đồ đạc chuẩn bị thôi nhỉ.",
+      "jpname": "チーフトレーナー",
+      "jptext": "……さてと、私たちは後片づけでも進めておきましょうか。",
+      "choice_data_list": [
+        "Vâng"
+      ],
+      "jpchoice_data_list": [
+        "はい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm đó, tôi vừa phụ giúp Trainer trưởng, vừa không ngừng hồi tưởng lại đường chạy tuyệt vời của Mejiro Dober...!",
+      "jpname": "モノローグ",
+      "jptext": "その日はメジロドーベルの素晴らしい走りを何度も反すうしながら、\nチーフトレーナーを手伝ったのだった……。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hửm... đợi đã, Dober.",
+      "jpname": "エアグルーヴ",
+      "jptext": "む……待て、ドーベル。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dạ...? A――",
+      "jpname": "メジロドーベル",
+      "jptext": "はい……？\nあ――"
+    },
+    {
+      "name": "Các phóng viên",
+      "text": "Ryan-san! Ryan-san! Mejiro Ryan-san, nhìn về phía này một chút đi ạ!",
+      "jpname": "記者たち",
+      "jptext": "ライアンさん！　ライアンさん！\nメジロライアンさん、目線くださ～い！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Hôm trước bạn đã có một màn trình diễn thật tuyệt vời đấy, Mejiro Ryan-san! Rất đông người hâm mộ đang đặt nhiều kỳ vọng vào trận đua tiếp theo, cảm xúc của bạn thế nào?",
+      "jpname": "乙名史記者",
+      "jptext": "先日も素晴らしいご活躍でしたね、メジロライアンさん！\n大勢のファンが次走にも期待を寄せていますが、お気持ちは？"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Dạ thì...! Được mọi người cổ vũ em vui lắm ạ! Để đáp lại kỳ vọng đó, em sẽ tiếp tục rèn luyện hết mình hơn nữa ạ!",
+      "jpname": "メジロライアン",
+      "jptext": "えっと……！　応援、すごく嬉しいです！\n期待にお応えできるように、またモリモリ鍛えていきますねっ！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "............",
+      "jpname": "メジロドーベル",
+      "jptext": "…………っ。"
+    },
+    {
+      "name": "Air Groove",
+      "text": "――Chúng ta đi vòng ra phía sau thôi. Đi nào, Dober.",
+      "jpname": "エアグルーヴ",
+      "jptext": "――裏に回ろう。来い、ドーベル。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vâng... thưa tiền bối.",
+      "jpname": "メジロドーベル",
+      "jptext": "はい……先輩。"
+    }
+  ]
+}

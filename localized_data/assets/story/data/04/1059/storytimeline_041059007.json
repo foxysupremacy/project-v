@@ -1,0 +1,500 @@
+{
+  "title": "Đó Là Điều Quý Giá",
+  "jptitle": "それは、プレシャス",
+  "text_block_list": [
+    {
+      "name": "Mejiro Dober",
+      "text": "Hà... hà...... Lượt chạy cuối cùng...!",
+      "jpname": "メジロドーベル",
+      "jptext": "はぁ、はぁ…………ラスト1本ッ……！"
+    },
+    {
+      "name": "",
+      "text": "Đợt tập huấn mùa hè thường niên. Mejiro Dober đang hoàn thành suôn sẻ các bài tập theo đúng kế hoạch đề ra.",
+      "jpname": "モノローグ",
+      "jptext": "恒例の夏合宿。\nメジロドーベルは順調に予定のトレーニングをこなしている。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Nè nè, lát nữa đi lượn sạp hàng nào ở lễ hội trước đây? Mình muốn ăn kẹo táo quá!",
+      "jpname": "ウマ娘A",
+      "jptext": "ねえねえ、お祭りの屋台どこ回る？　アタシりんご飴食べたい！"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Bánh cà rốt nướng cũng không thể bỏ qua được đâuuu! A, ước gì trời mau tối nhỉ!",
+      "jpname": "ウマ娘B",
+      "jptext": "にんじん焼きも外せないでしょー！　あー早く夜にならないかな～。"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ vì tối nay có lễ hội gần đây, nên trong lúc tập luyện trông ai nấy cũng đều háo hức đứng ngồi không yên.",
+      "jpname": "モノローグ",
+      "jptext": "今夜近くでお祭りがあるせいか、みんな\nトレーニング中も楽しみで落ち着かない様子だった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Nhìn chằm chằm người ta thế làm gì vậy? Mặt tôi dính cát à?",
+      "jpname": "メジロドーベル",
+      "jptext": "……じっと見たりして、なに？　顔に砂でもついてる？",
+      "choice_data_list": [
+        "Không... tôi chỉ thấy em vẫn chăm chỉ như thường lệ thôi"
+      ],
+      "jpchoice_data_list": [
+        "いや……いつも通りだなと思って"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hả? Đương nhiên rồi còn gì? Thay vì nhìn ngó thì bài chạy bứt tốc khứ hồi tiếp theo nhớ bấm giờ cho chuẩn đấy nhé.",
+      "jpname": "メジロドーベル",
+      "jptext": "は？　当たり前でしょ？\nそれより次の往復ダッシュ、ちゃんと計っててよ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em vẫn như mọi khi mà...? Thay vì thế thì bài tập tiếp theo là chạy bứt tốc khứ hồi đúng không ạ. Chị bấm giờ giúp em nhé?",
+      "jpname": "メジロドーベル",
+      "jptext": "いつも通りだけど……？\nそれより次、往復ダッシュだよね。タイム計ってくれる？"
+    },
+    {
+      "name": "",
+      "text": "Vài tiếng đồng hồ sau khi kết thúc buổi tập. Trong khu ký túc xá trở nên tĩnh lặng như tờ. Chắc hẳn phần lớn học viên đều đã rủ nhau đi chơi lễ hội mùa hè.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングを終えて数時間後。宿舎内は静まり返っていた。\n多くの生徒が夏祭りに出かけたのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Vài tiếng đồng hồ sau khi kết thúc buổi tập. Trong khu ký túc xá trở nên tĩnh lặng như tờ. Chắc hẳn phần lớn học viên đều đã rủ nhau đi chơi lễ hội mùa hè.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングを終えて数時間後。宿舎内は静まり返っていた。\n多くの生徒が夏祭りに出かけたのだろう。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ơ kìa, Trainer? Hóa ra người vẫn còn ở lại à.",
+      "jpname": "メジロドーベル",
+      "jptext": "あれ、トレーナー？　残ってたんだ。",
+      "choice_data_list": [
+        "Còn em không đi lễ hội sao?",
+        "Còn bạn không đi lễ hội sao?"
+      ],
+      "jpchoice_data_list": [
+        "君こそお祭りに行かないのか？",
+        "貴方こそお祭りに行かないの？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tôi có chút việc cần làm. Với lại không có ai thì dễ tập trung hơn.",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシはちょっとやることがあって。\n誰もいない方が集中できるから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "............ Này, Trainer biết vẽ tranh phong cảnh không?",
+      "jpname": "メジロドーベル",
+      "jptext": "…………ねえ、トレーナーってさ、風景画描ける？",
+      "choice_data_list": [
+        "Tranh phong cảnh ư?"
+      ],
+      "jpchoice_data_list": [
+        "風景画？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thì là... lúc này tôi đang làm một vở kịch tranh giấy về bộ phim \"Veggie Carolyn\" ấy mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "その……今さ、『べじキャロリン』の映画の紙芝居を作ってて。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "A, xin lỗi chị. Tự dưng nói vậy nghe khó hiểu quá nhỉ. Thực ra em... đang làm một vở kịch tranh giấy về bộ phim \"Veggie Carolyn\" ạ.",
+      "jpname": "メジロドーベル",
+      "jptext": "あー、ごめん。いきなり意味不明だよね。\n実はアタシ……『べじキャロリン』の映画の紙芝居を作ってるんだ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em gái và em trai tôi... dường như không thể đến rạp xem phim được. Chắc là do hai đứa còn nhỏ quá, chưa đến tuổi có thể ngồi ngoan ngoãn xem suốt buổi.",
+      "jpname": "メジロドーベル",
+      "jptext": "妹と弟が……どうやら映画に行けないみたいなの。\n多分、まだ大人しく座っていられる年齢じゃないからだと思う。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em gái và em trai em... dường như không thể đến rạp xem phim được. Chắc là do hai đứa còn nhỏ quá, chưa đến tuổi có thể ngồi ngoan ngoãn xem suốt buổi.",
+      "jpname": "メジロドーベル",
+      "jptext": "妹と弟が……どうやら映画に行けないみたいなの。\n多分、まだ大人しく座っていられる年齢じゃないからだと思う。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vì vậy nên tôi mới nghĩ hay là chuyển thể câu chuyện đó thành kịch tranh giấy cho hai đứa nhỏ... Như thế thì cả hai đứa đều có thể thưởng thức được rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "だから、あの話を紙芝居にしてあげようかなと……。\nそれなら2人も楽しめるでしょ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nhưng, tranh nhân vật thì vẽ xong rồi... mà cảnh nền thì mãi chưa hoàn thành nổi. Dù chỉ vẽ xong một tấm thôi cũng tốn biết bao nhiêu thời gian...",
+      "jpname": "メジロドーベル",
+      "jptext": "で、キャラの絵は描けたんだけど……背景が全然終わらなくて。\n1枚仕上げるだけでも、すごく時間がかかるんだよね……。"
+    },
+    {
+      "name": "",
+      "text": "Đúng thật, bộ phim đó lấy bối cảnh tại rất nhiều địa điểm khác nhau trên hoang đảo. Bờ biển, trong rừng sâu, rồi cả tòa biệt thự bí ẩn trên đảo hoang nữa――",
+      "jpname": "モノローグ",
+      "jptext": "確かに、あの映画は無人島の中の様々な場所が舞台になっていた。\n海辺や森の中、無人島に存在する謎の別荘など――",
+      "choice_data_list": [
+        "...Hay là dùng ảnh chụp làm hình nền xem sao?"
+      ],
+      "jpchoice_data_list": [
+        "……背景を写真にするのはどう？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hả, ảnh chụp sao...? Ý anh là thế nào?",
+      "jpname": "メジロドーベル",
+      "jptext": "え、写真……？　どういうこと？"
+    },
+    {
+      "name": "",
+      "text": "Nơi chúng tôi đang đóng quân tập huấn là ven biển. Gần đây cũng có rừng cây. Thêm vào đó, khu ký túc xá này trông rất giống một tòa biệt thự. Tức là bối cảnh bộ phim đều có đủ cả.",
+      "jpname": "モノローグ",
+      "jptext": "今いる合宿所は海辺だ。近くに森もある。おまけにこの宿舎は\n別荘に似ている。つまり、映画の舞台が揃っているのだ。"
+    },
+    {
+      "name": "",
+      "text": "Tôi gợi ý rằng nếu cắt rời các bức vẽ nhân vật ra rồi chụp ảnh chúng trên nền phong cảnh thực tế, chẳng phải sẽ hoàn thành được vở kịch tranh giấy có sẵn cảnh nền hay sao.",
+      "jpname": "モノローグ",
+      "jptext": "それなら、キャラの絵を切り抜いて風景をバックに写真を撮れば、\n背景付きの紙芝居が完成するのではないかと提案した。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": ".................. Anh có thực sự là Trainer không đấy? Sáng kiến tuyệt vời ghê.",
+      "jpname": "メジロドーベル",
+      "jptext": "……………………アンタ、ホントにトレーナー？　名案じゃん。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer, ý đó tuyệt vời quá đi mất!",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナー、それ、すごくいい！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "In những bức ảnh đã chụp ra khổ lớn rồi dán lên giấy vẽ... là sẽ thành một vở kịch tranh giấy hoàn chỉnh!",
+      "jpname": "メジロドーベル",
+      "jptext": "撮った写真を大きいサイズでプリントアウトして、\n画用紙に貼れば……紙芝居になる！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "In những bức ảnh đã chụp ra khổ lớn rồi dán lên giấy vẽ... là sẽ thành một vở kịch tranh giấy hoàn chỉnh!",
+      "jpname": "メジロドーベル",
+      "jptext": "撮った写真を大きいサイズでプリントアウトして、\n画用紙に貼れば……紙芝居になる！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vậy thì mình cắt hết tranh nhân vật ra, rồi ra biển chụp hình nào―― Liệu có kịp xong trước khi mọi người quay về không nhỉ!?",
+      "jpname": "メジロドーベル",
+      "jptext": "じゃあ全部のキャラを切り抜いて、海へ行って撮影して――\nみんなが戻る前に終わるかな！？",
+      "choice_data_list": [
+        "Để anh giúp một tay!"
+      ],
+      "jpchoice_data_list": [
+        "手伝うよ！"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Tôi biết ngay là anh sẽ nói thế mà.",
+      "jpname": "メジロドーベル",
+      "jptext": "……言うと思った。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vâng, thực ra em cũng rất mong chị nói câu đó đấy.",
+      "jpname": "メジロドーベル",
+      "jptext": "うん、実は期待してた。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Có từ chối thì anh cũng đâu chịu bỏ cuộc. Tôi cũng dần hiểu tính anh rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "断ったところで、諦めるアンタじゃないもんね。\nアタシもいい加減わかってきた。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer, trước đây chị từng bảo nếu gặp khó khăn gì thì cứ nói để chị giúp mà đúng không. Thế nên em mới định nhờ chị đấy.",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナー、前に困っていることがあったら手伝うって\n言ってくれたでしょ。だから、お願いするつもりだったの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vậy 5 phút nữa tập hợp ở phòng sinh hoạt chung nhé.",
+      "jpname": "メジロドーベル",
+      "jptext": "じゃ、5分後に談話室集合で。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vậy 5 phút nữa tập hợp ở phòng sinh hoạt chung nhé!",
+      "jpname": "メジロドーベル",
+      "jptext": "じゃあ、5分後に談話室集合ね！"
+    },
+    {
+      "name": "",
+      "text": "Và thế là sau khi cắt rời toàn bộ hình vẽ nhân vật―― công việc nhanh chóng chuyển sang giai đoạn chụp ảnh.",
+      "jpname": "モノローグ",
+      "jptext": "そして、全部のキャライラストを切り抜き――\n作業は写真撮影の段階に入っていた。"
+    },
+    {
+      "name": "",
+      "text": "Và thế là sau khi cắt rời toàn bộ hình vẽ nhân vật―― công việc nhanh chóng chuyển sang giai đoạn chụp ảnh.",
+      "jpname": "モノローグ",
+      "jptext": "そして、全部のキャライラストを切り抜き――\n作業は写真撮影の段階に入っていた。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer, dịch sang bên phải nữa đi! Giơ thẳng cánh tay ra hết mức! Nếu không là người anh sẽ bị lọt vào khung hình mất đấy!",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナー、もっと右！　めいっぱい腕伸ばして！\nじゃないと写りこんじゃうの！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer? Cửa sổ làm sao thế ạ... A, hay quá! Chị để nhân vật đứng phía sau mặt kính cửa sổ à! Trông hệt như đang nhìn từ trong phòng ra ngoài vậy!",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナー？　窓がどうかした……あ、いいね！　キャラを\n窓ガラスの向こうに立たせたんだ！　部屋から見てる感じがする！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Em muốn có thêm cảm giác chân thực khi đang chạy nữa. Trainer, anh chạy nước rút một đoạn ngắn được không?",
+      "jpname": "メジロドーベル",
+      "jptext": "もう少し走ってる臨場感がほしいんだよね。\nトレーナー、ちょっとダッシュしてくれる？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oa, chị đặt ở chỗ đó sao? Phì phì, câu đố khó nhằn ghê! Vừa xem kịch tranh giấy vừa tìm kiếm nhân vật thế này nhất định sẽ vui lắm! Cảm ơn chị vì ý tưởng tuyệt vời này nhé!",
+      "jpname": "メジロドーベル",
+      "jptext": "わ、そんなとこ置いちゃう？　ふふっ、難問だね！\n紙芝居の絵でキャラ探しもできるの、絶対楽しい！　名案ありがと！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cảnh biển ban ngày thì để sáng mai chụp vậy. Tạm thời tối nay đến đây là xong bức cuối cùng rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "昼間の海は明日の朝に撮るとして。\nとりあえず、今夜はこれで最後だね。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cảnh biển ban ngày thì để sáng mai chụp vậy. Tạm thời tối nay đến đây là xong bức cuối cùng rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "昼間の海は明日の朝に撮るとして。\nとりあえず、今夜はこれで最後だね。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Đứng im đấy nhé, Trainer. 3, 2, 1――",
+      "jpname": "メジロドーベル",
+      "jptext": "動かないでよ、トレーナー。3、2、1――"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Được rồi, xong xuôi!",
+      "jpname": "メジロドーベル",
+      "jptext": "はい、オッケー！"
+    },
+    {
+      "name": "",
+      "text": "(Vút... Đoàng! Đoàng đoàng!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ヒュルルルル……ドーン！　ドーーン！！）"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pháo hoa kìa...!",
+      "jpname": "メジロドーベル",
+      "jptext": "花火……！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lễ hội... chắc sắp tàn rồi nhỉ...",
+      "jpname": "メジロドーベル",
+      "jptext": "お祭り……そろそろ終わりかな……。",
+      "choice_data_list": [
+        "Hay là bây giờ đi nhé?"
+      ],
+      "jpchoice_data_list": [
+        "今からでも行く？"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tầm này chắc các sạp hàng dọn quán hết rồi còn đâu. Với lại tôi cũng nhờ nhóm Ryan mua quà lưu niệm mang về rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "さすがにもう屋台は店じまいしてるんじゃない？\nアタシはライアンたちにお土産頼んであるし。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "――Nói về lễ hội... ngày xưa tôi lúc nào cũng đi cùng nhóm Ryan cả.",
+      "jpname": "メジロドーベル",
+      "jptext": "――お祭りは……昔からいつもライアンたちと行ってたんだよね。"
+    },
+    {
+      "name": "Dober lúc nhỏ",
+      "text": "Huhu... đông người quá à... Chị Ryan, đừng buông tay em ra nhé... tuyệt đối không được buông đâu đấy.",
+      "jpname": "幼いドーベル",
+      "jptext": "ふぇ……ひとが、いっぱい……。\nライアン、手はなさないでね……ぜったいだよ。"
+    },
+    {
+      "name": "Dober lúc nhỏ",
+      "text": "A... kẹo bông gòn kìa. Chị Ryan ơi, đằng kia có kẹo bông gòn. Kìa, ở đằng kia kìa. Nè, mình đi ăn kẹo bông gòn đi chị?",
+      "jpname": "幼いドーベル",
+      "jptext": "あ……わたあめ。ライアン、わたあめあった。\nほらあそこ。ね、わたあめたべよ？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tôi được nhóm Ryan nắm chặt tay dắt đi. Cứ đòi chơi cái này, đòi ăn cái kia, kéo mọi người chạy ngược chạy xuôi khắp nơi...",
+      "jpname": "メジロドーベル",
+      "jptext": "ライアンたちに手を繋いでもらって。あれがやりたい、\nこれが食べたいって、あちこち引っ張り回したっけ……。",
+      "choice_data_list": [
+        "Các em thân thiết thật đấy nhỉ",
+        "Mọi người thân thiết thật đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "仲がいいんだな",
+        "仲がいいんだね"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ở nhà tôi mẹ hay bận rộn công việc nên ít khi ở nhà. Thành ra từ nhỏ tôi đã thường xuyên sang chơi cùng mọi người bên gia đình Mejiro.",
+      "jpname": "メジロドーベル",
+      "jptext": "うちはお母さんが仕事でいないことが多くて。\nそれで小さい頃は、メジロ家のみんなとよく遊んでたの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Đặc biệt là chị Ryan chăm sóc tôi chu đáo lắm... Ở bên chị ấy tôi luôn thấy an tâm và lúc nào cũng ngập tràn niềm vui.",
+      "jpname": "メジロドーベル",
+      "jptext": "ライアンには特に面倒見てもらったな……。\n一緒にいると安心できたし、いつも楽しかった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Chính vì thế khi có em gái và em trai... tôi mới nghĩ lần này đến lượt mình phải đối xử thật tốt với hai đứa như một người chị gái thực thụ.",
+      "jpname": "メジロドーベル",
+      "jptext": "だから妹と弟ができた時……今度はアタシが\n2人の姉として接してあげたいと思ったんだ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Những điều tuyệt vời mà tôi từng nhận được và cảm thấy hạnh phúc... tôi cũng muốn mang lại điều đó cho các em của mình.",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシがしてもらって嬉しかったこと……\nあの子たちにもしてあげたかった。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nhưng trên thực tế tôi vẫn chưa làm được điều gì ra hồn cả. Vì sống trong ký túc xá nên cơ hội gặp mặt cũng chẳng có bao nhiêu.",
+      "jpname": "メジロドーベル",
+      "jptext": "実際はなにもできてないんだけどね。\nアタシは寮生活だから会う機会も少ないし。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Dù có gặp... tôi cũng chẳng biết phải tiếp xúc với hai đứa nhóc thế nào nữa.",
+      "jpname": "メジロドーベル",
+      "jptext": "会っても……どう接したらいいのかわからないの。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Thế nhưng hôm nọ, khi tôi vu vơ vẽ hình \"Veggie Carolyn\", hai đứa nhỏ đã quấn quýt nài nỉ tôi vẽ thêm nhiều bức nữa.",
+      "jpname": "メジロドーベル",
+      "jptext": "だけどこの前、なんとなく『べじキャロリン』の絵を描いたら、\nもっと描いてってせがまれてさ。",
+      "choice_data_list": [
+        "Hóa ra vì thế nên em mới tập vẽ tranh à",
+        "Hóa ra vì thế nên bạn mới tập vẽ tranh à"
+      ],
+      "jpchoice_data_list": [
+        "だからイラストの練習をしてたのか",
+        "だからイラストの練習をしてたんだ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Vâng. Vẽ tranh thì tôi cũng biết đôi chút... Nghĩ rằng có lẽ mình sẽ vẽ được thứ gì đó cho hai đứa nhóc... nên mới thành ra thế này.",
+      "jpname": "メジロドーベル",
+      "jptext": "うん。絵なら少しは描けるし……\nなにか描いてあげられるかもって……それで。",
+      "choice_data_list": [
+        "Nên em mới nảy ra ý tưởng làm kịch tranh giấy nhỉ",
+        "Nên bạn mới nảy ra ý tưởng làm kịch tranh giấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "紙芝居を思いついたんだな",
+        "紙芝居を思いついたんだね"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Kịch tranh giấy thì ngày xưa chị Palmer hay mang đến lắm. Phì phì... có vẻ như đến tận bây giờ tôi vẫn cứ dựa dẫm vào các chị ấy mãi thôi.",
+      "jpname": "メジロドーベル",
+      "jptext": "紙芝居は、昔パーマーがよく持ってきたんだ。\nふふ……アタシは今でもお姉ちゃんたちに頼りっぱなしみたい。",
+      "choice_data_list": [
+        "Dober bây giờ cũng ra dáng một người chị gái lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "ドーベルもお姉ちゃんの顔してるよ"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Hả!? R-ra dáng người chị là sao chứ...!? Trainer, anh lại nói linh tinh rồi đúng không?",
+      "jpname": "メジロドーベル",
+      "jptext": "へっ！？　お、お姉ちゃんの顔って、どんな顔よ……！？\nトレーナー、テキトー言ってない？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "R-ra dáng người chị gái ư...? Tự bản thân em cũng không rõ nữa... thật thế hả chị?",
+      "jpname": "メジロドーベル",
+      "jptext": "お、お姉ちゃんの顔……？\n自分ではわからないけど……そうなの？"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tôi thì chẳng thấy mình có chút dáng vẻ nào của một người chị cả. Thế nhưng, nếu vở kịch tranh giấy này làm cho hai đứa nhóc vui vẻ... thì có lẽ...",
+      "jpname": "メジロドーベル",
+      "jptext": "アタシは、自分が姉らしいなんて全然思えない。\nけど、この紙芝居を楽しんでもらえたら……少しは……。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tuy vẫn chưa thấy mình ra dáng một người chị chút nào... nhưng nếu vở kịch tranh giấy này làm cho hai đứa nhóc thích thú, thì có lẽ em có thể tự hào đôi chút rồi.",
+      "jpname": "メジロドーベル",
+      "jptext": "まだ自分が姉らしいとは思えないけど……。\nこの紙芝居を楽しんでもらえたら……少しは、思ってもいいのかな。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Mà dù sao thì tôi cũng chịu ơn anh vì đã giúp đỡ một tay! Lần tới sau khi về quê lên... tôi sẽ báo cáo kết quả cho anh biết.",
+      "jpname": "メジロドーベル",
+      "jptext": "まあ、アンタには手伝ってもらった恩もあるし！\n今度の帰省から戻ったら……一応、結果報告はするから。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Trainer đã giúp em rất nhiều thứ rồi, nên lần tới sau khi về quê lên... em sẽ báo cáo kết quả cho chị nhé!",
+      "jpname": "メジロドーベル",
+      "jptext": "トレーナーにはいろいろ手伝ってもらったから、\n今度の帰省から戻ったら……結果報告するね！"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nào, mình chuẩn bị quay về thôi. Pháo hoa cũng sắp kết thúc rồi đấy.",
+      "jpname": "メジロドーベル",
+      "jptext": "さて、そろそろ戻ろっか。花火ももうすぐ終わりそうだよ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Nào, mình chuẩn bị quay về thôi. Pháo hoa cũng sắp kết thúc rồi đấy.",
+      "jpname": "メジロドーベル",
+      "jptext": "さて、そろそろ戻ろっか。花火ももうすぐ終わりそうだよ。"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Khi hai đứa nhỏ lớn hơn một chút nữa... mình cũng muốn dẫn chúng cùng đi lễ hội thế này...",
+      "jpname": "メジロドーベル",
+      "jptext": "……2人がもう少し大きくなったら……\nお祭りにも、連れて行ってあげたいな……。"
+    },
+    {
+      "name": "",
+      "text": "Ngước nhìn lên bầu trời rực rỡ pháo hoa, Mejiro Dober mỉm cười dịu dàng và ấm áp, trọn vẹn nghĩ về những đứa em thơ của mình.",
+      "jpname": "モノローグ",
+      "jptext": "花火を見上げるメジロドーベルは、\n幼い弟妹を想い、とても柔らかく微笑んでいた。"
+    }
+  ]
+}
