@@ -1,0 +1,543 @@
+{
+  "title": "ZETTAI! Top☆Umadol!",
+  "jptitle": "ZETTAI！トップ☆ウマドル！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày hẹn đã tới. Sau khi xin phép đặc cách từ học viện, nơi tôi đưa Smart Falcon đến chính là trường đua Oi.",
+      "jpname": "モノローグ",
+      "jptext": "約束の日。学園から特別な許可を得てスマートファルコンを\n連れてきた先は、大井レース場だった。",
+      "choice_data_list": [
+        "Hôm nay chúng ta sẽ xem một cuộc đua sân cát"
+      ],
+      "jpchoice_data_list": [
+        "今日はダートのレースを観よう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ra là vậy ha…… Nhưng mà sao tự dưng lại là hôm nay thế ạ? Đâu có cuộc đua lớn nào đâu, mà khán giả cũng thưa thớt nữa.",
+      "jpname": "スマートファルコン",
+      "jptext": "なるほどね～……けど、どうしてわざわざ今日なの？\n大きなレースがないし、お客さんも少ないのに。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……Chắc chắn là Trainer-san muốn truyền đạt cho em vẻ đẹp của đường đua cát đúng không nè? Nếu vậy thì một cuộc đua quy mô lớn hẳn sẽ sôi động và náo nhiệt hơn chứ.",
+      "jpname": "スマートファルコン",
+      "jptext": "……きっと、私にダートのよさを伝えたいんだよね？\nそれなら、大きなレースのほうが盛り上がると思うけど。",
+      "choice_data_list": [
+        "Xem rồi em sẽ hiểu ngay thôi"
+      ],
+      "jpchoice_data_list": [
+        "観たらわかる"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……?",
+      "jpname": "スマートファルコン",
+      "jptext": "……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Cuộc đua ngày hôm ấy diễn ra vô cùng khốc liệt. Các Mã Nương tham gia ai nấy đều lấm lem bùn cát nhưng vẫn cắn răng tranh giành từng tấc đất bằng toàn bộ sức lực.",
+      "jpname": "モノローグ",
+      "jptext": "――その日のレースは、とても熾烈なものとなった。\n出走ウマ娘たちはみな砂にまみれながらも、全力で競り合う。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dốc cạn toàn bộ sức tàn, ngửa cổ thở dốc trong nỗi nhọc nhằn, dáng vẻ ấy dẫu có khen khéo đến đâu cũng không thể gọi là yêu kiều mỹ miều được. Dẫu vậy, không, chính vì thế mà――",
+      "jpname": "モノローグ",
+      "jptext": "力の限りを尽くし、顎を上げて苦しげにあえぐその姿は、\nお世辞にも美しいとはいえない。それでも、いや、だからこそ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các khán giả",
+      "text": "Tiến lênnn!! Đừng để bị vượt mặt đấyyy!! Bứt tốc qua mặt nó mau, mau, mau lênnn!",
+      "jpname": "観客たち",
+      "jptext": "いけぇーっ！！　競り負けるなーっ！！\n差せ、差せ、差せーっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……! Á, nguy hiểm quá! A! A, a, aaa! Oa a a a……!!",
+      "jpname": "スマートファルコン",
+      "jptext": "……！　あ、危ないっ！　あ！\nあ、あ、ああ～っ！　わぁぁああ～……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị cuốn theo tinh thần quả cảm kiên cường của các cô gái ấy, chẳng biết tự lúc nào toàn bộ khán giả theo dõi đều đồng thanh cất tiếng hò reo, và rồi――",
+      "jpname": "モノローグ",
+      "jptext": "一生懸命な彼女たちの姿につられ、\n気づけば見ていた全員が声を出し、そして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương Center",
+      "text": "Hộc, hộc…… Mọi người ơiii! Cảm ơn sự cổ vũ nồng nhiệt của mọi người ngày hôm nay rất nhiều ạaa!!",
+      "jpname": "センターのウマ娘",
+      "jptext": "はぁっ、はぁっ……みなさ～んっ！\n今日は熱い声援ありがとうございました～っ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương Center",
+      "text": "Hà…… phùuu, được rồi, hãy cùng giữ nụ cười rạng rỡ tới phút cuối cùng nào! Sau đây xin mời mọi người cùng lắng nghe. Ca khúc của chúng em mang tên……――",
+      "jpname": "センターのウマ娘",
+      "jptext": "はぁっ……ふぅ～、よしっ、最後まで笑顔でいきましょう！\nそれでは聞いてください。私たちの曲は……――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "――Haaaa…… đỉnh thật sự luôn! Quả là một buổi biểu diễn live cực kỳ cực kỳ tuyệt vời luôn haaa!",
+      "jpname": "スマートファルコン",
+      "jptext": "――はあああ～……すごかった！\nすっっごく！　いいライブだったねぇ～！",
+      "choice_data_list": [
+        "Đúng vậy thật",
+        "Ừ, tuyệt thật nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "そうだな",
+        "そうだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ai nấy đều dốc hết sức mình đến mức tưởng chừng như sắp ngã quỵ, tỏa sáng lấp lánh vô cùng! Dù người có dính đầy bùn cát đi chăng nữa, chỉ cần chạy hết mình thì trông lại càng thêm xinh đẹp rạng ngời――",
+      "jpname": "スマートファルコン",
+      "jptext": "みんな倒れちゃいそうなくらい全力で、キラッキラだった！\nどんなに砂を被っても、本気で走った分だけキレイに見えるんだ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "A…… Phải rồi, đúng là như thế mà. Chính vì chạy bằng cả sinh mệnh nên Umadol mới có thể tỏa sáng lấp la lấp lánh.",
+      "jpname": "スマートファルコン",
+      "jptext": "あ……。そうだ、そうだった。\n全力で走るから、ウマドルはキラキラに輝くんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Chính vì cất cao tiếng hát trên sân khấu mà mình đã nỗ lực giành lấy bằng cả con tim, nên màn trình diễn ấy mới chạm tới lòng người sâu sắc đến vậy. Em đã xúc động đến nghẹn ngào. Em đã luôn ngưỡng mộ những Umadol như thế mà!",
+      "jpname": "スマートファルコン",
+      "jptext": "本気で勝ち取ったステージで歌うから、感動するんだ。\n感動したんだよ。私はそんなウマドルたちに、憧れたの！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Để làm rung động trái tim của một ai đó thì sân cỏ hay sân cát đâu có gì khác biệt. Vậy mà em lại…… từng nghĩ rằng 'sân cát thì có gì đáng để bận tâm'.",
+      "jpname": "スマートファルコン",
+      "jptext": "誰かの心を動かすのに、芝もダートも関係ない。\nなのに私は……ダートなんて、って思ってた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Thắng ở sân cát thì cũng chẳng để làm gì, chẳng thể đem lại cảm xúc cho ai được…… Em đã tự áp đặt suy nghĩ đó…… Haizzz, em thật thất vọng về bản thân quá đi.",
+      "jpname": "スマートファルコン",
+      "jptext": "ダートで勝ったってしょうがない、感動をあげられない……\nそう、決めつけて……はぁ～、自分にガッカリだよ。",
+      "choice_data_list": [
+        "Bây giờ em cảm thấy thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "今はどう思ってる？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bây giờ thì…… tóm lại là em vô cùng hạnh phúc vì đã được chứng kiến sân khấu ngày hôm nay! Em đã nhận ra được điều quan trọng nhất, và em cũng đã tận hưởng nó vô cùng vui vẻ nữa.",
+      "jpname": "スマートファルコン",
+      "jptext": "今は……とにかく、今日のステージを見られたことが嬉しい！\n大事なことを気づかせてくれたし、すっごく楽しかったから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Thế nhưng mọi người đâu phải ai cũng có người dắt tới xem như em. Chỉ vì sự chú ý dành cho sân cát còn quá thấp, nên họ đâu hề biết đến những buổi biểu diễn live rực lửa nhường này.",
+      "jpname": "スマートファルコン",
+      "jptext": "でもみんな、私みたいに引っ張ってきてもらえるわけじゃない。\nダートの注目度が低いせいで、あんな熱いライブを知らないんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Vì không phải là đỉnh cao nhất nên mãi mãi chẳng được ai đoái hoài. Cảm giác thật là lãng phí biết bao nhiêu luôn……",
+      "jpname": "スマートファルコン",
+      "jptext": "トップじゃないから、ずーっと誰にも気づかれない。\nなんだかすごくもったいないな～。",
+      "choice_data_list": [
+        "Vậy thì, tự em hãy nâng nó lên thành đỉnh cao nhất đi"
+      ],
+      "jpchoice_data_list": [
+        "なら、自分でトップに押し上げればいい"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hể……? Điều đó có nghĩa là…… sao cơ ạ?",
+      "jpname": "スマートファルコン",
+      "jptext": "へ……？\nそれって、どういう……？",
+      "choice_data_list": [
+        "Em không thích bị giới hạn bởi 'độ thích ứng' mà đúng không?",
+        "Em đâu muốn bị trói buộc bởi 'độ thích ứng' đúng không nào?"
+      ],
+      "jpchoice_data_list": [
+        "『適性』で限られるのはイヤなんだろ？",
+        "『適性』で限られるのはイヤなんでしょ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……! Ra là thế……!",
+      "jpname": "スマートファルコン",
+      "jptext": "……！\nそっかぁ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Đúng thế rồi! Bằng những bước chạy, tiếng hát và điệu nhảy của chính em! Em chỉ cần biến sân cát trở thành thế giới đỉnh cao nhất là được!",
+      "jpname": "スマートファルコン",
+      "jptext": "そうだよ！　私の走りで、歌で、踊りで！\nダートをトップの世界に変えればいいんだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Một thế giới mà bất kỳ ai cũng hướng tới sân cát, dồn mọi sự chú ý về nó, thế giới ấy sẽ do chính Falco này thay đổi……!",
+      "jpname": "スマートファルコン",
+      "jptext": "誰もがダートを目指すような、注目するような、\nそんな世界に、ファル子が！　変えるんだ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……Ủa kìa? Cơ mà chuyện đó, chẳng lẽ lại gian nan gấp bội phần sao ạ? Còn khó khăn hơn cả việc trở thành Top Umadol nữa ư?",
+      "jpname": "スマートファルコン",
+      "jptext": "……あれ？　なんかそれって、もしかしてすごく大変？\nトップウマドルになるよりも？",
+      "choice_data_list": [
+        "Có lẽ là vậy đấy",
+        "Có thể là thế thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "そうかもな",
+        "そうかもね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "A ha ha…… Nhưng mà sự gian nan không thể là lý do để mình từ bỏ được đúng hông nè. Nếu vậy thì em càng phải lên dây cót tinh thần mạnh mẽ hơn gấp bội phần mới được!",
+      "jpname": "スマートファルコン",
+      "jptext": "あはは～……けど、大変なのが諦める理由にはならないよね。\nだったら、今まで以上に気合いを入れてかないとっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Một Falco vẫn chưa được ai biết đến thì làm sao dẫn dắt mọi người được. Trước hết em phải bắt đầu từ việc làm cho mọi người biết đến mình đã!",
+      "jpname": "スマートファルコン",
+      "jptext": "まだ誰にも知られてないファル子じゃ、みんなを引っ張ってけない。\nまずは知ってもらうことから始めなくちゃ！",
+      "choice_data_list": [
+        "Cứ kiên trì không từ bỏ như trước giờ thì cơ hội ắt sẽ tới",
+        "Chỉ cần em không bỏ cuộc như từ trước đến nay thì cơ hội sẽ đến thôi"
+      ],
+      "jpchoice_data_list": [
+        "今まで通り諦めなければチャンスは来る",
+        "今まで通り諦めなければチャンスは来るよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hểee, cứ như trước giờ thì đâu thay đổi được gì đâu ạ! Em phải tính toán chiến lược PR bản thân thật chặt chẽ và chuyên nghiệp hơn nữa chứ☆",
+      "jpname": "スマートファルコン",
+      "jptext": "え～っ、今まで通りじゃなにも変えられないよ！\nもっと売り込み方もがっちり☆考えていかないと！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi khẽ lắc đầu trước một Smart Falcon đang hừng hực khí thế. Thật ra dù cứ như bây giờ, em vẫn đang từng bước vững chắc tiến về phía trước. Bằng chứng là――",
+      "jpname": "モノローグ",
+      "jptext": "息まくスマートファルコンに首を振る。\n彼女は今のままでも着実に前へ進んでいるのだ。その証拠に――",
+      "choice_data_list": [
+        "Người hâm mộ số 1 của em đang ở ngay đây này"
+      ],
+      "jpchoice_data_list": [
+        "ファン第1号がここにいる"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ơ……",
+      "jpname": "スマートファルコン",
+      "jptext": "え……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vào cái ngày đầu tiên gặp gỡ ấy. Dưới ánh hoàng hôn rực rỡ, hình bóng em đơn độc ca hát nhảy múa một mình――đã tỏa sáng lấp lánh khôn cùng.",
+      "jpname": "モノローグ",
+      "jptext": "初めて出会ったあの日。夕日に照らされて、\nひとり歌い踊っていた彼女は――キラキラ輝いていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng một ai ngước nhìn, cũng chẳng một ai lắng nghe. Thế nhưng dáng hình kiên định trao gửi nụ cười rạng rỡ hết mình với niềm tin sẽ chạm tới ai đó ấy――",
+      "jpname": "モノローグ",
+      "jptext": "誰も見ていないし、聞いてもいない。\nそれでも届けと、めいっぱいに笑顔を振りまくその姿に――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Đã tiếp thêm dũng khí và niềm hy vọng cho một người, và người đó đang đứng ngay tại nơi này.",
+      "jpname": "モノローグ",
+      "jptext": "――勇気を、希望をもらった人間がここにいる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Trainer-san……",
+      "jpname": "スマートファルコン",
+      "jptext": "トレーナーさん……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……Em cảm ơn Trainer-san nhiều lắm ạ.",
+      "jpname": "スマートファルコン",
+      "jptext": "……ありがとう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Dạ, em quyết định rồi! Nè nhé Trainer-san, về cuộc đua tuyển chọn sắp tới ấy ạ――",
+      "jpname": "スマートファルコン",
+      "jptext": "うん、決めたぞっ！\nあのねトレーナーさん、次の選抜レースなんだけど――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Và rồi vài tháng sau. Cuộc đua tuyển chọn đầu tiên mà chúng tôi cùng nhau nghênh chiến kể từ khi kề vai sát cánh.",
+      "jpname": "モノローグ",
+      "jptext": "――そして数か月後。\nスマートファルコンと組んでから挑む、初めての選抜レース。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Vậy thì Falco xin phép xuất kích đêyyy☆ Hóng sự cổ vũ nồng cháy hết mình của mọi người nha☆",
+      "jpname": "スマートファルコン",
+      "jptext": "それじゃ、ファル子いってきまぁっす☆\nあつぅ～い応援、待ってるぞ☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Cô bé vừa rồi…… là ai thế nhỉ? Trông tăng động phấn khích ghê…… Hình như lần đầu thấy ở đường cát thì phải.",
+      "jpname": "新人トレーナーA",
+      "jptext": "今の子……誰だ？　やけにはしゃいでたな……。\nダートでは初めて見る気がするけど。",
+      "choice_data_list": [
+        "(Thế là tốt rồi)"
+      ],
+      "jpchoice_data_list": [
+        "（それでいい）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sự xôn xao chỉ thoáng qua trong chốc lát, rồi đề tài bàn tán lập tức chuyển sang những Mã Nương nổi bật khác. Chính vì lẽ đó, hôm nay em…… sẽ tỏa sáng rực rỡ hơn bất kỳ ai.",
+      "jpname": "モノローグ",
+      "jptext": "ざわついたのは一瞬で、すぐに話題は別の注目ウマ娘に移る。\nだからこそ彼女は今日……誰よりも目立つのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Phùuu…… Yaaaaaaa☆☆☆☆",
+      "jpname": "スマートファルコン",
+      "jptext": "ふぅっ……やああああああっ☆☆☆☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các Trainer",
+      "text": "Cái gì……!? Nhanh quá đỗi!!",
+      "jpname": "トレーナーたち",
+      "jptext": "なっ……！？\n速いっっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đạp tung những hạt cát đầy uy lực và vút bay nhanh hơn bất kỳ ai, giờ đây toàn bộ khán giả đều đang dán chặt mắt vào em với vẻ kinh ngạc tột cùng.",
+      "jpname": "モノローグ",
+      "jptext": "砂を力強く蹴り上げ、誰よりも速く飛び出した彼女を、\n今や観客全員が驚きを持って見つめていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "A ha, chạy sướng chân khủng khiếp luôn……! Đúng vậy, quả đúng là thế mà! Em biết rõ điều đó, em đã nhận ra rồi! Nơi……!",
+      "jpname": "スマートファルコン",
+      "jptext": "あはっ、すごく走りやすい……！\nうん、そうなんだ！　わかってた、知ってた！　私の……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "'Sân khấu' để em tỏa sáng rực rỡ chính là nơi này đây! Nào, Falco on Stageee☆☆",
+      "jpname": "スマートファルコン",
+      "jptext": "私の輝ける“ステージ”は、ここなんだって！\nさあっ、ファル子・オン・ステーーーージッ☆☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Tựa như chú chim ưng tự do sải cánh giữa bầu trời rộng mở. Chẳng một ai có thể đuổi kịp cô gái đã tìm thấy bầu trời mang tên đường đua cát cho riêng mình.",
+      "jpname": "モノローグ",
+      "jptext": "――自由に飛びまわるハヤブサのごとく。\nダートという空を見出した彼女に、追いつける者などいなかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Làm được rồiii a a a!! Thắng rồi, Falco đã giành chiến thắng rồi nèee☆☆",
+      "jpname": "スマートファルコン",
+      "jptext": "やったあぁぁ～っ！！\n勝った、ファル子勝ったぞ～～っ☆☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "K-Khoan đã em ơi! Em từ trước tới giờ ở đâu ra thế này!? Nếu chưa có Trainer phụ trách thì nói chuyện với tôi một lát thôi được không……!",
+      "jpname": "新人トレーナーA",
+      "jptext": "ちょ、ちょっと待ってくれ！　君、今までどこにいたんだ！？\nまだトレーナーがいないなら、軽く話だけでも……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ối chà, Falco hot hòn họt quá ta☆ Cơ mà chuyện đó thì xin phép cho em gác lại một chút xíu nhe!",
+      "jpname": "スマートファルコン",
+      "jptext": "やだ、ファル子大人気☆\nけど、そのお話についてはちょ～っと待ってね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "A, người đây rồi! Trainer-sannn!",
+      "jpname": "スマートファルコン",
+      "jptext": "あ、いたいた！\nトレーナーさんっっ！",
+      "choice_data_list": [
+        "Em vất vả rồi"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Cảm ơn Trainer-san nha☆ Nè nè, vừa rồi Falco đã tỏa sáng rực rỡ lắm đúng hông?",
+      "jpname": "スマートファルコン",
+      "jptext": "ありがとう☆\nねぇねぇ、ファル子ちゃんと輝けてたっ？",
+      "choice_data_list": [
+        "Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hi hi, vui quá đi! Nè nhé, em có một chuyện cực kỳ quan trọng muốn nói. Em sẽ mở lời thỉnh cầu thật nghiêm túc…… nên xin Trainer-san hãy lắng nghe nhé!",
+      "jpname": "スマートファルコン",
+      "jptext": "えへへっ、よかった！　それでね、大事なお話があるの。\nちゃんとお願いするから……聞いてねっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Trainer-san ơi! Xin hãy trở thành Trainer của Falco, và cùng em hướng tới mục tiêu trở thành Top Umadol nhé ạ!",
+      "jpname": "スマートファルコン",
+      "jptext": "トレーナーさんっ！　ファル子のトレーナーになって、\n一緒にトップウマドルを目指してくださいっ！",
+      "choice_data_list": [
+        "……Rất sẵn lòng, Falco!"
+      ],
+      "jpchoice_data_list": [
+        "……よろしく、ファル子！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "……! Hi hi☆ Em cảm ơn Trainer-san nhiều lắm ạ!",
+      "jpname": "スマートファルコン",
+      "jptext": "……！　えへへっ☆\nありがとう、トレーナーさんっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Và thế là! Hỡi các bạn fan thân yêu ơiii! Xin được bắt đầu lại giờ giới thiệu bản thân nào☆",
+      "jpname": "スマートファルコン",
+      "jptext": "と、いうわけで！　ファンのみんな～！\n改めて自己紹介ターイムッ☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Khi Falco vượt lên dẫn đầu thì phải làm sao nè? (Chỉ có nước đuổi theo thôiii!) Hãy bắt lấy em bằng tình yêu thương to lớn nhé☆ Umadol mạnh nhất, Smart Falcon xin chào cả nhà☆",
+      "jpname": "スマートファルコン",
+      "jptext": "ファル子が逃げたら～？（追うしかなーい！）\n大きな愛で捕まえて☆　最強ウマドル、スマートファルコンでーす☆",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ước mơ của Falco chính là trở thành Top Umadol 'trên' đường đua cát! Để biến ước mơ ấy thành hiện thực, em rất cần sự cổ vũ của mọi người đó nha! Vì vậy nên là――",
+      "jpname": "スマートファルコン",
+      "jptext": "ファル子の夢は、ダート“で”トップウマドル！\n叶えるためには、みんなの応援が必要なのっ！　だから――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hãy cùng đuổi theo một Falco siêu cấp đáng yêu này thật nhiều thật nhiều nhé☆ Hi hi♪",
+      "jpname": "スマートファルコン",
+      "jptext": "とびっきりラブリーなファル子を、い～っぱい追いかけてね☆\nえへっ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
