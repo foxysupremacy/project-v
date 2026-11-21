@@ -1,0 +1,318 @@
+{
+  "title": "Hoa hồng nhí đầy gai",
+  "jptitle": "とげとげベイビーローズ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ khi ghé qua thư viện, tôi bắt gặp Sweep Tosho đang chăm chú tra cứu điều gì đó.",
+      "jpname": "モノローグ",
+      "jptext": "ある日、図書室に立ち寄ると、\nスイープトウショウが熱心に調べものをしていた。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tìm thấy rồi! Đích thị là cái này. Mình nhớ là từng thấy ở đâu đó rồi mà!",
+      "jpname": "スイープトウショウ",
+      "jptext": "見つけたっ！　まさにこれだわ。\n前に見かけた気がしたのよね！",
+      "choice_data_list": [
+        "Em đang học bài sao? Giỏi quá ta!",
+        "Đang chăm chỉ học bài đấy à? Đáng khen ghê!"
+      ],
+      "jpchoice_data_list": [
+        "勉強中？偉いな！",
+        "勉強中？偉いね！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hứ, ta giỏi giang là chuyện đương nhiên rồi còn gì nữa!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ふんっ、アタシがえらいのなんて当たり前じゃないっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Mà chuyện đó để sau đi, không nhanh chân lên là bị bắt kịp mất!",
+      "jpname": "スイープトウショウ",
+      "jptext": "そんなことより、急がないと追いつかれちゃうわ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Thorns☆Thorns☆Entwine!!\"",
+      "jpname": "スイープトウショウ",
+      "jptext": "『ソーンズ☆ソーンズ☆エントワインッ！！』"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Em Sweep Tosho, cô tìm thấy em rồi nhé!",
+      "jpname": "先生A",
+      "jptext": "スイープトウショウさん、見つけましたよっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Trời ạ! Tại sao lại thế chứ! Rõ ràng ta đã niệm phép thuật cản đường rồi cơ mà!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ちょっとー！　なんでよっ！\n足止めの魔法を使ったはずなのにっ！",
+      "choice_data_list": [
+        "Phép thuật cản đường á?"
+      ],
+      "jpchoice_data_list": [
+        "足止めの魔法？"
+      ]
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Ôi chao, cả Trainer cũng ở đây sao. Thật ra là em Sweep Tosho ấy mà——",
+      "jpname": "先生A",
+      "jptext": "ああ、トレーナーさんもご一緒でしたか。\n実はスイープトウショウさんがですね――"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Vì không chịu làm bài tập về nhà, nên khi cô định cho em ấy học phụ đạo bù thì em ấy đã bỏ trốn mất tiêu……",
+      "jpname": "先生A",
+      "jptext": "宿題をやってこなかったので、\n代わりに補習をしようとしたところ逃亡しまして……。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Là đương nhiên rồi! Bị bắt ở lại trường là chuyện ta tu-yệt-đối ghét cay ghét đắng! Đã ghét là không bao giờ chịu đâu!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "当たり前でしょ！\n居残りなんてぜ～ったいイヤ！　イヤったらイヤっ！！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Mà quan trọng hơn, tại sao phép thuật lại không có tác dụng chứ! Rõ ràng ta đã làm y hệt như những gì viết trong sách rồi cơ mà!",
+      "jpname": "スイープトウショウ",
+      "jptext": "それより、なんで魔法が効かないのよ！\nちゃんと本に書いてあったとおりにしたはずなのに～！",
+      "choice_data_list": [
+        "(Hóa ra đâu phải em ấy đang học bài đâu cơ chứ……!)",
+        "(Thì ra em ấy đâu có học bài tử tế đâu……!)"
+      ],
+      "jpchoice_data_list": [
+        "（勉強してたんじゃなかったのか……！）",
+        "（勉強してたんじゃなかったんだ……！）"
+      ]
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Nghe cô nói này Sweep Tosho, cô không chỉ đơn thuần muốn em hoàn thành bài tập về nhà đâu.",
+      "jpname": "先生A",
+      "jptext": "いいですかスイープトウショウさん、\n先生はただ宿題をやってほしいわけじゃありません。"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Để có thể tiếp tục con đường thi đấu thể thao sau này, việc cân bằng giữa học tập và rèn luyện là vô cùng quan trọng —— Việc cô giao bài tập chính là để em rèn giũa kỹ năng đó đấy.",
+      "jpname": "先生A",
+      "jptext": "今後競技者を続けていくうえで、勉強とトレーニングの両立は\nとても大切――――その練習のために宿題を出しているんですよ？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ồn ào quá, đừng có ra lệnh cho ta! Thứ gì ta không thích làm thì ta nhất quyết không làm đâu!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "うるさいっ、アタシに命令しないで！\nやりたくないものはやりたくないのっ！"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Sweep Tosho!",
+      "jpname": "先生A",
+      "jptext": "スイープトウショウさん！"
+    },
+    {
+      "name": "",
+      "text": "Tiếng cãi vã của hai người ngày càng lớn khiến những ánh mắt phàn nàn từ xung quanh bắt đầu đổ dồn về phía chúng tôi. Nếu không làm cho cả hai bình tĩnh lại thì gay go to mất.",
+      "jpname": "モノローグ",
+      "jptext": "次第に大声になる2人に、周囲から非難の視線が注がれる。\nこれは2人を落ち着かせないとまずいかもしれない。",
+      "choice_data_list": [
+        "Thưa cô, nếu được thì xin hãy để tôi phụ trách chuyện này nhé?"
+      ],
+      "jpchoice_data_list": [
+        "先生、よければ任せていただけませんか？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đổi địa điểm sang phòng Trainer, tôi thử khuyên Sweep Tosho một lần nữa mau chóng giải quyết cho xong đống bài tập về nhà, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー室に場所を変え、改めてスイープトウショウに\n宿題を片づけてしまおうと持ちかけたのだが――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Cái gì chứ, ngay cả sứ ma cũng mở mồm ra là bài tập với bài tập! Không phải ngươi vừa đuổi cô giáo đi giúp ta sao hả!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "なによ～、使い魔まで宿題宿題って！\n先生のこと追い払ってくれたんじゃなかったのっ！？",
+      "choice_data_list": [
+        "Bài tập về nhà thì bắt buộc phải làm đấy nhé.",
+        "Bài tập về nhà thì nhất định phải hoàn thành chứ."
+      ],
+      "jpchoice_data_list": [
+        "宿題はやらなきゃダメだぞ",
+        "宿題はやらなきゃダメだよ"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Thế thì sứ ma làm hộ ta luôn đi cho rồi!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "だったら使い魔がやればいいでしょ！！",
+      "choice_data_list": [
+        "Làm sao mà vô lý thế được!"
+      ],
+      "jpchoice_data_list": [
+        "そんな無茶な！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Vô lý ở chỗ nào cơ chứ! Đã là sứ ma thì phải ngoan ngoãn nghe theo mệnh lệnh của chủ nhân đi chứ lị!",
+      "jpname": "スイープトウショウ",
+      "jptext": "無茶じゃないもんっ！\n使い魔なんだからご主人さまの命令は聞きなさいよ！"
+    },
+    {
+      "name": "",
+      "text": "Nói đoạn, Sweep Tosho bắt đầu giãy nảy ăn vạ. Việc chẳng thèm ngó ngàng gì tới những thứ bản thân không có hứng thú xét ra cũng là một nét tính cách thật thà, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、駄々をこねだすスイープトウショウ。\n興味がないものに見向きもしないのはある意味素直だが……。"
+    },
+    {
+      "name": "",
+      "text": "Chợt tôi nhớ lại hình ảnh của em ấy mỗi khi tìm thấy điều gì đó thực sự cuốn hút mình.",
+      "jpname": "モノローグ",
+      "jptext": "ふと、ひとたび興味を持った時の彼女のことを思い返してみた。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tìm thấy rồi! Đích thị là cái này. Mình nhớ là từng thấy ở đâu đó rồi mà!",
+      "jpname": "スイープトウショウ",
+      "jptext": "見つけたっ！　まさにこれだわ。\n前に見かけた気がしたのよね！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Này, sao tự nhiên ngươi lại im re thế hả……?",
+      "jpname": "スイープトウショウ",
+      "jptext": "ちょっと、なに黙ってるのよ……？",
+      "choice_data_list": [
+        "Hay là chúng ta giải quyết bài tập bằng phép thuật đi?"
+      ],
+      "jpchoice_data_list": [
+        "宿題を魔法で片づけない？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hả? ……Ý ngươi là dùng phép thuật để điền đáp án ấy hả? Hừm, nghe qua cũng có vẻ hay ho đấy chứ.",
+      "jpname": "スイープトウショウ",
+      "jptext": "は？　……魔法で答えを埋めるってこと？\nふーん、ちょっとおもしろそうじゃない。",
+      "choice_data_list": [
+        "Ý đó cũng hay, nhưng nếu niệm phép lên chính em thì sao?",
+        "Ý đó cũng được, nhưng thử niệm phép lên chính em xem thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "それもいいけど、君に魔法をかけるのは？",
+        "それもいいけど、貴方に魔法をかけるのは？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Niệm phép lên ta á? Là sao cơ chứ.",
+      "jpname": "スイープトウショウ",
+      "jptext": "魔法をアタシに？　どういうことよ。",
+      "choice_data_list": [
+        "Niệm phép thuật giúp giải bài nhanh như chớp ấy mà!",
+        "Hãy niệm loại phép thuật giúp giải đề siêu tốc độ đi!"
+      ],
+      "jpchoice_data_list": [
+        "問題が速く解ける魔法をかけるんだ！",
+        "問題が速く解ける魔法をかけるんだよ！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hể, nghe cứ vòng vo tam quốc thế nào ấy nhỉ? Phép thuật gia tăng tốc độ…… ý ngươi là thế đúng không?",
+      "jpname": "スイープトウショウ",
+      "jptext": "え～、なんかまわりくどくない？\nスピードアップの魔法……ってことよね？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ừm…… mà thôi kệ đi. Cách đó nghe cũng thú vị phết! Vậy thì ta bắt đầu đây——",
+      "jpname": "スイープトウショウ",
+      "jptext": "う～ん……まぁいっか。そっちもおもしろそうだし！\nそれじゃいくわよ――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Khắc họa trong chớp mắt! Alstroemeria☆\"",
+      "jpname": "スイープトウショウ",
+      "jptext": "『刹那に綴れ！　アルストロメリア☆』"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Nào, câu hỏi đầu tiên là…… Ơ kìa, mấy câu này dễ như ăn kẹo ấy chứ!",
+      "jpname": "スイープトウショウ",
+      "jptext": "さあ、さっそく1問目は～……\nちょっと、こんなの楽勝じゃない！"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thể thực sự được trúng một bùa phép màu nhiệm, Sweep Tosho thoăn thoắt giải quyết bài tập về nhà cực kỳ nhanh gọn.",
+      "jpname": "モノローグ",
+      "jptext": "本当に魔法がかかったように、\nスイープトウショウは宿題をテキパキとこなしていく。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Câu hỏi này là…… Chết rồi, tốc độ đang bị chậm lại! \"Giải đáp như phi nước đại, Alstroemeria☆\"",
+      "jpname": "スイープトウショウ",
+      "jptext": "この問題は～……いけない、スピードが落ちてきたわ！\n『駆けるがごとく解け、アルストロメリア☆』"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Đỉnh chưa, vèo một cái là xong xuôi hết trơn rồi! Nhìn cho kỹ đi sứ ma! Đây chính là ma pháp của thiếu nữ phép thuật Sweepy đấy nhé!",
+      "jpname": "スイープトウショウ",
+      "jptext": "すごい、あっという間に終わっちゃったわ！\n見なさい使い魔！　これが魔法少女スイーピーの魔法よ！"
+    },
+    {
+      "name": "",
+      "text": "Mỗi khi được làm những việc do chính mình tự nguyện lựa chọn, em ấy quả nhiên luôn bộc lộ một luồng sáng chói lọi và rạng rỡ khôn cùng.",
+      "jpname": "モノローグ",
+      "jptext": "自ら決めたことをやる時の彼女は、\nやはり素晴らしい輝きを見せてくれる。",
+      "choice_data_list": [
+        "Phép thuật của em quả nhiên quá đỗi tuyệt vời!",
+        "Ma pháp của em quả thật đỉnh vô cùng!"
+      ],
+      "jpchoice_data_list": [
+        "やっぱり君の魔法はすごいよ！",
+        "やっぱり貴方の魔法はすごいね！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hừ hừ, đương nhiên rồi còn phải hỏi! Giờ thì có thể khiến cô giáo phải cứng họng rồi! Ta sẽ đi dọa cho cô một phen hú hồn ngay bây giờ đây!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ふふん、当然でしょ？　これで先生をぎゃふんと言わせられるわ！\nさっそくびっくりさせてやるんだからっ！"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "——Em làm đúng toàn bộ rồi. Thật tình, em rõ ràng có thực lực như vậy thì đừng có hễ chút là tìm cách bỏ trốn chứ. Thêm nữa là——",
+      "jpname": "先生A",
+      "jptext": "――全問正解です。まったく、貴方はやればできるんだから\nすぐ逃げようとしないこと。それから――"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Chắc là Trainer đã phải vất vả giúp đỡ em nhiều lắm đúng không? Lát nữa nhớ phải nói lời cảm ơn người ta cho đàng hoàng đấy nhé!",
+      "jpname": "先生A",
+      "jptext": "トレーナーさんにお世話になったのでしょう？\n後できちんとお礼を言うようにね！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Trời ơiii!! Sao cô không chịu trầm trồ trước phép thuật của em, mà lại cứ đi nói chuyện về tên sứ ma đó là sao chứ!",
+      "jpname": "スイープトウショウ",
+      "jptext": "も～～っ！！　なんでアタシの魔法に驚かないで、\n使い魔の話になるのよ～！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Thôi được rồi, giờ thì ta đã biết bài tập về nhà chỉ cần dùng phép thuật là xong cái rụp. Ta sẽ không bao giờ để ai bắt ta phải ở lại lớp thêm một lần nào nữa đâu!",
+      "jpname": "スイープトウショウ",
+      "jptext": "いいわ、宿題なんて魔法ですぐってわかったもん。\n2度と居残りしろなんて言わせないんだからっ。"
+    },
+    {
+      "name": "",
+      "text": "Đôi mắt của Sweep Tosho khi nói những lời ấy lấp lánh tràn đầy sức sống. Cảnh tượng đó càng khiến tôi thấm thía sâu sắc hơn rằng, chỉ cần là điều em yêu thích, em nhất định sẽ dốc hết lòng cố gắng.",
+      "jpname": "モノローグ",
+      "jptext": "そう話すスイープトウショウの瞳は生き生きと輝いている。\nやはり好きなことなら頑張れるのだなと、実感を深めた一幕だった。"
+    }
+  ]
+}

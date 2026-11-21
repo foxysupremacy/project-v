@@ -1,0 +1,386 @@
+{
+  "title": "Pelargonium rối bời",
+  "jptitle": "もやもやペラルゴニウム",
+  "text_block_list": [
+    {
+      "name": "Sweep Tosho",
+      "text": "Hãy vui mừng khôn xiết đi nào, sứ ma! Hôm nay ta sẽ ban cho ngươi thêm một người bạn mới đấy!",
+      "jpname": "スイープトウショウ",
+      "jptext": "喜びなさい、使い魔！\n今日はアンタのお友だちを増やしてあげるわっ！"
+    },
+    {
+      "name": "",
+      "text": "Tại sao vào một ngày nghỉ tôi lại phải đứng trước nhà ga cùng Sweep Tosho thế này? Lý do bắt nguồn từ chuyện xảy ra khoảng một tiếng trước——",
+      "jpname": "モノローグ",
+      "jptext": "休みの日になぜ、スイープトウショウと駅前にいるのか。\n理由は1時間ほど前に遡る――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Thật là, hại ta tìm kiếm bở cả hơi tai đấy sứ ma! Nào, mau đi mua sắm cùng ta ngay!",
+      "jpname": "スイープトウショウ",
+      "jptext": "もうっ、捜したわよ使い魔！　さ、アタシと買い物に行くわよ！",
+      "choice_data_list": [
+        "Sao mà đường đột thế!?",
+        "Gấp gáp dữ vậy sao!?"
+      ],
+      "jpchoice_data_list": [
+        "ずいぶん急だな！？",
+        "ずいぶん急だね！？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bởi vì hôm nay ta mới biết tin này chứ bộ. \"Xoa dịu tâm hồn bạn bằng đôi mắt đáng yêu, thú bông phép thuật Cún Con Ma Thuật, chính thức mở bán hôm nay!\"",
+      "jpname": "スイープトウショウ",
+      "jptext": "だって今日知ったんだもん。『キュートな瞳で貴方をいやす、\n魔法のぬいぐるみマジカルわんこ、本日発売！』"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Là chú cún ma thuật đấy biết chưa hả!? Ta nhất định phải rước em ấy về bằng được, mau nhanh cái chân lên!",
+      "jpname": "スイープトウショウ",
+      "jptext": "魔法のわんこよ！？　絶対手に入れるんだから、早くしなさい！"
+    },
+    {
+      "name": "",
+      "text": "Thế là, để tìm mua món thú bông ấy, chúng tôi đã cất công tới cửa hàng đồ chơi gần nhất, nhưng mà——",
+      "jpname": "モノローグ",
+      "jptext": "ということで、ぬいぐるみを探すべく\n最寄りのおもちゃ屋まで足を運んだのだが――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Này cái người kia! Bảo cháy hàng là có ý gì hả!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ちょっと～！　売り切れってどういうことよ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bực cả mình, không thể chần chừ lề mề được nữa! Sứ ma, chúng ta sang tiệm khác ngay!",
+      "jpname": "スイープトウショウ",
+      "jptext": "んもう、グズグズしていられないわ！\n使い魔、別のお店に行くわよっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Chỗ này cũng hết sạch hàng rồi á!? Tại sao chứ!? Không lẽ các người giấu đi rồi đấy chứ hả!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ここも売り切れっ！？\nなんで！？　まさか隠してるんじゃないでしょーねっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Chỗ này cũng chẳng có……! Trời đất ơi, đừng có lề mà lề mề nữa coi sứ ma! Phải lùng sục cho tới khi nào tìm thấy mới thôi đấy!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ここにもなかった……っ！\nもうっ、ぐずぐずしないでよ使い魔っ！　見つかるまで探すわよっ！"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, dẫu có lùng sục khắp mọi cửa tiệm đồ chơi có thể nghĩ tới, món thú bông \"Cún Con Ma Thuật\" đều đã bị bán sạch veo từ trước.",
+      "jpname": "モノローグ",
+      "jptext": "しかし、心当たりのあるおもちゃ屋を全て巡っても、\n『マジカルわんこ』のぬいぐるみは売り切れていた。",
+      "choice_data_list": [
+        "Tìm đến mức này mà vẫn không có thì chắc là……"
+      ],
+      "jpchoice_data_list": [
+        "ここまで見つからないとなると、もう……"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hảả? Sao ngươi lại ủ rũ xìu xuống thế kia! Ta nhất định phải có được nó, đời nào ta chịu bỏ cuộc chứ!",
+      "jpname": "スイープトウショウ",
+      "jptext": "はあ？　なにしょんぼりしてるのよ！\n絶対ほしいんだもん、あきらめたりしないわっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tất cả là tại tên sứ ma vô tích sự nhà ngươi đấy nhé! Giá mà ngươi chạy nhanh ngang ngửa tốc độ của ta thì khéo đã mua được trước khi người ta vét sạch rồi!",
+      "jpname": "スイープトウショウ",
+      "jptext": "だいたい使い魔が悪いんだからねっ！　アタシと同じスピードで\n走ってたら、売り切れる前に買えたかもしれないのに！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……Ta nhất định, nhất định phải tìm ra cho bằng được. Sứ ma, tiệm tiếp theo nằm ở đâu hả!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "……絶対の絶対に探してやるんだから。\n使い魔、次のお店はどこっ！？"
+    },
+    {
+      "name": "",
+      "text": "Tính khí nhõng nhẽo của Sweep Tosho thì chẳng lạ lẫm gì, nhưng cái thái độ cố chấp khác thường ngày hôm nay lại khiến tôi có chút băn khoăn.",
+      "jpname": "モノローグ",
+      "jptext": "スイープトウショウのワガママはいつものことだが、\nいつになくかたくなな様子は少し気になるところだ。",
+      "choice_data_list": [
+        "Sao em lại khao khát có được nó đến thế?",
+        "Vì sao em lại muốn có nó đến mức này vậy?"
+      ],
+      "jpchoice_data_list": [
+        "どうしてそんなに欲しいんだ？",
+        "どうしてそんなに欲しいの？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Muốn thì là muốn thôi chứ sao nữa! Ta nhất quyết chỉ chịu mỗi \"Cún Con Ma Thuật\" thôi mà!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ほしいものはほしいんだもんっ！\n絶対『マジカルわんこ』がいいんだもんっ！",
+      "choice_data_list": [
+        "\"Cún Con Ma Thuật\" là một điều gì đó rất đặc biệt sao?"
+      ],
+      "jpchoice_data_list": [
+        "『マジカルわんこ』が特別ってこと？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Đúng thế đó! Bởi vì hồi xưa ngay cả Granma cũng từng nuôi một chú cún như vậy mà……!",
+      "jpname": "スイープトウショウ",
+      "jptext": "そうよ！　だってグランマだって飼ってたんだから……！"
+    },
+    {
+      "name": "Chú chó của bà",
+      "text": "Gâu gâu!",
+      "jpname": "祖母の飼い犬",
+      "jptext": "わんわんっ！"
+    },
+    {
+      "name": "Sweep lúc nhỏ",
+      "text": "Huhu…… Hức, lúc này đừng có lại gần cháu mà……",
+      "jpname": "幼いスイープ",
+      "jptext": "ううっ……ぐすっ、今はこっちこないで……。"
+    },
+    {
+      "name": "Bà của Sweep",
+      "text": "Cháu có nói những lời trái với lòng mình thì nó cũng chẳng nghe đâu. Bà đã yểm phép thuật lên chú cún đó rồi, nên nó có thể thấu hiểu được tiếng lòng của người khác đấy.",
+      "jpname": "スイープの祖母",
+      "jptext": "思ってもないこと言ったって通じやしないよ。\nその子にはあたしが魔法をかけたからね、相手の心がわかるんだ。"
+    },
+    {
+      "name": "Bà của Sweep",
+      "text": "……Gì cơ, gì cơ chứ? Có phải Sweepy trong lòng thật ra đang nghĩ \"Ba ơi con xin lỗi ba\" đúng không nào?",
+      "jpname": "スイープの祖母",
+      "jptext": "……なになに？\nスイーピーは本当は、パパごめんなさいって思ってる？"
+    },
+    {
+      "name": "Sweep lúc nhỏ",
+      "text": "K-Không có chuyện đó đâu ạ! Con xin lỗi ba cái gì chứ, đoán sai bét nhè rồi……",
+      "jpname": "幼いスイープ",
+      "jptext": "そ、そんなことないもんっ！\nパパにごめんなさいなんて、ぜんぜんハズレだもん……。"
+    },
+    {
+      "name": "Sweep lúc nhỏ",
+      "text": "Đoán trật lất luôn…… Nhưng mà, phép thuật của Granma quả nhiên đỉnh thật đấy……",
+      "jpname": "幼いスイープ",
+      "jptext": "ぜんぜんハズレ……だけど、\nグランマの魔法ってやっぱりすごい……。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ta cũng muốn được nuôi một chú cún biết đọc thấu tâm tư hệt như Granma vậy! Nhưng ở ký túc xá thì đâu có được nuôi động vật đúng không?",
+      "jpname": "スイープトウショウ",
+      "jptext": "アタシもグランマみたいに、気持ちがわかる\nわんこを飼いたいの！　でも寮だと飼えないでしょ？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Thế nên ta mới lấy \"Cún Con Ma Thuật\" để thay thế. Ta sẽ niệm phép thuật lên người em ấy——",
+      "jpname": "スイープトウショウ",
+      "jptext": "だから『マジカルわんこ』をかわりにするの。\n『マジカルわんこ』に魔法をかけて――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Nếu biến nó thành một món thú bông biết thấu hiểu cảm xúc con người, chẳng phải ta sẽ có thể trở thành một phù thủy vĩ đại như Granma hay sao!",
+      "jpname": "スイープトウショウ",
+      "jptext": "人の気持ちがわかるぬいぐるみにすれば、\nグランマみたいな魔女になれるでしょ！"
+    },
+    {
+      "name": "",
+      "text": "Hóa ra Sweep Tosho muốn có được món thú bông ấy bằng mọi giá là để có thể tiến gần hơn tới hình bóng người bà mà em hằng ngưỡng mộ.",
+      "jpname": "モノローグ",
+      "jptext": "どうやらスイープトウショウは、憧れの祖母に少しでも\n近づくために、ぬいぐるみを手に入れたいらしい。"
+    },
+    {
+      "name": "",
+      "text": "Dẫu vậy, trời lúc này đã tối mịt từ lâu. Cứ chạy ngược chạy xuôi suốt cả ngày thế này, em ấy có thể sẽ kiệt sức mất.",
+      "jpname": "モノローグ",
+      "jptext": "とはいえ、もう日が落ちてかなり経つ。\n彼女も1日中走り回って、疲れを残してしまうかもしれない。",
+      "choice_data_list": [
+        "Hôm nay muộn lắm rồi, chúng ta về thôi nhé."
+      ],
+      "jpchoice_data_list": [
+        "今日は遅いから、もう帰ろう"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Đã bảo là không thích rồi mà! Sao ngươi chẳng chịu hiểu gì hết vậy? Muốn về thì ngươi cứ việc tự mà về một mình đi!",
+      "jpname": "スイープトウショウ",
+      "jptext": "だからやだってば！\nなんでわかんないの？　帰りたいなら1人で帰ればいいでしょ！",
+      "choice_data_list": [
+        "Anh sẽ tìm thay cho em mà!",
+        "Tôi sẽ tìm kiếm thay cho em mà!"
+      ],
+      "jpchoice_data_list": [
+        "代わりに俺が探すから！",
+        "代わりに私が探すから！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……Hả?",
+      "jpname": "スイープトウショウ",
+      "jptext": "……は？"
+    },
+    {
+      "name": "",
+      "text": "Sáng hôm sau, tôi đứng đợi Sweep Tosho tới trường rồi cất tiếng gọi em.",
+      "jpname": "モノローグ",
+      "jptext": "翌朝、登校するスイープトウショウを待って声をかけた。",
+      "choice_data_list": [
+        "Chào buổi sáng!"
+      ],
+      "jpchoice_data_list": [
+        "おはよう！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……Cái gì đấy, ngươi đến để xin lỗi ta đấy à?",
+      "jpname": "スイープトウショウ",
+      "jptext": "……なによ、謝りにきたの？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hôm qua tìm kiếm rã cả chân mà chẳng thấy đâu. Đằng nào thì ngươi cũng đâu có tìm ra được đúng không!",
+      "jpname": "スイープトウショウ",
+      "jptext": "昨日あれだけ探してなかったんだもん。\nどうせ見つからなかったんでしょ！",
+      "choice_data_list": [
+        "Sau đây là một câu đố nhé. Đố em biết đây là cái gì nào?"
+      ],
+      "jpchoice_data_list": [
+        "それでは問題です。これは何でしょうか？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Cái gì là cái gì—— Ơ……?",
+      "jpname": "スイープトウショウ",
+      "jptext": "なにって、なにが――え……？"
+    },
+    {
+      "name": "",
+      "text": "Trao món quà đã hứa vào đôi tay của một Sweep Tosho đang ngơ ngác sững sờ.",
+      "jpname": "モノローグ",
+      "jptext": "ぽかんとするスイープトウショウに、約束のプレゼントを手渡した。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Đây là…… \"Cún Con Ma Thuật\" ư!? Ngươi tìm thấy thật đấy à!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "これっ、『マジカルわんこ』！？　ホントに見つけたの！？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Rõ ràng là khắp nơi đều hết sạch rồi cơ mà……! Ta cứ đinh ninh là đằng nào cũng chẳng tìm nổi nữa rồi……",
+      "jpname": "スイープトウショウ",
+      "jptext": "だって、どこにもなくって……！\nどうせ無理でしょって思ってたのに……っ。"
+    },
+    {
+      "name": "",
+      "text": "Quả thực \"Cún Con Ma Thuật\" là một món hàng cực kỳ đắt khách, tôi đã phải liên hệ tới tận các cửa tiệm ở tỉnh lân cận mới có thể rước về được.",
+      "jpname": "モノローグ",
+      "jptext": "確かに『マジカルわんこ』はかなり人気の品らしく、\n隣県の店まで連絡してようやく手に入れることができた。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Rõ ràng ngươi đuổi ta về trước, vậy mà sau đó ngươi vẫn lặn lội đi tìm thật đấy hả!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "アタシのことは先に帰したくせに、\nホントにあの後も探してたの！？",
+      "choice_data_list": [
+        "Vì đó là thứ cần thiết để em trở thành một phù thủy vĩ đại mà.",
+        "Bởi đó là món đồ cần có để em trở thành một phù thủy vĩ đại mà."
+      ],
+      "jpchoice_data_list": [
+        "君が立派な魔女になるために必要だから",
+        "貴方が立派な魔女になるために必要だから"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Để ta…… trở thành phù thủy……",
+      "jpname": "スイープトウショウ",
+      "jptext": "アタシが……魔女になるため……。"
+    },
+    {
+      "name": "",
+      "text": "Nói là \"để trở thành phù thủy\" nghe chừng có vẻ hơi xa vời, nhưng đó là tất cả những gì tôi muốn làm để \"tiếp thêm đôi cánh\" cho em trên con đường chinh phục ước mơ.",
+      "jpname": "モノローグ",
+      "jptext": "“魔女になるため”と言うと飛躍して聞こえるが、\n夢に向かう彼女の“後押し”になればと思ってのことだった。",
+      "choice_data_list": [
+        "Hãy yêu thương tớ gâu gâu!"
+      ],
+      "jpchoice_data_list": [
+        "かわいがってほしいワン！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "——Hừ, đ-đành chịu vậy thôi chứ sao! Nếu đã nói đến nước đó thì ta sẽ rộng lượng chăm sóc cho mi vậy!",
+      "jpname": "スイープトウショウ",
+      "jptext": "～～っ、し、しょうがないわねっ！\nそこまで言うなら、アタシが面倒みてあげるわ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Thì…… đúng là thế thật mà? Sứ ma còng lưng làm việc vì chủ nhân là chuyện đương nhiên rồi còn gì?",
+      "jpname": "スイープトウショウ",
+      "jptext": "そりゃ……確かにっ？\n使い魔が主人のために働くのは当然だし？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Mà kể cả ngươi có không tìm ra đi chăng nữa, thì ta chắc chắn cũng sẽ tự mình tìm mua được thôi nhé?",
+      "jpname": "スイープトウショウ",
+      "jptext": "使い魔が見つけられなくても、\nアタシが見つけて買ってたと思うし？"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Chắc là Trainer đã phải vất vả giúp đỡ em nhiều lắm đúng không? Lát nữa nhớ phải nói lời cảm ơn người ta cho đàng hoàng đấy nhé!",
+      "jpname": "先生A",
+      "jptext": "トレーナーさんにお世話になったのでしょう？\n後できちんとお礼を言うようにね！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……Hứ, ta chẳng cần biết! Ta đâu có nhờ vả gì đâu. Là tên sứ ma tự tiện làm đấy chứ bộ!",
+      "jpname": "スイープトウショウ",
+      "jptext": "……っ、知らないわよ！\nアタシ、頼んでないもん。使い魔が勝手にやっただけだもんっ！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……",
+      "jpname": "スイープトウショウ",
+      "jptext": "……。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Tên sứ ma đó kỳ quặc thật đấy…… Cún con mi cũng thấy vậy đúng không?",
+      "jpname": "スイープトウショウ",
+      "jptext": "使い魔ってホント変……わんこだってそう思うでしょ？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "…………Gì mà nhìn ta bằng cái bộ mặt đó hả.",
+      "jpname": "スイープトウショウ",
+      "jptext": "…………なによその顔。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Không phải đâu nhé! Trong lòng ta tuyệt đối không có nghĩ là cảm ơn đâu, đoán trật lất rồi nhé!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ちがうもん！\nホントにありがとなんて思ってない、ぜんぜんハズレだもん！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Được rồi, mi cũng phải rèn luyện để đọc thấu tiếng lòng người khác cho chuẩn xác hơn đi đấy nhé!",
+      "jpname": "スイープトウショウ",
+      "jptext": "もういいっ、アンタももっとちゃんと\n心が読めるようになりなさいよねっ！"
+    },
+    {
+      "name": "",
+      "text": "Vừa càu nhàu càm ràm, Sweep Tosho vừa ôm ghì lấy chú \"Cún Con Ma Thuật\" vào lòng rồi chui tọt vào trong chăn ngủ say sưa.",
+      "jpname": "モノローグ",
+      "jptext": "文句を言いながらもしっかり『マジカルわんこ』を抱いて、\nベッドにもぐりこむスイープトウショウなのだった。"
+    }
+  ]
+}

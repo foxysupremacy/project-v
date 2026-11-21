@@ -1,0 +1,412 @@
+{
+  "title": "Gloriosa sắc mật ong",
+  "jptitle": "はちみつ色のグロリオサ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Thế là, chuỗi ngày làm \"sứ ma\"—— nói đúng hơn là Trainer phụ trách của một Sweep Tosho đang mải miết đi tìm phép thuật đường đua đã chính thức mở màn, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "ということで、レースの魔法を探すスイープトウショウの『使い魔』\nつまりは担当トレーナー生活らしきものが幕を開けたのだが――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Không chịu đâu. Hôm nay ta không muốn chạy trên đường dăm gỗ đâu. Tâm trạng không có hứng chút nào cả.",
+      "jpname": "スイープトウショウ",
+      "jptext": "やだ。今日はウッドチップ走りたくない。\n気分じゃないもん。",
+      "choice_data_list": [
+        "Ơ, ơ kìa, nhưng mà——"
+      ],
+      "jpchoice_data_list": [
+        "え、えっと、でも――"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Đã bảo không chịu là không chịu mà!! Không chịu đâuuuuuuuu——!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "やだったらやだ！！　や～～～～だ～～～～っ！！"
+    },
+    {
+      "name": "",
+      "text": "Thú thật thì tình hình chẳng mấy khả quan. Cứ cái đà này thì ngay cả việc sải bước ra thế giới đua để tìm kiếm phép thuật e rằng cũng vô cùng trắc trở.",
+      "jpname": "モノローグ",
+      "jptext": "正直、状況はあまり芳しくなかった。そもそもこのままでは、\n魔法を探しにレースの世界へ飛び出すことさえ難しそうだ。"
+    },
+    {
+      "name": "",
+      "text": "Sở dĩ em ấy bướng bỉnh đến độ chẳng chịu nghe lời ai cũng là do những trải nghiệm không vui trước đây đã khiến \"nỗi ngờ vực với những người chỉ đạo\" tích tụ quá nhiều.",
+      "jpname": "モノローグ",
+      "jptext": "あまりにも言うことを聞いてくれないのは、これまでの日々で\n『指導者というものに対する不信感』が募り過ぎたのも原因だろう。",
+      "choice_data_list": [
+        "(Giá như em ấy có thể tin tưởng mình thêm một chút thôi……)"
+      ],
+      "jpchoice_data_list": [
+        "（せめてもう少し信頼してくれたら……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dẫu vậy, để gầy dựng lòng tin thì cần phải có thời gian. Trong suốt một thời gian sau đó, tôi đã trải qua những ngày tháng dốc hết tâm can vì Sweep Tosho, thậm chí quên cả ngủ nghê.",
+      "jpname": "モノローグ",
+      "jptext": "とはいえ、信頼を得るには時間がかかるもの。しばらくは、\n寝る間も惜しんでスイープトウショウのため奮闘する日々が続いた。"
+    },
+    {
+      "name": "",
+      "text": "Có hôm, tôi kiên nhẫn đứng đợi hàng giờ liền bên cạnh cô bé đang dỗi hờn bất động cho đến khi em có hứng chạy, và lại có những ngày——",
+      "jpname": "モノローグ",
+      "jptext": "ある日は動かない彼女の横で気が向くのを何時間でも待ち、\nまたある日は――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Không thèm không thèm! Hôm nay ta chẳng muốn nhìn thấy cái đường chạy chết tiệt đó nữa đâu!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "やだやだやだっ！　もう今日はコースなんか見たくもないのっ！！"
+    },
+    {
+      "name": "",
+      "text": "——Thế nên tôi đã dẫn một Sweep Tosho như vậy ra ngoài để đổi gió.",
+      "jpname": "モノローグ",
+      "jptext": "――そんなスイープトウショウを、気分転換に連れて来た。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hừm, \"Thức uống Hachimi tươi nguyên chất - Số lượng có hạn\" sao? Chà…… trông cũng có vẻ ngon lành đôi chút đấy chứ.",
+      "jpname": "スイープトウショウ",
+      "jptext": "ふーん、『数量限定・新鮮生はちみードリンク』？\nま……ちょっとはおいしそうじゃない。",
+      "choice_data_list": [
+        "Em thấy hứng thú hả?",
+        "Em có muốn thử không?"
+      ],
+      "jpchoice_data_list": [
+        "興味あるか？",
+        "興味ある？"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "……Hứ, ta có thể hạ cố uống thử cho ngươi xem. Nhưng ta ghét xếp hàng lắm. Ngươi mau đi mua về đây cho ta!",
+      "jpname": "スイープトウショウ",
+      "jptext": "……ふんっ、飲んであげてもいいけど。\nでも並ぶのはイヤよ。アンタが買ってきて！",
+      "choice_data_list": [
+        "Biết rồi, biết rồi mà…… Oáp..."
+      ],
+      "jpchoice_data_list": [
+        "わかったわかった……ふわぁ"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Á, này! Trời ạ sứ ma, sao ngươi lại ngáp ngắn ngáp dài trước mặt ta thế hả! Tác phong lôi thôi lếch thếch quá đi mất!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "あっ、ちょっと！　も～使い魔、なにあくびなんかしてるのよ！\nだらしないわねーっ！！"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ do bao mệt mỏi dồn nén dạo gần đây bất chợt ập đến nên tôi mới ngáp một cái. Bị em ấy dẩu môi mắng xối xả như thế, tôi chỉ biết cười trừ rồi đi vào dòng người xếp hàng——",
+      "jpname": "モノローグ",
+      "jptext": "不意に、ここ最近の疲れが出たのかあくびが出てしまう。\nそのこともぷりぷり叱られてしまい、苦笑しながら列へと並んだ――"
+    },
+    {
+      "name": "",
+      "text": "Vì là món hàng số lượng có hạn nên dòng người xếp hàng dài đến mức choáng ngợp. Dù vậy cũng chẳng còn cách nào khác, đành kiên nhẫn nhích từng bước một thì bỗng nhiên——",
+      "jpname": "モノローグ",
+      "jptext": "列は、数量限定品を販売中なだけにすさまじい長さだった。\nとはいえ仕方なし、としばらく進むのを待っていると――"
+    },
+    {
+      "name": "Mã Nương cao ráo",
+      "text": "Đã bảo là tao muốn mua hẳn 5 phần tính cả cho lũ bạn đi cùng rồi cơ mà!",
+      "jpname": "背の高いウマ娘",
+      "jptext": "だぁから～、ツレの分含めて5個欲しいって言ってんじゃん！"
+    },
+    {
+      "name": "Nhân viên quán",
+      "text": "X-Xin quý khách thứ lỗi ạ. Do \"Hachimi tươi nguyên chất\" là sản phẩm giới hạn số lượng, nên mỗi khách hàng chỉ được phép mua tối đa 2 phần thôi ạ……",
+      "jpname": "店員",
+      "jptext": "す、すみません。『新鮮生はちみー』は数量限定品ですので、\nご購入はお1人様2つまででお願いしておりまして……。"
+    },
+    {
+      "name": "Mã Nương vạm vỡ",
+      "text": "Đừng có mà bày đặt keo kiệt bủn xỉn ở đây! Tụi tao là khách hàng đấy biết chưa hả? Này!!",
+      "jpname": "がっしりしたウマ娘",
+      "jptext": "ケチくせえこと言ってんじゃねえよ！\nこっちは客なんだぞ？　オイ！！"
+    },
+    {
+      "name": "",
+      "text": "Trông có vẻ cỡ học sinh cấp ba, hai Mã Nương với vóc dáng cực kỳ vạm vỡ bắt đầu cãi cọ nảy lửa với nhân viên! Bầu không khí xung quanh lập tức trở nên căng thẳng nghẹt thở……!",
+      "jpname": "モノローグ",
+      "jptext": "高校生くらいだろうか、かなり体格のいいウマ娘2人と店員が\n言い争いを始めた！　周囲の空気が一気にピリつく……！"
+    },
+    {
+      "name": "",
+      "text": "Đúng lúc ấy——",
+      "jpname": "モノローグ",
+      "jptext": "と、そこへ――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Lũ ngốc này bị mất trí hết rồi à!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "バッカじゃないの！？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Rõ ràng trên cái cờ đằng kia ghi rành rành là \"Mỗi người tối đa 2 phần\" còn gì nữa!! Chữ to đùng ngã ngửa thế kia mà mù chữ hả? Không có mắt để nhìn à?",
+      "jpname": "スイープトウショウ",
+      "jptext": "『1人2つまで』ってそこの旗にも書いてあるじゃない！！\nあんなおっきい文字、読めないわけ？　目ついてないの？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Với lại nếu lũ các ngươi hốt hết sạch sành sanh như thế thì phần của ta biết để đâu hả! Dùng cái đầu mà suy nghĩ một chút giùm coi!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "だいたいね、アンタたちがいっぱい買いすぎちゃったら、\nアタシのぶんがなくなるでしょ！　少しは頭使いなさいよね！！"
+    },
+    {
+      "name": "Mã Nương vạm vỡ",
+      "text": "……Hảả? Gì đây, con nhóc lùn tịt này ở đâu chui ra vậy. Đội cái nón kì dị phát gớm. Ngậm mồm lại đi!",
+      "jpname": "がっしりしたウマ娘",
+      "jptext": "……あぁ？　なんだ、このチビ。\n変な帽子かぶりやがって。黙ってろよ。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "…………Cái gì cơ?",
+      "jpname": "スイープトウショウ",
+      "jptext": "…………はぁ？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Kì dị phát gớm ấy hả? Minh chứng thiếu nữ phép thuật vô giá mà Granma đã tặng cho ta…… mà ngươi dám chê là kì dị áaaaa!?",
+      "jpname": "スイープトウショウ",
+      "jptext": "変な帽子、ですって？\nグランマのくれた、大事な魔法少女の証が……変ですってぇ！？"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Không bao giờ tha thứ đâuuuu!! Lũ các ngươi, thi chạy một trận phân thắng bại ngay lập tức!! Để xem đứa nào mới là kẻ phải ngoan ngoãn ngậm miệng cút xéo, ta sẽ dạy cho một bài học nhớ đời!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "もぉぉぉぉ許さないっ！！　アンタたち、レースで勝負よ！！\nどっちが黙って従うべきなのか、思い知らせてやるんだからっ！！"
+    },
+    {
+      "name": "Mã Nương cao ráo",
+      "text": "Hảả!? Thích thì chiều thôi con nhóc ranh!!",
+      "jpname": "背の高いウマ娘",
+      "jptext": "あぁ！？　上等だっつの、チビ！！",
+      "choice_data_list": [
+        "K-Khoan đãààà——!!"
+      ],
+      "jpchoice_data_list": [
+        "ま、待ったぁーっ！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi lấy hết can đảm lao vào chen ngang giữa các Mã Nương đang trong bầu không khí như thùng thuốc súng chực nổ. Lúc này muốn giải quyết êm thấm dường như là bất khả thi, nhưng ít nhất thì——!!",
+      "jpname": "モノローグ",
+      "jptext": "一触即発な空気漂うウマ娘たちの間に、勇気を振り絞り割って入る。\n何事もなく場を収めるのはもはや難しそうだが、せめて――！！",
+      "choice_data_list": [
+        "Ít nhất cũng phải chọn nơi nào an toàn không bị thương tích……!"
+      ],
+      "jpchoice_data_list": [
+        "せめて、ケガの危険はない場所でっ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi dốc hết sức bình sinh khuyên can những gương mặt hừng hực lửa giận chỉ chực lao vào nhau——",
+      "jpname": "モノローグ",
+      "jptext": "今すぐにでも駆けだしそうな面々を必死になだめ――"
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi đã mượn được đường chạy của một trường đua tự do, nơi các Mã Nương nghiệp dư thường tổ chức các giải đấu không chính thức.",
+      "jpname": "モノローグ",
+      "jptext": "アマチュアのウマ娘たちが非公式のレース大会を開催している、\nフリースタイル・レース場のコースを貸してもらうことになった。"
+    },
+    {
+      "name": "",
+      "text": "Để phòng trường hợp xấu nhất đối phương có thể động tay động chân, tôi khéo léo đứng chắn giữa Sweep Tosho và các Mã Nương kia trong lúc phổ biến luật lệ.",
+      "jpname": "モノローグ",
+      "jptext": "万が一にも手を出されないよう、それとなくスイープトウショウと\nウマ娘たちの間に体を挟んでおきつつ、ルールを説明する。",
+      "choice_data_list": [
+        "V-Vậy cự ly mặt cỏ 1400m…… được chứ?"
+      ],
+      "jpchoice_data_list": [
+        "じゃ、じゃあ、芝1400mで……いいね？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chẳng buồn đáp lời, hai Mã Nương kia liền tiến thẳng về phía cổng xuất phát. Ngay trước khoảnh khắc đưa Sweep Tosho vào vị trí, tôi dặn dò em lần cuối.",
+      "jpname": "モノローグ",
+      "jptext": "返事もせずに、ウマ娘たちはゲートへと向かって行ってしまった。\nスイープトウショウを送り出す直前、最後に伝えておく。",
+      "choice_data_list": [
+        "Nếu xảy ra bất cứ chuyện gì, anh nhất định sẽ lao vào can ngăn.",
+        "Nếu xảy ra bất cứ chuyện gì, tôi nhất định sẽ lao vào can ngăn."
+      ],
+      "jpchoice_data_list": [
+        "何かあったら絶対、俺が止めに入るから",
+        "何かあったら絶対、私が止めに入るから"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hả? Ngay giữa cuộc đua luôn á? Ngươi có điên không đấy, đâu chỉ đơn giản là bị thương nặng thôi đâu! Làm thế thì——",
+      "jpname": "スイープトウショウ",
+      "jptext": "はぁ？　レース中でも？\nアンタねえ、大ケガじゃすまないわよ？　そんなの――",
+      "choice_data_list": [
+        "Thế nên em cứ yên tâm, dốc hết sức mình mà giành lấy chiến thắng về đây!"
+      ],
+      "jpchoice_data_list": [
+        "だから安心して、思いっきり勝っておいで！"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "! …………",
+      "jpname": "スイープトウショウ",
+      "jptext": "！　…………。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, cuộc đua chính thức khai cuộc——",
+      "jpname": "モノローグ",
+      "jptext": "そして、レースは幕を開けた――"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(……Cái gì thế chứ, lời dặn lúc nãy ấy. Cứ làm như thể miễn là không có chuyện gì ngoài ý muốn thì ta chắc chắn sẽ thắng không bằng——)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（……なによ、さっきの。なんにもなかったら\nアタシが絶対勝つ、みたいな――）"
+    },
+    {
+      "name": "Mã Nương cao ráo",
+      "text": "Hứ, rốt cuộc cũng chỉ là con nhóc hỉ mũi chưa sạch! Chậm như rùa ấy!! Này thì, đi trước nhé——!!",
+      "jpname": "背の高いウマ娘",
+      "jptext": "はん、やっぱガキだな！　遅ぇ遅ぇ！！\nほーら、おっ先～！！"
+    },
+    {
+      "name": "Mã Nương vạm vỡ",
+      "text": "Cái gì mà \"dạy cho biết đứa nào phải ngoan ngoãn ngậm miệng cút xéo\" cơ chứ? Nực cười hết sức!!",
+      "jpname": "がっしりしたウマ娘",
+      "jptext": "『どっちが黙って従うべきか思い知らせる』だっけ？\nバカバカしい！！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(——Chẳng cần ngươi nhắc ta cũng thừa sức thắng nhé! Làm sao ta có thể thua cái lũ đáng ghét này được cơ chứ!!)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（～～～っ、言われなくたって勝つわよ！\nこんなムカつくヤツらに、負けるわけないでしょ！！）"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hộc, hộc, hộc, hộc…… Đoạn, thẳng, cuối cùng……!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "はっ、はっ、はっ、はっ……。\n最終、直線……！！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(Thắng…… Mình sẽ thắng!! Đè bẹp hết đứa này đến đứa khác!!)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（勝つ……アタシが勝つ！！\nアイツもコイツも、ぜんぶねじ伏せて！！）"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Kẻ mạnh nhất trên đời này…… chính là taaaaaaaa——!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "イチバン強いのはっ、アタシなんだからぁああああああーっ！！"
+    },
+    {
+      "name": "Các Mã Nương đối thủ",
+      "text": "Ực!? K-Không…… thể nào……!?",
+      "jpname": "相手ウマ娘たち",
+      "jptext": "うっ！？　む、無～理～……！？"
+    },
+    {
+      "name": "",
+      "text": "(Ồ ô ô ô ô ô ô ô!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ウォオオオオオオッ！！）"
+    },
+    {
+      "name": "Khán giả nam A",
+      "text": "Đỉnh thật, cái quái gì vừa xảy ra thế!? Chặng cuối em ấy bứt tốc với tốc độ kinh hoàng rồi vượt lên giành chiến thắng kìa!!",
+      "jpname": "フリーの男性観客A",
+      "jptext": "すご、なんだ今の！？\n最後、メチャクチャなスピードで差し切ったぞ！！"
+    },
+    {
+      "name": "Khán giả nữ A",
+      "text": "Đỉnh chóp luôn! Tự dưng thấy hưng phấn hết cả người……!!",
+      "jpname": "フリーの女性観客A",
+      "jptext": "ヤバ～！　なんかテンション上がっちゃった……！！"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Phù…… phù…… phà——……",
+      "jpname": "スイープトウショウ",
+      "jptext": "はぁっ、はぁっ……ふぅ～……。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(Ủa? Sao lúc nãy…… cảm giác lại sảng khoái và tuyệt vời đến thế này?)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（あれ？　なんか今……すっごい、イイ感じ？）"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(Là vì mình vừa đè bẹp lũ đáng ghét kia ư? ……Không, không chỉ đơn thuần là thế——)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（ムカつくヤツら、やっつけてやったから？\n……ううん、それだけじゃなくって――）",
+      "choice_data_list": [
+        "Vất vả cho em rồi, Sweep."
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様、スイープ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi nói chuyện dàn xếp xong xuôi với các Mã Nương đối thủ đã hoàn toàn tâm phục khẩu phục, tôi bước tới bắt chuyện với Sweep Tosho. ……Một dáng chạy quá đỗi ngoạn mục.",
+      "jpname": "モノローグ",
+      "jptext": "おかげですっかり反省しきりの相手ウマ娘たちと話をつけてから、\nスイープトウショウに声をかける。……見事な走りだった。",
+      "choice_data_list": [
+        "Quả nhiên, vẫn cứ như phép thuật vậy——"
+      ],
+      "jpchoice_data_list": [
+        "やっぱり、魔法みたいだったよ――"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "\"Phép thuật\" ư……",
+      "jpname": "スイープトウショウ",
+      "jptext": "『魔法』……。"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "(……A. Nhắc mới nhớ, lần đầu tiên chạm trán cũng——)",
+      "jpname": "スイープトウショウ",
+      "jptext": "（……あ。そういえば、最初の時も――）"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Khoan đã, sứ ma? Sao người ngươi cứ lảo đảo loạng choạng thế kia? ……Này?",
+      "jpname": "スイープトウショウ",
+      "jptext": "って、使い魔？　アンタ、なんかフラフラしてない？\n……ねえ？"
+    },
+    {
+      "name": "",
+      "text": "(Ngã khuỵu……)",
+      "jpname": "モノローグ",
+      "jptext": "（ぱたり……）"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "N-Này…… Sứ ma!? Này này!! Đồ ngốc, mau trả lời ta coi!! ……Nàyyyyyy——!!",
+      "jpname": "スイープトウショウ",
+      "jptext": "ちょっ……使い魔！？　ちょっと！！\nバカっ、返事しなさいよ！！　……ねえってばぁー！！"
+    },
+    {
+      "name": "",
+      "text": "Dây cung căng như dây đàn bấy lâu nay vừa đứt đoạn, cũng là lúc bao mệt mỏi dồn nén suốt thời gian qua đồng loạt ùa về—— Khi tôi nhận ra thì ý thức đã hoàn toàn chìm vào bóng tối.",
+      "jpname": "モノローグ",
+      "jptext": "ずっと張り詰めていた緊張の糸が切れたかと思うと、ここ最近の\n疲労も一気に襲ってきて――気づけば、意識を手放していた。"
+    }
+  ]
+}
