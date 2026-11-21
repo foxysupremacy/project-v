@@ -1,0 +1,334 @@
+{
+  "title": "Quyết tâm sắc chanh",
+  "jptitle": "ライム色の決意",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ, khi tôi ghé qua hiệu sách trên đường đi mua sắm...",
+      "jpname": "モノローグ",
+      "jptext": "休日、買い物途中で書店へ立ち寄ると――"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hừm... ở đây cũng không có à. Mấy cuốn đó không nằm ở khu sách mới xuất bản sao ta...?",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "ん～んんんんんん……ここにもないなあ。\nあの本って新書コーナーじゃないの……？"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ưm. Cửa hàng lớn hơn chỗ này thì ở gần có một tiệm, ở xa có hai tiệm... nhỉ. Nhưng có trọn vẹn cả ngày rảnh rỗi thì chỉ có hôm nay thôi...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "う～ん。ここより大型の店は近くに1つ、遠くに2つ……かあ。\nでも丸1日時間使えるの今日くらいだし――",
+      "choice_data_list": [
+        "Em đang gặp chuyện gì khó khăn à?"
+      ],
+      "jpchoice_data_list": [
+        "何か困りごと？"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Oa oa!? Trainer-san ạ?",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "わわっ！？\nトレーナーさんっ？"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Dạ là... cuốn \"Cả đời không bừa bộn! Nghệ thuật dọn dẹp tối thượng\", với cuốn \"Không bao giờ sai sót! Cẩm nang kế toán chuẩn chỉ và tỉ mỉ!\".",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "えーっと……『一生散らからない！　最強整頓術』に、\n『間違えない！　しっかりきっちり経理指南！』。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Thêm cả cuốn \"Huyệt đạo ít ai biết - Bấm huyệt thần bí\", và \"Tuyển tập công thức tăng thể lực tối thượng - Phần đặc sản kỳ thú\"... Em đang tìm 4 cuốn sách này ạ!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "それと『知られざる経穴～神秘のツボ指圧』、\n『究極スタミナレシピ集・珍味編』……この4冊を探しています！",
+      "choice_data_list": [
+        "Danh sách sách này xem chừng có gu độc lạ thật đấy...",
+        "Danh sách sách này xem chừng có gu độc lạ thật đấy..."
+      ],
+      "jpchoice_data_list": [
+        "なかなか渋いラインナップだな……",
+        "なかなか渋いラインナップだね……"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hứ hứ hừ. Tính thực tế là trên hết mà! Và đó chính là những thứ mà hiện tại em đang rất cần!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "ふっふっふ。実用性第一ですからね。\nそしてそれこそが今！　私に必要なものですから！",
+      "choice_data_list": [
+        "Nếu em không phiền thì để anh tìm giúp cho"
+      ],
+      "jpchoice_data_list": [
+        "よかったら、探すの手伝うよ"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Thật thế ạ!? Có Trainer-san thì như có thêm trăm người trợ lực vậy! Mau đi tìm ngay thôi nàooo!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "本当ですか！？　トレーナーさんがいれば百人力ですっ！\nさっそく探しにいきましょーうっ！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Phù... hộc... mệt... mệt đứt cả hơi luôn...! Không ngờ là phải lượn qua toàn bộ các hiệu sách lớn trong thị trấn thế này...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "ぜぇ……はぁ……つっっっかれました……！\nまさか町中の大きい本屋さん、軒並み回ることになるとは……。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Nhưng mà! Nhờ có anh mà đã gom đủ cả 4 cuốn rồi ạ! Thực sự cảm ơn anh rất nhiều luôn!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "でも！　おかげで4冊全部揃いました～っ！\n本っ当に助かりましたよ！",
+      "choice_data_list": [
+        "Giúp ích được cho em là tốt rồi"
+      ],
+      "jpchoice_data_list": [
+        "力になれてなにより"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Nào, Trainer-san cũng đừng ngại mà uống đi ạ! Đây là quà cảm ơn của em dành cho anh hôm nay!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "さあトレーナーさんも遠慮せず飲んでください！\nこれは私からの、今日のお礼です！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Ực... Aaa, đã khát quá đi mất!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "ごくっ……。\nああ～、染みるぅ～～！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Vị chua của chanh lan tỏa dần vào cơ thể đang mệt mỏi... Phù... đây chính là hương vị của chiến thắng nhỉ!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "疲れた体にライムの酸味がじわ～っと……。\nふぅ～……これが勝利の味、ですね！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hê hê hê... Chỉ cần tinh thông nội dung của 4 cuốn sách này...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "へへへ～っ……\nこの4冊の本の中身さえマスターすれば――"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "(Là anh ấy sẽ phải dựa vào mình cho xem!)",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "（頼ってもらえる！）"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"Hầy... Công việc lẫn giấy tờ cứ chất đống như núi. Xin thanh toán chi phí thì phải bới tung đống hóa đơn lên tìm... A, rắc rối quá biết làm sao bây giờ!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『はぁ……仕事も書類も溜まるいっぽう。\n経費の申請も領収書探しからだし……あー困ったどうしよ～！』"
+    },
+    {
+      "name": "???",
+      "text": "Hứ hứ hừ... Có vẻ như anh đang gặp rắc rối nhỉ! Nhưng không cần phải lo lắng đâu. Chuyện này cứ...",
+      "jpname": "？？？",
+      "jptext": "ふっふっふ……お困りのようですね！\nですが、心配することはありません。ここは――"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Cứ để Master Tsuyoshi lo liệu ạ!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "マスター・ツヨシにお任せくださいっ！"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Bí kỹ dọn dẹp ngăn nắp... Thiên Liệt - Phân loại tài liệuuuuu!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "整理整頓術奥義……\n千烈・書類振り分けーーーっ！"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"T-Tài liệu và hóa đơn hỗn độn đến mức chẳng biết cái gì ở đâu mà chỉ trong chớp mắt đã...!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『な、何がどこにあるかわからないくらいに\n混沌としていた書類と領収書が一瞬で……！』"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"... Hự!? Vừa định ngồi xuống ghế nghỉ ngơi một lát thì tự dưng mắt, vai và lưng đều đạt tới giới hạn rồi!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『……ぐっ！？　軽く休憩しようと椅子に座ったら、\n急に目・肩・腰に限界が～！』"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Không sao cả! Em đã tinh thông cả bí truyền bấm huyệt để kích thích sinh lực rồi!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "大丈夫です！　経穴を学び、活力を促進する\n秘伝もマスターしていますから！"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Tới đây! Hoạt Sát Tự Tại Kích Thích Huyệt Đạo Thuật - Cực Hạn Điểm Huyệt! Oát chaaaa!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "行きますよ！　活殺自在経穴刺激術・終の指圧っ！\nほあっちゃーっ！"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"T-Tuyệt đỉnh...! Mắt mờ đã sáng rõ và cơn đau ở vai và lưng cũng biến mất tăm rồi!!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『す、すごい……っ！　目の霞みが晴れて\n肩と腰の痛みもなくなってるぅ～～！！』"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"Ư ư, lấy cớ bận rộn rồi ăn uống thất thường nên người lúc nào cũng mệt mỏi kinh niên thế này!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『うう～、多忙を言い訳に不規則な食生活をしたせいで、\n慢性的な疲労状態に～！』"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Hứ hứ hừ. Ngày trước em đã theo đuổi những món ăn tăng cường thể lực tối thượng và không ngừng khổ luyện để gia cố cơ thể mình...",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "ふっふっふ。かつて私は自らの肉体強化のために、\n究極のスタミナ料理を追い求め、研鑽を重ねました……。"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Thể chất ốm yếu chỉ là quá khứ. Bây giờ em là đỉnh cao của sức khỏe, tức là \"Bậc thầy sức khỏe\"! Hãy thưởng thức món ăn tinh túy nhất mang tên \"Suất cơm Kim Cương Bộc Nhục\" nhé!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "虚弱体質は過去の姿。今は健康オブ健康。即ち『健康を極めし者』！\nその集大成『爆肉金剛定食』を振る舞いましょうっ！"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"Phù oa! Khắp cơ thể tràn trề sức lực, cảm giác như mình vừa hóa thành đô con luôn rồi này!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『ふおお～！\n全身に力が漲って心なしかマッチョになってる気がする～！』"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Đường hô hấp cũng sẽ khỏe hơn và không lo bị ho sặc nữa! Y thực đồng nguyên, việc quản lý sức khỏe cứ giao hết cho em!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "さらに呼吸器も強くなってむせなくなります！\n医食同源、健康管理も全て私にお任せを！"
+    },
+    {
+      "name": "Trainer trong tưởng tượng",
+      "text": "\"Đỉnh quá Tsuyoshi ơi! Thật đáng tin cậy, Master Tsuyoshi!\"",
+      "jpname": "妄想の中のトレーナー",
+      "jptext": "『すごいぞツヨシ！　頼れるツヨシ！　マスター・ツヨシ～っ！』"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Một người đã tinh thông cả công việc lẫn chăm sóc sức khỏe như em thì không có điểm yếu nào hết! Vị trí \"Mã Nương đáng tin cậy nhất năm nay\" của Trainer-san chắc chắn thuộc về em rồi!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "仕事も健康支援もマスターした私に弱点はありませんっ！\nトレーナーさんの、『今年最も頼れるウマ娘』の座も盤石です！"
+    },
+    {
+      "name": "Master Tsuyoshi",
+      "text": "Hứ hứ hừ... A ha ha... A ha ha ha ha ha ha!!",
+      "jpname": "マスター・ツヨシ",
+      "jptext": "ふふふ……あはは……あーっはっはっはーーーっ！！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hì... hì hì... hì hì hì hì...♪",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "えへ……えへへ……えへへへへ……♪",
+      "choice_data_list": [
+        "... Ới ơi"
+      ],
+      "jpchoice_data_list": [
+        "……おーい"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hả á!?",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "へあっ！？"
+    },
+    {
+      "name": "",
+      "text": "Thấy em như đang để tâm trí trôi dạt tận đẩu đâu, tôi quơ quơ tay trước mặt và cất tiếng gọi vài lần.",
+      "jpname": "モノローグ",
+      "jptext": "心ここにあらずの様子だったので、手を目の前に\nかざしながら声を何度かかけてみた。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "K-Không sao đâu ạ, em nghe rồi! Em vẫn đang nghe đây!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "だ、大丈夫です、聞いてます！　聞こえてます！",
+      "choice_data_list": [
+        "Tốt rồi, thế thì anh chuẩn bị đi đây",
+        "Tốt rồi, thế thì tôi chuẩn bị đi đây"
+      ],
+      "jpchoice_data_list": [
+        "よかった、じゃあ俺はそろそろ行くから",
+        "よかった、じゃあ私はそろそろ行くから"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Dạ, em cảm ơn anh nhiều lắm ạ!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "あ、ありがとうございました！",
+      "choice_data_list": [
+        "Lần sau nếu có gì khó khăn thì anh sẽ lại giúp nhé"
+      ],
+      "jpchoice_data_list": [
+        "また何か困りごとがあったら力になるよ"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Vâng, em biết rồi ạ! Chúc anh một ngày tốt lành nha!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "はい、わかりました～っ！\nお疲れさまでした～っ！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "... ...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "……。\n…………。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hử? Lại... giúp ư?",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "ん？\n力に……なる？"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Khoan đã nào... Từ sáng sớm mình đã lên phố tìm sách, tìm mãi mà chẳng thấy đâu...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "えっと――\n朝から本を探しに街に出て、散々探して見つからなくて……。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Rồi tình cờ chạm mặt Trainer-san, được anh ấy giúp...",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "トレーナーさんとバッタリ会って、手伝ってもらっ――"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Rõ ràng là mình đang dựa dẫm vào người ta quá trời luôn mà! Lại được người ta giúp đỡ nữa rồi!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "めっちゃ頼ってるじゃん！　私が！\n力になってもらっちゃってるじゃん！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Nói đúng hơn thì rốt cuộc cả ngày hôm nay mình toàn nhờ vả người ta còn gì nữa!?",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "っていうか結局、1日頼りっぱなしだったじゃん！？"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Hức...! Con đường trở thành một Master Tsuyoshi đáng tin cậy còn xa xôi quá...!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "くぅ～っ！\n頼れるマスター・ツヨシへの道は遠い……！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Nhưng mình sẽ không bỏ cuộc đâu! Trong suốt mùa hè này mình sẽ trở thành master... chí ít cũng phải thành \"Master Tsuyoshi một chút\" mới được!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "でも諦めないぞ～っ！　この夏の間にはマスターに――\nせめて『ちょびっとマスター・ツヨシ』くらいにはなるんだー！"
+    },
+    {
+      "name": "",
+      "text": "Cảm nhận vị chua thanh lan tỏa trong khoang miệng, Tsurumaru Tsuyoshi hạ quyết tâm sẽ nỗ lực phấn đấu hết mình.",
+      "jpname": "モノローグ",
+      "jptext": "口に広がる酸味を噛みしめ、\n奮起を決意するツルマルツヨシであった。"
+    }
+  ]
+}

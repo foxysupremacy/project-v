@@ -1,0 +1,410 @@
+{
+  "title": "Nét gạch đỏ",
+  "jptitle": "引いた赤は",
+  "text_block_list": [
+    {
+      "name": "Nhân viên học viện",
+      "text": "Các Mã Nương tham gia cuộc đua thứ nhất vui lòng xếp hàng ở đây! Vì có người vắng mặt nên chúng ta sẽ bỏ qua số 5...!",
+      "jpname": "学園スタッフ",
+      "jptext": "第1レースに出走するウマ娘はこちらに並んでください！\n欠席者が出たので、5番は飛ばして――……。"
+    },
+    {
+      "name": "",
+      "text": "Hôm nay là \"Cuộc đua tuyển chọn\"! Đây là cơ hội vô cùng quan trọng đối với một Trainer để đánh giá thực lực của các Mã Nương và tuyển trạch!",
+      "jpname": "モノローグ",
+      "jptext": "今日は『選抜レース』！　ウマ娘の実力を見極め、スカウトする、\nトレーナーにとっては非常に重要な機会だ！",
+      "choice_data_list": [
+        "(Vả lại lần này có rất nhiều cô bé đáng chú ý!)"
+      ],
+      "jpchoice_data_list": [
+        "（それに今回は、注目すべき娘が多い！）"
+      ]
+    },
+    {
+      "name": "Các Trainer",
+      "text": "Tốt lắm, El Condor Pasa! Cơ bắp hai bên cân đối thật đấy. Cả King Halo, Mã Nương thế hệ thứ hai cũng xuất chiến sao? Rốt cuộc con gái của người mẹ ấy cũng...!",
+      "jpname": "トレーナーたち",
+      "jptext": "いいわ、エルコンドルパサー！　左右の筋肉バランスも整ってる。\n2世ウマ娘のキングヘイローも出走か。ついにあの母親の娘が……！",
+      "choice_data_list": [
+        "(Hiểu mà! Mình cũng muốn bắt chuyện với hai người họ...)"
+      ],
+      "jpchoice_data_list": [
+        "（わかる！その2人にも声かけたいし……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Special Week chỉ vừa mới chuyển trường đến nhưng những cú nước rút cuối đã nổi đình nổi đám. Grass Wonder toát ra phong thái đĩnh đạc ngay từ trước khi ra mắt cũng được đánh giá rất cao.",
+      "jpname": "モノローグ",
+      "jptext": "転入してきたばかりだが、すでに末脚が評判のスペシャルウィーク。\nデビュー前から風格漂うグラスワンダーだって評価が高い。"
+    },
+    {
+      "name": "",
+      "text": "Thêm vào đó, ngay cả Seiun Sky đến đây quan sát cũng là một nhân tố đáng lưu tâm. Dù sao đi nữa, không thể bỏ lỡ màn chạy của bất kỳ ai. Tôi vô thức căng thẳng cả người...!",
+      "jpname": "モノローグ",
+      "jptext": "それに見学に来ているセイウンスカイだって気になる存在だ。\nとにかく誰の走りも見逃せない。自然と肩の力も入り――！"
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "N... này, em ơi!",
+      "jpname": "先輩トレーナー",
+      "jptext": "お……おい、君！",
+      "choice_data_list": [
+        "Vâng ạ?"
+      ],
+      "jpchoice_data_list": [
+        "はい？"
+      ]
+    },
+    {
+      "name": "Trainer tiền bối",
+      "text": "M... mũi...! M... Máu!!",
+      "jpname": "先輩トレーナー",
+      "jptext": "は、鼻……！　ち！　血！！",
+      "choice_data_list": [
+        "Hả?... Oái!?"
+      ],
+      "jpchoice_data_list": [
+        "え？……うわ！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Khi tôi chạm ngón tay xuống dưới mũi, một chất lỏng bóng nhẫy như mực dính vào tay. Dù không hề đau đớn, nhưng mùi tanh kim loại và cảm giác có thứ gì đó không ngừng nhỏ giọt vẫn tiếp diễn.",
+      "jpname": "モノローグ",
+      "jptext": "鼻の下に指を当てると、てらてらとインクのような液体がつく。\n痛みはないのに、鉄のにおいと何かが垂れる感覚がとまらない。"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Khoan đã... phòng y tế! Đến đó mau! Tôi đưa khăn cho này! Lấy cái này bịt lại đi!",
+      "jpname": "中堅トレーナー",
+      "jptext": "ちょ……保健室！　行って！\nタオルあげるから！　これで押さえて！"
+    },
+    {
+      "name": "Giáo viên phòng y tế",
+      "text": "Được rồi, máu ngừng chảy rồi nhé. Nhưng làm phiền em phải nghỉ ngơi tĩnh dưỡng trong 30 phút đấy. ... Ấy, a... có cuộc gọi khẩn cấp. ... Hừm...",
+      "jpname": "保健室の先生",
+      "jptext": "うん、血は止まりましたね。けれど30分は安静でお願いしますよ。\n…………と、あ～……緊急呼び出しだ。……んー……。"
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Dạ! Em đang rảnh rỗi này! Để em ở lại chăm sóc cho người này nhé?",
+      "jpname": "ウマ娘の少女",
+      "jptext": "あのっ。私、手空いてます！\nこの方の付き添いしてましょうかっ？"
+    },
+    {
+      "name": "Giáo viên phòng y tế",
+      "text": "May quá, nhờ em nhé? Có chuyện gì thì liên lạc ngay với cô. ... Trainer-san vẫn phải \"tĩnh dưỡng\" đấy nhé?",
+      "jpname": "保健室の先生",
+      "jptext": "助かる、頼んでいい？　何かあったら連絡して。\n……トレーナーさんはまだ“安静”ですからね？",
+      "choice_data_list": [
+        "... V-Vâng"
+      ],
+      "jpchoice_data_list": [
+        "……はひ"
+      ]
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Nếu có gì khó khăn, anh cứ thoải mái nói nhé! Đừng ngần ngại gì cả ạ!",
+      "jpname": "ウマ娘の少女",
+      "jptext": "困ったことがあれば、ドシドシ言ってください！\n遠慮せずにどうぞ！"
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Cơ mà đúng là tai nạn bất ngờ thật đấy. Ai lại bị chảy máu cam ngay trước Cuộc đua tuyển chọn chứ.",
+      "jpname": "ウマ娘の少女",
+      "jptext": "にしても災難でしたね。\n選抜レース直前に鼻血だなんて。",
+      "choice_data_list": [
+        "Haha... Thật sự luôn..."
+      ],
+      "jpchoice_data_list": [
+        "あはは……本当に……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đã một lúc trôi qua kể từ khi được sơ cứu xong. Ngay trong lúc này, chắc hẳn Cuộc đua tuyển chọn vẫn đang diễn ra. Giờ này không biết nhóm nào đang chạy rồi nhỉ.",
+      "jpname": "モノローグ",
+      "jptext": "処置が終わってからしばらく経つ。こうしている間にも、\n選抜レースは進んでいるはずだ。今頃どの組が走っているのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Nếu được thì tôi muốn ở lại chỗ đó. Nhưng nếu vừa xem vừa chảy máu cam thì chỉ khiến mọi người xung quanh thêm lo lắng mà thôi.",
+      "jpname": "モノローグ",
+      "jptext": "できればあの場に留まりたかった。\nだが鼻血を出しながら観ていても、周りの人を不安にさせるだけだ。",
+      "choice_data_list": [
+        "(Nên đành chịu thôi vậy...)",
+        "(Nên đành chịu vậy thôi...)"
+      ],
+      "jpchoice_data_list": [
+        "（だから仕方ないよなぁ……）",
+        "（だから仕方ないよねぇ……）"
+      ]
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "À, em gom hành lý để gọn ở đây nhé! Hành lý của Trainer-san là... đây rồi.",
+      "jpname": "ウマ娘の少女",
+      "jptext": "あのっ、荷物はここにまとめておきますね！\nトレーナーさんの荷物は～……っと。"
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "... Oa.",
+      "jpname": "ウマ娘の少女",
+      "jptext": "――わ。"
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Ghi chú nhiều thật đấy... Đây là tài liệu về Cuộc đua tuyển chọn đúng không ạ!? Đánh dấu đỏ chi chít luôn... Cả thời gian nước rút của El-chan cũng được ghi lại này!",
+      "jpname": "ウマ娘の少女",
+      "jptext": "すごい書き込み……これ、選抜レースの資料ですよね！？\n赤印もいっぱい……エルちゃんの上りタイムもメモしてる！"
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Oa...!",
+      "jpname": "ウマ娘の少女",
+      "jptext": "うわ～……っ！",
+      "choice_data_list": [
+        "Đ-Đó không phải thứ để chăm chú nhìn như thế đâu..."
+      ],
+      "jpchoice_data_list": [
+        "そ、そんなまじまじと見るものじゃ……"
+      ]
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "! Đúng vậy nhỉ! Đây là minh chứng cho sự nỗ lực của Trainer-san mà. Kiểu như bí mật kinh doanh ấy đúng không!? Tsuyoshi sẽ quên ngay trong một nốt nhạc ạ!",
+      "jpname": "ウマ娘の少女",
+      "jptext": "！　ですよね！　これはトレーナーさんの努力の証で。\n企業秘密的なアレですよね！？　ツヨシ、一瞬で忘れます！",
+      "choice_data_list": [
+        "Không không, ý anh là nó chẳng có gì to tát đâu"
+      ],
+      "jpchoice_data_list": [
+        "いやいや、大したものじゃないって話で"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Cái này mà không to tát á!? Hảảả...!? Hảảả...!!??",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "これがぁ！？　えぇぇ～……っ！？　えええ～…………！！？？"
+    },
+    {
+      "name": "",
+      "text": "Vừa cười trừ trước đôi mắt mở to của cô bé, tôi vừa nhận lại tập tài liệu. Một lính mới như tôi còn thua kém các tiền bối rất nhiều điều, vậy mà...",
+      "jpname": "モノローグ",
+      "jptext": "目を大きくする彼女に苦笑しながら、書類を返してもらう。\n新人の自分は、先輩方より至らないところばかりなのだが……。"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Nhưng mà, không chỉ nhóm King-chan mà đến cả nhóm Spe-chan anh cũng đã kiểm tra kỹ lưỡng, em thấy anh đỉnh thật đấy!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "でもでもキングちゃんたちだけじゃなくて、\nスペちゃんたちもチェック済なのは、さすがだと思うんですよ！"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Spe-chan thì chỉ vừa mới chuyển đến! Còn mẩu ghi chú về Sei-chan ở góc này nữa... chuẩn xác ghê!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "スペちゃんは転入してきたばっかりだし！\nこの隅っこにあるセイちゃんへのメモ書きも～……的確！"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "\"Cuộc đua nào Seiun Sky đến xem thì cần phải theo dõi kỹ\"... Quá đúng luôn! Sei-chan nhạy bén lắm đó ạ! Bạn ấy đoán đề thi cũng siêu chuẩn luôn cơ!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "“セイウンスカイが見学するレースは要チェック”――その通り！\nセイちゃんは実に鋭くて！　テストのヤマ張るのも上手なんですよ！",
+      "choice_data_list": [
+        "Haha, em hiểu rõ về các cô bé ấy ghê nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "あはは、随分彼女たちに詳しいんだね"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Đương nhiên rồi ạ! Hì hì, anh có muốn nghe chuyện khác nữa không? Grass-chan bắt đuôi của El-chan giỏi lắm luôn á...",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "そりゃあもう！　へへっ、ほかの話も聞きたいです？\nグラスちゃんはエルちゃんの尻尾を掴むのがうまくって～……。"
+    },
+    {
+      "name": "",
+      "text": "Cô bé hào hứng kể về các Mã Nương chắc chắn sẽ trở thành đại diện cho thế hệ này. Rồi chủ đề chuyển sang Cuộc đua tuyển chọn mà tôi đã lỡ mất cơ hội theo dõi...",
+      "jpname": "モノローグ",
+      "jptext": "今世代の代表となるだろうウマ娘たちのことを、自慢げに話す彼女。\nそして話題は、観ることが叶わなかった選抜レースの話となり――"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Em nghĩ chắc là Spe-chan sẽ chạy một cách thanh thoát lắm. Phía trước bạn ấy là El-chan đầy uy lực lao lên dẫn đầu...",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "たぶんスペちゃんは伸びやかに走ると思うんです。\nその前を先行でパワフルなエルちゃんが突き進んで……。",
+      "choice_data_list": [
+        "Phía sau thì Grass Wonder đuổi theo sát nút!"
+      ],
+      "jpchoice_data_list": [
+        "後ろからグラスワンダーが追ってきて！"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Chuẩn luôn ạ! King-chan cũng sẽ tấn công tương tự! Ra đến đường thẳng là bứt phá! Tất cả mọi người! Sẽ cùng bung hết nước rút cuối để phân thắng bại!!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "わっかります！　キングちゃんも同じように攻めて！\n直線で仕掛ける！　全員！　一気に末脚勝負です！！",
+      "choice_data_list": [
+        "Oa! Trận đấu như thế, anh muốn xem quá đi mất!!"
+      ],
+      "jpchoice_data_list": [
+        "うわ～！そんなレース、観たかった～～！！"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "... A. Oa oa oa, em xin lỗi anh ạ! Chỉ vì em nói chuyện bao đồng mà lại khiến anh thấy tiếc nuối...",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "…………あ。うわああああ～～っ、すみませんっ！\n私が余計な話したせいで、また残念な気持ちに――！",
+      "choice_data_list": [
+        "(... Hửm?)"
+      ],
+      "jpchoice_data_list": [
+        "（……ん？）"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "K-Không sao đâu ạ! Dù không phải đợt tuyển chọn, chắc chắn anh vẫn sẽ có cơ hội xem thôi! Mọi người ai cũng yêu việc chạy đua cả mà!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "だっ、大丈夫ですっ！　選抜じゃなくても、\n観る機会はきっとあります！　みんな走るの大好きですからっ！"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Ngay ngày mai có khi lại có trận đua ngẫu hứng cũng nên! Chuyện đó xảy ra thường xuyên lắm! Thế nên là...!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "明日にも野良レースしたりするかもです！\nそういうの、よくあるんで！　だから――！",
+      "choice_data_list": [
+        "...! Không sao không sao, anh không còn buồn nữa đâu"
+      ],
+      "jpchoice_data_list": [
+        "……！大丈夫大丈夫、もう落ち込んでないよ"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "... Thật không ạ? Nỗi buồn vì không đi xem được có bùng lên lại không...",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "……本当、です？\n行けなかった悲しみが再燃してたりは……。",
+      "choice_data_list": [
+        "Không hề! Hoàn toàn không!"
+      ],
+      "jpchoice_data_list": [
+        "してない！全然！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Điều nảy nở qua cuộc trò chuyện với cô bé là niềm háo hức chứ không phải sự tiếc nuối. Khi tôi giải thích như vậy, cô bé trước mắt mỉm cười bẽn lẽn như hoa nở.",
+      "jpname": "モノローグ",
+      "jptext": "彼女との会話で湧いたのは、悲しみよりも楽しみのほうだ。\nそう説明すると、目の前の彼女は花咲くようにはにかんだ。"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Phù... Thế thì tốt quá rồi ạ! Hì hì... nhẹ cả người.",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "ほ……ならよかったです！\nえへへ……よかったぁ～。",
+      "choice_data_list": [
+        "A... Nhắc mới nhớ, anh có thể hỏi tên em được không?"
+      ],
+      "jpchoice_data_list": [
+        "あ……そういえば名前を聞いていいかな？"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "...? Tên của em ạ?",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "……？　私の名前、ですか？",
+      "choice_data_list": [
+        "Ừ, anh nghĩ đây cũng là một cái duyên"
+      ],
+      "jpchoice_data_list": [
+        "うん、これも何かの縁かもと思って"
+      ]
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "...! Nếu vậy thì!!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "――！　それならっ！！"
+    },
+    {
+      "name": "Mã Nương tên Tsuyoshi",
+      "text": "Trong tài liệu anh cầm cũng có đấy ạ! Cuộc đua thứ nhất, nhìn này... Tsurumaru Tsuyoshi!",
+      "jpname": "ツヨシというウマ娘",
+      "jptext": "お持ちの資料にも載ってますよ！\n第1レースの、ほら――ツルマルツヨシって！",
+      "choice_data_list": [
+        "... Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……えっ？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi cúi nhìn vào tập tài liệu trên tay. Ngay trên cái tên ở cuộc đua thứ nhất ấy...",
+      "jpname": "モノローグ",
+      "jptext": "手元にある資料に目を落とす。\n第1レースのその名前には――"
+    },
+    {
+      "name": "",
+      "text": "... Có một nét gạch ngang màu đỏ biểu thị việc hủy xuất chiến.",
+      "jpname": "モノローグ",
+      "jptext": "――出走取り消しを示す、赤い一本線が引かれていた。"
+    },
+    {
+      "name": "Nhân viên học viện",
+      "text": "Các Mã Nương tham gia cuộc đua thứ nhất vui lòng xếp hàng ở đây! Vì có người vắng mặt nên chúng ta sẽ bỏ qua số 5...!",
+      "jpname": "学園スタッフ",
+      "jptext": "第1レースに出走するウマ娘はこちらに並んでください！\n欠席者が出たので、5番は飛ばして――……。",
+      "choice_data_list": [
+        "Không lẽ, số 5... Người vắng mặt là...?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、5番の。欠席者の……？"
+      ]
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Haha... Em cũng muốn chạy lắm chứ... nhưng chân bị đau. Bác sĩ yêu cầu dừng lại ạ.",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "あはは……出走したかったんですけど……\n脚に痛みがあって。ドクターストップで。",
+      "choice_data_list": [
+        "A... ừm..."
+      ],
+      "jpchoice_data_list": [
+        "あ……っと……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Cuộc đua tuyển chọn\" là cơ hội lớn cho các Trainer muốn tuyển trạch. Và đối với các Mã Nương mong mỏi được tuyển chọn, nó lại càng, càng quan trọng hơn thế gấp bội...",
+      "jpname": "モノローグ",
+      "jptext": "『選抜レース』はスカウトしたいトレーナーにとっての大事な機会。\nそしてスカウトされたいウマ娘にとっては、さらに、もっと――"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Nhưng mà! Đây đâu phải là lần cuối cùng đâu ạ! Dù chặng đường chạm đến màn ra mắt có xa xôi hơn, em cũng nhất định không bỏ cuộc!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "でも！　これで最後じゃありませんから！\nデビューへの道のりが遠くなっても、諦めませんよっ！"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Dù có lỡ bao nhiêu cơ hội đi chăng nữa. Dù các bạn xung quanh có xuất sắc đến đâu.",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "何度機会を逃しても。\nいくら周りの子がすごくっても。"
+    },
+    {
+      "name": "Tsurumaru Tsuyoshi",
+      "text": "Em nhất định sẽ trở thành một gương mặt sáng giá lọt vào mắt xanh của một người như anh!",
+      "jpname": "ツルマルツヨシ",
+      "jptext": "アナタみたいな人の目に留まるくらい、注目株になりますから！"
+    }
+  ]
+}
