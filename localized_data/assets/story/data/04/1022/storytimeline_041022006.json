@@ -1,0 +1,458 @@
+{
+  "title": "Mái ấm thân thương",
+  "jptitle": "Home sweet home.",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày nghỉ. Với tư cách là người giám hộ của Fine Motion, hai chúng tôi cùng nhau tới một ngọn núi cách khá xa học viện.",
+      "jpname": "モノローグ",
+      "jptext": "休日。ファインモーションに保護者として付き、\n2人で学園を遠く離れた山までやってきた。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Phù... hà! Ừm, không khí trong rừng quả nhiên trong lành thật đấy! Làm em nhớ tới mùi sương sớm trong khu vườn ở quê nhà ghê.",
+      "jpname": "ファインモーション",
+      "jptext": "ふ～……は～！　う～ん、やっぱり森は空気が爽やかだね！\n庭園の朝露の匂いを思い出すな～。"
+    },
+    {
+      "name": "Đội trưởng SP qua điện thoại",
+      "text": "\"...Vậy thưa ngài Trainer. Dù làm phiền ngài, nhưng xin trăm sự nhờ ngài trông nom Điện hạ chu toàn giúp tôi.\"",
+      "jpname": "電話越しのSP隊長",
+      "jptext": "『……ではトレーナー様。恐れ入りますが、\n殿下のこと、くれぐれもお願いいたします』",
+      "choice_data_list": [
+        "Cứ giao cho tôi"
+      ],
+      "jpchoice_data_list": [
+        "任せてください"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi hi, cảm ơn anh nhé Trainer. Chính nhờ đi cùng anh nên em mới có thể tới được nơi này, và có được khoảng thời gian thảnh thơi thế này nhỉ.",
+      "jpname": "ファインモーション",
+      "jptext": "ふふふ、ありがとうトレーナー。\nキミと一緒だからこそ来られた場所、作れた時間、だよね。",
+      "choice_data_list": [
+        "Nhân tiện thì, đích đến hôm nay của chúng ta là đâu vậy?"
+      ],
+      "jpchoice_data_list": [
+        "ちなみに、今日の目的地は？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ồ, anh hỏi đúng điểm rồi đó! Hi hi hi, hôm nay ấy mà--",
+      "jpname": "ファインモーション",
+      "jptext": "おっ、いいことを聞いてくれたね？\nふふふ、今日はね～――"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...thật ra em chẳng quyết định điểm đến cụ thể nào cả! Em chỉ nghĩ rằng nếu được cùng anh rảo bước giữa thiên nhiên tươi đẹp thế này thì tuyệt biết bao.",
+      "jpname": "ファインモーション",
+      "jptext": "……特に、決めてないの！　ただ、こういう自然豊かなところを\nキミと歩けたら素敵だな～、と思って。",
+      "choice_data_list": [
+        "Hóa ra là vậy à",
+        "Hóa ra là vậy sao"
+      ],
+      "jpchoice_data_list": [
+        "そうだったのか",
+        "そうだったんだ"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mà, dẫu vậy... anh biết đấy? Biết đâu chừng, sẽ có điều gì đó đặc biệt xảy ra thì sao.",
+      "jpname": "ファインモーション",
+      "jptext": "まぁ、でも……ね？\nもしかしたら、何か特別なことが起きたりするかもしれないけど。"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như em ấy đang giấu giếm điều gì đó, nhưng tôi tạm gác lại qua một bên, cứ thế cùng Fine Motion thong thả cất bước dọc theo con đường mòn--",
+      "jpname": "モノローグ",
+      "jptext": "やはり何か隠しているようだが、ひとまず置いておいて、\nファインモーションと共に道をひたすら歩き――"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Phù, cảm ơn vì bữa ăn♪ Hừm, em tự thấy hộp cơm bento mì tsukemen đặc chế lần này của mình có chất lượng khá đỉnh đấy chứ.",
+      "jpname": "ファインモーション",
+      "jptext": "――ふ～、ごちそうさまでした♪　う～ん、我ながら\n今回の特製つけ麺弁当はなかなかのクオリティだったかな。",
+      "choice_data_list": [
+        "Mình cũng đã đi được một quãng khá xa rồi nhỉ...",
+        "Chúng ta cũng đã đi được một quãng khá xa rồi nhỉ..."
+      ],
+      "jpchoice_data_list": [
+        "もうだいぶ歩いたな……",
+        "もうだいぶ歩いたね……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Đúng thế thật. Thứ âm thanh duy nhất nghe được lúc này chỉ là tiếng suối róc rách cùng tiếng chim muông côn trùng rả rích... Cảm giác như chúng ta vừa lạc vào một thế giới huyền bí nào đó vậy.",
+      "jpname": "ファインモーション",
+      "jptext": "そうだね。聞こえるのは小川のせせらぎと鳥と虫の声だけ……\n不思議な世界に来ちゃった気分かも。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Tự dưng em nhớ lại câu chuyện cổ tích từng được kể cho nghe hồi nhỏ ghê. Cảnh dũng giả giải cứu nàng công chúa bị bắt cóc rồi băng qua khu rừng...",
+      "jpname": "ファインモーション",
+      "jptext": "……なんだか、小さい頃に読んでもらったお話を思い出したよ。\n勇者さまが、さらわれた姫を救い出して森を進むシーン……。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Và rồi một con rồng hung tợn đột nhiên lao ra tấn công nhằm đoạt lại công chúa. Ngay giữa chốn rừng sâu hun hút y hệt như thế này này.",
+      "jpname": "ファインモーション",
+      "jptext": "そして恐ろしいドラゴンが、姫を取り戻そうと突然襲ってくるの。\nちょうどこんな森の奥深くで、ね。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Hi hi. Không hiểu sao em lại có cảm giác như rồng sắp xuất hiện thật ấy.",
+      "jpname": "ファインモーション",
+      "jptext": "……ふふ。なんか、本当にドラゴンが現れそうな気がしてきたかも。",
+      "choice_data_list": [
+        "Làm gì có chuyện đó..."
+      ],
+      "jpchoice_data_list": [
+        "いや、まさか……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Nhưng mà--nếu như, chỉ là ví dụ thôi nhé? Nếu chuyện đó xảy ra thật... liệu anh có... bảo vệ em không?",
+      "jpname": "ファインモーション",
+      "jptext": "でも――もし、だよ？　もしそうなったら……\n私のこと、守ってくれる……かな？",
+      "choice_data_list": [
+        "Nếu nó xuất hiện thật thì anh sẽ bảo vệ em",
+        "Nếu nó xuất hiện thật thì tôi sẽ bảo vệ bạn"
+      ],
+      "jpchoice_data_list": [
+        "もし出てきたらな",
+        "もし出てきたらね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Thật sao!? Em vui quá đi mất! A, tự dưng em lại muốn có rồng xuất hiện thật ghê đó--",
+      "jpname": "ファインモーション",
+      "jptext": "本当！？　嬉しいな～！　ああ、なんだか\n本当にドラゴンが出てきてほしくなったかも～――"
+    },
+    {
+      "name": "???",
+      "text": "(O O O O O N G...!)",
+      "jpname": "？？？",
+      "jptext": "（オォォォォォォォン……！）",
+      "choice_data_list": [
+        "C-Cái quái gì thế!?",
+        "C-Cái gì thế!?"
+      ],
+      "jpchoice_data_list": [
+        "なっ、なんだ！？",
+        "なっ、なに！？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--A! Nhìn kìa nhìn kìa, Trainer! Từ dưới dòng sông...!",
+      "jpname": "ファインモーション",
+      "jptext": "――あっ！　見て見て、トレーナー！\n川の中から……！"
+    },
+    {
+      "name": "Rồng",
+      "text": "GÀOOOOOOOO!!!!",
+      "jpname": "ドラゴン",
+      "jptext": "がぉぉぉぉぉぉぉぉ！！！！"
+    },
+    {
+      "name": "",
+      "text": "Thứ vừa trồi lên từ mặt nước... đứng bằng hai chân như mô hình phục dựng khủng long bạo chúa thời xưa, với đôi cánh đung đưa kỳ quặc--",
+      "jpname": "モノローグ",
+      "jptext": "水中から現れたのは……ティラノサウルスの古い復元図のごとく\n2本足で立ち、妙にぷらぷらした翼を持つ――"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Chính là một con rồng!! Oa oa, nó đang lao về phía này kìa!",
+      "jpname": "ファインモーション",
+      "jptext": "――ドラゴンだっ！！\nわわっ、こっちに向かってくるよ！",
+      "choice_data_list": [
+        "...H-Hảảả?"
+      ],
+      "jpchoice_data_list": [
+        "……え、えぇ？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có gì đó trông hơi mất tự nhiên, nói đúng hơn là lộ liễu đến mức gượng gạo... Nó còn bắt chéo hai tay rồi tạo dáng nữa chứ...",
+      "jpname": "モノローグ",
+      "jptext": "何か、動きが不自然というかわざとらしい気もするが……\n腕をクロスさせた後ポーズを取ったり……。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "A a, cứ đà này, cứ đà này thì... em sẽ bị nó xơi tái mất thôi!!",
+      "jpname": "ファインモーション",
+      "jptext": "ああ、このままじゃ、このままじゃ……\n美味しくいただかれちゃう！！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Huhu, liệu có vị dũng giả nào ở đây đứng ra tiêu diệt con rồng hung tợn này giúp em không...?",
+      "jpname": "ファインモーション",
+      "jptext": "うう、どなたか、恐ろしいドラゴンを\n退治してくださる勇者さまはいらっしゃらないかしら……？",
+      "choice_data_list": [
+        "...K-Không còn cách nào khác rồi, phải lên thôi!"
+      ],
+      "jpchoice_data_list": [
+        "……も、もうやるしかない！"
+      ]
+    },
+    {
+      "name": "Rồng",
+      "text": "GRÀOOOOOO!!!!",
+      "jpname": "ドラゴン",
+      "jptext": "ぐぉぉぉ～～！！！！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Cố lên, hỡi chàng dũng giả! Vinh quang chiến thắng đang nằm trong tay chàng đó!",
+      "jpname": "ファインモーション",
+      "jptext": "頑張って、勇者さま！\n勝利の栄光はキミの手にっ！"
+    },
+    {
+      "name": "",
+      "text": "Và rồi... một cuộc giằng co chẳng rõ là quyết liệt hay không quyết liệt kéo dài độ năm mười phút đồng hồ--!",
+      "jpname": "モノローグ",
+      "jptext": "そして……激しいんだか激しくないんだか、\nどちらともつかないもみ合いが、5分か10分かそこら続き――！"
+    },
+    {
+      "name": "Rồng",
+      "text": "Grào o o...!! Ta... bị đánh bại rồi...!!",
+      "jpname": "ドラゴン",
+      "jptext": "ぐぉぉぉぉぉ……！！　やられ、た～……！！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tuyệt đỉnh! Một trận chiến quá đỗi mãn nhãn, Trainer ơi!",
+      "jpname": "ファインモーション",
+      "jptext": "お見事！　すごい戦いだったよ、トレーナー！"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng ngay lúc ấy. Con rồng ngỡ như đã bị hạ gục liền đứng dậy, từ tốn tháo phần đầu ra... tháo phần đầu ra?",
+      "jpname": "モノローグ",
+      "jptext": "が、その時。倒したはずのドラゴンが立ち上がり、\nおもむろに頭を脱ぎ……頭を脱ぎ？"
+    },
+    {
+      "name": "Đội trưởng SP",
+      "text": "Hư hư hư... Xin chúc mừng ngài.",
+      "jpname": "SP隊長",
+      "jptext": "フフフ……Congratulations.",
+      "choice_data_list": [
+        "...C-Cái quái gì thế này...?",
+        "...C-Cái gì thế này...?"
+      ],
+      "jpchoice_data_list": [
+        "……な、なんだ？これ……",
+        "……な、何？これ……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi... Một, hai, ba nào!",
+      "jpname": "ファインモーション",
+      "jptext": "ふふ……せ～のっ！"
+    },
+    {
+      "name": "Fine & Đội trưởng",
+      "text": "Bất ngờ chưa nào!!",
+      "jpname": "ファイン＆隊長",
+      "jptext": "ドッキリでした～！！"
+    },
+    {
+      "name": "",
+      "text": "...Biết ngay mà, thảo nào.",
+      "jpname": "モノローグ",
+      "jptext": "……まあ、それはそうだろう。",
+      "choice_data_list": [
+        "Sao hai người lại bày ra trò này chứ..."
+      ],
+      "jpchoice_data_list": [
+        "どうしてこんなことを……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi hi... Hôm trước chúng ta đã cùng nhau đưa chú mèo đi lạc về tận nhà, anh còn nhớ chứ?",
+      "jpname": "ファインモーション",
+      "jptext": "ふふふ……この間、一緒に迷い猫さんをおうちまで\n送り届けたことがあったでしょう？"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Lúc đó, em đã nghĩ rằng những bất ngờ nho nhỏ thật là tuyệt vời. Thế nên hôm nay em mới chuẩn bị một màn kịch thế này đấy!",
+      "jpname": "ファインモーション",
+      "jptext": "あの時、ちょっとしたサプライズって、とっても素敵だなと\n思ってね。今日はこんな感じで用意してみましたっ！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Anh thấy thế nào ạ? Màn chơi khăm bất ngờ của bọn em ấy?",
+      "jpname": "ファインモーション",
+      "jptext": "……どうだったかな？　私たちのサプライズドッキリは？",
+      "choice_data_list": [
+        "Tuy có hơi giật mình, nhưng mà... cũng vui lắm"
+      ],
+      "jpchoice_data_list": [
+        "驚いたけど、まあ……楽しかったよ"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "May quá! Vậy là công sức bọn em tập dượt bao nhiêu lần ở học viện không uổng phí rồi♪",
+      "jpname": "ファインモーション",
+      "jptext": "よかった！　学園でリハーサルを重ねたかいがあったよ～♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Với lại, anh cũng đã giữ đúng lời hứa rồi nhé. Rằng nếu có rồng xuất hiện, anh sẽ bảo vệ em.",
+      "jpname": "ファインモーション",
+      "jptext": "それに、ちゃんと約束も守ってくれたね。\nドラゴンが出たら、守ってくれるって。",
+      "choice_data_list": [
+        "Thì anh đã hứa rồi mà",
+        "Thì tôi đã hứa rồi mà"
+      ],
+      "jpchoice_data_list": [
+        "まぁな",
+        "まぁね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Hi hi, cảm ơn anh nhé.",
+      "jpname": "ファインモーション",
+      "jptext": "……ふふ、ありがとう。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, cả ba chúng tôi tiếp tục rảo bước cùng nhau... và sau khi thưởng ngoạn phong cảnh ngút ngàn từ trên đỉnh núi, chúng tôi liền lên đường trở về.",
+      "jpname": "モノローグ",
+      "jptext": "そして、その後も3人で歩き続け……\n山頂からの眺めを楽しんだあと、帰路についたのだった。"
+    },
+    {
+      "name": "Chủ quán Menya Gokugoku",
+      "text": "--Ồ, chào cô bé. Lại món quen thuộc như mọi khi nhé?",
+      "jpname": "『麺屋極極』店主",
+      "jptext": "――おお、姉ちゃんいらっしゃい。\nいつものでいいかい？"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Vâng ạ. Làm phiền bác nhé.",
+      "jpname": "ファインモーション",
+      "jptext": "ええ。お願いいたしますわ。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Phù... Cảm giác đúng là đã trở về rồi nhỉ. Cả hai người hôm nay vất vả nhiều rồi ạ.",
+      "jpname": "ファインモーション",
+      "jptext": "ふぅ……なんだか、帰ってきたなぁって感じだね。\n2人とも、今日はお疲れさまでした。",
+      "choice_data_list": [
+        "Dù sao thì anh em mình cũng vừa chiến đấu một trận ra trò mà...",
+        "Dù sao thì hôm nay chúng ta cũng vừa chiến đấu một trận ra trò mà..."
+      ],
+      "jpchoice_data_list": [
+        "まぁ、戦ったしな……",
+        "まぁ、戦ったしね……"
+      ]
+    },
+    {
+      "name": "Đội trưởng SP",
+      "text": "Hừm... Với tôi thì chuyện này đã quá đỗi quen thuộc rồi. Vai rồng của tôi từng được Điện hạ ban tặng huân chương tự làm cơ đấy.",
+      "jpname": "SP隊長",
+      "jptext": "ふ……私にとっては慣れたものです。私のドラゴン役は、\nかつて殿下から手製の勲章を賜ったこともありますので。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi, chuyện xưa thật hoài niệm. Hình như là \"Huân chương đóng vai rồng xuất sắc\" thì phải. Em làm nó từ hoa, cành cây và cỏ ba lá...",
+      "jpname": "ファインモーション",
+      "jptext": "ふふ、懐かしいお話ですね。確か『ドラゴン役頑張ったで章』、\nだったかしら。花と木とクローバーで作った……。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Phải rồi! Thế thì em cũng phải chuẩn bị phần thưởng cho Trainer mới được. Ừm, \"Huân chương Thập Tự Đồ Long\" thì sao anh nhỉ?",
+      "jpname": "ファインモーション",
+      "jptext": "そうだ。それならトレーナーにも何か用意しないとだね。\nえーと、『ドラゴンスレイヤー十字章』とかどうかな？",
+      "choice_data_list": [
+        "T-Thế thì còn gì bằng nữa",
+        "T-Thế thì còn gì bằng nữa nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "い、いいんじゃないか？",
+        "い、いいんじゃないかな？"
+      ]
+    },
+    {
+      "name": "Đội trưởng SP",
+      "text": "Chúc mừng ngài. Cơ mà dẫu sao thì cũng khó lòng sánh kịp với vinh dự sở hữu \"Huân chương diễn xuất phù thủy xuất thần\" và \"Huân chương thủ vai tòa thành thần thánh\" của tôi đâu...",
+      "jpname": "SP隊長",
+      "jptext": "おめでとうございます。まぁ『魔女熱演勲章』『聖お城役勲章』を\n持つ、この私の栄誉には少し届かないかもしれませんが……。"
+    },
+    {
+      "name": "Chủ quán Menya Gokugoku",
+      "text": "--Có ngay đây! Ba tô ramen muối thanh đạm, cỡ lớn nhé.",
+      "jpname": "『麺屋極極』店主",
+      "jptext": "――はいよ。淡麗塩3つ、大盛りね。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Ơ kìa!? Cháu nhớ là mình đâu có gọi thêm măng khô với bắp ngọt đâu bác...",
+      "jpname": "ファインモーション",
+      "jptext": "……あれっ！？　メンマとコーンのトッピング、\n注文していなかったと思いましたが……。"
+    },
+    {
+      "name": "Chủ quán Menya Gokugoku",
+      "text": "Đã là \"món quen thuộc\" của cô bé thì phải có mấy thứ này chứ. Hôm nay bác khuyến mãi thêm đấy, cứ ăn tự nhiên đi.",
+      "jpname": "『麺屋極極』店主",
+      "jptext": "姉ちゃんの『いつもの』って言ったらこれだろ。\n今日はサービスにしておくから食いな。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "! Cháu cảm ơn bác rất nhiều ạ! Vậy thì cháu xin phép thưởng thức đây.",
+      "jpname": "ファインモーション",
+      "jptext": "！　ありがとうございます！\nそれでは、美味しくいただきますね。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...\"Món quen thuộc\" sao. Không phải điều gì đặc biệt, mà là những thứ bình dị thường ngày.",
+      "jpname": "ファインモーション",
+      "jptext": "……“いつもの”か。特別じゃない、いつも通り。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Hi hi. Tự lúc nào, việc cùng ăn mì ramen thế này, hay chuyện rôm rả trò chuyện cùng mọi người, đã trở thành \"điều bình dị thường ngày\" mất rồi.",
+      "jpname": "ファインモーション",
+      "jptext": "――ふふ。いつの間にか、こうしてラーメンを食べるのも、\nみんなとおしゃべりするのも、“いつもの”ことになってきたね。",
+      "choice_data_list": [
+        "Đúng là như vậy thật",
+        "Đúng là như vậy thật nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "確かにそうだな",
+        "確かにそうだね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Đối với em, có lẽ điều ấy lại chính là--",
+      "jpname": "ファインモーション",
+      "jptext": "……私にとっては、もしかしたらそれが――",
+      "choice_data_list": [
+        "Có chuyện gì thế em?",
+        "Có chuyện gì thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうした？",
+        "どうしたの？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Dạ không, chẳng có gì đâu ạ. --Hôm nay thực sự là một ngày vô cùng vui vẻ anh nhỉ.",
+      "jpname": "ファインモーション",
+      "jptext": "ううん、なんでもない。\n――今日は、本当に楽しい日だったね。"
+    }
+  ]
+}

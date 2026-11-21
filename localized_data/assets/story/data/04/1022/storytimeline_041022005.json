@@ -1,0 +1,272 @@
+{
+  "title": "Cuộc đời ngập tràn những điều kỳ diệu",
+  "jptitle": "Life is full of wonders.",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ ngày trở thành Trainer phụ trách của Fine Motion, thấm thoát vài tuần đã trôi qua. Hôm nay, em ấy cũng đang hăng say và vui vẻ luyện tập cùng các bạn của mình.",
+      "jpname": "モノローグ",
+      "jptext": "ファインモーションの担当となって、はや数週間。\n今日も、彼女は友人たちと楽しくトレーニングに励んでいた。"
+    },
+    {
+      "name": "Bạn của Fine",
+      "text": "--Hẹn gặp lại nhé, Fine! Hôm nay cậu tập luyện vất vả rồi nha!",
+      "jpname": "ファインの友人",
+      "jptext": "――じゃあね、ファイン！\nトレーニングお疲れ様～！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Các cậu cũng vất vả rồi nha! Ngày mai lại cùng cố gắng nhé!",
+      "jpname": "ファインモーション",
+      "jptext": "お疲れさま～！　また明日もよろしくね！",
+      "choice_data_list": [
+        "Hôm nay em cũng nỗ lực lắm đấy",
+        "Hôm nay bạn cũng nỗ lực lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "今日も頑張ってたな",
+        "今日も頑張ってたね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi. Vì vui quá nên em chẳng có thời gian để thấy mệt luôn đó. --Thật sự, mỗi ngày trôi qua cứ như một giấc mơ vậy anh.",
+      "jpname": "ファインモーション",
+      "jptext": "ふふ。楽しくて、疲れる暇もないくらいだったから。\n――なんだか、本当に毎日が夢みたいに過ぎていくよ。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Nào nào. Dù còn chút luyến tiếc nhưng hôm nay ta cũng nên kết thúc thôi nhỉ! Chúng ta quay về phòng Trainer để họp tổng kết nhé!",
+      "jpname": "ファインモーション",
+      "jptext": "……さてさて。名残惜しいけど、本日もシメと参りましょうか！\nトレーナー室に戻って、ミーティングだね！"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng... vào cái ngày mà tôi cứ ngỡ sẽ kết thúc như thường lệ ấy. Đến tận phút cuối cùng, lại có một sự kiện bất ngờ đang đón đợi chúng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "しかし……いつも通りに終わると思っていたこの日。\n最後の最後に、ちょっとした事件が待っていたのだった。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Ơ kìa? Cái gì thế này!?",
+      "jpname": "ファインモーション",
+      "jptext": "――あれっ？　何これ！？"
+    },
+    {
+      "name": "",
+      "text": "Khi quay lại phòng Trainer, chiếc giá sách ở góc phòng đã bị đổ nhào, đồ đạc cùng giấy tờ tài liệu bày trên đó văng tung tóe khắp tứ phía.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー室に戻ってくると、部屋の隅にあった棚が倒れ、\n置いていた品や書類が四方八方に散らばっていた。",
+      "choice_data_list": [
+        "Chuyện này rốt cuộc là..."
+      ],
+      "jpchoice_data_list": [
+        "これは一体……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Hừm hừm. Căn phòng khóa kín mà đáng lẽ ra không có một ai ở trong. Bất chấp điều đó, giá sách lại đổ và sàn nhà bừa bộn--",
+      "jpname": "ファインモーション",
+      "jptext": "……ふんふん。誰もいなかったはずの閉め切った部屋。\nにもかかわらず倒れた棚、散らかった床――"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Tuyệt quá! Trainer ơi, chuyện này lẽ nào là một \"vụ án kỳ bí\" sao!?",
+      "jpname": "ファインモーション",
+      "jptext": "――すごいっ！　トレーナー、これってもしかして、\n“ミステリー”じゃないかな！？",
+      "choice_data_list": [
+        "Bảo thế thì... cũng không sai nhỉ?",
+        "Bảo thế thì... cũng không sai chăng?"
+      ],
+      "jpchoice_data_list": [
+        "そう言えなくも……ないか？",
+        "そう言えなくも……ないのかな？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi hi, nếu đã thế thì vụ án này... xem ra là đất diễn của thám tử lừng danh Fine rồi!",
+      "jpname": "ファインモーション",
+      "jptext": "ふふふ、となるとこの事件……\nどうやら名探偵ファインの出番だね！",
+      "choice_data_list": [
+        "Em làm thám tử từ bao giờ thế..."
+      ],
+      "jpchoice_data_list": [
+        "いつから探偵に……"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Khụ khụ. Vậy thì, trước hết ta hãy tiến hành khám nghiệm hiện trường nào. Theo lời của thám tử vĩ đại, điều quan trọng nhất chính là phải \"quan sát\" mà.",
+      "jpname": "ファインモーション",
+      "jptext": "ごっほんごほん。では、まずは現場検証といきましょう。\n偉大な探偵曰く、大事なのは“観察”することだからね。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Ô kìa! Cậu trợ thủ nhìn xem! Ngay tại chỗ này đã có dấu chân rồi! Không lẽ là của hung thủ sao!?",
+      "jpname": "ファインモーション",
+      "jptext": "――ややっ！　助手くん、見て！\n早速こんなところに足跡が！　もしかして犯人のものかな！？",
+      "choice_data_list": [
+        "...Trông nó có vẻ hơi bị nhỏ quá không?",
+        "...Trông nó có vẻ hơi bị nhỏ quá chăng?"
+      ],
+      "jpchoice_data_list": [
+        "……やけに小さくないか？",
+        "……やけに小さくない？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hi hi hi, những tế bào não màu sợi mì của em đang bừng sáng rồi đây! Chắc chắn men theo dấu vết này ta sẽ tìm ra chìa khóa của vụ án--",
+      "jpname": "ファインモーション",
+      "jptext": "ふふふ、私の麺色の脳細胞が冴えてきたよ！\nきっと、これを追っていった先に事件の鍵が――"
+    },
+    {
+      "name": "Mèo",
+      "text": ".........Ngao?",
+      "jpname": "ネコ",
+      "jptext": "…………ニャ？"
+    },
+    {
+      "name": "Fine Motion",
+      "text": ".........Meo?",
+      "jpname": "ファインモーション",
+      "jptext": "…………にゃ？"
+    },
+    {
+      "name": "",
+      "text": "Lần theo những dấu chân... dưới gầm bàn, có một chú mèo đang tròn mắt cảnh giác nhìn chúng tôi chằm chằm.",
+      "jpname": "モノローグ",
+      "jptext": "足跡を辿っていくと……机の下に、\nこちらを警戒の目でうかがう1匹の猫がいた。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ra là thế... Mọi bí ẩn đã được sáng tỏ!",
+      "jpname": "ファインモーション",
+      "jptext": "なるほど……謎は全て解けたっ！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hung thủ chính là... bé đó!",
+      "jpname": "ファインモーション",
+      "jptext": "犯人は……キミだっ！",
+      "choice_data_list": [
+        "Thì hẳn là vậy rồi còn gì...",
+        "Thì hẳn là vậy rồi còn gì nữa..."
+      ],
+      "jpchoice_data_list": [
+        "そりゃそうだろうな……",
+        "そりゃそうだろうね……"
+      ]
+    },
+    {
+      "name": "Mèo",
+      "text": "Khè...!!",
+      "jpname": "ネコ",
+      "jptext": "フー……！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Không sao đâu, không đáng sợ đâu mà. Lại đây nào.",
+      "jpname": "ファインモーション",
+      "jptext": "大丈夫、怖くないよ。おいで。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ơ kìa? Bé có đeo vòng cổ này.",
+      "jpname": "ファインモーション",
+      "jptext": "あれっ？　キミ、首輪をつけてるんだね。",
+      "choice_data_list": [
+        "Mèo nuôi nhà ai bị lạc chăng?",
+        "Mèo nuôi nhà ai bị lạc thế này?"
+      ],
+      "jpchoice_data_list": [
+        "どこかの飼い猫か？",
+        "どこかの飼い猫かな？"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Có vẻ đúng là vậy rồi. Chắc là bé bị lạc đường, rồi vô tình lẻn vào tận đây nhỉ?",
+      "jpname": "ファインモーション",
+      "jptext": "そうみたいだね。迷子になって、\nここに入り込んじゃった、ってことかな？"
+    },
+    {
+      "name": "Mèo",
+      "text": "Meo...",
+      "jpname": "ネコ",
+      "jptext": "ニャゥ……。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ngoan ngoan, không sao đâu nhé. Chị sẽ cùng bé tìm đường về nhà nha.",
+      "jpname": "ファインモーション",
+      "jptext": "よしよし、大丈夫だよ。\n一緒におうちに帰ろうね。",
+      "choice_data_list": [
+        "Giờ ta phải đi tìm chủ nhân của bé mèo này nhỉ",
+        "Giờ ta phải đi tìm chủ nhân của bé mèo này nhé"
+      ],
+      "jpchoice_data_list": [
+        "この子の飼い主を探すんだな",
+        "この子の飼い主を探すんだね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Vâng ạ! Như thế thì vụ án mới chính thức được phá xong! Vì vậy nên chúng ta mau đi hỏi thăm xung quanh ngay thôi nào♪",
+      "jpname": "ファインモーション",
+      "jptext": "うんっ！　それで晴れて事件解決！\nというわけで、早速聞き込みにレッツゴーだよ♪"
+    },
+    {
+      "name": "",
+      "text": "Thế là, trước tiên chúng tôi hỏi thăm các học viên ở gần đó, rồi tận dụng luôn cả mạng lưới quan hệ mì ramen của Fine Motion để điều tra--",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、まずは近くにいた生徒、さらに\nファインモーションのラーメン人脈で聞き込みを行い――"
+    },
+    {
+      "name": "Chủ nhân",
+      "text": "Thực sự cảm ơn hai người rất nhiều! Tôi cứ sợ là bé nó sẽ mất tích luôn rồi cơ...!",
+      "jpname": "飼い主",
+      "jptext": "本当にありがとうございます！\nこのまま、いなくなっちゃうんじゃないかと……！"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Giúp được hai người là niềm vinh hạnh của ta. Chúc cả hai vị luôn bình an nhé.",
+      "jpname": "ファインモーション",
+      "jptext": "お役に立てて何よりですわ。\nでは御二方とも、ごきげんよう。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Nào! Vụ án đã được giải quyết! Cậu trợ thủ, à không, Trainer cũng vất vả nhiều rồi ạ.",
+      "jpname": "ファインモーション",
+      "jptext": "さて！　事件解決っ！\n助手くん、もといトレーナーもお疲れさまでした。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Hi hi, vui thật đấy. Quả là một bất ngờ thú vị nhỉ anh.",
+      "jpname": "ファインモーション",
+      "jptext": "――ふふっ、楽しかった。素敵なサプライズだったね。",
+      "choice_data_list": [
+        "Thỉnh thoảng thế này cũng không tệ chút nào",
+        "Thỉnh thoảng thế này cũng vui phết đấy chứ"
+      ],
+      "jpchoice_data_list": [
+        "こういうのも悪くないな",
+        "こういうのも悪くないね"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Đúng không anh? Hừm hừm, những sự cố bất ngờ xuất hiện giữa cuộc sống thường nhật... những sự kiện đặc biệt, sao...",
+      "jpname": "ファインモーション",
+      "jptext": "そうでしょう？　ふんふん、日常の中で\n突然現れるハプニング……特別な事件、か……。"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "--Hi hi, có lẽ em vừa nghĩ ra một ý tưởng hay ho rồi.",
+      "jpname": "ファインモーション",
+      "jptext": "――ふふっ、いいこと思いついたかも。"
+    }
+  ]
+}
