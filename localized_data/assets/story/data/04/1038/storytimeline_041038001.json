@@ -1,0 +1,586 @@
+{
+  "title": "Chấn động từ sự dễ thương",
+  "jptitle": "カワイイの衝撃",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "——Khi đang chợp mắt, tôi đã mơ về một chuyện trong quá khứ.",
+      "jpname": "モノローグ",
+      "jptext": "――うたた寝をしていて、昔の夢を見た。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trên đường về sau khi chơi ở công viên giải trí, tôi bắt gặp một cô bé đang khóc vì lạc mẹ——",
+      "jpname": "モノローグ",
+      "jptext": "遊園地で遊んだ帰り道、\nお母さんとはぐれて泣いている女の子を見つけて――",
+      "choice_data_list": [
+        "Cùng đi tìm nhé?"
+      ],
+      "jpchoice_data_list": [
+        "一緒に探そうか？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Thật không……!? Cảm ơn anh trai nhé! Hì hì, anh tốt bụng quá đi……♪",
+      "jpname": "ウマ娘の少女",
+      "jptext": "ほんと……！？　ありがとう、お兄ちゃん！\nえへへ、とっても優しいんだね……♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Thật không……!? Cảm ơn chị gái nhé! Hì hì, chị tốt bụng quá đi……♪",
+      "jpname": "ウマ娘の少女",
+      "jptext": "ほんと……！？　ありがとう、お姉ちゃん！\nえへへ、とっても優しいんだね……♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong lúc cùng tìm mẹ, cô bé đã nín khóc…… và dừng chân lại khi đứng trước tòa lâu đài trò chơi.",
+      "jpname": "モノローグ",
+      "jptext": "お母さんを探すうちに、女の子は泣き止み……\nアトラクションのお城の前に来たところで、足を止めた。",
+      "choice_data_list": [
+        "……Ước mơ của em là làm công chúa sao?"
+      ],
+      "jpchoice_data_list": [
+        "……夢は、お姫様かな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gương mặt nghiêng của cô bé quá đỗi cương nghị khiến tôi bất giác buột miệng hỏi…… và em liền mỉm cười đầy chững chạc ngoài mong đợi.",
+      "jpname": "モノローグ",
+      "jptext": "女の子の横顔があまりにも真っすぐだったので、思わず\nそう尋ねると……彼女は思いがけないほど大人っぽく微笑んだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thiếu nữ Mã Nương",
+      "text": "Nghe này, ước mơ của em là——",
+      "jpname": "ウマ娘の少女",
+      "jptext": "あのね、私の夢は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một buổi sáng nọ. Trước cổng Học viện Tracen xuất hiện một đám đông vô cùng náo nhiệt và rực rỡ.",
+      "jpname": "モノローグ",
+      "jptext": "ある日の朝。トレセン学園の校門前に、\nやけにきらびやかな人だかりができていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương sành điệu",
+      "text": "Này này, góc đứng này đỉnh chóp luôn đúng không!? Chắc chắn sẽ siêu gần luôn đấy!!",
+      "jpname": "オシャレなウマ娘",
+      "jptext": "ねえねえ、この位置取り最強じゃん！？\n絶対超近いって！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương phong trào",
+      "text": "Dậy sớm giành chỗ quả không uổng công mà……!! May mắn thì còn chụp chung được tấm ảnh ấy chứ……",
+      "jpname": "ミーハーなウマ娘",
+      "jptext": "早起きして場所取りしたかいあった～！！\nあわよくば、ツーショットなんて……。",
+      "choice_data_list": [
+        "Xin hỏi, chuyện này rốt cuộc là……?"
+      ],
+      "jpchoice_data_list": [
+        "あの、これは一体……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương sành điệu",
+      "text": "Hả!? Trainer-san mà không biết sao!? Hôm nay là ngày Umastagrammer \"Curren\" chuyển trường tới đây đó!!",
+      "jpname": "オシャレなウマ娘",
+      "jptext": "えーっ！？　トレーナーさん、知らないんですか！？\n今日は、ウマスタグラマー『Curren』の転入日ですよ！！",
+      "choice_data_list": [
+        "Curren……?"
+      ],
+      "jpchoice_data_list": [
+        "Curren……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương phong trào",
+      "text": "Không lẽ ngài không biết thật sao!? Nữ thần selfie với 3 triệu follower trên Umastagram đầy rẫy cao thủ, Curren đấy!?",
+      "jpname": "ミーハーなウマ娘",
+      "jptext": "まさか、ご存知ない！？　あの猛者集うウマスタグラムで、\n300万のフォロワーを持つ自撮りの女神、Currenを！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Có vẻ như một thần tượng của giới trẻ sắp chuyển tới đây. Vì hơi tò mò nên tôi nán lại xem thử——",
+      "jpname": "モノローグ",
+      "jptext": "……どうやら若い子たちのアイドル的存在が転入するようだ。\n少し気になり、その場に留まってみると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một chiếc limousine đỗ lại trước cổng trường, rồi một thiếu nữ bước xuống……!",
+      "jpname": "モノローグ",
+      "jptext": "校門前に1台のリムジンが止まり、少女が降りてきた……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ",
+      "text": "Kyaaaaa!! Currennnnn!!",
+      "jpname": "ファンたち",
+      "jptext": "きゃ～～～！！　Curren～～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren?",
+      "text": "Oa♪ Tiếng reo hò cuồng nhiệt quá! Mọi người đều đang ngóng đợi Curren sao……!?",
+      "jpname": "Curren？",
+      "jptext": "わあっ♪　すっごい歓声！\nみんなカレンを待っててくれたの～！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren?",
+      "text": "Hì hì…… được chào đón nồng nhiệt thế này thì——",
+      "jpname": "Curren？",
+      "jptext": "えへへ～、こーんなに歓迎してもらえるなんて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren Chan vui lắm luôn á♪ U-hu-hu♪",
+      "jpname": "カレンチャン",
+      "jptext": "カレンチャン、とーってもうれしい♪\nうふふっ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương sành điệu",
+      "text": "Không thể nào……!? Không lẽ quanh người Curren có sẵn bộ lọc filter luôn sao trời!?",
+      "jpname": "オシャレなウマ娘",
+      "jptext": "ウッソ……！？\nCurrenの周りだけ加工フィルターかかってない！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương sành điệu",
+      "text": "Chói lóa quá, hào quang rực rỡ quá……!! Đúng là Curren hàng thật giá thật y hệt trên Umastagram rồi……!",
+      "jpname": "オシャレなウマ娘",
+      "jptext": "まぶしいっ、オーラまぶしいっ……！！\nウマスタまんまのマジCurrenだ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương phong trào",
+      "text": "Cậu ơi, cho mình xin chụp chung một tấm được không!? Mình là fan bự bự bự bự bự nhất trần đời của cậu đấyyyy!",
+      "jpname": "ミーハーなウマ娘",
+      "jptext": "あのっ、ツーショットお願いできませんか！？\nあたし、大大大大大ファンなんです～～っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Đương nhiên rồi! Bạn thì…… xem nào, tạo dáng thế này sẽ trở nên dễ thương nhất trần đời luôn nè!",
+      "jpname": "カレンチャン",
+      "jptext": "もっちろん！\nあなたは……そうだね、こんなポーズだと最高にカワイくなれるよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương phong trào",
+      "text": "Hả, thật sao trời, bức ảnh triệu đô ra lò rồi…… Oaa, cảm ơn sự nhiệt tình đỉnh chóp của cậu nhé……!!",
+      "jpname": "ミーハーなウマ娘",
+      "jptext": "えっ、マジか、奇跡の1枚来た……。\nわああ、神対応ありがとうございます……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Mọi người thấy vui là Curren hạnh phúc rồi♪ Nếu đăng lên thì nhớ gắn thẻ \"#CurrenChan\" giúp em nhé!",
+      "jpname": "カレンチャン",
+      "jptext": "みんなが喜んでくれるのが、カレンの幸せだよ♪\nアップするなら、『#カレンチャン』でタグ付けよろしくね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Các bạn khác cũng cứ chụp ảnh thoải mái nha☆ Những ai chưa biết Curren thì nhờ mọi người lan tỏa giúp em với nhé♪",
+      "jpname": "カレンチャン",
+      "jptext": "他のみんなも、じゃんじゃん撮ってくださいな☆\nカレンを知らない子にも、拡散お願いしまーす♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ",
+      "text": "Rõ rồi ạ♪",
+      "jpname": "ファンたち",
+      "jptext": "はーいっ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khả năng lôi cuốn đám đông áp đảo thật…… Trong lúc tôi còn đang sững sờ ngắm nhìn cảnh tượng đó—— thì bất chợt, ánh mắt em chạm vào mắt tôi.",
+      "jpname": "モノローグ",
+      "jptext": "圧倒的統率力……呆気にとられてその光景を眺めていると――\nはたと、彼女と目が合った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "A—— người này là……!!",
+      "jpname": "カレンチャン",
+      "jptext": "あっ――あなたは……！！",
+      "choice_data_list": [
+        "……Hử, tôi sao?",
+        "……Ơ, tôi ư?"
+      ],
+      "jpchoice_data_list": [
+        "……ん、俺？",
+        "……ん、私？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Đúng rồi, chính là người trông vô cùng hiền từ đằng kia!",
+      "jpname": "カレンチャン",
+      "jptext": "そう、そこの優しそうなあなたっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Người chính là…… định mệnh của Curren!",
+      "jpname": "カレンチャン",
+      "jptext": "あなたは……カレンの運命の人っ！",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Là Trainer của học viện này đúng không nè? Chắc chắn…… Curren luôn tìm kiếm người bấy lâu nay!",
+      "jpname": "カレンチャン",
+      "jptext": "この学園のトレーナーさん、だよね？\nカレンは……きっと、あなたを探していたの！",
+      "choice_data_list": [
+        "Hả…… cái gì cơ?"
+      ],
+      "jpchoice_data_list": [
+        "えっ……えっ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Curren quyết định rồi, chốt luôn rồi nha! Từ hôm nay người sẽ là…… Trainer của Curren nhé♪",
+      "jpname": "カレンチャン",
+      "jptext": "カレン決めた、決めちゃった！\n今日からあなたが……カレンのトレーナーさんねっ♪",
+      "choice_data_list": [
+        "Hảảảảảảả!!"
+      ],
+      "jpchoice_data_list": [
+        "えーーーーーーーっ！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Không được…… sao ạ? Curren chỉ muốn người lắng nghe thỉnh cầu này thôi mà…… rưng rưng……",
+      "jpname": "カレンチャン",
+      "jptext": "ダメ……かなぁ？　カレンのお願い、\n聞いてほしいんだけど～……うるうる～……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước hào quang \"dễ thương\" bất ngờ ập tới, tôi suýt nữa bị cuốn theo—— nhưng đã kịp hoàn hồn. Hợp đồng Trainer không thể ký kết theo cảm tính được.",
+      "jpname": "モノローグ",
+      "jptext": "突然向けられた“カワイイ”オーラに呑まれそうになり――\n我に返った。トレーナー契約は、勢いで結ぶものではない。",
+      "choice_data_list": [
+        "K-Khoan đã, ra đằng này một chút……!"
+      ],
+      "jpchoice_data_list": [
+        "ちょ、ちょっとこっちへ……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Dạ vâng ạ♪",
+      "jpname": "カレンチャン",
+      "jptext": "はーいっ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Rời xa cổng trường một chút, tôi giải thích lại cho em nghe về ý nghĩa của Trainer đối với Mã Nương, và rằng không nên chọn bừa chỉ qua cái nhìn đầu tiên.",
+      "jpname": "モノローグ",
+      "jptext": "校門から少し離れ、改めてウマ娘にとってのトレーナーの意義や\nぱっと見で選ぶべきじゃないということを話した。",
+      "choice_data_list": [
+        "Em cũng có ước mơ muốn thực hiện ở nơi này mà đúng không?",
+        "Em cũng có ước mơ muốn thực hiện ở nơi này mà đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "君もここで叶えたい夢があるんだろ？",
+        "貴方もここで叶えたい夢があるんでしょ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……Ước mơ à, hừm.",
+      "jpname": "カレンチャン",
+      "jptext": "……夢、ねぇ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vâng, đương nhiên là có rồi♪ Bởi vì lý do Curren tới học viện này là……",
+      "jpname": "カレンチャン",
+      "jptext": "うんっ、もちろんあるよ♪\nだってカレンがこの学園に来たのは～……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Muốn được mọi người khen là \"dễ thương\" đó ạ♪ Em nghĩ nếu vào Học viện Tracen thì sẽ càng được chú ý nhiều hơn nữa!",
+      "jpname": "カレンチャン",
+      "jptext": "みんなから“カワイイ”って褒められたいからっ♪\nトレセン学園に入ったら、もーっと注目されるかなーって！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bàng hoàng như bị một chiếc búa nện thẳng vào đầu. Chỉ vì lý do đó thôi sao……!?",
+      "jpname": "モノローグ",
+      "jptext": "頭をハンマーで殴られたような衝撃を受ける。\nそんな理由で……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Nói chung là nhé? Để Curren có thể tỏa sáng hơn bây giờ, nhất định phải là người mới được!",
+      "jpname": "カレンチャン",
+      "jptext": "とにかくね～？\nカレンが今より輝くためには、あなたじゃなきゃダメなのっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vì thế nên, xin anh đấy…… anh trai ơi!! Hãy làm Trainer của Curren đi mà♪",
+      "jpname": "カレンチャン",
+      "jptext": "だから、お願い……お兄ちゃんっ！！\nカレンのトレーナーになって♪",
+      "choice_data_list": [
+        "A-Anh trai á!?",
+        "C-Chị gái á!?"
+      ],
+      "jpchoice_data_list": [
+        "お、お兄ちゃん！？",
+        "お、お姉ちゃん！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vì thế nên, xin chị đấy…… chị gái ơi!! Hãy làm Trainer của Curren đi mà♪",
+      "jpname": "カレンチャン",
+      "jptext": "だから、お願い……お姉ちゃんっ！！\nカレンのトレーナーになって♪",
+      "choice_data_list": [
+        "A-Anh trai á!?",
+        "C-Chị gái á!?"
+      ],
+      "jpchoice_data_list": [
+        "お、お兄ちゃん！？",
+        "お、お姉ちゃん！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương sành điệu",
+      "text": "……Không lẽ người kia định từ chối sao? Đích thân Curren đã tha thiết thỉnh cầu thế kia mà……",
+      "jpname": "オシャレなウマ娘",
+      "jptext": "……あの人、もしかして断るつもりかな？\nあのCurrenが、あんなにお願いしてるのに……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương phong trào",
+      "text": "Nếu vẫn chưa có ai thì nhận kèm cho bạn ấy một chút cũng có mất gì đâu chứ.",
+      "jpname": "ミーハーなウマ娘",
+      "jptext": "まだフリーなら、ちょっと見てあげてもいいのにねぇ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt của đám đông người hâm mộ như găm thẳng vào tôi…… Không còn lý do nào khác để từ chối, và trong lúc tôi còn đang lúng túng suy nghĩ thì——",
+      "jpname": "モノローグ",
+      "jptext": "ファンの子たちの視線が突き刺さる……。\nこれ以上断る理由も見つからず、考えあぐねながら話すうち――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "——Vậy là từ hôm nay người sẽ là Trainer của Curren nhé! Quyết định thế đi nè♪",
+      "jpname": "カレンチャン",
+      "jptext": "――それじゃあ、今日からカレンのトレーナーさんってことで！\n決まり～っ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đến khi sực tỉnh thì hợp đồng Trainer đã được ký kết mất rồi……! Thao tác dứt khoát tài tình đến thế, quả nhiên em ấy không phải dạng vừa đâu……",
+      "jpname": "モノローグ",
+      "jptext": "気がつくとトレーナー契約を結んでいた……！\nなんという鮮やかな手際、やはり彼女は只者ではなさそうだ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hoan hô♪ Vậy là từ giờ người ta sẽ ở bên Curren suốt rồi nhé! Nhờ cả vào anh nha, anh trai♪",
+      "jpname": "カレンチャン",
+      "jptext": "やったぁ♪　これでカレンとずーっといっしょだね！\nよろしくね、お兄ちゃん♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hoan hô♪ Vậy là từ giờ người ta sẽ ở bên Curren suốt rồi nhé! Nhờ cả vào chị nha, chị gái♪",
+      "jpname": "カレンチャン",
+      "jptext": "やったぁ♪　これでカレンとずーっといっしょだね！\nよろしくね、お姉ちゃん♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người hâm mộ",
+      "text": "Chúc mừng Curren nhéeee!!",
+      "jpname": "ファンたち",
+      "jptext": "Curren、おめでと～～っ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một tràng pháo tay nhỏ rộ lên…… nhưng những tiếng xì xào xung quanh không hẳn toàn là chào đón.",
+      "jpname": "モノローグ",
+      "jptext": "ちょっとした拍手が起きたが……周囲から聞こえてくる声は\n必ずしも歓迎ムード一色ではない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương nghiêm túc",
+      "text": "……Cái cảnh ồn ào vừa rồi, trông chẳng ra làm sao cả.",
+      "jpname": "真面目なウマ娘",
+      "jptext": "……あの騒ぎ、なんだかね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương mê đua",
+      "text": "Umastagrammer gì chứ…… Trong khi tụi mình đang nghiêm túc cống hiến cho đường đua.",
+      "jpname": "レース好きなウマ娘",
+      "jptext": "ウマスタグラマーとか……。\nあたしら真剣にレースやってるのにね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Càng nổi bật thì càng dễ rước lấy chỉ trích. Tại học viện này, thứ duy nhất có thể dập tắt mọi lời dị nghị chỉ có kết quả trên đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "目立つということは、批判も招きやすい。\nこの学園で批判を跳ね返せるのは、レース結果だけだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……Anh trai, không lẽ anh đang lo cho Curren sao?",
+      "jpname": "カレンチャン",
+      "jptext": "……お兄ちゃん、もしかしてカレンが心配？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "……Chị gái, không lẽ chị đang lo cho Curren sao?",
+      "jpname": "カレンチャン",
+      "jptext": "……お姉ちゃん、もしかしてカレンが心配？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "U-hu, không sao đâu mà. Bởi vì Curren—— thậ——t là \"dễ thương\" cơ mà♪",
+      "jpname": "カレンチャン",
+      "jptext": "うふっ、大丈夫だよ。だってカレン――\nとーっても、“カワイイ”から♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "——Và rồi bài kiểm tra thể lực vào ngày hôm sau đã tới. Giữa muôn vàn ánh mắt hiếu kỳ, Curren Chan đã thể hiện thực lực rõ mồn một.",
+      "jpname": "モノローグ",
+      "jptext": "――そして迎えた翌日の体力テスト。好奇に満ちた視線の中、\nカレンチャンはその実力をまざまざと見せつけた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Giảng viên",
+      "text": "Cự ly cát 1200m! T-Thời gian là——!",
+      "jpname": "教官",
+      "jptext": "ダート1200m！\nた、タイムは――！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng xôn xao lập tức rộ lên khắp xung quanh. Đó là thành tích phi thường đối với một tân binh Mã Nương……! Có vẻ như em ấy là một chân chạy nước rút bẩm sinh.",
+      "jpname": "モノローグ",
+      "jptext": "周囲でざわめきが起こる。新人ウマ娘としては破格のタイムだ……！\nどうやら彼女は、天性のスプリンターらしい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Anh trai ơiii! Nè nè, Curren chạy thế nào hả anh? Siê——u cấp \"dễ thương\" đúng không nè♪",
+      "jpname": "カレンチャン",
+      "jptext": "お兄ちゃーんっ！　ねえねえ、カレンどうだった？\nすーっごく、“カワイ”かったでしょ～♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Chị gái ơiii! Nè nè, Curren chạy thế nào hả chị? Siê——u cấp \"dễ thương\" đúng không nè♪",
+      "jpname": "カレンチャン",
+      "jptext": "お姉ちゃーんっ！　ねえねえ、カレンどうだった？\nすーっごく、“カワイ”かったでしょ～♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Curren Chan…… rốt cuộc cô bé này đang nghĩ gì và khao khát điều gì đây. Trước mắt, tôi đành nhấn theo dõi trang Umastagram của em ấy……",
+      "jpname": "モノローグ",
+      "jptext": "カレンチャン……彼女はいったい何を考え、望んでいるのだろうか。\nひとまずウマスタグラムをフォローしたのだった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
