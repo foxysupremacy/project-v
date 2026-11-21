@@ -1,0 +1,485 @@
+{
+  "title": "Trạng thái: \"Kinh ngạc\"",
+  "jptitle": "ステータス『衝撃』",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ. Khi đang đi dạo trong trung tâm mua sắm để mua sắm vài món đồ dùng hàng ngày thì——",
+      "jpname": "モノローグ",
+      "jptext": "休日。日用品の買い出しのため、\nショッピングモールを歩いていると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……………………",
+      "jpname": "ミホノブルボン",
+      "jptext": "……………………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bắt gặp Mihono Bourbon đang đứng bất động trước trung tâm trò chơi trong khu mua sắm.",
+      "jpname": "モノローグ",
+      "jptext": "ショッピングモールにあるゲームセンターの前で、\n立ち尽くしているミホノブルボンを見かけた。",
+      "choice_data_list": [
+        "……Bourbon? Có chuyện gì thế em?",
+        "……Bourbon? Có chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "……ブルボン？どうした？",
+        "……ブルボン？どうしたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Nhằm mục đích \"nâng cao kỹ năng xã hội\", tôi đã đến trung tâm trò chơi để tham quan thực tế, nhưng hiện đang \"do dự\" bước vào cửa.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……『社会性の向上』のため、ゲームセンターへ\n見学に訪れたのですが、入店を『躊躇』しています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hỏi han kỹ hơn thì hóa ra để nắm bắt được kỹ năng \"tám chuyện phiếm\", em ấy đã ghé qua trung tâm trò chơi đang thịnh hành trong lớp. Thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "詳しく話を聞いてみると、どうやら『世間話』を体得するため、\nクラスで流行りのゲームセンターを訪れたらしい。しかし――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Mỗi khi tôi chạm vào máy móc thì xác suất phá hỏng chúng là rất cao. Khi quan sát bên trong và thấy kích thước của các loại máy, hệ thống quản trị rủi ro đã kích hoạt.",
+      "jpname": "ミホノブルボン",
+      "jptext": "――私は機械に触れると高い確率で、破壊してしまうのです。\n店内を視認し、機械の大きさにリスクマネジメントが発動しました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Tức là em ấy sợ sẽ lỡ tay làm hỏng máy chơi game sao. Nếu đã thế thì——",
+      "jpname": "モノローグ",
+      "jptext": "……つまりゲーム機を壊してしまいそうで怖いということだろうか。\nそれなら――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cảm ơn người đã hỗ trợ chuyến tham quan xã hội mang tính cá nhân này của tôi.",
+      "jpname": "ミホノブルボン",
+      "jptext": "私的な社会見学にご協力いただき、感謝します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi tình nguyện thao tác máy chơi game thay cho Mihono Bourbon và đồng hành trong chuyến tham quan của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンの代わりに、ゲーム機の操作を買って出て、\n見学に付き添うことにした。",
+      "choice_data_list": [
+        "Đã cất công đến đây rồi, hôm nay hãy cùng vui chơi thỏa thích nào!"
+      ],
+      "jpchoice_data_list": [
+        "せっかくだから、今日は楽しもう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tiếp nhận yêu cầu. Bắt đầu quy trình \"hôm nay sẽ tận hưởng\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "オーダーを受理しました。『今日は楽しむ』を開始します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chuyến tham quan xã hội của Mihono Bourbon đã bắt đầu theo cách như thế——",
+      "jpname": "モノローグ",
+      "jptext": "こんな調子でミホノブルボンの社会見学は始まり――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Máy oẳn tù tì",
+      "text": "Oẳn tù tì ra cái gì ra cái này! Thua rồi nhé!",
+      "jpname": "じゃんけんマシーン",
+      "jptext": "じゃんけんぽんっ♪　負けだ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "1 thắng 9 thua, xác nhận mức độ hạnh phúc của Master đang sụt giảm nghiêm trọng. Đồ ngọt có tác dụng thư giãn. Người có muốn ăn kem không?",
+      "jpname": "ミホノブルボン",
+      "jptext": "1勝9敗、マスターの幸福度が急激に低下していることを確認。\n甘味にはリラックス効果があります。アイスクリームを食べますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Máy trò chơi xèng",
+      "text": "Tèng téng teng teng…… Đại thắng rồi!",
+      "jpname": "スロットゲーム",
+      "jptext": "チャラララララ……大成功～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Xác nhận lượng lớn đồng xu đang tuôn ra. ……Là lỗi hệ thống chăng?",
+      "jpname": "ミホノブルボン",
+      "jptext": "コインの大量排出を確認。\n……エラーでしょうか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Máy đấm bốc",
+      "text": "16000 điểm! Hoan hô, đã đấm bay quái thú rồi!",
+      "jpname": "パンチングマシーン",
+      "jptext": "1万6000点！　ヤッター、怪獣をぶっ飛ばしたわ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Xác nhận lực đấm của Master là 16000 điểm. Tôi sẽ lưu vào nhật ký dữ liệu. Tuy nhiên, đơn vị đo không rõ.",
+      "jpname": "ミホノブルボン",
+      "jptext": "マスターのパンチ力は1万6000点と確認。\nデータログに残します。なお、単位は不明。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù có chút lệch pha, nhưng có vẻ theo cách của mình, Mihono Bourbon đang tận hưởng trung tâm trò chơi khá trọn vẹn.",
+      "jpname": "モノローグ",
+      "jptext": "少しズレてはいるが、ミホノブルボンなりにゲームセンターを\n満喫しているようだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đã đến đây rồi thì tôi cũng muốn em ấy tự tay chơi thử ít nhất một trò. Nghĩ vậy, tôi đảo mắt tìm trò nào em ấy có thể tham gia được thì——",
+      "jpname": "モノローグ",
+      "jptext": "せっかくなので1つくらい遊んでみてほしい。\nそう思い、彼女にもできそうなゲームを探したところ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cùng chơi trò gắp thú sao. Nhưng quả nhiên vẫn có khả năng làm hỏng máy. Tôi không thể chạm vào được.",
+      "jpname": "ミホノブルボン",
+      "jptext": "クレーンゲームを一緒にプレイ、ですか。しかし、やはり壊れる\n可能性があります。私は触れることができません。",
+      "choice_data_list": [
+        "Để tôi thao tác cho",
+        "Để tôi thao tác cho nhé"
+      ],
+      "jpchoice_data_list": [
+        "操作は俺がやるよ",
+        "操作は私がやるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bảo em ấy hãy đứng bên cạnh quan sát vị trí của càng gắp và ra chỉ thị. Nghe vậy, em gật đầu đồng ý.",
+      "jpname": "モノローグ",
+      "jptext": "横からアームの位置を見て、指示を出して欲しい。\nそう続けると、納得したように頷いた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tiếp nhận yêu cầu. Tôi sẽ đo đạc chuẩn xác và hỗ trợ Master.",
+      "jpname": "ミホノブルボン",
+      "jptext": "オーダーを受理しました。\n正確な測定を行い、マスターをフォローします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế là tôi chọn gói chơi 500 yên 3 lượt và nhắm vào chú thỏ nhồi bông đang nằm ở vị trí vừa tầm.",
+      "jpname": "モノローグ",
+      "jptext": "そんなわけで、500円3回プレイのコースを選択し\n手ごろな位置にあったうさぎの人形を狙うことにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——22 xentimét, xin hãy dừng càng gắp ở vị trí đó. Theo đo đạc của tôi, tại vị trí đó sẽ có 98% cơ hội gắp được thú bông——",
+      "jpname": "ミホノブルボン",
+      "jptext": "――22cm、そこでアームを停止してください。\n私の測定では、その位置でしたら98％人形が獲得できると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Càng gắp hạ xuống kẹp trúng cổ chú thú bông đúng như tính toán, nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "降りたアームは、計算通り人形の首周りを掴むが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Bịch……)",
+      "jpname": "モノローグ",
+      "jptext": "（ボトッ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa nhấc lên một cái, chú thú bông đã tuột khỏi càng gắp và rơi đánh bịch xuống.",
+      "jpname": "モノローグ",
+      "jptext": "持ち上げられた拍子にアームをすり抜け、あっさり落ちてしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Xác nhận độ bám của càng gắp quá yếu. Tôi sẽ tính toán lại.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……アームの脆弱性を確認。\n再計算します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đã đổi sang phương án \"đẩy rơi\". Như thế này sẽ có 91% khả năng lấy được thú bông——",
+      "jpname": "ミホノブルボン",
+      "jptext": "プラン『押し出し』に変更しました。\nこれであれば、91％の可能性で人形は獲得――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Trượt……)",
+      "jpname": "モノローグ",
+      "jptext": "（ズッ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………Tôi đã đánh giá quá cao lực đẩy của càng gắp. Tôi sẽ tính toán lại.",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………アームの押し出し能力を過信していました。\n再計算します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Thế này thì sẽ có 75% cơ hội——",
+      "jpname": "ミホノブルボン",
+      "jptext": "――これであれば75％の可能性で――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Trượt……)",
+      "jpname": "モノローグ",
+      "jptext": "（ズッ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……………… Xác nhận đây là một nhiệm vụ cực kỳ gian nan.",
+      "jpname": "ミホノブルボン",
+      "jptext": "………………。\n非常に困難なミッションであることを認識。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù đã xoay xở đủ mọi cách thức, nhưng đáng tiếc là chúng tôi vẫn không thể gắp được chú thú bông……",
+      "jpname": "モノローグ",
+      "jptext": "あの手この手で奮闘したが、\n残念ながら人形を取ることはできなかった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tôi thành thật xin lỗi, Master. Nguyên nhân thất bại là do không nắm rõ lực siết của càng gắp.",
+      "jpname": "ミホノブルボン",
+      "jptext": "申し訳ありません、マスター。\nアームの強度を把握していなかったことが失敗原因です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Tuy nhiên, nếu thử lại thêm một lần nữa, tôi dự đoán xác suất thành công sẽ là 70%.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……ただ、もう1度チャレンジすれば、\n70％の確率で成功するかと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hiếm khi thấy Mihono Bourbon chủ động đưa ra \"đề xuất\". Không ngờ em ấy lại mê mẩn trò này đến thế. Đã vậy thì——",
+      "jpname": "モノローグ",
+      "jptext": "珍しく『提案』をしてくるミホノブルボン。\n思いのほかハマっているのだろうか。ならば――",
+      "choice_data_list": [
+        "Hãy thử lại thêm một lần nữa nào!"
+      ],
+      "jpchoice_data_list": [
+        "もう1度チャレンジしよう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tiếp nhận mệnh lệnh. Tôi sẽ dốc hết sức để lấy được thú bông.",
+      "jpname": "ミホノブルボン",
+      "jptext": "命令を受理。\n人形獲得に最善を尽くします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Xin hãy dừng lại. Tiến về phía trước 14 xentimét. Dùng càng gắp đẩy đến sát mép rồi hất xuống cửa rơi phần thưởng.",
+      "jpname": "ミホノブルボン",
+      "jptext": "――停止してください。14cm前進してください。\nアームで縁まで押出し、景品落とし口へ落とします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Càng gắp đã đẩy chú thú bông ra sát mép đúng như tính toán. Bị mắc ở mép, chú thú bông dần dần nghiêng về phía cửa rơi dưới sức nặng của chính mình.",
+      "jpname": "モノローグ",
+      "jptext": "アームは計算通り人形を縁まで押出した。\n縁に引っかかった人形は、自重で徐々に落とし口へ傾き始める。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khi đang nín thở theo dõi—— tôi nhận ra Mihono Bourbon đứng bên cạnh dường như cũng đang nín thở dõi theo.",
+      "jpname": "モノローグ",
+      "jptext": "息を詰めて見守っていると――\n横にいるミホノブルボンもまた息を詰めていることに気づいた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………!!",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Cố lên……!!",
+      "jpname": "ミホノブルボン",
+      "jptext": "……ファイト……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chú thú bông đã trượt thẳng một đường đẹp mắt xuống cửa rơi.",
+      "jpname": "モノローグ",
+      "jptext": "人形はきれいに落とし口へと滑り落ちていった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cảm ơn Master vì ngày hôm nay. Thông qua việc trực tiếp trải nghiệm trung tâm trò chơi, tôi đã có được những cảm giác mới và hiểu biết sâu sắc hơn.",
+      "jpname": "ミホノブルボン",
+      "jptext": "本日はありがとうございました。ゲームセンターを\n実際に体験したことで生じた感覚もあり、理解が深まりました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cảm giác như nơi sâu thẳm lồng ngực đang rộn ràng, cơ mặt bất giác giãn ra. Tôi sẽ thêm những cảm giác này vào kinh nghiệm và nạp vào mục \"tám chuyện phiếm\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "胸の奥がくすぐられているような、表情筋が自然と緩む感覚。\n経験にこれらの感覚も加え、『世間話』としてインプットします。",
+      "choice_data_list": [
+        "Em thấy vui là tốt rồi"
+      ],
+      "jpchoice_data_list": [
+        "楽しめたのならよかった"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……\"Thấy vui\" sao?",
+      "jpname": "ミホノブルボン",
+      "jptext": "……『楽しめた』ですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước vẻ mặt ngơ ngác của Mihono Bourbon, tôi giải thích rằng cảm giác đó chính là \"vui vẻ\".",
+      "jpname": "モノローグ",
+      "jptext": "不思議そうな顔をするミホノブルボンに、\nその感覚は『楽しい』ということだろう、と説明する。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ra là vậy…… thứ đó sao.",
+      "jpname": "ミホノブルボン",
+      "jptext": "なるほど……あれが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thế nhưng, trước một hành động phi năng suất như việc hai người xúm lại để gắp một con thú bông, tại sao lại nảy sinh cảm xúc \"vui vẻ\" được chứ?",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし、2人がかりで人形を取るという非生産的な行動に、\nなぜ『楽しい』という感情が生まれたのでしょう。",
+      "choice_data_list": [
+        "Đó là vì đối với \"hành động phi năng suất\" ấy——"
+      ],
+      "jpchoice_data_list": [
+        "それは、あの『非生産的な行動』の――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Để Mihono Bourbon dễ hiểu, tôi cẩn trọng lựa chọn từng câu từ để giải thích.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンにもわかりやすいように、\n慎重に言葉を選んで説明する。",
+      "choice_data_list": [
+        "Bản thân mục đích chính là \"tận hưởng niềm vui\" mà"
+      ],
+      "jpchoice_data_list": [
+        "目的そのものが、『楽しむこと』だったから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "………… Ra là vậy, xác nhận trạng thái: \"Kinh ngạc\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………。\nなるほど、ステータス『衝撃』を確認。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đã nạp hệ giá trị mới: \"Những cuộc giao lưu thoạt nhìn tưởng chừng vô nghĩa, đôi khi lại không hẳn là như vậy\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "新たな価値観をインプットしました。\n『一見無意味に思える交流にも、そうでない場合がある』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thì thầm điều đó xong, Mihono Bourbon dịu dàng vuốt ve chú thú bông mà hai chúng tôi vừa cùng nhau gắp được.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンはそう呟くと、\n2人で取った人形を、優しく撫でたのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

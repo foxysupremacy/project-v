@@ -1,0 +1,535 @@
+{
+  "title": "Cập nhật, hoàn tất",
+  "jptitle": "アップデート、完了",
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tối nay, người có muốn cùng đi ngắm pháo hoa không?",
+      "jpname": "ミホノブルボン",
+      "jptext": "今夜、花火大会に行きませんか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vào một buổi trưa muộn khi trại tập huấn mùa hè đã đi được nửa chặng đường. Với nét mặt có chút căng thẳng, Mihono Bourbon bất ngờ ngỏ lời rủ tôi như thế.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿も半ばに差し掛かった、ある日の昼下がり。\nやや緊張した面持ちで、ミホノブルボンにそう誘われた。",
+      "choice_data_list": [
+        "Đ-Đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "も、もちろん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hiếm khi thấy em ấy chủ động đề xuất điều gì. Tôi lập tức nhận lời mà không chút do dự, và tối hôm đó, hai chúng tôi cùng bước tới lễ hội pháo hoa.",
+      "jpname": "モノローグ",
+      "jptext": "自発的になにか提案することは滅多にない。\n二つ返事で誘いに応じ、その日の夜、花火大会へと足を運んだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Theo thông tin thu thập trước, lượng khách trung bình là 7 vạn người, số lượng quầy hàng khoảng 90 gian. Trong đó, các loại hình trò chơi có 9 dạng.",
+      "jpname": "ミホノブルボン",
+      "jptext": "事前情報によると、来場客は平均7万人、露店数は約90店舗。\nうち、遊戯の種類は9パターンです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Bắn súng, đục kẹo katanuki, vớt cá vàng, câu bóng yo-yo, ném vòng, bốc thăm may mắn, rút dây quà tặng senbon-tsuri, đấm hộp quà, đập dưa hấu, người chọn trò nào?",
+      "jpname": "ミホノブルボン",
+      "jptext": "射的、かたぬき、金魚すくい、ヨーヨー釣り、輪投げ、くじ引き、\n千本つり、パンチボックス、すいか割り、どれにしますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ việc chủ động rủ rê, tra cứu thông tin kỹ lưỡng trước đó, cho đến lời đề xuất vừa rồi…… Đối với một cô bé vốn thụ động như Mihono Bourbon, hôm nay em lại tràn trề nhiệt huyết đến ngỡ ngàng.",
+      "jpname": "モノローグ",
+      "jptext": "誘ってきたことといい、事前の下調べといい、今の提案といい……\n受け身のミホノブルボンにしては驚くほどやる気に満ち溢れている。",
+      "choice_data_list": [
+        "Em thích lễ hội thật đấy nhỉ",
+        "Em thích lễ hội thật đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "お祭り、好きなんだな",
+        "お祭り、好きなんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không, tôi không \"thích\". Cũng không \"ghét\", nếu bắt buộc phải nói thì là \"bình thường\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ、『好き』ではありません。\n『嫌い』でもありませんが、あえて言うなら『普通』です。",
+      "choice_data_list": [
+        "Vậy thì hôm nay sao thế?"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、今日はどうして？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "………… Để \"cùng Master trải qua khoảng thời gian vui vẻ, từ đó thắt chặt sự gắn kết\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………。\n『マスターと一緒に楽しい時間を過ごし、交流を深めるため』です。",
+      "choice_data_list": [
+        "……?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Chuyện là………… từ trước đến nay tôi vẫn luôn nhận định phần lớn các cuộc giao lưu là \"vô nghĩa\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "その…………、\n私は今まで大抵の交流を『無意味』と認識していました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thế nhưng…… nhận định đó có lẽ là sai lầm.",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし……その認識は誤り、かもしれません。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hiếm khi thấy giọng điệu của Mihono Bourbon lại có chút ngập ngừng bối rối đến thế. Em chầm chậm để lộ ra một góc đầu chú thú bông nhỏ đang nhét trong túi áo.",
+      "jpname": "モノローグ",
+      "jptext": "珍しく、どこかフワフワした物言いで話すミホノブルボン。\nおもむろに、ポケットに入った小さな人形の頭をちらっと見せた。",
+      "choice_data_list": [
+        "Đó chẳng phải là……"
+      ],
+      "jpchoice_data_list": [
+        "それって……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó chính là chú thỏ nhồi bông mà chúng tôi đã gắp được ở trung tâm trò chơi hôm nọ.",
+      "jpname": "モノローグ",
+      "jptext": "先日、ゲームセンターで獲得したうさぎの人形だった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "\"Vui vẻ\"—— Vật này giúp tôi gợi nhớ lại cảm giác đó.",
+      "jpname": "ミホノブルボン",
+      "jptext": "『楽しい』――これはその感覚を想起させます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Trong lúc huấn luyện lẫn học tập, động lực của tôi đều tăng lên. Chú thú bông này mang lại hiệu quả ngoài mong đợi——",
+      "jpname": "ミホノブルボン",
+      "jptext": "トレーニング中、勉学中、意欲が上昇しました。\n思わぬ効果がこの人形にはあり――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Chính vì thế, niềm \"vui vẻ\" sinh ra sau những cuộc giao lưu, thực sự là…… có \"ý nghĩa\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "――ですから交流を経て生まれた『楽しい』には\n確かに『意味』が……あるのかと。",
+      "choice_data_list": [
+        "……!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Nói cách khác, điều mà cha mẹ yêu cầu tôi——",
+      "jpname": "ミホノブルボン",
+      "jptext": "……つまり、両親が私にオーダーしたことは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không phải là \"nâng cao kỹ năng xã hội\", mà có lẽ là một điều gì đó…… ừm…… dịu dàng hơn thế.",
+      "jpname": "ミホノブルボン",
+      "jptext": "『社会性の向上』ではなく、恐らくもう少し、\n……その……柔らかなもの、なのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù còn chút ngập ngừng, nhưng em đã ghép từng mảnh trải nghiệm lại như trò xếp hình và tự mình hiểu ra chân lý. Sự trưởng thành vượt bậc ấy khiến tôi không thốt nên lời.",
+      "jpname": "モノローグ",
+      "jptext": "たどたどしくはあるが、経験をパズルのように組み立て、\n自力で理解してみせた。圧巻の成長ぶりに言葉が詰まる。",
+      "choice_data_list": [
+        "……Hôm nay, chúng ta hãy chơi thật đã nhé!"
+      ],
+      "jpchoice_data_list": [
+        "……今日は、たくさん遊ぼう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dốc hết những gì mình có thể làm lúc này, tôi dắt Mihono Bourbon vẫn còn đang ngơ ngác hòa vào con đường lễ hội tấp nập.",
+      "jpname": "モノローグ",
+      "jptext": "今の自分にできることをひねり出し、\n戸惑うミホノブルボンを連れて、賑わう大通りへと向かった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Họng súng, xin hãy hạ xuống 5 độ. Lệch quá rồi, nhếch lên một chút—— chính là chỗ đó.",
+      "jpname": "ミホノブルボン",
+      "jptext": "銃口、5度下へ下げてください。\n通り過ぎました、もう少し上――そこです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Đoàng!)",
+      "jpname": "モノローグ",
+      "jptext": "（パンッ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Chủ quầy bắn súng",
+      "text": "Ồ, trúng phóc rồi! Bắn cừ lắm đấy, anh trai!",
+      "jpname": "射的屋",
+      "jptext": "おお～、大当たり！\n上手いねぇ、お兄さん！",
+      "choice_data_list": [
+        "Nhờ chỉ thị chuẩn xác của em ấy cả đấy"
+      ],
+      "jpchoice_data_list": [
+        "指示が的確なんです"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Chủ quầy bắn súng",
+      "text": "Ồ, trúng phóc rồi! Bắn cừ lắm đấy, chị gái!",
+      "jpname": "射的屋",
+      "jptext": "おお～、大当たり！\n上手いねぇ、お姉さん！",
+      "choice_data_list": [
+        "Nhờ chỉ thị chuẩn xác của em ấy cả đấy"
+      ],
+      "jpchoice_data_list": [
+        "指示が的確なんです"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Chủ quầy bắn súng",
+      "text": "Hahaha! Thế à! Hai người đúng là một cặp bài trùng tuyệt vời đấy! Nè cô bé Mã Nương, phần thưởng đây, cầm về đi nhé!",
+      "jpname": "射的屋",
+      "jptext": "はっはっはっは！　そうかい！　いいコンビじゃないか！\nほら、ウマ娘のお姉ちゃん景品だ、持って帰りな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…… Cảm ơn chú rất nhiều.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……。\nありがとうございます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đêm trôi thật nhanh. Sau khi thỏa thích vui chơi từ đục kẹo, ném vòng cho tới bốc thăm, màn đêm đã dần buông sâu lúc nào chẳng hay——",
+      "jpname": "モノローグ",
+      "jptext": "夜は短い。かたぬき、輪投げ、くじ引きと、存分に祭りを\n楽むうち、あっという間に夜は更け――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sắp đến giờ bắn pháo hoa rồi. Chúng ta nên di chuyển đến vị trí có thể ngắm rõ pháo hoa.",
+      "jpname": "ミホノブルボン",
+      "jptext": "そろそろ花火大会が始まります。\n花火の見える位置へ移動するべきかと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Ủa, Bourbon-san!?",
+      "jpname": "素直なウマ娘",
+      "jptext": "あれ、ブルボンさん！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi tình cờ chạm mặt cô bé Mã Nương từng đến bắt chuyện với Mihono Bourbon trên sân tập trước đây.",
+      "jpname": "モノローグ",
+      "jptext": "以前、グラウンドでミホノブルボンに話しかけていた\nウマ娘と鉢合わせた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Việc bạn bắt chuyện như vậy trong giờ nghỉ huấn luyện, tôi suy đoán chắc hẳn phải có ý nghĩa nào đó.",
+      "jpname": "ミホノブルボン",
+      "jptext": "トレーニングの休憩中に、そのような声かけをしたということは、\nなにか意味があるのではと推測します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Xin lỗi nhé, chẳng có ý nghĩa to tát gì đâu, mình chỉ muốn bắt chuyện thử thôi……! Đang giờ nghỉ ngơi quý báu mà làm phiền cậu thế này thì ngại quá! Mình đi trước đây!",
+      "jpname": "素直なウマ娘",
+      "jptext": "ごめん、大した意味なんかなくて、ただ話してみたくて……！\nせっかくの休憩中にお邪魔しちゃってごめんね！　それじゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Oa, Bourbon-san cũng đi lễ hội nữa cơ à…… À không phải! Đ-Đang lúc cậu thư giãn giải tỏa mà mình lại làm phiền, xin lỗi nhé! Tại mình ngạc nhiên quá.",
+      "jpname": "素直なウマ娘",
+      "jptext": "わあ、ブルボンさんもお祭りとか来るんだ……じゃなくて！\nリリ、リフレッシュ中に、ごめんなさい！　びっくりしちゃって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không, không có vấn đề gì. ……Bạn cũng đến đây ngắm pháo hoa sao?",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ、問題ありません。\n……あなたも、花火を見に来たんですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tâm điểm của lễ hội pháo hoa này là quả pháo hoa sanshakudama khổng lồ. Tôi đang rất \"háo hức\" chờ đợi nó.",
+      "jpname": "ミホノブルボン",
+      "jptext": "この花火大会は、三尺玉が目玉の花火になっています。\n私は、それを『楽しみ』にしています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Ủa, điều đó…… nghĩa là…… sao……?",
+      "jpname": "素直なウマ娘",
+      "jptext": "えっと、それってどういう……意味……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Đặc biệt không có ý nghĩa gì cả.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……意味は、特にありません。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "——Hả?",
+      "jpname": "素直なウマ娘",
+      "jptext": "――へ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước câu trả lời bất ngờ thốt ra từ miệng Mihono Bourbon, mắt cô bé tròn xoe kinh ngạc. Có lẽ chuyện này quá đỗi ngoài sức tưởng tượng của cô bé.",
+      "jpname": "モノローグ",
+      "jptext": "突然飛び出たミホノブルボンの言葉に、\n彼女は目を白黒させた。よほど意外だったのだろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dẫu vậy so với trước đây, Mihono Bourbon thực sự đã trưởng thành. Em ấy đang cố gắng trải qua khoảng thời gian \"vui vẻ\" cùng người khác. Nếu đã thế thì——",
+      "jpname": "モノローグ",
+      "jptext": "とはいえ以前と比べて、ミホノブルボンは確かに成長している。\n他者と『楽しい』時間を過ごそうとしている。それならば――",
+      "choice_data_list": [
+        "Em hãy qua chơi cùng bạn ấy đi"
+      ],
+      "jpchoice_data_list": [
+        "一緒に遊んでおいで"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Nhưng mà――",
+      "jpname": "ミホノブルボン",
+      "jptext": "……しかし――",
+      "choice_data_list": [
+        "Vì nhất định sẽ \"vui\" lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "きっと『楽しい』から"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Tiếp nhận mệnh lệnh.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……命令を受理しました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon nhìn thẳng vào mắt cô bạn ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンは、まっすぐに彼女を見た。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Nếu bạn không phiền…… có muốn cùng tôi ngắm pháo hoa không?",
+      "jpname": "ミホノブルボン",
+      "jptext": "もしよろしければ……私と一緒に花火を見ませんか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Vút…… Đùng!)",
+      "jpname": "モノローグ",
+      "jptext": "（ヒュルル……ドーン）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Oa! Quả nhiên pháo hoa tuyệt vời thật đấy! Dù đi một mình nhưng lấy hết can đảm đến đây ngắm thật không uổng phí chút nào.",
+      "jpname": "素直なウマ娘",
+      "jptext": "はぁ～！　やっぱり花火って、すごいなぁ～！\n1人でも、勇気出して見に来てよかったなぁ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Lại còn được gặp Bourbon-san, rồi cùng nhau xem pháo hoa nữa—— Á xin lỗi, mình lại toàn nói mấy chuyện không đâu rồi. Ừm thì……",
+      "jpname": "素直なウマ娘",
+      "jptext": "ブルボンさんにも会えちゃったし、一緒に花火も――\nってごめん、またどうでもいい事ばっかり。えーっと～……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Bạn thích pháo hoa sao?",
+      "jpname": "ミホノブルボン",
+      "jptext": "……あなたは、花火が、好きなんですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Ừ, thích lắm! Vừa to lớn, vừa lung linh lấp lánh, lại còn tiếp thêm dũng khí nữa! Dù là pháo hoa hay bất cứ thứ gì, những gì bản thân không có thì ai cũng đều yêu thích cả!",
+      "jpname": "素直なウマ娘",
+      "jptext": "うん、好き！　大きくて、キラキラしてて、勇気をくれるから！\n花火でも何でも、自分にないものを持ってるのはみんな大好き！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "……Nên là, dù nói thế nghe như bao biện, nhưng thỉnh thoảng mình lại nhầm lẫn về khoảng cách giữa người với người mà lao tới quá trớn. ……Xin lỗi cậu nhé, Bourbon-san.",
+      "jpname": "素直なウマ娘",
+      "jptext": "……だから、って言ったら言い訳だけど、時々距離感を間違えて\n突撃しちゃったりするの。……ごめんね、ブルボンさん。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ra là vậy, tôi đã hiểu. Bạn không giỏi trong việc nắm bắt khoảng cách đúng không? Khoản đó tôi rất cừ đấy.",
+      "jpname": "ミホノブルボン",
+      "jptext": "なるほど、理解しました。\n距離感の把握が苦手ということですね？　私は得意です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Lấy ví dụ thì giữa bạn và tôi đang cách nhau 34 xentimét. Còn quầy đá bào ở hướng 4 giờ phía sau thì cách chúng ta 8 mét 24 xentimét.",
+      "jpname": "ミホノブルボン",
+      "jptext": "例を挙げると、あなたと私の間には34cmの距離があります。\n後方4時の方角にあるかき氷屋からは、8m24cm離れています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "……Chẳng lẽ Bourbon-san thuộc tuýp người ngây ngô tự nhiên sao?",
+      "jpname": "素直なウマ娘",
+      "jptext": "……もしかして、ブルボンさんって天然なの？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cơ thể tôi không hề có linh kiện cơ khí nào, tất cả đều có nguồn gốc từ tự nhiên mà.",
+      "jpname": "ミホノブルボン",
+      "jptext": "体にメカニックな要素はなく、全て自然由来ですが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Oa! Đúng là ngây ngô tự nhiên thật rồi!",
+      "jpname": "素直なウマ娘",
+      "jptext": "わあ～！　天然だ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "——Dưới bầu trời rực sáng ánh pháo hoa, những câu chuyện rôm rả cứ thế tiếp nối không dứt.",
+      "jpname": "モノローグ",
+      "jptext": "――花火の下でのおしゃべりは、しばらく止まることはなかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "——Ngày hôm sau.",
+      "jpname": "モノローグ",
+      "jptext": "――翌日。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Alo, cha đấy ạ? Con là Mihono Bourbon đây. Hôm nay con gọi điện là để báo cáo việc hoàn thành mệnh lệnh——",
+      "jpname": "ミホノブルボン",
+      "jptext": "もしもし、お父さんですか？　ミホノブルボンです。\n今日はオーダー完了の報告のため、電話を――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không, con nói nhầm. Đây là báo cáo tình hình dạo này của con.",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ、間違えました。これは近況報告です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Con đã có bạn rồi cha ạ.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……私に、友人が出来ました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

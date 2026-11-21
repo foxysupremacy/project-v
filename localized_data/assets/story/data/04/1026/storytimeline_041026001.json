@@ -1,0 +1,476 @@
+{
+  "title": "Bí mật của Cyborg",
+  "jptitle": "サイボーグの秘密",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã được vài ngày kể từ khi tôi bắt đầu cuộc sống tại Học viện Tracen với tư cách là một Trainer của các Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘のトレーナーとして\nトレセン学園での生活を始めてから、早数日。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "???",
+      "text": "Phát hiện lỗi. Tại tọa độ mục tiêu, không tìm thấy công trình tương ứng.",
+      "jpname": "？？？",
+      "jptext": "エラー発生。目的の座標にて、該当物件なし。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khi đang rảo bước trên khu phố mua sắm—— tôi bắt gặp bóng dáng một Mã Nương đang đứng bất động.",
+      "jpname": "モノローグ",
+      "jptext": "商店街を歩いていると――\n1人のウマ娘が立ち尽くしている姿を見かけた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "???",
+      "text": "Chức năng GPS của thiết bị cũng phát sinh lỗi. Xác định trạng thái bất lợi: \"Hết cách\".",
+      "jpname": "？？？",
+      "jptext": "端末のGPS機能にも、エラー発生。\nバッドステータス、『万事休す』であると判断。",
+      "choice_data_list": [
+        "……Có chuyện gì thế em?",
+        "……Có chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "……どうしたんだ？",
+        "……どうしたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Xác nhận từ huy hiệu, người là Trainer của Học viện Tracen. Rất vui được gặp, tên của tôi là Mihono Bourbon.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……バッジからトレセン学園のトレーナーであることを確認。\n初めまして、私の名前はミホノブルボンです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hiện tại, trạng thái bất lợi \"Hết cách\" đang xảy ra. Tôi không tìm thấy cửa hàng đồ dùng huấn luyện mới mở ở khu vực này.",
+      "jpname": "ミホノブルボン",
+      "jptext": "現在、バッドステータス『万事休す』が発生中。\nこの近辺に新しくできたトレーニング用品店が見当たりません。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tôi nghe người trong khu mua sắm chỉ dẫn là \"đi dọc con phố này chừng 100 mét\" nên đã đi tới đây, nhưng quanh đây không thấy cửa hàng nào như vậy.",
+      "jpname": "ミホノブルボン",
+      "jptext": "商店街の方から、『この通りをだいたい100ｍ』と伺ったので\n歩いてきたのですが、それらしき店舗が周辺に見つかりません。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ngoài ra, thiết bị cũng đột ngột phát sinh lỗi, gây khó khăn cho việc khởi chạy ứng dụng bản đồ.",
+      "jpname": "ミホノブルボン",
+      "jptext": "また、端末も急なエラーが発生し、地図アプリの展開が困難です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tuy không biết vị trí cửa hàng, nhưng tôi có thể dùng ứng dụng để tra cứu giúp em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "店の場所はわからなかったが、\n代わりにアプリで調べることならできそうだ。",
+      "choice_data_list": [
+        "Để tôi tra cứu giúp em nhé"
+      ],
+      "jpchoice_data_list": [
+        "調べようか"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Làm phiền người rồi.",
+      "jpname": "ミホノブルボン",
+      "jptext": "恐れ入ります。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vị trí cửa hàng hiện ra ngay lập tức. Có vẻ nó nằm cách đây chừng 42 mét đi bộ. Nheo mắt nhìn kỹ về phía trước, quả nhiên đúng là có một cửa hàng như thế.",
+      "jpname": "モノローグ",
+      "jptext": "店の場所はすぐわかった。あと42ｍほど歩いたところにある\nようだ。目を凝らしてみると、たしかにそのような店がある。",
+      "choice_data_list": [
+        "Nó nằm cách đây một đoạn ngắn nữa",
+        "Nó nằm cách đây một đoạn ngắn nữa thôi"
+      ],
+      "jpchoice_data_list": [
+        "ここから、もう少し歩いたところにある",
+        "ここから、もう少し歩いたところにあるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Xin thứ lỗi, \"một đoạn ngắn nữa\" nghĩa là sao?",
+      "jpname": "ミホノブルボン",
+      "jptext": "……すみません、『もう少し』とは？",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Nghĩa là nếu chuyển \"một đoạn ngắn nữa\" thành con số cụ thể, thì khoảng cách là bao nhiêu?",
+      "jpname": "ミホノブルボン",
+      "jptext": "つまり『もう少し』とは、数値化するとどれほどの距離でしょうか。",
+      "choice_data_list": [
+        "Tầm hơn 40 mét chăng?"
+      ],
+      "jpchoice_data_list": [
+        "40ちょっとかな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……\"Tầm hơn 40 mét\"……?",
+      "jpname": "ミホノブルボン",
+      "jptext": "……『40ちょっと』……？",
+      "choice_data_list": [
+        "……Là ở phía trước 42 mét"
+      ],
+      "jpchoice_data_list": [
+        "……42m先です"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đã tiếp nhận thông tin. Cảm ơn người. Phía trước 42 mét tính từ đây, đúng không. Xác định thông tin vừa nhập lúc nãy có sai số 42 mét.",
+      "jpname": "ミホノブルボン",
+      "jptext": "認識完了。ありがとうございます。ここから42m先、ですね。\n先ほどインプットした情報に42mの誤差があったと判明。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Dù là ngoài dự kiến, nhưng trước hết đây là do tôi tra cứu chưa đủ kỹ. Tôi sẽ ghi lại vào nhật ký lỗi và nỗ lực để không tái diễn.",
+      "jpname": "ミホノブルボン",
+      "jptext": "想定外でしたが、そもそもこれは私のリサーチ不足。\nエラーログに記録し、再発防止に努めます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Vậy thì, cảm ơn người rất nhiều. Người đã giúp đỡ tôi rất lớn.",
+      "jpname": "ミホノブルボン",
+      "jptext": "それでは、ありがとうございました。\n大変、助かりました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tiến về phía trước 42 mét. Bắt đầu tác vụ.",
+      "jpname": "ミホノブルボン",
+      "jptext": "42m前進。オペレーション開始。",
+      "choice_data_list": [
+        "(Một cô bé thật kỳ lạ……)"
+      ],
+      "jpchoice_data_list": [
+        "（不思議な子だなぁ……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Để chắc chắn, tôi dõi theo em ấy thì lần này em đã dừng chân chuẩn xác ngay trước cửa hàng cần đến và thuận lợi bước vào trong.",
+      "jpname": "モノローグ",
+      "jptext": "……念のため見守っていると、今度はきちんと目的地であろう\n店の前で足を止め、無事入店していった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vào ngày hôm sau sau cuộc gặp gỡ với nàng Mã Nương lập dị ấy, tôi đến xem một cuộc đua tập nhằm tìm kiếm Mã Nương để chiêu mộ.",
+      "jpname": "モノローグ",
+      "jptext": "そんな一風変わったウマ娘と出会った翌日のこと。\nスカウトしたいウマ娘を探すべく、模擬レースを観に来ていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Cuộc đua này có Mihono Bourbon tham gia đấy nhỉ. Trước khi nhập học ẻm cũng đạt thành tích khá tốt đúng không?",
+      "jpname": "新人トレーナー",
+      "jptext": "このレース、ミホノブルボンがいるんすね。\n入学前のレースでも結構いい成績残してませんでした？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Là cô bé như cyborg ấy đúng không? Tôi từng thấy trên sân tập rồi. Cơ mà, hình như đã――",
+      "jpname": "中堅トレーナー",
+      "jptext": "サイボーグみたいな子よね？\nグラウンドで見たことがあるわ。でも、たしかもう――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Khán đài náo nhiệt với những Trainer cùng đến quan sát để chiêu mộ, ai nấy đều chăm chú dõi theo nhằm tìm ra viên ngọc sáng giá.",
+      "jpname": "モノローグ",
+      "jptext": "観客席は、同じようにスカウト目的で見学に来たトレーナーで\n賑わっており、誰もが有望株を引き抜こうと目を凝らしていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Cạch!)",
+      "jpname": "モノローグ",
+      "jptext": "（ガコンッ）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng cổng xuất phát mở toang vang lên. Những Mã Nương trong trang phục thể thao đồng loạt lao vút ra ngoài.",
+      "jpname": "モノローグ",
+      "jptext": "ゲートが開く音が響く。\nジャージに身を包んだウマ娘たちが、一斉に飛び出した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Người dẫn đầu chạy bốc quá chừng!",
+      "jpname": "新人トレーナー",
+      "jptext": "先頭、随分飛ばしてますね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mã Nương dẫn đầu——Mihono Bourbon, nhanh chóng bứt phá và nới rộng khoảng cách với nhóm bám đuổi chỉ trong chớp mắt.",
+      "jpname": "モノローグ",
+      "jptext": "先頭のウマ娘――ミホノブルボンは、早々に抜け出し\n先行集団からあっという間に距離を開いてみせた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc, hộc!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はっ、はっ、はっ、はっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Đúng như lời đồn, tốc độ thật cuốn hút. Giới cự ly ngắn xuất hiện một tân binh cự phách rồi đây……!",
+      "jpname": "中堅トレーナー",
+      "jptext": "噂通り、魅力的なスピードだわ。\n短距離路線はとんでもない大型新人が現れたわね……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong khi mọi người còn đang kinh ngạc, Mihono Bourbon một mình băng băng trên đoạn đường thẳng cuối cùng——",
+      "jpname": "モノローグ",
+      "jptext": "誰もが圧倒される中、ミホノブルボンは\n独走状態で最終直線を駆け抜け――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc——!!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁっ、はぁっ、はぁっ――！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy không để ai đuổi kịp dù chỉ là cái bóng, thong dong cán đích ở vị trí đầu tiên.",
+      "jpname": "モノローグ",
+      "jptext": "1度も影を踏ませず、悠々と1着をもぎ取ってみせた。",
+      "choice_data_list": [
+        "(Tài năng thật đáng kinh ngạc……!)",
+        "(Tài năng thật đáng kinh ngạc……!)"
+      ],
+      "jpchoice_data_list": [
+        "（なんて才能だ……！）",
+        "（なんて才能……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một tốc độ mạnh mẽ không thể nào ngờ tới từ cô bé mà tôi gặp trên phố hôm trước. Những bước chạy tràn đầy tài năng ấy đã hoàn toàn hớp hồn tôi.",
+      "jpname": "モノローグ",
+      "jptext": "先日街中で出会った彼女からは、想像もつかない力強いスピード。\n才能あふれる走りに、完全に心を奪われてしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Đúng là hạt giống đầy triển vọng……! Phải chiêu mộ trước khi bị người khác nẫng tay trên mới được——",
+      "jpname": "新人トレーナー",
+      "jptext": "すごい有望株っすね……！\n他にとられる前にスカウトしなきゃ――",
+      "choice_data_list": [
+        "(Phải rồi, mình cũng phải nhanh lên——)",
+        "(Phải rồi, mình cũng phải nhanh lên——)"
+      ],
+      "jpchoice_data_list": [
+        "（そうだ、俺も急いで――）",
+        "（そうだ、私も急いで――）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "A, vô ích thôi. Cô bé đó đã có Trainer rồi……",
+      "jpname": "中堅トレーナー",
+      "jptext": "あー、ダメよ。\nもうあの子、トレーナーついちゃってるの……。",
+      "choice_data_list": [
+        "Hảaaa!?"
+      ],
+      "jpchoice_data_list": [
+        "えーっ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Hướng mắt nhìn sang Mihono Bourbon, quả nhiên tôi thấy em ấy đang trò chuyện cùng một Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンに目をやると、確かに1人のトレーナーと\n話をしている様子が見えた。",
+      "choice_data_list": [
+        "(C-Chậm chân mất rồi……!)"
+      ],
+      "jpchoice_data_list": [
+        "（お、遅かった……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Đó chẳng phải là vị Trainer kỳ cựu đầy lão luyện sao. Ôi trời, bị hớt tay trên rồi.",
+      "jpname": "新人トレーナー",
+      "jptext": "あの人、やり手のベテラントレーナーじゃないすか。\nあーあ、先越されちゃったなー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Vị Trainer đó hào hứng bảo rằng đang định hướng cho cô bé đi theo lộ trình cự ly ngắn chuyên biệt đấy.",
+      "jpname": "中堅トレーナー",
+      "jptext": "バリバリの短距離路線で考えてるって、\nあのトレーナーさん、張り切ってたわよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu đã có Trainer rồi thì tôi đành phải từ bỏ. Tôi tự nhủ sẽ âm thầm dõi theo và ủng hộ những bước tiến sau này của em ấy……",
+      "jpname": "モノローグ",
+      "jptext": "すでにトレーナーがいるのなら諦めるほかない。\n今後の活躍を陰ながら応援しようと心に決めた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tối hôm ấy, trên đường chuẩn bị về nhà, khi đang thong thả đi dạo trong khuôn viên trường thì——",
+      "jpname": "モノローグ",
+      "jptext": "その日の夜。\n帰宅がてら、ぶらぶらと校内を散歩していると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc, hộc!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁっ、はぁっ、はぁっ、はぁっ！",
+      "choice_data_list": [
+        "(Mihono Bourbon……!)"
+      ],
+      "jpchoice_data_list": [
+        "（ミホノブルボン……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bắt gặp Mihono Bourbon dường như đang tự luyện tập một mình.",
+      "jpname": "モノローグ",
+      "jptext": "自主トレーニング中らしきミホノブルボンを見かけた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, vượt qua mốc 1800 mét, còn lại 1200 mét. Thời gian 2 phút 04 giây…… Giảm sút nghiêm trọng so với tốc độ mục tiêu……!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁっ、はぁっ、1800m通過、残り1200m。\nタイム2分04秒っ……。目標速度より大幅に低下……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy đang tự bấm giờ sao? Cơ mà dù vậy thì——",
+      "jpname": "モノローグ",
+      "jptext": "タイムを計っているのだろうか。\nそれにしても――",
+      "choice_data_list": [
+        "(……3000 mét ư!?)"
+      ],
+      "jpchoice_data_list": [
+        "（……3000m！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thông thường, người ta không bao giờ cho một Mã Nương chưa ra mắt và cơ thể chưa hoàn thiện tập luyện ở cự ly dài đến mức này.",
+      "jpname": "モノローグ",
+      "jptext": "通常、体が出来上がっていないデビュー前のウマ娘に、\nここまで長い距離のトレーニングをさせることはない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Ư!",
+      "jpname": "ミホノブルボン",
+      "jptext": "……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc……",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁ、はぁ、はぁ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "!!"
+      ],
+      "jpchoice_data_list": [
+        "！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thấy Mihono Bourbon đột ngột ngã quỵ, tôi vội vã lao tới——",
+      "jpname": "モノローグ",
+      "jptext": "突如倒れこんだミホノブルボンに、慌てて駆け寄った――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "title": "Mệnh lệnh từ cha mẹ",
+  "jptitle": "両親からのオーダー",
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đã hoàn thành chỉ tiêu trước 17 giờ. Nghỉ ngắn 10 phút, sau đó chuyển sang bài huấn luyện tiếp theo.",
+      "jpname": "ミホノブルボン",
+      "jptext": "17時までのノルマ達成。\n10分の小休止を挟み、次のトレーニングに移行します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "A, cho mình hỏi, cậu là Mihono Bourbon đúng không?",
+      "jpname": "素直なウマ娘",
+      "jptext": "あ、あの、ミホノブルボンさんだよね？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vào một ngày nọ trong giờ nghỉ giải lao huấn luyện, một Mã Nương chạy vội về phía Mihono Bourbon.",
+      "jpname": "モノローグ",
+      "jptext": "ある日のトレーニング休憩中。\nミホノブルボンに、1人のウマ娘が駆け寄ってきた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Đột ngột thế này xin lỗi cậu nhé, thấy cậu lúc nào cũng tập luyện nghiêm khắc và nỗ lực hết mình nên mình thấy tò mò quá chừng……!",
+      "jpname": "素直なウマ娘",
+      "jptext": "急にごめんね、いつもハードトレーニングしてて、\nがんばってるな～って気になってて……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không sao, tôi hoan nghênh \"hội thoại\". Có chuyện gì vậy?",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ、『会話』は歓迎します。\nどうしましたか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "A, ừm thì, chuyện là…… vốn dĩ cậu chạy cự ly ngắn đúng không? Vậy mà giờ cũng chạy được cả cự ly trung bình nữa! Thật sự đỉnh lắm luôn đấy!",
+      "jpname": "素直なウマ娘",
+      "jptext": "あ、えっと、その……もともと短距離だったんだよね？\nなのに中距離も走れるようになったって！　本当、すごいよ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước cô bạn đang có chút phấn khích, Mihono Bourbon chăm chú nhìn không chớp mắt.",
+      "jpname": "モノローグ",
+      "jptext": "やや興奮した面持ちの彼女を、\nミホノブルボンはじっと見つめた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Lời bắt chuyện đó của bạn mang hàm ý gì vậy?",
+      "jpname": "ミホノブルボン",
+      "jptext": "あなたのその声かけは、どういった意味合いを持っていますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Hả?",
+      "jpname": "素直なウマ娘",
+      "jptext": "え？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Việc bạn bắt chuyện như vậy trong giờ nghỉ huấn luyện, tôi suy đoán chắc hẳn phải có ý nghĩa nào đó.",
+      "jpname": "ミホノブルボン",
+      "jptext": "トレーニングの休憩中に、そのような声かけをしたということは、\nなにか意味があるのではと推測します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ví dụ như đặt câu hỏi, quan sát, xác nhận sự thật, chẳng hạn. Điều nào tương ứng với \"ý nghĩa\" khi bạn bắt chuyện vậy?",
+      "jpname": "ミホノブルボン",
+      "jptext": "例えば、質問、視察、事実確認、などが該当しますが、\nどれがあなたが声かけを行った“意味”に当てはまりますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Ý, ý nghĩa……?",
+      "jpname": "素直なウマ娘",
+      "jptext": "い、意味……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngẫm nghĩ lại câu hỏi của Mihono Bourbon, gương mặt cô bạn dần đỏ bừng lên.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンの問いを反芻した彼女は、\nゆっくりと赤面した。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương ngoan ngoãn",
+      "text": "Xin lỗi nhé, chẳng có ý nghĩa to tát gì đâu, mình chỉ muốn bắt chuyện thử thôi……! Đang giờ nghỉ ngơi quý báu mà làm phiền cậu thế này thì ngại quá! Mình đi trước đây!",
+      "jpname": "素直なウマ娘",
+      "jptext": "ごめん、大した意味なんかなくて、ただ話してみたくて……！\nせっかくの休憩中にお邪魔しちゃってごめんね！　それじゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không, tôi……",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ、私は……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dõi theo bóng lưng cô bạn đang chạy vụt đi, Mihono Bourbon lại đứng nhìn theo chăm chú.",
+      "jpname": "モノローグ",
+      "jptext": "走り去っていく彼女を、\nミホノブルボンはやはりまた、じっと見送っていた。",
+      "choice_data_list": [
+        "……Có chuyện gì thế em?",
+        "……Có chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "……どうしたんだ？",
+        "……どうしたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Chỉ số mục tiêu chưa đạt, tức là \"thất bại\", nên tôi đang phân tích nguyên nhân và tìm đối sách.",
+      "jpname": "ミホノブルボン",
+      "jptext": "目的のパラメータが未達成、つまり『失敗』であるため、\nその原因と対策を解析しています。",
+      "choice_data_list": [
+        "Chỉ số mục tiêu ư?"
+      ],
+      "jpchoice_data_list": [
+        "目的のパラメータ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đó là các thông số về biểu cảm, âm sắc và các giá trị số trong hội thoại được tính toán từ nhật ký dữ liệu riêng, nhằm đạt được \"hội thoại\" chất lượng hơn.",
+      "jpname": "ミホノブルボン",
+      "jptext": "より良質な『会話』を達成するために、独自のデータログより\n算出した、会話における表情、声色、各数値のパラメータです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "……Dù có quá nhiều chỗ cần phải bắt bẻ, nhưng tóm lại là theo cách của mình, em ấy đang cố gắng giao tiếp thật tốt đúng không?",
+      "jpname": "モノローグ",
+      "jptext": "……色々とツッコミどころはあるが、つまり\n彼女なりに上手く会話をしようとしていた、ということだろうか？",
+      "choice_data_list": [
+        "Sao em lại làm chuyện đó?"
+      ],
+      "jpchoice_data_list": [
+        "どうしてそんなことを？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Bởi vì tôi nhận được mệnh lệnh \"nâng cao kỹ năng xã hội\" từ cha mẹ.",
+      "jpname": "ミホノブルボン",
+      "jptext": "両親から『社会性の向上』をオーダーされていますので。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Từ thuở nhỏ tôi đã cùng cha đắm mình vào việc huấn luyện từ sáng đến tối, kết quả là đã bỏ lỡ việc giao lưu cùng bạn bè đồng trang lứa.",
+      "jpname": "ミホノブルボン",
+      "jptext": "私は幼少期より父と共にトレーニングに明け暮れ、\n結果、同年代との交流を逃してきました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Trong hoàn cảnh đó, khi việc nhập học Học viện Tracen được quyết định, cha mẹ lo lắng về kỹ năng xã hội thấp kém của tôi nên đã căn dặn.",
+      "jpname": "ミホノブルボン",
+      "jptext": "そんな中、トレセン学園への入学が決まり、\n社会性の低さを心配した両親は私に言い聞かせました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Họ bảo rằng \"Ở Học viện Tracen, con phải biết trân trọng việc giao lưu với bạn cùng lớp, và xa hơn nữa là bạn bè\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "『トレセン学園では、クラスメイト、ひいては友人との\n交流を大切にしなさい』と。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Quả thực, những việc như phỏng vấn hay giao lưu với người hâm mộ đều đòi hỏi kỹ năng xã hội. Đối với một Mã Nương, \"nâng cao kỹ năng xã hội\" là điều không thể tránh khỏi.",
+      "jpname": "ミホノブルボン",
+      "jptext": "確かに、取材・ファンとの交流など社会性は必須。\nウマ娘に『社会性の向上』は避けては通れない事項です。",
+      "choice_data_list": [
+        "(……Hửm?)"
+      ],
+      "jpchoice_data_list": [
+        "（……ん？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Để đáp ứng mệnh lệnh của cha mẹ, tôi đã tạo ra các thông số và chủ động thực hiện \"hội thoại\" với mục tiêu \"nâng cao kỹ năng xã hội\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "両親のオーダーに応えるためパラメータを作成し、\n『社会性の向上』を目標に、積極的に『会話』を行っています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thế nhưng, kể từ khi nhập học, các thông số lại liên tục sụt giảm nhẹ. Với tiến độ này thì việc hoàn thành mục tiêu là bất khả thi.",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし、入学時よりパラメータは微減の一途をたどっています。\nこのペースでは目標達成は不可能でしょう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hôm nay tôi đã thử áp dụng kỹ thuật \"hỏi về những điểm còn thắc mắc\" đã nạp từ tài liệu tham khảo, nhưng cô bạn ấy lại bỏ đi mất.",
+      "jpname": "ミホノブルボン",
+      "jptext": "今日は参考文献でインプットしたテクニック、『疑問点を\n質問する』を心掛けましたが、彼女は立ち去ってしまいました。",
+      "choice_data_list": [
+        "(……Chà chà!)"
+      ],
+      "jpchoice_data_list": [
+        "（……うーん！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon hành động với niềm tin vững chắc, nhưng có vẻ em ấy đang hiểu lầm đủ thứ chuyện rồi.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンは確信をもって行動しているようだが、\nなんだかいろいろ勘違いしているように思えた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vốn dĩ, những bậc cha mẹ yêu thương con gái có bao giờ lại đưa ra mệnh lệnh máy móc kiểu \"phải giao lưu với người khác\" chỉ đơn thuần vì mục đích \"nâng cao kỹ năng xã hội\" hay không?",
+      "jpname": "モノローグ",
+      "jptext": "そもそも、娘想いのご両親が『社会性向上』のためだけに『他者と\n交流をしなさい』、などといった機械的なオーダーをするだろうか。",
+      "choice_data_list": [
+        "Điều mà cha mẹ em muốn nói là——"
+      ],
+      "jpchoice_data_list": [
+        "ご両親が言いたかったのは――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng phải chỉ đơn giản là \"mong em tận hưởng khoảng thời gian bên bạn bè\" thôi sao. Khi tôi nói vậy, vẻ hoang mang hiện rõ trên nét mặt Mihono Bourbon.",
+      "jpname": "モノローグ",
+      "jptext": "単純に『友だちとの時間を楽しんで欲しい』ということ\nではないのか。そう伝えるとミホノブルボンに戸惑いが見えた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Xin lỗi người, tôi không hiểu được ý đồ của câu nói đó. Trong cơ sở dữ liệu của tôi không tìm thấy kiến thức nào về điều này.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……すみません、言葉の意図がわかりません。私の\nデータベースにはその言葉についてのナレッジが見つかりません。",
+      "choice_data_list": [
+        "À thì……"
+      ],
+      "jpchoice_data_list": [
+        "ええっと……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tức là, có rất nhiều điều bổ ích nhận được từ việc giao lưu với bạn bè—— Đúng lúc tôi đang định giải thích như thế thì……",
+      "jpname": "モノローグ",
+      "jptext": "つまり、友だちとの交流から得られるものはたくさんあって――\nと、いうようなことを伝えようとしたところで……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Giờ nghỉ đã lố 20 giây. Tôi sẽ nhanh chóng quay lại buổi huấn luyện.",
+      "jpname": "ミホノブルボン",
+      "jptext": "――休憩を20秒オーバーしていました。\n迅速にトレーニングに戻ります。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon đã chạy thẳng ra đường đua mất rồi.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンはコースへと駆けて行ってしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "——Với tư cách là một Mã Nương, Mihono Bourbon đang phát triển rất thuận lợi. Tuy nhiên, dù tốt hay xấu thì nét tính cách xa rời thực tế ở em ấy vẫn chẳng hề thay đổi.",
+      "jpname": "モノローグ",
+      "jptext": "――ウマ娘としては、順調に成長してきているミホノブルボン。\nしかし、良くも悪くもどこか浮世離れしているところは変わらない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mong rằng một ngày nào đó em ấy sẽ hiểu được ý nghĩa đằng sau lời dặn của cha mẹ. Tôi thầm nguyện ước điều đó trong khi dõi mắt nhìn theo bóng lưng em chạy xa dần.",
+      "jpname": "モノローグ",
+      "jptext": "いつかご両親の言葉の意味を理解できる日がきますように。\nそう願いながら、走り去る彼女の背中を見送った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

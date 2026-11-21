@@ -1,0 +1,544 @@
+{
+  "title": "Bước đi đầu tiên",
+  "jptitle": "最初の一歩",
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thông qua nạp lượng nước thích hợp và nghỉ ngơi, mạch đập lẫn huyết áp đều đã chuyển về chỉ số bình thường. Bảo trì hoàn tất.",
+      "jpname": "ミホノブルボン",
+      "jptext": "適量の水分チャージ、休息により、脈拍、血圧共に正常値に推移。\nメンテナンス完了。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cảm ơn người rất nhiều. Vậy tôi xin phép.",
+      "jpname": "ミホノブルボン",
+      "jptext": "ありがとうございました。それでは、失礼します。",
+      "choice_data_list": [
+        "Thật sự không sao chứ em?",
+        "Thật sự không sao chứ em?"
+      ],
+      "jpchoice_data_list": [
+        "本当に大丈夫か？",
+        "本当に大丈夫？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Vâng. Xác định là mệt mỏi tạm thời do tiêu hao thể lực quá mức. Hiện tại đang hồi phục thuận lợi. Tức là \"ổn\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "はい。激しいスタミナ消耗による一時的な疲労と判断。\n現在、順調に回復中。つまり『大丈夫』です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Phân tích cho thấy còn 7 phút 28 giây nữa sẽ hồi phục đến phạm vi có thể chạy được. Tôi sẽ điều hòa nhịp thở và chờ đợi hồi phục.",
+      "jpname": "ミホノブルボン",
+      "jptext": "残り7分28秒で走行可能範囲内まで回復と解析。\n呼吸を整えつつ、回復を待ちます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn dáng vẻ vẫn chưa có ý định dừng buổi tập của em ấy, tôi bỗng có dự cảm chẳng lành.",
+      "jpname": "モノローグ",
+      "jptext": "まだトレーニングを終える気のない様子に、嫌な予感がする。",
+      "choice_data_list": [
+        "……Hồi phục xong là về nhà đúng không em?",
+        "……Hồi phục xong là về nhà đúng không em?"
+      ],
+      "jpchoice_data_list": [
+        "……回復したら帰るんだよな？",
+        "……回復したら帰るんだよね？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Không. Sau khi hồi phục, tôi dự định chạy 2000 mét.",
+      "jpname": "ミホノブルボン",
+      "jptext": "いえ。回復後、2000mの走行を予定しています。",
+      "choice_data_list": [
+        "Không được",
+        "Không được đâu"
+      ],
+      "jpchoice_data_list": [
+        "ダメだ",
+        "ダメ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tại sao?",
+      "jpname": "ミホノブルボン",
+      "jptext": "なぜ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cơ thể vẫn chưa phát triển hoàn thiện mà lại chạy quá sức như vậy sẽ dẫn đến chấn thương. Tôi tóm tắt ngắn gọn điều đó cho em hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "まだ体が完成していないのに無茶な走りをすることは、\n故障の原因になる。そう、かいつまんで伝えた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Nhưng tôi có mục tiêu bắt buộc phải đạt được.",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし、私には到達すべき目標があります。",
+      "choice_data_list": [
+        "Mục tiêu ư?"
+      ],
+      "jpchoice_data_list": [
+        "目標？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đó là đoạt danh hiệu Triple Crown của mùa Classic.",
+      "jpname": "ミホノブルボン",
+      "jptext": "クラシック三冠達成です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Triple Crown của mùa Classic chủ yếu ám chỉ các cuộc đua GⅠ cự ly trung bình và dài gồm \"Satsuki Sho\", \"Nippon Derby\" và \"Kikka Sho\".",
+      "jpname": "モノローグ",
+      "jptext": "クラシック三冠とは主に、中・長距離ＧⅠレース\n『皐月賞』『日本ダービー』『菊花賞』を指す。",
+      "choice_data_list": [
+        "(Khoan…… nhưng mà hình như……)"
+      ],
+      "jpchoice_data_list": [
+        "（あれ……でも、たしか……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Vị Trainer đó hào hứng bảo rằng đang định hướng cho cô bé đi theo lộ trình cự ly ngắn chuyên biệt đấy.",
+      "jpname": "中堅トレーナー",
+      "jptext": "バリバリの短距離路線で考えてるって、\nあのトレーナーさん、張り切ってたわよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trainer của Mihono Bourbon đáng lẽ phải hướng đến cự ly ngắn chứ nhỉ. Liệu họ có đồng thuận nhắm tới Triple Crown của mùa Classic không?",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンのトレーナーは短距離を目指していたはずだ。\n合意の上でクラシック三冠を狙っているんだろうか。",
+      "choice_data_list": [
+        "Trainer của em có biết chuyện này không?",
+        "Trainer của em có biết chuyện này không?"
+      ],
+      "jpchoice_data_list": [
+        "君のトレーナーさんは知ってるのか？",
+        "貴方のトレーナーさんは知ってるの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Master thì――",
+      "jpname": "ミホノブルボン",
+      "jptext": "……マスターは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Từ hồ sơ cơ sở dữ liệu Twinkle Series của Master, tôi xác nhận người từng có tổng cộng 26 chiến thắng ở các cuộc đua cấp cao cự ly trung bình và dài.",
+      "jpname": "ミホノブルボン",
+      "jptext": "マスターのトゥインクル・シリーズのデータベースレコードより、\n中・長距離の重賞レースにて通算26回の勝利記録を確認しました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tôi cũng muốn đưa ra yêu cầu huấn luyện dành cho Triple Crown của mùa Classic.",
+      "jpname": "ミホノブルボン",
+      "jptext": "私も、クラシック三冠用のトレーニングをリクエストします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Nhưng em…… vốn dĩ đâu có hợp với cự ly dài. Chính em cũng hiểu điều đó mà đúng không?",
+      "jpname": "ベテラントレーナー",
+      "jptext": "しかし君は……そもそも長い距離には向いていない。\n自分でもわかっているだろう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đúng là cự ly thích ứng mặc định của tôi là cự ly ngắn. Tuy nhiên, thể lực có thể bù đắp bằng nỗ lực.",
+      "jpname": "ミホノブルボン",
+      "jptext": "たしかに、デフォルトの適性距離は短距離です。\nしかし、スタミナは努力で補完可能かと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Em còn đối mặt với nguy cơ hủy hoại cơ thể đấy.",
+      "jpname": "ベテラントレーナー",
+      "jptext": "体を壊すリスクもある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Xin đừng lo lắng. Từ nhỏ tôi đã trải qua chế độ huấn luyện khắc nghiệt dưới sự chỉ dạy của cha, một cựu Trainer. Tức là tôi đã quen rồi.",
+      "jpname": "ミホノブルボン",
+      "jptext": "ご心配は無用です。幼少期より元トレーナーである父の下、\nハードトレーニングを重ねてきました。つまり、慣れています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "……Phù.",
+      "jpname": "ベテラントレーナー",
+      "jptext": "……はぁ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Ở cự ly ngắn, em hoàn toàn có thể tiến rất xa. Tại sao lại cứ nhất quyết đưa ra một đề xuất phi thực tế như thế chứ……",
+      "jpname": "ベテラントレーナー",
+      "jptext": "君は、短距離でならいいところまで行けるんだぞ。\nどうしてわざわざ非現実的な提案をするんだ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "——Và tình trạng là người ấy \"không hề mặn mà\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "――と、『乗り気でない』状態です。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sau đó tôi đã gửi lại yêu cầu tương tự hai lần, nhưng không nhận được phản hồi thay đổi lộ trình.",
+      "jpname": "ミホノブルボン",
+      "jptext": "以降、2度同様のリクエストを行いましたが、\n路線変更のレスポンスはありませんでした。",
+      "choice_data_list": [
+        "(……Thành thật mà nói, mình cũng hiểu cảm giác của ông ấy)"
+      ],
+      "jpchoice_data_list": [
+        "（……正直、彼の気持ちもわかる）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tốc độ của Mihono Bourbon trong cuộc đua tập cho thấy tài năng rõ rệt. Không tận dụng điều đó cho cự ly ngắn thì quả thực quá đỗi đáng tiếc.",
+      "jpname": "モノローグ",
+      "jptext": "模擬レースで見たミホノブルボンのスピードには才能が感じられた。\nあれを短距離に活かさないのは、あまりに惜しい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tuy nhiên, mục tiêu cuối cùng của tôi trước sau như một vẫn là \"đoạt danh hiệu Triple Crown mùa Classic\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし、私の最終目標はあくまで『クラシック三冠達成』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Dựa trên lưu đồ tự xây dựng, tôi đang thực hiện huấn luyện cự ly trung bình và dài nhằm tùy biến chức năng cơ thể.",
+      "jpname": "ミホノブルボン",
+      "jptext": "独自のフローチャートから中・長距離のトレーニングを行い、\n身体機能をカスタマイズしています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Việc này nhằm mục đích tạo ra kết quả từ 1 chiến thắng trở lên ở cự ly trung bình trở lên, từ đó thúc đẩy Master thay đổi lộ trình.",
+      "jpname": "ミホノブルボン",
+      "jptext": "これは、中距離以上のレースで1勝以上の結果を捻出し、\nマスターへ路線変更を促す目的があります。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ý chí đoạt danh hiệu Triple Crown của Mihono Bourbon có vẻ rất kiên định. Dẫu vậy, việc để em ấy một mình tiếp tục bài tập quá sức này sẽ rất nguy hiểm.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンの三冠達成への意志は固いようだ。とはいえ、\nこれ以上無茶なトレーニングを1人でするのは危険だろう。",
+      "choice_data_list": [
+        "Trước mắt hãy thử nói chuyện lại với Trainer phụ trách xem——"
+      ],
+      "jpchoice_data_list": [
+        "まずは担当トレーナーともう1度話を――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Đã 7 phút rưỡi trôi qua. Thể lực đã hồi phục đến phạm vi có thể chạy.",
+      "jpname": "ミホノブルボン",
+      "jptext": "7分半が経過。\n体力、走行可能範囲内まで回復。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Vậy tôi xin phép.",
+      "jpname": "ミホノブルボン",
+      "jptext": "それでは、失礼します。",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng biết có nghe lọt tai hay không, chưa kịp để tôi ngăn lại thì Mihono Bourbon đã lại lao vút đi.",
+      "jpname": "モノローグ",
+      "jptext": "聞いているのかいないのか、止める間もなく、\nミホノブルボンは再び走り出してしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc, hộc……!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁっ、はぁっ、はぁっ、はぁっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(Đã qua mốc 1200 mét, thời gian chậm trễ đáng kể. Triển khai lưu đồ đạt mục tiêu—— bắt buộc phải tăng tốc)",
+      "jpname": "ミホノブルボン",
+      "jptext": "（1200m通過、タイム大幅に遅れあり。\n目標達成のフローチャート展開――スピードアップ必須）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ư……!",
+      "jpname": "ミホノブルボン",
+      "jptext": "くっ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn từ xa cũng thấy rõ đây là một bài tập quá đỗi điên rồ.",
+      "jpname": "モノローグ",
+      "jptext": "遠目でもわかる、明らかに無茶なトレーニングだ。",
+      "choice_data_list": [
+        "(Không thể đứng nhìn thế này được……!)"
+      ],
+      "jpchoice_data_list": [
+        "（見ていられない……！）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chỉ đưa ra lời khuyên thôi. Không can thiệp chỉ đạo. Tôi hạ quyết tâm như vậy rồi vội vã chạy về phía Mihono Bourbon.",
+      "jpname": "モノローグ",
+      "jptext": "アドバイスを送るだけ。指導はしない。\nそう覚悟を決めてミホノブルボンのもとへ急いだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc……!",
+      "jpname": "ミホノブルボン",
+      "jptext": "はぁ、はぁ……っ！",
+      "choice_data_list": [
+        "……Hãy chú ý đến thời gian từng vòng chạy xem"
+      ],
+      "jpchoice_data_list": [
+        "……ラップタイムを意識しよう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Thời gian từng vòng chạy ư?",
+      "jpname": "ミホノブルボン",
+      "jptext": "ラップタイム、ですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thứ cần thiết ở cự ly trung bình và dài là phân bổ tốc độ. Chìa khóa để cải thiện thành tích không phải là dốc kiệt sức mù quáng, mà là duy trì bước chạy ổn định.",
+      "jpname": "モノローグ",
+      "jptext": "中・長距離で必要なのはペース配分だ。無暗に全力を出すのでは\nなく、安定して走り続けることが、タイム更新のミソとなる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từ vụ lạc đường hôm trước cho đến việc em ấy nhẩm đếm chính xác cự ly và từng giây, khả năng đo lường chuẩn xác của em rất cừ, dại gì mà không tận dụng.",
+      "jpname": "モノローグ",
+      "jptext": "先日の迷子事件といい、空で距離と秒数を数えていた事といい、\n正確に物事を計るのはかなり得意なようだし、使わない手はない。",
+      "choice_data_list": [
+        "Nhất định thời gian sẽ rút ngắn lại"
+      ],
+      "jpchoice_data_list": [
+        "きっとタイムは縮む"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Đã rõ. Đã nạp thông tin. Ngay khi thể lực hồi phục, tôi sẽ bắt đầu đo đạc.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……了解しました。情報をインプット。体力回復次第、測定を開始。",
+      "choice_data_list": [
+        "Ngoài ra, trước tiên hãy bắt đầu từ 1600 mét đã"
+      ],
+      "jpchoice_data_list": [
+        "それと、まずは1600mから始めよう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Nhưng mà――",
+      "jpname": "ミホノブルボン",
+      "jptext": "しかし――",
+      "choice_data_list": [
+        "Không cần phải nôn nóng đâu",
+        "Không cần phải nôn nóng đâu em"
+      ],
+      "jpchoice_data_list": [
+        "焦る必要はない",
+        "焦る必要はないよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Đã rõ. Chuyển đổi trạng thái sang \"thong dong\". Tôi sẽ bắt đầu huấn luyện \"từ tốn, không nóng vội\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "……了解しました。ステータスを『おおらか』に変更。\n『焦らず、ゆっくり』トレーニングを開始します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc, hộc.",
+      "jpname": "ミホノブルボン",
+      "jptext": "はっ、はっ、はっ、はっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(Qua mốc 400 mét, đúng thời gian thiết lập. Cập nhật điểm mục tiêu 600 mét, chú ý thời gian vòng chạy――)",
+      "jpname": "ミホノブルボン",
+      "jptext": "（400m通過、設定タイム通り。\n目標地点600mに更新、ラップタイムを意識――）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hộc, hộc, hộc, hộc.",
+      "jpname": "ミホノブルボン",
+      "jptext": "はっ、はっ、はっ、はっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(……Xác nhận nhịp thở ổn định)",
+      "jpname": "ミホノブルボン",
+      "jptext": "（……呼吸の安定を確認）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon đã chạy hết cự ly 1600 mét với phong độ vô cùng ổn định.",
+      "jpname": "モノローグ",
+      "jptext": "ミホノブルボンは、1600mを安定した調子で走り抜けた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Đã phá kỷ lục cá nhân.",
+      "jpname": "ミホノブルボン",
+      "jptext": "……自己ベスト、更新しました。",
+      "choice_data_list": [
+        "Làm tốt lắm! Chúc mừng em!"
+      ],
+      "jpchoice_data_list": [
+        "やった！おめでとう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bất giác phấn khích vỗ tay tán thưởng. Thế nhưng, Mihono Bourbon vẫn đứng đờ người với vẻ mặt không cảm xúc.",
+      "jpname": "モノローグ",
+      "jptext": "思わず興奮して、拍手を送る。\nしかし、ミホノブルボンは無表情なまま固まっていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…………",
+      "jpname": "ミホノブルボン",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "……Ủa?"
+      ],
+      "jpchoice_data_list": [
+        "……あれ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "……Xác nhận trạng thái đang chuyển biến sang \"vui sướng\".",
+      "jpname": "ミホノブルボン",
+      "jptext": "……ステータス『喜び』への推移を確認。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Nhờ lời khuyên hữu ích của người, tôi đã tiến thêm một bước đến mục tiêu đoạt danh hiệu Triple Crown. Tôi vô cùng cảm kích.",
+      "jpname": "ミホノブルボン",
+      "jptext": "効果的なアドバイスにより、三冠達成へ1歩近づきました。\n感謝しています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mihono Bourbon thì thầm với nét mặt không chút biểu cảm. Nhưng chẳng hiểu sao, tôi lại thấy dường như em ấy đang mỉm cười nhẹ.",
+      "jpname": "モノローグ",
+      "jptext": "そう呟いたミホノブルボンは無表情だ。\nでもなぜだか、少しだけほほ笑んでいるように見えた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, những chuỗi ngày tôi đến đường chạy hằng đêm để trông chừng không để em ấy tập luyện quá sức đã bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、彼女が無茶をしないよう夜な夜なコースに来ては、\n見守る毎日が始まったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
