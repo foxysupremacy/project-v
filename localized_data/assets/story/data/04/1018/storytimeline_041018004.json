@@ -1,0 +1,535 @@
+{
+  "title": "Cho tới ngày hoa nở",
+  "jptitle": "いつか花咲くその日まで",
+  "text_block_list": [
+    {
+      "name": "Air Groove",
+      "text": "Tôi là \"Nữ Đế\" Air Groove. Cái tên này hiện diện là để hiện thực hóa lý tưởng của mọi Mã Nương, trở thành kim chỉ nam dẫn lối cho muôn người.",
+      "jpname": "エアグルーヴ",
+      "jptext": "私は“女帝”エアグルーヴ。あらゆるウマ娘の理想を体現し、\n皆にとっての指針となるためにこの名が在る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Air Groove luôn nỗ lực hết mình để xứng danh là \"Nữ Đế\" mà bản thân hằng khao khát.",
+      "jpname": "モノローグ",
+      "jptext": "常に自らが志した“女帝”であろうとする、エアグルーヴ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có lẽ chưa thể nói rằng tôi đã hoàn toàn thấu hiểu hết chân ý của em. Thế nhưng khi cùng ngắm nhìn một khung cảnh và không ngừng suy ngẫm, trong tôi đã hé lộ một câu trả lời.",
+      "jpname": "モノローグ",
+      "jptext": "その真意を完全に理解したとはまだ言えないだろう。\nだが同じ景色を見て、ひたすら考えるうちに1つの答えは出ていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ra là vậy...! Em cảm ơn chị nhiều lắm ạ. Em sẽ thử làm theo ngay...!",
+      "jpname": "メジロドーベル",
+      "jptext": "なるほど……！\nありがとうございます。やってみます……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ừ...! Cảm ơn cậu nhé, Air Groove.",
+      "jpname": "サイレンススズカ",
+      "jptext": "ええ……！　ありがとう、エアグルーヴ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nét mặt rạng rỡ của các đàn em, và trên hết, ánh mắt dịu dàng của Air Groove khi dõi theo họ.",
+      "jpname": "モノローグ",
+      "jptext": "後輩たちの明るい表情と、\nそして何より、それを優しく見守るエアグルーヴの眼差し。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chắc chắn việc chỉ bảo đàn em hay gánh vác việc Hội học sinh đều là những điều vô cùng hệ trọng mà Air Groove phải nâng niu trân quý.",
+      "jpname": "モノローグ",
+      "jptext": "きっと後輩への指導も、生徒会活動も、\nエアグルーヴにとってはとても大切にせねばならないことなのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu vậy thì——",
+      "jpname": "モノローグ",
+      "jptext": "ならば――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "——Ơ? Giáo án tự tập của em, Trainer sẽ xem giúp thay cho tiền bối Air Groove ạ!?",
+      "jpname": "ウマ娘A",
+      "jptext": "――えっ？　私の自主トレメニュー、エアグルーヴ先輩の代わりに\nトレーナーさんが見てくださるんですか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Oa, em cảm ơn nhiều lắm ạ!! Vậy trước hết là cách rèn luyện nhóm cơ bứt tốc ạ...",
+      "jpname": "ウマ娘A",
+      "jptext": "わぁっ、ありがとうございます！！\nじゃあまず、アクセル筋の鍛え方なんですけど……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thành viên hội học sinh",
+      "text": "Aizz, tổng hợp tài liệu khó quá đi thôi... Hay là mình đi tìm Phó chủ tịch xin ý kiến nhỉ...",
+      "jpname": "生徒会役員",
+      "jptext": "あ～ん、資料をまとめるのって難しいよ～……。\n副会長に相談しに行こうかなぁ……。",
+      "choice_data_list": [
+        "Nếu được thì để tôi lắng nghe giúp cho nhé",
+        "Nếu được thì cứ để tôi nghe thay cho nhé"
+      ],
+      "jpchoice_data_list": [
+        "よかったら俺が代わりに聞くよ",
+        "よかったら私が代わりに聞くよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Thành viên hội học sinh",
+      "text": "Ơ, được thật sao ạ!? Vậy phiền người giúp em với nhé! Số là cách tổng hợp kết quả bình chọn này——",
+      "jpname": "生徒会役員",
+      "jptext": "えっ、いいんですか！？　じゃあお願いしますー！\nこの投票結果のまとめ方なんですが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Này. Ngươi đang tính toán cái gì thế hả?",
+      "jpname": "エアグルーヴ",
+      "jptext": "おい。貴様、何を考えている？",
+      "choice_data_list": [
+        "Em đang nói chuyện gì cơ?",
+        "Là chuyện gì thế em?"
+      ],
+      "jpchoice_data_list": [
+        "何のことだ？",
+        "何のこと？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đừng có giả ngây giả ngô. Ngươi nghĩ tôi không nhận ra chắc? Ngươi đang tự ý gánh vác thay tôi chuyện chỉ dẫn đàn em lẫn công việc Hội học sinh đúng không.",
+      "jpname": "エアグルーヴ",
+      "jptext": "とぼけるな。私が気付かんとでも思ったか？\n貴様、私の後輩指導や生徒会活動を肩代わりしているだろう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tại sao lại làm như vậy? ...Chẳng lẽ ngươi muốn nói rằng những việc \"vô bổ\" đó cứ để bản thân gánh thay là được sao?",
+      "jpname": "エアグルーヴ",
+      "jptext": "なぜそのような事をする。\n……無駄な事は自分が肩代わりするから、とでも言いたいのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Thế nào hả, trả lời mau! Tùy vào câu trả lời của ngươi mà hợp đồng sẽ bị chấm dứt ngay lập tức đấy!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "どうなんだ、答えろ！\n返答次第では、即刻契約打ち切りだ！！",
+      "choice_data_list": [
+        "Những điều em trân trọng, tôi cũng muốn trân trọng chúng",
+        "Những điều em nâng niu, tôi cũng muốn nâng niu chúng"
+      ],
+      "jpchoice_data_list": [
+        "君が大切にしている事を、俺も大切にしたい",
+        "貴方が大切にしている事を私も大切にしたい"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Cái gì?",
+      "jpname": "エアグルーヴ",
+      "jptext": "……何？",
+      "choice_data_list": [
+        "Với tư cách Trainer, hãy để tôi được giúp đỡ em",
+        "Dưới tư cách Trainer, hãy để tôi hỗ trợ em"
+      ],
+      "jpchoice_data_list": [
+        "トレーナーとして、君の手伝いをさせて",
+        "トレーナーとして、貴方の手伝いをさせて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Giúp đỡ... sao...?",
+      "jpname": "エアグルーヴ",
+      "jptext": "手伝い、だと……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bày tỏ với Air Groove rằng em cứ tiếp tục chỉ dạy đàn em và tham gia Hội học sinh như từ trước tới nay, đồng thời mong em hãy dựa vào tôi để san sẻ bớt nhằm đảm bảo thời gian luyện tập.",
+      "jpname": "モノローグ",
+      "jptext": "後輩指導も生徒会活動もこれまで通り続けつつ、自分を頼りながら\nトレーニングの時間を確保してほしい、とエアグルーヴに伝えた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hừ, lại còn \"hãy dựa vào tôi\" cơ đấy. Mấy lời như thế hãy đợi đến khi ngươi tạo được chỗ dựa vững chắc rồi hẵng nói.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ふん、『自分を頼れ』ときたか。\nそういう事はもっと頼り甲斐を得てから口にしろ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Nhưng mà... ............",
+      "jpname": "エアグルーヴ",
+      "jptext": "だが……。\n………………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hợp đồng độc quyền sẽ được duy trì. Hết.",
+      "jpname": "エアグルーヴ",
+      "jptext": "専属契約は続行する。以上だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Một cây gậy chống đủ tin cậy để cùng sánh bước trên con đường hướng tới đại chí.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……大志へと続く道を共に歩む、信頼に足る杖。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"Trainer\"... sao.",
+      "jpname": "エアグルーヴ",
+      "jptext": "『トレーナー』……か。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ như vậy, vừa từng chút hỗ trợ Air Groove khỏi guồng quay bận rộn, chúng tôi vừa tiếp tục các buổi tập với tinh thần quyết tâm cao độ hơn bao giờ hết.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、多忙なエアグルーヴを少しずつ手伝いながら、\nこれまで以上に気合いを入れたトレーニングを続けていった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi khi bước vào trận Chưa Từng Thắng, Air Groove đã——",
+      "jpname": "モノローグ",
+      "jptext": "そして迎えた未勝利戦にて、エアグルーヴは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Xuất phát thuận lợi và vươn lên dẫn đầu chỉ trong chớp mắt chính là ứng viên số một Air Groove! Liệu em ấy có thể rửa sạch mối hận ở trận ra mắt không đây!",
+      "jpname": "実況",
+      "jptext": "好スタートから一気に先頭まで躍り出ましたのは、\n1番人気エアグルーヴ！　デビュー戦の雪辱を果たせるか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hừ...!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "ふっ……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Tại khúc này lại tiếp tục tăng tốc! Nhanh quá, quá nhanh, Air Groove!! Như muốn phô diễn đẳng cấp hoàn toàn khác biệt, em ấy đang bỏ xa toàn bộ đối thủ phía sau!!",
+      "jpname": "実況",
+      "jptext": "ここで更に加速っ！　速い速い、エアグルーヴ！！\n格の違いを見せつけるかの如く、後続を突き放していく！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "ĐÃ CÁÁÁN ĐÍÍÍCH!! Thắng áp đảo!! Hoàn toàn áp đảo!! Khoảng cách kinh ngạc lên tới 5 thân ngựa!!",
+      "jpname": "実況",
+      "jptext": "ゴォォォーーーールインッ！！\n圧勝！！　圧倒！！　驚異の5バ身差！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "\"Nữ Đế\" vô song, Air Groove!! Huyền thoại của người ấy, ngay lúc này, đã chính thức mở màn!!",
+      "jpname": "実況",
+      "jptext": "比類無き“女帝”、エアグルーヴ！！\nその伝説が今、幕を開けましたっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm sau chiến thắng vang dội ấy. Tôi nhận được tin nhắn từ Air Groove với nội dung \"tôi có việc cần ngươi giúp đỡ\".",
+      "jpname": "モノローグ",
+      "jptext": "見事な勝利を飾ることができた翌日。\nエアグルーヴから『手伝ってほしいことがある』とメールが届いた。",
+      "choice_data_list": [
+        "(Air Groove chủ động cậy nhờ mình sao!?)"
+      ],
+      "jpchoice_data_list": [
+        "（エアグルーヴの方から頼ってくれた！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Phải nhanh chân đến chỗ em ấy thôi...!!",
+      "jpname": "モノローグ",
+      "jptext": "急いで彼女の元へ向かおう……！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tới rồi à. ...Hửm? Ngươi thở không ra hơi như thế làm gì vậy.",
+      "jpname": "エアグルーヴ",
+      "jptext": "来たか。\n……む？　貴様、なぜそんなに息を切らしている。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mà thôi kệ... Bắt đầu thôi. Hạt giống tôi đặt mua cuối cùng cũng đã giao tới rồi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "まあいい……始めるぞ。\n注文していた種がようやく届いたのでな。",
+      "choice_data_list": [
+        "Hạt giống? Hạt gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "種？何の？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Hạt giống hoa.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……花の種だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế là tôi cùng Air Groove bắt tay vào việc gieo trồng những hạt giống hoa mới tại bồn hoa phía sau dãy nhà học.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、校舎裏の花壇に新たな花の種を植える作業を、\nエアグルーヴと一緒に行うことになった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Này ngươi, phải bảo bao nhiêu lần mới hiểu hả! Sau khi gieo hạt đừng có lấp đất dày quá mức như thế!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "おい貴様、何度言ったらわかる！\n種を蒔いた後に土を被せ過ぎるんじゃない！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vốn dĩ từng thao tác một của ngươi đều cẩu thả quá mức! Nghe cho rõ đây, khi cầm nắm hạt giống cũng phải cẩn trọng hơn chứ——",
+      "jpname": "エアグルーヴ",
+      "jptext": "そもそも、貴様は1つ1つの作業を雑に行い過ぎだ！\nいいか、種を扱う際にももっと気を配ってだな――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù bị quát mắng liên hồi, cuối cùng tôi cũng cùng em hoàn thành công việc một cách êm đẹp...",
+      "jpname": "モノローグ",
+      "jptext": "かなりの頻度で怒鳴られながらではあるが、\nなんとか無事に作業を終えることができた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Được rồi, kết quả trông khá ổn đấy. ...Thật mong chờ ngày chúng nảy mầm và đơm hoa.",
+      "jpname": "エアグルーヴ",
+      "jptext": "よし、なかなかの仕上がりだ。\n……芽吹きや開花が楽しみだな。",
+      "choice_data_list": [
+        "Hóa ra em cũng thích hoa nhỉ",
+        "Hóa ra em lại thích hoa đến thế"
+      ],
+      "jpchoice_data_list": [
+        "花、好きだったんだ",
+        "花、好きだったのね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sao hả, ngươi định bảo là bất ngờ lắm à? Hừ, mặt ngươi lộ rõ mồn một ra kia kìa.",
+      "jpname": "エアグルーヴ",
+      "jptext": "なんだ、意外だとでも言いたいのか？\nふん、顔にそう書いてあるぞ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Chỉ cần nâng niu chăm sóc và dốc lòng vun vén, chồi non sẽ vươn mình mạnh mẽ, rồi một ngày kia nở rộ rực rỡ tuyệt đẹp.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……丁寧に手をかけ心を砕いてやれば、\n新芽は逞しく成長し、やがては美しく咲き誇る。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hoa sẽ kết trái rồi để lại những hạt mầm, và từ đó, những chồi non ấp ủ niềm hy vọng mới lại tiếp tục đâm chồi hé nở.",
+      "jpname": "エアグルーヴ",
+      "jptext": "花は実をつけ種を残し、\nそこからまた、新たな希望を抱いた芽が顔を出すのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "——Điều đã giúp tôi đâm chồi nảy lộc, chính là bóng hình của mẹ sải bước trên thảm cỏ xanh.",
+      "jpname": "エアグルーヴ",
+      "jptext": "――私を芽吹かせてくれたのは、ターフを駆ける母の姿だった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Được biết đến là giải đua cấp GI mà người chiến thắng sẽ được phong tặng danh hiệu \"Nữ Vương Cây Sồi\", giải Oaks......",
+      "jpname": "エアグルーヴ",
+      "jptext": "制した者には“樫の女王”の称号が与えられることでも知られる、\nＧⅠレース『オークス』……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mẹ của tôi, sau một trận giằng co kịch liệt, đã đoạt lấy danh hiệu \"Nữ Vương\".",
+      "jpname": "エアグルーヴ",
+      "jptext": "私の母は、激しい競り合いの末、“女王”の称号を掴み取った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Khi bắt đầu hiểu chuyện, lật lại từng thước phim tư liệu để chiêm ngưỡng những bước chạy ấy... tôi đã run rẩy khôn nguôi. Và rồi, lòng dâng trào niềm khao khát mãnh liệt.",
+      "jpname": "エアグルーヴ",
+      "jptext": "物心付いた頃に記録を辿り、その走りを知った時は……震えたよ。\nそして、強く憧れた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Trước dáng hình trui rèn bản thân đến tột cùng để chạm tay vào vinh quang rực rỡ, tôi đã mơ một giấc mơ lớn. Tôi ôm ấp niềm hy vọng lớn lao vào thế giới của những cuộc đua.",
+      "jpname": "エアグルーヴ",
+      "jptext": "己を極限まで磨き上げ、栄えある勝利を手にしたその姿に、\n私は夢を見た。レースの世界に、希望を抱いた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Và hơn cả, giống như người mẹ của mình... tôi khát khao trở thành một hình tượng khiến các thế hệ đàn em noi theo ngưỡng vọng.",
+      "jpname": "エアグルーヴ",
+      "jptext": "そして何より……母と同じく、\n後進の子らの憧れとなる存在でありたいと、焦がれたのだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Chính vì vậy, tôi đã chọn trở thành \"Nữ Đế\". Để hiện thực hóa hình mẫu lý tưởng của một Mã Nương, trở thành kim chỉ nam dẫn lối cho mọi người hướng tới.",
+      "jpname": "エアグルーヴ",
+      "jptext": "だから私は、“女帝”であることを選んだ。\nウマ娘としての理想を体現し、目指すべき指針となるため。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cũng giống như những gì mẹ từng làm cho tôi thuở trước... là để thắp lên hy vọng rằng tương lai tươi sáng rạng ngời vẫn đang chờ đợi họ bung nở.",
+      "jpname": "エアグルーヴ",
+      "jptext": "かつて、母が私にそうしてくれたのと同じく……\n輝かしく咲ける未来もあるのだと、希望を示すために。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Nếu đã vậy, chỉ đơn thuần chiến thắng trên đường đua thôi là chưa đủ. Dọn dẹp mảnh đất mang tên học viện, dẫn lối cho thế hệ kế cận, tất cả đều là sứ mệnh của tôi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "……であれば、ただレースで勝つだけでは足らんのだ。\n学園という名の土壌を整える事も、後進を導く事も、全て我が使命。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Nếu là kẻ gạt phắt những điều đó sang một bên coi như vô bổ, thì tôi đã nghĩ mình chẳng cần Trainer làm gì...",
+      "jpname": "エアグルーヴ",
+      "jptext": "それを無駄と切って捨てるような人間ならば、\nトレーナーなど要らんと思っていたが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ấy là... thế đấy. Với ngươi thì... ừm, dẫu chỉ là chút ít, nhưng ta cũng có thể trao cho ngươi đôi phần tin tưởng...",
+      "jpname": "エアグルーヴ",
+      "jptext": "その……なんだ。貴様には……\nまあ、あくまでも多少だが、信頼を置いてやっても、だな……。",
+      "choice_data_list": [
+        "Từ nay về sau em cứ thoải mái dựa dẫm vào tôi nhé!",
+        "Từ giờ trở đi em cứ việc tin cậy ở tôi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "これからもどんどん頼ってくれ！",
+        "これからもどんどん頼って！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "A... a... Ồn ào quá!! Đã bảo là hãy học cách tạo chỗ dựa vững chắc trước rồi hẵng mở miệng cơ mà!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "～～～～っ、うるさい！！\nまず頼り甲斐を身につけてから口にしろと言っているだろうが！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Thật là, tiền đồ chông gai trắc trở quá chừng...!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "全く、前途多難も甚だしい……！！",
+      "choice_data_list": [
+        "Có tiền đồ là mừng rồi!"
+      ],
+      "jpchoice_data_list": [
+        "前途があって何より！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Đừng có bắt bẻ lời tôi, đồ ngốc này!!",
+      "jpname": "エアグルーヴ",
+      "jptext": "揚げ足を取るな、たわけがっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, chuỗi ngày kề vai sát cánh cùng \"Nữ Đế\" Air Groove đã chính thức mở màn!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、“女帝”エアグルーヴとの日々が幕を開けたのだった！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
