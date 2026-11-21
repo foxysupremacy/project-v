@@ -1,0 +1,340 @@
+{
+  "title": "Mã Nương thiên tài, xuất kích!",
+  "jptitle": "天才ウマ娘、スクランブル！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay là ngày diễn ra cuộc đua tuyển chọn để đánh giá thực lực và chiêu mộ những Mã Nương đầy triển vọng.",
+      "jpname": "モノローグ",
+      "jptext": "今日は、将来有望なウマ娘たちの実力を\n見極め、スカウトを行う選抜レースの日だ。"
+    },
+    {
+      "name": "",
+      "text": "Lòng đầy háo hức tự hỏi sẽ được gặp gỡ những Mã Nương như thế nào, tôi tiến về phía đường đua thì...",
+      "jpname": "モノローグ",
+      "jptext": "どんなウマ娘たちと出会えるだろう、と\nわくわくしながらコースへ向かうと――"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Không chịu, không chịu, không chịu đâu! Mayano cũng muốn tham gia đua mà! Cho em vào đi mà...!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "ヤダヤダヤダー！　マヤもレースに出たいっ！\n出してってばぁ～！！"
+    },
+    {
+      "name": "Nhân viên Cuộc đua Tuyển chọn A",
+      "text": "Tôi đã bảo rồi mà, em Mayano Top Gun! Xin đừng tự ý chạy vào đường đua nữa! U u, con bé này nhanh thoăn thoắt thế không biết...!",
+      "jpname": "選抜レース係員A",
+      "jptext": "だから、マヤノトップガンさん！　勝手にコースへ出るのは\nやめてください！　うぅ、なんてすばしっこいの……！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Không chịu, không chịu, không chịu đâu mà-! Mayano cũng muốn được phấn khích cơ mà-!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "ヤダヤダヤダヤダぁ～！\nマヤもワクワクしたいのに～！！"
+    },
+    {
+      "name": "",
+      "text": "Ở đằng xa một chút, Mayano Top Gun và nhân viên cuộc đua đang tranh cãi chuyện gì đó...",
+      "jpname": "モノローグ",
+      "jptext": "少し離れたところで、マヤノトップガンと\nレース係員がなにやら揉めている……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hê hê, không bắt được em đâu-!! ... Oái!?",
+      "jpname": "マヤノトップガン",
+      "jptext": "へへーんだ、捕まらないよ～！！\n……わひゃっ！？"
+    },
+    {
+      "name": "",
+      "text": "Mayano Top Gun đang mải chạy trốn bỗng đâm sầm vào tôi, khiến tôi phải cuống cuồng đỡ lấy em.",
+      "jpname": "モノローグ",
+      "jptext": "逃げ回るマヤノトップガンが\nぶつかってきたので、慌てて受け止めた。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ái chà chà, em xin lỗ-i! Anh có sao không!?",
+      "jpname": "マヤノトップガン",
+      "jptext": "あわわわ、ごめんなさーい！\n大丈夫！？",
+      "choice_data_list": [
+        "Anh không sao, em có bị thương ở đâu không?",
+        "Tôi không sao, bạn có bị thương ở đâu không?"
+      ],
+      "jpchoice_data_list": [
+        "平気だ、君こそケガはないか？",
+        "平気だよ、貴方こそケガはない？"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "D-Dạ, Mayano không sao! Vì đã được anh đỡ lấy rồi mà...",
+      "jpname": "マヤノトップガン",
+      "jptext": "う、うん、マヤは平気！\n受け止めてもらえたから……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hì hì. Anh tốt bụng thật đấy! Bộ anh là Trainer mới hả? Em á, em tên là Mayano Top Gun--",
+      "jpname": "マヤノトップガン",
+      "jptext": "えへへっ。キミ、優しーね！　もしかして新人トレーナー？\nマヤはね、マヤノトップガンっていって――"
+    },
+    {
+      "name": "Nhân viên Cuộc đua Tuyển chọn A",
+      "text": "A, may quá! Trainer! Mong anh trông chừng con bé để nó không tự ý chạy vào đường đua được không!? Trông cậy cả vào anh đấy nhé!",
+      "jpname": "選抜レース係員A",
+      "jptext": "あ、ちょうどよかった！　トレーナーさん！　その子が勝手に\nレースへ出ないよう、見張っててもらえます！？　頼みましたよ！",
+      "choice_data_list": [
+        "Vâng, tôi hiểu rồi."
+      ],
+      "jpchoice_data_list": [
+        "はい、わかりました"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ủa, ơ ơ ơ-!? Này này! Sao anh lại nói \"vâng\" dễ dàng thế hả!?",
+      "jpname": "マヤノトップガン",
+      "jptext": "って、ええええー！？　ちょっとー！\nなんで『はい』って言っちゃうの！？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mồ-, cứ tưởng là một Trainer tốt bụng chứ-!",
+      "jpname": "マヤノトップガン",
+      "jptext": "もぉー、優しいトレーナーだと思ったのに～！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gì thế...? Ồn ào quá...",
+      "jpname": "ナリタブライアン",
+      "jptext": "なんだ……？\n騒がしいな……。"
+    },
+    {
+      "name": "Nhân viên Cuộc đua Tuyển chọn A",
+      "text": "Sắp đến giờ rồi! Xin mời tất cả các thí sinh xuất phát chuẩn bị!!",
+      "jpname": "選抜レース係員A",
+      "jptext": "そろそろ時間です！\n出走する皆さんは準備をお願いします！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hử... Đi thôi.",
+      "jpname": "ナリタブライアン",
+      "jptext": "む……行くか。"
+    },
+    {
+      "name": "",
+      "text": "Dù đã đôi co một hồi, nhưng rốt cuộc em ấy vẫn không được phép tham gia, và cuộc đua tuyển chọn đã mở màn mà không có Mayano Top Gun...",
+      "jpname": "モノローグ",
+      "jptext": "なにやら揉めていたようだが、結局出走は叶わなかったようで、\n選抜レースはマヤノトップガン抜きで幕を開けた……。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "--Cả dàn Mã Nương đã đồng loạt xuất phát! Liệu tâm điểm của sự chú ý, Narita Brian, sẽ mang đến màn trình diễn như thế nào đây!?",
+      "jpname": "実況",
+      "jptext": "――さあ、各ウマ娘一斉にスタートしました！\n大注目のナリタブライアン、どんな走りを見せてくれるのか！？"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ư... Mayano cũng muốn chạy mà...",
+      "jpname": "ナリタブライアン",
+      "jptext": "……ブッちぎる。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Mayano Top Gun bĩu môi hờn dỗi rồi hướng mắt nhìn về phía đường đua.",
+      "jpname": "実況",
+      "jptext": "素晴らしい位置取り！　ナリタブライアン、\n先頭集団にしっかりと加わりました！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Dù trong lòng cảm thấy có lỗi, nhưng tôi cũng không thể để em tự tiện chạy vào được.",
+      "jpname": "マヤノトップガン",
+      "jptext": "あーあ、いいなぁ、レース……\nマヤも走りたかったな～、つまんなーい。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Nè nè, ít ra cũng phải trò chuyện với Mayano chứ! Có chuyện gì hay ho thú vị không kể em nghe đi-?",
+      "jpname": "マヤノトップガン",
+      "jptext": "ねーねー、せめてマヤとおしゃべりしてよ！\nなんかおもしろい話とかなーい？"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi còn đang lúng túng vì bị vòi vĩnh, Mayano Top Gun chợt liếc nhìn về phía đường đua rồi lẩm bẩm.",
+      "jpname": "モノローグ",
+      "jptext": "せっつかれて困っていると、\nマヤノトップガンがふとコースの方を眺め、ぼそっと呟いた。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... A. Chị gái mặt ngầu kia sắp sửa phóng cái vèo lên rồi kìa.",
+      "jpname": "マヤノトップガン",
+      "jptext": "……あ。\nあの怖い顔のお姉さん、バンッて行きそー。"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Đến lúc kết thúc rồi...!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "仕上げだ……！！"
+    },
+    {
+      "name": "",
+      "text": "Đúng như lời Mayano Top Gun vừa nói, cục diện cuộc đua lập tức biến chuyển dữ dội.",
+      "jpname": "モノローグ",
+      "jptext": "マヤノトップガンの言葉通り、レースが大きく動いた。"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thể em đã đọc thấu hoàn toàn thời điểm tăng tốc của Narita Brian vậy...",
+      "jpname": "モノローグ",
+      "jptext": "まるでナリタブライアンが仕掛けるタイミングを\n読み切ったかのようだ……。"
+    },
+    {
+      "name": "",
+      "text": "Đó chỉ là sự trùng hợp ngẫu nhiên thôi sao? Hay là...",
+      "jpname": "モノローグ",
+      "jptext": "ただの偶然だろうか？\nそれとも……。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Narita Brian, quá nhanh, quá tốc độ! Chỉ trong chớp mắt cô đã luồn qua đám đông để vươn lên dẫn đầu!",
+      "jpname": "実況",
+      "jptext": "ナリタブライアン、速い速い！\nあっという間に集団の間を縫って、前へと進みます！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ôi, đỉnh quá đi-!",
+      "jpname": "マヤノトップガン",
+      "jptext": "おおっ、すごーい！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Hửm? Kìa, bạn đang chạy thứ hai kia--",
+      "jpname": "マヤノトップガン",
+      "jptext": "……んっ？\nあれー、今2番手のあの子――"
+    },
+    {
+      "name": "",
+      "text": "Nghe lời Mayano Top Gun nói, tôi bất giác đưa mắt nhìn về phía nàng Mã Nương đang chạy ở vị trí thứ hai.",
+      "jpname": "モノローグ",
+      "jptext": "マヤノトップガンの言葉に、思わず2番手のウマ娘を見る。"
+    },
+    {
+      "name": "",
+      "text": "... Từ vị trí đó, nếu chọn đúng thời điểm, em ấy hoàn toàn có thể kìm hãm đà bứt phá của Narita Brian.",
+      "jpname": "モノローグ",
+      "jptext": "……あの位置からならタイミングによっては、\nナリタブライアンが前へ行くのをけん制できそうだ。"
+    },
+    {
+      "name": "",
+      "text": "Hơn nữa--nếu thuận lợi, em ấy còn có thể tiến vào đoạn đường thẳng cuối cùng với khoảng trống thênh thang phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "しかも――うまく行けば、自分の前はがら空きのままで、\n最後の直線に入れそうでもある。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ưm, nếu chọn lúc thích hợp mà đạp ga cái vèo, rồi sau đó phóng cái vù lên thì chắc là chặn được đấy.",
+      "jpname": "マヤノトップガン",
+      "jptext": "うーん、いい感じの時にビュッて踏み込んで、\nあとはバビューン！　って行けばなんとかなりそーなんだけど。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Đúng lúc... A, ngay bây giờ!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "いい感じの～……あっ、今！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tránh ra...!!",
+      "jpname": "ナリタブライアン",
+      "jptext": "どけ……！！"
+    },
+    {
+      "name": "Mã Nương chạy thứ hai",
+      "text": "Á... Không thể nào...!!",
+      "jpname": "2番手のウマ娘",
+      "jptext": "あうっ……無理～……！！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "A a-, tiếc quá đi-.",
+      "jpname": "マヤノトップガン",
+      "jptext": "ああーっ、ざんね～ん。"
+    },
+    {
+      "name": "",
+      "text": "... Nàng Mã Nương kia dường như đã thất bại, nhưng phán đoán về thời điểm của Mayano Top Gun là hoàn toàn chuẩn xác.",
+      "jpname": "モノローグ",
+      "jptext": "……あのウマ娘は失敗してしまったようだが、\nマヤノトップガンのタイミングは完璧だった。"
+    },
+    {
+      "name": "",
+      "text": "Nếu người đang chạy ở đó là Mayano Top Gun thì có lẽ--",
+      "jpname": "モノローグ",
+      "jptext": "あそこで走っていたのがマヤノトップガンであれば、\nあるいは――"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Haizz, thích thật đấy, thích ghê cơ-! Mayano cũng muốn được đua quá đi-.",
+      "jpname": "マヤノトップガン",
+      "jptext": "あーあ、いいないいな～！\nマヤもレース出たかったな～。",
+      "choice_data_list": [
+        "Em rốt cuộc là...?",
+        "Bạn rốt cuộc là...?"
+      ],
+      "jpchoice_data_list": [
+        "君は一体……？",
+        "貴方は一体……？"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hở? ... Sao anh cứ nhìn chằm chằm vào Mayano thế? Có chuyện gì à?",
+      "jpname": "マヤノトップガン",
+      "jptext": "へっ？\n……マヤのことじーっと見て、どーしたの？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Không lẽ... là \"tình yêu sét đánh\" trong truyền thuyết sao!? Kyaa☆, Mayano quả là có sức hút quá đi mà♪",
+      "jpname": "マヤノトップガン",
+      "jptext": "もしかして……ヒトメボレってやつ！？\nきゃー☆　マヤってばモッテモテ♪"
+    },
+    {
+      "name": "",
+      "text": "--Rốt cuộc, cuộc đua đã khép lại với chiến thắng áp đảo thuộc về Narita Brian.",
+      "jpname": "モノローグ",
+      "jptext": "――結局、レースはナリタブライアンの圧勝で幕を閉じた。"
+    },
+    {
+      "name": "",
+      "text": "Các Trainer đều đang ráo riết tìm cách chiêu mộ Narita Brian.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーたちは皆、ナリタブライアンを\nスカウトしようと必死になっていた。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "だが……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... A. Chị gái mặt ngầu kia sắp sửa phóng cái vèo lên rồi kìa.",
+      "jpname": "マヤノトップガン",
+      "jptext": "……あ。\nあの怖い顔のお姉さん、バンッて行きそー。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ưm, nếu chọn lúc thích hợp mà đạp ga cái vèo, rồi sau đó phóng cái vù lên thì chắc là chặn được đấy.",
+      "jpname": "マヤノトップガン",
+      "jptext": "うーん、いい感じの時にビュッて踏み込んで、\nあとはバビューン！　って行けばなんとかなりそーなんだけど。"
+    },
+    {
+      "name": "",
+      "text": "Tuy cách diễn đạt bằng lời còn non nớt, nhưng Mayano Top Gun đã đọc thấu hoàn toàn diễn biến của cuộc đua.",
+      "jpname": "モノローグ",
+      "jptext": "言語化こそ未熟なものの、\n完全にレース展開を読んでいたマヤノトップガン。"
+    },
+    {
+      "name": "",
+      "text": "Những tia sáng rực rỡ từ tài năng đáng kinh ngạc mà em ấy thể hiện cứ đọng mãi trong tâm trí tôi...",
+      "jpname": "モノローグ",
+      "jptext": "彼女が見せた凄まじさの片鱗が、どうしても気にかかった……。"
+    }
+  ]
+}

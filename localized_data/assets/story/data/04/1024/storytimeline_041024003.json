@@ -1,0 +1,366 @@
+{
+  "title": "Tập 3",
+  "jptitle": "第3話",
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "A. Ya-hoo♪ Dạo này em hay gặp anh ghê đó nha.",
+      "jpname": "マヤノトップガン",
+      "jptext": "あ。やっほー♪\nキミ、最近よく会うよね。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vừa nãy em đứng xem cuộc đua mô phỏng ở đường đua bên dưới đó. Tại vì Mayano đâu có được chạy đâu cơ chứ-.",
+      "jpname": "マヤノトップガン",
+      "jptext": "今ね、下のコースで模擬レースやってるの\n見てたんだ。マヤは出られないからさー。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Thích thật đấy, Mayano cũng muốn tham gia đua ghê. Cơ mà--",
+      "jpname": "マヤノトップガン",
+      "jptext": "いいな～、マヤもレース出たいなぁ。\nけど――",
+      "choice_data_list": [
+        "Em ghét việc tập luyện đến thế cơ à?",
+        "Bạn ghét việc tập luyện đến thế cơ à?"
+      ],
+      "jpchoice_data_list": [
+        "トレーニングするのはどうしてもイヤか？",
+        "トレーニングするのはどうしてもイヤ？"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Ghét lắm.",
+      "jpname": "マヤノトップガン",
+      "jptext": "……イヤ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vì mọi người bảo bắt buộc phải làm nên buổi đầu tiên em đã tham gia nghiêm túc rồi đó chứ bộ?",
+      "jpname": "マヤノトップガン",
+      "jptext": "やらなきゃダメって言うから、ちゃんと最初の1回は出たよ？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Thế nhưng, toàn là những thứ chỉ cần làm một lần là hiểu sạch sành sanh. Mà một khi đã hiểu hết rồi thì chán phèo à.",
+      "jpname": "マヤノトップガン",
+      "jptext": "でも、1回でぜーんぶわかるようなことしか\nやらないんだもん。わかっちゃったら、つまんないよ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Cứ phải làm mãi những việc chán ngắt như thế thì có ý nghĩa gì chứ?",
+      "jpname": "マヤノトップガン",
+      "jptext": "つまんないことをずーっとやる意味って、なに？"
+    },
+    {
+      "name": "",
+      "text": "Mayano Top Gun là kiểu người có thể lập tức tìm ra và thực hiện được \"đáp án chính xác\" cho mọi vấn đề.",
+      "jpname": "モノローグ",
+      "jptext": "なんでもすぐに『正解』がわかってしまう、\n出来てしまうマヤノトップガン。"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ từ trước đến giờ em ấy chưa từng phải tích lũy nỗ lực từng chút một để đạt được bất kỳ điều gì.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、努力を重ねた上で\nなにかを達成したことがないのかもしれない。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế, em không hiểu được ý nghĩa của sự nỗ lực, và việc tập luyện chỉ mang lại cảm giác nhàm chán cùng sự tù túng, ngột ngạt mà thôi...",
+      "jpname": "モノローグ",
+      "jptext": "だから、努力をする意味が理解できず、ただトレーニングが\nつまらなく感じられて、苦しいのではないだろうか……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Mayano cũng từng nghĩ là mình phải tập luyện đàng hoàng giống như Yuki-ppe hay mọi người chứ bộ?",
+      "jpname": "マヤノトップガン",
+      "jptext": "……ちゃんとトレーニングしてる\nユキっぺとかみんなみたいにしなきゃって、マヤも思ったんだよ？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ngay cả chị City hay chị Tamamo cũng tập luyện chăm chỉ mỗi ngày mà. Em biết là ai cũng làm thế mà...",
+      "jpname": "マヤノトップガン",
+      "jptext": "シチーさんとかタマモさんとかだって、ちゃんと毎日\nトレーニングしてるよね。みんなやってるって、知ってるよ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Thế nhưng, dù có làm thế nào thì nó cũng chán ngắt à. Cứ làm em có cảm giác việc này chẳng có chút ý nghĩa nào cả.",
+      "jpname": "マヤノトップガン",
+      "jptext": "でも、どうやったってつまんないんだもん。\nこんなの意味ないって思っちゃうんだもん。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Vì em không giống mọi người, nên mới tệ hại như thế sao? Bộ Mayano sẽ không bao giờ trở thành một nàng Mã Nương tỏa sáng lấp lánh được ư...?",
+      "jpname": "マヤノトップガン",
+      "jptext": "……みんなと違うから、ダメなのかな。\nマヤは、キラキラのウマ娘になんてなれないの……？",
+      "choice_data_list": [
+        "Không có chuyện đó đâu!!"
+      ],
+      "jpchoice_data_list": [
+        "そんなことない！！"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oái! H... Hết cả hồn à.",
+      "jpname": "マヤノトップガン",
+      "jptext": "わっ！\nび……びっくりしたあ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Không ngờ anh lại có thể hét to đến thế đấy. Trông anh rõ là hiền lành dịu dàng cơ mà...",
+      "jpname": "マヤノトップガン",
+      "jptext": "キミって、そんなに大きい声出せたんだ。\nすっごく優しそーって感じだったのに……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ưm............",
+      "jpname": "マヤノトップガン",
+      "jptext": "んー…………。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Nè nè. Anh cũng muốn Mayano phải tập luyện sao?",
+      "jpname": "マヤノトップガン",
+      "jptext": "……ねえねえ。\nキミも、マヤにトレーニングしてほしいって思ってるの？",
+      "choice_data_list": [
+        "Anh có nghĩ vậy"
+      ],
+      "jpchoice_data_list": [
+        "思ってるよ"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hửm... Ra là vậy.",
+      "jpname": "マヤノトップガン",
+      "jptext": "ふーん……そっか。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Được thôi! Nếu anh chịu nghe lời Mayano thì em sẽ tập luyện cho anh xem!",
+      "jpname": "マヤノトップガン",
+      "jptext": "……いいよ？　キミがマヤの言うこと聞いてくれたら、\nトレーニングしてあげる！",
+      "choice_data_list": [
+        "Nghe lời em sao?"
+      ],
+      "jpchoice_data_list": [
+        "言うこと？"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Dạ đúng rồi♪ Chuyện là thế này nè...",
+      "jpname": "マヤノトップガン",
+      "jptext": "うんっ♪\nあのね～……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Anh hãy đi hẹn hò với Mayano đi!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "マヤと、デートしてっ！！"
+    },
+    {
+      "name": "",
+      "text": "Buổi trưa ngày hôm sau, tại trước nhà ga--",
+      "jpname": "モノローグ",
+      "jptext": "翌日のお昼、駅前にて――"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Landing!! Để anh phải đợi lâu rồi♪",
+      "jpname": "マヤノトップガン",
+      "jptext": "ランディーング！！\nお待たせっ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hì hì, cảm ơn anh hôm nay đã đến nhé! Em luôn muốn một lần được hẹn hò theo phong cách của những nàng Mã Nương trưởng thành đấy♪",
+      "jpname": "マヤノトップガン",
+      "jptext": "えへへ、今日は来てくれてありがとね！　大人なウマ娘さんが\nするようなデート、1回やってみたかったんだー♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vậy thì giờ mình đi đâu trước ta!? Nhất định không thể bỏ qua việc đi mua sắm ở những cửa hàng thời thượng và càn quét các quán bánh ngọt lung linh rồi!",
+      "jpname": "マヤノトップガン",
+      "jptext": "じゃあじゃあ、どこ行こっか！？　オシャレなお店での\nショッピングとー、ピッカピカなスイーツ巡りは外せないよね！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Với lại, anh cũng muốn xem phim lãng mạn đúng không nè-? Em cũng muốn ngồi nhâm nhi trà ở quán cà phê mang không khí người lớn nữa... U u, bắt đầu thấy hào hứng quá đi rồi--!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "あと、ロマンチックな映画も観たいでしょー？　大人な雰囲気の\nカフェでお茶もしたいし……ううう、楽しくなってきた～～！！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ủa ủa, phải nhanh lên kẻo hết ngày mất! Đi thôi nào, Take off!",
+      "jpname": "マヤノトップガン",
+      "jptext": "っとと、早くしなきゃ1日が終わっちゃう！\nそれじゃ行くよっ、テイクオーーーフ！"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, Mayano Top Gun kéo tôi chạy lăng xăng khắp phố phường với tốc độ chóng mặt...",
+      "jpname": "モノローグ",
+      "jptext": "それから、マヤノトップガンにすごい勢いで\n街中を連れ回された……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Nhìn kìa nhìn kìa, chiếc áo phông kia dễ thương ghê luôn-! A, đằng kia có phải là quầy nước ép không!? Liệu có nước ép cà rốt không ta-!?",
+      "jpname": "マヤノトップガン",
+      "jptext": "見て見て、あのTシャツすっごくカワイイ～！　あっ、あれって\nジューススタンド！？　にんじんジュースもあるかなー！？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hửm? Khịt khịt... Có mùi gì thơm thế này! Từ hướng này nè! Mau qua đó xem thử đi anh-!",
+      "jpname": "マヤノトップガン",
+      "jptext": "んっ？　クンクン……なんかいい匂ーい！\nこっちのほうからだ！　行ってみよ行ってみよ～！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Nào nào, đừng có đứng đờ đẫn ra thế chứ! Phải theo sát gót Mayano đó nha♪",
+      "jpname": "マヤノトップガン",
+      "jptext": "ほらほら、ぼーっとしてちゃダメだよ！\nマヤにちゃーんとついて来てねっ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mình xem phim nào bây giờ ta-!? Ưm, phim nào trông cũng hay hết trơn á-... Ơ, úi chà oái!?",
+      "jpname": "マヤノトップガン",
+      "jptext": "どれ観よっかー！？　うーん、全部おもしろそ～……。\nって、うひゃあ！？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ái chà chà, m-màn hình giới thiệu đang chiếu cảnh hôn nhau kìa...! Lỡ nhìn thấy mất rồi-!! U u, mặt nóng bừng bừng luôn nè...!",
+      "jpname": "マヤノトップガン",
+      "jptext": "あわわわ、よ、予告のモニター、キスシーン映ってた……！\n見ちゃったあ～！！　うぅ、顔あっつい……！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Kem này được xếp chồng tối đa mấy viên vậy anh? Một viên? Hai viên? Ba viên lận á!? Cho ba viên đi anh! Nhé, quyết định vậy nha!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "アイス、何コまでなら重ねていーい？　1つ？　2つ？　3つ！？\n3つにしよーよ！　ね、決まりっ！！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Chọn vị nào bây giờ ta. Vị dâu trông ngon ghê... thêm vani nữa nè, rồi bánh quy sô cô la chip nữa...",
+      "jpname": "マヤノトップガン",
+      "jptext": "どれにしよっかな～。イチゴがおいしそう……あとバニラと～、\nチョコチップクッキーと～……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hở, vị cheesecake chỉ bán có thời hạn thôi á!? ... Nè nè, hay là mình đổi thành bốn viên luôn đi anh-!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "えっ、チーズケーキ味って期間限定！？\n……ねえねえ、やっぱ4つまでにしよ～！！"
+    },
+    {
+      "name": "",
+      "text": "Cả một ngày trời, tôi chỉ biết mải miết chạy theo sự dẫn dắt đầy ngẫu hứng của Mayano Top Gun...",
+      "jpname": "モノローグ",
+      "jptext": "1日中、マヤノトップガンにひたすら\n引っ張り回されて過ごした……。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "A a-, vui quá đi mất thôi-!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "あぁ～、楽しかったぁーっ！！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mà công nhận anh đỉnh thật đó nha! Người có thể theo kịp Mayano chơi hết mình cho tới tận phút chót, chắc ngoài Mave-chin ra thì anh là người đầu tiên luôn đó!",
+      "jpname": "マヤノトップガン",
+      "jptext": "にしてもキミ、すごいねー！　全力で遊ぶマヤに最後まで\nついてきた人、マベちん以外で初めてかも！",
+      "choice_data_list": [
+        "Anh cứ ngỡ mình ngất giữa chừng rồi cơ đấy...",
+        "Tôi cứ ngỡ mình ngất giữa chừng rồi cơ đấy..."
+      ],
+      "jpchoice_data_list": [
+        "途中で倒れるかと思ったけどな……",
+        "途中で倒れるかと思ったけどね……"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "A ha ha, thế cơ á!? Vậy là anh đã cố gắng nhiều lắm rồi đó! Cảm ơn anh nha.",
+      "jpname": "マヤノトップガン",
+      "jptext": "あははっ、そうなの！？\nじゃあ、すっごくがんばってくれたんだー！　ありがとねっ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Nè nè. Sao anh lại dịu dàng với em đến thế? Tại sao anh lại đồng ý đi hẹn hò cùng Mayano?",
+      "jpname": "マヤノトップガン",
+      "jptext": "……ねえねえ。キミ、どうしてそんなに優しいの？\nなんでマヤとデートしてくれたの？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Chẳng lẽ... đúng là vì lời hứa nếu anh nghe lời thì Mayano sẽ chịu đi tập luyện sao?",
+      "jpname": "マヤノトップガン",
+      "jptext": "それってやっぱり、言うこと聞いたら\nマヤがトレーニングするーって約束だから？",
+      "choice_data_list": [
+        "Cũng không hẳn là thế"
+      ],
+      "jpchoice_data_list": [
+        "ちょっと違うかな"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Không hẳn á? Ý anh là sao? Không phải vì muốn Mayano đi tập nên anh mới chịu đi hẹn hò với em sao?",
+      "jpname": "マヤノトップガン",
+      "jptext": "違う？　どういうこと？\nマヤにトレーニングさせたいから、デートしてくれたんじゃないの？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Nếu không phải vậy thì... tại sao anh lại đến?",
+      "jpname": "マヤノトップガン",
+      "jptext": "そうじゃないなら、\nなんで来てくれたの？",
+      "choice_data_list": [
+        "Vì anh không muốn em từ bỏ ước mơ của mình",
+        "Vì tôi không muốn bạn từ bỏ ước mơ của mình"
+      ],
+      "jpchoice_data_list": [
+        "君に夢を諦めないでほしいから",
+        "貴方に夢を諦めないでほしいから"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ước mơ...?",
+      "jpname": "マヤノトップガン",
+      "jptext": "夢……？"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ước mơ... của mình...",
+      "jpname": "マヤノトップガン",
+      "jptext": "アタシの、夢……。"
+    },
+    {
+      "name": "",
+      "text": "Mayano Top Gun bỗng lặng im hồi lâu như đang chìm sâu vào suy nghĩ. Rồi bất chợt--",
+      "jpname": "モノローグ",
+      "jptext": "マヤノトップガンは、しばらく考え込むように口をつぐんでいた。\nそして――"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... Ra là thế.",
+      "jpname": "マヤノトップガン",
+      "jptext": "……そっかぁ。"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Dạ... Hôm nay thật sự cảm ơn anh nhiều lắm-!",
+      "jpname": "マヤノトップガン",
+      "jptext": "うん……今日は、ほんとにありがとー！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ngày mai, chúng ta hãy cùng nhau tập luyện nhé!",
+      "jpname": "マヤノトップガン",
+      "jptext": "明日は、一緒にトレーニングしようねっ！"
+    },
+    {
+      "name": "",
+      "text": "Cứ như vậy, tôi đã chính thức nhận lời huấn luyện cho Mayano Top Gun!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、マヤノトップガンに\nトレーニングをつけてあげることになった！"
+    }
+  ]
+}
