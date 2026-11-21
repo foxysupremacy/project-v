@@ -1,0 +1,370 @@
+{
+  "title": "Thiệt á!? Tore-pi nói thật đấy à?",
+  "jptitle": "マ！？トレぴガチなん？",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ nọ, sau khi đã quyết định tìm hiểu thêm về lối sống dân quẩy vì Daitaku Helios―― Khi đang dạo bước trên phố, tôi bỗng nghe thấy những âm thanh náo nhiệt vọng lại.",
+      "jpname": "モノローグ",
+      "jptext": "ダイタクヘリオスのため、パリピを学び始めたある休日――\n街を歩いていると、楽しげな声が聞こえてきた。"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "Đỉnh chóp luôn--!! Người ta đặt nguyên một cái bánh kem lên trên ly parfait thật kìa!",
+      "jpname": "ギャルA",
+      "jptext": "パネぇ～！！\nマジでパフェにケーキ1ホール乗ってる！"
+    },
+    {
+      "name": "Gyaru B",
+      "text": "Calo cứ việc bơi hết vào đây nha! Trước khi ăn phải chụp một bô ảnh cái đã☆",
+      "jpname": "ギャルB",
+      "jptext": "カロリーかかってこいし！\n食う前に撮っとこ☆"
+    },
+    {
+      "name": "",
+      "text": "Quán đồ ngọt chật ních những cô nàng gyaru sành điệu. Nghĩ rằng có thể tìm thêm đề tài để trò chuyện cùng Daitaku Helios, tôi liền ngó vào xem thử――",
+      "jpname": "モノローグ",
+      "jptext": "ギャルっぽい子たちで溢れるスイーツ店。\nダイタクヘリオスとの話のネタになるかと、覗いてみると――"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ô, hiếm khi thấy nha--! Tore-pi có chuyện gì thế?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "お、珍し～！　トレぴどしたん？",
+      "choice_data_list": [
+        "Anh hơi tò mò về thực đơn một chút"
+      ],
+      "jpchoice_data_list": [
+        "ちょっとメニューが気になって"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Thực đơn á? ...A! Có phải Tore-poyo định một mình đến đây khiêu chiến món parfait bánh kem siêu to khổng lồ này đúng hông!?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "メニュー？　……あ！　トレぽよ、\n鬼盛りケーキパフェ、ソロで挑戦にきた系！？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Luyện tập làm dân quẩy nghiêm túc dữ vậy luôn á hả! Nể phục thật sự luôn đó nha!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "パリピの特訓ガチってんじゃん！\nマジおつじゃん！！"
+    },
+    {
+      "name": "",
+      "text": "Dù sự thật không hẳn là như vậy―― nhưng đúng là tôi đang muốn hiểu sâu hơn về thế giới dân quẩy vì Daitaku Helios.",
+      "jpname": "モノローグ",
+      "jptext": "そういうわけではなかったのだが――\nダイタクヘリオスのためにパリピの理解を深めたいのは確かだ。",
+      "choice_data_list": [
+        "(Thử khiêu chiến một phen biết đâu lại là ý hay)"
+      ],
+      "jpchoice_data_list": [
+        "（挑戦するのもいいかもしれない）"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "A! Mà hình như đây là lần đầu tiên mọi người gặp mặt Tore-poyo đúng hông!? Để tớ giới thiệu cho nha! Nghe nè nghe nè--!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "あっ！　てかみんなトレぽよ初エンカじゃね！？\n紹介するする！　聞いて聞いて～！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Người này là Trainer của tớ đó! Và đang phấn đấu để trở thành dân quẩy chính hiệu nè☆ Mong được mọi người giúp đỡ nha--!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "この人、ウチのトレーナー！\nで、パリピ目指してんの☆　よろ～！"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "Ơ, đỉnh vậy! Trainer phiên bản dân quẩy á!? Là Party-Trainer chứ còn gì nữa!",
+      "jpname": "ギャルA",
+      "jptext": "え、すご！\nパリピトレーナー！？　パリトレじゃん！"
+    },
+    {
+      "name": "Gyaru B",
+      "text": "Party-Trainer có muốn ăn cùng tụi này không--? Lên hình đẹp mà ăn vào là mood bay lên tận mây xanh luôn á--!",
+      "jpname": "ギャルB",
+      "jptext": "パリトレも食ってく～？\n映えるしアガるよ～！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ăn cùng đi ăn cùng đi, bùm bùm bùm bùm chéo☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "食ってけ食ってけ、ぱんぱんぽぉ～ん☆"
+    },
+    {
+      "name": "",
+      "text": "Thế là, tôi đã cùng Daitaku Helios và bạn bè em ấy khiêu chiến món parfait bánh kem siêu to khổng lồ――",
+      "jpname": "モノローグ",
+      "jptext": "こうしてダイタクヘリオスたちと共に、\n鬼盛りケーキパフェに挑戦し――"
+    },
+    {
+      "name": "Mọi người",
+      "text": "Ăn sạch bách luôn rồi nè, wê-ê-y☆",
+      "jpname": "みんな",
+      "jptext": "完食うぇ～い☆"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "Thế nhé Heli-chan, tụi này đi tự tập luyện đây nha--!",
+      "jpname": "ギャルA",
+      "jptext": "んじゃ、ちゃんヘリ、\nウチら自主トレ行くわー！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Wê-ê-y wê-ê-y! Tinh thần lên cao ghê ta--! Hãy cháy hết mình đi nhé--!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "うぇいうぇい！　アガってんねー！\n全力でカマしてけー！！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Thế còn Tore-pippi tính sao nè? Về lại học viện hả cậu?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "で？　トレぴっぴはどうすんの？\n学園帰る系？",
+      "choice_data_list": [
+        "Ăn no quá rồi nên chắc anh phải nghỉ ngơi một chút đã..."
+      ],
+      "jpchoice_data_list": [
+        "食べ過ぎたからしばらく休もうかと……"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Rõ rồi nè☆ Thế lát nữa rảnh thì đi chơi với tớ không? Tớ sẽ dắt cậu đến một địa điểm quẩy cực cháy luôn!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "りょ☆　んじゃ、その後ヒマならウチと遊ばね？\nアゲなスポット、教えたげるし！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Mỹ phẩm cho Tore-pi thì... đúng là chỉ có cái này thôi! Ngay lần đầu gặp mặt trông sắc mặt cậu đã xanh xao lắm rồi mà!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "トレぴのコスメは～……やっぱこれっしょ！\n初エンカでブルベ極まってたし！"
+    },
+    {
+      "name": "Gyaru C",
+      "text": "A--! Heli-poyo đang đi hẹn hò với người thương đấy à!? Thanh xuân rực rỡ quá đi chứ lị--!",
+      "jpname": "ギャルC",
+      "jptext": "あ～！　ヘリぽよ、ピとデート！？\nアオハルじゃ～ん！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Chuẩn đét luôn! Buổi hẹn hò biến hình thành dân quẩy đó!! Có muốn cùng tớ tân trang cho Tore-pi không nè?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "それなー！　パリチェンデート！！\nウチのトレぴ、いっしょにデコってく？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Từ giờ tụi mình sẽ dặm phấn trang điểm, phối đồ cực chuẩn, rồi đến club quẩy banh nóc luôn☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "こっからメイク盛ってー、コーデキメてー、\nクラブでぽぽぽ～んすっから☆"
+    },
+    {
+      "name": "Gyaru D",
+      "text": "Nghe vui quá đi--! Cho tụi này tham gia với nào--! Trang điểm lung linh bắt mắt là sở trường của tụi này đó nha!!",
+      "jpname": "ギャルD",
+      "jptext": "おもろ～！　ウチらにもやらしてよ～！\n映えメイクなら鬼得意だし！！",
+      "choice_data_list": [
+        "...Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Đỉnh nóc luôn á--! Ngon lành rồi nha Tore-poyo! Quả nhiên cứ phải có hội cạ cứng ra tay mới chuẩn bài☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "神すぎか～！　やったじゃんトレぽよ！\nやっぱいつメンしか勝たんな☆"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, nhờ bàn tay của Daitaku Helios và những người bạn, ít nhất thì vẻ ngoài của tôi đã dần tiệm cận với một dân quẩy thực thụ――",
+      "jpname": "モノローグ",
+      "jptext": "その後、ダイタクヘリオスたちの手によって\n外見だけはいわゆるパリピに近づいたものの――"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "U ha ha ha! DJ Helios xin gửi đến bản \"Paka☆Age↑Mix\" cực bốc--☆ Mọi người cùng quẩy nhiệt tình lên nhé--!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "うはははっ！　DJヘリオスの～『ぱか☆アゲ↑ミックス』～☆\nみんなアゲでよろ～！！"
+    },
+    {
+      "name": "Khách ở club",
+      "text": "HEY YO! Helios, người mà tụi này hằng mong đợi! Đêm nay lại khuấy động sàn nhảy và bung xõa từng nhịp beat nào!",
+      "jpname": "クラブの客",
+      "jptext": "HEY　YO！　ヘリオス　待ってたヒトビト！\n今宵もブチ上げ　刻むぜビート！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "YO YO! Duyệt luôn☆ Mọi người cứ chờ đó nhé! Đêm nay sẽ quẩy bùng nổ, thiêu đốt mọi trái tim luôn!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "YO　YO！　おけまる☆　待ってろヒトビト！\n今宵も鬼アゲ　燃えるぜハート！",
+      "choice_data_list": [
+        "(Hình như mình đang bị lạc quẻ...)",
+        "(Hình như tôi đang bị lạc quẻ...)"
+      ],
+      "jpchoice_data_list": [
+        "（俺、浮いてる気がする……）",
+        "（私、浮いてる気がする……）"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Wê-ê-y wê-ê-y☆ Tore-pi đang quẩy vui vẻ đấy chứ--!?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ウェイウェーイ☆\nトレぴ楽しんでっか～！？",
+      "choice_data_list": [
+        "W... Wê-ê-y!?"
+      ],
+      "jpchoice_data_list": [
+        "うぇ、うぇーい！？"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ô, được phết đấy chứ! Thêm lần nữa nào, wê-ê-y☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "おっ、いいカンジじゃん！\nもっかいウェーイ☆",
+      "choice_data_list": [
+        "Wê-ê-y wê-ê-y...!!"
+      ],
+      "jpchoice_data_list": [
+        "うぇいうぇーい……！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bên trong câu lạc bộ chật ních những bạn trẻ tràn trề năng lượng, và đứng ở vị trí trung tâm không ai khác chính là Daitaku Helios.",
+      "jpname": "モノローグ",
+      "jptext": "クラブの中はハイテンションな若者たちで溢れており、\n場の中心にはダイタクヘリオスがいた。"
+    },
+    {
+      "name": "",
+      "text": "Daitaku Helios trông tràn đầy sức sống như cá gặp nước―― Quả nhiên, việc hiểu sâu hơn về thế giới của dân quẩy sẽ mang lại nhiều lợi ích lớn.",
+      "jpname": "モノローグ",
+      "jptext": "水を得た魚のように生き生きとしているダイタクヘリオス――\nやはり、パリピへの理解を深めることはプラスになりそうだ。",
+      "choice_data_list": [
+        "(Mình phải cố gắng bắt kịp nhịp độ ở đây mới được...)"
+      ],
+      "jpchoice_data_list": [
+        "（場のテンションについていかないと……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "しかし――"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ê này, còn sống không đó--?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "うぉーい、生きてっか～？",
+      "choice_data_list": [
+        "Người tôi không nhúc nhích nổi nữa rồi..."
+      ],
+      "jpchoice_data_list": [
+        "体が動かない……"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Tore-pi bung sức quá đà rồi đó nha--! Chắc là do không khí lễ hội cuồng nhiệt quá đúng không nè--.",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "トレぴ、かっとばしすぎ～！\nフェスでアガっちゃったんか～。"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Dù sao cậu cũng mới nhập môn thôi mà đúng hông? Ban đầu cứ quẩy theo đúng nhịp độ của bản thân là được rồi nha?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "デビュったばっかじゃん？\n最初は自分のバイブスでいっとけ？"
+    },
+    {
+      "name": "",
+      "text": "Nụ cười rạng rỡ của Daitaku Helios khiến tôi bất giác phải nheo mắt lại. Rõ ràng là muốn trở thành chỗ dựa cho em ấy, vậy mà ngược lại tôi lại được em ấy an ủi động viên...",
+      "jpname": "モノローグ",
+      "jptext": "ダイタクヘリオスの笑顔が眩しくて、思わず目を細めた。\n支えるつもりが、逆に励まされてしまうとは……。",
+      "choice_data_list": [
+        "Cứ thế này thì còn lâu mới thành dân quẩy được...!"
+      ],
+      "jpchoice_data_list": [
+        "こんなんじゃパリピには程遠い……！"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Đi... điên rồ thật sự luôn á------!! Tore-pi đỉnh quá mức rồi đó nha!?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ヤ……ヤバ～～～～～～っ！！\nトレぴヤバくね！？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Nghiêm túc hướng tới việc trở thành dân quẩy đến mức này, thanh xuân rực rỡ quá đi chứ lị!! Đúng chuẩn thanh xuân phơi phới luôn rồi á!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ガチのマジでパリピ目指してるとか、アオハルじゃん！！\nアオハルっぴじゃん！！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Duyệt luôn! Trước mắt cứ bắt đầu từ việc khuấy động vibe lên đã nào! Vượt qua mọi giới hạn luôn điiiiii!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "おけまる！　とりまバイブス上げるところから始めんべ！\n限界超えてこーぜぇーーーい！！",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Thanh xuân rực rỡ đó, tớ sẽ đồng hành cùng cậu tới cùng luôn! Check it☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "そのアオハル、ウチも付き合ってやんよ！　ちぇけ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ơi ơi mọi người ơi--!! Từ giờ trở đi, DJ Helios và Tore-pi sẽ cùng nhau làm chủ sàn diễn nhé--☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "うぉ～い、みんなー！！\nこっからはDJヘリオス＆トレぴがキメてくぜ～ぃ☆"
+    },
+    {
+      "name": "Hội dân quẩy",
+      "text": "FOOOOOOO!!!!!",
+      "jpname": "パリピたち",
+      "jptext": "FOOOOOOO！！！！！",
+      "choice_data_list": [
+        "Không, anh làm DJ thì hơi...!",
+        "Không, tôi làm DJ thì hơi...!"
+      ],
+      "jpchoice_data_list": [
+        "いや俺、DJはちょっと……！",
+        "いや私、DJはちょっと……！"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Đừng có lo! Tớ sẽ chỉ cho những chiêu cơ bản, còn lại cứ việc nương theo cảm xúc là xong tuốt!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "心配すんな！\n基本は教えっし、あとはノリでおけ！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Dân quẩy là tuyệt nhất trần đời, FOO--☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "パリピ最高FOO～☆"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, liệu pháp sốc tinh thần của Daitaku Helios lại càng được đẩy lên một tầm cao mới――",
+      "jpname": "モノローグ",
+      "jptext": "その後、ダイタクヘリオスによる荒療治は\nブーストアップしていき――"
+    },
+    {
+      "name": "",
+      "text": "Để có thể theo kịp nhịp quẩy cuồng nhiệt ấy, tôi đã phải liều mình thúc ép cơ thể chuyển động hết công suất.",
+      "jpname": "モノローグ",
+      "jptext": "なんとかノリについていこうと、\n必死に体にムチを打つのだった。"
+    }
+  ]
+}
