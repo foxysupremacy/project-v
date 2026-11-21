@@ -1,0 +1,348 @@
+{
+  "title": "Tia chớp trắng",
+  "jptitle": "白い稲妻",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ sau buổi huấn luyện, khi cuộc đua tuyển chọn đã cận kề trước mắt. Tôi nói có chuyện muốn bàn và gọi Tamamo Cross lại……",
+      "jpname": "モノローグ",
+      "jptext": "選抜レースが間近に迫ったある日のトレーニング後。\n話があると言ってタマモクロスを呼んだ……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tui thả lỏng hồi sức xong rồi nè. Rồi…… anh bảo có chuyện gì muốn nói vậy?",
+      "jpname": "タマモクロス",
+      "jptext": "クールダウン、終わったで。\nほんで……話ってなんや？",
+      "choice_data_list": [
+        "Đây là lời khuyên cuối cùng trước cuộc đua tuyển chọn",
+        "Đây là lời khuyên cuối cùng trước cuộc đua tuyển chọn đấy"
+      ],
+      "jpchoice_data_list": [
+        "選抜レースに向けて最後のアドバイスだ",
+        "選抜レースに向けて最後のアドバイスだよ"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Lời cuối cùng…… là sao chứ. Ý anh là thế nào? Chẳng lẽ anh nghĩ tui không thể nào thắng được nữa nên——",
+      "jpname": "タマモクロス",
+      "jptext": "最後って……なんやそれ。どういう意味や？\nまさかアンタ、ウチがもう勝たれへんって――"
+    },
+    {
+      "name": "",
+      "text": "Tôi lắc đầu phủ nhận điều đó. Suy nghĩ của tôi hoàn toàn trái ngược. Tôi tin Tamamo Cross chắc chắn có thể chiến thắng, nên mới nói đây là lời khuyên cuối cùng.",
+      "jpname": "モノローグ",
+      "jptext": "首を横に振り、それを否定する。自分の考えは真逆だ。\nタマモクロスなら勝てると信じて、最後だと言ったのだ。",
+      "choice_data_list": [
+        "Hôm thi đấu hãy tận hưởng cuộc đua nhé"
+      ],
+      "jpchoice_data_list": [
+        "当日はレースを楽しもう"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "C-Cái gì mà nói xằng nói bậy vậy hả! Đó là cuộc tranh tài nghiêm túc đó! Làm sao có chỗ cho cái sự thảnh thơi mà tận hưởng khi chạy chứ!!",
+      "jpname": "タマモクロス",
+      "jptext": "なっ……なに抜かしとんねん！　真剣勝負やぞ！\n楽しんで走る余裕なんて、あるわけないやろ！！",
+      "choice_data_list": [
+        "Không phải thế đâu!"
+      ],
+      "jpchoice_data_list": [
+        "そんなことはない！"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cái g——",
+      "jpname": "タマモクロス",
+      "jptext": "んなっ――"
+    },
+    {
+      "name": "",
+      "text": "Tại sao Tamamo Cross lại không thể phát huy thực lực vốn có trong các cuộc đua? Tôi đã nói ra điều mà mình nhận ra sau khi nhìn lại những biểu hiện của em ấy suốt thời gian qua……",
+      "jpname": "モノローグ",
+      "jptext": "タマモクロスが何故、レースで本来の力を発揮できないのか。\nこれまでの彼女を思い返して気づいたことを、話した……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hà…… hà…… hà……!! Phải thắng……! Nhất định, nhất định phải thắng……!",
+      "jpname": "タマモクロス",
+      "jptext": "はぁっ……はぁっ……はぁっ……！！\n勝つんや……！　絶対に、絶対に勝たな……！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cũng vì gia đình đã chắt chiu cho tui theo học tại Học Viện Tracen, tui không được phép thua! Tui bắt buộc phải thắng! Vậy mà giờ đây——",
+      "jpname": "タマモクロス",
+      "jptext": "トレセン学園に通わしてくれた家族のためにも、\nウチは負けられへん！　勝たなあかんねん！　せやのに――"
+    },
+    {
+      "name": "",
+      "text": "Trong lòng Tamamo Cross luôn có một tâm niệm phải chiến thắng vì gia đình…… một tâm niệm mãnh liệt đến mức quá đỗi nặng nề.",
+      "jpname": "モノローグ",
+      "jptext": "タマモクロスには、家族のために勝たなければならないという\n強い……強すぎる想いがある。"
+    },
+    {
+      "name": "",
+      "text": "Dù điều đó là động lực to lớn của em ấy, nhưng mặt khác, chẳng phải nó cũng đã làm cứng đơ những bước chạy và thu hẹp tầm nhìn của em ấy trong cuộc đua thực tế hay sao?",
+      "jpname": "モノローグ",
+      "jptext": "それが彼女の強固なモチベーションになっている一方で、\n本番の彼女の走りを強張らせ、視野を狭くしているのではないか。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng tâm niệm ấy lại là thứ cao quý thiêng liêng nhất cần phải trân trọng hơn bất cứ điều gì. Vì vậy, tôi muốn nhắn nhủ với em ấy rằng: hãy ôm ấp nỗi niềm đó trong tim và——",
+      "jpname": "モノローグ",
+      "jptext": "だがその想いは、何よりも大事にしなければならない尊いものだ。\n故に自分は、彼女にこう伝える。その想いを抱きつつ――",
+      "choice_data_list": [
+        "Hãy trở thành \"Tia chớp trắng\" trên đường đua",
+        "Hãy trở thành \"Tia chớp trắng\" trong cuộc đua nào"
+      ],
+      "jpchoice_data_list": [
+        "レースで“白い稲妻”になるんだ",
+        "レースで“白い稲妻”になろう"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……!",
+      "jpname": "タマモクロス",
+      "jptext": "……！"
+    },
+    {
+      "name": "",
+      "text": "Tình cảm dành cho gia đình hòa quyện cùng niềm vui khi sải bước chạy. Khi hai điều đó kết hợp lại với nhau, chắc chắn Tamamo Cross sẽ chiến thắng. Đó chính là câu trả lời mà tôi đã tìm ra.",
+      "jpname": "モノローグ",
+      "jptext": "家族への想いと、走ることの楽しさ。その2つが合わされば、\nきっとタマモクロスは勝てる。それが自分の出した答えだった。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Đúng là ba từng nói như vậy. Rằng tia chớp trắng chạy vui vẻ và nhanh hơn bất kỳ ai…… Nhưng mà…… vừa chạy vừa tận hưởng niềm vui…… thì có thực sự thắng được không……?",
+      "jpname": "タマモクロス",
+      "jptext": "……確かに言った。誰よりも楽しく速く走る白い稲妻、って……。\nせやけど……楽しんで走って……ホンマに勝てるんか……？",
+      "choice_data_list": [
+        "Ai dám bảo là không thể thắng chứ?",
+        "Ai quy định là không thể thắng đâu chứ?"
+      ],
+      "jpchoice_data_list": [
+        "勝てないだなんて、誰が決めたんだ？",
+        "勝てないだなんて、誰が決めたの？"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "————",
+      "jpname": "タマモクロス",
+      "jptext": "――――"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Ha ha. Tui thiệt là ngốc nghếch hết sức mà. Được anh thức tỉnh, tới tận bây giờ tui mới nhận ra được……",
+      "jpname": "タマモクロス",
+      "jptext": "……ははっ。ホンマしょうもないな、ウチは。\nアンタに言われて、今、よ～～やく気づいたわ……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hóa ra người tự trói buộc giới hạn của bản thân…… chính là tui. Cứ nghĩ đây không phải lúc để tận hưởng, mà chỉ được phép nghĩ đến chiến thắng……",
+      "jpname": "タマモクロス",
+      "jptext": "ウチの限界を決めつけてるんは……ウチ自身やったんやな。\n楽しんでる場合とちゃう、勝つことだけ考えなあかんと思って……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Thế nhưng con người thật của tui không phải như vậy. \"Tia chớp trắng\" thực sự chính là——",
+      "jpname": "タマモクロス",
+      "jptext": "けどホンマのウチは違う。\nホンマの“白い稲妻”は――"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Uố ô ô ô ô ô ô!! Thấy sao hả!! Những bước chạy của tui thế nào!!",
+      "jpname": "タマモクロス",
+      "jptext": "うぉおおおおおおっ！！\nどやっ！！　ウチの走りはっ！！"
+    },
+    {
+      "name": "Các em của Tamamo Cross",
+      "text": "Chị hai ngầu quá đi thôi……!",
+      "jpname": "タマモクロスの弟妹",
+      "jptext": "ねぇね、かっこい～！"
+    },
+    {
+      "name": "Cha của Tamamo Cross",
+      "text": "Con bé Tama thật sự lúc nào chạy cũng trông vui vẻ hết sẩy luôn ha! ——Tuyệt vời lắm, \"Tia chớp trắng\"! Số một Nhật Bản!",
+      "jpname": "タマモクロスの父親",
+      "jptext": "タマはほんまに、めっっっちゃ楽しそうに走るなぁ！\n――よっ、“白い稲妻”！　日本一！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Lời khuyên cuối cùng của anh, tui xin khắc cốt ghi tâm. Cuộc đua tuyển chọn sắp tới, anh hãy đón xem nhé. Tui cũng…… sẽ vô cùng háo hức chờ đợi nó!",
+      "jpname": "タマモクロス",
+      "jptext": "……最後のアドバイス、しかと受け取ったで。\n選抜レース、楽しみにしててや。ウチも……楽しみにするわ！",
+      "choice_data_list": [
+        "Được!",
+        "Ừ!"
+      ],
+      "jpchoice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và rồi, ngày diễn ra cuộc đua tuyển chọn đã đến——",
+      "jpname": "モノローグ",
+      "jptext": "そして迎えた、選抜レース当日――"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "——Đang bước vào khúc cua cuối cùng nhưng đoàn đua vẫn kéo dài theo hàng dọc! Liệu các cô gái phía sau có đuổi kịp từ vị trí này không đây!?",
+      "jpname": "実況",
+      "jptext": "――最終コーナーに差し掛かるも依然縦に伸びた展開っ！\n後ろの娘たちはここから間に合うのか！？"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(——Tiếng gió rít. Cảm giác của mặt đất dưới chân. Nhịp đập rộn rã của con tim. Cảm giác thấu hiểu từng chuyển động này, lâu lắm rồi mình mới tìm lại được)",
+      "jpname": "タマモクロス",
+      "jptext": "（――風の音。地面の感触。心臓の鼓動。\n全部がわかるこの感じ、なんか久々や）"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(Chắc vì mải chỉ nghĩ tới chiến thắng—— mà mình đã quên bẵng mất rằng được sải bước chạy là điều sướng rơn thế nào……!)",
+      "jpname": "タマモクロス",
+      "jptext": "（勝つことばっか考えとったからやな――\n走るのが気持ちええってこと、忘れとったわ……！）"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(Sự phấn khích không thể nào kìm nén nổi! Đôi chân vẫn còn dư thừa sức lực……! Mọi người hãy mở to mắt mà xem đây……! Từ chỗ này mình sẽ bứt phá vượt qua tất cả!!)",
+      "jpname": "タマモクロス",
+      "jptext": "（ウズウズが止まれへん！　脚もまだ余裕がある……！\n全員見とれや……！　ここから一気にぶち抜いたるッ！）"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "——Uố ô ô ô ô ô ô ô ô ô!!!!",
+      "jpname": "タマモクロス",
+      "jptext": "――うぉおおおおおおおおッ！！！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Tamamo Cross đang vươn lên! Tamamo Cross từ phía sau lao tới! Tamamo Cross đã bứt phá ngoạn mục vọt lên rồi——!!",
+      "jpname": "実況",
+      "jptext": "タマモクロス上がってきた！　後ろからタマモクロスっ！\nタマモクロスが一気に抜け出したーーッ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Dẫn đầu là Tamamo Cross! Chính là Tamamo Cross! Với một cú nước rút thần tốc kinh hoàng, em ấy đã xuất sắc giành lấy chiến thắng chung cuộc——!!",
+      "jpname": "実況",
+      "jptext": "先頭はタマモクロス！　タマモクロスですっ！\n凄まじい追い上げで、見事勝利を掴みましたーーっ！！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ngon lành rồi!! Đây mới chính là tui!! \"Tia chớp trắng\", Tamamo Cross này đây!!",
+      "jpname": "タマモクロス",
+      "jptext": "っしゃァっ！！　これが、ウチや！！\n“白い稲妻”、タマモクロスや！！"
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "……Những bước chạy thanh thoát và đầy tự tin hơn trước rất nhiều. Có lẽ mình đã đánh giá sai tiềm năng của cô bé chăng.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "……以前よりも随分と余裕のある走りだったわね。\nポテンシャルを見誤ったかしら。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Nước rút cuối chặng kinh người đến vậy…… Cứ tưởng thân hình nhỏ bé thì sẽ thiếu sức mạnh, không ngờ không thể xem thường được chút nào……",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "終盤のあの豪脚……\n小柄でパワー不足かと思っていたが、あなどれんな……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "——Làm được rồi, làm được rồi, làm được rồi nè……!! Anh có thấy những bước chạy của tui không hả!",
+      "jpname": "タマモクロス",
+      "jptext": "――やったでやったでやったでぇ～～ッ！！\n見とったか、ウチの走り！",
+      "choice_data_list": [
+        "Tuyệt vời lắm, \"Tia chớp trắng\"!"
+      ],
+      "jpchoice_data_list": [
+        "よっ、“白い稲妻”！"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Chứ sao nữa! Tất cả cũng là nhờ công của anh cả đó! Thật sự…… thật sự cảm ơn anh nhiều lắm nghen!",
+      "jpname": "タマモクロス",
+      "jptext": "おうよ！　これもアンタのおかげや！\nホンマに……ホンマに、ありがとうな！",
+      "choice_data_list": [
+        "Là do em đã nỗ lực hết mình đấy",
+        "Là do em đã cố gắng hết sức đấy"
+      ],
+      "jpchoice_data_list": [
+        "君が頑張ったからだよ",
+        "貴方が頑張ったからだよ"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hì hì——",
+      "jpname": "タマモクロス",
+      "jptext": "へへっ――"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Tui ấy mà. Cuộc đua tuyển chọn đã kết thúc, hợp đồng tạm thời cũng hết hiệu lực, nghĩa là tui lại trở thành người tự do rồi ha……",
+      "jpname": "タマモクロス",
+      "jptext": "……ウチな。選抜レース終わって、仮契約もなくなって、\nこれでまたフリーになったわけなんやけど……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Thì đó. Có một người mà tui vô cùng, vô cùng mong muốn người đó sẽ chiêu mộ tui——",
+      "jpname": "タマモクロス",
+      "jptext": "……その。\nどうしても、ウチのことスカウトしてほしい人が――",
+      "choice_data_list": [
+        "Một lần nữa, tôi muốn chính thức chiêu mộ em!",
+        "Một lần nữa, tôi muốn chính thức chiêu mộ em!"
+      ],
+      "jpchoice_data_list": [
+        "改めて君をスカウトさせてほしい！",
+        "改めて貴方をスカウトさせてほしい！"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "——đó chứ, ủa cái đồ này!? Tui đang nói dở cơ mà! Mọi chuyện phải có trước có sau chứ hả!? Làm gì mà nhảy xổ vào họng người ta nhanh dữ vậy hả!",
+      "jpname": "タマモクロス",
+      "jptext": "――おんねん、ってコラァ！？　今ウチが話しとったやろが！\n順番ってもんがあるやろ！？　なんでそない食い気味やねん！",
+      "choice_data_list": [
+        "Vì tôi nôn nóng muốn ký hợp đồng chính thức quá nên lỡ miệng!"
+      ],
+      "jpchoice_data_list": [
+        "正式契約したくて、つい！"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Thật thà quá đáng rồi đấy!!!!!",
+      "jpname": "タマモクロス",
+      "jptext": "素直かっ！！！！！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "……Phụt. Hì hì, ha ha ha ha! Ha ha ha ha ha ha!!",
+      "jpname": "タマモクロス",
+      "jptext": "……っぷ。ふふっ、ははははっ！\nだーーーーっはっはっは！！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cái gì mà buồn cười chết đi được vậy nè! Làm tui hồi hộp nãy giờ hóa ra như một đứa ngốc vậy đó! Thiệt tình——",
+      "jpname": "タマモクロス",
+      "jptext": "なんやもう、アホらしぃわ！\n緊張したウチがアホみたいやないか！　ったく――"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Một lần nữa…… từ nay về sau nhờ anh chăm sóc tui nhiều hơn nhé. ————Trainer!",
+      "jpname": "タマモクロス",
+      "jptext": "改めて……これからもよろしゅうな。\n――――トレーナー！"
+    },
+    {
+      "name": "",
+      "text": "Nắm lấy bàn tay đang chìa ra của em ấy, tôi siết chặt trong một cái bắt tay gắn kết. Những ngày tháng đồng hành cùng Tamamo Cross chính thức bắt đầu từ đây——!!",
+      "jpname": "モノローグ",
+      "jptext": "差し出された彼女の手を取り、固く握手を交わす。\nタマモクロスとの日々が、ここから始まる――！！"
+    }
+  ]
+}
