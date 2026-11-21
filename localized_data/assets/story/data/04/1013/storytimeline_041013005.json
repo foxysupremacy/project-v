@@ -1,0 +1,234 @@
+{
+  "title": "...Em Đâu Có Ngủ",
+  "jptitle": "……寝てませんから",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một đêm nọ--",
+      "jpname": "モノローグ",
+      "jptext": "ある日の夜――"
+    },
+    {
+      "name": "",
+      "text": "Dù trời đã khuya muộn, tôi vẫn bắt gặp Mejiro McQueen đang cặm cụi học bài trong quán ăn tự phục vụ.",
+      "jpname": "モノローグ",
+      "jptext": "遅い時間にもかかわらず、カフェテリアで勉強している\nメジロマックイーンを見かけた。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Thay vào công thức này rồi tính toán... xong. Ra là thế...",
+      "jpname": "メジロマックイーン",
+      "jptext": "この数式に代入して計算する……っと。\nなるほど……。",
+      "choice_data_list": [
+        "Muộn thế này rồi mà em vẫn học bài à?",
+        "Muộn thế này rồi mà em vẫn còn học sao?"
+      ],
+      "jpchoice_data_list": [
+        "こんな時間まで勉強してるのか？",
+        "こんな時間まで勉強してるの？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ơ kìa, Trainer. Vâng đúng vậy ạ. Em đang ôn tập lại một chút để chuẩn bị cho bài kiểm tra nhỏ vào ngày mai.",
+      "jpname": "メジロマックイーン",
+      "jptext": "あら、トレーナーさん。\nそうなんです。明日の小テストに備えて少しばかり復習を。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nhưng có mấy phần hóc búa quá, nên tốn nhiều thời gian hơn em nghĩ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "けれど難解なところがあって、\n思った以上に長引いてしまいました。",
+      "choice_data_list": [
+        "Vậy ngày mai anh giảm bớt bài tập cho em nhé?",
+        "Vậy ngày mai tôi giảm bớt lượng tập cho em nhé?"
+      ],
+      "jpchoice_data_list": [
+        "なら明日のトレーニングは少なめにするか？",
+        "じゃあ明日のトレーニングは少なめにする？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Không, anh không cần phải bận tâm đến mức đó đâu ạ. Là một Mã Nương nhà Mejiro, việc cân bằng giữa học tập và tập luyện là điều hiển nhiên.",
+      "jpname": "メジロマックイーン",
+      "jptext": "いえ、そこまでしていただかなくても大丈夫です。\nメジロ家のウマ娘たるもの、学業との両立くらいできて当然ですわ。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bởi vậy buổi tập ngày mai cứ tiến hành như thường lệ nhé, nhờ cậy hết vào anh đấy ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ですから明日のトレーニングは普段通りということで、\nよろしくお願いいたしますわね。"
+    },
+    {
+      "name": "",
+      "text": "Theo mong muốn của Mejiro McQueen, buổi tập ngày hôm sau vẫn diễn ra đúng như thường lệ.",
+      "jpname": "モノローグ",
+      "jptext": "メジロマックイーンの希望により、\n翌日はいつも通りのトレーニングを行った。"
+    },
+    {
+      "name": "",
+      "text": "...Thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "……のだが。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "............",
+      "jpname": "メジロマックイーン",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ vì kiệt sức sau buổi thức đêm học bài, Mejiro McQueen cứ gật gù buồn ngủ trong suốt buổi họp mặt sau giờ tập.",
+      "jpname": "モノローグ",
+      "jptext": "昨夜の勉強で疲れていたのか、メジロマックイーンは\nトレーニング後のミーティング中、眠たそうにしていた。",
+      "choice_data_list": [
+        "...Em còn thức không đấy?",
+        "...Em vẫn còn thức chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……起きてるか？",
+        "……起きてる？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Á á á!?",
+      "jpname": "メジロマックイーン",
+      "jptext": "ひゃあぁぁっ！？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Đ-đương nhiên là em vẫn đang thức mà! Mã Nương nhà Mejiro đời nào lại đi ngủ gật chứ ạ!",
+      "jpname": "メジロマックイーン",
+      "jptext": "も、もちろん起きておりますわ！\nメジロ家のウマ娘が、居眠りなんてするはずがありませんもの！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hình như... chúng ta vừa mới cùng nhau tổng kết lại buổi tập ngày hôm nay đúng không ạ...?",
+      "jpname": "メジロマックイーン",
+      "jptext": "確か、今日のトレーニングについて\n振り返っていましたわよね……？"
+    },
+    {
+      "name": "",
+      "text": "Thấy tình hình này, tôi nghĩ tốt hơn là nên nhắc lại một lần nữa. Thế là tôi bắt đầu nói lại nội dung đánh giá buổi tập, nhưng mà--",
+      "jpname": "モノローグ",
+      "jptext": "この様子だと、もう1度話してあげた方がよさそうだ。\nそう思って再びトレーニングの振り返りを始めたのだが――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "............",
+      "jpname": "メジロマックイーン",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Rõ ràng là em đang ngủ gật mà...?",
+        "Rõ ràng là em đang ngủ gật đúng không...?"
+      ],
+      "jpchoice_data_list": [
+        "やっぱり寝てないか……？",
+        "やっぱり寝てない……？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Hả!!",
+      "jpname": "メジロマックイーン",
+      "jptext": "……はっ！！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "T-thực sự là em đâu có ngủ đâu ạ! Nhất định là do mắt Trainer nhìn nhầm rồi.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ほ、本当に寝てなどおりませんわ！\nきっとトレーナーさんの見間違いでしょう。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cho nên xin anh cứ nói tiếp đi ạ. Em vẫn đang lắng nghe vô cùng nghiêm túc đây này.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ですからどうぞ続きを。\n私、きちんと聞いておりますから。",
+      "choice_data_list": [
+        "Hôm nay dừng ở đây thôi."
+      ],
+      "jpchoice_data_list": [
+        "今日はこれで終わりにしよう"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ơ...? Nhưng buổi họp vẫn còn đang dang dở cơ mà--",
+      "jpname": "メジロマックイーン",
+      "jptext": "えっ……？\nですがミーティングはまだ途中のはず――",
+      "choice_data_list": [
+        "Vì anh không muốn em lại cố quá sức rồi ngất xỉu như lần trước đâu.",
+        "Vì tôi không muốn em lại cố quá sức rồi ngất xỉu như lần trước đâu."
+      ],
+      "jpchoice_data_list": [
+        "前みたいに無理して倒れてほしくないからな",
+        "前みたいに無理して倒れてほしくないから"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...! Chuyện đó...",
+      "jpname": "メジロマックイーン",
+      "jptext": "っ……！　それは……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Có vẻ như em lại khiến Trainer phải bận lòng lo nghĩ rồi.",
+      "jpname": "メジロマックイーン",
+      "jptext": "……どうやらトレーナーさんに、\nご心配をおかけしてしまったようですね。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Gây thêm phiền toái cho anh không phải là mong muốn của em, vậy hôm nay chúng ta tạm dừng tại đây nhé.",
+      "jpname": "メジロマックイーン",
+      "jptext": "これ以上ご迷惑をおかけするのは本意ではありませんので、\n今日は終わりにいたしましょうか。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em xin cảm ơn sự chu đáo của anh, Trainer.",
+      "jpname": "メジロマックイーン",
+      "jptext": "お心づかい感謝いたしますわ、トレーナーさん。",
+      "choice_data_list": [
+        "Lần sau nhớ đi ngủ sớm và đủ giấc vào ban đêm đấy nhé.",
+        "Lần sau nhớ đi ngủ đúng giờ vào ban đêm đấy nhé."
+      ],
+      "jpchoice_data_list": [
+        "次からは夜にちゃんと寝ような",
+        "次からは夜にちゃんと寝てね"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hả...!",
+      "jpname": "メジロマックイーン",
+      "jptext": "なっ……！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Về điểm này thì em xin phép phải đính chính lại đấy ạ!",
+      "jpname": "メジロマックイーン",
+      "jptext": "それに関しては訂正させていただきますわ！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em vẫn ngủ đủ giấc đàng hoàng, và lúc nãy em tuyệt đối không hề ngủ gật một chút nào đâu!",
+      "jpname": "メジロマックイーン",
+      "jptext": "きちんと睡眠は取っていますし、\n先ほども決して居眠りなんてしておりません！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chuyện này là sự thật trăm phần trăm đấy nhé!!",
+      "jpname": "メジロマックイーン",
+      "jptext": "これだけは本当に、本当なんですからねっ！！"
+    },
+    {
+      "name": "",
+      "text": "Một Mejiro McQueen không bao giờ chịu hé răng than vãn. Có lẽ từ giờ về sau, tôi cần phải luôn kề vai sát cánh nâng đỡ để em không gắng gượng quá sức mình.",
+      "jpname": "モノローグ",
+      "jptext": "自分からは弱音を吐かないメジロマックイーン。\n彼女が無理をしないよう、これからも支える必要がありそうだ。"
+    }
+  ]
+}

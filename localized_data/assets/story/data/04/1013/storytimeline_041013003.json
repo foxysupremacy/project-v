@@ -1,0 +1,378 @@
+{
+  "title": "Bí Mật",
+  "jptitle": "秘密",
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hộc... hộc... Vẫn... vẫn chưa rèn luyện đủ...!",
+      "jpname": "メジロマックイーン",
+      "jptext": "はっ……はっ……。\nまだ……まだ、鍛え足りない……！"
+    },
+    {
+      "name": "",
+      "text": "Khi tôi đến xem tình hình, Mejiro McQueen hôm nay vẫn đang vùi mình vào những bài tập luyện khắc nghiệt.",
+      "jpname": "モノローグ",
+      "jptext": "様子を見に行くと、メジロマックイーンは\n今日もハードなトレーニングをしていた。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Là một Mã Nương nhà Mejiro... Em tuyệt đối không cho phép bản thân phạm thêm bất kỳ sai sót nào nữa...!",
+      "jpname": "メジロマックイーン",
+      "jptext": "メジロのウマ娘として……。\nこれ以上の失態は許されませんわ……！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Chân không thể phát lực cái gì chứ. Giờ không phải là lúc để than vãn điều đó...!!",
+      "jpname": "メジロマックイーン",
+      "jptext": "……脚に力が入らない、だなんて。\n言っていられません……！！"
+    },
+    {
+      "name": "",
+      "text": "Trông em có vẻ vô cùng sốt ruột, liệu có ổn không đây...?",
+      "jpname": "モノローグ",
+      "jptext": "ひどく焦っているように見えるけれど、\n大丈夫だろうか……？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Ơ, ơ kìa? Cơ thể mình, không còn chút sức lực nào...",
+      "jpname": "メジロマックイーン",
+      "jptext": "……あ、あら？\nからだに、ちからが……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A...!!",
+      "jpname": "メジロマックイーン",
+      "jptext": "あっ……！！"
+    },
+    {
+      "name": "",
+      "text": "Vừa thấy Mejiro McQueen loạng choạng, ngay sau đó em liền ngã gục xuống mặt đất!",
+      "jpname": "モノローグ",
+      "jptext": "メジロマックイーンは、ふらついたかと思うと\nそのまま地面に倒れこんでしまった！",
+      "choice_data_list": [
+        "McQueen! Em có sao không!?",
+        "McQueen! Em ổn chứ!?"
+      ],
+      "jpchoice_data_list": [
+        "マックイーン！大丈夫か！？",
+        "マックイーン！大丈夫！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi được kiểm tra, bác sĩ kết luận em chỉ bị thiếu máu nhẹ.",
+      "jpname": "モノローグ",
+      "jptext": "診てもらったところ、軽い貧血とのことだった。"
+    },
+    {
+      "name": "",
+      "text": "Nguyên nhân có khả năng là do thiếu hụt dinh dưỡng. Lẽ nào em không ăn uống đầy đủ sao...?",
+      "jpname": "モノローグ",
+      "jptext": "原因としては栄養不足が考えられるらしい。\n食事をきちんととっていないのだろうか……？"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen! Mình nghe bảo cậu bị ngất, cậu có sa--",
+      "jpname": "メジロライアン",
+      "jptext": "マックイーン！\n倒れたって聞いたけど、だい――",
+      "choice_data_list": [
+        "Suỵt!"
+      ],
+      "jpchoice_data_list": [
+        "しーっ"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "A, x-xin lỗi ạ!",
+      "jpname": "メジロライアン",
+      "jptext": "あっ、す、すみません！"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Dạ thì... em xin chào. Em tên là Mejiro Ryan.",
+      "jpname": "メジロライアン",
+      "jptext": "えっと……こんにちは。\nあたし、メジロライアンっていいます。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Anh có phải là Trainer của McQueen không ạ?",
+      "jpname": "メジロライアン",
+      "jptext": "あなたは、マックイーンのトレーナーさんですか？",
+      "choice_data_list": [
+        "Dù anh vẫn chưa chính thức phụ trách em ấy.",
+        "Dù tôi vẫn chưa chính thức phụ trách em ấy."
+      ],
+      "jpchoice_data_list": [
+        "まだ正式には担当じゃないけどな",
+        "まだ正式には担当じゃないけどね"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ra là vậy... Nhưng anh vẫn luôn quan tâm lo lắng cho McQueen đúng không ạ. Em cảm ơn anh nhiều lắm.",
+      "jpname": "メジロライアン",
+      "jptext": "そっか……でも、マックイーンを気にかけて\nくださっているんですよね。ありがとうございます。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tiện thể thì, mọi người đã tìm ra nguyên nhân cậu ấy ngất xỉu chưa ạ?",
+      "jpname": "メジロライアン",
+      "jptext": "ちなみに、倒れた原因ってわかったんでしょうか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi kể cho Mejiro Ryan nghe về kết quả chẩn đoán.",
+      "jpname": "モノローグ",
+      "jptext": "メジロライアンに、診断結果について話した。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Thiếu máu do thiếu dinh dưỡng... ra là thế ạ.",
+      "jpname": "メジロライアン",
+      "jptext": "栄養不足による貧血……そうですか。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Vì Cuộc Đua Tuyển Chọn sắp tới gần nên em cứ thấy cậu ấy gắng gượng quá đà... Giá như em khuyên nhủ cậu ấy sớm hơn thì tốt biết mấy...",
+      "jpname": "メジロライアン",
+      "jptext": "選抜レースが近いからって、無理してるなぁとは\n思ってたんですが……もっと早く声をかけてあげればよかった……。",
+      "choice_data_list": [
+        "Em luôn lo lắng cho McQueen suốt nhỉ.",
+        "Em luôn lo lắng cho McQueen suốt nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "マックイーンをずっと心配していたんだな",
+        "マックイーンをずっと心配していたんだね"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Vâng ạ. Nhưng rốt cuộc em lại chẳng giúp gì được cho cậu ấy...",
+      "jpname": "メジロライアン",
+      "jptext": "はい。結局、何もしてあげられませんでしたが……。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Có lẽ qua cái tên anh cũng đoán ra rồi, em cũng là một 'Mã Nương nhà Mejiro'. Cơ mà tụi em không phải chị em ruột đâu nhé.",
+      "jpname": "メジロライアン",
+      "jptext": "名前でわかったかもしれませんが、あたしも一応、\n『メジロのウマ娘』なんです。あ、姉妹ではないんですけどね。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Cũng nhờ thế mà em và McQueen đã gắn bó với nhau từ khi còn bé xíu.",
+      "jpname": "メジロライアン",
+      "jptext": "そのおかげで、マックイーンとは、\n小さい頃からずっと付き合いがあって。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Cậu ấy... tinh thần trách nhiệm cao quá mức, nói đúng hơn là luôn tự dồn bản thân vào đường cùng.",
+      "jpname": "メジロライアン",
+      "jptext": "この子……責任感が強すぎるっていうか、\n自分で自分を追い込みすぎちゃうんですよね。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Dù chẳng cần phải làm vậy, McQueen vốn dĩ đã thể hiện rất tuyệt vời rồi.",
+      "jpname": "メジロライアン",
+      "jptext": "……そんなことしなくたって、\nマックイーンは、十分立派にやってるのに。"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "--Ấy chết, không xong rồi! Em phải đi ngay thôi...!",
+      "jpname": "メジロライアン",
+      "jptext": "――っと、いけない！\nもう行かなきゃ……！"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Em xin lỗi Trainer, em xin phép đi trước ạ!",
+      "jpname": "メジロライアン",
+      "jptext": "ごめんなさいトレーナーさん、失礼します！"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "À mà... Trăm sự nhờ anh chăm sóc cho McQueen nhé ạ.",
+      "jpname": "メジロライアン",
+      "jptext": "あのっ……。\nマックイーンのこと、お願いしますっ。"
+    },
+    {
+      "name": "",
+      "text": "Chỉ để lại vài lời ấy, Mejiro Ryan liền vội vã rời khỏi phòng bệnh...",
+      "jpname": "モノローグ",
+      "jptext": "それだけ言い残して、メジロライアンは\nその場から急ぎ立ち去っていった……。"
+    },
+    {
+      "name": "",
+      "text": "Một lát sau, Mejiro McQueen dần dần tỉnh lại.",
+      "jpname": "モノローグ",
+      "jptext": "それからしばらくして、\nメジロマックイーンが目を覚ました。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hóa ra là vậy sao... Em đã bất tỉnh trong lúc tập luyện...",
+      "jpname": "メジロマックイーン",
+      "jptext": "そうでしたか……。\nトレーニング中に意識を……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em đã gây ra quá nhiều phiền toái, thật lòng xin lỗi anh, Trainer.",
+      "jpname": "メジロマックイーン",
+      "jptext": "大変なご迷惑をおかけしてしまい、\n申し訳ございませんでした、トレーナーさん。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nhưng giờ em đã hoàn toàn ổn rồi ạ! Em sẽ quay lại tập luyện ngay--",
+      "jpname": "メジロマックイーン",
+      "jptext": "けれど、もう大丈夫ですわ！\nすぐにトレーニングを再開して――"
+    },
+    {
+      "name": "",
+      "text": "(Ọt ọt...)",
+      "jpname": "モノローグ",
+      "jptext": "（きゅるるる……）"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Á...!?",
+      "jpname": "メジロマックイーン",
+      "jptext": "ひゃっ……！？",
+      "choice_data_list": [
+        "Em có ăn uống đầy đủ không đấy...?",
+        "Em có ăn uống đàng hoàng không đấy...?"
+      ],
+      "jpchoice_data_list": [
+        "ご飯、ちゃんと食べてるか……？",
+        "ご飯、ちゃんと食べてる……？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Đ... đương nhiên là có chứ ạ! Là một Mã Nương nhà Mejiro, chế độ sinh hoạt mỗi ngày kể cả việc ăn uống, em đều quản lý vô cùng hoàn hảo!",
+      "jpname": "メジロマックイーン",
+      "jptext": "も……もちろんですわ！　メジロのウマ娘たるもの、食生活を含む\n日々の生活も、完璧に整えておりますもの！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chỉ là... vì Cuộc Đua Tuyển Chọn sắp tới, nên em có ăn kiêng đôi chút...",
+      "jpname": "メジロマックイーン",
+      "jptext": "ただ……選抜レースのこともありましたし、\n多少食事制限はしておりましたが……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chuyện em bị ngất hoàn toàn là do bản thân còn non nớt! Chỉ là do việc rèn luyện hằng ngày chưa đủ mà thôi!",
+      "jpname": "メジロマックイーン",
+      "jptext": "倒れてしまったのは、私が未熟だからです！\n日々の鍛錬が足りなかっただけですわ！",
+      "choice_data_list": [
+        "Cho anh xem thực đơn bữa ăn của em được không?",
+        "Tôi có thể xem qua thực đơn của em được không?"
+      ],
+      "jpchoice_data_list": [
+        "食事のメニューを見せてもらってもいいか？",
+        "食事のメニューを見せてもらってもいい？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dạ...? Vâng, cũng không sao ạ...",
+      "jpname": "メジロマックイーン",
+      "jptext": "え……？\nええ、構いませんが……。"
+    },
+    {
+      "name": "",
+      "text": "Tôi xem qua thực đơn các bữa ăn của Mejiro McQueen.",
+      "jpname": "モノローグ",
+      "jptext": "メジロマックイーンの\n食事メニューを見せてもらった。"
+    },
+    {
+      "name": "",
+      "text": "Đúng là vẫn nạp đủ lượng dinh dưỡng tối thiểu, nhưng như thế này thì làm sao đủ sức được. Đôi chân không phát được lực có lẽ cũng chính vì nguyên do này...",
+      "jpname": "モノローグ",
+      "jptext": "たしかに最低限の栄養は摂れているけれど、これだと物足りない\nのではないだろうか。脚に力が入らないのも、そのせいかも……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Anh thấy thế nào ạ? Em nghĩ thực đơn đó đâu có vấn đề gì.",
+      "jpname": "メジロマックイーン",
+      "jptext": "……いかがでしたか？\n問題ないメニューかと思いますが。",
+      "choice_data_list": [
+        "Chẳng phải thực đơn này kiêng khem quá mức sao?",
+        "Liệu thực đơn này có kiêng khem quá khắt khe không?"
+      ],
+      "jpchoice_data_list": [
+        "ちょっと制限がきつすぎないか？",
+        "ちょっと制限がきつすぎない？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ư, ch-chuyện đó...",
+      "jpname": "メジロマックイーン",
+      "jptext": "う、そ、それは……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Anh đã quan tâm đến em đến nhường này, nếu em cứ giấu giếm thì thật là bất kính...",
+      "jpname": "メジロマックイーン",
+      "jptext": "……ここまで気にかけてくださっているのですから、\n隠すというのも不誠実ですわね……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em hiểu rồi, em sẽ nói thật cho anh biết. ...Sự kiêng khem ấy thật ra có lý do cả.",
+      "jpname": "メジロマックイーン",
+      "jptext": "わかりました、お話しします。\n……その制限には、理由があるのです。",
+      "choice_data_list": [
+        "Lý do là gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "理由って？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em, ừm thì... do cơ địa, nói sao nhỉ...",
+      "jpname": "メジロマックイーン",
+      "jptext": "私は、えっと……体質、といいますか……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Em hơi dễ bị tăng cân một chút ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "……少々、太りやすいのです。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chỉ cần ăn uống bình thường thôi là thịt mỡ sẽ bám vào người ngay lập tức.",
+      "jpname": "メジロマックイーン",
+      "jptext": "普通に食事をしているだけでも、\nすぐにお肉がついてしまって。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Một khi đã gánh vác thanh danh nhà Mejiro bước vào Cuộc Đua Tuyển Chọn, em tuyệt đối không thể để lộ một thân hình xồ xề luộm thuộm được!",
+      "jpname": "メジロマックイーン",
+      "jptext": "メジロの名を背負って選抜レースに挑む以上、\nだらしない体を晒すわけには参りません！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chính vì vậy nên em mới thực hiện chế độ ăn kiêng, thế nhưng--",
+      "jpname": "メジロマックイーン",
+      "jptext": "ですから、食事制限を行っていたのですが――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Nhưng nếu để bản thân ngất xỉu thì đúng là lợi bất cập hại. Em sẽ suy nghĩ thêm biện pháp khác.",
+      "jpname": "メジロマックイーン",
+      "jptext": "……倒れてしまっては本末転倒ですわね。\nなにか、対策を考えます。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Xin thứ lỗi, em xin phép được cáo lui tại đây. Hôm nay... em thực sự vô cùng xin lỗi vì đã gây phiền toái cho anh.",
+      "jpname": "メジロマックイーン",
+      "jptext": "すみませんが、私はこれで失礼いたします。\n今日は……本当に、ご迷惑をおかけして申し訳ございませんでした。"
+    },
+    {
+      "name": "",
+      "text": "Nói dứt lời, Mejiro McQueen liền lập tức rời đi ngay.",
+      "jpname": "モノローグ",
+      "jptext": "メジロマックイーンはそう言って、\nすぐにその場から立ち去ってしまった。"
+    }
+  ]
+}

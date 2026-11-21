@@ -1,0 +1,388 @@
+{
+  "title": "Trốn Tìm Cùng Điệu Nhạc Lễ Hội",
+  "jptitle": "祭囃子でかくれんぼ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "--Trại hè huấn luyện diễn ra tại khu liên hợp ven biển. Tại đây, các Mã Nương sẽ lao mình vào những bài tập luyện còn gian khổ hơn thường lệ.",
+      "jpname": "モノローグ",
+      "jptext": "――海辺の合宿施設で行われる夏合宿。そこでウマ娘たちは、\nいつも以上に厳しいトレーニングに打ち込むことになる。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hộc... hộc...",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふっ……ふっ……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cảm giác ở đây hoàn toàn khác biệt so với đường chạy thường ngày. Nhưng cảm nhận được bản thân đang được rèn giũa thế này cũng không hề tệ chút nào.",
+      "jpname": "メジロマックイーン",
+      "jptext": "普段のコースとは全く感覚が違いますわね。\nけれど、鍛えられていると実感できて悪くありませんわ。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nào, tranh thủ lúc này chạy thêm chút nữa--",
+      "jpname": "メジロマックイーン",
+      "jptext": "さあ、今のうちにもう少し――"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Này, cậu nghe tin gì chưa? Tối nay ở gần đây có lễ hội đấy!",
+      "jpname": "ウマ娘A",
+      "jptext": "ねぇ聞いた？\n今日の夜、近くでお祭りやるんだってー！"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Thật á? Thế tập xong tụi mình rủ nhau đi chơi đi!",
+      "jpname": "ウマ娘B",
+      "jptext": "ホント？　じゃあトレーニング終わったら一緒に行こうよ！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ơ kìa, lễ hội sao...? Nghe cũng thi vị và tao nhã đấy chứ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "あら、お祭り……？\nなかなか風流なことをやっていますのね。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em nhớ hồi còn bé xíu mình từng được dắt đi một lần. Em vẫn nhớ nơi đó có rất nhiều quầy hàng rong và náo nhiệt vô cùng.",
+      "jpname": "メジロマックイーン",
+      "jptext": "確か、小さい頃に連れて行ってもらったことがあります。\nたくさんの屋台があって、にぎやかだったのを覚えていますわ。",
+      "choice_data_list": [
+        "Hay mình đi xem thử đi.",
+        "Hay chúng mình đi xem thử nhé."
+      ],
+      "jpchoice_data_list": [
+        "行ってみようか",
+        "行ってみよっか"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ôi... thật sự được sao anh?",
+      "jpname": "メジロマックイーン",
+      "jptext": "まあ……いいんですの？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu vậy thì em phải mau chóng hoàn thành buổi tập thôi. Em sẽ lên tinh thần chạy thêm một đợt nữa ngay đây ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "でしたら、早めにトレーニングを終わらせないといけませんね。\n気合いを入れて、もう1本行って参りますわ。"
+    },
+    {
+      "name": "",
+      "text": "Sau khi tập luyện miệt mài cho đến lúc hoàng hôn buông xuống, tôi cùng Mejiro McQueen lên đường đến địa điểm tổ chức lễ hội.",
+      "jpname": "モノローグ",
+      "jptext": "夕暮れ時までトレーニングをした後、\nメジロマックイーンと祭り会場へと向かうことにした。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Chà, đông vui và nhộn nhịp quá chừng.",
+      "jpname": "メジロマックイーン",
+      "jptext": "まあ、大勢の人でにぎわっていますわね。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Có nhiều quầy hàng quá làm em hoa cả mắt. Chúng ta nên dạo quanh từ đâu trước đây nhỉ-- A!",
+      "jpname": "メジロマックイーン",
+      "jptext": "屋台もたくさんあって目移りしてしまいます。\nどこから見て回りましょうか――あっ！",
+      "choice_data_list": [
+        "Có chuyện gì thế em?",
+        "Có chuyện gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "どうかしたのか？",
+        "どうかした？"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Kia kìa, quầy hàng ở tít phía trong kia... em qua đó xem một lát có được không ạ?",
+      "jpname": "メジロマックイーン",
+      "jptext": "あの、奥の方にある屋台……\nちょっと見に行ってみてもよろしいですか？",
+      "choice_data_list": [
+        "Tất nhiên rồi."
+      ],
+      "jpchoice_data_list": [
+        "もちろん"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cảm ơn anh. Vậy chúng ta đi thôi nào.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ありがとうございます。では参りましょう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi vội rảo bước đuổi theo Mejiro McQueen đang thoăn thoắt tiến về phía trước. Nhưng đúng lúc đó--",
+      "jpname": "モノローグ",
+      "jptext": "早足で歩き始めたメジロマックイーンを追いかけようとした。\nしかし、その時――",
+      "choice_data_list": [
+        "Oái...!!"
+      ],
+      "jpchoice_data_list": [
+        "うわっ……！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vì dòng người quá đông đúc, tôi chẳng may va phải người khác.",
+      "jpname": "モノローグ",
+      "jptext": "人混みのせいで、運悪く人にぶつかってしまった。"
+    },
+    {
+      "name": "",
+      "text": "Cứ đà này sẽ lạc mất Mejiro McQueen mất-- Đến khi tôi kịp nghĩ tới điều đó thì đã quá muộn, hình bóng của em đã biến mất khỏi tầm mắt.",
+      "jpname": "モノローグ",
+      "jptext": "このままではメジロマックイーンを見失ってしまう――\nそう思った頃にはすでに遅く、彼女は視界からいなくなっていた。"
+    },
+    {
+      "name": "",
+      "text": "Từ lúc đó tôi đã rảo bước tìm kiếm Mejiro McQueen một hồi lâu, nhưng chẳng thấy tăm hơi em đâu cả.",
+      "jpname": "モノローグ",
+      "jptext": "あれからしばらくメジロマックイーンを探しているが、\n一向に見つからない。",
+      "choice_data_list": [
+        "(Em ấy đi đâu mất rồi nhỉ...)",
+        "(Em ấy đi đâu mất rồi nhỉ...)"
+      ],
+      "jpchoice_data_list": [
+        "（どこに行ってしまったんだろう……）",
+        "（どこ行っちゃったのかな……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Bính boong bính boong♪)",
+      "jpname": "モノローグ",
+      "jptext": "（ピーンポーンパーンポーン♪）"
+    },
+    {
+      "name": "Phát thanh viên A",
+      "text": "Xin gửi thông báo tìm người lạc. Xin mời Trainer của em Mejiro McQueen khẩn trương đến lều của Ban tổ chức ngay ạ.",
+      "jpname": "アナウンスA",
+      "jptext": "迷子のお知らせです。メジロマックイーンさんのトレーナーさん、\n至急、実行委員会のテントまでお越しください。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A... Trainer!",
+      "jpname": "メジロマックイーン",
+      "jptext": "あっ……トレーナーさん！",
+      "choice_data_list": [
+        "Em bình an là tốt rồi!"
+      ],
+      "jpchoice_data_list": [
+        "無事でよかった！"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em xin lỗi anh, tất cả là do em đã tự ý đi trước...",
+      "jpname": "メジロマックイーン",
+      "jptext": "ごめんなさい、私が先に行ってしまったせいで……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Lần này em nhất định sẽ không để bị lạc nữa đâu, em sẽ không hưng phấn quá đà mà ngoan ngoãn đi sát cạnh Trainer...",
+      "jpname": "メジロマックイーン",
+      "jptext": "今度は決してはぐれないよう、はしゃがず\nきちんとトレーナーさんについて行きますわ……。",
+      "choice_data_list": [
+        "Chuyện không có gì to tát đâu, em đừng bận tâm quá.",
+        "Chuyện nhỏ thôi mà, em đừng để bụng nhé."
+      ],
+      "jpchoice_data_list": [
+        "たいしたことないから、そんなに気にするな",
+        "たいしたことないから、そんな気にしないで"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nhưng mà, nếu lại gây thêm phiền phức cho anh thì không được đâu ạ--",
+      "jpname": "メジロマックイーン",
+      "jptext": "ですが、それでまたご迷惑をかけてしまってはいけませんし――",
+      "choice_data_list": [
+        "Quẩy hết mình để tận hưởng mới là quy tắc của lễ hội chứ.",
+        "Thỏa sức vui chơi hết mình chính là quy tắc của lễ hội đấy."
+      ],
+      "jpchoice_data_list": [
+        "羽目を外して楽しむのがお祭りのルールだ",
+        "羽目を外して楽しむのがお祭りのルールだよ"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dạ, quy tắc của lễ hội... sao ạ?",
+      "jpname": "メジロマックイーン",
+      "jptext": "えっ、お祭りのルール……ですか？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hi hi, đúng là như vậy thật nhỉ. Mọi người đến đây ai nấy đều thỏa sức vui chơi hết mình mà.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふふっ、確かにそうですわね。\nここに来ている方は皆、羽目を外して楽しんでいますもの。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu đã thế thì em có một thỉnh cầu nho nhỏ. Quầy hàng lúc nãy em định tới ấy ạ--",
+      "jpname": "メジロマックイーン",
+      "jptext": "そういうことなら、少しだけお願いがあります。\n先ほど行こうとした屋台なんですが――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu được, anh có thể đi cùng em được không?",
+      "jpname": "メジロマックイーン",
+      "jptext": "よろしければ、一緒に行ってくださいませんか？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu kéo lên ngay chỗ này thì-- hây!",
+      "jpname": "メジロマックイーン",
+      "jptext": "ここで釣り上げれば――はっ！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A, dây đứt mất rồi... Anh chủ ơi cho em xin chơi lại một lần nữa ạ!",
+      "jpname": "メジロマックイーン",
+      "jptext": "あぁ、紐が切れてしまいました……。\nすみません店員さん、もう1回お願いします！"
+    },
+    {
+      "name": "",
+      "text": "Hóa ra quầy hàng thu hút sự chú ý của Mejiro McQueen là quầy câu bóng nước Yo-yo.",
+      "jpname": "モノローグ",
+      "jptext": "メジロマックイーンが気になっていたのは、\nヨーヨー釣りの屋台だったようだ。"
+    },
+    {
+      "name": "",
+      "text": "Một lát sau đó--",
+      "jpname": "モノローグ",
+      "jptext": "それからしばらくして――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Em làm được rồi này, Trainer!",
+      "jpname": "メジロマックイーン",
+      "jptext": "やりましたわ、トレーナーさん！"
+    },
+    {
+      "name": "",
+      "text": "Nhìn sang, tôi thấy Mejiro McQueen đã xuất sắc câu được một quả bóng Yo-yo tuyệt đẹp.",
+      "jpname": "モノローグ",
+      "jptext": "見ると、メジロマックイーンが見事に\nヨーヨーを釣り上げていた。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hi hi, tuy có hơi chật vật một chút, nhưng câu được rồi thì vui sướng vô cùng.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふふっ、なかなか苦労しましたが、\n取れると嬉しいものですね。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cảm giác lúc này trò nào em cũng có thể chơi ngon lành luôn. Nào, tiếp theo chúng ta ghé quầy nào đây ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "今ならどんな遊びも、うまくできそうな気分です。\nさあ、次はどのお店に行きましょうか。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "--A, anh nhìn xem! Đằng kia có trò bắn súng trúng thưởng kìa! Lại còn ghi là 'Có phần thưởng cực kỳ xa xỉ' nữa chứ!",
+      "jpname": "メジロマックイーン",
+      "jptext": "――あっ、見てください！　あちらには射的があるようです！\nしかも、『豪華景品あり』と書いてありますわ！"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Không biết là giải thưởng gì đây nhỉ. Hiếm khi có dịp, hay mình qua đó chơi đi anh?",
+      "jpname": "メジロマックイーン",
+      "jptext": "どんな景品が当たるのでしょう。\nせっかくですし、行ってみませんか？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nhanh lên nào Trainer, lối này cơ ạ!",
+      "jpname": "メジロマックイーン",
+      "jptext": "さあトレーナーさん、こっちですわ！"
+    },
+    {
+      "name": "",
+      "text": "Sau khi đã thỏa thích tận hưởng lễ hội, chúng tôi cùng nhau rảo bước trên con đường trở về khu trại huấn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "お祭りをひとしきり楽しんだ後、\n合宿所までの道を一緒に歩いて帰ることにした。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cảm ơn anh hôm nay đã đi cùng em nhé. Nhờ có anh mà em đã có một ngày vui trọn vẹn.",
+      "jpname": "メジロマックイーン",
+      "jptext": "今日は一緒に来てくださってありがとうございました。\nおかげですごく楽しめましたわ。",
+      "choice_data_list": [
+        "Anh cũng có làm được gì nhiều đâu."
+      ],
+      "jpchoice_data_list": [
+        "特に何もしてないけど"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Không có chuyện đó đâu ạ. Chỉ là, nói sao nhỉ...",
+      "jpname": "メジロマックイーン",
+      "jptext": "そんなことはありません。\nその、なんと言いますか……。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu người đi cùng không phải là Trainer, em nghĩ mình sẽ không bao giờ thỏa sức vui đùa đến nhường này.",
+      "jpname": "メジロマックイーン",
+      "jptext": "一緒に来たのがトレーナーさんでなければ、\nこんなに羽目を外すことはなかったと思うんです。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Từ trước đến giờ, với tư cách là một Mã Nương nhà Mejiro, em luôn ghi khắc việc giữ gìn chừng mực trong mọi lúc. Thế nhưng--",
+      "jpname": "メジロマックイーン",
+      "jptext": "今まではメジロ家のウマ娘として、\nいかなる時も節度を守るよう心がけてきましたから。でも――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nếu là ở trước mặt Trainer, em nghĩ... đôi khi phá bỏ điều ấy một chút xíu chắc cũng không sao.",
+      "jpname": "メジロマックイーン",
+      "jptext": "トレーナーさんの前でなら、\n少しだけ……それを破ってもいいかなと思うのです。"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bởi vì nếu là Trainer, anh nhất định sẽ bao dung cho em mà, đúng không?",
+      "jpname": "メジロマックイーン",
+      "jptext": "だってトレーナーさんなら、許してくださるでしょう？",
+      "choice_data_list": [
+        "Tất nhiên rồi."
+      ],
+      "jpchoice_data_list": [
+        "もちろん"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Cảm ơn anh nhiều lắm! Vậy thì em xin phép được đề xuất ngay một chuyện--",
+      "jpname": "メジロマックイーン",
+      "jptext": "っ……、ありがとうございます！\nでは早速、提案があるのですが――"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bánh bông lan cà rốt mua ở lễ hội lúc nãy, mình vừa đi dạo vừa cùng nhau ăn nhé anh?",
+      "jpname": "メジロマックイーン",
+      "jptext": "お祭りで買ったにんじんカステラ、\n歩きながら一緒に食べませんか？"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bình thường em tuyệt đối không bao giờ vừa đi vừa ăn đâu, nhưng lúc này ở đây chỉ có mỗi hai chúng ta mà thôi...",
+      "jpname": "メジロマックイーン",
+      "jptext": "普段は食べ歩きなんて絶対にしないのですが、\n今ここには私たちだけしかいませんから……。",
+      "choice_data_list": [
+        "Được thôi."
+      ],
+      "jpchoice_data_list": [
+        "いいよ"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hi hi, em cảm ơn anh. Vậy xin mời Trainer nếm thử một miếng trước ạ.",
+      "jpname": "メジロマックイーン",
+      "jptext": "ふふっ、ありがとうございます。\nではトレーナーさんから、おひとつどうぞ。"
+    }
+  ]
+}
