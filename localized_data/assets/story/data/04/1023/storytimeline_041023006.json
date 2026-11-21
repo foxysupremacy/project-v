@@ -1,0 +1,436 @@
+{
+  "title": "Sức Hút Xác Định",
+  "jptitle": "確定的チャーム",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ nọ, khi tôi ghé thăm trung tâm thương mại...",
+      "jpname": "モノローグ",
+      "jptext": "ある休日、ショッピングモールを訪れると――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ừm... Tinh dầu thì chủng loại phong phú thật, nhưng dầu thực vật cốt lõi thì lại không ổn. Xem ra sản phẩm này chú trọng hương thơm hơn là hiệu quả dưỡng tóc.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "うーん……精油の種類は豊富だが、肝心の植物油がな。\n美容効果よりも香り高さを重視していると見た。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Nếu vậy thì vẫn nên chọn loại dầu hạt baobab lúc nãy chăng... Nhưng xét về độ thẩm thấu thì thành phần chưa thực sự tối ưu... Hừm...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "となればやはり先ほどのバオバブ種子油のものを……\nだが、浸透率を考えると成分が今ひとつ……むぅ……。",
+      "choice_data_list": [
+        "...Hayahide?"
+      ],
+      "jpchoice_data_list": [
+        "……ハヤヒデ？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...A!? T-Trainer-kun!?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……っ！？\nト、トレーナー君！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "S-Sao bạn lại ở đây... À không, đương nhiên là đi mua sắm rồi. Nhưng quả là tình cờ thật đấy...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "な、なぜここにっ……いや、買い物に決まってるか。\nしかしなんたる偶然……。",
+      "choice_data_list": [
+        "Em đang xem cái gì thế?",
+        "Em đang chọn món gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "何を見てたんだ？",
+        "何を見てたの？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Tôi đang so sánh vài loại dầu dưỡng tóc với nhau. Đúng lúc chai tôi đang dùng sắp hết nên tiện ghé qua.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……ヘアオイルを色々と見比べていたところだ。\nちょうど今使用しているものが切れそうだったのでね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tiện thể tôi đến xem có dòng sản phẩm mới nào ra mắt không. Dù là cùng một sản phẩm nhưng nhờ nghiên cứu mỗi ngày mà thành phần cũng có thể được cải tiến đấy.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "せっかくだから、新製品でも出ていないかと探しに来たんだ。\n同じ製品でも、日々の研究によって成分が見直されることもあるし。",
+      "choice_data_list": [
+        "Em chăm chút kỹ lưỡng ghê nhỉ.",
+        "Em chăm chút cẩn thận ghê ta."
+      ],
+      "jpchoice_data_list": [
+        "ずいぶん気を使ってるんだな",
+        "ずいぶん気を使ってるんだね"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thì... như bạn thấy đấy, nỗi phiền toái về mái tóc của tôi chẳng bao giờ dứt cả.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "まあ……この通り、髪の悩みは尽きないからな。",
+      "choice_data_list": [
+        "Như thấy sao?"
+      ],
+      "jpchoice_data_list": [
+        "この通り？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Nhìn là bạn nhận ra ngay mà đúng không? Mái tóc của tôi... ừm, có hơi dễ bị phồng xù lên một chút.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……見てわかるだろう？\n私の髪は……その、少しだけ膨張しやすくてね。",
+      "choice_data_list": [
+        "Ra là vậy...?"
+      ],
+      "jpchoice_data_list": [
+        "なるほど……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng là tóc em bồng bềnh thật, nhưng tôi chẳng thấy có gì quá khác thường cả. Trong lúc tôi còn đang thắc mắc liệu có cần phải bận tâm đến mức ấy không thì...",
+      "jpname": "モノローグ",
+      "jptext": "確かに彼女の髪はふわふわしているが、特別目立つ印象はない。\nそこまで気遣うものなのだろうかと疑問に思っていると――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Này bạn. Không lẽ... bạn đang lầm tưởng rằng tóc tôi tự nhiên mà giữ được trạng thái thế này mà không cần chăm sóc gì sao?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……なあ君。まさか……私の髪が、何もせずに\n元々この状態なのだと勘違いしてはいないか？",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thế này là tôi đã nỗ lực hết mức rồi đấy. Ngày nào tôi cũng phải dùng sáp tạo kiểu để ép những sợi tóc con vào nếp, rồi dưỡng tóc cực kỳ kỹ càng trước khi ngủ.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "これでも最大限努力はしている。毎日、浮き毛を抑える\nスタイリング剤を使用しているし、就寝前のヘアケアも入念だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thế nhưng Trainer-kun à... bao nhiêu đó vẫn chưa thấm tháp vào đâu. Bởi vì, bởi vì mái tóc của tôi chính là...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "だがトレーナー君……それでも足りないのだよ。\n何せ、何せ私の髪は――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Sự kết hợp siêu hỗn loạn giữa sợi tóc gợn sóng và sợi xoắn vặn! Là chất tóc siêu xoăn cứng đầu đến mức thợ làm tóc cũng phải giơ tay đầu hàng...!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "――波状毛と捻転毛の超混合！\n美容師もお手上げのハイパー癖毛だからだ……！",
+      "choice_data_list": [
+        "S-Siêu xoăn cứng đầu!?"
+      ],
+      "jpchoice_data_list": [
+        "は、ハイパー癖毛！？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Phải. Tuy chỉ là cách gọi ví von không mang tính định lượng cụ thể, nhưng chất tóc của tôi dị thường đến mức tôi buộc phải gọi nó như thế!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "ああ。具体的な意味を持たない形容にはなるが、\nあえてそう呼ばざるを得ないほど、私の髪質は異常だ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hàng bán sẵn đã đành, tôi còn tự pha chế sản phẩm dưỡng tóc, thậm chí đã chạm vào điều cấm kỵ mang tên Tachyon-kun. Nhưng tình hình chẳng hề tiến triển chút nào!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "既製品はもちろん、自分でもケア用品を作ってみたし、\nタキオン君という禁忌に触れてもみた。だが一向に改善しない！",
+      "choice_data_list": [
+        "(Công tắc kỳ lạ bị bật lên rồi sao...?!)"
+      ],
+      "jpchoice_data_list": [
+        "（変なスイッチが入った……！？）"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cơn thống khổ bắt đầu ngay từ khoảnh khắc mở mắt thức dậy vào buổi sáng. Bạn đã bao giờ trải qua cảm giác suýt chết ngạt vì chính mớ tóc của mình rồi giật mình bật dậy chưa?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "苦痛は朝起きた瞬間からすでに始まっている。\n君は自分の髪で窒息しかけ、飛び起きた経験はあるか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vào mùa mưa thì lại càng tệ hại hơn nữa! Với tôi, mái tóc không phải thứ có thể tạo kiểu để tận hưởng. Đúng vậy, nó xứng đáng được gọi là kẻ thù...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "梅雨の時期など、特に顕著だ！　私にとって髪とは、\nアレンジなどで楽しめる代物ではない。そう、もはや敵とも呼べ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Người ngoài cứ buông một câu nhẹ tênh rằng nếu thế thì cắt ngắn đi là xong. Nhưng đó là nước đi cực kỳ tệ hại! Tóc phồng tướng lên quanh mặt thì khó chịu và vướng víu biết chừng nào!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "――ならば短くすればいいと人は簡単に言ってのける。しかし\n余りにも悪手！　顔回りで膨張することのなんと鬱陶しいことか！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi đâu có tha thiết gì việc để tóc dài. Đó là quyết định bất đắc dĩ sau khi cân nhắc lợi ích của trọng lực kéo tóc rủ xuống, hoặc là buộc gọn lại. Nhưng dĩ nhiên...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "私も好き好んで伸ばしているわけではない。重力で落ちる、\nあるいは結べる利点を考慮しての苦渋の決断だ。だが当然――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau đó một hồi lâu, tràng oán thán bất tận của Biwa Hayahide đối với chất tóc của mình vẫn cứ tiếp diễn...",
+      "jpname": "モノローグ",
+      "jptext": "その後もしばらく、\n自分の髪質に対するビワハヤヒデの恨みつらみは続き……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Phù... Tôi đã ước ao biết bao lần rằng giá như mình có được mái tóc thẳng suôn mượt như Brian.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "――はぁ……。いっそブライアンのような\nストレートヘアになりたいと、幾度願ったことか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi vẫn nhớ cú sốc khi lần đầu tiên tết tóc cho con bé hồi nhỏ. Tóc vào nếp mượt mà luồn qua kẽ tay... tôi đã phải thốt lên rằng sao cùng là tóc mà lại khác biệt đến thế!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "子どもの頃、初めて彼女の髪を結んだ時の衝撃を覚えている。\nまとまったサラサラの指通り……これが同じ髪かと叫んだよ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tuổi thơ ấm ức, tôi đã lấy sáp vuốt tóc của bố trát lên đầu rồi buộc lại... nhưng đương nhiên chẳng thể nào mượt như tóc của Brian được. Đó quả là một sự tuyệt vọng...!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "幼心に悔しくて、父のポマードで固めて結んでみたが……\n当然ブライアンと同じ指通りにはならない。あれは絶望だった……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "...Tưởng tượng cảnh Biwa Hayahide hồi bé bôi trát cả đống sáp lên đầu, sự đáng yêu ấy khiến tôi không kìm được mà bật cười.",
+      "jpname": "モノローグ",
+      "jptext": "……ポマードを大量につける在りし日のビワハヤヒデを想うと、\nその愛らしさに思わず笑みが漏れる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ủ... sao bạn lại cười!? Tôi đang nói chuyện hết sức nghiêm túc đấy nhé!?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "なっ……なぜ笑う！？\n私は真剣に話しているんだが！？",
+      "choice_data_list": [
+        "Vì tôi thấy em cố gắng hết mình đáng yêu quá"
+      ],
+      "jpchoice_data_list": [
+        "一生懸命だなと思って"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Chậc.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……っ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nhân viên cửa hàng",
+      "text": "Dạ thưa quý khách ơi! Em thấy quý khách đắn đo mãi nãy giờ, không biết em có thể hỗ trợ tư vấn gì cho quý khách được không ạ!?",
+      "jpname": "ショップ店員",
+      "jptext": "あのうお客様～？　ず～っと悩まれているようですが、\nわたくしのほうで何かご案内いたしましょうか～！？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Nhân viên cửa hàng",
+      "text": "Thành thật xin lỗi vì đã vô tình nghe thấy, nhưng hình như quý khách đang gặp rắc rối lớn trong việc chăm sóc tóc đúng không ạ. Nếu vậy thì bên em có dòng...",
+      "jpname": "ショップ店員",
+      "jptext": "申し訳ありません、聞こえてしまったのですが、お客様\n大変ヘアケアにお困りのようですね。でしたらわたくしどもの――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "K-Không, xin lỗi. Tôi không cần đâu.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "い、いえ、すみません。\n結構です。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Bạn gì ơi, chúng ta đổi chỗ khác đi.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……君、場所を変えよう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lúc nãy... ừm, cho tôi xin lỗi nhé. Đối với mái tóc thì tôi có hơi... phải, có đôi chút khúc mắc trong lòng.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "先ほどは……その、すまなかった。髪に対しては\n少しばかり……そう、少しばかり思うところがあってね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thế nhưng mất bình tĩnh mà to tiếng ở nơi công cộng như vậy. Tôi đã để bạn thấy một bộ dạng thật đáng xấu hổ rồi...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "とはいえあんな公衆の面前で、自制できずに喚くとは。\n情けない姿を見せたな……。",
+      "choice_data_list": [
+        "Không đáng xấu hổ chút nào đâu.",
+        "Không hề đáng xấu hổ đâu em."
+      ],
+      "jpchoice_data_list": [
+        "情けなくない",
+        "情けなくないよ"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hả...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "え……。",
+      "choice_data_list": [
+        "Quả nhiên em thật sự rất tuyệt vời.",
+        "Quả nhiên em thật là đỉnh."
+      ],
+      "jpchoice_data_list": [
+        "やっぱり君は、すごい",
+        "やっぱり貴方は、すごい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Luôn tìm cách cải thiện, dù nản lòng bao nhiêu lần vẫn không ngừng thử thách. Tôi nói với em rằng câu chuyện vừa rồi đậm chất một người nỗ lực phi thường như chính em.",
+      "jpname": "モノローグ",
+      "jptext": "常に改善を試み、幾度心が挫けようとも挑戦し続ける。\n素晴らしい努力家である彼女らしいエピソードだと伝えた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Làm gì đến mức đó chứ. Đơn giản là vì nó gây ra phiền toái thực tế nên tôi mới phải tìm cách giải quyết thôi. Giá như chất tóc bẩm sinh đẹp đẽ thì tôi đã chẳng phải khổ sở thế này.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……そんな。単純に、実害が出ているから試行しているだけだ。\n元々の毛質さえ良ければ、ここまで苦労せずに済んだだろうに。",
+      "choice_data_list": [
+        "Thế nhưng sự tích lũy đó đã tạo nên con người em bây giờ.",
+        "Nhưng chính những nỗ lực ấy đã tạo nên em của hiện tại."
+      ],
+      "jpchoice_data_list": [
+        "けどその積み重ねが、今の君を作った",
+        "けどその積み重ねが、今の貴方を作った"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...A.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……っ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Điều đó... có lẽ đúng thật. Có khi chính nhờ những vất vả vì mái tóc mà tôi mới rèn luyện được tính kiên trì không biết bỏ cuộc.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "それは……そうかも、しれないな。髪で苦労した分、\n諦めの悪さが身についたのかもしれない。",
+      "choice_data_list": [
+        "Vậy thì đâu chỉ toàn là điểm xấu thôi đâu."
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、悪い部分だけでもない"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Nói thế chẳng phải là đánh giá theo kết quả sao. Bạn đang coi nhẹ cả một quá trình nếm mật nằm gai của tôi đấy nhé.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……それは、結果論に過ぎやしないか。\n苦汁を飲み続けた経過を軽んじているぞ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thật tình, bạn quả là... có góc nhìn rất độc đáo đấy. Khác hẳn với tôi... nhưng có lẽ chính vì thế mà chuyện gì tôi cũng muốn chia sẻ cùng bạn.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "全く、君はなんというか……物の捉え方が独特だな。\n私とは違う……だからこそ、君には何かと話したくなるのだろうが。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vẻ mặt của Biwa Hayahide đã dịu lại. Có vẻ như lời nói của tôi đã chạm đến trái tim em. Nếu đã vậy...",
+      "jpname": "モノローグ",
+      "jptext": "ビワハヤヒデの表情が柔らかくなる。\nどうやら自分の言葉は心に届いたようだ。ならば――",
+      "choice_data_list": [
+        "Hơn nữa mái tóc bồng bềnh ấy trông cũng rất đẹp mà.",
+        "Hơn nữa mái tóc bồng bềnh ấy cũng rất đáng yêu mà."
+      ],
+      "jpchoice_data_list": [
+        "それにその髪も、ふわふわで素敵だ",
+        "それにその髪も、ふわふわで素敵だよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Tôi tiếp lời bằng một nhận xét hết sức chân thành, thế nhưng...",
+      "jpname": "モノローグ",
+      "jptext": "……と、率直な意見を続けてみたのだが。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Câu vừa rồi của bạn tôi không thể bỏ qua được đâu nhé. À không, tôi rất cảm ơn lời khen và cũng không hề phủ nhận suy nghĩ của bạn.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……今の発言は聞き捨てならないな。\nいや、肯定は有難いし、君の思想自体は否定しない。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thế nhưng nếu bạn rút ra kết luận đó sau khi đã nghe hết những lời tôi vừa phân tích... thì tôi buộc phải tuyên bố rằng đáp án ấy hoàn toàn sai lệch.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "だが、今の話を踏まえての結論なのだとすれば……\nその解は間違っていると、私は言わざるを得ないよ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Xem ra chúng ta cần phải thảo luận lại vấn đề này ngay từ đầu một lần nữa rồi.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "今一度、頭からこの件について論ずる必要がありそうだ。",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "え！？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi không để bạn chuồn đâu. Vì là Trainer phụ trách của tôi, tôi muốn bạn phải là người thấu hiểu sâu sắc nhất nỗi vất vả này.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "逃がしはせんよ。担当トレーナーとして、\n君には私の苦労を1番に理解してもらいたいからな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Nào, bây giờ thì hãy ngồi xuống thật vững vàng và lắng nghe bản báo cáo dài suốt nửa đời người của tôi nhé. Bạn sẽ cùng tôi chứ?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "――さて、それではじっくり腰を据えて、私の半生に渡る\nレポートを聞いてもらおう。付き合ってくれるな？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau đó chúng tôi chuyển sang một quán cà phê, và tôi được nghe Biwa Hayahide say sưa thuyết trình về \"Hệ thống lý thuyết tóc xoăn\" tâm huyết của em... Có cảm giác như tôi đã hoàn toàn thấu hiểu được nỗi lòng của em rồi.",
+      "jpname": "モノローグ",
+      "jptext": "その後カフェに移動し、ビワハヤヒデ渾身の『癖毛理論体系』を\n懇々と語られ……彼女の気持ちを完全に理解できた……気がする。",
+      "choice_data_list": []
+    }
+  ]
+}

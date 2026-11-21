@@ -1,0 +1,430 @@
+{
+  "title": "Lý Thuyết Và Bản Năng",
+  "jptitle": "理論とインスティンクト",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Em là người yêu chuộng lý thuyết. Thế nhưng... tôi lại cảm thấy cuộc gặp gỡ giữa hai chúng tôi lại mang đầy tính trực giác.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は理論を愛している。\nけれども――その出会いは、直感的なものだったように思う。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Một ngày nọ. Khi tôi tình cờ đi ngang qua phía sau dãy phòng học...",
+      "jpname": "モノローグ",
+      "jptext": "ある日。校舎裏を通りかかると――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Bỗng có thứ gì đó từ trên trời rơi xuống. Phản chiếu ánh hoàng hôn lấp lánh, thứ đó chính là...",
+      "jpname": "モノローグ",
+      "jptext": "空から何かが落ちてきた。\n夕日を反射しキラリと光っていた、それは――",
+      "choice_data_list": [
+        "(Cặp kính...?)"
+      ],
+      "jpchoice_data_list": [
+        "（眼鏡……？）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bạn gì ơi! Xin lỗi nhé, bạn có bị thương ở đâu không?",
+      "jpname": "？？？",
+      "jptext": "君！　すまない、ケガはないか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Một giọng nói trong trẻo vang lên từ trên đầu. Khi ngước nhìn lên, tôi thấy một Mã Nương đang thò đầu ra ngoài cửa sổ lớp học.",
+      "jpname": "モノローグ",
+      "jptext": "頭上から響いた涼やかな声。見上げると、\n教室の窓から顔を出すウマ娘がいた。",
+      "choice_data_list": [
+        "Cái này là của em à?",
+        "Cái này là của bạn sao?"
+      ],
+      "jpchoice_data_list": [
+        "これ、君のか？",
+        "これ、貴方の？"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Đúng vậy! Thật ngại quá, khi tôi đang mải đắm chìm trong suy nghĩ thì bỗng nhiên...",
+      "jpname": "？？？",
+      "jptext": "ああ！\n申し訳ない、思索に耽っていたら不意に――",
+      "choice_data_list": [
+        "Tôi sẽ mang lên đó cho em!"
+      ],
+      "jpchoice_data_list": [
+        "そっちまで届けるよ！"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "...Được vậy sao? Cảm ơn bạn rất nhiều!",
+      "jpname": "？？？",
+      "jptext": "……いいのか？　感謝する！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, tôi mang chiếc kính nhặt được đến trao tận tay Mã Nương đang đợi trong lớp học... Biwa Hayahide.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、拾った眼鏡を教室で待っていたウマ娘――\nビワハヤヒデの元まで届けに来た。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ừm... Khớp nối gọng kính không có vấn đề gì, tròng kính cũng không thấy vết xước.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "うむ……フレームの可動は問題なし、\nレンズにも傷は見当たらない。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cặp kính này là hàng đặc chế có thể sử dụng ngay cả trong cuộc đua. Đương nhiên, nó được làm từ chất liệu chịu được va chạm ở mức độ nhất định.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "この眼鏡はレース中にも使用可能な特別製でね。\n当然、多少の衝撃には耐えうる素材で作られている。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Do đó, nếu chỉ rơi từ độ cao tương đương tầng hai, về mặt lý thuyết thì nó sẽ không thể bị hư hỏng, thế nhưng...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "故に、2階程度の高さから落下したのみであるなら、\n理論上破損する事はないのだが――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hoàn toàn có khả năng nó bị một Mã Nương đang chạy bộ bên dưới giẫm nát. Và người đã đưa xác suất rủi ro đó về con số không chính là bạn.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "下をランニング中のウマ娘に踏み潰される事だってあり得た。\nその可能性をゼロにしてくれたのは君だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi rất biết ơn bạn. ...Nhờ vậy mà chuyện ngày mai không gặp phải bất kỳ trở ngại nào.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "感謝する。……おかげで明日への支障も、一切出なかった。",
+      "choice_data_list": [
+        "Ngày mai sao?"
+      ],
+      "jpchoice_data_list": [
+        "明日？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Phải. ...Huy hiệu trên ve áo đó, bạn cũng là một Trainer đúng không? Nếu vậy thì chắc hẳn bạn phải nắm rõ rồi chứ.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "ああ。――その襟のバッジ、君もトレーナーなのだろう？\nであれば、把握しているはずだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ngày mai chính là \"Đua tuyển chọn\"... Ngày mà các Mã Nương khao khát ra mắt chứng minh thực lực trước các Trainer để giành lấy cơ hội được chiêu mộ.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "明日こそ『選抜レース』……デビューを志すウマ娘たちが、\nスカウト獲得を目指し、トレーナーにその能力を証明する日だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Và trong cuộc đua thứ 10 ngày mai, có ghi tên tôi... Biwa Hayahide.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "そして明日の第10レースには、\nこの私……ビワハヤヒデの名がある。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tôi có việc nhất định phải hoàn thành trên thảm cỏ của Twinkle Series.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "私には、トゥインクルのターフ上で成さねばならない事がある。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Đương nhiên, tôi quyết tâm sẽ nắm lấy nó trong tay... cơ hội ra mắt ấy.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "当然、掴み取ってみせるつもりだよ……デビューの機会を、ね。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Dưới giọng điệu điềm đạm toát lên một ý chí sắt đá. Trong lúc tôi còn đang mải ngắm nhìn đôi mắt tĩnh lặng rực lửa phía sau tròng kính... em liền nói tiếp.",
+      "jpname": "モノローグ",
+      "jptext": "淡々とした口調に、強固な意志が滲む。レンズ越しに燃える\n静かな瞳に思わず見入っていると――彼女は、こう続けた。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Để xem nào, tôi xin đưa ra một lời tuyên bố.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……そうだな、ひとつ、宣言しよう。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "えっ？"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Trong cuộc đua ngày mai, tôi sẽ chạy bám đuổi nhóm dẫn đầu cho tới khúc cua cuối cùng. Lúc đó nhóm dẫn đầu hẳn sẽ co cụm lại với nhau thành một khối.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "明日のレース、私は最終コーナーまで先行気味に走る。\n先頭集団は団子状態になっているだろう。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Khi vượt qua khúc cua cuối cùng, tôi sẽ bứt phá từ phía ngoài và...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "最終コーナーを過ぎた時、私は外から抜け出し――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tạo khoảng cách từ 10 thân ngựa trở lên rồi cán đích ở vị trí số 1.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "10バ身以上の差をつけ、1着になる。",
+      "choice_data_list": [
+        "...!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kết quả theo lý thuyết mà tôi đã tính toán là như vậy. Còn thực tế sẽ diễn ra thế nào... ngày mai bạn hãy dùng chính đôi mắt mình để kiểm chứng nhé.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "私が組み立てた、理論上の結果はこうだ。\n実際にどうなるかは……明日、君自身の目で確かめてくれ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Lý thuyết\" của Biwa Hayahide vừa điềm tĩnh lại vừa tràn đầy nhiệt huyết. Liệu nó sẽ dẫn lối tới kết quả như thế nào đây...",
+      "jpname": "モノローグ",
+      "jptext": "冷静ながら情熱的なビワハヤヒデの『理論』。\nそれは、果たしてどんな結果を導いてくれるのか――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Vì quá tò mò, ngày hôm sau tôi đã đến theo dõi \"Đua tuyển chọn\". Tại đó, em...",
+      "jpname": "モノローグ",
+      "jptext": "気になって、翌日の『選抜レース』を観に行った。\nそこで、彼女は――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Các Mã Nương tranh giành vị trí dẫn đầu quyết liệt ngay sau khi xuất phát! Gương mặt đáng chú ý Biwa Hayahide đang chiếm được vị trí tiền đạo rất thuận lợi!",
+      "jpname": "実況",
+      "jptext": "各ウマ娘、スタート直後から激しい先行争いっ！\n注目のビワハヤヒデは先行の好位置に付けています！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Cho đến lúc này vẫn hoàn toàn đúng như dự đoán.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……ここまでは予測通り。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Tốp đầu đang tiến vào khúc quanh số 3! Phía trước là một màn tranh chấp vô cùng nghẹt thở!",
+      "jpname": "実況",
+      "jptext": "先頭集団は第3コーナーのカーブに入っていきます！\n前方はかなり激しい接戦だぁー！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "3... 2... 1...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "3……2……1……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Nào, lên thôi!!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "――さあ、行こうか！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Từ khúc cua số 4 đã tiến vào đường thẳng! Biwa Hayahide từ phía ngoài! Biwa Hayahide đã vươn lên dẫn đầu! Cách biệt 2 thân ngựa, 3 thân ngựa, khoảng cách đang được nới rộng!",
+      "jpname": "実況",
+      "jptext": "第4コーナーから直線に向きました！　外からビワハヤヒデ！\nビワハヤヒデが先頭に立った！　2バ身、3バ身、リードがあるぞ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Biwa Hayahide đã cán đícccch ở vị trí số 1! Một chiến thắng áp đảo với khoảng cách vô cùng cách biệt!!",
+      "jpname": "実況",
+      "jptext": "ビワハヤヒデ、1着でゴーーーーールインッ！\n大差をつけての、圧勝ですっっっ！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biwa Hayahide đã xuất sắc phô diễn một màn thi đấu hoàn hảo, đúng y như lời em tuyên bố hôm trước...!",
+      "jpname": "モノローグ",
+      "jptext": "ビワハヤヒデは見事、先日の宣言のままに\n完璧なレースを見せつけてくれたのだった……！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Chà, tuyệt vời quá Biwa Hayahide! Dáng vẻ thong dong đó cứ như thể mọi thứ đã nằm trong kế hoạch định sẵn từ trước vậy...",
+      "jpname": "中堅トレーナー",
+      "jptext": "いやあっ、素晴らしかったなビワハヤヒデ！\nあの余裕ぶりときたら、さながら予定調和かのような――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Ủa...? N-Này! Cô bé kia, chẳng lẽ là...?!",
+      "jpname": "新人トレーナー",
+      "jptext": "あれっ……？\nね、ねえっ！　あの子、もしかして……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Phô diễn thực lực đáng sợ, ngỡ tưởng việc chiêu mộ sau đó sẽ là sân khấu độc diễn của Biwa Hayahide, nhưng rồi...",
+      "jpname": "モノローグ",
+      "jptext": "恐るべき実力を発揮したビワハヤヒデ。\nその後のスカウトも彼女の独壇場、かと思いきや……。",
+      "choice_data_list": []
+    },
+    {
+      "name": "???",
+      "text": "......Vất vả rồi.",
+      "jpname": "？？？",
+      "jptext": "…………お疲れ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ủa, Brian. Em cũng đến xem à.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "おや、ブライアン。観に来ていたのか。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Chỉ tình cờ đi ngang qua thôi.",
+      "jpname": "ナリタブライアン",
+      "jptext": "通りかかっただけだ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer tân binh",
+      "text": "Quả nhiên là em ấy! \"Quái vật\" Narita Brian...! Nghe đồn khó tiếp cận lắm, không ngờ lại được gặp ở đây!",
+      "jpname": "新人トレーナー",
+      "jptext": "やっぱり！　“怪物”ナリタブライアン……！\nなかなか捕まらないって聞いたけど、ここで会えるなんて！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Này này, cơ hội chiêu mộ ngàn vàng đây rồi...! Brian! Nhất định phải nói chuyện với tôi nhé...!!",
+      "jpname": "中堅トレーナー",
+      "jptext": "おいおい、スカウトのチャンスじゃないか……！\nブライアンっ！　ぜひ話を――！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Chậc, ồn ào quá... Em đi đây, chị.",
+      "jpname": "ナリタブライアン",
+      "jptext": "チッ、騒がしい……。\nじゃあな、姉貴。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Khoan đã nào, Brian. Em... chẳng phải hơi gầy quá rồi sao?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "いや待て、ブライアン。\nお前……少し痩せ過ぎていないか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Chế độ ăn uống dạo này thế nào rồi? Không phải là em đang thiếu chất dinh dưỡng đấy chứ?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "食事の管理はどうなっているんだ。\n栄養が不足しているんじゃないか？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Phiền quá. Tôi có ăn.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……うるさい。食べてる。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hừm... Tôi hiểu rồi, chắc hẳn là em không thích thực đơn mới đổi gần đây ở căng tin chứ gì?",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "ふむ……わかったぞ、さては最近入れ替わった\nカフェテリアのメニューが気に入らないんだな？",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Từ xưa em đã kén ăn quá mức rồi. Nghe cho kỹ này, lượng tiêu hao năng lượng khổng lồ của chúng ta...",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "お前は昔から好き嫌いが多過ぎるぞ。\nいいか、我々のエネルギー消費量の莫大さは――",
+      "choice_data_list": []
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aaaaa! Lúc nào chị cũng lý sự to đầu hết sức!",
+      "jpname": "ナリタブライアン",
+      "jptext": "～～～～ああっ！　姉貴はいちいち頭でっかちなんだよ！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cái gì cơ!? Đ... Đầu tôi không hề to! Đầu tôi kích cỡ hoàn toàn bình thường mà... Brian!!",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "何っ！？　お……大きくない！\n通常サイズだぞ、私の頭はっ……ブライアン！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Thật là... con bé này khó bảo quá đi mất.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "全く……困った奴だ。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "A, đợi đã Brian! Em nhất định sẽ tỏa sáng trên đỉnh cao Tam Quán! Xin hãy về đội của tôi...!!",
+      "jpname": "中堅トレーナー",
+      "jptext": "ああっ、待ってくれよブライアン！\n君なら三冠の座にも必ず輝けるっ！　ぜひ俺と……！！",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "............",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "………………。",
+      "choice_data_list": []
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Lý thuyết của mình vẫn còn rất nhiều điểm cần phải cải thiện.",
+      "jpname": "ビワハヤヒデ",
+      "jptext": "……理論には、まだまだ改善の余地があるな。",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chạy đua dựa trên những lý thuyết đỉnh cao, và có một cô em gái là \"quái vật\"... Mã Nương Biwa Hayahide...",
+      "jpname": "モノローグ",
+      "jptext": "高度な理論をもとにレースを走り、\n“怪物”を妹に持つウマ娘、ビワハヤヒデ――",
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi muốn được hiểu thêm về em nhiều hơn nữa. Tận đáy lòng, tôi đã nghĩ như vậy.",
+      "jpname": "モノローグ",
+      "jptext": "彼女のことがもっと知りたい。\n心から、そう思うのだった。",
+      "choice_data_list": []
+    }
+  ]
+}
