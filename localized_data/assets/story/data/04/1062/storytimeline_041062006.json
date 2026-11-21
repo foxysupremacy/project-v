@@ -1,0 +1,392 @@
+{
+  "title": "Lon ton, sột soạt, trúng giải mấy?",
+  "jptitle": "てちてち、がさごそ、何等賞？",
+  "text_block_list": [
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hừm hừm hừm♪ Đâu rồi ta? Đâu rồi ta? Mọi người đã đến đông đủ chưa nhỉ?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふんふんふ～～ん♪\nどこかな？　どこかな？　みんなもう来てるかな～～？"
+    },
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ, tôi ra ngoài đi dạo để hít thở bầu không khí trong lành thì bắt gặp Matikane Tannhauser ở công viên.",
+      "jpname": "モノローグ",
+      "jptext": "休日、外の空気を吸おうと思い散歩に出かけると、\n公園でマチカネタンホイザを見かけた。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A, Trainer-san! Có phải anh đang đi dạo không ạ?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あ、トレーナー！\nもしかしてお散歩中な感じですか？",
+      "choice_data_list": [
+        "Ừ",
+        "Đúng vậy"
+      ],
+      "jpchoice_data_list": [
+        "ああ",
+        "うん"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ra là thế, khéo thật đấy ạ. Em đang có hẹn chơi với mấy người bạn. Tụi em hẹn gặp nhau ở đây nhưng mà――",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "なるほど、奇遇ですね～。私は今からお友だちと遊ぶ約束があって。\nここで待ち合わせしてるんですけど――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A! Tới rồi tới rồi! Mọi người ơi, hú hu♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あっ！　来た来た！　みんな、やっほ～い♪"
+    },
+    {
+      "name": "",
+      "text": "Nơi Matikane Tannhauser vẫy tay là―― một nhóm vài đứa trẻ con. Đứa nào đứa nấy đều nở nụ cười rạng rỡ chạy ùa về phía em.",
+      "jpname": "モノローグ",
+      "jptext": "マチカネタンホイザが手を振る先にいたのは――数人の子どもたち。\nみんな笑顔で彼女の方へ駆け寄ってくる。"
+    },
+    {
+      "name": "Cô bé năng động",
+      "text": "Chị Machi ơi, hú hu!",
+      "jpname": "元気な女の子",
+      "jptext": "マチちゃん、やっほ～～！"
+    },
+    {
+      "name": "Cậu bé hoạt bát",
+      "text": "Chào chị Machi! Hôm nay chơi trò gì đây? Cảnh sát bắt trộm? Hay đuổi bắt trên cao? Dạo này chân em chạy nhanh hơn rồi, chơi trò nào cũng chiều tất!",
+      "jpname": "活発な男の子",
+      "jptext": "よう、マチ姉！　今日はなにする？　ケイドロ？　高鬼？\nオレちょっと足速くなったから、なんでもいいぜー！",
+      "choice_data_list": [
+        "(Hóa ra bạn bè em ấy nói là lũ trẻ con à)"
+      ],
+      "jpchoice_data_list": [
+        "（友だちって、子どもたちのことか）"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Thế thì…… hôm nay chơi trò đuổi bắt trên cao đi! Bắt đầu nha! Paka paka, thoăn thoắt, oẳn tù tì pyoi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "じゃあね～～……今日は高鬼にしようっ！\nいくよー！　ぱっぱか、たったか、じゃんけんぴょい！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A, chị là người bắt rồi. Được lắm, chị sẽ tóm gọn tất cả các em cho xem! Mau chạy đi, chạy mau đi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あ、私が鬼だ。よーし、みんな捕まえちゃうぞー！\n逃げろ逃げろー！",
+      "choice_data_list": [
+        "(Em ấy thật sự tràn trề năng lượng ghê)"
+      ],
+      "jpchoice_data_list": [
+        "（本当に元気だなあ）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Matikane Tannhauser nô đùa cùng lũ trẻ ở một góc nhìn đồng điệu. Nguồn năng lượng của em chẳng hề thua kém bất kỳ đứa nhóc nào.",
+      "jpname": "モノローグ",
+      "jptext": "子どもたちと同じ目線で遊び回っているマチカネタンホイザ。\nその元気さは、子どもたちに負けていない。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Phù! Chơi đã đời vui quá xá! Chắc mấy đứa nhóc đã về tới nhà rồi nhỉ?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふぃー！　いっぱい遊んで楽しかった！\nみんなもうおうちに着いたかな～？"
+    },
+    {
+      "name": "",
+      "text": "Lũ trẻ đã về nhà để ăn bữa trưa, chỉ còn lại tôi và Matikane Tannhauser ở công viên.",
+      "jpname": "モノローグ",
+      "jptext": "子どもたちは昼食のため家に帰り、\n自分とマチカネタンホイザが残った。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "―― Ấy khoan, oa! Phải rồi, đã tới trưa rồi! Úi giời ơi, suýt tí nữa là em quên béng mất rồi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "――って、わ！　そうだ、もうお昼だった！\nあびゃびゃ、忘れちゃうとこだった～！",
+      "choice_data_list": [
+        "Quên chuyện gì cơ?"
+      ],
+      "jpchoice_data_list": [
+        "何のこと？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hứ hứ hứ, anh tò mò muốn biết hả? Thế thì anh đi cùng em luôn nha? Lát nữa tha hồ mà chia phần ấy chứ!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふっふっふ、気になります？　じゃあ一緒に来ちゃいます？\nそしたら山分けもできますし～！"
+    },
+    {
+      "name": "",
+      "text": "Nơi chúng tôi đặt chân tới là khu phố mua sắm. Tiếng người xôn xao náo nhiệt hòa cùng tiếng chuông reo leng keng. Hình như đang có sự kiện nào đó diễn ra thì phải.",
+      "jpname": "モノローグ",
+      "jptext": "たどり着いたのは商店街。ワイワイした人の声と鈴の音が\n聞こえてくる。イベントが行われているのだろうか。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Cháu chào hai bác ạ! Cháu tới rút thăm trúng thưởng đây ạ! Cháu gom được nhiều vé lắm nha!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "こんにちは～！　くじ引きやりに来ましたーっ！\n券ならいっぱいありまーすっ！",
+      "choice_data_list": [
+        "(Ra là vậy, hội thi bốc thăm trúng thưởng à)"
+      ],
+      "jpchoice_data_list": [
+        "（なるほど、くじ引き大会か）"
+      ]
+    },
+    {
+      "name": "Bác gái phố mua sắm",
+      "text": "Chà chà, Machi-chan. Hôm nay cháu vẫn tràn trề năng lượng thích ghê cơ! Rút thăm trúng thưởng thì ở bên này nha cháu.",
+      "jpname": "商店街のおばちゃん",
+      "jptext": "あらー、おマチちゃん。今日も元気でいいわねぇ～！\nくじ引きならこっちでやってるわよ。"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Ồ, bác đợi mãi đấy Machi-chan!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "おお、待ってたよおマチちゃん！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Số lượng vé là…… ha ha, quả không hổ danh là khách quen ruột của khu phố mua sắm! Nhiều vé ghê ta! Được rồi, cháu cứ rút thả ga đi!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "券の枚数はっ、と……はは、さすがは商店街の常連だ！\nたくさんあるね！　よーし、どんどん引いていってくれ！"
+    },
+    {
+      "name": "",
+      "text": "Tại quầy sự kiện có đặt một chiếc bàn với những thùng bốc thăm xếp thành hàng. Matikane Tannhauser thò tay vào một trong số đó…… và rút vé ra!",
+      "jpname": "モノローグ",
+      "jptext": "特設会場にはテーブルが置いてあり、そこにくじ引きの箱が\n並んでいる。マチカネタンホイザはその1つに手を入れ……引いた！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Lên nàooo!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "とりゃあああああっ！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Cái này là…… à, giải tư rồi. Tiếc quá. Cháu cứ chọn một cái kẹo mà cháu thích đi nhé.",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "これは……あぁ、4等だね。\n残念。好きな飴を選んでおくれ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hic, còn cách giải nhất là 'Bộ đồ thú bông Hemokichi-kun' xa quá. Nhưng mới lượt đầu thôi mà. Chắc chắn vẫn còn cơ hội! Đúng không, Trainer-san!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "むむ、1等の『へも吉くん着ぐるみ』にはほど遠いなあ。\nでもまだ1回目だもん。ぜんぜんいける！　ねっ、トレーナー！",
+      "choice_data_list": [
+        "Ừ, chắc chắn được!",
+        "Đúng thế, cố lên!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、いける！",
+        "うん、いける！"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Tuyệt vời! Vậy rút tiếp lượt sau thôi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "よーし！　じゃあ次いくぞー！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Này thìiiii!!!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "そりゃあああーーーーっ！！！！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Để xem nào…… à, lại giải tư rồi. Cháu chọn thêm một cái kẹo nữa nhé.",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "ええと……あぁ、4等だ。\nもう1つ、好きな飴を選んでおくれ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hừm, lại là giải tư sao. Nhưng không sao hết! Lượt tiếp, lượt tiếp, lượt tiếp nào!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふぬぅ、また4等か。でもしょうがない！\n次、次、次～っ！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Lần này thì sao nào!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "今度はどうだっ！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Tiếc quá, vẫn là giải tư!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "残念、4等！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Tiếp luôn! Dô nè!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "次！　はりゃあっ！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Tiếc ghê, cái này cũng giải tư nốt!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "残念、これも4等！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Cuối cùng cũng tới lá thăm chót rồi…… Liệu có ổn không đây, Machi-chan.",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "とうとう最後の1枚だ……いけるかい、おマチちゃん。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Phù, phù, phù…… ……Nuốt nước bọt. Dạ. Được rồi, cháu làm được mà!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぁ、ふぅ、ふぅ～～。……ごくり。\nうん。よし、いけるよ！！"
+    },
+    {
+      "name": "Bác gái phố mua sắm",
+      "text": "Không sao đâu! Là Machi-chan thì nhất định làm được mà. Cố lên cháu ơi!",
+      "jpname": "商店街のおばちゃん",
+      "jptext": "大丈夫よ！　おマチちゃんならいけるわ。頑張ってー！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Đúng rồi đấy, cháu đã cố gắng tới tận đây rồi. Nhất định sẽ bốc trúng giải xịn thôi! Cố lên nhé!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "そうさ、ここまで頑張ってきたんだ。\nきっといいのが引けるよ！　頑張れ！",
+      "choice_data_list": [
+        "Cố lên em!!"
+      ],
+      "jpchoice_data_list": [
+        "頑張れ！！"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Mọi người…… cảm ơn mọi người nhiều! Cháu sẽ dốc hết sức mình! Một, hai, ba!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "みんな……っ、ありがとう！\n精一杯頑張るよ！　せーのっ！！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Dô luôn nèeeeee!!!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "どっせえええええーーーーーいっ！！！！"
+    },
+    {
+      "name": "",
+      "text": "Và kết quả của lá thăm cuối cùng là……!!",
+      "jpname": "モノローグ",
+      "jptext": "最後のくじ引きの結果は……！！"
+    },
+    {
+      "name": "",
+      "text": "―― Vẫn là giải tư.",
+      "jpname": "モノローグ",
+      "jptext": "――4等だった。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Haizz, em xin lỗi Trainer-san. Em cứ định bụng nếu trúng Hemokichi-kun thì sẽ chia cho anh một nửa cơ đấy.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぁ、ごめんねトレーナー。\nへも吉くんが引けたら、半分こしようと思ったんだけどなぁ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ủa, cơ mà bộ đồ Hemokichi-kun thì chia đôi kiểu gì được ta……? Mà thôi kệ đi. Chúng mình về lại học viện thôi anh!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あれ、だけどへも吉くんは半分こにできないかも……？\nま、いっか。そろそろ学園に帰りましょ！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Ấy khoan đã, đợi chút đã nào! Machi-chan!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "ああ、待った待った！　おマチちゃん！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Vì cháu đã rất cố gắng nên bác tặng cháu cái này. Kem phần thưởng đấy. Có hai phần lận nên cháu hãy chia đôi ăn chung với người kia nhé.",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "いっぱい頑張ったから、これ。ご褒美のアイスだよ。\n2人分あるから、わけっこしてそっちの人と食べな。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hả, thật ạ!? Cháu vui quá đi♪ Cảm ơn bác nhiều nha! Cháu sẽ lại ghé ủng hộ mua đồ tiếp ạ!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "え、いいの！？　嬉しい♪\nありがと、おじちゃん！　またお買い物しに来るね～っ！"
+    },
+    {
+      "name": "",
+      "text": "Vẫn giữ trọn nụ cười rạng rỡ như lúc mới tới khu phố mua sắm, Matikane Tannhauser đứng vẫy tay chào mọi người mãi một hồi lâu.",
+      "jpname": "モノローグ",
+      "jptext": "マチカネタンホイザは商店街に来た時と同じ明るさで、\nしばらくみんなに手を振っていた。"
+    },
+    {
+      "name": "",
+      "text": "Và sang ngày hôm sau. Vì có lịch tập thể lực nên tôi đến phòng gym sớm để kiểm tra dụng cụ――",
+      "jpname": "モノローグ",
+      "jptext": "そして翌日。筋力トレーニングの予定なので、\n機材の確認をするため早めにジムへ向かうと――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ei, mun!! Ei, mun!! Ei, ei, mun!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "えい、むんっ！！　えい、むんっ！！\nえい、えい、むんっ！！"
+    },
+    {
+      "name": "",
+      "text": "Sớm hơn rất nhiều so với giờ bắt đầu, Matikane Tannhauser đã tự mình khởi động từ lúc nào.",
+      "jpname": "モノローグ",
+      "jptext": "開始時間よりもかなり早く、マチカネタンホイザは\nアップを始めていた。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì hì, tiếp theo nên chạy máy chạy bộ ta? Hay là nâng tạ đơn đây? Tạ đòn cũng hay ho đấy chứ.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふっふっふ～、次はランニングマシンでもやろうかな？\nそれともダンベル？　バーベルもいいねえ。",
+      "choice_data_list": [
+        "Mới hôm qua xong mà hôm nay em đã sung sức thế rồi",
+        "Vừa chơi hết mình hôm qua mà nay em vẫn khỏe khoắn ghê"
+      ],
+      "jpchoice_data_list": [
+        "昨日の今日で元気だな",
+        "昨日の今日で元気だね"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì, tự dưng hôm nay em lại thấy năng lượng dồi dào hơn bình thường. Thế là em chạy tót tới đây luôn. ―― Mun!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "えへへ、なんかいつも以上に元気が有り余っちゃって。\nついつい来ちゃいました。――むんっ！！",
+      "choice_data_list": [
+        "Hẳn là vì được gặp mọi người nên em vui lắm đúng không",
+        "Chắc là vì được gặp mọi người nên em thấy vui lắm nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "みんなに会えたのが嬉しかったんだな",
+        "みんなに会えたのが嬉しかったんだね"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Đúng thế đấy ạ! Cứ hễ gặp các bạn nhỏ hay mấy bác trai bác gái là em lại thấy vui ơi là vui, tự dưng bao nhiêu năng lượng cứ thế trào dâng!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "そうなんです！　ちびっ子友だちやおじちゃんおばちゃんに\n会えるとすっごく嬉しくて、元気が出て！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì, em lại ngóng chờ tới kỳ nghỉ tiếp theo rồi. Lần tới mình làm gì bây giờ ta. Hừm hừm hừm♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "むふふっ、次の休みも楽しみだなあ。\n今度はなにしよっかな～。ふんふふふ～ん♪"
+    },
+    {
+      "name": "",
+      "text": "Một Matikane Tannhauser luôn được mọi người yêu mến gần gũi. Có lẽ chính tình cảm nồng ấm từ những người xung quanh là nguồn tiếp thêm sinh lực vô tận cho em.",
+      "jpname": "モノローグ",
+      "jptext": "皆から親しみを持たれているマチカネタンホイザ。もしかしたら\n周囲の人々の愛情が、彼女に元気を与えているのかもしれない。"
+    }
+  ]
+}

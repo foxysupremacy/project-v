@@ -1,0 +1,370 @@
+{
+  "title": "Ánh mặt trời, rực rỡ, chuyến tập huấn hè",
+  "jptitle": "お日様、ぴかぴか、夏合宿",
+  "text_block_list": [
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Lên nào lên nào, lên luônnnnn!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "とりゃとりゃ、とりゃああああ～～～～～っ！！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Phù, sảng khoái ghê anh nhỉ! Dù lòng bàn chân có hơi lạo xạo dính mấy hạt cát chút xíu.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふぅ～、気持ちいいですね！\n足の裏がちょびっと砂でつぶつぶしますけど。",
+      "choice_data_list": [
+        "Chúng ta nghỉ giải lao một chút nhé?",
+        "Nghỉ ngơi một lát chứ em?"
+      ],
+      "jpchoice_data_list": [
+        "そろそろ休憩にしようか？",
+        "そろそろ休憩にする？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Dạ không sao đâu ạ. Lúc này em đang vào guồng sung lắm luôn! Chắc là do có biển ngay bên cạnh đấy ạ. Hì hì.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "いえ、まだ大丈夫です～。今、ノリに乗ってる感じなので！\nやっぱりそばに海があるからですかね。へへへ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A, chưa kể tối nay còn có lễ hội mùa hè nữa chứ. Phải tranh thủ tập luyện xong xuôi ngay từ bây giờ mới được! Nhanh thoăn thoắt luôn!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あ、それに今日の夜は夏祭りですしっ。トレーニングは\n今のうちにやっておくべし！　ちゃちゃちゃっと！"
+    },
+    {
+      "name": "",
+      "text": "Chuyến tập huấn mùa hè cùng Matikane Tannhauser đang diễn ra vô cùng suôn sẻ. Vừa tập luyện nghiêm túc đầy đủ, lại vừa tận hưởng mùa hè một cách chừng mực.",
+      "jpname": "モノローグ",
+      "jptext": "マチカネタンホイザとの夏合宿は順調だ。\nみっちりトレーニングをしつつ、適度に夏を楽しんでいる。"
+    },
+    {
+      "name": "",
+      "text": "Nào là ăn đá bào ở quán ven biển, rồi xây lâu đài cát trên bãi tắm―― Lễ hội đêm nay cũng là một trong số những niềm vui đó.",
+      "jpname": "モノローグ",
+      "jptext": "海の家でかき氷を食べたり、ビーチで砂の城を建ててみたり――\n今夜の祭りもそのうちの1つだ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Đổ mồ hôi đã đời quá! Tuy rất muốn lao ùm xuống biển ngay lúc này, nhưng để sau vậy ạ! Em chạy thêm một lượt nữa đây!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "いい汗かいたー！　このままざぶんと海に飛びこみたいですが～、\nそれはまた後でっ！　もう1本行ってきまーす！"
+    },
+    {
+      "name": "",
+      "text": "Buổi tập kết thúc, tôi chia tay Matikane Tannhauser rồi trở về khu nhà nghỉ của trại tập huấn. Vẫn còn một khoảng thời gian khá dài trước khi lễ hội bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングが終わり、マチカネタンホイザと別れて\n合宿所へ帰ってきた。祭りが始まるまではしばらく時間がある。",
+      "choice_data_list": [
+        "(Chợp mắt một chút xem sao)"
+      ],
+      "jpchoice_data_list": [
+        "（仮眠でもしようかな）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "May mắn thay, sảnh khu tập huấn không có một bóng người. Vì cũng chẳng có kế hoạch gì cụ thể nên tôi quyết định nằm nghỉ lưng một lát trên ghế sô pha.",
+      "jpname": "モノローグ",
+      "jptext": "幸い、合宿所のロビーには誰もいない。\nこれといった予定もないので、ソファーで少し眠ることにした。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Phà, tắm biển vùng vẫy đã thật đấy! Biển quả nhiên là tuyệt nhất trần đời♪ Vừa trong xanh lại vừa sảng khoái ghê.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ぷはぁ～、ざぶざぶしたーっ！\n本当に海は最高だねえ♪　きれいだし、気持ちいいし～。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì, bơi thêm chút nữa―― á, mà đâu phải! Mình phải đi chuẩn bị đi lễ hội chứ nhỉ. Gay to gay to rồi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふふん、あともうちょっと泳いで――あ、じゃなかった！\nお祭り行く準備しなくちゃなんだった。やばしやばし！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Xong, đã thay đồ xong xuôi! Đồ đạc thì…… chắc là ổn rồi! Còn Trainer-san thì――",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "よーし、お着替え完了！　荷物も～……多分オッケー！\nそしてトレーナーは――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "……Ủa ủa? Chẳng lẽ anh ấy đang ngủ sao? Gì thế nhỉ, có chuyện gì sao ta? Là ngủ trưa chăng?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "……んむむ？　もしかして寝てる？\nなんだろ、どしたのかな？　お昼寝かな？"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hả. Hay là mệt quá nên thiếp đi mất rồi……?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はっ。それとも、疲れて寝ちゃったとか……？"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(Đúng rồi ha. Ngày nào anh ấy cũng giám sát buổi tập cho mình, lại còn giúp mình đi bắt ốc mượn hồn nữa……)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（そうだよね。毎日トレーニング見てくれてるし、\nヤドカリ探しも手伝ってくれるし……）"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(Chẳng lẽ trong lúc mình không để ý, mình đã khiến anh ấy phải gắng gượng quá sức rồi sao……?)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（もしかして、知らない間に無理させちゃってたのかも……？）"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(Được rồi, thế thì mình phải giúp anh ấy tràn trề năng lượng trở lại mới được! Trước tiên là――!)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（よし、じゃあ元気いっぱいにしてあげなくっちゃ！\nまずは――！）"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(……Nên làm gì bây giờ ta. Bình thường mình làm thế nào ấy nhỉ? Lúc trước mình lấy lại tinh thần bằng cách nào ta?)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（……なにしたらいいんだろ。私はどうしてたっけ？\nいつもどうやって元気になってたんだっけ？）"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(A! Nhắc mới nhớ――)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（あ！　そういえば――）"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Thỏa mãn thỏa mãn, quá đỗi thỏa mãn luôn! Hí hí hí♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "満足満足、大満足～！　むっふっふ～♪"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ôi thật sự, em cảm thấy hạnh phúc lắm vì ai cũng là những người bạn thân thiết của em.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "いやぁ～、本当、みんなが私の仲良しさんでよかったです。"
+    },
+    {
+      "name": "Cậu bé hoạt bát",
+      "text": "Chào chị Machi! Hôm nay chơi trò gì đây? Cảnh sát bắt trộm? Hay đuổi bắt trên cao? Dạo này chân em chạy nhanh hơn rồi, chơi trò nào cũng chiều tất!",
+      "jpname": "活発な男の子",
+      "jptext": "よう、マチ姉！　今日はなにする？　ケイドロ？　高鬼？\nオレちょっと足速くなったから、なんでもいいぜー！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Thế thì…… hôm nay chơi trò đuổi bắt trên cao đi! Bắt đầu nha! Paka paka, thoăn thoắt, oẳn tù tì pyoi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "じゃあね～～……今日は高鬼にしようっ！\nいくよー！　ぱっぱか、たったか、じゃんけんぴょい！"
+    },
+    {
+      "name": "Bác gái phố mua sắm",
+      "text": "Không sao đâu! Là Machi-chan thì nhất định làm được mà. Cố lên cháu ơi!",
+      "jpname": "商店街のおばちゃん",
+      "jptext": "大丈夫よ！　おマチちゃんならいけるわ。頑張ってー！"
+    },
+    {
+      "name": "Bác trai phố mua sắm",
+      "text": "Đúng rồi đấy, cháu đã cố gắng tới tận đây rồi. Nhất định sẽ bốc trúng giải xịn thôi! Cố lên nhé!",
+      "jpname": "商店街のおじちゃん",
+      "jptext": "そうさ、ここまで頑張ってきたんだ。\nきっといいのが引けるよ！　頑張れ！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Mọi người…… cảm ơn mọi người nhiều! Cháu sẽ dốc hết sức mình! Một, hai, ba!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "みんな……っ、ありがとう！\n精一杯頑張るよ！　せーのっ！！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "(Phải rồi……! Bấy lâu nay mình luôn tràn đầy sức sống là nhờ có mọi người! Vậy thì dùng cách tương tự có khi sẽ giúp Trainer-san khỏe khoắn trở lại đấy!)",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "（そっか……！　私、今までみんなのおかげで元気になってた！\nなら同じ方法でトレーナーを元気にできるかも！）"
+    },
+    {
+      "name": "",
+      "text": "Vốn chỉ định chợp mắt một lát, không ngờ tôi đã ngủ thiếp đi một lúc lâu. Vừa gượng dậy cơ thể nặng trĩu và mở mắt ra thì――",
+      "jpname": "モノローグ",
+      "jptext": "少し仮眠をするつもりが、しばらく眠っていたようだ。\n重い体を起こし、目を開けると――"
+    },
+    {
+      "name": "",
+      "text": "Đập vào mắt tôi là một đống đồ được chất đống trên bàn chẳng khác nào một bệ tế thần. Nào là cà rốt nướng nguyên củ, bánh mì mì xào yakisoba, quạt cổ vũ……",
+      "jpname": "モノローグ",
+      "jptext": "目に入ったのは、祭壇の如くテーブルに盛られた何かの山。\nにんじんの丸焼きに、焼きそばパンに、応援うちわ……。",
+      "choice_data_list": [
+        "Tình hình gì thế này……?"
+      ],
+      "jpchoice_data_list": [
+        "どういう状況……？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A! Em chào buổi sáng Trainer-san!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あ！　トレーナー、おはようございまーす！",
+      "choice_data_list": [
+        "À thì……"
+      ],
+      "jpchoice_data_list": [
+        "ええと……"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Cái này hả anh? Đây là những nguồn năng lượng mà em gom góp được từ mọi người đấy ạ. Để giúp Trainer-san khỏe khoắn trở lại!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "これですか？　これはみんなから集めた元気の源たちです。\nトレーナーを元気にしようと思って！",
+      "choice_data_list": [
+        "Thế là sao?"
+      ],
+      "jpchoice_data_list": [
+        "どういうこと？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Dạ thì…… nãy thấy Trainer-san nằm ngủ thiếp đi ấy ạ? Nhìn vậy em lo quá chừng. Em muốn anh lấy lại sinh lực cơ.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "えっと……トレーナー、寝ちゃってたじゃないですか？\nそれを見たら心配になっちゃって。元気出してほしいなって思って。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Vì vậy nên em tính làm những việc mà trước giờ mọi người vẫn hay làm cho em ạ!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "だから、私がいつもみんなにしてもらってることを\nやろうと思ったんです！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Đấy, đợt trước em có kể với anh rồi đúng không?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ほら、前に話しましたよね？"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hôm nọ Turbo đã chia cho em viên kẹo cua siêu hiếm, rồi Nature cũng nhường cho em miếng vây sò điệp cuối cùng.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "この間、ターボは激レアのカニさんグミを分けてくれましたし、\nネイチャは最後の貝ヒモを譲ってくれました。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Tiền bối Fuku-chan thì dùng thạch Tokoroten để cầu nguyện cho em chiến thắng, còn lũ bạn nhỏ với các bác ở phố mua sắm thì luôn trao cho em những tình cảm ấm áp.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "フクちゃん先輩はところ天で私の勝利祈願をしてくれましたし、\nちび友たちや商店街のみんなは、私に温かい気持ちをくれました。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Trainer-san hay bảo là em lúc nào cũng tràn trề năng lượng, nhưng thật ra là nhờ em nhận được biết bao sự cổ vũ cùng tình cảm từ mọi người――",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "トレーナーはよく私に元気だって言ってくれてましたけど、\nそれはみんなからたくさんの応援や気持ちをもらってたからで――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Tóm lại là, em cũng muốn làm điều đó cho Trainer-san. Để anh có thể nạp đầy năng lượng trở lại!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "つまり、私もトレーナーにそれをしたいって思ったんです。\n元気になってもらうために！"
+    },
+    {
+      "name": "",
+      "text": "Đúng như lời em nói, chính tôi đã tận mắt chứng kiến cảnh tượng ấy. Hình ảnh em được lũ trẻ con và người dân khu phố mua sắm yêu quý, che chở và hết lòng cổ vũ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の言う通り、その光景を目の前で見てきた。子どもたちや\n商店街のみんなに慕われ、愛され、応援されている姿を。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Mun mun mun……!! Gom góp hết cảm giác ấm áp lại nào!! Năng lượng, tròn xoe nguồn năng lượng tràn trề!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "むんむむむ～～ん……！！　ぽかぽか気分をかき集めて！！\n元気、元気の元気まる～～～！！"
+    },
+    {
+      "name": "",
+      "text": "Lắng nghe lời em tâm sự, tôi nhìn lại những món đồ trước mắt một lần nữa. Dù chủng loại có lộn xộn mỗi thứ một phách, nhưng điều trân quý nhất chính là tấm lòng em đã cất công gom góp.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の言葉を聞きながら、改めて目の前の品々を見た。\nジャンルはバラバラだが、大切なのは頑張って集めてくれた気持ち。"
+    },
+    {
+      "name": "",
+      "text": "Đó chính là thứ tình cảm nồng ấm y như những gì em đã nhận được từ mọi người xung quanh.",
+      "jpname": "モノローグ",
+      "jptext": "彼女が周囲の人々から受け取ったのと同じ、温かい気持ちだ。",
+      "choice_data_list": [
+        "Tôi nhận được nguồn năng lượng này rồi"
+      ],
+      "jpchoice_data_list": [
+        "元気の源、受け取ったよ"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Thật thế ạ? Anh đã thấy khỏe khoắn trở lại chưa ạ……?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "本当ですか？　元気になりましたか……？",
+      "choice_data_list": [
+        "Ừ, tôi thấy khỏe khoắn lắm rồi!",
+        "Đúng thế, tôi thấy tràn đầy năng lượng rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、すごく元気！",
+        "うん、すごく元気！"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hơ, may quá rồi. Thế thì em yên tâm hẳn luôn!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぁ、よかったあ～。なら大安心です！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "A, cơ mà―― đống đồ này anh có ưng ý không ạ? Anh có muốn thêm thứ gì khác nữa không? Em sẵn sàng chạy vèo đi mua về ngay đấy ạ!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あ、でもでも――この品揃え、気に入ってもらえました？\n他にもほしいものありますか？　ならパパッと走ってきますけど！"
+    },
+    {
+      "name": "",
+      "text": "Dù tôi bảo không cần nữa đâu, nhưng Matikane Tannhauser vẫn tất bật lăng xăng chạy quanh một hồi. Nhìn dáng vẻ ấy của em, tôi cảm giác mình lại càng thêm phần khỏe khoắn.",
+      "jpname": "モノローグ",
+      "jptext": "大丈夫だと告げたが、マチカネタンホイザはしばらくパタパタと\n動き回っていた。その姿を見ているとさらに元気になった気がした。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ôi chao! Đám đông chen chúc thế này! Cả những âm thanh ồn ào náo nhiệt nữa! Đúng chuẩn không khí lễ hội luôn anh ha♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "う～ん！　この混み具合！　がやがやな音！\nまさにお祭りって感じしますね～♪"
+    },
+    {
+      "name": "",
+      "text": "Chúng tôi đã tới khu vực tổ chức lễ hội mùa hè. Có lẽ nhờ bầu không khí rộn ràng náo nhiệt, Matikane Tannhauser trông cực kỳ phấn khởi.",
+      "jpname": "モノローグ",
+      "jptext": "夏祭り会場へやって来た。賑やかな雰囲気からか、\nマチカネタンホイザはとても楽しそうだ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Mambo, cá mặt trăng mambou! Lễ hội mambou♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "マンボ、マンボウ～！　お祭りマンボ～ウ♪",
+      "choice_data_list": [
+        "Hửm? Câu gì vừa rồi thế?"
+      ],
+      "jpchoice_data_list": [
+        "ん？今のは？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì hì, đó là khẩu hiệu mà bố đã dạy cho em đấy ạ. Trainer-san có muốn hô cùng với em không?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ふっふっふ～、お父さんが教えてくれたかけ声です。\nトレーナーも一緒にやってみますか？"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Wasshoi mambo, lễ hội mambou♪ Dập dềnh sóng vỗ, lễ hội mambou♪",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "わっしょいマンボ、お祭りマンボ～ウ♪\nざぶざぶ、ゆらゆら、お祭りマンボ～～ウ♪"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như em nhận được tình yêu thương bao la từ gia đình cũng nhiều chẳng kém gì những người xung quanh. Ở bên cạnh em, chắc chắn những ngày tháng sắp tới sẽ ngập tràn niềm vui.",
+      "jpname": "モノローグ",
+      "jptext": "周囲の人々と同じくらい、家族からも愛情を受けているらしい。\n彼女と一緒になら、これからも楽しい日々が送れるだろう。"
+    }
+  ]
+}

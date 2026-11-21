@@ -1,0 +1,380 @@
+{
+  "title": "Chuyên tâm, lạc quan, lời bảo chứng",
+  "jptitle": "ひたむき、前向き、太鼓判",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một thời gian sau khi ký hợp đồng với Matikane Tannhauser, trong lúc ngắm nhìn bầu trời, em chợt buột miệng nói một câu thế này.",
+      "jpname": "モノローグ",
+      "jptext": "マチカネタンホイザと契約を結びしばらくたった頃、\n空を眺めていた彼女が、ぽつりとこんなことをこぼした。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Haiz. Tự dưng em muốn làm bài tập luyện nào đó thật thú vị ghê á.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "いや～。面白いトレーニングがしたいですねぇ～。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "―― Á, không phải thế đâu ạ! Không phải ý em là bài tập của Trainer-san nhàm chán đâu nhé!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "――あっ、違うんですよ！\nトレーナーのトレーニングが面白くないとかじゃなくって！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hôm qua em xem trên tivi thấy người ta bảo mấy trò như đuổi bắt hay ba môn phối hợp đôi khi cũng được dùng làm bài tập luyện đấy ạ!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "鬼ごっこやらトライアスロンやらをトレーニングとして\nやることもあるって、昨日テレビで見たんですよ！",
+      "choice_data_list": [
+        "(Ra là vậy. Thỉnh thoảng đổi gió chút cũng hay)"
+      ],
+      "jpchoice_data_list": [
+        "（なるほど。たまにはいいかもしれない）"
+      ]
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "Nếu, đã vậy! Ta xin giới thiệu một bài tập vô cùng thích hợp!",
+      "jpname": "秋川理事長",
+      "jptext": "で、あれば！　おあつらえ向きのトレーニングを紹介ッ！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Ồ! Viện trưởng sao ạ!?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "おお！　理事長さん！？"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "Ừm, ta tình cờ đi ngang qua thì nghe thấy giọng của em thôi! Mà thôi, quay lại vấn đề chính nào!",
+      "jpname": "秋川理事長",
+      "jptext": "うむ、偶然通りかかったところに\n君の声が聞こえたものでな！　と、話を戻そう！"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "Bài tập luyện lý tưởng này vừa rèn luyện chức năng tim phổi, khả năng phán đoán, tinh thần thép, lại vừa mang tính trò chơi giải trí!",
+      "jpname": "秋川理事長",
+      "jptext": "おあつらえ向きのトレーニングとは、心肺機能、判断力、精神力が\n鍛えられ、ゲーム性も兼ね備えるもの！"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "―― Đúng vậy, chính là trò cảnh sát bắt trộm!",
+      "jpname": "秋川理事長",
+      "jptext": "――そう、ケイドロだっ！"
+    },
+    {
+      "name": "",
+      "text": "Thế là dưới lời rủ rê chớp nhoáng của Matikane Tannhauser, mười Mã Nương đã tụ tập lại―― cùng kéo nhau ra một bãi cỏ rộng thênh thang.",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、急遽マチカネタンホイザの声かけにより\n10名のウマ娘が集まり――野原に来ていた。"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Rộng ghê! Không ngờ lại có một nơi thế này đấy!",
+      "jpname": "ナイスネイチャ",
+      "jptext": "広～！　こんな場所あったんだ！"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nghe nói bãi cỏ này được mở cho mục đích tập luyện. Ở đây thì chúng ta có thể thoải mái chạy hết sức rồi.",
+      "jpname": "イクノディクタス",
+      "jptext": "トレーニング用に解放されているんだとか。\nここなら全力で走っても大丈夫そうですね。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Vậy không chần chừ nữa, trước tiên tớ xin phổ biến luật chơi nha!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "じゃ早速ですが、まずはルールの説明をしま～す！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Chúng mình chia thành đội cảnh sát 5 người và đội đạo tặc 5 người nhé. Có thời gian giới hạn, trong lúc đó phe trộm phải chạy trốn còn phe cảnh sát phải đi bắt!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "警察チーム5人、泥棒チーム5人で分かれるよ。\n制限時間があるから、この間泥棒は逃げる、警察は捕まえる！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hết giờ mà đội đạo tặc còn dù chỉ một người sống sót chạy thoát thì phe trộm thắng, còn nếu tóm gọn tất cả thì phe cảnh sát thắng nha!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "泥棒チームが制限時間中1人でも逃げ切れたら泥棒の勝ち、\n全員捕まえたら警察の勝ちでーす！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Nhân tiện thì đồng đội phe trộm có thể cứu những người bị bắt đấy. Thế nên phe cảnh sát không được lơ là một giây nào đâu nhé.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ちなみに、捕まえられた泥棒を仲間の泥棒が助けることもできるよ。\nだから警察は最後まで気が抜けないんだねぇ。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Đặc biệt là đội thắng cuộc sẽ nhận được phần thưởng là ly kem parfait thượng hạng! Vì thế nên hãy bung hết sức nào!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "なお、勝ったチームはご褒美に高級パフェゲット～！\nてわけで、はりきってこー！"
+    },
+    {
+      "name": "Các Mã Nương",
+      "text": "Nắm xòe nắm xòe, chia phe nào pyoi! Pyoi! ……Pyoi! ……Pyoi!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "ぐっぱーぐっぱー、わかれっぴょい！\nぴょい！　……ぴょい！　……ぴょい！！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Tốt lắm, đội đạo tặc cố lên nào!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "よーし、泥棒チーム頑張るぞー！"
+    },
+    {
+      "name": "Đội đạo tặc",
+      "text": "Ồ!",
+      "jpname": "泥棒チーム",
+      "jptext": "おー！"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Chúng tôi sẽ tóm gọn các bạn với tốc độ nhanh nhất! Đội cảnh sát, lên tinh thần nào!",
+      "jpname": "イクノディクタス",
+      "jptext": "最速で捕まえてみせます！\n警察チーム、気合い入れていきましょう！"
+    },
+    {
+      "name": "Đội cảnh sát",
+      "text": "Rõ!",
+      "jpname": "警察チーム",
+      "jptext": "はい！"
+    },
+    {
+      "name": "",
+      "text": "Thế là với tinh thần hừng hực khí thế của cả hai bên, trò cảnh sát bắt trộm chính thức bắt đầu. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "そんなわけで、\n両者気合い充分にケイドロが始まったのだった。が――"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Hứ! Tức quá tức quá tức quá đi mất! Chỉ còn một chút xíu nữa thôi mà!",
+      "jpname": "ツインターボ",
+      "jptext": "むぅ～～～！　くやしいくやしいくやしい！\nもうちょっとだったのに～！"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Chà chà, trật tự trị an được bảo vệ nghiêm ngặt thật đấy…… Rồi, thế người duy nhất chưa bị tóm là―― ủa, còn mỗi Tannhauser thôi á? Thật luôn hả.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "や～、治安がしっかり守られとりますわ……。\nで、あと捕まってないのは――えっ、タンホイザだけ？　マジか。"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "……Cơ mà cậu ta tuy là quý cô suýt soát nhưng những lúc cần thì cũng ra trò lắm đấy chứ. Được đấy, có khi được đấy! Cho họ thấy bản lĩnh đi, Tannhauser!",
+      "jpname": "ナイスネイチャ",
+      "jptext": "……や、でもヤツは、ミス・惜しいだけどやるときゃやるもんね。\nいける、いけるか！　見せたれ、タンホイザー！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hả!? Chẳng lẽ chẳng lẽ…… giờ chỉ còn lại mỗi mình tớ thôi sao!? Oái oái! Phải làm sao đây, làm cách nào để cứu mọi người bây giờ! Hay là vòng ra phía sau――",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぅ！？　もしかしてもしかして……あとは私だけ！？　ひょえ～！\nどうしよう、どうやって助けよう！　やっぱり回り込んで――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "………… Cứ thử liều một phen xem sao đã! Êiiii!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "…………。\nとりあえずやってみよー！　えーい！"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "……! Bụi cây đằng kia, là Tannhauser-san! Toàn đội xuất phát!",
+      "jpname": "イクノディクタス",
+      "jptext": "……！\nあそこの茂み、タンホイザさんです！　全員出動！"
+    },
+    {
+      "name": "Mã Nương A đội cảnh sát",
+      "text": "Machitan-san đằng kia, mau đứng lại!",
+      "jpname": "警察チームウマ娘A",
+      "jptext": "そこのマチタンさん、止まりなさい！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Oa! Mới đó mà đã lộ tẩy rồi!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ひゃ～！　バレるの早すぎだよ～！"
+    },
+    {
+      "name": "Mã Nương B đội cảnh sát",
+      "text": "Hộc, hộc! Chạy lắt nha lắt nhắt……! Mau ngoan ngoãn đầu hàng đi!",
+      "jpname": "警察チームウマ娘B",
+      "jptext": "はあ、はあ！　ちょこまかちょこまかと……！\nいい加減、観念しなさーい！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hộc, hộc! Machitan không thể phanh gấp ngay được đâu nha!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぁ、はぁ！\nマチタンは急には止まれませ～ん！"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Bên tôi đang truy đuổi theo hình thức chạy tiếp sức! Bị bắt chỉ là vấn đề thời gian thôi, hãy bỏ cuộc đi!",
+      "jpname": "イクノディクタス",
+      "jptext": "こちらは駅伝形式で追っています！\n捕まるのも時間の問題です、諦めなさい！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hộc, hộc, hộc, hộc……! Làm sao mà thế được cơ chứ! Châm chước cho tớ chút điii!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ぜ、は、ぜ、は……！\nいやぁ～、そんなわけには～！　そこをなんとか～！"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ồ, ồ ồ ồ! Machitan đỉnh thật đấy!? Hết lượn bên này lại lượn bên kia, nãy giờ cứ trốn thoát suốt thôi!",
+      "jpname": "ツインターボ",
+      "jptext": "おお、おおお！　マチタンすごいな！？\nあっちいったりこっちいったり、もうずーっと逃げてる！"
+    },
+    {
+      "name": "Mã Nương A đội đạo tặc",
+      "text": "Gần hai mươi phút trôi qua rồi nhỉ. Bị rượt đuổi gắt gao như thế thì nếu là mình, chắc mình đã hoảng loạn cùng đường từ lâu rồi……",
+      "jpname": "泥棒チームウマ娘A",
+      "jptext": "もう20分近くたつよね。あんなにずっと追いかけられたら、\n私なら相当追い詰められるけどなぁ……。"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tannhauser là kiểu người như thế đấy.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "そういうヤツなんすわ、タンホイザって。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hộc, phù, hộc!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はぁ、ひぃ、はぁ！"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đội cảnh sát, cứ thế này thì không dứt điểm được! Đổi đội hình khác――",
+      "jpname": "イクノディクタス",
+      "jptext": "警察チーム、これではラチがあきません！\n別のフォーメーションで――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Sơ hở rồi! Lên luônnn!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "っ隙あり！　とりゃ～～！"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Machitan!! Tuyệt quá, cậu ấy chạy về hướng này rồi! Cậu cừ lắm!!",
+      "jpname": "ツインターボ",
+      "jptext": "マチタン！！　やったぁ、こっち来た！\nすごいぞオマエ！！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Phù, hộc, hộc, hộc, U, u oaaaaa!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "ひぃ、はぁ、はぁ、はぁ、\nう、うおおおおお！"
+    },
+    {
+      "name": "",
+      "text": "Matikane Tannhauser đã xuất sắc luồn lách qua những kẻ truy đuổi, vừa chật vật chạm tới buồng giam thì――",
+      "jpname": "モノローグ",
+      "jptext": "マチカネタンホイザは見事追っ手をかいくぐり、\nなんとか牢屋へ辿り着くと――"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Á đau!!",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "あだ！！"
+    },
+    {
+      "name": "",
+      "text": "Em cụng trán vào gốc cây rồi ngã nhào ra đất.",
+      "jpname": "モノローグ",
+      "jptext": "木におでこをぶつけて転倒した。"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Đã khống chế…… Tannhauser-san!",
+      "jpname": "イクノディクタス",
+      "jptext": "タンホイザさん、確保……！"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hic hic. Rõ ràng là chỉ còn một chút xíu nữa thôi mà.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "むむ～。あとちょっとだったんだけどな～。"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Không, nhưng mà này…… cậu đã nỗ lực hết sức rồi đấy. Không hề bỏ cuộc chút nào, đúng là cừ thật.",
+      "jpname": "ナイスネイチャ",
+      "jptext": "いや、でもさぁ……かなり頑張ったよ。\nよく諦めなかった、さすが。"
+    },
+    {
+      "name": "",
+      "text": "Một màn đào tẩu ngoan cường kéo dài suốt mấy chục phút. Hình ảnh em kiên trì chạy tiếp không buông xuôi dường như đã chạm tới trái tim của tất cả các Mã Nương tham gia.",
+      "jpname": "モノローグ",
+      "jptext": "数十分にも渡った粘り強い逃走劇。諦めずに走り続けた姿は、\n参加したウマ娘たちの胸を打ったようだった。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hưm, tiếc thật đó. Còn có tí tẹo nữa thôi mà. ……Quả nhiên mình vẫn cứ hay hụt mất chiến thắng vào phút chót.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "むー、悔しいなぁー。あとちょっとだったんですけど。\n……やっぱりいつも勝ちきれないんだなぁ。",
+      "choice_data_list": [
+        "Vậy sao?"
+      ],
+      "jpchoice_data_list": [
+        "そうなの？"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Vâng ạ. Ngay từ hồi ở câu lạc bộ thiếu niên, cứ đến thời khắc then chốt là em lại lăn ra ốm, hay ngay trước giờ chạy thì lại xì máu cam. Haiz, đúng là một Mã Nương chuyên suýt soát mà.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "はいー。ジュニアクラブでも、ここ1番で体調崩しちゃったり、\n出走前に鼻血出しちゃったり。いやぁ、惜しいウマ娘なんですよね。"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "―― Quả đúng vậy! Matikane Tannhauser có phần hơi lóng ngóng vụng về.",
+      "jpname": "秋川理事長",
+      "jptext": "――確かに！　マチカネタンホイザはちょっぴり締まらない。"
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Viện trưởng ạ! Em vừa về đây rồi ạ. ……Ủa mà, 'lóng ngóng vụng về' sao ạ?",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "理事長さん～！　ただいまですー。\n……って、『締まらない』？"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "Ừm! Thế nhưng đó rốt cuộc chỉ là chuyện quá khứ! Tinh thần cầu tiến không bao giờ lay chuyển cùng sự bình thản vững vàng của em thoạt nhìn có vẻ giản dị, nhưng chẳng phải ai cũng duy trì được đâu!",
+      "jpname": "秋川理事長",
+      "jptext": "うむ！　しかしそれはあくまで過去の話ッ！　君の変わらぬ向上心、\nそして平常心は一見地味だが誰もが持ち続けられるものではないっ！"
+    },
+    {
+      "name": "Viện trưởng Akikawa",
+      "text": "Nói cách khác, tương lai của em vô cùng xán lạn! Ít nhất là bản thân ta đang cực kỳ kỳ vọng vào những màn thể hiện của em đấy! Hết! Ha ha ha!",
+      "jpname": "秋川理事長",
+      "jptext": "つまり、君の未来は眩しいっ！　これからの活躍、少なくとも\n私は大変楽しみにしている！　以上ッ！　はっはっは～！",
+      "choice_data_list": [
+        "Đúng là như một cơn bão……",
+        "Cứ như một cơn lốc vậy……"
+      ],
+      "jpchoice_data_list": [
+        "嵐のようだ……",
+        "嵐のようだね……"
+      ]
+    },
+    {
+      "name": "Matikane Tannhauser",
+      "text": "Hì hì. Em lại được động viên rồi. Viện trưởng mỗi khi thấy ai xuống tinh thần là thỉnh thoảng lại tới cổ vũ như thế đấy ạ.",
+      "jpname": "マチカネタンホイザ",
+      "jptext": "てへへ。励まされちゃいました。理事長さんってへこんでいると、\nたまにああやって声をかけてくれるんですよねぇ。"
+    },
+    {
+      "name": "",
+      "text": "Đúng như Viện trưởng Akikawa đã nói, Matikane Tannhauser tuy đôi lúc có chút tiếc nuối suýt soát, nhưng ở em lại toát ra cảm giác chắc chắn một ngày nào đó sẽ làm nên chuyện lớn.",
+      "jpname": "モノローグ",
+      "jptext": "秋川理事長の言う通り、確かにマチカネタンホイザは\n少し惜しい一方で、いつかなにかをやり遂げそうな気配がある。"
+    },
+    {
+      "name": "",
+      "text": "Từ trò đuổi bắt hôm nay cho đến lời bảo chứng chắc nịch của Viện trưởng Akikawa…… Đây là ngày khiến tôi càng thêm mong đợi vào tương lai của em.",
+      "jpname": "モノローグ",
+      "jptext": "今日のケイドロしかり、秋川理事長からの太鼓判しかり……\n彼女のこれからが、なんとなく楽しみになった日だった。"
+    }
+  ]
+}
