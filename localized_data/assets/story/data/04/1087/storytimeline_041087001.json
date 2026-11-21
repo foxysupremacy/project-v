@@ -1,0 +1,462 @@
+{
+  "title": "Xin chào, em là Aston Machan",
+  "jptitle": "こんにちは、アストンマーチャンです",
+  "text_block_list": [
+    {
+      "name": "Aston Machan",
+      "text": "Vậy thì…… để em tự giới thiệu lại một lần nữa nhé.",
+      "jpname": "アストンマーチャン",
+      "jptext": "それでは……改めまして自己紹介をしましょう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Xin chào, em là Aston Machan. ……Mong được giúp đỡ nhé.",
+      "jpname": "アストンマーチャン",
+      "jptext": "こんにちは、アストンマーチャンです。\n……よろしくね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi em nở một nụ cười bẽn lẽn. Trong đôi mắt tròn xoe ánh lên vẻ linh động, hình bóng tôi phản chiếu rõ ràng.",
+      "jpname": "モノローグ",
+      "jptext": "そうして彼女は、はにかむように笑った。\n軽やかに弾む丸い瞳に、自分の姿が映りこむ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Câu chuyện quay ngược về vài ngày trước――",
+      "jpname": "モノローグ",
+      "jptext": "話は、数日前に遡る――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một ngày nọ, tôi cùng người đồng nghiệp đến xem trận đua tập để tìm kiếm Mã Nương đảm nhận. Khán đài hôm ấy bồn chồn hơn hẳn thường lệ. Lý do là bởi――",
+      "jpname": "モノローグ",
+      "jptext": "担当ウマ娘を探すため、同僚とともに模擬レースを観に来ていた\nある日。いつになく観客席がそわついていた。と、いうのも――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "Chương trình đặc biệt tìm kiếm tân binh Mã Nương \"New Paka\"! Hôm nay, từ Học viện Tracen, chúng tôi sẽ giới thiệu đến khán giả cả nước những tân binh Mã Nương tuyệt vời nhất!",
+      "jpname": "インタビュアー",
+      "jptext": "新人ウマ娘発掘特番『ニューぱか』！　今日はトレセン学園から、\n全国のお茶の間の皆さんに素敵な新人ウマ娘をご紹介しますよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Đoàn làm phim truyền hình đến thật này! Các Mã Nương tham gia chắc hăng hái lắm…… À không, trông giống như đang căng thẳng thì đúng hơn.",
+      "jpname": "同僚トレーナー",
+      "jptext": "テレビクルー本当に来てるな！　出走ウマ娘は張り切るんじゃ\n……いや、どちらかというと緊張してるな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Người giữ được bình tĩnh chắc chỉ có Aston Machan thôi nhỉ? Quả nhiên là gan dạ thật đấy.",
+      "jpname": "同僚トレーナー",
+      "jptext": "落ち着いているのはアストンマーチャンくらいか？\nさすが、肝が据わってるよ。",
+      "choice_data_list": [
+        "Aston Machan ư?"
+      ],
+      "jpchoice_data_list": [
+        "アストンマーチャン？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Theo hướng nhìn của người đồng nghiệp, giữa bầu không khí có phần căng thẳng, có một Mã Nương đang bước vào cổng xuất phát với nụ cười nhẹ nhàng trên môi.",
+      "jpname": "モノローグ",
+      "jptext": "同僚の視線の先には、どこかぴりつく空気の中、\n緩やかな笑顔を浮かべてゲートインするウマ娘の姿があった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "――Và cuộc đua đã bước vào giai đoạn cuối, tiến vào đoạn thẳng cuối cùng! Ai sẽ là người phát động tấn công đầu tiên đây!",
+      "jpname": "イベント実況",
+      "jptext": "――さあ、レースも終盤、最終直線に入りました！\n誰が最初にしかけるのか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Hừm!",
+      "jpname": "アストンマーチャン",
+      "jptext": "……ふっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "Là Aston Machan! Với sải chân tần số cao độc đáo, em ấy đã bắt kịp vị trí dẫn đầu, Aston Machan vượt lên nửa thân ngựa và―― cán đích!",
+      "jpname": "イベント実況",
+      "jptext": "アストンマーチャンだ！　独特なピッチ走法で先頭を捉え、\nアストンマーチャン、半バ身かわして――ゴール！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Waaa……!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワァアアア……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hà, hà…… phù. Hi hi, tạo dáng chữ V nè.",
+      "jpname": "アストンマーチャン",
+      "jptext": "はぁ、はぁ……ふぅー。\nえへ、ピース。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "Được rồi, nhân lúc em ấy rời sân đua ta tiến lại phỏng vấn thôi! Đầu tiên là người về đích ở vị trí thứ nhất, Aston Machan――",
+      "jpname": "インタビュアー",
+      "jptext": "よし、グラウンドから寄ってきたタイミングで行きましょう！\nまずは1着のアストンマーチャンから――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Xin chào, em là Aston Machan. Rất vui được gặp mọi người nha.",
+      "jpname": "アストンマーチャン",
+      "jptext": "こんにちは、アストンマーチャンです。よろしくね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "A, Aston Machan!? ……Em Aston Machan! Xin chào, chúng tôi đến từ \"New Paka\"! Một trận đua thật tuyệt vời!",
+      "jpname": "インタビュアー",
+      "jptext": "ア、アストンマーチャン！？　……さん！　こんにちは、\n『ニューぱか』です！　素晴らしいレースでしたね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Mọi người có xem không? Thật ra em đã hơi hăng hái một chút đấy. ……A, đây là búp bê Machan. \"Xin chào mọi người nha……\"",
+      "jpname": "アストンマーチャン",
+      "jptext": "見ましたか？　実はちょっぴり張り切っていました。\n……あ、こちらはマーちゃん人形です。『こんにちは～』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "……À ừm, búp bê dễ thương quá! Nhân tiện, em đã quyết định chọn Trainer đảm nhận chưa?",
+      "jpname": "インタビュアー",
+      "jptext": "……えっと、可愛らしい人形ですね！\nところで、もう担当トレーナーはお決まりなんですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Đó đang là một vấn đề cực kỳ nghiêm trọng đấy ạ. Vẫn chưa có ai xuất hiện cả.",
+      "jpname": "アストンマーチャン",
+      "jptext": "それがゆゆしき事態なのです。現れないのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "Ôi, vậy sao!? Nhưng chắc chắn sau trận đua vừa rồi sẽ có rất nhiều lời mời chiêu mộ gửi đến em đấy!",
+      "jpname": "インタビュアー",
+      "jptext": "あら、そうなんですね！？\nでもきっと、今のレースで多くのスカウトが届くかと思いますよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Như thể bị thu hút bởi những lời đó, các Trainer liền vây quanh Aston Machan.",
+      "jpname": "モノローグ",
+      "jptext": "そんな言葉に引き寄せられたかのように、\nアストンマーチャンをトレーナー陣が取り囲む。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Aston Machan! Hãy để tôi đảm nhận em nhé! Tôi sẽ lên rất nhiều giáo án luyện tập phát huy tối đa đôi chân của em!",
+      "jpname": "中堅トレーナー",
+      "jptext": "アストンマーチャン！　ぜひ私に担当させて！\n貴方の脚をいかしたトレーニングをたくさん組むわ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "T-Tôi cũng xin ứng cử! Tôi sẽ giúp tài năng thiên bẩm của em tỏa sáng trọn vẹn mà không hề bị lãng phí!",
+      "jpname": "同僚トレーナー",
+      "jptext": "ぼ、僕も立候補させてください！\n君の天性の才能、腐らせることなく完璧にいかしてみせます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "Quả nhiên là vậy! Nào, quay cho thật cẩn thận nhé. Biết đâu chúng ta sẽ ghi lại được khoảnh khắc ký hợp đồng đấy……!",
+      "jpname": "インタビュアー",
+      "jptext": "やっぱり！　よし、しっかり撮ってくださいね。\n契約成立の瞬間をとらえられるかもしれませんから……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Người phỏng vấn",
+      "text": "Vậy thì tân binh đầy triển vọng Aston Machan, em ấy sẽ đưa ra câu trả lời thế nào trước đông đảo các Trainer đây!",
+      "jpname": "インタビュアー",
+      "jptext": "さて期待の新人アストンマーチャン、\nこの大勢のトレーナーに、いったいどんな返事をするのでしょうか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "………….",
+      "jpname": "アストンマーチャン",
+      "jptext": "…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Ước mơ của mọi người là gì vậy ạ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "……みなさんの夢は何ですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "…………Hả? À, chuyện đó thì dĩ nhiên là cùng em giành chiến thắng tại các giải GⅠ rồi!",
+      "jpname": "中堅トレーナー",
+      "jptext": "…………え？\nああ、それはもちろん、貴方と一緒にGⅠを勝利することよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Tôi muốn cùng em nhắm tới danh hiệu Mã Nương Tiêu Biểu Của Năm! Tôi sẽ biến em thành Mã Nương mạnh nhất thế hệ!",
+      "jpname": "同僚トレーナー",
+      "jptext": "僕は君と一緒に年度代表ウマ娘を狙いたい！\n君を世代最強のウマ娘にしてみせます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hừm hừm, hừm hừm…… Hừm.",
+      "jpname": "アストンマーチャン",
+      "jptext": "ふんふん、ふふ～ん……。ふん。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "………… Em hiểu rồi. Hẹn gặp lại mọi người nhé!",
+      "jpname": "アストンマーチャン",
+      "jptext": "…………。\n……わかりました。まったね～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "K-Khoan đã nào! Dĩ nhiên là tôi cũng muốn đồng hành cùng em mà! Hãy cho tôi biết ước mơ của em đi!",
+      "jpname": "中堅トレーナー",
+      "jptext": "ちょ、ちょっとまって！　寄り添いたいとも、\nもちろん思っているわ！　貴方の夢を聞かせて！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ước mơ của Machan là trở thành một linh vật đấy ạ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "マーちゃんの夢は、マスコットになることなのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các Trainer",
+      "text": "……L-Linh vật á?",
+      "jpname": "トレーナーたち",
+      "jptext": "……マ、マスコット？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Không phải linh vật bình thường đâu. Mà là siêu linh vật vươn tầm khắp thế giới cơ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "ただのマスコットではないです。\n世界を股にかけたスーパーマスコットです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Xuất hiện ở khắp mọi nơi, chuyền tay đến mọi người, một siêu linh vật như thế, không, phải là một đại siêu linh vật mới tuyệt vời cơ!",
+      "jpname": "アストンマーチャン",
+      "jptext": "あらゆる場所に出没し、あらゆるヒトの手に渡る、\nそんなスーパー、いえ、ウルトラスーパーマスコットがいいのです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "R-Ra là vậy sao…………?",
+      "jpname": "中堅トレーナー",
+      "jptext": "な、なるほど…………？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Vâng, là như thế đấy ạ. Thế nên, hẹn gặp lại mọi người nhé.",
+      "jpname": "アストンマーチャン",
+      "jptext": "はい、そんなわけなので。\nだから、またね～。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau khi Aston Machan để lại những lời ấy rồi rời đi, nơi đó chỉ còn lại những người lớn đang đứng chết trân vì ngơ ngác.",
+      "jpname": "モノローグ",
+      "jptext": "アストンマーチャンがそう言い残して去ったあと、\nそこにはあっけにとられている大人しか残っていなかった。",
+      "choice_data_list": [
+        "(Một cô bé có bầu không khí thật kỳ lạ……)",
+        "(Đúng là một cô bé có bầu không khí kỳ lạ thật đấy……)"
+      ],
+      "jpchoice_data_list": [
+        "（不思議な雰囲気の子だ……）",
+        "（不思議な雰囲気の子だな……）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù sải chân tần số cao độc đáo trong cuộc đua cho thấy tài năng rõ rệt của em, nhưng bầu không khí kỳ lạ kia lại để lại ấn tượng sâu sắc hơn cả.",
+      "jpname": "モノローグ",
+      "jptext": "レースで見た独特のピッチ走法には確かな才能を感じたが、\nそれ以上に、その不思議な雰囲気は強く印象に残ったのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trên đường trở về sau trận đua tập ấy――",
+      "jpname": "モノローグ",
+      "jptext": "そんなことがあった模擬レースの帰り道――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Xin lỗi anh/chị ơi. Có thể cầm máy ảnh giúp em được không ạ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "もしもし。\nカメラを持っていてもらえませんか～？",
+      "choice_data_list": [
+        "……Ơ, tôi á?",
+        "……Ơ, tôi sao?"
+      ],
+      "jpchoice_data_list": [
+        "……あ、俺？",
+        "……あ、私？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Vâng, em muốn nhờ quay lại cảnh em hát ở quảng trường trung tâm ạ. Vì em đã lỡ bỏ quên mất chân máy ảnh rồi.",
+      "jpname": "アストンマーチャン",
+      "jptext": "はい、中央広場で歌ってる姿を撮ってほしいのです。\n三脚をうっかりさっぱり忘れてきてしまって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ê ê khoan đã nào, tôi đã đồng ý đâu! Nhảy múa \"Umapyoi Densetsu\" ở cái chốn này thì có ý nghĩa gì chứ!",
+      "jpname": "ウオッカ",
+      "jptext": "いやいやちょっと待て、俺はいいっつってねーぞ！\nこんなとこで『うまぴょい伝説』なんて、意味わかんねー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Video càng có nhiều thì càng tốt mà.",
+      "jpname": "アストンマーチャン",
+      "jptext": "動画はあればあるほどいいのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Đã có quá thừa rồi còn gì! Mà tại sao cứ phải quay cảnh đang hát cơ chứ!?",
+      "jpname": "ウオッカ",
+      "jptext": "もうありあまってんだろうが！\nっつーか、なんでわざわざ歌ってるとこ撮るんだよ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Vì em nghĩ là mình vẫn chưa quay cảnh đó bao giờ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "まだ撮ったことがないな、と思ったので。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "A thật là. Giờ có nói gì cậu ấy cũng không chịu nghe đâu.",
+      "jpname": "ウオッカ",
+      "jptext": "あーもう。今、聞く耳もってねーな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mỗi khi thế này là cậu ấy bướng bỉnh lắm đấy…… Chịu thôi, mau quay nhanh rồi còn về nào.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "こうなってくると頑固なのよねぇ……。\nしょうがないわ、さっさと撮って帰りましょ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đột ngột thế này thật ngại quá, phiền anh/chị một chút được không? Con bé này thực sự là kiểu…… rất thích mấy việc như thế này.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "急にすみません、少しだけいいですか？\nこの子、本当になんかこう……こういうのが好きな子で。",
+      "choice_data_list": [
+        "Dĩ nhiên rồi"
+      ],
+      "jpchoice_data_list": [
+        "もちろん"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Oa, em cảm ơn nhiều ạ. Nào, nhờ anh/chị dùng chiếc điện thoại này giúp em nhé.",
+      "jpname": "アストンマーチャン",
+      "jptext": "わあ、ありがとうございます。\nさ、このスマホでお願いします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ừm, vậy thì. Em muốn quay từ góc này hướng sang bên kia theo kiểu như thế này ạ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "えっと、それじゃ。\nこの辺から、あの辺をこういう感じに撮ってほしいです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Kỳ lạ, thích được chụp hình, và khi chạy thì xuất chúng vô song. Đó là ấn tượng đầu tiên của tôi về Aston Machan.",
+      "jpname": "モノローグ",
+      "jptext": "不思議で、撮られることが好きな、走ればピカイチのウマ娘。\nそれがアストンマーチャンの第一印象だった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

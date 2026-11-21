@@ -1,0 +1,500 @@
+{
+  "title": "Ống kính giờ đang có màu gì?",
+  "jptitle": "レンズはいま何色ですか？",
+  "text_block_list": [
+    {
+      "name": "Aston Machan",
+      "text": "Hừm. Bên phải, bên trái, phía trong cùng. Đồ lưu niệm của Machan ở đâu rồi ta.",
+      "jpname": "アストンマーチャン",
+      "jptext": "ん～。右、左、奥～。\nマーちゃんグッズはどこですか～。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Kỳ lạ thật đó. Chẳng thấy đâu cả. Hay là sản phẩm mới được để ở chỗ khác nhỉ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "はてはて。見つかりません。\nそれとも、新商品は別のところでしょうか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nghĩ rằng có lẽ cũng sắp có một vài món đồ lưu niệm nào đó được bày bán, tôi đã cùng Aston Machan đến xem cửa hàng vật phẩm Mã Nương, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "そろそろ何かしらのグッズが出ているかも、と\nアストンマーチャンとウマ娘グッズを見に来たのだが……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hừm…… có vẻ như vẫn chưa có rồi.",
+      "jpname": "アストンマーチャン",
+      "jptext": "う～ん、まだないみたいですね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Thế nhưng em đã xuất hiện trên chương trình đặc biệt, và cũng đã ra mắt rồi mà. Chắc chắn chẳng bao lâu nữa, ở đây cũng sẽ được bày la liệt cho xem.",
+      "jpname": "アストンマーチャン",
+      "jptext": "でも特番にも出ましたし、デビューもしましたから。\nきっともうすぐ、ここにもズラ～リです。",
+      "choice_data_list": [
+        "Mong chờ thật đấy",
+        "Háo hức thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "楽しみだな",
+        "楽しみだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Vâng, em háo hức lắm. Cực kỳ hào hứng luôn ạ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "はい、楽しみです。ワクワクさんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Thành thật mà nói, bản thân việc sản xuất đồ lưu niệm có lẽ không khó. Nhưng để được bày bán la liệt ở đây thì……",
+      "jpname": "モノローグ",
+      "jptext": "――正直、グッズ化そのものは難しくはないだろう。\nだがここに並ぶほどとなると……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Không sao đâu, không sao đâu mà. Em sẽ mạnh mẽ hơn thật nhiều và thi đấu thật bùng nổ. Khi đó, thật nhiều người sẽ phản chiếu hình bóng Machan trong mắt họ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "大丈夫、大丈夫。たくさん強くなって、活躍しましょう。\nそうしたら、たくさんのヒトがマーちゃんを目に映します。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Một khi đã phản chiếu là sẽ bị hớp hồn ngay. Trước sự đáng yêu của Machan, cả khán giả trên khán đài lẫn mọi người ngồi trước màn hình tivi đều sẽ bị cướp mất trái tim cho xem.",
+      "jpname": "アストンマーチャン",
+      "jptext": "映したらガツンッです。マーちゃんのラブリーさに\n観客席のみなさんもお茶の間のみなさんも、ハートをガシッです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cả lời nói lẫn thần thái đều nhẹ nhàng bồng bềnh như mây, nhưng tâm nguyện của em lại kiên định và mãnh liệt khôn cùng.",
+      "jpname": "モノローグ",
+      "jptext": "言葉も空気もフワフワとして柔らかい雰囲気だが、\nその想いはどこまでも一途で強い。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Điều thực sự đau buồn là bị lãng quên.",
+      "jpname": "アストンマーチャン",
+      "jptext": "本当に悲しいのは忘れられることです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không để bị lãng quên. Khiến mọi người ghi nhớ mãi mãi. Tâm nguyện ấy, tôi muốn thực hiện cho em bằng bất cứ giá nào.",
+      "jpname": "モノローグ",
+      "jptext": "忘れさせない。ずっと覚えていてもらう。\nその願いは、なんとしても叶えてあげたい。",
+      "choice_data_list": [
+        "Hử? Đó là……"
+      ],
+      "jpchoice_data_list": [
+        "ん？あれは……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Trainer-san? Đã đến lúc phải về rồi ạ. Rốt cuộc là anh/chị đang nhìn――",
+      "jpname": "アストンマーチャン",
+      "jptext": "トレーナーさん？　そろそろ帰る時間です。\nいったい何を見て――",
+      "choice_data_list": [
+        "……Xin lỗi, em cứ về trước đi!"
+      ],
+      "jpchoice_data_list": [
+        "……ごめん、先に帰ってて！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vẫy tay chào Aston Machan đang ngơ ngác, tôi rảo bước nhanh về phía \"thứ đó\" vừa lọt vào tầm mắt.",
+      "jpname": "モノローグ",
+      "jptext": "きょとんとした顔のアストンマーチャンに手を振って、\n目に入った『それ』に向かい、足早に歩いた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Hửm? Một Trainer-san vội vã luống cuống, hiếm thấy thật đấy nha. ……Hừm.",
+      "jpname": "アストンマーチャン",
+      "jptext": "んん～？　あわてんぼうのトレーナーさん、めずらしいですね～。\n……ふむ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Bạn có muốn cùng nhau tự tay làm túi thơm không?\" Tấm áp phích của một cửa hàng đồ thủ công đã lọt vào mắt tôi.",
+      "jpname": "モノローグ",
+      "jptext": "『一緒に手作りの香り袋を作ってみませんか』\nそんな手芸店のポスターが目に入った。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi đã tự tay làm một chiếc túi thơm nhỏ nhắn với màu sắc và thiết kế gợi nhớ đến Aston Machan theo cảm nhận của riêng mình. Dù bên trong vẫn chưa bỏ gì vào cả.",
+      "jpname": "モノローグ",
+      "jptext": "自分なりにアストンマーチャンをイメージした色とデザインで\n小さな香り袋を作った。中には、まだ何も入ってはいないが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Thế nhưng em đã xuất hiện trên chương trình đặc biệt, và cũng đã ra mắt rồi mà. Chắc chắn chẳng bao lâu nữa, ở đây cũng sẽ được bày la liệt cho xem.",
+      "jpname": "アストンマーチャン",
+      "jptext": "でも特番にも出ましたし、デビューもしましたから。\nきっともうすぐ、ここにもズラ～リです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Người ngoài nhìn vào có lẽ sẽ bảo rằng \"chỉ là món đồ lưu niệm thôi mà\" hay \"làm quá lên\". Thế nhưng, nguồn cội của tâm nguyện ấy lại sâu sắc vô ngần――",
+      "jpname": "モノローグ",
+      "jptext": "はたから見れば『たかがグッズ』だと『大袈裟』だと言われるかも\nしれない。けれど、その願いの根本にあるものはあまりにも深く――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi trở thành Trainer đảm nhận là để hiện thực hóa ước mơ của Aston Machan. Vì điều đó, dẫu là một tia hy vọng mong manh đến nhường nào, tôi cũng muốn bám víu lấy.",
+      "jpname": "モノローグ",
+      "jptext": "アストンマーチャンの夢を叶えるために、担当トレーナーになった。\nそのためになら、どんなに儚い希望にだって、すがりつきたい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vì thế đây giống như một lời nguyện ước vậy. Để gọi là đồ lưu niệm thì quả thực có phần vụng về, lại chỉ là một chiếc túi thơm độc nhất vô nhị, nhưng dẫu vậy――",
+      "jpname": "モノローグ",
+      "jptext": "だからこれは、願掛けのようなもの。グッズと呼ぶには不格好で、\nたったひとつしかない小さな香り袋だが、それでも――",
+      "choice_data_list": [
+        "Để ước mơ của em trở thành hiện thực――",
+        "Mong sao ước mơ của em trở thành hiện thực――"
+      ],
+      "jpchoice_data_list": [
+        "君の夢が叶うように――",
+        "貴方の夢が叶うように――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Đó là, ước mơ của Machan sao ạ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "……それは、マーちゃんの夢、ですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Em tò mò liếc nhìn xem anh/chị đi đâu. Thế là thấy anh/chị thoăn thoắt bước vào tiệm đồ thủ công.",
+      "jpname": "アストンマーチャン",
+      "jptext": "……どこへ行くのかなって、チラチラしていました。\nそうしたら、するりと手芸屋さんに入っていって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Chọn vải, chọn chỉ, rồi ngồi thu lu ở góc làm đồ thủ công. Hỏi nhân viên tiệm đủ điều…… trông anh/chị có vẻ hơi căng thẳng một chút nhỉ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "布を選んで、糸を選んで、手作りコーナーに、ちょこん。\nお店の方にたくさん聞いて……ちょっぴり緊張していましたね。",
+      "choice_data_list": [
+        "B-Bị nhìn thấy tận mức đó sao……"
+      ],
+      "jpchoice_data_list": [
+        "そ、そこまで見られて……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Vâng ạ. Góc nghiêng của Trainer-san trông vô cùng nghiêm túc, từng mũi kim thoăn thoắt châm vào kéo ra. Đến khi nhận ra thì Machan đã đứng nhìn mãi không rời mắt.",
+      "jpname": "アストンマーチャン",
+      "jptext": "はい。トレーナーさんはすごく真剣な横顔で、チクチク、チクチク。\n気がついたら、マーちゃんはずーっと見ていたのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Tại sao lại thế nhỉ? Em cũng chẳng rõ nữa. Nhưng em cứ đứng đó mãi, tựa như đang lắng nghe tiếng sóng vỗ rì rào vậy.",
+      "jpname": "アストンマーチャン",
+      "jptext": "なぜでしょう。わかりません。\nでも、ずっとずーっと、波の音を聞くように立っていたのです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Chiếc túi thơm mang màu sắc của Machan. Trông giống Machan thật đấy.",
+      "jpname": "アストンマーチャン",
+      "jptext": "……香り袋、マーちゃんの色をしています。\nマーちゃんに似ています。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Cứ như thể Trainer-san vừa tạo ra một Machan mới vậy.",
+      "jpname": "アストンマーチャン",
+      "jptext": "まるでトレーナーさんが、新しいマーちゃんを作ったみたい。",
+      "choice_data_list": [
+        "Cái này, ừm…… chỉ là lời nguyện ước thôi"
+      ],
+      "jpchoice_data_list": [
+        "これは、その……願掛けっていうか"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi bảo với em rằng đây chẳng phải thứ gì to tát để gọi là đồ lưu niệm của Aston Machan, mà chỉ là lời nguyện cầu mang tính thỏa mãn bản thân thôi.",
+      "jpname": "モノローグ",
+      "jptext": "アストンマーチャンのグッズと呼ぶような大層なものではなく、\n自己満足の願掛けであると伝える。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Lời nguyện ước sao? ……Để không quên Machan ư? Nếu không cầm nó bên mình, anh/chị sẽ quên mất Machan sao?",
+      "jpname": "アストンマーチャン",
+      "jptext": "願掛け？　……マーちゃんを忘れないように？\nそれを持っていないと、マーちゃんのこと忘れちゃいますか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Thế thì không được đâu nha. Phải làm sao đây ta.",
+      "jpname": "アストンマーチャン",
+      "jptext": "それはいけませんね～。どうしましょう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Với bầu không khí chẳng rõ là đùa hay thật, Aston Machan nhìn chằm chằm vào tôi.",
+      "jpname": "モノローグ",
+      "jptext": "冗談なのか本気なのかわからない空気感で、\nアストンマーチャンがこちらを見つめてくる。",
+      "choice_data_list": [
+        "Làm sao mà tôi quên được chứ"
+      ],
+      "jpchoice_data_list": [
+        "忘れるわけないよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Thật vậy sao ạ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "……そうなんですか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đương nhiên rồi. Đâu chỉ mỗi ngày, mà thậm chí một ngày tôi còn nghĩ đến biết bao nhiêu lần. Về việc luyện tập, và về cả ước mơ của Aston Machan.",
+      "jpname": "モノローグ",
+      "jptext": "当然だ。毎日どころか1日に何度も考えている。\nトレーニングやアストンマーチャンの夢のことを。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong hoàn cảnh như thế, làm sao mà quên cho nổi. Hồi tưởng lại những kỷ niệm chất chồng qua từng ngày, rồi lại nghĩ về tương lai phía trước――",
+      "jpname": "モノローグ",
+      "jptext": "そんな状況で、忘れるなんて無理があるだろう。\n日々重ねる記憶を思い出しては、未来のことを考えて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Đã ghi nhớ, mà lại còn nhớ lại biết bao lần……",
+      "jpname": "アストンマーチャン",
+      "jptext": "覚えているのに、何度も思い出す……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ghi nhớ, suy nghĩ, nhớ lại.",
+      "jpname": "アストンマーチャン",
+      "jptext": "覚えている、考える、思い出す。",
+      "choice_data_list": [
+        "Machan?"
+      ],
+      "jpchoice_data_list": [
+        "マーチャン？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Khác nhau đấy ạ. Giữa việc được ghi nhớ, và việc nhớ lại. Dù nghe có vẻ giống nhau, nhưng thực chất lại hoàn toàn khác biệt.",
+      "jpname": "アストンマーチャン",
+      "jptext": "違いますね。覚えてもらうことと、思い出すことは。\n似ていても、まったく違います。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Trainer-san đã ghi nhớ em, và hơn thế nữa, còn nhớ lại về em biết bao lần nhỉ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "トレーナーさんは、わたしを覚えていて、\nその上で何度も思い出しているんですね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Một thứ không bao giờ dừng lại. Tiếp diễn, lặp đi lặp lại. Tựa như những con sóng, hết lần này đến lần khác vỗ bờ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "止まらないもの。継続、繰り返し。波のように、何度も。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "……Ưmm??",
+      "jpname": "アストンマーチャン",
+      "jptext": "……うう～ん？？",
+      "choice_data_list": [
+        "C-Có chuyện gì sao em?"
+      ],
+      "jpchoice_data_list": [
+        "ど、どうかした？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Cảm giác cứ nhồn nhột thế nào ấy ạ. Ngứa ngáy, buồn buồn. Thế nhưng, lại chẳng hề khó chịu chút nào.",
+      "jpname": "アストンマーチャン",
+      "jptext": "なんだか、ムズムズします。\nムズムズ、くすぐったい。なのに、いやな気分じゃない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Kỳ lạ thật. Là gì thế nhỉ? Cứ nhồn nhột…… ưmm?",
+      "jpname": "アストンマーチャン",
+      "jptext": "不思議。なんでしょう？　ムズムズ……うう～ん？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị cuốn theo vẻ nghiêng đầu khó hiểu của Aston Machan, tôi cũng bất giác nghiêng đầu theo.",
+      "jpname": "モノローグ",
+      "jptext": "首を傾げるアストンマーチャンにつられて、\nこちらも首を傾げてしまう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bất chợt tiến lại gần, Aston Machan nhìn chăm chú vào chiếc túi thơm rỗng ruột đang nằm trong tay tôi. Rồi em đưa ngón tay khẽ chọc nhẹ vào――",
+      "jpname": "モノローグ",
+      "jptext": "ふいに近づき、アストンマーチャンはこちらの手に握られていた\n中身のない香り袋を見つめる。そうしてツンと、指先でつつき――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Chiếc túi thơm này, hãy tặng cho Machan nhé.",
+      "jpname": "アストンマーチャン",
+      "jptext": "香り袋、マーちゃんにください。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Machan muốn có nó. Không được sao ạ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "マーちゃん、それがほしいです。\nダメですか？",
+      "choice_data_list": [
+        "Tôi thì không phiền đâu nhưng mà……"
+      ],
+      "jpchoice_data_list": [
+        "別に構わないけど……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tự hỏi một thứ thế này liệu có ổn không, tôi nâng chiếc túi thơm lên nhìn lại lần nữa. ……Quả nhiên trông hơi vụng về. Khi tôi hỏi có muốn làm lại cái khác không thì――",
+      "jpname": "モノローグ",
+      "jptext": "こんなのでいいのかと持ち上げて改めて香り袋を見つめた。\n……やはり、少々不格好だ。作り直そうかと尋ねると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Thế này là được rồi ạ. Chiếc đầu tiên được làm ra mới là thứ đặc biệt nhất. ……A nhưng mà, quả nhiên vẫn thấy nhồn nhột quá đi.",
+      "jpname": "アストンマーチャン",
+      "jptext": "いいのです。最初に作られた、それが特別なのです。\n……ああでも、やっぱりムズムズします。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Cứ nhìn vào nó là lại càng thấy ngưa ngứa nhồn nhột. Tại sao lại thế nhỉ?",
+      "jpname": "アストンマーチャン",
+      "jptext": "見ていると、よけいにムズムズムズムズ。\nなぜなんでしょうね～？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi trao chiếc túi thơm cho Aston Machan.",
+      "jpname": "モノローグ",
+      "jptext": "アストンマーチャンに香り袋を渡す。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Với vẻ mặt đầy thắc mắc, nhưng phảng phất nét hân hoan, Aston Machan vừa nhìn chiếc túi thơm vừa nghiêng đầu.",
+      "jpname": "モノローグ",
+      "jptext": "不思議そうな顔で、でもどこかはしゃぐように、\nアストンマーチャンは香り袋を見つめては首を傾げる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lặp lại điều đó vài lần, em ngoảnh lại và nhìn sâu vào mắt tôi. Rồi――",
+      "jpname": "モノローグ",
+      "jptext": "それを何度か繰り返してから、振り向いて\nじっとこちらの瞳に入り込んでくる。そして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Aston Machan",
+      "text": "Ống kính của Trainer-san lúc nào cũng đổi sang màu của bầu trời nhỉ.",
+      "jpname": "アストンマーチャン",
+      "jptext": "トレーナーさんのレンズは、いつも空の色に変わりますね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói xong, em quay lưng và cất bước rời đi.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、背中を向けて歩き出したのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
