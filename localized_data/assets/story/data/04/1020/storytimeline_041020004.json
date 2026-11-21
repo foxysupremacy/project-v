@@ -1,0 +1,388 @@
+{
+  "title": "Nào, mục tiêu là con cá lớn☆",
+  "jptitle": "さあ、狙うは大物だ☆",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sau một thời gian bắt đầu tập luyện―― rốt cuộc, lịch trình cho trận ra mắt của Seiun Sky cũng đã được ấn định.",
+      "jpname": "モノローグ",
+      "jptext": "トレーニングを始めてからしばらく――\nいよいよ、セイウンスカイのデビュー戦の日程が決まった。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "U oa, cuối cùng cũng tới Twinkle Series rồi! Tự dưng hăng hái hẳn lên nha, quả này phải tập luyện hết mình mới được!",
+      "jpname": "セイウンスカイ",
+      "jptext": "うひゃー、とうとうトゥインクル・シリーズ！\nテンション上がってきたな～、バリバリトレーニングしちゃうぞ～。",
+      "choice_data_list": [
+        "Đùa thế đủ rồi, ta hãy cùng tính kế sách cho trận đua nào"
+      ],
+      "jpchoice_data_list": [
+        "冗談はさておき、レース対策を考えよう"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ha ha ha. Trainer-san, xem ra anh bắt đầu quen với nết của em rồi nhỉ?",
+      "jpname": "セイウンスカイ",
+      "jptext": "わっはっは。トレーナーさん、\nさては私の扱いに慣れてきちゃいましたね？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cơ mà anh nói cũng phải. Để câu được con cá ngon thì phải tính kỹ \"mồi bẫy\" mới được. Vì thế cho nên... trước hết là đi dạo nào!",
+      "jpname": "セイウンスカイ",
+      "jptext": "ま、でもそーですね。いい釣りのためにも、しっかり『仕掛け』を\n考えるとしましょー。と、いうわけで……まずは散歩！",
+      "choice_data_list": [
+        "Đi dạo?"
+      ],
+      "jpchoice_data_list": [
+        "散歩？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Đúng rồi. Cứ ngồi ôm đầu rên rỉ cũng chưa chắc đã nảy ra ý tưởng hay ho nào đâu, đúng không? Thay vì thế, cứ ra ngoài trời xanh tắm nắng chút đi nào.",
+      "jpname": "セイウンスカイ",
+      "jptext": "そ。じーっと頭抱えてうんうん唸っても、いいアイディアが出る\nとは限らないでしょ？　それより、青空の下でお日様でも浴びよ～。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Biết đâu lại tình cờ nghe ngóng được thông tin hữu ích nào đó thì sao chứ lị.",
+      "jpname": "セイウンスカイ",
+      "jptext": "……思わぬお役立ち情報が聞こえてくる、\nなーんてこともたまにあるしねー。"
+    },
+    {
+      "name": "",
+      "text": "Thế là tôi cùng Seiun Sky thong thả đi dạo quanh khuôn viên học viện thì――",
+      "jpname": "モノローグ",
+      "jptext": "そんなわけで、セイウンスカイと一緒に\n学園内をぶらぶら散歩していると――"
+    },
+    {
+      "name": "Special Week",
+      "text": "K... King-chan nhìn này nhìn này!! Đây là bảng danh sách xuất phát cho trận tiếp theo của mình này... có ghi cả lối chạy hôm đó của các bạn khác nữa đó!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "き、キングちゃん見て見て！！　私の次のレースの出走表\nなんだけど……他の子たちの当日の走法が載ってるの！"
+    },
+    {
+      "name": "Special Week",
+      "text": "Cái này, chẳng lẽ là tiên tri tương lai bằng công nghệ hiện đại nhất sao!? Quả nhiên thành phố lớn tân tiến ghê...!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "これ、まさか最新技術を使った未来予知！？\nやっぱり都会は進んでるべ～……！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Không, làm gì có chuyện đó. Cái đó là dự đoán dựa trên thông tin từ những trận đua mà các bạn ấy từng tham gia thôi.",
+      "jpname": "キングヘイロー",
+      "jptext": "いや、違うから。それ、その子たちが出た\nレースの情報を基にした予測だから。"
+    },
+    {
+      "name": "Special Week",
+      "text": "Thế ạ!? M... mình không hề biết luôn đấy...!!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "そうなのっ！？　し、知らなかった……！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bảng danh sách xuất phát à, có thứ đó nữa ha. Em thì chắc dựa theo kết quả các trận từ trước đến giờ thì sẽ bị ghi là lối chạy \"dẫn đầu\" nhỉ?",
+      "jpname": "セイウンスカイ",
+      "jptext": "出走表かー、あったねぇそーいうのも。私はまあ、\nここまでのレース結果からいくと“逃げ”って書かれるかな～？",
+      "choice_data_list": [
+        "Ra là vậy. Nếu thế thì……"
+      ],
+      "jpchoice_data_list": [
+        "なるほど。だったら……"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ồ... Trainer-san, mặt anh đang hiện rõ nét toan tính kìa? Bộ anh vừa nghĩ ra chiêu trò gì rồi sao?",
+      "jpname": "セイウンスカイ",
+      "jptext": "おっ。……トレーナーさん、企み顔だね？\nもしかしてなにか思いついちゃった感じ～？"
+    },
+    {
+      "name": "",
+      "text": "............",
+      "jpname": "モノローグ",
+      "jptext": "………………。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chạy đua mô phỏng mỗi ngày á!? Lại còn đấu với chính các đối thủ trong trận ra mắt nữa!? Đã thế còn chạy \"bám đuổi\" chứ không phải \"dẫn đầu\"!?",
+      "jpname": "セイウンスカイ",
+      "jptext": "毎日模擬レースをするぅ！？　しかもデビュー戦の相手とっ！？\nしかもしかも“逃げ”じゃなく“差し”で！？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ủa khoan đã nào! Đối với một người như em thì ngay cả việc đi tập đúng giờ đã là một thử thách liều mạng rồi đó nha!",
+      "jpname": "セイウンスカイ",
+      "jptext": "いやいや、ちょっとー！　この私がトレーニングに\n遅刻せず来るくらい無謀な挑戦じゃないですかっ！",
+      "choice_data_list": [
+        "Thế thì dễ ợt với em rồi",
+        "Thế thì dễ ợt với bạn rồi"
+      ],
+      "jpchoice_data_list": [
+        "なら余裕だな",
+        "じゃあ余裕だね"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A n h... v ừ a... n ó i... c á i... g ì... c ơ?",
+      "jpname": "セイウンスカイ",
+      "jptext": "い　ま　な　ん　と？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Độc ác quá, bạo chúa quá đi! Tâm trạng thế này thì đua bơi gì được nữa chứ! Chưa kịp chạy hết đường là em đã cụt hết hứng rồi!",
+      "jpname": "セイウンスカイ",
+      "jptext": "ひどいひどい、横暴だー！　こんな気分じゃレースなんて\nできないよー！　走り切る前にやる気がなくなっちゃうっ！",
+      "choice_data_list": [
+        "Thế là được rồi",
+        "Thế là được rồi đó"
+      ],
+      "jpchoice_data_list": [
+        "それでいい",
+        "それでいいよ"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Ủa kìa. Hừm, anh đang có toan tính gì trong đầu đúng không?",
+      "jpname": "セイウンスカイ",
+      "jptext": "……おや。\nふーん、なにか考えがあるんだね？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Trời ạ, hết cách với anh luôn! Biết rồi biết rồi, em làm là được chứ gì!",
+      "jpname": "セイウンスカイ",
+      "jptext": "もーっ、しょーがない！\nわかったわかった、やりますよ！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bù lại... anh phải giúp em câu được cá to đàng hoàng đấy nhé? Trainer-san.",
+      "jpname": "セイウンスカイ",
+      "jptext": "その代わり……ちゃーんと釣らせてよね？\nトレーナーさん。"
+    },
+    {
+      "name": "",
+      "text": "Thế là những ngày tiếp theo, Seiun Sky ngập chìm trong các buổi đua mô phỏng cùng những đối thủ trong trận ra mắt...",
+      "jpname": "モノローグ",
+      "jptext": "そしてセイウンスカイは、デビュー戦の相手と\n模擬レース漬けの日々を過ごした……。"
+    },
+    {
+      "name": "Mã Nương đối thủ",
+      "text": "Hộc... hộc... Bất ngờ thật đấy, Sky-san. Cậu quyết định chọn lối chạy \"bám đuổi\" sao?",
+      "jpname": "ライバルウマ娘",
+      "jptext": "はぁ……はぁ……意外ね、スカイさん。\n“差し”でいくことにしたの？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "À thì, tớ bắt đầu thấy kiểu này cũng hay ho ấy mà? Dù sao chặng cuối từ đằng sau lao vút lên vượt mặt trông cũng ngầu lòi phết mà lị!",
+      "jpname": "セイウンスカイ",
+      "jptext": "いやー、これもいいかなって思い始めて？\nやっぱかっこいいじゃん、終盤に後ろからずばーっと抜き去るの！"
+    },
+    {
+      "name": "Mã Nương đối thủ",
+      "text": "Thì cũng đúng là vậy... Nhưng cậu có vượt được ai đâu chứ? Toàn bị hụt hơi vì cạn thể lực thôi.",
+      "jpname": "ライバルウマ娘",
+      "jptext": "それはまあ……。でも、全然抜けてなかったわよね？\nスタミナ切れで。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Đúng là thế thật. Đó là điểm yếu chí mạng của tớ đấy. Tớ đâu có sở hữu chút thể lực nào đáng tự hào đâu nè... Hì hì.",
+      "jpname": "セイウンスカイ",
+      "jptext": "そーなんですよね。そこが課題。私、自慢できるよーなスタミナは\n一切持ち合わせてないのでね～。……へへ。"
+    },
+    {
+      "name": "",
+      "text": "Tin đồn cứ thế dần dần lan rộng.",
+      "jpname": "モノローグ",
+      "jptext": "噂は、徐々に広まっていった。"
+    },
+    {
+      "name": "",
+      "text": "――\"Có vẻ Seiun Sky sẽ chạy theo lối bám đuổi đấy\" ――\"Cơ mà thiếu hụt thể lực là điểm yếu quá lớn của cậu ta\"",
+      "jpname": "モノローグ",
+      "jptext": "――『セイウンスカイは差しで来るようだ』\n――『とはいえ、スタミナ不足が大きな弱点』"
+    },
+    {
+      "name": "",
+      "text": "Trên bảng danh sách xuất phát, chữ \"Bám đuổi\" cũng hiện lên chình ình―― và rồi, ngày diễn ra trận ra mắt rốt cuộc đã tới!",
+      "jpname": "モノローグ",
+      "jptext": "出走表にも“差し”の文字が躍り――\nいよいよ、デビュー戦本番がやってきた！"
+    },
+    {
+      "name": "",
+      "text": "(Cạch!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ガコン！！）"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Trận ra mắt quy tụ những gương mặt Mã Nương trẻ đầy triển vọng chính thức bắt đầu! Người đầu tiên bứt phá vươn lên là――",
+      "jpname": "実況",
+      "jptext": "さあ始まりました、新進気鋭のウマ娘たちが集うデビュー戦！\n1番に抜け出したのは――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ô ô ô ô ô ô ô ô ô!!",
+      "jpname": "セイウンスカイ",
+      "jptext": "うぉおおおおおおーーーーっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "S... Seiun Sky! Chính là Seiun Sky! Em ấy đang bứt tốc dẫn đầu với tốc độ kinh hoàng!! Đang nới rộng khoảng cách cực lớn với nhóm bám đuổi phía sau...!!",
+      "jpname": "実況",
+      "jptext": "せ、セイウンスカイ！　セイウンスカイです！　恐るべきスピード\nで逃げているっ！！　2番手以下を大きく突き離します……！！"
+    },
+    {
+      "name": "Trainer kinh nghiệm A",
+      "text": "Seiun Sky đang chạy dẫn đầu sao!? Chẳng phải bảo sẽ chạy \"bám đuổi\" à!? Lẽ nào bị áp lực sân khấu lớn làm luống cuống nên lao bừa lên...?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "セイウンスカイが逃げてる！？　“差し”で来るんじゃ\nなかったのか！？　まさか、大舞台に緊張して飛び出した……？"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Chạy bạt mạng vì phán đoán sai lầm... đúng là nét non nớt của một Mã Nương tân binh. Lần này nên chú ý vào chuyển động của các cô gái khác thôi. Xem ra những đứa trẻ đang chạy trên sân cũng nghĩ như vậy.",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "判断ミスによる暴走……新人ウマ娘らしいわ。今回はスカイ以外の\n子の動きに注目すべきね。走っている子たちもそう判断したみたい。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Vốn dĩ điểm yếu của Sky đã là thiếu hụt thể lực rồi... Không đời nào duy trì được đến cuối cùng đâu.",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "そもそもスカイは、ただでさえスタミナ不足が弱点のはず……。\n最後までもつはずがないわ。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ai cũng nghĩ thế đúng không nào?",
+      "jpname": "セイウンスカイ",
+      "jptext": "って、思うじゃん？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thể lực để thực hiện cú \"bạt mạng\" ban đầu đó, mình đã lén lút âm thầm rèn giũa đủ cả rồi nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "最初の『暴走』をやりきるだけの体力は、\nこっそりひっそりつけてきたんだよねー。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Còn việc sau đó... chẳng biết từ lúc nào, mình đã trở về đúng với nhịp độ dẫn đầu thường ngày rồi đây này.",
+      "jpname": "セイウンスカイ",
+      "jptext": "で、あとは……いつの間にか、私の普段どおりの\n逃げペースになっているんですよ、これが。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Các đấu thủ đã ôm khúc cua thứ 3! Seiun Sky vẫn đang tiếp tục giữ vững vị trí dẫn đầu!!",
+      "jpname": "実況",
+      "jptext": "第3コーナーを回りました！\nセイウンスカイ、いまだ逃げ続けていますっ！"
+    },
+    {
+      "name": "Các Trainer",
+      "text": "Hảảảảả!?",
+      "jpname": "トレーナーたち",
+      "jptext": "えええええ！？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(Ha ha, nghe thấy tiếng xôn xao sướng cả tai ghê nha!)",
+      "jpname": "セイウンスカイ",
+      "jptext": "（ははっ、いーいどよめきが聞こえるねー！）"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(Cơ thể bẩm sinh là tất cả? Tài năng là tất cả? Dòng máu huyết thống là tất cả? Không đâu, thế thì chán ngắt lắm.)",
+      "jpname": "セイウンスカイ",
+      "jptext": "（生まれ持った体が全て？　才能が全て？　血統が全て？\nいやいや、そんなのつまんないよ）"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(Chính vì không phải như vậy nên cuộc đua mới thú vị chứ!)",
+      "jpname": "セイウンスカイ",
+      "jptext": "（そうじゃないから、レースは面白いんだ！）"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hộc, hộc, hộc, hộc... Sập bẫy hết cả rồi nhé!! A a a a a a a a!!",
+      "jpname": "セイウンスカイ",
+      "jptext": "はぁっ、はぁっ、はぁっ、はぁっ……ハマったね！！\nはぁああああああっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "――Seiun Sky, vào đoạn đường thẳng mà tốc độ không hề suy giảm một chút nào! Không thể tin nổi, một chiến thắng dẫn đầu từ đầu đến cuối! Thật là một cơn địa chấn! Cách biệt tới 5 thân ngựa và giờ đây, em ấy đã cáááán đíííích!!",
+      "jpname": "実況",
+      "jptext": "――セイウンスカイ、直線でも全く落ちない！　まさかまさかの\n逃げ切り！　これは大波乱っ！　5バ身差で今、ゴーールインッ！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oa, Trainer-san có nghe thấy không? Tiếng xôn xao, à không, tiếng ngỡ ngàng kinh ngạc! Tiếng hò reo, à không, tiếng la ó! Cảm giác đã quá đi mất♪",
+      "jpname": "セイウンスカイ",
+      "jptext": "いやぁー、トレーナーさん聞きました？　ざわめきっていうか\nどよめき！　歓声っていうか悲鳴！　いい気分だったねー♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Quả nhiên một trận đua là phải thế này chứ. Trainer-san cũng hiểu chuyện ghê đó nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "……やっぱりレースは、こうでなきゃ。\nトレーナーさん、なかなかわかってんじゃん。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nào, cái bẫy tiếp theo chúng ta làm gì đây ta? Cứ thế này mà ẵm trọn chiến thắng, nếu đi cùng Trainer-san thì chẳng phải giấc mơ xa――",
+      "jpname": "セイウンスカイ",
+      "jptext": "さーて、次の仕掛けはどうしよっか？　このまましれっと\n勝っていっちゃうってのも、トレーナーさんとなら夢じゃ――"
+    },
+    {
+      "name": "King Halo",
+      "text": "K h ô n g... đ ờ i... n à o... t ô i... đ ể... c ô... t o ạ i... n g u y ệ n... đ â u ! !",
+      "jpname": "キングヘイロー",
+      "jptext": "そぉおおおーーーーはさせないわよっ！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ối chà!? King với bé Spe... Ơ, hai người cũng đến xem hả?",
+      "jpname": "セイウンスカイ",
+      "jptext": "おぉう！？　キングにスペちゃん……。\nえ、来てたんだ？"
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ có, bọn mình đã theo dõi không rời mắt một giây nào luôn! Chúc mừng cậu về nhất nhé, Sei-chan!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "うんっ、バッチリ見てたよ！\n1着おめでとう、セイちゃんっ！"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quả nhiên Sei-chan cừ khôi thật đấy. ...Nhưng mà lần sau, mình sẽ không chịu thua đâu!!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "やっぱりセイちゃんはすごいね。\n……でも私、負けないから！！"
+    },
+    {
+      "name": "King Halo",
+      "text": "Đúng thế! Lần tới đối thủ của cô sẽ là một người đẳng cấp hạng nhất như tôi đây! Tôi sẽ ban cho cô cái quyền được thách đấu với King, và rồi nếm mùi thất bại thảm hại!!",
+      "jpname": "キングヘイロー",
+      "jptext": "そうよっ！　次は一流の私が相手なんだから！\nキングに挑み、そして惨敗する権利をあなたにあげるわっ！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hừm... Phen này xem ra gay go toát mồ hôi hột rồi đây nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "うーん……。\nこりゃ、なかなか骨が折れそうですねぇ。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cơ mà―― con cá càng lớn thì càng bõ công câu.",
+      "jpname": "セイウンスカイ",
+      "jptext": "ま、でも――\n大物であればあるほど、釣りがいがある。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Đúng không nào, Trainer-san?",
+      "jpname": "セイウンスカイ",
+      "jptext": "だよね、トレーナーさん？"
+    },
+    {
+      "name": "",
+      "text": "...Cứ như thế, những chuỗi ngày cùng Seiun Sky câu lên những con cá lớn giữa đại dương bao la của giới Mã Nương đã chính thức bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "……こうして、セイウンスカイと共にウマ娘界という大海にて、\n大物を釣り上げる日々が始まったのだった。"
+    }
+  ]
+}

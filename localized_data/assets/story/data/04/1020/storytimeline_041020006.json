@@ -1,0 +1,332 @@
+{
+  "title": "Mèo con đồ đôi",
+  "jptitle": "おそろいネコちゃん",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ sau buổi huấn luyện, Seiun Sky đang chăm chú tra cứu điều gì đó trên điện thoại.",
+      "jpname": "モノローグ",
+      "jptext": "ある日のトレーニング後、\nセイウンスカイがスマホでなにかを調べていた。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Haizzz... Biểu cảm lười biếng ngộ nghĩnh, lại còn cái đuôi cong tớn ngây thơ vô số tội kia nữa chứ...",
+      "jpname": "セイウンスカイ",
+      "jptext": "はぁ～……。\nゆるーい表情に、くるんと曲がった無邪気なしっぽ……。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Độ hoàn thiện tinh xảo thế này mà kích thước vừa vặn trong lòng bàn tay, đích thực là tuyệt phẩm chữa lành tâm hồn rồi...",
+      "jpname": "セイウンスカイ",
+      "jptext": "この完成度で手のひらサイズのスケール感とは、\nまさに癒しの逸品ですねぇ……。",
+      "choice_data_list": [
+        "Em đang nói chuyện gì thế?",
+        "Bạn đang nói chuyện gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "なんの話だ？",
+        "なんの話？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A, không có gì, chuyện riêng của em thôi ạ.",
+      "jpname": "セイウンスカイ",
+      "jptext": "あー、いやいや、こっちの話ですー。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quan trọng hơn là Trainer-san ơi, ngày nghỉ tới anh có rảnh chút nào không?",
+      "jpname": "セイウンスカイ",
+      "jptext": "それよりトレーナーさん、\n次のお休みの日って時間あったりします？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Em tính sắm một đôi giày chạy mới, nếu được thì anh đi xem cùng em một chuyến nhé?",
+      "jpname": "セイウンスカイ",
+      "jptext": "シューズを新調しようと思ってるんだけど、\nよかったら下見に付き合ってくれないかな？",
+      "choice_data_list": [
+        "Được chứ",
+        "Được thôi"
+      ],
+      "jpchoice_data_list": [
+        "いいぞ",
+        "いいよ"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tuyệt vời, thế thì cuối tuần ta thẳng tiến tới trung tâm thương mại thôi nào!",
+      "jpname": "セイウンスカイ",
+      "jptext": "よーし、それじゃあ週末は\nショッピングモールへれっつごー。"
+    },
+    {
+      "name": "",
+      "text": "Vào ngày nghỉ, tôi cùng Seiun Sky đến trung tâm thương mại có cửa hàng bán đồ thể thao.",
+      "jpname": "モノローグ",
+      "jptext": "休日、セイウンスカイと共に、\nスポーツ用品店があるショッピングモールへとやって来た。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Để xem nào, cửa hàng dụng cụ thể thao nhớ không lầm là ở hướng――",
+      "jpname": "セイウンスカイ",
+      "jptext": "えーっと、スポーツ用品店は確かこっちに――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "……Ủa kìa?",
+      "jpname": "セイウンスカイ",
+      "jptext": "……おっ？",
+      "choice_data_list": [
+        "Có chuyện gì sao em?",
+        "Có chuyện gì sao bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうかしたのか？",
+        "どうかした？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Dạ không, tự dưng em thấy một món đồ khá là cuốn hút ấy mà.",
+      "jpname": "セイウンスカイ",
+      "jptext": "いや、ちょっと気になるものを見つけちゃいまして。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chiếc cốc sứ ở tiệm tạp hóa đằng kia, trông siêu cấp đáng yêu luôn đúng không anh?",
+      "jpname": "セイウンスカイ",
+      "jptext": "あの雑貨屋さんのマグカップ、\nとってもキュートじゃありません？"
+    },
+    {
+      "name": "",
+      "text": "Nhìn theo hướng tay Seiun Sky chỉ, ở đó có một chiếc cốc sứ in hình chú mèo với nét vẽ vô cùng ngộ nghĩnh.",
+      "jpname": "モノローグ",
+      "jptext": "セイウンスカイが指差した方を見ると、\nゆるいタッチのネコが描かれたマグカップがあった。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chao ôi... Họa tiết bé mèo với khuôn mặt thảnh thơi lười biếng trông như sắp lăn ra ngủ tới nơi.",
+      "jpname": "セイウンスカイ",
+      "jptext": "はぁ～……。\n今にも寝ちゃいそうな、ゆる～い顔のネコちゃん柄。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nếu trước mỗi buổi tập mà được nhâm nhi tách trà bằng chiếc cốc xịn xò thế kia, khéo động lực của em tăng vùn vụt luôn ấy chứ.",
+      "jpname": "セイウンスカイ",
+      "jptext": "あんな素敵なカップでトレーニング前にお茶できたら、\n私のやる気も上がっちゃう気がするなぁ。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tính sao giờ ta... Hay là mua luôn nhỉ―― Á kìa!!",
+      "jpname": "セイウンスカイ",
+      "jptext": "どうしようかな～。\n買っちゃおうかな～――あっ！！",
+      "choice_data_list": [
+        "Lần này lại sao thế em?",
+        "Lần này lại sao thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "今度はどうしたんだ？",
+        "今度はどうしたの？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Trainer-san, nhìn đằng kia kìa! Đằng kia kìa!",
+      "jpname": "セイウンスカイ",
+      "jptext": "トレーナーさん、あれ見て！　あれ！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bảng ghi là: \"Nhân dịp đặc biệt, quý khách mua combo 2 chiếc cốc sứ sẽ được tặng kèm một móc khóa hình chú mèo này\" kìa!",
+      "jpname": "セイウンスカイ",
+      "jptext": "『ただ今、マグカップを2個セットで買っていただくと、\nこちらのネコ型キーホルダーをサービスします』だって！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chỉ cần mua cốc sứ là rinh được chiếc móc khóa bé mèo siêu cưng xỉu kia sao!",
+      "jpname": "セイウンスカイ",
+      "jptext": "マグカップを買うだけで、\nあんなにかわいいネコちゃんキーホルダーが手に入るとは！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hời quá trời hời luôn! Nhất định phải rước về mới được!",
+      "jpname": "セイウンスカイ",
+      "jptext": "すっごくお得！　これは是非とも欲しいところ！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nhưng mà mua tận 2 cái cốc sứ thì em đâu dùng hết. Hừm......",
+      "jpname": "セイウンスカイ",
+      "jptext": "でもマグカップ2個は使わないしなー。\nう～～ん……。"
+    },
+    {
+      "name": "",
+      "text": "Sau một hồi vờ làm ra vẻ đắn đo suy nghĩ, Seiun Sky liền――",
+      "jpname": "モノローグ",
+      "jptext": "セイウンスカイは、しばらく悩む素振りを見せた後――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...A, đúng rồi nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "……あ、そうそう。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nhắc mới nhớ Trainer-san ơi, cho em hỏi một câu hơi đường đột chút xíu――",
+      "jpname": "セイウンスカイ",
+      "jptext": "そういえばトレーナーさん、\nつかぬことをお聞きしますが――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Trainer-san này... anh đã có cốc sứ chưa nhỉ?",
+      "jpname": "セイウンスカイ",
+      "jptext": "トレーナーさんって……マグカップ持ってましたっけ？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Theo như trí nhớ của em thì hình như anh chưa có cái nào thì phải.",
+      "jpname": "セイウンスカイ",
+      "jptext": "私の記憶では確か、\n持ってなかったような気がするんですけど。",
+      "choice_data_list": [
+        "……Chẳng lẽ đây mới là mục đích của em?",
+        "……Chẳng lẽ đây mới là mục đích của bạn?"
+      ],
+      "jpchoice_data_list": [
+        "……もしかして、これが目的か？",
+        "……もしかして、これが目的？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Úi chà chà, anh nói gì em đâu có hiểu.",
+      "jpname": "セイウンスカイ",
+      "jptext": "おおっと、なんのことやら。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Em chỉ tình cờ đi ngang qua đây, rồi tình cờ muốn có chiếc cốc sứ bé mèo này thôi mà?",
+      "jpname": "セイウンスカイ",
+      "jptext": "私は偶然ここを通りかかって、\n偶然ネコちゃんマグカップが欲しくなっただけだよ？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Đã là cốc sứ thì Trainer-san cũng dùng được mà, nếu anh chưa có thì nhân cơ hội này sắm một cái chẳng phải tiện cả đôi đường sao?",
+      "jpname": "セイウンスカイ",
+      "jptext": "マグカップならトレーナーさんも使うだろうし、\n持ってないならこの機会にいいんじゃない？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Này nhé, anh thử tưởng tượng xem. Trước mỗi buổi tập, anh và cô bé Mã Nương mình đảm nhận cùng dùng cốc đôi uống chung một loại trà...",
+      "jpname": "セイウンスカイ",
+      "jptext": "ほら、想像してみてよ。トレーニング前に\n担当ウマ娘と同じマグカップで同じお茶を飲む時間……。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cảm giác sợi dây gắn kết bền chặt biết bao nhiêu, chẳng phải quá sức lãng mạn và tuyệt vời sao?",
+      "jpname": "セイウンスカイ",
+      "jptext": "深い絆で結ばれてるって感じがして、\nすっごく素敵じゃないかな？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chí ít thì em chắc chắn trăm phần trăm là tinh thần mình sẽ phấn chấn lên bội phần luôn đó nha... Liếc liếc.",
+      "jpname": "セイウンスカイ",
+      "jptext": "少なくとも私は絶対テンション上がっちゃうんだけどなー？\n……ちら、ちらっ。",
+      "choice_data_list": [
+        "Thật là hết cách với em mà"
+      ],
+      "jpchoice_data_list": [
+        "しょうがないなあ"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ủa, anh đồng ý rồi hả?",
+      "jpname": "セイウンスカイ",
+      "jptext": "おっ、いいの？",
+      "choice_data_list": [
+        "Thế này là động lực của em cũng tăng lên rồi chứ gì?",
+        "Thế này là động lực của bạn cũng tăng lên rồi đúng không?"
+      ],
+      "jpchoice_data_list": [
+        "これでモチベーションも上がるよな？",
+        "これでモチベーションも上がるよね？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A ha ha, quả nhiên là Trainer-san của em!",
+      "jpname": "セイウンスカイ",
+      "jptext": "あははっ、さすがはトレーナーさん！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Không bao giờ lơ là việc quản lý tinh thần cho Mã Nương đảm nhận, đúng là một tay quản lý cừ khôi nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "担当ウマ娘のモチベーション管理を怠らないとは、\nなかなかやり手だねー。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vậy thì, mỗi người chúng ta ra tính tiền một cái――",
+      "jpname": "セイウンスカイ",
+      "jptext": "それじゃ、1個ずつお会計を――",
+      "choice_data_list": [
+        "Để anh mua luôn cả hai cái cho"
+      ],
+      "jpchoice_data_list": [
+        "2個とも一緒に買ってくるよ"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Hở?",
+      "jpname": "セイウンスカイ",
+      "jptext": "……ほぇ？"
+    },
+    {
+      "name": "",
+      "text": "Để Seiun Sky đứng đợi tại chỗ, tôi bước tới quầy thanh toán tiền cho cả hai chiếc cốc.",
+      "jpname": "モノローグ",
+      "jptext": "セイウンスカイをその場で待たせ、\n会計を済ませることにした。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chà chà, Trainer-san ra dáng người lớn thật đấy nha! Ngầu quá đi à!",
+      "jpname": "セイウンスカイ",
+      "jptext": "いやぁ～、トレーナーさんってば大人だねー！\nかっこいー！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Không ngờ anh mua luôn cả phần của em nữa chứ!",
+      "jpname": "セイウンスカイ",
+      "jptext": "まさか私の分まで買ってくれちゃうとは！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thế là độ hảo cảm của bé Sei lại được cộng thêm 1 điểm rồi đó nhé. Ting ting ting♪",
+      "jpname": "セイウンスカイ",
+      "jptext": "セイちゃんの好感度がこれでまた1上がっちゃいましたよ。\nぴろりろり～ん♪",
+      "choice_data_list": [
+        "Khéo mồm khéo miệng thật đấy……",
+        "Khéo mồm khéo miệng ghê cơ……"
+      ],
+      "jpchoice_data_list": [
+        "調子がいいなぁ……",
+        "調子がいいんだから……"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hí hí, miệng thì cằn nhằn thế mà tay vẫn rút ví mua cho em đấy thôi. Trainer-san cũng chẳng thành thật với lòng mình gì cả, đồ ngốc này.",
+      "jpname": "セイウンスカイ",
+      "jptext": "ふふーん、そう言いながら買ってくれちゃうんだから。\nトレーナーさんも素直じゃないな、このこの～。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nào, về đến nơi là phải dùng ngay chiếc cốc sứ đôi này để thưởng trà mới được nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "さーて、帰ったら早速おそろいのマグカップで\nお茶でも飲むとしますか。"
+    }
+  ]
+}

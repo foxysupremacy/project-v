@@ -1,0 +1,436 @@
+{
+  "title": "Tựa áng mây lơ lửng giữa trời xanh",
+  "jptitle": "青空に漂う雲のような",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã vài ngày trôi qua kể từ khi tôi đến Học viện Tracen với tư cách là một Trainer Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘トレーナーとしてトレセン学園に\nやって来てから、数日が経過していた。"
+    },
+    {
+      "name": "",
+      "text": "Vừa được phân phòng Trainer cách đây mấy hôm, tôi đang ngồi xem qua tài liệu thì――",
+      "jpname": "モノローグ",
+      "jptext": "トレーナー室も先日与えられたので、\nそこで資料に目を通していると――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Phù... quả nhiên ở đây vẫn là dễ chịu nhất nha. Chẳng có bóng ai, vừa yên tĩnh, lại còn có cả ghế sofa êm ru nữa chứ!",
+      "jpname": "セイウンスカイ",
+      "jptext": "ふへ～、やっぱりここは落ち着くな～。\nだーれもいないし、静かだし。ふっかふかのソファまであるし！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thế thì, làm phiền chút nhé――............",
+      "jpname": "セイウンスカイ",
+      "jptext": "ではでは、失礼して――…………。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ủa, ai vậy!? Sao lại ở đây!?",
+      "jpname": "セイウンスカイ",
+      "jptext": "って、誰！？　なんでここに！？",
+      "choice_data_list": [
+        "Sao em lại ở đây chứ!?",
+        "Sao bạn lại ở đây chứ!?"
+      ],
+      "jpchoice_data_list": [
+        "君こそなんでここに！？",
+        "貴方こそなんでここに！？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thì phòng Trainer bỏ trống này vốn là góc ngủ trưa quý báu của bé Sei mà... ủa?",
+      "jpname": "セイウンスカイ",
+      "jptext": "いや、この空きトレーナー室は\nセイちゃんの大事なお昼寝スポットだし～……んん？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chiếc huy hiệu đó, chẳng lẽ là... Trainer mới sao? Rồi được bảo là \"cứ dùng phòng này đi\" đúng không?",
+      "jpname": "セイウンスカイ",
+      "jptext": "そのバッジ、もしかして……新人トレーナーさん？\nで、『ここ使っていいよー』って言われた感じ？",
+      "choice_data_list": [
+        "Đúng là vậy, nhưng mà……"
+      ],
+      "jpchoice_data_list": [
+        "そうだけど……"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vâng vâng, hiểu rồi nha. Hóa ra là vậy, rõ rồi ạ.",
+      "jpname": "セイウンスカイ",
+      "jptext": "はいはい、なるほどねー。\nそういう感じか、りょーかい。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vậy thì trước mắt em mượn tạm cái sofa đằng kia nhé? Tiết học hôm nay toàn mấy môn nặng đô, em buồn ngủ rũ cả mắt rồi.",
+      "jpname": "セイウンスカイ",
+      "jptext": "じゃーとりあえず、そこのソファ借りるね？\n今日の授業はキツめのばっかだったからさー、私もう眠くて眠くて。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thế nên là, chúc ngủ ngon nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "ということで、おやすみなさーい。"
+    },
+    {
+      "name": "",
+      "text": "Chẳng đợi tôi kịp phản ứng, cô bé Mã Nương ấy――Seiun Sky đã nằm phịch xuống ghế sofa và bắt đầu thở đều đều say giấc.",
+      "jpname": "モノローグ",
+      "jptext": "こちらの反応を待たず、ウマ娘の少女――セイウンスカイは、\nソファに横になってあっさりと寝息を立て始めてしまった。",
+      "choice_data_list": [
+        "(Em ấy mệt đến thế sao……?)",
+        "(Bạn ấy mệt đến thế sao……?)"
+      ],
+      "jpchoice_data_list": [
+        "（よっぽど疲れていたのか……？）",
+        "（よっぽど疲れていたのかな……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù sao để bị cảm lạnh thì không tốt, nên tôi bèn lấy chiếc chăn có sẵn trong phòng đắp lên cho em.",
+      "jpname": "モノローグ",
+      "jptext": "とりあえず風邪を引くといけないので、\nトレーナー室にあった毛布を掛けてあげた。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oáp... ngủ đã đời thật đấy...",
+      "jpname": "セイウンスカイ",
+      "jptext": "ふわぁ、よく寝た～……。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ủa, mà ai vậy!?",
+      "jpname": "セイウンスカイ",
+      "jptext": "って、誰！？",
+      "choice_data_list": [
+        "Đã bảo anh là Trainer mà!"
+      ],
+      "jpchoice_data_list": [
+        "トレーナーだって！"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A ha ha, em đùa chút thôi. Cảm ơn anh vì chiếc chăn nhé.",
+      "jpname": "セイウンスカイ",
+      "jptext": "あはは、冗談ですよー。\n毛布もありがとうね。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cơ mà này... Trainer-san? Sao anh không đánh thức em dậy vậy?",
+      "jpname": "セイウンスカイ",
+      "jptext": "にしてもさー……トレーナーさん？\nどうして私を起こさなかったんです？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Biết rõ nơi đây là phòng trống để tiện bề trốn học. Đã thế còn ngang nhiên lăn ra ngủ ngay trước mặt anh nữa chứ.",
+      "jpname": "セイウンスカイ",
+      "jptext": "ここが空き部屋だったのをいいことに、明らかにサボりに\n使っていた感じの発言。しかも、目の前で堂々と寝始めちゃう。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Dù em tự nói ra thì hơi kỳ, nhưng bị anh quát \"Đừng có đùa giỡn nữa\" rồi tống cổ ra ngoài cũng đâu có gì lạ nhỉ?",
+      "jpname": "セイウンスカイ",
+      "jptext": "私が自分で言うのもなんだけど、『ふざけんなー』って\n叩き出されても、まーおかしくないと思うよ？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Thế mà sao anh còn đắp cả chăn để bảo vệ giấc ngủ ngon lành cho bé Sei thế ta?",
+      "jpname": "セイウンスカイ",
+      "jptext": "なのにどうして、毛布までかけて\nセイちゃんの安眠を守ってくれたのかなー？",
+      "choice_data_list": [
+        "Anh tưởng em mệt nên mới……"
+      ],
+      "jpchoice_data_list": [
+        "疲れているのかと思って……"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hô hô... ra là vậy nha.",
+      "jpname": "セイウンスカイ",
+      "jptext": "ほうほう……なーるほどね。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ra là thế, ra là thế! Thôi thì hôm nay cảm ơn anh nhiều nhé♪",
+      "jpname": "セイウンスカイ",
+      "jptext": "そっかそっか！\nま、今日はありがとーございました♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ơn này nhất định sau này... khi nào nhớ ra em sẽ đến trả nhé.",
+      "jpname": "セイウンスカイ",
+      "jptext": "この恩はいつか必ず……\n思い出した時に返しに来ますね。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Giờ thì tạm biệt nha. ...Hẹn gặp \"lại\" nhé♪",
+      "jpname": "セイウンスカイ",
+      "jptext": "ではでは、さよーなら。\n……『また』、会いましょ～♪"
+    },
+    {
+      "name": "",
+      "text": "Nói rồi, Seiun Sky liền rời khỏi căn phòng.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、セイウンスカイは\n部屋を去って行ったのだった。"
+    },
+    {
+      "name": "",
+      "text": "Vài ngày sau chuyện hôm ấy――",
+      "jpname": "モノローグ",
+      "jptext": "そんなことがあった数日後――"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A, đây rồi đây rồi! Ơi, Trainer mới hôm nọ ơi! To chuyện rồi, nguy to rồi anh ơi!",
+      "jpname": "セイウンスカイ",
+      "jptext": "あーいたいた！　おーい、この前の新人トレーナーさんっ！\n大変大変、大変なんだよ～～～！",
+      "choice_data_list": [
+        "Em cuống cuồng thế có chuyện gì vậy?",
+        "Bạn cuống cuồng thế có chuyện gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "そんなに慌ててどうした？",
+        "そんなに慌ててどうしたの？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nói chung là chuyện gấp lắm, tạm gác chi tiết qua một bên mà mau trả lời em đi!!",
+      "jpname": "セイウンスカイ",
+      "jptext": "ちょっともうとにかく大変だから、\n細かいことは置いといてすぐ答えて！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cái cơ quan ở hai bên lồng ngực dùng để thở có phải là phổi không nhỉ!?",
+      "jpname": "セイウンスカイ",
+      "jptext": "呼吸をするために使う、\n胸の両側にある器官ってなんだっけ！？",
+      "choice_data_list": [
+        "……Phải không?"
+      ],
+      "jpchoice_data_list": [
+        "……肺？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Giọng bé quá đi mất! Không phải câu hỏi ngập ngừng, phải dõng dạc như câu cảm thán ấy!!",
+      "jpname": "セイウンスカイ",
+      "jptext": "声がちいさぁーーーい！　クエスチョンじゃなくって、\nもっとエクスクラメーションな感じで！！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nào, nhắc lại lần nữa!",
+      "jpname": "セイウンスカイ",
+      "jptext": "ほい、もう1度！",
+      "choice_data_list": [
+        "Phải!"
+      ],
+      "jpchoice_data_list": [
+        "はい！"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tốt lắm tốt lắm! Thêm một lần nữa xem nào!",
+      "jpname": "セイウンスカイ",
+      "jptext": "いいねいいね！　もういっちょ、はい！",
+      "choice_data_list": [
+        "Phải!!"
+      ],
+      "jpchoice_data_list": [
+        "はい！！"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "――Thế đấy cô giáo ơi, người này chính là Trainer đảm nhận mà em vừa kể ạ!",
+      "jpname": "セイウンスカイ",
+      "jptext": "――ということで先生、この人がさっきお話した\n担当トレーナーさんです！",
+      "choice_data_list": [
+        "Phải!!"
+      ],
+      "jpchoice_data_list": [
+        "はい！！"
+      ]
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Tự dưng em chạy vụt đi làm cô cứ tưởng có chuyện gì... Hóa ra là vậy, cô hiểu rồi.",
+      "jpname": "先生A",
+      "jptext": "急に駆け出すからなにかと思ったら……\nそうなんですね、わかりました。"
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Vậy thì Trainer-san. Trò Sky này... xin nhờ cậy cậu... vạn sự nhờ cậy cậu đấy nhé!!",
+      "jpname": "先生A",
+      "jptext": "では、トレーナーさん。スカイさんのこと、くれぐれも……\nくれぐれも！　よろしくお願いしますねっ！！",
+      "choice_data_list": [
+        "……Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……はい？"
+      ]
+    },
+    {
+      "name": "Giáo viên A",
+      "text": "Vậy thì, Seiun Sky-san. Chúc mừng em đã ký hợp đồng với Trainer chuyên trách nhé.",
+      "jpname": "先生A",
+      "jptext": "それじゃあ、セイウンスカイさん。\n専属トレーナー契約、おめでとう。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A ha ha, em cảm ơn cô nhiều ạ. Vậy hẹn gặp lại cô sau nhé.",
+      "jpname": "セイウンスカイ",
+      "jptext": "あはは、どうもどうもー。\nそれじゃ先生、また後で～。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Và thế là xong!",
+      "jpname": "セイウンスカイ",
+      "jptext": "と、いうことで！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Em và anh đã chính thức trở thành cặp đôi Mã Nương cùng Trainer đảm nhận rồi đó. Nào vỗ tay đi! Bốp bốp bốp.",
+      "jpname": "セイウンスカイ",
+      "jptext": "私とあなたはめでたく、ウマ娘とその担当トレーナーになりました。\nはい拍手！　ぱちぱちぱちー。",
+      "choice_data_list": [
+        "Mình bị gài bẫy rồi……!?"
+      ],
+      "jpchoice_data_list": [
+        "はめられた……！？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ôi chao, nghe khó nghe ghê chưa kìa. Em chỉ hơi không từ thủ đoạn một tẹo thôi mà?",
+      "jpname": "セイウンスカイ",
+      "jptext": "おやおや、人聞きの悪い。\nちょっぴり手段を選ばなかっただけですよ？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quan trọng hơn là, em muốn anh thấu hiểu tấm lòng tha thiết \"Dù thế nào cũng muốn chung đội với anh!\" của em cơ.",
+      "jpname": "セイウンスカイ",
+      "jptext": "それより、『ど～してもあなたと組みたい！』\nと思った私の熱い気持ち、汲み取ってほしいなーなんて。",
+      "choice_data_list": [
+        "Sao em phải làm đến mức đó để chung đội với anh……?",
+        "Sao bạn phải làm đến mức đó để chung đội với tôi……?"
+      ],
+      "jpchoice_data_list": [
+        "なんでそこまでして俺と……？",
+        "なんでそこまでして私と……？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ơ, anh muốn em nói thẳng ra luôn sao?",
+      "jpname": "セイウンスカイ",
+      "jptext": "え～、言わせちゃいます？"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Yêu từ cái nhìn đầu tiên\" đấy ạ! A ha☆",
+      "jpname": "セイウンスカイ",
+      "jptext": "『ひと目惚れ』、ですよ！　キャハッ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Đấy là em đùa thế thôi. Nhưng chuyện hôm nọ ở phòng Trainer làm em thấy có linh cảm chuẩn xác là thật đấy nhé.",
+      "jpname": "セイウンスカイ",
+      "jptext": "……と、ゆーのはまあ冗談ですけど。でもこの間の\nトレーナー室での一件で、ビビーッときたのはホントです。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Với lại, em nghĩ chuyện này đối với một lính mới như anh cũng chẳng thiệt thòi gì đâu!",
+      "jpname": "セイウンスカイ",
+      "jptext": "それにー、これは新人のあなたにとっても\n悪い話じゃないと思うんですよ！",
+      "choice_data_list": [
+        "Thế sao em……?",
+        "Thế sao bạn……?"
+      ],
+      "jpchoice_data_list": [
+        "そうなのか……？",
+        "そうなの……？"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Đúng vậy ạ. Dù sao thì... hướng dẫn em nhàn tênh luôn nha!",
+      "jpname": "セイウンスカイ",
+      "jptext": "はいっ。なにしろ……\n私への指導、ラクですよ～！"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Em đâu có đòi hỏi Trainer-san mấy thứ phiền toái như \"chỉ đạo nhiệt huyết!\" hay \"giáo án đặc biệt!\" gì đâu nè.",
+      "jpname": "セイウンスカイ",
+      "jptext": "私、トレーナーさんに『熱血指導！』とか『特別メニュー！』\nとかのめんどーなこと、ぜんっぜん求めていませんから。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Chuyện gì cũng cứ túc tắc tà tà thôi. Đó chính là triết lý sống quý báu của bé Sei để đi qua cuộc đời dài rộng này đấy.",
+      "jpname": "セイウンスカイ",
+      "jptext": "何事も適度に、テキトーに。それが長い人生を過ごすにあたっての、\nセイちゃんが大事にしたい哲学なわけです。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vì thế cho nên... anh hãy thả lỏng vai ra nhé, cứ thong thả tà tà mà cùng cố gắng thôi nào. Dô!",
+      "jpname": "セイウンスカイ",
+      "jptext": "というわけで……肩の力を抜いて～、\n適切にゆるるんとがんばっていきましょー。おー！",
+      "choice_data_list": [
+        "Ờ, dô……?"
+      ],
+      "jpchoice_data_list": [
+        "お、おー……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Tôi đã hoàn toàn bị cuốn theo và ký hợp đồng mất rồi!",
+      "jpname": "モノローグ",
+      "jptext": "……完全に流されて契約してしまった！"
+    },
+    {
+      "name": "",
+      "text": "Đã thế, ngay ngày huấn luyện đầu tiên với Seiun Sky――",
+      "jpname": "モノローグ",
+      "jptext": "しかも、セイウンスカイとの\nトレーニング初日――"
+    },
+    {
+      "name": "",
+      "text": "(Rung, rung)",
+      "jpname": "モノローグ",
+      "jptext": "（ヴー、ヴー）"
+    },
+    {
+      "name": "",
+      "text": "Nhận thấy điện thoại có tin nhắn đến, tôi mở ra xem nội dung thì...",
+      "jpname": "モノローグ",
+      "jptext": "携帯に着信が入ったことに気づき、\n内容を確認すると……。"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Trainer-san, tin sốt dẻo đây ạ! Ngoài bờ sông bỗng xuất hiện một đàn cá siêu to khổng lồ! Không chớp lấy thời cơ này thì còn mặt mũi nào là cao thủ câu cá nữa!\"",
+      "jpname": "セイウンスカイ",
+      "jptext": "『トレーナーさん、ビッグニュースです！　なんと河川敷に\nお魚の大群現る！　この波に乗らないのは釣り名人の恥！』"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Tái bút: Buổi huấn luyện hôm nay em xin nghỉ nha. Ký tên: Seiun Sky☆\"",
+      "jpname": "セイウンスカイ",
+      "jptext": "『追伸：トレーニングはお休みします。\nセイウンスカイより☆』"
+    },
+    {
+      "name": "",
+      "text": "Ngay từ ngày đầu tiên, em ấy đã chẳng thèm ló mặt đến buổi tập...",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、初日からトレーニングに\n顔を出さなかった……。"
+    }
+  ]
+}
