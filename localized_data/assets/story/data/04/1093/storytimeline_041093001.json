@@ -1,0 +1,450 @@
+{
+  "title": "Lời nguyện cầu vô tội",
+  "jptitle": "いのりは無辜",
+  "text_block_list": [
+    {
+      "name": "???",
+      "text": "Một nửa sinh mệnh của em,",
+      "jpname": "？？？",
+      "jptext": "おれの命の半分は、"
+    },
+    {
+      "name": "???",
+      "text": "được tạo nên từ lời \"cảm ơn\".",
+      "jpname": "？？？",
+      "jptext": "『ありがとう』で、できている。"
+    },
+    {
+      "name": "???",
+      "text": "Xin... xin anh hãy nhận lời giúp em! Liệu anh có thể trở thành Trainer phụ trách của em không ạ......!?",
+      "jpname": "？？？",
+      "jptext": "あのっ……どうか、お願いします！\nおれの担当トレーナーに、なってもらえませんか……！？",
+      "choice_data_list": [
+        "Hả...... hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ……えっ！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đó là chuyện xảy ra chỉ vài ngày sau khi tôi đặt chân đến Học Viện Tracen với tư cách một Trainer tân binh.",
+      "jpname": "モノローグ",
+      "jptext": "それは、新人トレーナーとしてトレセン学園にやってきてから、\nほんの数日後のこと。"
+    },
+    {
+      "name": "",
+      "text": "Tôi bất ngờ nhận được lời khẩn cầu ấy từ cô nàng Mã Nương mà tôi vừa mới đứng nhìn sải bước ban nãy――",
+      "jpname": "モノローグ",
+      "jptext": "つい先ほどまで走りを見ていたウマ娘から、\n突然そう頼みこまれたのだった――"
+    },
+    {
+      "name": "",
+      "text": "Tôi không hề ghé qua đường đua với chủ đích đi tìm kiếm ai đó để chiêu mộ. Dù sao tôi cũng chỉ là một tân binh chân ướt chân ráo. Tôi chỉ định đi dạo tham quan cơ sở vật chất một chút mà thôi.",
+      "jpname": "モノローグ",
+      "jptext": "特段『スカウト相手を探そう』とコースに立ち寄ったわけではない。\nなにしろド新人である。少し施設を見ていく程度の心持ちだった。",
+      "choice_data_list": [
+        "(Thế nhưng...... tôi đã hoàn toàn không thể rời mắt)"
+      ],
+      "jpchoice_data_list": [
+        "（でも……目が、奪われてしまった）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Phù... phù... phù... Hà――!!",
+      "jpname": "？？？",
+      "jptext": "ふっ、ふっ、ふっ……\nハァッ――！！"
+    },
+    {
+      "name": "",
+      "text": "(Vù――......!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ゴォッ――……！！）"
+    },
+    {
+      "name": "",
+      "text": "Dường như chỉ dùng từ \"nhanh\" thì chẳng thể nào lột tả được hết.",
+      "jpname": "モノローグ",
+      "jptext": "『速い』……なんて表現では、到底足りないと思えた。"
+    },
+    {
+      "name": "",
+      "text": "Mặt cỏ tung bay. Gió rít gào từng cơn. Như một vệt sáng chớp lóe, như một ngôi sao băng xé toạc màn đêm tăm tối.",
+      "jpname": "モノローグ",
+      "jptext": "芝が散る。風が唸る。\n閃く一筋の光のように、夜闇を切り裂く流星のように。"
+    },
+    {
+      "name": "",
+      "text": "Hệt như―― một phép màu.",
+      "jpname": "モノローグ",
+      "jptext": "さながら――奇跡のように。"
+    },
+    {
+      "name": "",
+      "text": "Nhanh, thật nhanh, cô ấy chỉ mải miết lao vút đi.",
+      "jpname": "モノローグ",
+      "jptext": "疾く、疾く、ただ疾く、彼女は駆けていた。"
+    },
+    {
+      "name": "",
+      "text": "Chính vì thế, đó thực sự là cảm xúc \"bất giác\". Nỗi rung động mãnh liệt dâng trào trong lồng ngực đã bất giác buột ra khỏi khóe môi tôi.",
+      "jpname": "モノローグ",
+      "jptext": "だから本当に、『思わず』だったのだ。\nこれ以上なく胸を震わせたその感動は、思わず、唇からこぼれた。",
+      "choice_data_list": [
+        "Tuyệt thật... Tốc độ gì thế này......!",
+        "Tuyệt quá... Tốc độ nhanh đến nhường nào......!"
+      ],
+      "jpchoice_data_list": [
+        "すごい……なんて速さだ……！",
+        "すごい……なんて速さ……！"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "! ............ ......Xin lỗi, có phải...... anh vừa nói với em không ạ?",
+      "jpname": "？？？",
+      "jptext": "！　…………。\n……あの、もしかして……おれに、言ってくれましたか？",
+      "choice_data_list": [
+        "A, xin lỗi em vì đã đường đột nhé! Tại bước chạy của em đẹp quá......"
+      ],
+      "jpchoice_data_list": [
+        "あ、急にごめん！あまりにいい走りで……"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Dạ không đâu ạ! Đâu có gì...... Em vui lắm, thực sự rất vui ạ!",
+      "jpname": "？？？",
+      "jptext": "いえ！　そんな……嬉しいです、とっても！"
+    },
+    {
+      "name": "???",
+      "text": "......Hức, ......――Xin anh!!",
+      "jpname": "？？？",
+      "jptext": "……っ、……――あの！！"
+    },
+    {
+      "name": "???",
+      "text": "Xin... xin anh hãy nhận lời giúp em! Liệu anh có thể trở thành Trainer phụ trách của em không ạ......!?",
+      "jpname": "？？？",
+      "jptext": "あのっ……どうか、お願いします！\nおれの担当トレーナーに、なってもらえませんか……！？"
+    },
+    {
+      "name": "",
+      "text": "Và diễn biến câu chuyện là như vậy, nối liền với cảnh tượng lúc ban đầu......",
+      "jpname": "モノローグ",
+      "jptext": "といった経緯で、最初の場面に繋がるわけだが……。"
+    },
+    {
+      "name": "???",
+      "text": "A...... chuyện đó, em xin lỗi vì đường đột thế này. Nhưng em, bằng mọi giá...... bằng mọi giá muốn được ra mắt......!",
+      "jpname": "？？？",
+      "jptext": "あっ……その、すみません、突然こんな。\nでもおれ、どうしても……どうしても、デビューしたくて……！",
+      "choice_data_list": [
+        "D-Dù sao thì trước tiên, em cứ bình tĩnh lại rồi chúng ta cùng nói chuyện nhé!"
+      ],
+      "jpchoice_data_list": [
+        "と、とにかくいったん、落ち着いて話そう！"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Em xin lỗi vì đột nhiên làm mất thời gian của anh...... Nhưng em cảm ơn anh vì đã chịu lắng nghe em.",
+      "jpname": "？？？",
+      "jptext": "ごめんなさい。急に時間、取らせてしまって……\nでも、話、聞いてくれてありがとうございます。",
+      "choice_data_list": [
+        "Không sao đâu em, anh không bận tâm đâu.",
+        "Không sao đâu bạn, tôi không bận tâm đâu."
+      ],
+      "jpchoice_data_list": [
+        "いや、大丈夫だよ。気にしないで",
+        "ううん、大丈夫だよ。気にしないで"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Việc có được chiêu mộ hay không là điều vô cùng hệ trọng đối với các cô gái. Việc em dốc hết tâm can cũng là lẽ đương nhiên. Nhưng chính vì quan trọng, tôi mới muốn em bình tâm lại để trò chuyện.",
+      "jpname": "モノローグ",
+      "jptext": "スカウトを受けられるかは彼女たちにとって大切なこと。懸命に\nなるのも当然だ。でも大切だからこそ、落ち着いて話したかった。"
+    },
+    {
+      "name": "",
+      "text": "Cô gái tự xưng là K.S.Miracle khi nãy đã tha thiết van nài rằng \"bằng mọi giá muốn được ra mắt\"――",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルと名乗った彼女は先ほど、かなり必死な様子で\n『どうしてもデビューしたい』と訴えていたが――",
+      "choice_data_list": [
+        "Lý do em muốn chạy là gì thế......?",
+        "Lý do bạn muốn chạy là gì thế......?"
+      ],
+      "jpchoice_data_list": [
+        "君の走りたい理由って……？",
+        "貴方の走りたい理由って……？"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em muốn trả ơn ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "恩返しが、したいんです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em...... để đến được đây, em đã nhận được sự nâng đỡ và giúp đỡ từ rất, rất nhiều người.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ……ここに来るまでに、たくさん、\n本当にたくさんの人たちに支えて、助けてもらったから。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Những điều em đã nhận được rất nhiều, rất nhiều...... như ước mơ, hy vọng, và cả những phép màu. Em muốn được chạy, được chiến thắng, để đền đáp lại tất cả những điều đó.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "たくさんたくさん、もらったもの……夢とか、希望とか、奇跡とか。\nそういうものを、走って、勝って、返していきたいんです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dù có bất cứ chuyện gì xảy ra, em nhất định sẽ làm được.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "どんなことがあっても、必ず。",
+      "choice_data_list": [
+        "Thì ra là vậy, \"trả ơn\" sao......"
+      ],
+      "jpchoice_data_list": [
+        "なるほど、『恩返し』か……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Quả thực, chỉ riêng việc hướng tới Twinkle Series thôi đã là một điều vô cùng gian nan. Có rất nhiều đứa trẻ phải nhờ đến sự hỗ trợ tận tình của những người xung quanh mới có thể chạm chân tới đây.",
+      "jpname": "モノローグ",
+      "jptext": "確かに、トゥインクル・シリーズを目指すというだけでも大変な\nことだ。周囲の手厚い協力を得てようやく辿り着いた子も多い。"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ lòng biết ơn của em đối với những con người ấy còn sâu sắc và mãnh liệt hơn thế. Một đôi mắt trong trẻo, nhìn thẳng vào đối phương...... một cô bé chân thành khiến ai cũng muốn hết lòng ủng hộ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はそういった人々への感謝の念がより深く、強いのだろう。\n澄んだ色の、真っ直ぐな瞳……応援したくなる、誠実な子だ。"
+    },
+    {
+      "name": "",
+      "text": "Như tôi đã thấy lúc ban nãy, tố chất của em cũng quá đỗi tuyệt vời. Nếu đã như vậy thì――!",
+      "jpname": "モノローグ",
+      "jptext": "先ほど見た通り、素質も充分。\nであるならば――！",
+      "choice_data_list": [
+        "......Thật ra anh chỉ là một tân binh vừa mới chân ướt chân ráo tới đây thôi.",
+        "......Thật ra tôi chỉ là một tân binh vừa mới chân ướt chân ráo tới đây thôi."
+      ],
+      "jpchoice_data_list": [
+        "……実は俺、まだ来たばかりのド新人なんだ",
+        "……実は私、まだ来たばかりのド新人なんだ"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "! ......Thì ra là vậy sao ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！　……そうだったんですか。",
+      "choice_data_list": [
+        "Ừ. Nhưng nếu em không chê thì......!",
+        "Ừ. Nhưng nếu bạn không chê thì......!"
+      ],
+      "jpchoice_data_list": [
+        "ああ。でももし、君がいいなら……！",
+        "うん。でももし、貴方がいいなら……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu em muốn cùng tôi cố gắng. ......Tôi liền ngỏ lời: \"Anh rất muốn được ký hợp đồng với em\".",
+      "jpname": "モノローグ",
+      "jptext": "もし、自分と一緒に頑張りたいと思ってくれるのなら。\n……『ぜひ契約したい』と、告げた。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Hức! A...... vâng, vâng ạ, nhất định rồi ạ!! Em cảm ơn anh, Trainer-san......!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……っ！　ぁ……はい、はいっ、ぜひ！！\nありがとうございます、トレーナーさん……！！"
+    },
+    {
+      "name": "",
+      "text": "Thế là câu chuyện đã được thống nhất, nhưng vì tôi không mang sẵn hợp đồng bên người...... nên hai chúng tôi hẹn ngày mai em sẽ ghé qua phòng Trainer một lần nữa.",
+      "jpname": "モノローグ",
+      "jptext": "と、話はまとまったものの、契約書を持ち歩いていなかったので……\n明日、改めてトレーナー室を訪れてもらうということになった。",
+      "choice_data_list": [
+        "(Được rồi! Phải nỗ lực hết mình mới được......!)",
+        "(Được rồi! Phải nỗ lực hết mình mới được......!)"
+      ],
+      "jpchoice_data_list": [
+        "（よし！頑張らないとな……！）",
+        "（よし！頑張らないと……！）"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ôi chao! Phù phù phù, trông cậu có vẻ tràn đầy sức sống quá nhỉ♪ Thấy cậu phấn chấn thế này, tốt quá rồi!",
+      "jpname": "駿川たづな",
+      "jptext": "まあ！　ふふふっ、なんだか溌剌としたご様子ですね♪\n張り切っておられるようで、なによりです！"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Có chuyện gì vui à? Đừng nói là...... cậu vừa chốt được hợp đồng phụ trách với ai đấy nhé!",
+      "jpname": "同僚トレーナー",
+      "jptext": "何かいいことでもあったのか？\nまさかとは思うが……担当契約でも決まったとか！",
+      "choice_data_list": [
+        "Thật ra, đúng là như vậy đấy......!"
+      ],
+      "jpchoice_data_list": [
+        "実は、そのまさかで……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vẫn chưa nguôi ngoai cảm giác phấn khích, tôi hào hứng kể rằng ngày mai mình dự định sẽ chính thức ký hợp đồng với một cô nàng Mã Nương có cả tố chất lẫn ý chí tuyệt vời mang tên K.S.Miracle.",
+      "jpname": "モノローグ",
+      "jptext": "興奮冷めやらぬまま、ケイエスミラクルという、素質も意志も\n素晴らしいウマ娘と明日、正式に契約する予定だと打ち明けた。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng ngay sau đó――",
+      "jpname": "モノローグ",
+      "jptext": "すると、その直後――"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "K.S.Miracle á...... Có phải cô bé trông mảnh khảnh đó không? ......Cậu có chắc là ổn không đấy?",
+      "jpname": "同僚トレーナー",
+      "jptext": "ケイエスミラクルって……もしかして、あの線の細い感じの子か？\n……お前、本当に大丈夫なのか？",
+      "choice_data_list": [
+        "Hả? Sao lại hỏi có ổn không......?"
+      ],
+      "jpchoice_data_list": [
+        "え？大丈夫なのか、って……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vẻ mặt người đồng nghiệp trở nên vô cùng nghiêm trọng. Chị Tazuna cũng thoáng nét bận lòng lo âu. \"Có chuyện gì đó rồi\"...... chỉ bấy nhiêu thôi tôi đã nhận ra ngay.",
+      "jpname": "モノローグ",
+      "jptext": "ひどく険しい顔の同僚。たづなさんも、どこか気遣わしげだ。\n『何かある』……それだけはすぐにわかった。",
+      "choice_data_list": [
+        "Chị Tazuna...... Chị biết chuyện gì sao ạ?"
+      ],
+      "jpchoice_data_list": [
+        "たづなさん。……何か、ご存じなんですか？"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "......Tôi hiểu rồi, tôi sẽ kể cho cậu. Chỉ là, chúng ta đổi chỗ nói chuyện được không? Ở nơi đông người thế này...... hơi bất tiện.",
+      "jpname": "駿川たづな",
+      "jptext": "……わかりました、お話しします。ただ、場所を変えても\n構いませんか？　あまり人の多い場所では……ちょっと。"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Là chuyện về K.S.Miracle đúng không. ......Để xem nào, trước tiên là――",
+      "jpname": "駿川たづな",
+      "jptext": "ケイエスミラクルさんについて、でしたよね。\n……そうですね、まず――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Em ấy thuộc diện học sinh chuyển tiếp vào trường từ khối Cao Trung, trường hợp khá hiếm thấy trong học viện. Và lý do em ấy không nhập học từ khối Sơ Trung là――",
+      "jpname": "駿川たづな",
+      "jptext": "彼女は、学園内ですと少し珍しい、高等部からの編入組です。\nそして、中等部から入学しなかった理由は――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Là vì không thể. ......Bởi vì thể trạng của em ấy rất yếu ớt.",
+      "jpname": "駿川たづな",
+      "jptext": "できなかったから。……体が、とても弱かったからです。",
+      "choice_data_list": [
+        "!"
+      ],
+      "jpchoice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Nghe nói hồi còn nhỏ, em ấy đã phải sống suốt trong bệnh viện. ......Nói thẳng ra thì, việc em ấy có thể cất bước chạy như bây giờ quả thực là một kỳ tích.",
+      "jpname": "駿川たづな",
+      "jptext": "それこそ幼い頃は、ずっと病院暮らしだったそうで。\n……率直に申し上げて、今ああして走り出せているのは、奇跡です。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "――Thế mà cô bé đó lại \"quá nhanh\".",
+      "jpname": "同僚トレーナー",
+      "jptext": "――なのに『速すぎる』んだよ、あの子は。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Thỉnh thoảng cậu cũng nghe kể rồi đúng không? Trong số các Mã Nương, có những đứa trẻ mà cơ thể không theo kịp tốc độ có thể bộc phát...... Động cơ quá mạnh mà khung thân xe lại không chịu tải nổi.",
+      "jpname": "同僚トレーナー",
+      "jptext": "たまに聞くだろ？　ウマ娘の中には、出せるスピードに体のほうが\nついていかない……エンジンが良すぎて、機体が持たない子がいる。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Vốn dĩ thể chất đã yếu ớt sẵn thì lại càng nguy hiểm hơn. ......Và hơn thế nữa, ý chí của con bé đó lại \"quá đỗi kiên định\".",
+      "jpname": "同僚トレーナー",
+      "jptext": "もともと体が弱いっていうんじゃ、なおさらだ。\n……そして、そのうえ、あの子の気持ちは『強すぎる』。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Tôi từng xem con bé chạy trong cuộc đua mô phỏng rồi...... Thú thật là tôi rùng cả mình. ......Đó là một cách chạy cực kỳ nguy hiểm.",
+      "jpname": "同僚トレーナー",
+      "jptext": "俺は、模擬レースであの子の走りを見たことがあるけど……\n正直、ぞっとしたよ。……あれは、とても危うい走りだ。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Khát khao chạy đua của con bé quá lớn. Ngay cả khi gánh nặng đã chạm đến ngưỡng báo động...... con bé cũng tuyệt đối không hề giảm tốc.",
+      "jpname": "同僚トレーナー",
+      "jptext": "あの子は、走ることへの気持ちが強すぎる。\n負担が危うい領域に入ったとしても……決してスピードを緩めない。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Con bé không phải là \"không thể dừng lại\", mà là \"không chịu dừng lại\". Điều đó đáng sợ đến nhường nào, cậu có thực sự hiểu rõ không đấy?",
+      "jpname": "同僚トレーナー",
+      "jptext": "あの子は『止まれない』んじゃない、『止まらない』んだ。\nそれがどれほど怖いことか、お前、ちゃんとわかってるか？"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bản thân K.S.Miracle...... là một cô nàng Mã Nương rất tuyệt vời. Dù mãi vẫn chưa thể ký kết hợp đồng, em ấy vẫn không ngừng nỗ lực.",
+      "jpname": "駿川たづな",
+      "jptext": "ケイエスミラクルさん自身は……とても素晴らしいウマ娘です。\nなかなか契約を結べない中でも、努力を続けてらっしゃいます。"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Để tìm kiếm cơ hội thể hiện bản thân, em ấy còn đăng ký tham gia đại hội thể thao theo bộ môn...... một sự kiện nội bộ của trường cho phép tự chọn mặt sân và cự ly mong muốn.",
+      "jpname": "駿川たづな",
+      "jptext": "アピールの機会を得ようと、種目別競技大会……自分の希望する\nコースや距離に出走できる学内イベントにもエントリーされてます。"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ý chí của cô bé thực sự rất cao. Chỉ là......",
+      "jpname": "駿川たづな",
+      "jptext": "意欲は、本当に高い子です。ただ……。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Nếu muốn phụ trách con bé, cậu phải có giác ngộ và năng lực tương xứng. Cứ để mặc thì nhiều khả năng con bé sẽ...... vượt quá giới hạn theo chiều hướng tồi tệ nhất.",
+      "jpname": "同僚トレーナー",
+      "jptext": "あの子を担当するっていうなら、相当の覚悟と技術がなきゃダメだ。\n放っておいたらあの子は多分……悪い意味で限界を超えてしまう。"
+    },
+    {
+      "name": "Trainer đồng nghiệp",
+      "text": "Cậu phải nhìn nhận thấu đáo để bằng mọi giá hãm phanh lại trước khi bi kịch xảy ra. ......Cậu có dám tự tin khẳng định mình làm được điều đó không?",
+      "jpname": "同僚トレーナー",
+      "jptext": "そうならないように見極めて、何がなんでもブレーキをかける。\n……そうできるって、お前、確信持って言えるのか？",
+      "choice_data_list": [
+        "......Chuyện đó......"
+      ],
+      "jpchoice_data_list": [
+        "……それは……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi nghẹn lời, không thốt nên câu trả lời. ......Nhưng chính sự im lặng ấy đã nói lên tất cả. Một tân binh không kiến thức chuyên sâu lẫn kinh nghiệm thực tế như tôi, làm sao có thể gật đầu đồng ý được chứ......",
+      "jpname": "モノローグ",
+      "jptext": "返答に窮する。……だが、それこそが全ての答え。\n知見も実力もない新人が、首を縦に振れるはずもなかった……。"
+    }
+  ]
+}
