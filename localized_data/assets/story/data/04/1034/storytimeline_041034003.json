@@ -1,0 +1,370 @@
+{
+  "title": "Tâm niệm vừa nảy nở",
+  "jptitle": "生まれっちまったこの心",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vài ngày sau buổi đi chơi lễ hội cùng Inari One. Khi đang đi ngang qua trước cổng Học viện Tracen thì――",
+      "jpname": "モノローグ",
+      "jptext": "イナリワンと祭りを楽しんだ日から数日後。\nトレセン学園の校門前を通りかかると――"
+    },
+    {
+      "name": "Inari One",
+      "text": "Để coi nào, cổng trường hướng này hả…… Ối chà!! Đằng ấy, người hôm bữa……!",
+      "jpname": "イナリワン",
+      "jptext": "えーっと、校門はこっちか……って、うおう！！\nお前さん、こないだの……！",
+      "choice_data_list": [
+        "Ơ kìa! Inari One……!?"
+      ],
+      "jpchoice_data_list": [
+        "あれ！イナリワン……！？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ha ha ha, bị bắt quả tang mất rồi. Ừm thì, chuyện tui mò tới đây là vì……",
+      "jpname": "イナリワン",
+      "jptext": "たはは、見つかっちまった。\nえーっとまあ、ここに来たのはだな……。",
+      "choice_data_list": [
+        "……Bên trong này, nếu em thích thì để tôi dẫn đi xem nhé?"
+      ],
+      "jpchoice_data_list": [
+        "……中、よかったら案内しようか？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "! ……Được thật hả? Thế thì quý hóa quá! Hì hì…… coi bộ vị thế của hai đứa mình bị đảo ngược so với hồi đầu rồi ha?",
+      "jpname": "イナリワン",
+      "jptext": "！　……いいのかい？　そいつはありがてえ！\nへへ……なんだか最初と立場がひっくり返っちまったな、ええ？"
+    },
+    {
+      "name": "Inari One",
+      "text": "Oa…… dù từng nghe đồn rồi, mà công nhận ký túc xá to đùng, phòng gym to đùng, nhà ăn cũng to đùng…… lại còn cả sân tập luyện to tổ bố thế này nữa!",
+      "jpname": "イナリワン",
+      "jptext": "はあ～、噂にゃ聞いてたが、でっけえ寮にでっけえジムに\nでっけえ食堂に……こおーんなにでっけえトレーニング場まで！"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Đây là Học viện Tracen đó sao. Mà cơ sở vật chất chỉ là một phần thôi, còn――",
+      "jpname": "イナリワン",
+      "jptext": "……これが、トレセン学園かい。\nいや、施設もそうだが――"
+    },
+    {
+      "name": "Các Mã Nương",
+      "text": "Hộc, hộc, hộc, hộc, hộc……!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "はっ、はっ、はっ、はっ、はっ……！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Đằng kia…… đang chạy so kè nhau à? Trông có vẻ đã vào giai đoạn cuối…… vừa ghìm nhau vừa tìm thời điểm bứt phá thì phải……)",
+      "jpname": "イナリワン",
+      "jptext": "（ありゃあ……併走中か？　見た感じ終盤……競り合いながら\n仕掛けどころを探ってる、って感じみてえだが……）"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Hộc, hộc…… chính là lúc này……! Lênnnnnnn!!",
+      "jpname": "ウマ娘A",
+      "jptext": "はっ、はっ……ここでっ……！\nはぁああああっ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Úi chà!? Đã tăng tốc rồi cơ á! Chẳng phải bứt tốc hơi sớm quá rồi sao……!?)",
+      "jpname": "イナリワン",
+      "jptext": "（うおっ！？　もうかい！\nちょいと仕掛けが早すぎやしねえか……！？）"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Hực……! Không…… vẫn chưa……!!",
+      "jpname": "ウマ娘B",
+      "jptext": "っ……！　いや……まだ……！！"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Khốn khiếp…… Được lắm, nếu vậy mình sẽ giữ đà này…… ép đến cùng luôn!!",
+      "jpname": "ウマ娘A",
+      "jptext": "くっ……。いい、だったらこのまま……押し切ってやるっ！！"
+    },
+    {
+      "name": "Các Mã Nương",
+      "text": "Aaaaaaaah!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "だぁああああああーっ！！"
+    },
+    {
+      "name": "Các Mã Nương",
+      "text": "Hộc, hộc, phù……!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "はぁっ、はぁっ、はぁ……！！"
+    },
+    {
+      "name": "Huấn luyện viên A",
+      "text": "Ừm. Để bù đắp cho điểm yếu về độ bốc rút đích vốn là điểm trừ trước đây, em đã chủ động tăng tốc sớm để nhử đối thủ, biến cuộc đua thành màn so kè sức bền thay vì độ bốc nước rút―― ý tưởng rất tốt!",
+      "jpname": "教官A",
+      "jptext": "うん。以前から課題だった末脚のキレを補うために、早仕掛けして\n相手を釣り、キレではなく粘り勝負に持ち込む――いい考えだ！"
+    },
+    {
+      "name": "Huấn luyện viên A",
+      "text": "Hãy rèn luyện thêm thể lực để bám trụ đến cùng nhé. Khi tự tập cũng nên ưu tiên giáo án đó. Còn về phần em――",
+      "jpname": "教官A",
+      "jptext": "粘り切るスタミナをもっともっとつけていこう。自主トレでも\nそっち中心のメニューでね。それから君のほうは――"
+    },
+    {
+      "name": "Huấn luyện viên A",
+      "text": "Tốt lắm, em đã không bị mắc lừa! Em đã tin tưởng vào cú nước rút cuối của mình và giữ vững nhịp độ cho tới cùng. Cứ giữ vững phong độ này để mài giũa thêm độ sắc bén nhé.",
+      "jpname": "教官A",
+      "jptext": "よく釣られなかった！　自分の末脚を信じて最後までマイペースを\n保つことができたね。この調子でますますキレを磨いていくといい。"
+    },
+    {
+      "name": "Huấn luyện viên A",
+      "text": "Cả hai em đều đã tạo ra những điểm nhấn rất tốt để ghi điểm trong mắt các Trainer rồi đấy. Hãy cùng nhau hoàn thiện hơn nữa cho cuộc tuyển chọn sắp tới nhé!",
+      "jpname": "教官A",
+      "jptext": "2人とも、トレーナーさんたちにアピールできそうなポイントは\nしっかり作れてきてるよ。選抜に向けてさらに詰めていこう！"
+    },
+    {
+      "name": "Các Mã Nương",
+      "text": "Vâng ạ! Trăm sự nhờ thầy chỉ bảo!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "はいっ！　よろしくお願いします！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Tuyển chọn, tức là…… trời đất ơi, trình độ cỡ đó mà vẫn còn chưa ra mắt sao! Dẫu biết trình độ ở đây cao ngất ngưởng, nhưng mà――)",
+      "jpname": "イナリワン",
+      "jptext": "（選抜、てことは……おいおい、あれでデビュー前の仕上がりかよ！\nレベルが高えと聞いちゃあいたが――）"
+    },
+    {
+      "name": "???",
+      "text": "――Xin lỗi. Tụi mình sắp sử dụng chỗ này, hai người có thể nhường một chút được không?",
+      "jpname": "？？？",
+      "jptext": "――すまない。いまからここを使うんだが、\n空けてもらってもいいだろうか？"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ấy! Xin lỗi nhé, tụi tui tránh ra liền đây―― ……Ủa?",
+      "jpname": "イナリワン",
+      "jptext": "おっと！　すまねえ、今どくからよ――\n……っ？"
+    },
+    {
+      "name": "???",
+      "text": "Ái chà chà. Hai người tới tham quan sao ạ? Xin lỗi vì đã làm phiền nha.",
+      "jpname": "？？？",
+      "jptext": "あら、まあ～。見学にいらしたんですか？\nすみません、お邪魔してしまって～。"
+    },
+    {
+      "name": "Inari One",
+      "text": "À, ừ, không có gì đâu. Đằng ấy đâu cần phải xin lỗi……",
+      "jpname": "イナリワン",
+      "jptext": "あ、ああ、いや。そっちが謝ることじゃあねえさ……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "(……Cái gì thế này? Mấy đứa này…… là sao đây? Có một áp lực kỳ lạ tỏa ra từ họ――)",
+      "jpname": "イナリワン",
+      "jptext": "（……なんだ？　こいつら……なんなんだ？\n妙な……圧みてえのが――）"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Này. Đằng ấy có biết hai người đó là ai không?",
+      "jpname": "イナリワン",
+      "jptext": "……なあ。お前さん、あの2人のこと知ってんのかい？",
+      "choice_data_list": [
+        "Là Oguri Cap và Super Creek đấy",
+        "Là Oguri Cap với Super Creek đấy em"
+      ],
+      "jpchoice_data_list": [
+        "オグリキャップと、スーパークリークだな",
+        "オグリキャップと、スーパークリークだね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Được hỏi, tôi trả lời ngay. Cả hai đều là những Mã Nương chưa chính thức ra mắt. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "問われ、答える。2人ともデビュー前のウマ娘。\nだが――",
+      "choice_data_list": [
+        "Tôi nghĩ cả hai đều là những Mã Nương có tố chất vô cùng xuất chúng"
+      ],
+      "jpchoice_data_list": [
+        "どちらも、素晴らしい素質のウマ娘だと思う"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hộc, hộc, hộc, hộc, hộc……!! Chính lúc này…… vượt lên!!",
+      "jpname": "オグリキャップ",
+      "jptext": "はっ、はっ、はっ、はっ、はっ……！！\nっ、ここで……差す！！"
+    },
+    {
+      "name": "Super Creek",
+      "text": "U fu fu, hực…… em không để cậu vượt qua đâu nhé!!",
+      "jpname": "スーパークリーク",
+      "jptext": "うふふ、っ……させません、よっ！！"
+    },
+    {
+      "name": "Oguri & Creek",
+      "text": "Aaaaaaaah!!",
+      "jpname": "オグリ＆クリーク",
+      "jptext": "はぁああああああっ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hực……!!",
+      "jpname": "イナリワン",
+      "jptext": "っ……！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Này…… này này này, cái quái gì thế kia!? Cái con bé tóc trắng đó, ban nãy trông ngơ ngơ ngác ngác mà giờ khí thế quyết liệt đến nghẹt thở thế kia ư!)",
+      "jpname": "イナリワン",
+      "jptext": "（おい……おいおいおい、ありゃなんでい！？　白いあいつ、\nさっきまでぼけっとしてたのが嘘みてえに泥臭え意気じゃねえか！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Còn cái đứa cao ráo kia nữa! Cảm giác như…… không sao thấy được đáy! Chỉ nhìn thôi mà…… như sắp bị nuốt chửng vậy……!)",
+      "jpname": "イナリワン",
+      "jptext": "（いっぽうで、あのでっけえの！　なんつうか……底が見えねえ！\n見てるだけで……呑み込まれちまいそうだ……！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cái gì vậy…… tụi nó rốt cuộc là quái vật phương nào chứ……!",
+      "jpname": "イナリワン",
+      "jptext": "なんでい……なんなんでい、あいつら……！"
+    },
+    {
+      "name": "",
+      "text": "Đứng bên cạnh, Inari One nín thở lặng người. Nhìn biểu cảm đó, có vẻ em ấy đang bị màn so tài của cả hai áp đảo, thế nhưng……",
+      "jpname": "モノローグ",
+      "jptext": "横でイナリワンが息を呑む。その様子を見るに、\n2人の併走に圧倒されているようだが……。",
+      "choice_data_list": [
+        "Inari One"
+      ],
+      "jpchoice_data_list": [
+        "イナリワン"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hở, dạ?",
+      "jpname": "イナリワン",
+      "jptext": "っ、へ？",
+      "choice_data_list": [
+        "Tôi tin nếu là em, em hoàn toàn có thể đánh bại cả hai người họ",
+        "Anh tin nếu là em, em hoàn toàn có thể đánh bại cả hai người họ"
+      ],
+      "jpchoice_data_list": [
+        "俺は、君ならあの2人にだって勝つと思う",
+        "私は、貴方ならあの2人にだって勝つと思う"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "……Hự!!",
+      "jpname": "イナリワン",
+      "jptext": "～～～～ッ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "――Đã vượt qua mốc 400m! Dẫn đầu là Oguri Cap, là Oguri Cap hay sao, Super Creek đang lao tới! Super Creek đã vươn lên dẫn đầu!!",
+      "jpname": "実況",
+      "jptext": "――400mを通過！　先頭はオグリキャップ、オグリキャップか、\nスーパークリークが来る！　スーパークリーク先頭！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Super Creek, Oguri Cap…… Và vào lúc này, Inari One!! Inari One đang phóng tới như một mũi tên xé gió!!",
+      "jpname": "実況",
+      "jptext": "スーパークリーク、オグリキャップ……ここでイナリワン！！\nイナリワンが突っ込んでくるっ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Lên nàooooooooooo!!",
+      "jpname": "イナリワン",
+      "jptext": "だぁあああありゃぁあああああっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Đã vượt qua mốc 200m! Giờ đây người dẫn đầu, lần này sẽ là Inari One hay Super Creek! Vị trí dẫn đầu thuộc về――",
+      "jpname": "実況",
+      "jptext": "200mを通過！　さあ先頭は、今度はイナリワンか、\nスーパークリークか！　先頭は――"
+    },
+    {
+      "name": "Inari & Creek",
+      "text": "Hây aaaaaaaa!! Aaaaaaaaaa!!",
+      "jpname": "イナリ＆クリーク",
+      "jptext": "おらぁああああああああっ！！\nはぁああああああーーーっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Inari One! Inari One!! Dẫn đầu là Inari One!! ――Đã cán đích!!",
+      "jpname": "実況",
+      "jptext": "イナリワン！　イナリワン！！　先頭はイナリワン！！\n――ゴールインっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Người chiến thắng trận cầu rực lửa này chính là Inari One!! Khắp các khán đài như bùng nổ trong một không khí lễ hội cuồng nhiệt!!",
+      "jpname": "実況",
+      "jptext": "白熱の戦いを制したのはイナリワン！！\nスタンドはさながらお祭り騒ぎです！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(……Một trận huyết chiến nảy lửa tới từng khắc với những đối thủ sừng sỏ. Tiếng reo hò rền vang như pháo hoa bùng nổ, ở đó có bác thợ cả, có tất cả mọi người trong khu phố cổ)",
+      "jpname": "イナリワン",
+      "jptext": "（……手ごわい連中との、ぎりっぎりの大喧嘩。爆音の歓声が\n花火みてえに炸裂して、そこにゃあ親方も町の連中もみーんないて）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Và rồi, vì tui đã chiến thắng, một bóng người đang hớn hở chạy vội về phía tui――)",
+      "jpname": "イナリワン",
+      "jptext": "（そんで、あたしが勝ったってんで、\nうれっしそうに駆け寄ってきやがるヤツが――）",
+      "choice_data_list": [
+        "……Inari One?"
+      ],
+      "jpchoice_data_list": [
+        "……イナリワン？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Oái!? A…… v-vừa rồi là…… ………………",
+      "jpname": "イナリワン",
+      "jptext": "うわあっ！？　ぁ……い、今のは……。\n………………。"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Xin lỗi nhé! Tui…… phải về ngay bây giờ rồi!!",
+      "jpname": "イナリワン",
+      "jptext": "……わりい！　あたし……もう帰らねえとっ！！",
+      "choice_data_list": [
+        "Hả!? Khoan đã……!!"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？ちょっと……！！"
+      ]
+    },
+    {
+      "name": "Thợ cả",
+      "text": "……Thiệt tình. Tao đoán ngay là thể nào cũng thế này mà, đồ khỉ gió.",
+      "jpname": "親方",
+      "jptext": "……ったく。こんなこったろうと思ったぜ、べらぼうめ。",
+      "choice_data_list": [
+        "Ơ kìa!? B-Bác là……!"
+      ],
+      "jpchoice_data_list": [
+        "あれ！？あ、貴方は……！"
+      ]
+    },
+    {
+      "name": "Thợ cả",
+      "text": "Lại gặp nhau rồi, Trainer. Nào――",
+      "jpname": "親方",
+      "jptext": "また会ったな、トレーナーさん。\nさて――"
+    },
+    {
+      "name": "Thợ cả",
+      "text": "Tôi có một thỉnh cầu muốn nhờ đằng ấy đây. ……Sắp tới, đằng ấy có thể đến xem một cuộc đua được không?",
+      "jpname": "親方",
+      "jptext": "ひとつ頼みがあるんだがね。\n……今度、あるレースを観に来ちゃあくれねえかい？"
+    }
+  ]
+}

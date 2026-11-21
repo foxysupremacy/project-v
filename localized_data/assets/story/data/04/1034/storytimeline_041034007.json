@@ -1,0 +1,472 @@
+{
+  "title": "Pháo hoa rền vang trời, cùng hô vang wa-shoi!",
+  "jptitle": "でっけえ花火に、わあっしょい！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "――Kỳ tập huấn mùa hè bắt đầu được vài ngày. Việc luyện tập đang tiến triển hết sức thuận lợi. À không, thậm chí còn tiến triển nhanh quá mức là đằng khác.",
+      "jpname": "モノローグ",
+      "jptext": "――夏合宿が始まり数日。トレーニングは順調に進んでいる。\nいや、それどころか進み過ぎているくらいだ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Sao thế hả ông anh! Chừng này vẫn chưa ăn thua đâu nhé! Bắt đầu bài tập tiếp theo đi nào!",
+      "jpname": "イナリワン",
+      "jptext": "どうした、ダンナ！　まだまだこんなもんじゃあないぜ！\n次のメニュー、始めてくんな！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Sao thế hả Trainer! Chừng này vẫn chưa ăn thua đâu nhé! Bắt đầu bài tập tiếp theo đi nào!",
+      "jpname": "イナリワン",
+      "jptext": "どうした、アネゴ！　まだまだこんなもんじゃあないぜ！\n次のメニュー、始めてくんな！"
+    },
+    {
+      "name": "",
+      "text": "Sự nỗ lực của Inari One thực sự đáng kinh ngạc. Thế nhưng rõ ràng em ấy đang hăng hái quá mức. Cần phải để em ấy nghỉ ngơi xả hơi một chút mới được.",
+      "jpname": "モノローグ",
+      "jptext": "イナリワンの頑張りは目を見張るものだ。だがさすがに、\n張り切り過ぎている。1度、しっかりと息抜きをさせなくては。",
+      "choice_data_list": [
+        "Buổi tập hôm nay đến đây là kết thúc"
+      ],
+      "jpchoice_data_list": [
+        "今日のトレーニングはここまで"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "……À, phải rồi! Lát nữa là có lễ hội và bắn pháo hoa mà! Hì hì, dòng máu dân Edo đang sôi sục lên rồi đây!",
+      "jpname": "イナリワン",
+      "jptext": "……っと、そうか！　もうすぐ祭りと花火だからな！\nへへっ、江戸っ子の血がたぎるぜ！"
+    },
+    {
+      "name": "",
+      "text": "Đi cùng bạn bè chắc sẽ giúp em ấy đổi gió giải tỏa tâm trạng. Nhìn vẻ mặt thấu hiểu của Inari One, tôi thở phào nhẹ nhõm.",
+      "jpname": "モノローグ",
+      "jptext": "友だちと行けば、気分転換にもなるだろう。\n納得した顔のイナリワンにホッと息をつく。",
+      "choice_data_list": [
+        "Em cứ đi chơi vui vẻ nhé"
+      ],
+      "jpchoice_data_list": [
+        "楽しんでおいで"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hở? Ông anh bận việc sao? Nếu buổi tập của tui đã xong thì ông anh cũng rảnh rỗi rồi mà đúng không?",
+      "jpname": "イナリワン",
+      "jptext": "ん？　ダンナは仕事かい？　あたしのトレーニングが\n終わりだってんなら、ダンナも時間があるんだろ？",
+      "choice_data_list": [
+        "Tôi vẫn còn chút việc phải hoàn thành……",
+        "Tôi vẫn còn chút việc phải làm……"
+      ],
+      "jpchoice_data_list": [
+        "まだちょっとやることが残ってて……",
+        "まだちょっとやることが残ってて……"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hở? Trainer bận việc sao? Nếu buổi tập của tui đã xong thì Trainer cũng rảnh rỗi rồi mà đúng không?",
+      "jpname": "イナリワン",
+      "jptext": "ん？　アネゴは仕事かい？　あたしのトレーニングが\n終わりだってんなら、アネゴも時間があるんだろ？",
+      "choice_data_list": [
+        "Tôi vẫn còn chút việc phải hoàn thành……",
+        "Tôi vẫn còn chút việc phải làm……"
+      ],
+      "jpchoice_data_list": [
+        "まだちょっとやることが残ってて……",
+        "まだちょっとやることが残ってて……"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hửm? ……Thế thì gay rồi nha. Tui tính đi chung với ông anh nên đâu có rủ người khác đâu nè!",
+      "jpname": "イナリワン",
+      "jptext": "ふーん？　……そいつあ困ったな。\nダンナと行くつもりで、他のヤツ誘い損ねちまった！",
+      "choice_data_list": [
+        "Hả, thật thế sao?",
+        "Hả, vậy ư?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、そうなのか？",
+        "えっ、そうなの？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hửm? ……Thế thì gay rồi nha. Tui tính đi chung với Trainer nên đâu có rủ người khác đâu nè!",
+      "jpname": "イナリワン",
+      "jptext": "ふーん？　……そいつあ困ったな。\nアネゴと行くつもりで、他のヤツ誘い損ねちまった！",
+      "choice_data_list": [
+        "Hả, thật thế sao?",
+        "Hả, vậy ư?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、そうなのか？",
+        "えっ、そうなの？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ai dà, đã hẹn trước với bạn đồng hành mà giờ đi có một mình thì thấy hơi cô đơn buồn tủi sao ấy……",
+      "jpname": "イナリワン",
+      "jptext": "いやあ、予定してた連れがいねえってのは、\nちっとばかし寂しいもんがあらあなあ……。",
+      "choice_data_list": [
+        "T-Tôi đi cùng em!"
+      ],
+      "jpchoice_data_list": [
+        "い、行くよ！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ô, thật hả? Hì hì, cảm ơn nhiều nha! Thế thì tối nay tụi mình hẹn gặp nhau nhé!",
+      "jpname": "イナリワン",
+      "jptext": "お、そうかい？　へへっ、ありがてえ！\nんじゃ、また夜に合流といこうぜ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Lát gặp lại!",
+      "jpname": "イナリワン",
+      "jptext": "じゃあな！"
+    },
+    {
+      "name": "",
+      "text": "Dù nghĩ thầm bây giờ rủ bạn thì vẫn kịp mà…… nhưng sau khi đã trót hứa với Inari One, tôi đành quay trở lại khu ký túc xá tập huấn.",
+      "jpname": "モノローグ",
+      "jptext": "今からでも誘える友人はいただろうに……と思いつつも、\nイナリワンと約束をして、合宿所へと戻ったのだった。"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Ông anh này thật là. Lại bỏ lỡ cơ hội nghỉ ngơi nữa rồi, ai mà bỏ mặc cho được chứ!)",
+      "jpname": "イナリワン",
+      "jptext": "（ダンナめ。ま～た息つくタイミング逃してんだから、\nほっとけねえや！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Trainer này thật là. Lại bỏ lỡ cơ hội nghỉ ngơi nữa rồi, ai mà bỏ mặc cho được chứ!)",
+      "jpname": "イナリワン",
+      "jptext": "（アネゴめ。ま～た息つくタイミング逃してんだから、\nほっとけねえや！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hì hì, hôm nay phải làm cho người ta chơi thỏa thích mới được!",
+      "jpname": "イナリワン",
+      "jptext": "へへっ、今日はめいっぱい楽しませてやんねえと！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Này này, náo nhiệt quá chừng luôn kìa! Khàaaa! Phải thế này chứ, bầu không khí sôi động này làm dòng máu tui rạo rực hết cả lên!",
+      "jpname": "イナリワン",
+      "jptext": "おうおう、盛り上がってんじゃねえか！\nくぅ～！　これだよなあ、この熱気！　血が騒ぐぜ！",
+      "choice_data_list": [
+        "Nhắc đến lễ hội là phải nói đến các sạp hàng quán nhỉ!",
+        "Nhắc đến lễ hội là phải nói đến các sạp hàng ăn rồi!"
+      ],
+      "jpchoice_data_list": [
+        "祭りといえば屋台だな！",
+        "祭りといえば屋台だね！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ha ha, tốt lắm! Lại cùng nhau đi càn quét một vòng thôi nào! Đi thôi, ông anh!",
+      "jpname": "イナリワン",
+      "jptext": "ははっ、よおし！　また一緒に荒らしてまわるとすっか！\n行くぜ、ダンナ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ha ha, tốt lắm! Lại cùng nhau đi càn quét một vòng thôi nào! Đi thôi, Trainer!",
+      "jpname": "イナリワン",
+      "jptext": "ははっ、よおし！　また一緒に荒らしてまわるとすっか！\n行くぜ、アネゴ！"
+    },
+    {
+      "name": "",
+      "text": "Nhìn nụ cười rạng rỡ đầy sức sống của em ấy, tôi cũng bất giác cười theo.",
+      "jpname": "モノローグ",
+      "jptext": "生き生きとした笑顔に、こちらもつられて笑う。"
+    },
+    {
+      "name": "",
+      "text": "Được Inari One với đôi mắt sáng ngời nắm tay kéo đi, tôi đã ghé qua không sót một sạp hàng nào.",
+      "jpname": "モノローグ",
+      "jptext": "目をキラキラとさせたイナリワンに手を引かれ、\nすべての屋台を回ったのだった。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ôi chao! Tiếng pháo nổ rền vang dội thẳng vào lồng ngực đã ghê! Ta-ma-yaaa! Đúng điệu luôn! Đẹp mắt quá chừng!",
+      "jpname": "イナリワン",
+      "jptext": "おお～！　打ち上げの音がドスンッと胸にくらあ！\nた～まや～！　ってな！　見事なもんだぜ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Sao nào hả ông anh! Tiếng của tui, nghe rõ không đấy!?",
+      "jpname": "イナリワン",
+      "jptext": "どうでい、ダンナ！　あたしの声、聞こえてるか！？",
+      "choice_data_list": [
+        "Nghe rõ lắm nèee!"
+      ],
+      "jpchoice_data_list": [
+        "聞こえてるー！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Sao nào hả Trainer! Tiếng của tui, nghe rõ không đấy!?",
+      "jpname": "イナリワン",
+      "jptext": "どうでい、アネゴ！　あたしの声、聞こえてるか！？",
+      "choice_data_list": [
+        "Nghe rõ lắm nèee!"
+      ],
+      "jpchoice_data_list": [
+        "聞こえてるー！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ha ha! Hét từ tận đáy lòng ra sảng khoái ghê cơ, đúng không! Nào, cùng hô vang nhé! Ka-gi-yaaa!",
+      "jpname": "イナリワン",
+      "jptext": "ははっ！　腹から声出すと気持ちいいぜ、なあ！\nほら、一緒にいくぞ！　か～ぎや～！",
+      "choice_data_list": [
+        "Ka-gi-yaaa!"
+      ],
+      "jpchoice_data_list": [
+        "か～ぎや～！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hì hì, cứ thế mà phát huy!",
+      "jpname": "イナリワン",
+      "jptext": "へへっ、その調子だ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(……Phù, mải vui quá làm mình cũng phấn khích theo luôn! Nhưng nhờ vậy mà ông anh cũng được giải tỏa――)",
+      "jpname": "イナリワン",
+      "jptext": "（……ふぅ、ついついあたしも興奮しちまったな！\nでも、これでダンナも息抜きが――）",
+      "choice_data_list": [
+        "Em đã được xả hơi chút nào chưa?"
+      ],
+      "jpchoice_data_list": [
+        "少しは息抜きできたかな？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "(……Phù, mải vui quá làm mình cũng phấn khích theo luôn! Nhưng nhờ vậy mà Trainer cũng được giải tỏa――)",
+      "jpname": "イナリワン",
+      "jptext": "（……ふぅ、ついついあたしも興奮しちまったな！\nでも、これでアネゴも息抜きが――）",
+      "choice_data_list": [
+        "Em đã được xả hơi chút nào chưa?"
+      ],
+      "jpchoice_data_list": [
+        "少しは息抜きできたかな？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hở?",
+      "jpname": "イナリワン",
+      "jptext": "へ？"
+    },
+    {
+      "name": "",
+      "text": "Tôi không nghĩ em ấy đang gượng ép bản thân. Nhưng tôi đã giãi bày rằng mình luôn cảm thấy dường như em đang gồng gánh quá nhiều.",
+      "jpname": "モノローグ",
+      "jptext": "無理をしているとは思わない。けれど、力が入り過ぎている、\nそんな気がしていたことを伝えた。"
+    },
+    {
+      "name": "",
+      "text": "Với tính cách của Inari One, hẳn là em đang mang trên vai rất nhiều gánh nặng. Dù hiện tại những điều đó đang là động lực thôi thúc em tiến lên――",
+      "jpname": "モノローグ",
+      "jptext": "イナリワンの性格からしても、背負うものは多いだろう。\n今はそれが背中を押す原動力になっていても――"
+    },
+    {
+      "name": "",
+      "text": "Nhưng nếu chỉ mãi bị thúc ép, rồi chúng sẽ biến thành gánh nặng đè trĩu bờ vai. Vì thế tôi bảo em hãy thả lỏng bản thân một chút.",
+      "jpname": "モノローグ",
+      "jptext": "押されるだけでは、やがて重荷となって肩にのしかかっていく。\nだから、もう少し力を抜こう、と。"
+    },
+    {
+      "name": "Inari One",
+      "text": "N-Nói gì lạ thế. Đã được người ta kỳ vọng thì phải đáp lại, đó mới là Inari đại nhân này chứ! Chừng đó thôi thì tui đã sớm có giác ngộ gánh vác――",
+      "jpname": "イナリワン",
+      "jptext": "な、なに言ってんでい。期待されりゃ応えんのが、イナリ様だぜ！\nそんぐれえ、背負う覚悟はとっくに――",
+      "choice_data_list": [
+        "Hãy để tôi cùng gánh vác với em"
+      ],
+      "jpchoice_data_list": [
+        "一緒に背負っていこう"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "――――",
+      "jpname": "イナリワン",
+      "jptext": "――――"
+    },
+    {
+      "name": "Inari One",
+      "text": "G-Gì thế kia…… như thế chẳng khác nào……",
+      "jpname": "イナリワン",
+      "jptext": "な、なんでい……それじゃあまるで……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Hóa ra người đang gồng mình quá mức lại là bản thân mình sao?)",
+      "jpname": "イナリワン",
+      "jptext": "（力が入り過ぎてたのは、あたしのほうだったってのかい？）"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Thế này thì bất ngờ thật đấy. Đúng là không tài nào lường trước được luôn.",
+      "jpname": "イナリワン",
+      "jptext": "……こいつあ、驚いたぜ。\nまったくの予想外ってヤツよ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Không ngờ mình lại được nghe những lời như thế. Đã vậy――)",
+      "jpname": "イナリワン",
+      "jptext": "（んなこと言われるたあ、思ってもみなかったぜ。\nしかも――）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Lúc này đôi vai mình bỗng nhẹ bẫng kỳ lạ…… như thể vừa bước vào bồn tắm nước nóng vậy, bao nhiêu gồng gánh đều tan biến hết)",
+      "jpname": "イナリワン",
+      "jptext": "（今、肩が妙に軽い……熱い風呂に入った時みてえに、\n力が抜けてやがる）"
+    },
+    {
+      "name": "Thợ cả",
+      "text": "Nói năng nhăng cuội, cái đồ ngốc này!! ……Mày tưởng tao không nhận ra chắc. Cái tâm của mày đã đổi hướng từ lúc nào, tao nhìn thấu hết rồi.",
+      "jpname": "親方",
+      "jptext": "てやんでい、べらぼうめ！！　……気づいてねえとでも思ったか。\nおめえの心が変わっちまったことなんざ、お見通しなんだよ。"
+    },
+    {
+      "name": "Thợ cả",
+      "text": "Đã là gái Edo lớn lên ở phố cổ! Thì hãy bước ra võ đài rực lửa Twinkle Series mà quậy một trận long trời lở đất, nở rộ một đóa hoa thật huy hoàng cho tao!!",
+      "jpname": "親方",
+      "jptext": "下町育ちの江戸っ子なら！　トゥインクルっつう大舞台で\n大喧嘩して、どでけぇ華ぁ咲かせてこいや！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Đúng thật, mình đã luôn gánh vác. Mình tuyệt đối không thể để bác thợ cả và mọi người đã đặt trọn kỳ vọng phải thất vọng)",
+      "jpname": "イナリワン",
+      "jptext": "（たしかに、背負ったさ。期待してくれた親方たちを、\nガッカリさせるわけにゃあいかねえ）"
+    },
+    {
+      "name": "Dì quán mì Soba",
+      "text": "Đúng rồi đấy! Miễn là Inari-chan, cháu có đi tới đâu thì dì cũng sẽ hết lòng ủng hộ!!",
+      "jpname": "ソバ屋のおばちゃん",
+      "jptext": "そうよそうよ！　イナリちゃんのことなら、\nあたしどこに行っても応援しちゃうわ！！"
+    },
+    {
+      "name": "Bác chủ quán",
+      "text": "Hãy cho mọi người thấy \"Gái Edo Inari này đang ở đây!\", vang danh lừng lẫy trên sân khấu đỉnh cao nhất đi nào cháu!!",
+      "jpname": "店主のおやじ",
+      "jptext": "江戸っ子イナリ、ここにあり！　つって、\nあの最高の舞台で轟かせとくれよ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Những người đã bảo dù mình ở đâu cũng sẽ luôn ủng hộ, thì mình phải ngẩng cao đầu mà sải bước chạy chứ đúng không?)",
+      "jpname": "イナリワン",
+      "jptext": "（どこにいても応援するって言ってくれた人たちに、\n胸を張って走らなきゃなんねえだろ？）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(――Chính vì vậy)",
+      "jpname": "イナリワン",
+      "jptext": "（――だから）"
+    },
+    {
+      "name": "Người dân phố cổ",
+      "text": "Oaaaaaaa!! Inari! Inari! Inari! Inari!",
+      "jpname": "下町の人々",
+      "jptext": "ワァアアアアアッ！！\nイナリ！　イナリ！　イナリ！　イナリ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(……Hóa ra mình đã luôn mặc định gánh vác tất cả \"một mình\" sao)",
+      "jpname": "イナリワン",
+      "jptext": "（……当たり前に『ひとり』で背負ってた、のか）"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Hứ, tầm cỡ như Inari đại nhân đây mà lại làm ra cái trò kém duyên đến thế cơ đấy.",
+      "jpname": "イナリワン",
+      "jptext": "……へっ、イナリ様ともあろうもんが、無粋なマネしちまったなあ。",
+      "choice_data_list": [
+        "Inari?"
+      ],
+      "jpchoice_data_list": [
+        "イナリ？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Xem ra tui đã hơi quá mải mê rồi. Miệng thì cứ bảo ông anh \"chớ có gánh vác một mình\".",
+      "jpname": "イナリワン",
+      "jptext": "ちいとばかし、夢中になり過ぎてたみてえだ。\nダンナには『ひとりで背負うな』なんて言ってよ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Xem ra tui đã hơi quá mải mê rồi. Miệng thì cứ bảo Trainer \"chớ có gánh vác một mình\".",
+      "jpname": "イナリワン",
+      "jptext": "ちいとばかし、夢中になり過ぎてたみてえだ。\nアネゴには『ひとりで背負うな』なんて言ってよ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Trong khi ngay bên cạnh, đằng ấy vẫn luôn ở đó.",
+      "jpname": "イナリワン",
+      "jptext": "隣にゃ、お前さんがいるのになあ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hê hê, ông anh cừ thật đấy! Suýt chút nữa là tui đổ đứ đừ trước ông anh rồi đó nha?",
+      "jpname": "イナリワン",
+      "jptext": "へへっ、やるなあダンナ！\n危うくおっこちきるところだったぜ？",
+      "choice_data_list": [
+        "Đ-Đổ…… đứ đừ……?"
+      ],
+      "jpchoice_data_list": [
+        "お、おっこち……？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hê hê, Trainer cừ thật đấy! Suýt chút nữa là tui đổ đứ đừ trước Trainer rồi đó nha?",
+      "jpname": "イナリワン",
+      "jptext": "へへっ、やるなあアネゴ！\n危うくおっこちきるところだったぜ？",
+      "choice_data_list": [
+        "Đ-Đổ…… đứ đừ……?"
+      ],
+      "jpchoice_data_list": [
+        "お、おっこち……？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ô kìa! Mau nhìn xem! Một quả pháo khổng lồ sắp bắn lên kìa!!",
+      "jpname": "イナリワン",
+      "jptext": "おっ！　見てみな！　でっけえのが打ち上がるぜ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Nếu đã có người cùng gánh vác với mình, thì pháo hoa bắn lên chắc chắn sẽ còn rực rỡ và vang dội hơn khi một mình nhiều!)",
+      "jpname": "イナリワン",
+      "jptext": "（一緒に背負ってくれるってんなら、\nあたしひとりより、でっけえ花火が打ち上がらあな！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Đã vậy thì, thay vì phân định thắng thua giữa Tamaya với Kagiya, lúc này phải――)",
+      "jpname": "イナリワン",
+      "jptext": "（だったら、たまやとかぎやの勝負よりも、ここは――）"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hô vang \"Wa-shoi!\" mới đúng điệu chứ lị!!!!!",
+      "jpname": "イナリワン",
+      "jptext": "『わあっしょい！』ってなあ！！！！！"
+    }
+  ]
+}

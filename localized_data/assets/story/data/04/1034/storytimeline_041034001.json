@@ -1,0 +1,448 @@
+{
+  "title": "Bổn cô nương là gái Edo chính hiệu!",
+  "jptitle": "こちとら江戸っ子でい！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đã một khoảng thời gian trôi qua kể từ khi tôi bắt đầu cuộc sống của một Trainer tân binh tại Học viện Tracen. Vậy mà tôi vẫn chưa phụ trách cô nàng Mã Nương nào, cũng chưa chiêu mộ được ai.",
+      "jpname": "モノローグ",
+      "jptext": "新人トレーナーとしてトレセン学園での生活を始めてからしばらく。\nいまだ担当ウマ娘はおらず、スカウトもできずにいた。"
+    },
+    {
+      "name": "",
+      "text": "Dĩ nhiên tôi thấy em nào cũng rất xuất sắc, nhưng hễ cứ định mở lời bắt chuyện là lại cảm thấy ngập ngừng sao đó……",
+      "jpname": "モノローグ",
+      "jptext": "もちろんどの子も素晴らしいとは思っているのだが、いざ\n声をかけるとなると、なんとなくためらってしまう……。"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "――Nếu vậy thì tôi có một gợi ý thế này…… Nếu tìm trong trường không được, sao em không thử ra \"ngoài\" xem sao?",
+      "jpname": "駿川たづな",
+      "jptext": "――であれば、1つご提案なのですが……\n中でダメなら、『外』に行かれてみてはいかがでしょう？",
+      "choice_data_list": [
+        "Ra ngoài ạ?"
+      ],
+      "jpchoice_data_list": [
+        "外、ですか？"
+      ]
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Đúng vậy♪ Như em đã biết, đường đua của các Mã Nương đâu chỉ có mỗi Twinkle Series!",
+      "jpname": "駿川たづな",
+      "jptext": "はい♪　ご存じの通り、ウマ娘たちのレースは\n何もトゥインクル・シリーズだけというわけではありません！"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Tại các trường đua rải rác khắp Nhật Bản, các giải đấu riêng vẫn liên tục diễn ra, nơi những cô bé theo học tại các học viện địa phương đang ngày đêm cạnh tranh nảy lửa.",
+      "jpname": "駿川たづな",
+      "jptext": "日本各地に点在するレース場では、独自にシリーズが\n開催され、地方の学園に通う子たちがしのぎを削っています。"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Đôi khi, có những Trainer phát hiện ra tài năng từ những em ấy, rồi ký hợp đồng phụ trách dưới hình thức chuyển trường tới Học viện Tracen này đấy!",
+      "jpname": "駿川たづな",
+      "jptext": "時には、そんな子たちの中から才能を見出し、ここトレセン学園に\n転入という形で担当契約をされるトレーナーさんもいるんですよ！",
+      "choice_data_list": [
+        "Ra là vậy……!"
+      ],
+      "jpchoice_data_list": [
+        "なるほど……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế là tôi lập tức lên đường đến xem một cuộc đua tuyển chọn tại Oi, nơi quy tụ những cô bé nuôi ước mơ tham gia các cuộc đua của trường đua Oi, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "ということで、さっそく大井レースへの出走を目指す子たちが\n集うという、大井での選抜レースを観に向かったのだが――",
+      "choice_data_list": [
+        "Chỗ này…… là đâu thế này……!?",
+        "Đây…… là đâu……!?"
+      ],
+      "jpchoice_data_list": [
+        "ここは……どこだ……！？",
+        "ここ……どこ……！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có lẽ do tới một nơi chưa từng quen thuộc nên tôi lạc đường không thấy lối ra, để rồi cuối cùng――",
+      "jpname": "モノローグ",
+      "jptext": "慣れない場所に来たせいか思いっきり道に迷ってしまい、\n挙げ句の果てには――"
+    },
+    {
+      "name": "Chú mèo bệ vệ",
+      "text": "Gruuuu meooooo!!",
+      "jpname": "風格のある猫",
+      "jptext": "ブゥニャアアアゴ！！",
+      "choice_data_list": [
+        "Oái, cái quái gì thế này!?"
+      ],
+      "jpchoice_data_list": [
+        "うわぁあああ！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi rơi vào cảnh phải chạy trốn trong một cuộc rượt đuổi không hồi kết với một chú mèo có thân hình vạm vỡ khác thường vừa bất thình lình lao ra vồ! Và rồi……",
+      "jpname": "モノローグ",
+      "jptext": "突如襲いかかってきた、やたらと立派な体格の猫と\n終わりなき追いかけっこをする羽目になった！　そして……。"
+    },
+    {
+      "name": "",
+      "text": "(Ụcccc……)",
+      "jpname": "モノローグ",
+      "jptext": "（グゥウウウウ……）",
+      "choice_data_list": [
+        "(Đ…… Đói bụng quá rồi……)"
+      ],
+      "jpchoice_data_list": [
+        "（お……お腹、空いた……）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ha ha ha ha!! Này này này, sao thế kia? Trông đằng ấy có vẻ đói lả người ra rồi đấy chứ hả!",
+      "jpname": "？？？",
+      "jptext": "あっはっはっはっは！！　おうおうおう、どした？\nずいぶんひだるそうじゃあねえか！"
+    },
+    {
+      "name": "Chú mèo bệ vệ",
+      "text": "Meooooo meoooooo!!",
+      "jpname": "風格のある猫",
+      "jptext": "ブニャァァ～～～！！"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Ấy dà. Gì đây, chẳng phải là đại ca mèo khu này sao. ……Hà hà, bộ người ta lỡ dẫm vào địa bàn của ông bạn rồi à?",
+      "jpname": "いなせなウマ娘",
+      "jptext": "うおっと。なんでい、ここらの親分猫じゃあねえか。\n……ははあ、さては縄張りに踏み入られたかい？"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Thôi nào thôi nào, người ta lạ nước lạ cái mới đến đây mà. Nào, để tui gãi cho thế này rồi coi như hòa nhé! ……Ngoan ngoan ngoan ngoan!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "まあまあ、ここらじゃ見ねえ顔のお方がしたことさ。\nどれ、こいつで手打ちにしてくんな！　……よーしよしよしよし！"
+    },
+    {
+      "name": "",
+      "text": "Vừa được cô nàng Mã Nương hào sảng xoa nắn vuốt ve, chú mèo hung hãn ban nãy đã lập tức ngoan ngoãn trở lại! Quả là một ngón nghề điêu luyện không chê vào đâu được……!",
+      "jpname": "モノローグ",
+      "jptext": "いなせなウマ娘に撫で回されると、あれほど凶暴だった猫が\nあっという間に大人しくなった！　見事というほかない手業だ……！"
+    },
+    {
+      "name": "Chú mèo bệ vệ",
+      "text": "Mèoooo meooo♪",
+      "jpname": "風格のある猫",
+      "jptext": "フニャアァァン♪"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Ừ, bữa khác gặp lại nha! ……À này. Đằng ấy lần đầu đến khu này hả? Vừa bị đại ca mèo rượt té khói, vừa lạc đường lại còn đói mốc meo nữa chứ gì.",
+      "jpname": "いなせなウマ娘",
+      "jptext": "おうっ、またな～！　……っと。お前さん、ここらは初めてかい？\n親分猫サマに追い回されたうえ、迷子の迷子で腹ペコってか。"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Thế thì đi theo tui! Để tui dẫn đằng ấy tới một quán mì soba ngon bá cháy luôn.",
+      "jpname": "いなせなウマ娘",
+      "jptext": "そんならあたしについてきな！\nうめえソバ屋まで案内するぜ。",
+      "choice_data_list": [
+        "Tụi mình mới gặp nhau thôi, có phiền em không……?",
+        "Mới gặp nhau thôi mà làm phiền em thế có được không……?"
+      ],
+      "jpchoice_data_list": [
+        "会ったばかりなのに、いいのか……？",
+        "会ったばかりなのに、いいの……？"
+      ]
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Nói năng bậy bạ nào! Tui đâu phải cái ngữ vô tình vô nghĩa thấy người hoạn nạn mà bỏ mặc chứ. Cứ im lặng đi theo tui là được rồi!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "てやんでい！　ここで放っとくような無粋な真似、\nできるかってんだ。いいから黙ってついてきな！"
+    },
+    {
+      "name": "",
+      "text": "Thế là cô nàng Mã Nương hào sảng thoan thoắt sải bước dẫn tôi tới một quán mì soba đứng ăn nằm trong khu phố buôn bán có mái vòm.",
+      "jpname": "モノローグ",
+      "jptext": "こうして案内された先のアーケード街で、いなせなウマ娘は\nずいぶん慣れた足取りで立ち食いソバ屋まで連れて行ってくれた。"
+    },
+    {
+      "name": "Dì quán mì Soba",
+      "text": "Ối chà chà, chẳng phải Inari-chan đó sao! Có muốn ăn miếng đậu hũ rán không cháu? Còn nhiều lắm nè!",
+      "jpname": "ソバ屋のおばちゃん",
+      "jptext": "まあまあまあまあ、イナリちゃんじゃないの！\nおあげさん食べてかないかい？　たーんとあるよ！"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Uầy, thế thì quý hóa quá! Nhưng dì cho cháu gọi thêm một tô mì soba nữa nhé. Cháu có dẫn khách tới nè!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "おっと、こいつはありがてえ！　が、おばちゃん、\nソバも1杯頼むぜ。客を連れてきたんだ！"
+    },
+    {
+      "name": "Dì quán mì Soba",
+      "text": "Ôi chà, xin chào quý khách! Hì hì hì, khách do đích thân Inari-chan dẫn tới thì dì phải khuyến mãi hết mình mới được!",
+      "jpname": "ソバ屋のおばちゃん",
+      "jptext": "あらま、いらっしゃいませ！　うっふっふっ、\nイナリちゃんのご案内ならめいっぱいサービスしないとねぇ！"
+    },
+    {
+      "name": "",
+      "text": "Kết quả là tô mì soba tôi nhận được có phần \"khuyến mãi\" thêm tận hai con tôm chiên tempura to tướng. Nhờ vậy mà bụng tôi no căng tròn!",
+      "jpname": "モノローグ",
+      "jptext": "ということで、いただいたソバには『サービス』で海老天が\nなんと2本ものっていた。おかげですっかり満腹だ！",
+      "choice_data_list": [
+        "Thực sự cảm ơn em nhiều lắm……!"
+      ],
+      "jpchoice_data_list": [
+        "本当にありがとう……！"
+      ]
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Ngon rụng cả lưỡi luôn đúng không! Quán soba số một vùng này đấy. ……Thế nào? Mà rốt cuộc đằng ấy đang tính đi đâu vậy hả.",
+      "jpname": "いなせなウマ娘",
+      "jptext": "ほっぺた落っこっちまったろう！　ここらじゃ1番のソバ屋だぜ。\n……そんで？　お前さん、そもそもどこに行こうとしてたんでい。"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Đã giúp thì giúp cho trót! Khu này là sân nhà của tui, muốn đi đâu tui cũng dẫn đường được hết. Nào, nói nghe xem nào!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "こうなりゃ乗りかかった船だ！　ここらはあたしの庭さ、\nどこでも案内してやらあ。それ、言ってみな！",
+      "choice_data_list": [
+        "Thật ra tôi muốn tới \"trường đua Oi\"……"
+      ],
+      "jpchoice_data_list": [
+        "実は『大井レース場』に行きたくて……"
+      ]
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Hở? Gì cơ chứ? ……Ha ha ha ha ha!!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "んん？　なんだってえ？\n……あっはっはっはっはっは！！"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Trời đất, tui cũng đang tính đến chỗ đó đây này!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "なんでい、あたしもそこに行くとこさ！"
+    },
+    {
+      "name": "",
+      "text": "Nhờ vậy, tôi cũng trầy trật tới được trường đua Oi và vào xem cuộc đua tuyển chọn đang diễn ra tại đó, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "こうして、どうにかこうにか大井レース場まで辿り着き、\nそこでの選抜レース観戦に参加できたのだが――"
+    },
+    {
+      "name": "",
+      "text": "(Ooooooooh!)",
+      "jpname": "モノローグ",
+      "jptext": "（ウォオオオオッ！）"
+    },
+    {
+      "name": "Mã Nương hào sảng",
+      "text": "Tránh ra tránh raaaaa!! Tránh hết đường cho bổn cô nương mauuuuu!!",
+      "jpname": "いなせなウマ娘",
+      "jptext": "だぁああああらぁああああっ！！\nどいたどいたどいたぁあああああ！！",
+      "choice_data_list": [
+        "Khoan, chẳng phải cô bé hồi nãy sao!?"
+      ],
+      "jpchoice_data_list": [
+        "って、今日会った子！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Không ngờ em ấy lại là tuyển thủ tham gia cuộc đua này! À không, quan trọng hơn là……!",
+      "jpname": "モノローグ",
+      "jptext": "まさか選抜レースの出走者だったとは！\nいや、それよりも……！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Đã vào đoạn thẳng cuối cùng! Giờ đây, người đang dũng mãnh cuộn tung cát bụi vọt lên dẫn trước chính là Inari One, Inari One!",
+      "jpname": "実況",
+      "jptext": "いよいよ最後の直線！　さあ、ここで土煙を力強く巻き上げながら\n飛び出しましたのはイナリワン、イナリワンです！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cú này sẽ là…… dấu chấm hết! Lên đi nàooooooo!!",
+      "jpname": "イナリワン",
+      "jptext": "こいつで……終いだっ！\nおらぁああああああああ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Inari One đang dẫn đầu! Inari One đang dẫn đầu! Đã bỏ xa nhóm bám đuổi hai thân ngựa, rồi ba thân ngựa!! Inari One, chính là Inari One!!",
+      "jpname": "実況",
+      "jptext": "イナリワン先頭！　イナリワン先頭！　2バ身、3バ身と\n後続を突き放す！！　さあイナリワン、イナリワンだ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Đã cán đích! Inari One đã giành chiến thắng áp đảo tại cuộc đua tuyển chọn Oi với cách biệt bốn thân ngựa! Một sức mạnh ngập tràn ẩn trong vóc dáng nhỏ bé, màn trình diễn thực sự quá đỗi tuyệt vời!!",
+      "jpname": "実況",
+      "jptext": "ゴールインッ！　イナリワン、大井選抜レースを4バ身差で圧勝っ！\n小柄な体躯に溢れるパワー、見事な走りでした！！",
+      "choice_data_list": [
+        "……Hắt…… phù……!!"
+      ],
+      "jpchoice_data_list": [
+        "……っ、はぁ……！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tiếng thở hắt ra bất giác là minh chứng cho việc tôi đã mải ngắm nhìn đến mức quên cả thở. ……Đến mức tôi hoàn toàn bị hớp hồn bởi những bước chạy vừa chứng kiến.",
+      "jpname": "モノローグ",
+      "jptext": "思わず漏れた吐息は、呼吸を忘れ見入っていた証でもあった。\n……それほど、たったいま目にした走りに魅せられていた。"
+    },
+    {
+      "name": "",
+      "text": "Trái tim tôi đập rộn ràng từng hồi. Bước chạy dũng mãnh tựa hồ rung chuyển cả mặt đất. Ý chí chiến đấu hừng hực bùng cháy như pháo hoa rực sáng. Tốc độ chói lọi ngay cả trên nền đất cát.",
+      "jpname": "モノローグ",
+      "jptext": "心臓が大きく脈打つ。大地を揺るがすかのような力強い走り。\n火花がごとく燃え盛る闘争心。砂地でさえ光って見えたスピード。"
+    },
+    {
+      "name": "",
+      "text": "Nhất định trên đường chạy cỏ――ngay cả ở Twinkle Series, em ấy cũng hoàn toàn có thể làm nên chuyện. Chỉ có thể là em ấy…… không ai khác ngoài em ấy!",
+      "jpname": "モノローグ",
+      "jptext": "間違いなく芝コースでも――トゥインクル・シリーズでも通用する。\n彼女しかいない……彼女しかいない！",
+      "choice_data_list": [
+        "Mình muốn――chiêu mộ cô bé ấy!"
+      ],
+      "jpchoice_data_list": [
+        "あの子を――スカウトしたい！"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Không được, xin lỗi đằng ấy nhé. Tui rất cảm kích tấm lòng của đằng ấy, nhưng lời đề nghị đó thì tui không nhận được đâu.",
+      "jpname": "イナリワン",
+      "jptext": "いや、すまねえ。\nお前さんの気持ちは嬉しいが、その話は受けられねえな。"
+    },
+    {
+      "name": "",
+      "text": "Dẫu vậy, cô nàng Mã Nương hào sảng――Inari One, sau khi chăm chú lắng nghe hết những lời tôi giãi bày, đã dứt khoát đáp lại như thế.",
+      "jpname": "モノローグ",
+      "jptext": "が、いなせなウマ娘――イナリワンは、自分の話を\n最後まで黙って聞いてくれたのちに、きっぱりとそう答えた。",
+      "choice_data_list": [
+        "……Tôi có thể hỏi lý do được không?",
+        "……Anh có thể hỏi lý do được không?"
+      ],
+      "jpchoice_data_list": [
+        "……理由を、聞いてもいいか？",
+        "……理由を、聞いてもいい？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Đằng ấy thấy rồi đấy, tui sinh ra ở phố cổ, lớn lên cũng ở phố cổ! Từ hồi còn chập chững biết đi, tui đã được tất cả mọi người trong phố chăm sóc chẳng khác nào người trong nhà.",
+      "jpname": "イナリワン",
+      "jptext": "見ての通り、あたしは下町生まれ下町育ち！\nよちよち歩きの頃から、町のみーんなと家族みてえに育ったんだ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cách chạy này cũng vậy. Tui có một bác thợ cả đã luôn kèm cặp và nuôi nấng tui khôn lớn. Bác ấy đang ở đội tuyển Oi này đợi tui gia nhập.",
+      "jpname": "イナリワン",
+      "jptext": "走り方も同じさ。ずうっと面倒見て、育ててくれた親方がいる。\nその人は、この大井のチームであたしを待ってくれてんだ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Chưa kể là――",
+      "jpname": "イナリワン",
+      "jptext": "おまけに――"
+    },
+    {
+      "name": "Mã Nương dây buộc tóc tím",
+      "text": "――A, đại tỷ Inari đây rồi! Chúc mừng chị nhé! Em thì…… lại hụt hơi giữa chừng nên chỉ về thứ 5 thôi……",
+      "jpname": "紫シュシュのウマ娘",
+      "jptext": "――あっ、いたいたイナリの姐さんっ！　おめでとうございますー！\n自分は……またスタミナ切れしちゃって、5着でしたが……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Làm gì mà ủ rũ thế kia! Cứ dốc hết sức mình chạy là tốt rồi. Với lại, bên chỗ bác thợ cả đã gửi lời mời em vào đội rồi đúng không?",
+      "jpname": "イナリワン",
+      "jptext": "なんでい、しけた顔しやがって！　一生懸命走った結果だろがい。\nそれに、親方んとこから所属の話は来たんだろ？"
+    },
+    {
+      "name": "Mã Nương dây buộc tóc tím",
+      "text": "Vâng ạ! Được vào cùng một đội với đại tỷ Inari mà em hằng ngưỡng mộ từ thuở bé……! Em vui lắm! Trăm sự nhờ chị chỉ bảo thêm ạ!!",
+      "jpname": "紫シュシュのウマ娘",
+      "jptext": "はいっ！　ちっちゃい頃からずっと憧れだったイナリの姐さんと、\n同じチーム……！　嬉しいです！　よろしくお願いしますっ！！"
+    },
+    {
+      "name": "Mã Nương dây buộc tóc tím",
+      "text": "A, em xin lỗi vì đã chen ngang lúc hai người đang nói chuyện! Em xin phép đi trước ạ!!",
+      "jpname": "紫シュシュのウマ娘",
+      "jptext": "あ、お話しのとこすみませんでした！　失礼しますっ！！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ừ, lát gặp lại nhé!! …………Đấy. Chuyện là vậy đó đằng ấy.",
+      "jpname": "イナリワン",
+      "jptext": "おうっ、また後でな！！\n…………っと。ま、こんな感じでな。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Bổn cô nương là gái Edo chính hiệu. Người thợ cả đã cưu mang tui hay những đàn em dễ thương thế này, tui quyết không bao giờ phản bội họ đâu. ……Thông cảm cho tui nhé!",
+      "jpname": "イナリワン",
+      "jptext": "こちとら江戸っ子でい。世話んなった親方のことも、\n可愛い子分のことも、裏切れねえのさ。……わりいな！",
+      "choice_data_list": [
+        "Không, không sao đâu…… Tôi hiểu hoàn cảnh của em rồi",
+        "Không sao đâu…… Anh hiểu hoàn cảnh của em rồi"
+      ],
+      "jpchoice_data_list": [
+        "いや、いいんだ……事情はわかったから",
+        "いや、いいよ……事情はわかったから"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "……Này này, đừng có trưng cái bộ mặt thiểu não thế ra chứ! Đằng ấy nhìn trúng được bổn cô nương đây chứng tỏ mắt nhìn người cũng tinh tường lắm đấy!",
+      "jpname": "イナリワン",
+      "jptext": "……おいおい、そうしょぼくれた顔すんない！\nお前さん、このあたしに声をかけるたあ見る目があるぜ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Với tài nhìn người đó thì đằng ấy thế nào cũng tìm được em nào giỏi ở Học viện Tracen thôi. Nơi đó là danh môn lẫy lừng cơ mà đúng không? Thế thì――",
+      "jpname": "イナリワン",
+      "jptext": "その目利きっぷりなら、トレセン学園でもいい子が見つかるさ。\nとんでもねえ名門なんだろ？　だったら――",
+      "choice_data_list": [
+        "Tôi cũng đã lùng sục khắp cả học viện rồi. Thế nhưng――"
+      ],
+      "jpchoice_data_list": [
+        "学園の中でもさんざん探したんだ。でも――"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Nhưng…… cái gì cơ?",
+      "jpname": "イナリワン",
+      "jptext": "でも、……なんでい？",
+      "choice_data_list": [
+        "Nhưng tôi vẫn nghĩ người đó chỉ có thể là em",
+        "Nhưng anh vẫn nghĩ người đó chỉ có thể là em"
+      ],
+      "jpchoice_data_list": [
+        "それでも、君しかいないって思ったんだ",
+        "それでも、貴方しかいないって思ったんだ"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "…………!",
+      "jpname": "イナリワン",
+      "jptext": "…………！"
+    },
+    {
+      "name": "Inari One",
+      "text": "À, không…… th-thế à. Kh-khoan đã nào………………",
+      "jpname": "イナリワン",
+      "jptext": "あ、いや……そ、そうかい。\nえーーーっと………………。"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Đằng ấy đã nhớ đường về chưa đấy? Đừng để bị đại ca mèo tóm lại lần nữa đó nha. Thế thì…… ừm, đi đường cẩn thận nhé!",
+      "jpname": "イナリワン",
+      "jptext": "……道は、もう覚えたかい？　親分猫には取っ捕まるんじゃねえぜ。\nそんじゃ……その、気をつけて帰んなよ！"
+    }
+  ]
+}

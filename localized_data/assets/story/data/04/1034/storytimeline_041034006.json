@@ -1,0 +1,408 @@
+{
+  "title": "Cứ để Inari đại nhân lo!",
+  "jptitle": "イナリ様に任せときな！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nghỉ. Trong lúc đang gom góp tài liệu cần thiết cho việc tập luyện của Inari One thì――",
+      "jpname": "モノローグ",
+      "jptext": "休日。イナリワンのため、\nトレーニングに必要な資料を集めていると――"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ông anh, tình cờ ghê ta! Gì thế kia, đi mua sắm một mình hả?",
+      "jpname": "イナリワン",
+      "jptext": "ダンナ、偶然だな！\nなんでい、1人で買い物かい？",
+      "choice_data_list": [
+        "Inari cũng thế à?"
+      ],
+      "jpchoice_data_list": [
+        "イナリも？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Trainer, tình cờ ghê ta! Gì thế kia, đi mua sắm một mình hả?",
+      "jpname": "イナリワン",
+      "jptext": "アネゴ、偶然だな！\nなんでい、1人で買い物かい？",
+      "choice_data_list": [
+        "Inari cũng thế à?"
+      ],
+      "jpchoice_data_list": [
+        "イナリも？"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "À thì, sắp tới đám đàn em tính lên đây chơi nên tui đang lượn quanh mấy cửa tiệm trước để chuẩn bị dẫn tụi nó đi ấy mà.",
+      "jpname": "イナリワン",
+      "jptext": "いやな、今度こっちに子分たちが遊びに来るってんで、\nいろいろと店を回ってたんだ。案内してやろうと思ってよ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cơ mà sao lắm tiệm sang chảnh điệu đà thế không biết! Tính chọn chỗ nào thật oách xà lách mà nhiều tiệm quá hoa cả mắt!",
+      "jpname": "イナリワン",
+      "jptext": "しっかし、シャレた店が多いのなんの！\nビシッと決めてえところだが、候補が多すぎらあな！"
+    },
+    {
+      "name": "Inari One",
+      "text": "……Phải rồi! Gu thẩm mỹ của ông anh thì chắc chuẩn không cần chỉnh rồi! Có chỗ nào hay ho thì chỉ cho tui với được không!",
+      "jpname": "イナリワン",
+      "jptext": "……そうだ！　ダンナのセンスなら間違いねえだろ！\nおすすめの場所ってのがあれば、教えてくれねえか！",
+      "choice_data_list": [
+        "Để tôi dẫn đường cho"
+      ],
+      "jpchoice_data_list": [
+        "案内するよ"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "……Phải rồi! Gu thẩm mỹ của Trainer thì chắc chuẩn không cần chỉnh rồi! Có chỗ nào hay ho thì chỉ cho tui với được không!",
+      "jpname": "イナリワン",
+      "jptext": "……そうだ！　アネゴのセンスなら間違いねえだろ！\nおすすめの場所ってのがあれば、教えてくれねえか！",
+      "choice_data_list": [
+        "Để anh dẫn đường cho"
+      ],
+      "jpchoice_data_list": [
+        "案内するよ"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ồ, quý hóa quá! Trăm sự nhờ cậy ông anh nhé!",
+      "jpname": "イナリワン",
+      "jptext": "おお、ありがてえ！　頼むぜ、ダンナ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ồ, quý hóa quá! Trăm sự nhờ cậy Trainer nhé!",
+      "jpname": "イナリワン",
+      "jptext": "おお、ありがてえ！　頼むぜ、アネゴ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Cái ly kem parfait rực rỡ lòe loẹt gì thế này! Lại còn cắm cả hoa tây thời thượng lên trên nữa…… Chà chà! Đây là cái thứ mà người ta gọi là \"sống ảo\" đó hả!",
+      "jpname": "イナリワン",
+      "jptext": "なんでい、このド派手なパフェは！\nハイカラな花まで載せて……は～！　これが映えってヤツかい！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ôi chà!? Mọi người mặc đồ bơi đi lại khắp nơi kìa! Lại còn cái điệu nhảy đằng kia nữa…… hay ho phết, chẳng khác nào lễ hội!",
+      "jpname": "イナリワン",
+      "jptext": "おおっ！？　あちこち水着で歩いてるじゃねえか！\nしかも向こうで踊ってるアレ……いいねえ、まるで祭りだ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ồ, bida đúng không!? Món này tui cũng từng thấy qua rồi nhé! Sao nào, làm một ván phân tài cao thấp không hả!?",
+      "jpname": "イナリワン",
+      "jptext": "お、ビリヤードだろ！？　見たことくらいあらあな！\nどうでい、一発勝負といくかい！？"
+    },
+    {
+      "name": "Inari One",
+      "text": "Chỗ này cũng toàn đồ sành điệu nhỉ. ……Ơ kìa, đằng kia là cái gì thế?",
+      "jpname": "イナリワン",
+      "jptext": "ここもシャレたもんがいっぱいだなあ。\n……おっ、ありゃあなんだ？"
+    },
+    {
+      "name": "Inari One",
+      "text": "Tui chạy qua đằng kia ngó nghiêng chút nha!",
+      "jpname": "イナリワン",
+      "jptext": "ちっと向こうのほう、見てくるぜ！"
+    },
+    {
+      "name": "",
+      "text": "Inari One vốn là người luôn chăm lo để ý đến đối phương. Em ấy vừa thích thú ngắm nghía các món hàng vừa rảo bước vào sâu trong góc tiệm.",
+      "jpname": "モノローグ",
+      "jptext": "いつもはこちらを気遣うことの多いイナリワン。\n興味深そうに商品を見ながら、店の奥に入って行く。"
+    },
+    {
+      "name": "",
+      "text": "Sắp tới đám \"đàn em\" cũng lên chơi, giá mà em ấy có thể thả lỏng một chút và thư thả nghỉ ngơi thì tốt biết mấy.",
+      "jpname": "モノローグ",
+      "jptext": "今度は『子分』も来るようだし、いっとき肩の力を抜いて、\nのんびりと息抜きができればいいのだが。"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi đang đi loanh quanh chờ Inari One quay lại thì――",
+      "jpname": "モノローグ",
+      "jptext": "イナリワンが戻るまで、辺りをウロウロとしていると――"
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "Đã bảo là tôi mang về nhà mở ra thì thấy nó bị vỡ rồi mà! Đổi cho tôi cái khác thì có mất mát gì đâu chứ?",
+      "jpname": "客の男性",
+      "jptext": "だから、家で開けてみたら壊れてたんだって！\n交換してくれてもいいだろ？"
+    },
+    {
+      "name": "Nhân viên tiệm tạp hóa",
+      "text": "Nhưng thưa quý khách, lúc gói hàng rõ ràng không có vấn đề gì cả, thì…… có khi nào trên đường về quý khách đã lỡ va quẹt vào đâu không ạ.",
+      "jpname": "雑貨店の店員",
+      "jptext": "しかしお客様、お包みした時に問題なかったのであれば、\nその……途中でぶつけられたか何かしたのではないかと。"
+    },
+    {
+      "name": "",
+      "text": "Ngay quầy thu ngân, nhân viên và vị khách đang to tiếng cãi vã. Vị khách nam ngày càng nổi xung lên, trông như sắp sửa lao vào túm cổ áo nhân viên đến nơi.",
+      "jpname": "モノローグ",
+      "jptext": "レジのところで店員と客が揉めている。客は段々と\nヒートアップしていき、今にも店員に掴みかかりそうだ。",
+      "choice_data_list": [
+        "(Inari đang ở đằng xa, với lại……)"
+      ],
+      "jpchoice_data_list": [
+        "（イナリは今離れているし……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu mình ra mặt can ngăn thì chắc cũng không lo em ấy bị lôi vào rắc rối. Tôi liền bước vào giữa làm dịu tình hình và lên tiếng khuyên can đôi bên bình tĩnh.",
+      "jpname": "モノローグ",
+      "jptext": "自分が仲裁に入っても、巻き込む心配はないだろう。\nまあまあと間に入り、落ち着くように声をかけた。",
+      "choice_data_list": [
+        "Xin lỗi, hai người hãy bình tĩnh lại một chút để nói chuyện được không?"
+      ],
+      "jpchoice_data_list": [
+        "あの、少し冷静になって話をしませんか？"
+      ]
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "Hả!? Mày là thằng nào! Không liên quan thì chớ có xía mồm vào! Hay là sao? Mày định đền thay à――",
+      "jpname": "客の男性",
+      "jptext": "ああ！？　誰だよ、アンタ！　関係ないのに口出すな！\nそれとも何か？　アンタが代わりに――"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ấy dà, này người anh em! Được đấy được đấy, khí thế hừng hực bốc lửa gớm nhỉ!",
+      "jpname": "イナリワン",
+      "jptext": "おっと、兄さん！\nいいねえいいねえ、血気盛んに燃えてらあな！"
+    },
+    {
+      "name": "",
+      "text": "……Đúng lúc mũi giáo phẫn nộ chĩa thẳng vào tôi, một bóng người nhỏ nhắn đã lập tức chắn ngay phía trước.",
+      "jpname": "モノローグ",
+      "jptext": "……怒りの矛先がこちらに向いた瞬間、\n目の前に小さな影が入り込んだ。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Chuyện thế nào tui nghe hết rồi nhé. Nhưng đứng cằn nhằn thì giải quyết được cái gì. Sao không đường đường chính chính phân định trắng đen bằng một trận so tài xem nào!",
+      "jpname": "イナリワン",
+      "jptext": "話は聞こえたぜ。だが、文句を言ってても仕方ねえ。\nここは正々堂々、一発勝負で白黒つけたらどうでい！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Đã phân bua là xong chuyện không thù oán gì nữa nhé! Nào nào, bắt đầu thôi! Muốn chạy đua hay là muốn――",
+      "jpname": "イナリワン",
+      "jptext": "喧嘩すんなら、あとくされはなしだ！\nさあさ、始めようぜ！　勝負はレースか、それとも――"
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "Hực…… Hả? C-Cô em đang lảm nhảm cái quái gì thế……",
+      "jpname": "客の男性",
+      "jptext": "っ……は？　な、なに訳のわからないことを……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Có gì đâu mà lo! Trọng tài cứ để Inari đại nhân này lo liệu! Đảm bảo phán quyết chuẩn chỉnh rành rọt luôn!",
+      "jpname": "イナリワン",
+      "jptext": "なあに、心配はいらねえ！　審判は、このイナリ様に任せな！\nドドンッとバッチリ決めてやらあ！"
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "……Hực, t-tôi cũng đâu có muốn gây sự đánh nhau gì…… À…… ừ, chỉ là tôi hơi mất bình tĩnh một chút thôi……",
+      "jpname": "客の男性",
+      "jptext": "……っ、べ、別に喧嘩したいわけじゃ……。\nあー……うん、アレだ。少し熱くなってただけで……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Gì chứ, hóa ra chuyện muốn đánh nhau chỉ là do tui hấp tấp hiểu lầm sao! Xin lỗi người anh em nhé! Bỏ quá cho tui nha.",
+      "jpname": "イナリワン",
+      "jptext": "なんでい、喧嘩したいってのは、あたしの早とちりだったか！\nすまねえな、兄さん！　勘弁しとくれ。"
+    },
+    {
+      "name": "",
+      "text": "Vị khách nam ngơ ngác một lúc, rồi nhìn thấy nụ cười tươi rói của Inari One thì thở dài một hơi thật sâu. ……Có vẻ anh ta đã hạ hỏa.",
+      "jpname": "モノローグ",
+      "jptext": "客の男性はポカンとしたあと、ニッと笑うイナリワンの顔を見て、\n大きく深呼吸をした。……どうやら落ち着いたらしい。"
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "……Không, là tôi sai. Vì đây là quà tặng bạn gái nên tôi mới hơi nóng giận mất khôn.",
+      "jpname": "客の男性",
+      "jptext": "……いや、俺が悪い。彼女へのプレゼントだったから、\nちょっとムキになっちゃって。"
+    },
+    {
+      "name": "Vị khách nam",
+      "text": "Cả nhân viên lẫn người anh em đằng kia…… tôi thành thật xin lỗi. Còn cô em nữa…… ừm, cảm ơn vì đã can ngăn nhé.",
+      "jpname": "客の男性",
+      "jptext": "店員さんも、そこの人も……申し訳ない。\n君も……その、止めてくれてありがとう。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Này ông anh! Dám mở lời can ngăn lúc đó, gan dạ gớm đấy chứ.",
+      "jpname": "イナリワン",
+      "jptext": "おう、ダンナ！　あそこで声かけるたあ、\nなかなか根性あるじゃねえか。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Này Trainer! Dám mở lời can ngăn lúc đó, gan dạ gớm đấy chứ.",
+      "jpname": "イナリワン",
+      "jptext": "おう、アネゴ！　あそこで声かけるたあ、\nなかなか根性あるじゃねえか。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Đằng ấy hoàn toàn có thể làm ngơ giả vờ không thấy cơ mà, đúng là cừ thật đấy!",
+      "jpname": "イナリワン",
+      "jptext": "見て見ぬフリもできただろうによ、てえしたもんだぜ！",
+      "choice_data_list": [
+        "Inari cũng ngầu lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "イナリもカッコよかった"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Nói bậy nào, làm người ta ngại muốn chết! Hì hì, nhưng được đằng ấy khen thì cũng không tệ chút nào đâu nha.",
+      "jpname": "イナリワン",
+      "jptext": "てやんでい、照れるじゃねえか！\nへへっ、でもお前さんに言われるのは悪かねえなあ。"
+    },
+    {
+      "name": "",
+      "text": "Lúc đó, nếu Inari One không kịp thời xen vào giữa thì có khi chuyện lớn đã xảy ra rồi.",
+      "jpname": "モノローグ",
+      "jptext": "あの時、イナリワンが間に入ってくれなければ、\n大事になっていたかもしれない。"
+    },
+    {
+      "name": "",
+      "text": "May mà nhờ thế mà vị khách kia lấy lại bình tĩnh, chứ lỡ như anh ta nổi điên lên thì……",
+      "jpname": "モノローグ",
+      "jptext": "だが、あれで客の男性が落ち着いてくれたからよかったものの、\nもしも逆上していたら……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hở? Sao thế kia, cứ nhìn chằm chằm người ta mãi. Mặt tui dính cái gì à?",
+      "jpname": "イナリワン",
+      "jptext": "ん？　どうしたんでい、マジマジと見つめて。\nあたしの顔になにかついてるのかい？",
+      "choice_data_list": [
+        "Tôi mong em đừng làm những chuyện nguy hiểm như thế"
+      ],
+      "jpchoice_data_list": [
+        "危ないことはしないでほしい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù rốt cuộc người kéo em ấy vào chuyện rắc rối có thể là tôi, nhưng tôi tuyệt đối không muốn Inari One phải gặp bất kỳ nguy hiểm nào.",
+      "jpname": "モノローグ",
+      "jptext": "結果的に巻き込んでしまったのはこちらかもしれないが、\nそれでもイナリワンが危ない目に遭うことだけは避けたい。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hì hì, tưởng trưng cái vẻ mặt nghiêm trọng làm gì cơ chứ……",
+      "jpname": "イナリワン",
+      "jptext": "へへっ、深刻な顔してるかと思えば……。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Nói năng nhảm nhí, cái đồ ngốc này!! Câu đó phải để tui nói mới đúng chứ!",
+      "jpname": "イナリワン",
+      "jptext": "てやんでい、べらぼうめ！！\nそれはこっちのセリフだってんだ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Thiệt tình, ông anh hiền lành tốt bụng quá mức rồi đấy. Chuyện gì cũng muốn ôm đồm một mình là không được đâu!",
+      "jpname": "イナリワン",
+      "jptext": "ったく、おひとがよすぎるぜ、ダンナ。\nなんでもひとりで背負おうとしちゃあいけねえや！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Thiệt tình, Trainer hiền lành tốt bụng quá mức rồi đấy. Chuyện gì cũng muốn ôm đồm một mình là không được đâu!",
+      "jpname": "イナリワン",
+      "jptext": "ったく、おひとがよすぎるぜ、アネゴ。\nなんでもひとりで背負おうとしちゃあいけねえや！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Vụ vừa rồi, ý đằng ấy là lỡ đâu xảy ra ẩu đả chứ gì? Nhưng thế vẫn còn tốt hơn vạn lần chuyện đằng ấy bị người ta đánh.",
+      "jpname": "イナリワン",
+      "jptext": "今回のことはよ、もしも喧嘩になったら……って話だろ？\nでもよ、お前さんがやられるよりかは、ずっといい。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Bởi vì về sức lực thì Mã Nương như tui khỏe hơn nhiều, cứ vững tâm giao hết cho tui là xong!",
+      "jpname": "イナリワン",
+      "jptext": "だってよ、力はウマ娘のあたしのが強いんだ、\nドンッと任せりゃいいのさ！",
+      "choice_data_list": [
+        "Thế nhưng……"
+      ],
+      "jpchoice_data_list": [
+        "だけど……"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Hồi trước lúc đằng ấy lạc đường, tui đã dẫn lối giùm. Còn hôm nay đằng ấy lại dẫn tui đi tham quan bao nhiêu là cửa tiệm.",
+      "jpname": "イナリワン",
+      "jptext": "前に道に迷った時、あたしが案内したなあ。\nで、今日はお前さんがいろんな店に案内してくれた。"
+    },
+    {
+      "name": "Inari One",
+      "text": "Tui nhắc lại lần nữa nhé. Vểnh tai lên mà nghe cho thật kỹ đây này. Không việc gì phải gánh vác mọi thứ một mình hết!",
+      "jpname": "イナリワン",
+      "jptext": "もう1度言うぜ。耳の穴かっぽじって、よおく聞きな。\nなんでもひとりで背負う必要はねえ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Tùy từng lúc mà ai làm được việc gì thì người đó đứng ra làm. Đó gọi là đúng người đúng việc, chuẩn chưa nào?",
+      "jpname": "イナリワン",
+      "jptext": "その時々、できるヤツができることをすりゃあいい。\n適材適所ってヤツだ、なあ？",
+      "choice_data_list": [
+        "Chuyện đó thì đúng là vậy, nhưng mà……"
+      ],
+      "jpchoice_data_list": [
+        "それはそうだけど……"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "Ông anh nghiêm túc quá mức rồi đấy! ……À mà thôi, ông mặt trời cũng sắp đi ngủ rồi kìa, tụi mình về thôi!",
+      "jpname": "イナリワン",
+      "jptext": "ダンナは真面目すぎらあ！　……っと、\nお天道様も休む時間になるな、帰ろうぜ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "Trainer nghiêm túc quá mức rồi đấy! ……À mà thôi, ông mặt trời cũng sắp đi ngủ rồi kìa, tụi mình về thôi!",
+      "jpname": "イナリワン",
+      "jptext": "アネゴは真面目すぎらあ！　……っと、\nお天道様も休む時間になるな、帰ろうぜ！"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Chuyện ông anh lúc nào cũng nghiêm túc và dốc hết ruột gan, bổn cô nương Inari đây cũng thừa hiểu chứ bộ?)",
+      "jpname": "イナリワン",
+      "jptext": "（ダンナがいっつも真剣で本気だってのはよ、\nこのイナリ様も、よおくわかってるつもりだぜ？）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Chuyện Trainer lúc nào cũng nghiêm túc và dốc hết ruột gan, bổn cô nương Inari đây cũng thừa hiểu chứ bộ?)",
+      "jpname": "イナリワン",
+      "jptext": "（アネゴがいっつも真剣で本気だってのはよ、\nこのイナリ様も、よおくわかってるつもりだぜ？）"
+    },
+    {
+      "name": "Inari One",
+      "text": "(Cũng vì thế mà đằng ấy cứ thích làm mấy trò liều lĩnh! Hì hì, nếu không để mắt trông chừng cẩn thận thì ai mà yên tâm cho nổi chứ!)",
+      "jpname": "イナリワン",
+      "jptext": "（そのせいで、すぐに無茶をしやがることもな！\nへへっ、ちゃんと見ていてやらねえと、こっちが心配にならあな！）"
+    },
+    {
+      "name": "Inari One",
+      "text": "Nào nào, lát về kể chuyện hôm nay cho đám đàn em nghe mới được! Phải khoe là \"Trainer của Inari đại nhân đã đích thân dẫn đường\" đấy nha!",
+      "jpname": "イナリワン",
+      "jptext": "さあて、子分たちに今日の話でもしてやるか！\n『イナリ様のトレーナーが案内してくれた』ってよ！"
+    },
+    {
+      "name": "",
+      "text": "Inari One lại vỗ bốp bốp vào lưng tôi rồi cười phá lên một cách hào sảng.",
+      "jpname": "モノローグ",
+      "jptext": "またこちらの背中を叩きながら、豪快に笑うイナリワンだった。"
+    }
+  ]
+}
