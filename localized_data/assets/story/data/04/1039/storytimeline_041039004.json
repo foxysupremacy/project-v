@@ -1,0 +1,442 @@
+{
+  "title": "Tôi mới chính là công chúa đó nha!",
+  "jptitle": "私こそがお姫様っ！ですわっ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Và rồi ngày diễn ra kỳ đua tuyển chọn cũng đã đến. Khi tôi đến gặp Kawakami Princess trước giờ xuất phát thì――",
+      "jpname": "モノローグ",
+      "jptext": "そして、選抜レース当日。\n出走前のカワカミプリンセスに会いに行くと――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Chào Trainer một ngày tốt lành ạ. Người bảo hộ đã đến xem em chạy rồi nhỉ.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ごきげんよう、トレーナーさん。\n観に来てくれましたのね。",
+      "choice_data_list": [
+        "Phong độ thế nào rồi?"
+      ],
+      "jpchoice_data_list": [
+        "調子はどう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Nói thật lòng thì em đang thiếu ngủ trầm trọng đó nha! Nghĩ ngợi lung tung nhiều quá đến mức rối cả đầu, nên sau đó em đã cày liền tù tì một mạch 49 tập của Princess Fighter luôn đấy ạ!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ぶっちゃけ寝不足ですわね！　悩みすぎてわけがわからなくて、\nあれからプリファイ全49話、一気見しちゃいましたわっ！",
+      "choice_data_list": [
+        "E-Em có ổn thật không đấy!?",
+        "E-Em có sao không đấy!?"
+      ],
+      "jpchoice_data_list": [
+        "だ、大丈夫なのか！？",
+        "だ、大丈夫なの！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Em cũng không biết nữa! Nhưng mà giờ chỉ còn nước tiến tới thôi. Trong Princess Fighter cũng từng nói \"Đã là công chúa thì đến phút cuối có va chạm cũng không bao giờ gục ngã!\" cơ mà!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "わかりません！　けど、やるしかないですわ。プリファイも\n『姫たるもの最後は当たって砕けるな！』って言ってましたし！",
+      "choice_data_list": [
+        "Tôi sẽ cổ vũ hết mình cho em"
+      ],
+      "jpchoice_data_list": [
+        "応援してるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Em cảm ơn người bảo hộ nhiều lắm ạ! Vậy thì em xin phép xuất kích đây!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ありがとうございます！　では、行って参りますわ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Trái ngược với cơn mưa tối qua, cuộc đua thứ 3 của kỳ tuyển chọn bắt đầu dưới bầu trời xanh ngắt. Liệu nàng Mã Nương nào sẽ thể hiện thực lực để giành lấy tấm vé ra mắt đây!",
+      "jpname": "実況",
+      "jptext": "昨晩の雨から一転、青空のもと始まります選抜第3レース。\n実力を示し、デビューへの切符を掴むウマ娘は果たして誰か！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Thực lực cân tài cân sức, bầu không khí cạnh tranh khốc liệt chưa từng thấy bao trùm khi tất cả các Mã Nương đã tiến vào cổng xuất phát. Và giờ――Xuất phát!",
+      "jpname": "実況",
+      "jptext": "実力伯仲、いつにない混戦ムードが立ち込める中、\n全てのウマ娘がゲートに入ります。そして、今――スタート！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hà…… hà……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "は……っ、は……っ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(A a, quả nhiên được dốc hết toàn lực chạy thật là sướng làm sao……!)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（あぁ、やっぱり全力で動くって気持ちいい……！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Từ xưa đến nay vẫn luôn như vậy. Mình thích công chúa. Nhưng mình cũng cực kỳ thích vận động nữa)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（昔からそうだった。お姫様は好き。でも動くのも大好き）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Lúc gặp chị King, mình đã xúc động biết bao. Chị ấy tao nhã như một nàng công chúa…… nhưng lại mang sức mạnh kiên cường không bao giờ chịu khuất phục……)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（キングさんと出会った時は、感動しましたわ。\n優雅で、お姫様みたいで……でも絶対に挫けないあの強さ……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Cả Princess Fighter lẫn chị King đều sở hữu cùng một vầng hào quang rực rỡ ấy. Lấp lánh, chói lòa, khiến mình ngưỡng mộ vô cùng……)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（プリファイもキングさんも、同じ輝きを持ってた。\nキラキラして、眩しくて、うらやましかった……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Nhưng mà, vậy thì rốt cuộc thứ mà mình thực sự khao khát hướng tới là gì cơ chứ……?)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（でも、じゃあ私が本当に憧れていたものって、何……？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hà…… hà…… hự……!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "はあ……はあ……、く……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Khó thở quá――mình không hiểu nổi. Dù có cố bắt chước thì mình vẫn chẳng hiểu gì cả. Bản thân mình muốn trở thành gì cơ chứ…… Nàng công chúa mà mình muốn trở thành là gì……?)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（苦しい――わからない。真似っこしたってわからなかった。\n私がなりたいもの……私がなりたい、お姫様って……？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Mặc dù Trainer đã bảo là có mà…… Nhất định phải có một \"lý tưởng\" của riêng mình chứ――!)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（トレーナーさんは、あるって言ってくれたのに……。\n私の“理想”が、あるはずなのに――！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "…………A a a!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "…………あっ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ối chà, ngay trước khúc cua cuối cùng, vừa rồi là bị trượt chân sao!? Kawakami Princess đang bị dạt hẳn ra làn ngoài.",
+      "jpname": "実況",
+      "jptext": "おーーっと、最終コーナー手前、これは滑ったかっ！？\nカワカミプリンセスが外へとヨレる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Lao vào vũng bùn rồi sao…… Lỗi chọn đường chạy rồi. Cơ mà với một đứa bé trước màn ra mắt thì đành chịu thôi……",
+      "jpname": "中堅トレーナーA",
+      "jptext": "ぬかるみに突っ込んだか……コース取りのミスだな。\nまあ、デビュー前の子なら仕方がないか……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Từ vị trí này mà lội ngược dòng thì khó lắm đây…… Tội nghiệp con bé quá.",
+      "jpname": "新人トレーナーA",
+      "jptext": "ここから巻き返すのは難しいかな……かわいそうに。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Mình không hiểu nổi nữa…… Chẳng lẽ bản thân mình kém cỏi đến thế sao……?)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（わからない……私じゃダメなのかな……？）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Chẳng lẽ mình…… không thể trở thành công chúa được sao……?)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（私じゃ……お姫様になれないのかな……？）",
+      "choice_data_list": [
+        "Đừng bỏ cuộc! Em là công chúa cơ mà!!",
+        "Không được thua! Kawakami là công chúa cơ mà!!"
+      ],
+      "jpchoice_data_list": [
+        "負けるな！君はお姫様だろ！！",
+        "負けるな！貴方はお姫様でしょ！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "――Ực……!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "――～～ッ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Trụ lại được rồi! Kawakami Princess lại một lần nữa dốc hết sức bình sinh lao về phía trước. Thế nhưng khoảng cách với nhóm dẫn đầu đã bị kéo dãn ra khá xa rồi!",
+      "jpname": "実況",
+      "jptext": "こらえた！　再び、懸命に走り出したカワカミプリンセス。\nしかし先頭集団からかなり距離が開いてしまったぞ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Liệu có đuổi kịp không đây? Khoảng cách vẫn chưa hề thu hẹp lại. Dẫu vậy em ấy vẫn tiếp tục lao đi――",
+      "jpname": "実況",
+      "jptext": "追いつけるか？　差は縮まらない。それでも走る――",
+      "choice_data_list": [
+        "Chạy đi! Đừng bao giờ từ bỏ \"hình bóng lý tưởng của em\"!",
+        "Chạy mau! Quyết không được từ bỏ \"lý tưởng của chính mình\"!"
+      ],
+      "jpchoice_data_list": [
+        "走れ！“理想の君”を諦めるな！",
+        "走って！“理想の貴方”を諦めないで！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Rõooooooo rồi, tuân lệnh đó nhaaaa!!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "～～～～ッ、がってん、承知、ですわぁあああ！！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ô kìa, kinh ngạc quá! Thật tuyệt vời, Kawakami Princess đang có màn bứt tốc bám đuổi vô cùng điên cuồng! Từ phía ngoài cùng lao thẳng một mạch hướng tới tốp đầu, thế này thì――",
+      "jpname": "実況",
+      "jptext": "お～っと、すごい！　すごいぞカワカミプリンセス、\nものすごい猛追です。大外から先頭集団に一直線、これは――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "A a a a a, tôi…… là công chúa! Tôi nhất định sẽ trở thành công chúa mà!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "あああああっ、私は……っ、姫です！　私が姫になるんですっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Đúng rồi. Điều mình muốn làm chỉ đơn giản là không bao giờ bỏ cuộc. Cả \"việc trở thành công chúa\" lẫn \"bản sắc của chính mình\"――!)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（そうだ。私はただ、諦めないでいたかった。\n“お姫様になること”も“私らしさ”も――！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Bởi vì \"lý tưởng\" nếu không phải là sự nối dài từ chính bản thân mình thì chẳng còn ý nghĩa gì hết. Phải chạy mà không vứt bỏ sự ngưỡng mộ hay con người thật của mình thì mới có ý nghĩa chứ!)",
+      "jpname": "カワカミプリンセス",
+      "jptext": "（だって“理想”なんて、自分の延長線になきゃ意味ない。\n憧れも私らしさも、全部捨てずに走らなきゃ意味がないから！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Dô ô ô ô rya a a a a a a a――!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "どぉおおおりゃぁあああ～～～っ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cán đíiiiich!!",
+      "jpname": "実況",
+      "jptext": "ゴォーーールッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cháy hết mình! Kawakami Princess đã phô diễn một ý chí chiến đấu bất khuất! Người chiến thắng chính là Kawakami Princess, hiện đã cán đích ở vị trí đầu tiên!",
+      "jpname": "実況",
+      "jptext": "完全燃焼！　不屈の闘志を見せつけました、カワカミプリンセス！\n勝ったのはカワカミプリンセス、今1着でゴールインッ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hãy chiêm ngưỡng cho đã mắt điii!!! Đã là công chúa thì phải đấm bay mọi nghịch cảnh thì mới đã chứ đó nhaaa!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ごらんあそばせっ！！！\n姫たるもの、逆境なんてぶっ飛ばしてナンボですわ～～～！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trainer ơiiii! Em làm được rồi đó nha! Quả nhiên là em mà! Em đã giành lấy chiến thắng vẻ vang rồi này!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "トレーナーさ～ん！　やりましたわっ！\nさすがは私！　勝利をもぎとりましてよっ！！",
+      "choice_data_list": [
+        "Chúc mừng em! Em cừ lắm đấy!",
+        "Chúc mừng nhé! Em tuyệt vời lắm!"
+      ],
+      "jpchoice_data_list": [
+        "おめでとう！すごかったぞ！",
+        "おめでとう！すごかったよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tất cả là nhờ những lời cổ vũ của người bảo hộ đấy ạ! Giọng nói nghe được khi ấy, suốt quãng đời này em sẽ mãi mãi không bao giờ quên!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "トレーナーさんの声援のおかげですわ！\nあの時聞こえた声、私、この先もずっと忘れません！",
+      "choice_data_list": [
+        "Em đã tìm ra câu trả lời chưa?"
+      ],
+      "jpchoice_data_list": [
+        "答えは出た？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Vâng ạ! Rốt cuộc thì em vẫn muốn trở thành một nàng công chúa \"lộng lẫy, thanh lịch và dũng mãnh\". Thế nhưng, một nàng công chúa thực thụ thực ra là――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ええ！　私は、やっぱり『華麗で、優雅で、勇ましい』\nお姫様になりたいです。だけど、お姫様って本当は――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Là người không bao giờ từ bỏ bản thân mà mình muốn hướng tới, dẫu có lấm lem bùn đất vẫn tiếp tục chạy tiếp đó ạ! Dáng vẻ không bao giờ từ bỏ \"lý tưởng\" ấy mới đích thực là công chúa!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "なりたい自分を諦めず、泥んこでも走り続ける者のことを\n言うんですわ！　“理想”を諦めない姿こそが、姫！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Vì vậy bây giờ dù có hơi thiếu đi nét thanh lịch một chút thì cũng chẳng sao cả! Em sẽ cứ là chính mình, rồi một ngày nào đó nhất định sẽ tôi luyện được cả sự thanh lịch cho xem!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "だから、今ちょっと優雅じゃないことくらいどうってこと\nありません！　私は私らしく、いつか優雅さも手に入れてみせます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn nét mặt bừng sáng rạng ngời của em ấy, tôi quyết định đây chính là thời điểm thích hợp để nói ra lòng mình.",
+      "jpname": "モノローグ",
+      "jptext": "晴れやかな彼女の表情を見て、伝えるなら今だ、と心を決める。",
+      "choice_data_list": [
+        "Hãy để tôi giúp em thực hiện ước mơ đó nhé?",
+        "Có thể để tôi cùng đồng hành chắp cánh cho giấc mơ ấy được không?"
+      ],
+      "jpchoice_data_list": [
+        "その夢を、手伝わせてくれないか？",
+        "その夢を、手伝わせてくれないかな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ủa dạ? ……A, giúp đỡ tức là, á, chẳng lẽ là!?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "うえっ？　……あ、手伝いって、あああの、もしかしてっ！？",
+      "choice_data_list": [
+        "Dù hiện tại tôi vẫn chưa phải là một \"Trainer huyền thoại\""
+      ],
+      "jpchoice_data_list": [
+        "今はまだ“伝説のトレーナー”じゃないけど"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nếu em ấy kiên trì theo đuổi \"lý tưởng\" của một nàng công chúa, thì tôi cũng muốn hướng tới mục tiêu trở thành một \"Trainer huyền thoại\" luôn kề vai sát cánh che chở cho em.",
+      "jpname": "モノローグ",
+      "jptext": "彼女がお姫様として自分の“理想”を追い求めるなら、\n自分は彼女を支える“伝説のトレーナー”を目指したい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Phù ô ô ô ô ô ô ô ô――!!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ふぉおおおおお～～～～っ！！！",
+      "choice_data_list": [
+        "!?!?"
+      ],
+      "jpchoice_data_list": [
+        "！？！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đương nhiên là được rồi đó nha! Lúc em đánh mất phương hướng trước \"lý tưởng\", chính người bảo hộ đã thức tỉnh em mà!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "もっちろんですわ！　私が“理想”を見失った時に、\n目を覚ましてくれたのはトレーナーさんですもの！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Nếu được đồng hành cùng Trainer thì nhất định em sẽ trở thành nàng công chúa \"lý tưởng\" cho xem! Không, em chắc chắn sẽ làm được!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "貴方とならきっと、私は“理想”のプリンセスになれます！\nいいえ、なってみせますっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hai chúng ta sẽ cùng nhau tạo nên một huyền thoại thật chấn động đó nhaaa! Hãy hướng tới mục tiêu trở thành nàng công chúa lộng lẫy! Thanh lịch! Mạnh nhất và nhanh nhất trần đời nào!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "2人で伝説をぶち上げますわよ～～！\n目指せ、華麗で！　優雅で！　最強最速のお姫様っ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và cứ như thế, những chuỗi ngày bên cạnh nàng công chúa bạo tẩu đầy nghĩa khí――Kawakami Princess chính thức bắt đầu!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、豪快おてんばプリンセスこと――\nカワカミプリンセスとの日々が始まったのだった！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

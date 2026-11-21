@@ -1,0 +1,449 @@
+{
+  "title": "Hop, Step và nguy khốn lớn đó nha!",
+  "jptitle": "ホップステップで大ピンチ！ですわっ",
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "Chị Kawakami ơii, đã bảo là không được mà! Cái cây đó cao hơn cả tầng hai lận đấy! Để em đi gọi người của bên quản lý nhé.",
+      "jpname": "ウオッカ",
+      "jptext": "カワカミ先輩～、やっぱ無理ですって！\nあの木、2階より高いじゃないすか！　用務のヒト呼んできますよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Không cần lấy đâu, cùng lắm thì em viết lại bản báo cáo là được mà. Chị làm liều lỡ bị thương thì tính sao đây!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "取りに行かなくても、レポートぐらい書き直しますからっ。\n無茶してケガしちゃったらどうするんですか！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ái chà, đừng khách sáo thế chứ! Em là công chúa mà? Mà đã là công chúa thì độ cao chừng đó chỉ là chuyện cỏn con thôi đó nha!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "あら、遠慮しないで！　私は姫ですわよ？\nそして、姫ならばあのぐらいの高さお茶の子さいさいですわっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Em lêêên đâyyy!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "いっきますわよ～～っ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tôi muốn trở thành một nàng công chúa――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "お姫様になりたい――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Một nàng công chúa lấp lánh, đáng yêu mà ai ai cũng ngưỡng mộ.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "キラキラで、可愛くて、みんなが憧れるお姫様。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami thuở nhỏ",
+      "text": "Nèèèè hènnnn!!!! Bắt nạt kẻ yếu là không được đâu đấy! Tôi sẽ đấm bay các cậu luôn đó nha!!!",
+      "jpname": "幼いカワカミ",
+      "jptext": "こーーらーーっ！！！！　弱いものイジメはダメでしょ！\nぶっ飛ばしますわよ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Úi, nó xuất hiện rồi!! Con nhỏ Mã Nương bạo lực kìa!! Chạy mau, không là bị đá bay xác đấyyy!!!",
+      "jpname": "男の子A",
+      "jptext": "うわっ、でた！！　キョーボーウマ娘だ！！\nにげろっ、けられるぞーっ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Công chúa cái nỗi gì chứ, đồ bạo lực! Đồ bạo lực!",
+      "jpname": "男の子B",
+      "jptext": "だれがお姫さまだよ、キョーボー！　キョーボー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mẹ của Kawakami",
+      "text": "Lại có cuộc gọi phàn nàn vì con bé làm đứa trẻ khác khóc nữa rồi này? Sao con bé lại hung hăng thế không biết……",
+      "jpname": "カワカミの母親",
+      "jptext": "また、あの子に泣かされたって苦情の電話が来たのよ？\nどうしてあんなに乱暴者なのかしら……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bố của Kawakami",
+      "text": "Con bé muốn trở thành công chúa mà đúng không? Cứ cho con bé xem mấy nàng công chúa dễ thương làm gương là được thôi.",
+      "jpname": "カワカミの父親",
+      "jptext": "あの子はお姫様になりたいんだろう？\nかわいいお姫様でも手本にさせたらいいじゃないか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Mẹ của Kawakami",
+      "text": "Này, con nhìn xem? Nàng công chúa trong cuốn truyện tranh này thùy mị chưa kìa? Muốn làm công chúa thì phải là một đứa trẻ ngoan ngoãn, dịu dàng chứ.",
+      "jpname": "カワカミの母親",
+      "jptext": "ねえ見て？　この絵本のお姫様はおとなしいでしょ？\nお姫様になりたいなら、静かないい子でいなくっちゃ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami thuở nhỏ",
+      "text": "(Hứ. Mẹ chẳng hiểu gì cả. Một nàng công chúa thực thụ phải là――)",
+      "jpname": "幼いカワカミ",
+      "jptext": "（ふ～んだ。お母様はわかってないわ。\n本当のお姫様っていうのは――）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tiếng TV",
+      "text": "\"Đã là công chúa! Phải lộng lẫy, thanh lịch và dũng mãnh! Bạo Tẩu Mãnh Cơ☆Princess Fighter!!\"",
+      "jpname": "TVの音",
+      "jptext": "『姫たるものっ！　華麗に、優雅に、勇ましく！\n爆走猛姫☆プリンセスファイター！！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami thuở nhỏ",
+      "text": "Thấy chưa! Dù có nghịch ngợm thì vẫn làm công chúa được mà. Mình sẽ trở thành công chúa! Nàng công chúa mạnh nhất trần đời!",
+      "jpname": "幼いカワカミ",
+      "jptext": "ほら！　おてんばだってお姫様になれるもんっ。\n私、お姫様になるわ！　1番強いお姫様に！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đúng vậy, tôi nhất định sẽ trở thành công chúa―― Một nàng công chúa lộng lẫy, thanh lịch và đầy dũng khí!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "そう、私は姫になりますの――\n華麗で、優雅で、勇ましいお姫様にっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đến Học viện Tracen với tư cách là một Trainer tân binh đã được hơn một tháng. Trong lúc đang đi dạo quanh khuôn viên để làm quen dần với học viện thì――",
+      "jpname": "モノローグ",
+      "jptext": "新人トレーナーとしてトレセン学園に来て、ひと月あまり。\n学園に慣れようと、敷地内を歩き回っていると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Dô ô ô ô rya a a a a a a a――!!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "どぉおおおりゃぁあああ～～～っ！！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Khoan, ủa, nè, t-tránh đường giùm cái điiii――?!?!?!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "って、ちょっ、なっ、お、おどきになってぇええ～～っ？？！？！",
+      "choice_data_list": [
+        "Oái……!?"
+      ],
+      "jpchoice_data_list": [
+        "うわ……っ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một nàng Mã Nương đang lao tới với tốc độ kinh hoàng. Với phản xạ tuyệt vời, em ấy né được tôi rồi――",
+      "jpname": "モノローグ",
+      "jptext": "猛烈な勢いで走ってきた、1人のウマ娘。\n彼女は、素晴らしい反応速度でこちらを避けると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mượn đà từ bức tường, em ấy bật nhảy vút lên trời cao!!",
+      "jpname": "モノローグ",
+      "jptext": "壁を使い、空へ向けて高々と跳び上がった！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "……Phù, suýt nữa thì nguy rồi đó nha♪",
+      "jpname": "カワカミプリンセス",
+      "jptext": "……ふう、危ないところでしたわ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ủa mà――Á á á á á á!?!?!? P-P-Phải làm sao đây, em lỡ tay làm hỏng bét rồi đó nha!?!?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "って――みぎゃぁあああ！？！！\nどどどど、どうしましょう、やっちまいましたわ！？",
+      "choice_data_list": [
+        "(L…… Lần này lại là chuyện gì nữa đây!?)",
+        "(L…… Lần này lại có chuyện gì vậy!?)"
+      ],
+      "jpchoice_data_list": [
+        "（こ……今度は何だ！？）",
+        "（こ……今度は何！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Chị Kawakami ơii, chị có sao không――",
+      "jpname": "ウオッカ",
+      "jptext": "カワカミ先輩～、大丈夫っすか――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa mà toang rồi! Bức tường bị đục thủng một lỗ to đùng kìa!?",
+      "jpname": "ウオッカ",
+      "jptext": "ってヤバッ！　壁、めちゃくちゃ穴開いてるじゃないすか！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Trời ạ, em đã can rồi mà. Chị Kawakami chẳng chịu nghe lời ai hết mà cứ thế lao đi thôi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "もう、だから止めたのに。\nカワカミさんったら話も聞かずに飛び出すんですから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "U u u…… K-Không phải thế đâu mà, lẽ ra không thể như thế này được chứ!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ううう……ち、違うんですの～、こんなはずではっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "???",
+      "text": "Ka-wa-ka-mi――!",
+      "jpname": "？？？",
+      "jptext": "カ～ワ～カ～ミ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cái đứa này, sao lúc nào em cũng quậy phá thế hả, Kawakami Princess! Đục thủng một lỗ lớn như thế này ở dãy nhà học, thật đúng là chuyện chưa từng có đấy!?",
+      "jpname": "エアグルーヴ",
+      "jptext": "お前という奴は、なぜそうも暴れ者なんだ、カワカミプリンセス！\n校舎にこんな大穴を開けるなど、前代未聞だぞ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hí! Em xin lỗi mà, e-em đâu có cố ý đâu! Chuyện này có lý do sâu hơn cả biển cả lậ-ậ-ận――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ひいぃ！　ごめんなさいっ、わ、わざとじゃありませんの！\nこれには海よりも深ぁ～い訳が――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Thôi đi, viện cớ gì thì vào phòng hội học sinh rồi hẵng nói! Mau ngoan ngoãn đi theo tôi!",
+      "jpname": "エアグルーヴ",
+      "jptext": "ええい、言い訳は生徒会室で聞く！\n大人しくついて来るんだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ối dồi ôi tha emmm――!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "あ～～れ～～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Gay go rồi! Bọn mình cũng đuổi theo thôi!",
+      "jpname": "ウオッカ",
+      "jptext": "ヤバい！　俺たちも追いかけようぜ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chẳng hiểu chuyện gì vừa xảy ra, tôi bất giác đi theo họ đến trước cửa phòng hội học sinh nơi Kawakami Princess bị áp giải tới.",
+      "jpname": "モノローグ",
+      "jptext": "何が起きたのかがわからないまま、ついカワカミプリンセスが\n連行された生徒会室前までついてきてしまった。",
+      "choice_data_list": [
+        "Rốt cuộc thì ban nãy em làm chuyện gì thế?",
+        "Rốt cuộc thì ban nãy em đang làm gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "結局、さっきは何をしていたんだ？",
+        "結局、さっきは何をしていたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bản báo cáo của em bị mắc kẹt trên cây, nên chị Kawakami mới định lấy xuống giúp em ạ.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アタシのレポートが木に引っかかっちゃって、\nカワカミさんがそれを取ろうとしてくれたんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Tụi em đã can bảo nguy hiểm rồi mà……",
+      "jpname": "ウオッカ",
+      "jptext": "俺らは、危ねーからって止めてたんだけど……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hừm…… Vậy việc bức tường bị phá hỏng không phải do cố ý, mà chỉ là kết quả phát sinh khi cố giúp đỡ bạn bè thôi sao?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "ふむ……では、壁の破壊は故意ではなく、\nあくまで友人への助力を試みた結果だと？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Chính xác là như vậy đó ạ…… Em chỉ muốn lấy thứ này bị mắc trên cây xuống mà thôi……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "その通りですわ……。私、ただ木に引っかかった\nこれを取りたかっただけですの……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Để viết bản báo cáo này, tối qua em Scarlet đã cố gắng vô cùng nhiều đó ạ.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "このレポートを書くために、昨夜、\nスカーレットさんは、それはそれは頑張ってましたわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Thế mà chỉ một cơn gió thoảng qua lại dám cuốn nó đi mất! Với tư cách là một công chúa, em không thể nào khoanh tay đứng nhìn được!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "なのに、たかが風ごときがそれをさらってしまって！\n姫として、捨て置くことなどできなかったのです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dù là vậy thì cớ sao em lại bốc đồng nhảy lên lấy như thế. Cứ kiếm cái thang hay dụng cụ nào đó chẳng phải là xong chuyện rồi sao.",
+      "jpname": "エアグルーヴ",
+      "jptext": "だからといって、なぜジャンプで取ろうなどと短慮を起こす。\n梯子なりなんなり、道具を探せば済む話だろうが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Nhưng mà ừm…… tay không đối đầu mới đúng chất công chúa chứ ạ…… Người ta vẫn thường bảo thế còn gì?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "でもあのぉ……素手で挑んでこそ姫というか……。\nほら、よく言いますでしょ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "\"Lâm vào nguy khốn, dùng đấm đè bẹp!\"",
+      "jpname": "カワカミプリンセス",
+      "jptext": "『ピンチは、パンチでねじ伏せる！』",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Làm gì có câu châm ngôn nào như thế! Thật là, nói chung thì hôm nọ em cũng――",
+      "jpname": "エアグルーヴ",
+      "jptext": "そんな格言はない！\nまったく、大体お前は先日も――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Aizzz, bị mắng te tua rồi kìa. Không bỏ mặc người gặp khó khăn đúng là điểm cực ngầu của tiền bối, nhưng đục lỗ thủng thế kia thì tệ thật đấy nhỉ.",
+      "jpname": "ウオッカ",
+      "jptext": "ああ～、やっぱ怒られてる。困ってるヤツをほっとけないのは、\n先輩のカッケェとこだけど、穴はまずいよな～。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lúc đó giá mà mình cản quyết liệt hơn. ……Cơ mà người ta đã là chị Kawakami thì làm sao mà cản nổi chứ.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あの時、ちゃんと止めたらよかったわ。\n……まあ、それで止まらないのがカワカミさんだけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Thảm hại quá đi mất thôi…… Quả nhiên chị Air Groove chẳng dễ dãi chút nào……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "とほほですわ～……。\nさすがエアグルーヴさん、甘くないですわ～……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Chị Kawakami! Chị có sao không ạ?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "カワカミさん！　大丈夫でしたか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hai em…… Không sao đâu, hội học sinh hiểu là chị không cố ý rồi. Họ cũng bảo sẽ lo liệu việc sửa chữa. Chỉ là――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "お2人とも……大丈夫、わざとじゃないのは伝わりましたわ。\n修理の手配も生徒会でしてくださるって。ただ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "C-Chỉ là――?",
+      "jpname": "ウオッカ",
+      "jptext": "た、ただ――？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đổi lại, như một hình phạt vì làm tăng thêm việc cho hội học sinh, hôm nay chị bị phạt làm chân sai vặt suốt cả ngày luôn……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "その代わり、無駄に生徒会のお仕事を増やした罰で、\n今日1日、雑用係を命じられてしまいましたわ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trước tiên là phải đi thu gom hết mấy tấm áp phích không dùng nữa trong trường đấy nhéee!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "まずは校内の、いらないポスターの回収からですわ～～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đó chính là cuộc gặp gỡ đầu tiên giữa tôi và nàng công chúa bạo tẩu tràn đầy năng lượng――Kawakami Princess.",
+      "jpname": "モノローグ",
+      "jptext": "これが、元気な暴走プリンセス――\nカワカミプリンセスとの出会いだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

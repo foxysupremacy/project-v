@@ -1,0 +1,532 @@
+{
+  "title": "Công chúa đang ra sức tu luyện đó nha!",
+  "jptitle": "姫はモーレツ修行中！ですわっ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vài ngày sau cuộc gặp gỡ với Kawakami Princess. Khi tôi ghé vào căng tin để nghỉ ngơi, tôi lại bắt gặp hai cô bé từng gặp hôm nọ.",
+      "jpname": "モノローグ",
+      "jptext": "カワカミプリンセスとの出会いから数日。\nカフェテリアへ休憩に行くと、以前にも会った2人組を見かけた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Nè, tớ nghĩ bọn mình nên cản chị ấy lại thì hơn?",
+      "jpname": "ウオッカ",
+      "jptext": "なあ、やっぱ止めた方がよくねえ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ừm…… đúng là hơi quá đà thật rồi.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "そうね……さすがにやりすぎかも。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Người nằm trong tầm mắt của cả hai chính là Kawakami Princess. Trông em ấy có vẻ như đang ngồi uống trà thưởng thức giờ giải lao, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "2人の視線の先にいるのは、カワカミプリンセスだ。\n紅茶を飲みながら休憩しているようだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hự hự…… cái tách trà này khó cầm quá đi mất đó nha. Ngón tay mình…… run lẩy bẩy cả lên rồi――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ぐぬぬ……紅茶のカップって持ちづらいですわっ。\n指が……っ、ぷるぷる震えて――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Á nóng nóng nóng……! Ấy chết, không được rồi. Những lúc thế này phải――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "うあっちちち……！\nっと、いけませんわ。ここでそう――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hô hô hô hô hô, đã là công chúa thì buổi chiều phải tao nhã thưởng thức tách trà mới đúng điệu chứ đó nha!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "ほーっほっほっほっほ、やはり姫たるもの、\n午後は優雅にお茶をたしなむべきですわね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "……Quả nhiên có gì đó sai sai. Bình thường tiền bối Kawakami đâu có như vậy đâu nhỉ?",
+      "jpname": "ウオッカ",
+      "jptext": "……やっぱおかしい。カワカミ先輩、あんなだったか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Chị ấy uống đến cốc trà thứ 20 rồi đấy nhỉ? Uống nhiều thế kia thì hại sức khỏe lắm luôn……",
+      "jpname": "ダイワスカーレット",
+      "jptext": "紅茶、もう20杯は飲んでるわよね？\nさすがに飲みすぎだし、体に悪そう……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ngược lại, chị ấy chẳng thèm ăn cơm tí nào luôn. Hồi trước thì toàn ăn như vũ bão, quất nguyên tô cơm bự chảng cơ mà……",
+      "jpname": "ウオッカ",
+      "jptext": "逆に、飯は食わなくなったよな。\n前は豪快に、どんぶりで大盛り食ってたのに……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hình như chị ấy bảo là \"Đã là công chúa thì phải thanh lịch và ăn ít\" ấy nhỉ.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "確か、『姫はエレガントで小食なもの』って言ってたわね。",
+      "choice_data_list": [
+        "(Thanh lịch…… nhắc mới nhớ đợt trước em ấy cũng nói thế)"
+      ],
+      "jpchoice_data_list": [
+        "（エレガント……そういえばこの間も）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đúng rồi! Chính là thanh lịch đó ạ! Quả nhiên đã là công chúa thì nét thanh lịch là điều không thể thiếu được đúng không nào!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "そう！　それですエレガントなんです！\nやっぱり姫たるもの、エレガントさも必要ですわよね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Em ấy rất ngưỡng mộ phong thái thanh lịch và chuẩn mực của King Halo. Thế nhưng nếu đúng như lời hai người kia nói, thì có vẻ em ấy đang làm quá đà rồi.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、キングヘイローの洗練された振る舞いに憧れていた。\nけれど2人の話が本当なら、少し行き過ぎている気もする。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa kìa, a a a! Mải tám chuyện mà tiền bối Kawakami biến đâu mất tiêu rồi! Chị ấy đi đâu thế nhỉ!?",
+      "jpname": "ウオッカ",
+      "jptext": "って、あーー！　ぐずぐずしてたらカワカミ先輩がいねぇ！\nどこ行ったんだ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "……Chịu thôi. Tụi mình cũng sắp đến giờ tập rồi, để dịp khác rồi hỏi chị ấy vậy.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……仕方ないわね。アタシたちも練習があるし、\n話を聞くのはまた今度にしましょ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nói xong cả hai liền rời đi, nhưng nỗi lo lắng trong lòng tôi thì cứ thế dâng lên.",
+      "jpname": "モノローグ",
+      "jptext": "そう言うと2人は立ち去ってしまったが、\nこちらにも心配が移ってしまった。",
+      "choice_data_list": [
+        "Đi tìm em ấy nói chuyện chút xem sao",
+        "Đi tìm em ấy để nói chuyện thử xem sao"
+      ],
+      "jpchoice_data_list": [
+        "探して、少し話してみるか",
+        "探して、少し話してみよう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ọe e e…… Bụng mình căng ứ ự hết cả rồi nè trời ơi……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "うぶえぇええ……お腹がタップタプですわぁ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Không được, chút chuyện này mà đã nản lòng là không xong đâu nhé! Đây cũng là sứ mệnh của công chúa, tất cả vì sự thanh lịch……!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "いえっ、このくらいでへこたれちゃダメですわね！\nこれも姫たるものの使命、エレガントのため……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ực…… Hơ hơ……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "うぷっ……。はうぅ～……。",
+      "choice_data_list": [
+        "Chào em. Tôi nói chuyện một chút được không?"
+      ],
+      "jpchoice_data_list": [
+        "こんにちは。少しいいかな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ối cha mẹ ơi!? K-Không phải đâu ạ, em đâu có nôn ọe gì đâu! Vẫn đang nằm trong ngưỡng an toàn tuyệt đối đó nha!?!?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "うひゃあ！？　ち、違いますわっ、ゲーしてませんわ！\nギリギリセーフですわよっ！？！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "……Ủa mà, ái chà, là Trainer đấy ư. Chúc Trainer một ngày tốt lành…… ực. Tiết trời hôm nay đẹp quá nhỉ.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "……って、あ、あら、トレーナーさん。\nごきげんよう……うっぷ。いいお日和ですわね。",
+      "choice_data_list": [
+        "Đừng cố quá sức mà……!"
+      ],
+      "jpchoice_data_list": [
+        "無理しないで……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "C-Cố quá sức là sao cơ chứ ạ? Em chỉ đang đi dạo một cách thanh lịch đúng chuẩn công chúa thôi mà?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "む、無理ってなんのことですの？\n私、姫らしくエレガントにお散歩してただけですわよ？",
+      "choice_data_list": [
+        "Bây giờ không cần phải thanh lịch đâu"
+      ],
+      "jpchoice_data_list": [
+        "今はエレガントじゃなくていいから"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bây giờ không cần là ý làm sao…… Hở, chẳng lẽ là Trainer đã nhận ra rồi ư!?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "今はってどういう……はっ、まさか、気づいていませんわよね！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Nhận ra việc em đang khổ luyện để trở nên thanh lịch ấy!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "私が、エレガント修行をしていることに！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Thật lòng xin lỗi vì đã làm Trainer phát hoảng ạ. Em không ngờ lại có người nhận ra việc em đang tu luyện đấy.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "取り乱してすみませんでしたわ。\nまさか、私の修行に気づく人がいると思わなくって。",
+      "choice_data_list": [
+        "Tu luyện là chuyện gì thế……?"
+      ],
+      "jpchoice_data_list": [
+        "修行って、何……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Thì đương nhiên là tu luyện cách cư xử cho thật thanh lịch đúng với phẩm chất của một nàng công chúa rồi ạ. Đã là công chúa thì phải thùy mị, dịu dàng đúng không nào?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "それはもちろん、姫らしくエレガントに振る舞う修行ですわ。\n姫たるもの、淑やかに、優雅でいるべきでしょう？",
+      "choice_data_list": [
+        "Giống như King Halo sao?"
+      ],
+      "jpchoice_data_list": [
+        "キングヘイローみたいに？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "――Ực!!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "――っ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có vẻ như tôi đã đoán trúng tim đen. Vẻ mặt của Kawakami Princess lập tức xụ xuống trông thấy.",
+      "jpname": "モノローグ",
+      "jptext": "どうやら図星だったようだ。\nカワカミプリンセスは、みるみるしょんぼりした顔になる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bị nhìn thấu hết thế này làm em giật cả mình đấy ạ…… Đúng là vậy rồi. Em đang rèn luyện để trở nên giống như chị King.",
+      "jpname": "カワカミプリンセス",
+      "jptext": "バレバレなんて、びっくりですわ……。\nそうです。私、キングさんみたいになりたくて修行してるんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trước giờ em luôn ngưỡng mộ sự kiên cường, dũng mãnh của Princess Fighter. Thế nhưng khi đặt chân đến học viện này và được gặp chị King――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "私はずっと、プリファイのたくましさに憧れてきました。\nでも学園に来て、キングさんと出会って――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Em mới nhận ra rằng phẩm chất quý phái và tao nhã mới là thứ công chúa cần có nhất! Vì vậy nên em cũng bắt chước theo chị King――",
+      "jpname": "カワカミプリンセス",
+      "jptext": "姫には気品と優雅さこそが必要だって気づきましたわ！\nだから私も、キングさんを真似て――",
+      "choice_data_list": [
+        "Bắt chước như thế nào cơ?"
+      ],
+      "jpchoice_data_list": [
+        "真似って、どんな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Dạ thì, ví dụ như chị King chẳng bao giờ nhảy một lần hai bậc cầu thang cả, cũng không ừng ực nốc cạn nước ngọt có ga, lại càng không bao giờ ăn cơm bằng tô lớn……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "えっと、例えばキングさんは階段を2段飛ばしで上がらないし、\n炭酸の一気飲みもしないし、どんぶりでご飯も食べないし……。",
+      "choice_data_list": [
+        "Bắt chước xong thì thấy thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "真似して、どうだった？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Chuyện đó…… thật ra là chẳng đi đến đâu cả. Không hiểu sao em chẳng cảm thấy mình tiến gần thêm được chút nào tới chị King hết……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "それが……実は全然なんです。なぜかちっとも\nキングさんに近づけた気がしなくって……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Kỳ đua tuyển chọn cũng sắp tới rồi, cứ cái đà này thì liệu em có thể trở thành một công chúa thực thụ được không đây……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "もうすぐ選抜レースもあるのに、こんなんで私、\n本当のプリンセスになれるのかしら……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi đã hiểu nỗi trăn trở của em, nhưng cảm giác như có điều gì đó đang đi chệch hướng. Để giúp em ấy nhận ra điều đó thì――",
+      "jpname": "モノローグ",
+      "jptext": "悩みの内容はわかったが、何かがズレている気がする。\nそれを彼女に気づいてもらうには――",
+      "choice_data_list": [
+        "Chúng ta thử đi xem tận mắt cô ấy một lần nữa không?",
+        "Hay là chúng ta đi ngắm tận mắt cô ấy lần nữa nhé?"
+      ],
+      "jpchoice_data_list": [
+        "もう1度、本人を見に行かないか？",
+        "もう1度、本人を見に行かない？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hả, đi xem chị King ấy ạ……? Nhưng mà em đã quan sát chị ấy kỹ lắm rồi mà?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "えっ、キングさんをですか……？\nでも私、すでにめちゃくちゃ観察しましたわよ？",
+      "choice_data_list": [
+        "Tấm gương tốt thì nhìn bao nhiêu lần cũng không thừa đâu",
+        "Đã là hình mẫu thì ngắm bao nhiêu lần cũng tốt cả mà"
+      ],
+      "jpchoice_data_list": [
+        "お手本は、何度見たっていいはずだ",
+        "お手本は、何度見たっていいはずだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Trainer đã nói thế thì em cũng không phản đối đâu, nhưng mà……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "トレーナーさんが言うなら、それは、構いませんけど……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "――……Hừ!",
+      "jpname": "キングヘイロー",
+      "jptext": "――……ふっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ôi chao ôi, quả nhiên vẫn tuyệt vời quá đi mất thôi!! Nè nè! Trainer nhìn xem kìa, dáng vẻ hiên ngang ấy! Cả những bước chạy uyển chuyển kia nữa!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "はあぁ～～、やっぱり素敵ですわ～～！！\nほら！　ごらんになって、あの凜とした姿！　優雅な動き！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Có thể chạy một cách thanh lịch đến nhường ấy, đúng là chị King có khác! Đó mới đích thực là hình mẫu công chúa lý tưởng……――Ơ kìa!?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "あんなにエレガントに走れるなんて、さすがキングさん！\nあれこそ理想のプリンセスの姿……――ああっ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Rầầầm――!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ズシャァ――ッ！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "King Halo",
+      "text": "……Khực, vẫn chưa xong đâu……!",
+      "jpname": "キングヘイロー",
+      "jptext": "……くっ、まだまだぁ……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tuyệt quá…… Ngay cả khi vấp ngã, người lấm lem bùn đất chị ấy vẫn không hề bỏ cuộc. Sao lại có người cao quý và đẹp đẽ đến thế cơ chứ……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "すごい……転んだって、泥だらけだって諦めない。\nなんて気高く、美しいのかしら……。",
+      "choice_data_list": [
+        "Em có nghĩ không cần phải làm đến mức ấy không?"
+      ],
+      "jpchoice_data_list": [
+        "あそこまでしなくてもって、思わない？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Làm sao em nghĩ thế được chứ ạ! Cố gắng đến mức đó là vì chị King có lòng quyết tâm để trở thành người dẫn đầu nhất lưu cơ mà!",
+      "jpname": "カワカミプリンセス",
+      "jptext": "そんなの、思うはずありませんわ！　あそこまでやるのは、\nキングさんに一流でいる覚悟があるからですもの！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bất kể người khác nhìn vào thế nào, chị ấy vẫn giữ trọn một \"lý tưởng\" không bao giờ lung lay! Thế nên lúc nào chị King cũng tỏa sáng rực rỡ như thế――Ơ……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "人からどう見えようと、揺らがない“理想”をお持ちなんです！\nだからいつでも、キングさんはあんなに輝いて――あ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đúng rồi nhỉ…… Sự cao quý của chị King là thứ toát ra từ tận sâu bên trong con người chị ấy……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "そうでしたわ……。\nキングさんの気高さは、内側からにじみ出てるもの……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Thảo nào mà em không tài nào chạm tới được…… Dẫu cho có bắt chước từng cử chỉ động tác bên ngoài, nhưng bên trong em lại hoàn toàn rỗng tuếch……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "だから、近づけなかったんですのね……。\n動きだけ真似っこしても、私の中身が空っぽだったから……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhìn em ấy tiu nghỉu cúi gầm mặt xuống, tôi cảm thấy có điều gì đó không đúng. Em ấy tự nhận bản thân rỗng tuếch, nhưng liệu có thực sự là như vậy không――?",
+      "jpname": "モノローグ",
+      "jptext": "しょんぼりとうなだれる彼女に、違和感を抱く。\n自分が空っぽと彼女は言うが、本当にそうだろうか――？",
+      "choice_data_list": [
+        "Bây giờ em chỉ tạm thời đánh mất phương hướng thôi đúng không?",
+        "Bây giờ chẳng qua em chỉ tạm thời quên mất thôi mà?"
+      ],
+      "jpchoice_data_list": [
+        "今はただ、見失ってるだけじゃないか？",
+        "今はただ、見失ってるだけじゃないかな？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Dạ……?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "え……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bởi vì ước mơ là do chính mình định đoạt, và phải tự tay mình giành lấy đúng không nào?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "だって夢は自分で決めるもの、\nそして自力で勝ち取るものでしょう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lúc đó, hình ảnh giấc mơ mà Kawakami Princess hằng hướng tới dường như đã hiện lên rõ mồn một trong tâm trí em.",
+      "jpname": "モノローグ",
+      "jptext": "あの時のカワカミプリンセスには、\n自分の目指す夢の形がはっきりと見えているようだった。",
+      "choice_data_list": [
+        "Em vốn dĩ đã có \"lý tưởng\" của riêng mình rồi cơ mà",
+        "Kawakami vốn đã mang trong mình một \"lý tưởng\" riêng rồi mà"
+      ],
+      "jpchoice_data_list": [
+        "君は、君の“理想”を持ってたはずだ",
+        "貴方は、貴方の“理想”を持ってたはず"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Có thật không ạ……? Không phải là bắt chước Princess Fighter, cũng không phải bắt chước chị King, mà là của chính em sao……?",
+      "jpname": "カワカミプリンセス",
+      "jptext": "本当に……？　プリファイの真似っこじゃなく、\nキングさんの真似っこでもない、私の……？",
+      "choice_data_list": [
+        "Đừng vội vàng, cứ từ từ nhớ lại nhé",
+        "Không cần sốt ruột, hãy cứ thong thả mà nhớ lại"
+      ],
+      "jpchoice_data_list": [
+        "焦らないで、ゆっくり思い出そう",
+        "焦らないで、ゆっくり思い出そうよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Đúng…… là vậy rồi nhỉ. Dù sao thì từ giờ đến kỳ đua tuyển chọn vẫn còn chút thời gian……",
+      "jpname": "カワカミプリンセス",
+      "jptext": "そう……ですわね。\n選抜レースまで、まだ少し時間がありますし……。",
+      "choice_data_list": [
+        "Tôi sẽ đến cổ vũ em",
+        "Tôi sẽ tới để cổ vũ cho em nhé"
+      ],
+      "jpchoice_data_list": [
+        "応援に行くよ",
+        "応援に行くね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù gật đầu đồng ý nhưng vẻ mặt của Kawakami Princess vẫn còn thoáng nét âu lo. Sau đó, em ấy cứ đứng lặng hồi lâu, dõi theo từng bước chạy của King Halo.",
+      "jpname": "モノローグ",
+      "jptext": "頷くものの、まだ不安そうな顔のカワカミプリンセス。彼女は\nその後もじっと、走るキングヘイローを見つめ続けたのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
