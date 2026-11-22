@@ -1,0 +1,452 @@
+{
+  "title": "Canter x Canter",
+  "jptitle": "キャンター×キャンター",
+  "text_block_list": [
+    {
+      "name": "Tóm tắt tập trước",
+      "text": "Tóm tắt tập trước! Sau khi thất bại trước những đối thủ hùng mạnh, Kiseki mong muốn được thử sức lại với họ trong một trận đua tập khác và đã đạt được lời hẹn tái đấu.",
+      "jpname": "前回のあらすじ",
+      "jptext": "前回のあらすじ！　強敵に敗北したキセキは、\n再び模擬レースで彼女たちへ挑みたいと、再戦の約束を取りつける。"
+    },
+    {
+      "name": "Tóm tắt tập trước",
+      "text": "Kiseki đã thề rằng lần này nhất định sẽ tạo ra một trận đua thật hấp dẫn và giành chiến thắng! Nào ngờ đâu!? Có tới tận 3 vị Trainer đã chủ động đề nghị giúp đỡ em!",
+      "jpname": "前回のあらすじ",
+      "jptext": "キセキは誓った。今度こそ面白いレースを創り、勝利すると！\nするとなんと！？　3名ものトレーナーたちが協力を申し出たのだ！"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Kiseki, tinh thần cầu tiến của em thật sự rất tuyệt vời. Nhưng cả tư thế chạy lẫn cách gia tốc đều chưa nắm được nền tảng căn bản. Hãy sửa lại những điểm đó! Em sẽ còn tiến xa hơn nữa!",
+      "jpname": "ベテラントレーナー",
+      "jptext": "キセキ、君の向上心は本当に素晴らしい。だがフォームも\n加速も基礎ができていない。そこを直そう！　君は伸びる！"
+    },
+    {
+      "name": "Trainer trung cấp",
+      "text": "Nào, hãy cứ chạy thật tự do đi! Ý chí và sức sáng tạo của em cứ để tôi bảo vệ! Chính sự chủ động đó mới là vũ khí lợi hại nhất của em!",
+      "jpname": "中堅トレーナー",
+      "jptext": "さあ自由に走って！　あなたのやる気と創造性は私が守るわ！\nその自主性こそがとっておきの武器だもの！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Hà, hà... Trainer-san, chuyện này trông chẳng phải giống hệt một tập tu luyện đặc biệt hay sao!? Em cảm thấy chiến lực chạy của mình đã tăng lên đến 5 vạn rồi ấy chứ!",
+      "jpname": "キセキ",
+      "jptext": "はぁ、はぁ……トレーナーさん、これ修行回っぽくないですか！？\nあたしの走力も、5万は上がっている気がします！"
+    },
+    {
+      "name": "",
+      "text": "Kiseki thì tỏ ra vô cùng phấn khích trước tình cảnh này, thế nhưng với tư cách là một Trainer, tâm trạng tôi lại có đôi chút phức tạp.",
+      "jpname": "モノローグ",
+      "jptext": "と、キセキはこの状況に興奮しているが、\nトレーナーの自分としては少しばかり複雑な心境だ。",
+      "choice_data_list": [
+        "(Đây là \"cuộc chiến\" của phía các Trainer)"
+      ],
+      "jpchoice_data_list": [
+        "（これは、トレーナー側の“戦い”だ）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước một Mã Nương đầy sức hút như Kiseki, liệu tôi có thể chứng minh \"mình là một Trainer có thể dẫn dắt em ấy chạm tới ước mơ đến nhường nào\", để từ đó tiến tới việc ký kết hợp đồng phụ trách hay không.",
+      "jpname": "モノローグ",
+      "jptext": "キセキという魅力的なウマ娘に対し、『いかに自分は彼女を夢へと\n導けるトレーナーか』を示し、担当契約へと繋げられるか。",
+      "choice_data_list": [
+        "(Không ngờ lại rơi vào tình cảnh này...!)"
+      ],
+      "jpchoice_data_list": [
+        "（まさかこんな状況になるなんて……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng một khi đã phải lòng bước chạy của em ấy, bản thân tôi cũng không đời nào chịu nhận thua.",
+      "jpname": "モノローグ",
+      "jptext": "だが彼女の走りに惚れ込んだ以上、自分も負けるわけにいかない。",
+      "choice_data_list": [
+        "Anh cũng sẽ đối diện với em bằng tất cả sức mình!!",
+        "Tôi cũng phải đối diện với bạn bằng tất cả sức mình!!"
+      ],
+      "jpchoice_data_list": [
+        "俺だって、全力で彼女に向き合うんだ！！",
+        "私だって、全力で彼女に向き合わなきゃ！！"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Tèn ten, tuyệt chiêu mới tiếp theo đây ạ! Mang tên là \"Né Tránh Lực Ly Tâm\"!! Cứ hễ vào góc cua là bám tay vào hàng rào trong, rồi bo cua một đường thật gắt!",
+      "jpname": "キセキ",
+      "jptext": "じゃんっ、次の新必殺技です！　その名も『遠心力回避』！！\nコーナーに入ったら内ラチに手をかけて、ググーッと曲がる！",
+      "choice_data_list": [
+        "Hừm, ra là vậy!"
+      ],
+      "jpchoice_data_list": [
+        "んんっ、なるほど！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kế sách chạm tay vào hàng rào trong có lẽ sẽ rất khó được chấp thuận xét về mặt an toàn lẫn quy tắc thi đấu. Tuy nhiên, góc nhìn tập trung vào việc bo cua lại khá thú vị. Nếu vậy thì...--",
+      "jpname": "モノローグ",
+      "jptext": "内ラチに触れる策は、安全面やルール面から見れば厳しいだろう。\nだがその、コーナリングに注目する着眼点は面白い。ならば……――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "...? Trainer-san?",
+      "jpname": "キセキ",
+      "jptext": "……？　トレーナーさん？",
+      "choice_data_list": [
+        "...Sao Kiseki lại nảy ra ý tưởng đó thế em?",
+        "...Sao Kiseki lại nảy ra ý tưởng đó thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "……何でキセキはその案を思いついたんだ？",
+        "……何でキセキはその案を思いついたの？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Em xem được trong một bộ manga đua xe đấy ạ! Rằng trong một cuộc đua, tốc độ khi ôm cua cũng quan trọng không kém gì tốc độ tối đa trên đường thẳng! Thế nên là--",
+      "jpname": "キセキ",
+      "jptext": "カーレースの漫画で見たんです！　レースでは直線の最高速度と\n同じくらい、コーナリング速度も大事だって！　だから――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ủa? ...A, đúng rồi ha! Chiến thuật này nếu không chiếm được vị trí sát hàng rào trong thì đâu có dùng được. Hủy bản thảo thôi!",
+      "jpname": "キセキ",
+      "jptext": "ん？　……あっ、そっか！　この作戦って、\n内ラチ沿いの位置が取れなかったら通用しないですね。ボツで！",
+      "choice_data_list": [
+        "Không, anh đâu chỉ đơn thuần muốn loại bỏ nó!"
+      ],
+      "jpchoice_data_list": [
+        "いや、ただボツにしたいわけじゃなくて！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi vội can ngăn câu trả lời có phần quá đỗi hấp tấp đó. Càng liên tục nảy sinh nhiều ý tưởng mới, em ấy dường như càng chẳng chút do dự khi vứt bỏ chúng.",
+      "jpname": "モノローグ",
+      "jptext": "あまりに短絡的な答えに待ったを出す。彼女は次から次に新しい\n発想をする分、捨てることにためらいがないのかもしれない。",
+      "choice_data_list": [
+        "(Thế nhưng nếu muốn ý tưởng trở nên thú vị hơn nữa...!)"
+      ],
+      "jpchoice_data_list": [
+        "（でも案をさらに面白くしたいなら……！）"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "...? Hôm nay trông Trainer-san cứ ấp úng sao ấy. Cứ khoanh tay trầm ngâm mãi...",
+      "jpname": "キセキ",
+      "jptext": "……？　今日のトレーナーさんって、\nなんだか歯切れが悪いです。ずうっと腕組みもしていて……。",
+      "choice_data_list": [
+        "À, anh muốn cùng suy nghĩ nghiêm túc về ý tưởng của em",
+        "Ừ, tôi muốn cùng suy nghĩ nghiêm túc về ý tưởng của bạn"
+      ],
+      "jpchoice_data_list": [
+        "ああ、君のアイディアと向き合いたくて",
+        "うん、貴方のアイディアと向き合いたくて"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có một điều khiến tôi băn khoăn. Nếu lại phân định thắng bại bằng cú nước rút cuối như lần trước, thông thường người ta sẽ chú ý đến tốc độ tối đa trên đường thẳng chứ không phải việc bo cua.",
+      "jpname": "モノローグ",
+      "jptext": "引っかかっていたことがある。前回と同じく末脚勝負をするなら、\nコーナリングではなく、直線の最高速度に目がいくのが普通だ。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng em ấy lại không làm vậy. Chắc chắn đằng sau đó phải có một toan tính nào đó. Nếu em ấy chưa nhận thức được... tôi sẽ gợi mở để biến suy nghĩ trong tiềm thức đó thành hình.",
+      "jpname": "モノローグ",
+      "jptext": "だが彼女はそれをしなかった。そこには思惑があったはずだ。\nもし自覚がないなら……言語化を促して、無意識を形にしてみせる。",
+      "choice_data_list": [
+        "Em hãy thử phát triển ý tưởng đó thành một phương án khác xem"
+      ],
+      "jpchoice_data_list": [
+        "そのアイディア、別案に膨らませてみて"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Hả... thành phương án khác ạ...? Ừm... ơ... thế là sao cơ...!?",
+      "jpname": "キセキ",
+      "jptext": "えっ……別案に……？\nんん……ええ～～っと……！？",
+      "choice_data_list": [
+        "Nếu là em thì nhất định sẽ tìm ra được một phương án thú vị hơn nữa",
+        "Nếu là bạn thì nhất định sẽ tìm ra được một phương án thú vị hơn nữa"
+      ],
+      "jpchoice_data_list": [
+        "君ならもっと面白い案にたどり着くはずだ",
+        "貴方ならもっと面白い案にたどり着くはず"
+      ]
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Kiseki, tập trung hơn nữa đi! Nếu lơ là căn bản thì không thể phát huy được cú nước rút cuối của em đâu!",
+      "jpname": "ベテラントレーナー",
+      "jptext": "キセキ、もっと集中だ！\n基礎を疎かにしては、君の末脚は活かせないぞ！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "A--, dạ vâng! Em xin lỗi ạ!",
+      "jpname": "キセキ",
+      "jptext": "あっ――、はい！　すみません！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(...Các Trainer khác đều đưa ra chỉ thị cụ thể đến mức mình chẳng cần phải tự quyết định gì cả. ...Vậy mà người ấy thì lại...)",
+      "jpname": "キセキ",
+      "jptext": "（……ほかのトレーナーさんは、具体的な指示をくれる。\nあたしが決めなくてもいいくらいに。……なのに、あの人は）"
+    },
+    {
+      "name": "Trainer trung cấp",
+      "text": "Tôi muốn các Mã Nương trong cuộc đua hãy cứ chạy theo ý thích của mình. Vì vậy tôi sẽ không gặng hỏi tại sao hay chỉ thị gì cả. Người cần suy nghĩ chính là em đó, Kiseki.",
+      "jpname": "中堅トレーナー",
+      "jptext": "レース中のウマ娘には思うままに走ってほしいの。\nだから私は、どうしてと指示しない。考えるのはあなたよ、キセキ。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Rõ ràng có những người không can thiệp mà để mình tự do thế này cơ mà! Trước đây anh ấy cũng chỉ là một độc giả thôi mà...! Vậy mà tại sao, mình lại--)",
+      "jpname": "キセキ",
+      "jptext": "（こんなふうに、口出ししないで自由にさせてくれる人もいるのに！\nあなただって前は読者で……！　なのになんで、あたし――）"
+    },
+    {
+      "name": "",
+      "text": "\"Nếu là em thì nhất định sẽ tìm ra được một phương án thú vị hơn nữa\"",
+      "jpname": "モノローグ",
+      "jptext": "『君ならもっと面白い案にたどり着くはずだ』"
+    },
+    {
+      "name": "",
+      "text": "\"Nếu là bạn thì nhất định sẽ tìm ra được một phương án thú vị hơn nữa\"",
+      "jpname": "モノローグ",
+      "jptext": "『貴方ならもっと面白い案にたどり着くはず』"
+    },
+    {
+      "name": "Kiseki",
+      "text": "... U... Thật tình luôn đấyyyyy!!",
+      "jpname": "キセキ",
+      "jptext": "………………。\n～～…………ッ、もーーーーーーっ！！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Anh rốt cuộc kỳ vọng vào em nhiều đến mức nào vậy hả cái con người nàyyy!!",
+      "jpname": "キセキ",
+      "jptext": "どんだけ期待してるんですか！？　あなたって人は！！"
+    },
+    {
+      "name": "",
+      "text": "Tối hôm đó, Kiseki đã gửi cho tôi một bản Name manga dài tới 48 trang. Có vẻ như em ấy đã phác thảo ý tưởng cho cuộc đua thông qua manga.",
+      "jpname": "モノローグ",
+      "jptext": "その夜、キセキから48Pにもわたる漫画のネームが送られてきた。\nどうやら彼女は漫画で、レースの構想を練ってきたようだ。",
+      "choice_data_list": [
+        "Trang này tạm giữ lại, trang này thì loại bỏ...",
+        "Trang này tạm giữ lại, trang này thì loại bỏ..."
+      ],
+      "jpchoice_data_list": [
+        "これは保留で、これはボツで……",
+        "これは保留で、これはボツで……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vài ngày trôi qua kể từ khi tôi hạ quyết tâm đối diện hết mình cùng em ấy. Thành thật mà nói, tình thế của tôi hiện tại... dẫu em ấy có bất thình lình đòi cắt đứt quan hệ bất cứ lúc nào thì cũng chẳng có gì lạ.",
+      "jpname": "モノローグ",
+      "jptext": "全力で向き合うと決めてから数日。正直、今の自分の状況は、\n……いつ彼女から三行半を突き付けられてもおかしくない。"
+    },
+    {
+      "name": "",
+      "text": "Kiseki là một Mã Nương mang tâm hồn nghệ sĩ. Em ấy hẳn muốn được thỏa sức đắm chìm vào sáng tác trong tâm trạng thoải mái nhất. Một tình cảnh khiến bản thân bị giậm chân tại chỗ như thế này ắt hẳn chẳng dễ chịu chút nào.",
+      "jpname": "モノローグ",
+      "jptext": "キセキは作家気質のウマ娘。気持ちよく作品に取り組みたいだろう。\nなのに足踏みさせられる状況なんて、好ましくないはずだ。",
+      "choice_data_list": [
+        "Thế nhưng, dù vậy... tôi vẫn muốn đi cùng em ấy đến cùng"
+      ],
+      "jpchoice_data_list": [
+        "でも、それでも……やり遂げたい"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...Tôi mong em ấy sẽ đối diện đến tận cùng với sáng tạo của chính mình. Tôi sẵn sàng làm bất cứ điều gì để hỗ trợ cho việc đó. Cho dù bản thân có bị ghét bỏ đi chăng nữa--",
+      "jpname": "モノローグ",
+      "jptext": "……彼女には、彼女の創作とトコトン向き合ってほしい。\nその補助ならなんでもやりたい。たとえ自分が嫌われたとしても――",
+      "choice_data_list": [
+        "Bởi vì em là một Mã Nương có thể tạo nên bước chạy tuyệt vời nhất",
+        "Bởi vì bạn là một Mã Nương có thể tạo nên bước chạy tuyệt vời nhất"
+      ],
+      "jpchoice_data_list": [
+        "君は、最高の走りを創れるウマ娘だから",
+        "貴方は、最高の走りを創れるウマ娘だから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Tí tách, tí tách tí tách... Rào rào rào!)",
+      "jpname": "モノローグ",
+      "jptext": "（ポツ、ポツポツポツ……ザーーー！）"
+    },
+    {
+      "name": "",
+      "text": "Cuối tuần. Khi tôi vừa bước chân ra ngoài để đi mua thêm tài liệu tham khảo mới cho Kiseki, một cơn mưa rào bất chợt đã khiến tôi lâm vào cảnh mắc kẹt.",
+      "jpname": "モノローグ",
+      "jptext": "週末。キセキのために新しい資料を買いに行こうと\n外に出ると、急な雨で立ち往生をする羽目になってしまった。"
+    },
+    {
+      "name": "",
+      "text": "Đã vậy mưa mỗi lúc một nặng hạt hơn. Tính toán đứng chờ mưa tạnh đã hoàn toàn đổ bể... Lịch trình tàu điện dường như cũng bị đình trệ nghiêm trọng.",
+      "jpname": "モノローグ",
+      "jptext": "しかも雨脚は強くなるばかり。待てば止むかもという目算は外れ……\n電車のダイヤも、かなり乱れてしまっているようだ。",
+      "choice_data_list": [
+        "(Gay go thật rồi đây...--Hửm?)"
+      ],
+      "jpchoice_data_list": [
+        "（しまったなぁ……――ん？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Điện thoại bỗng rung lên tiếng thông báo. Có vẻ như đó là tin nhắn đến từ Kiseki.",
+      "jpname": "モノローグ",
+      "jptext": "スマートフォンに通知が届く。\nどうやらキセキからのメッセージのようだ。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"Anh đang ở đâu thế ạ? Em thấy đèn phòng Trainer vẫn sáng mà\"",
+      "jpname": "キセキ",
+      "jptext": "『今どこですか？\nトレーナー室の電気はついてましたけど』",
+      "choice_data_list": [
+        "\"Thật ra anh đang ở ngoài, bị mắc kẹt vì cơn mưa lớn\""
+      ],
+      "jpchoice_data_list": [
+        "『実は外で、雨で足止めを食らっていて』"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"A! Em hiểu rồi ạ!\"",
+      "jpname": "キセキ",
+      "jptext": "『あ！　わかりました！』",
+      "choice_data_list": [
+        "(\"Em hiểu rồi\"...?)"
+      ],
+      "jpchoice_data_list": [
+        "（『わかりました』……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mắc kẹt ở đó chừng vài chục phút. ...Bất chợt, tôi nghe thấy tiếng bước chân đang lao vun vút từ đâu đó vọng lại. Giữa tiết trời giông bão thế này mà vẫn có người dũng cảm đến thế cơ đấy--...",
+      "jpname": "モノローグ",
+      "jptext": "足止めを食らって数十分。……ふと、どこからか猛然と走る足音が\n聞こえる。この天候の中、勇敢な人もいたものだ――……。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Tìm thấy rồi! Trainer-saaaaaannn!!",
+      "jpname": "キセキ",
+      "jptext": "いたーーーーっ、トレーナーさーーーーーん！！",
+      "choice_data_list": [
+        "Hảảả, Kiseki!!??"
+      ],
+      "jpchoice_data_list": [
+        "ええっ、キセキ！！？？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bất chấp những hạt mưa quất xối xả vào người, em ấy vẫn chẳng màng mà lao thẳng về phía tôi. Hơn nữa ban nãy em ấy vừa bảo đang ở phòng Trainer. Có nghĩa là--",
+      "jpname": "モノローグ",
+      "jptext": "彼女は体をたたきつける雨の中、それを物ともせずに駆けてくる。\nしかも彼女は先ほどまでトレーナー室の話をしていた。つまり――",
+      "choice_data_list": [
+        "Em chạy từ học viện tới tận đây sao!?"
+      ],
+      "jpchoice_data_list": [
+        "学園からここまで走って！？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Hà... hà... phù... ...Xin mời anh!!",
+      "jpname": "キセキ",
+      "jptext": "はぁ……はぁ……ふぅ――……\n…………どうぞ！！",
+      "choice_data_list": [
+        "X-Xin mời cái gì chứ! E-Em--",
+        "X-Xin mời cái gì chứ! B-Bạn--"
+      ],
+      "jpchoice_data_list": [
+        "ど、どうぞって！き、君――",
+        "ど、どうぞって！あ、貴方――"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Trước hết xin anh hãy xem qua đi đã! Cho em xin ý kiến với ạ!? Sáng nay em vừa lóe lên một ý tưởng này! Thật tình, em nôn nóng không thể chờ thêm được nữa rồi!!",
+      "jpname": "キセキ",
+      "jptext": "まずは見て！　意見もらえますか！？\n今朝ピンときた案があって！　もー、待ちきれなくて！！"
+    },
+    {
+      "name": "",
+      "text": "Tôi buông cả chiếc ô lẫn tập tài liệu trên tay để đón lấy chiếc máy tính bảng từ em ấy. Thật sự chấn động. Không ngờ em ấy lại chạy thẳng đến tận đây, cô bé này quả thực là--",
+      "jpname": "モノローグ",
+      "jptext": "持っていた傘も資料も手放して、彼女からタブレットを受け取る。\n衝撃だった。まさかここに走ってくるとは、なんとも彼女は――",
+      "choice_data_list": [
+        "Không biết em có bao nhiêu phần bền bỉ và ý chí kiên cường nữa...!"
+      ],
+      "jpchoice_data_list": [
+        "どれだけ根性とスタミナがあるんだか……！"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "He he, khoản đó thì em tự tin lắm ạ--... ... --Hảảả!?",
+      "jpname": "キセキ",
+      "jptext": "へへっ、そこは自信があるかもで――………………\n………………――――――――はあっ！？",
+      "choice_data_list": [
+        "Hả!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "\"Sao Kiseki lại nảy ra ý tưởng đó thế em?\" \"Em hãy thử phát triển ý tưởng đó thành một phương án khác xem\"",
+      "jpname": "モノローグ",
+      "jptext": "『……何でキセキはその案を思いついたんだ？』\n『そのアイディア、別案に膨らませてみて』"
+    },
+    {
+      "name": "",
+      "text": "\"Sao Kiseki lại nảy ra ý tưởng đó thế bạn?\" \"Bạn hãy thử phát triển ý tưởng đó thành một phương án khác xem\"",
+      "jpname": "モノローグ",
+      "jptext": "『……何でキセキはその案を思いついたの？』\n『そのアイディア、別案に膨らませてみて』"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(--Ngay từ đầu tại sao mình lại chú ý đến những khúc cua nhỉ. Dù rằng việc ôm cua cũng rất quan trọng để gia tốc cho đoạn đường thẳng cuối cùng, nhưng...)",
+      "jpname": "キセキ",
+      "jptext": "（――そもそもなんで、カーブを意識してたんだろう。\n最終直線での加速のためにも、コーナリングは大切だけど……）"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Vốn dĩ việc bo cua đâu phải tuyệt kỹ chỉ dùng được cho chiến thuật \"Truy kích\"! Nhưng nếu mình từng cảm nhận được \"Cơ hội chiến thắng là ở đây!\". Thì điều đó có nghĩa là...!)",
+      "jpname": "キセキ",
+      "jptext": "（そもそもコーナリングって、“追込”にしか使えない技じゃない！\nでもそこに『勝機アリ！』って感じてたなら。それって……！）"
+    },
+    {
+      "name": "Kiseki",
+      "text": "--A, Trainer-san! Quả nhiên cho em xin lỗi ạ! Cái ý tưởng trong máy tính bảng đó xin anh hãy coi như chưa có gì đi ạ!",
+      "jpname": "キセキ",
+      "jptext": "――っ、トレーナーさん！　やっぱりごめんなさい！\nその、タブレットの案もやっぱりなしでお願いします！",
+      "choice_data_list": [
+        "Hảảả, tại sao thế!?"
+      ],
+      "jpchoice_data_list": [
+        "えええっ、どうして！？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Em vừa lóe lên một ý tưởng kinh thiên động địa luôn rồi! --Nói chung là xin anh hãy lắng nghe em nói đã ạ!!",
+      "jpname": "キセキ",
+      "jptext": "とっ、とんでもない案を閃いちゃって！\n――とにかく話を聞いてください！！"
+    }
+  ]
+}

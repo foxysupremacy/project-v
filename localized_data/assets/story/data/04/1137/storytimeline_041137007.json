@@ -1,0 +1,506 @@
+{
+  "title": "Tore 100: 100 điều muốn làm cùng Trainer",
+  "jptitle": "トレ100～トレとしたい100のこと～",
+  "text_block_list": [
+    {
+      "name": "Kiseki?",
+      "text": "... Hà, hà, hà... Anh có sao không? Anh còn chạy tiếp được không?",
+      "jpname": "キセキ？",
+      "jptext": "……はぁっ、はぁっ、はぁっ……\n大丈夫ですか？　まだ、走れますか？",
+      "choice_data_list": [
+        "Hà, hà... v-vẫn cố được...!"
+      ],
+      "jpchoice_data_list": [
+        "はぁっ、はぁっ……な、なんとか……！"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "May quá... vậy thì chúng ta đi thôi! Nếu không thì bọn chúng sẽ--",
+      "jpname": "キセキ？",
+      "jptext": "よかった……じゃあ、もう行きましょう！\nじゃないと、あいつらが――"
+    },
+    {
+      "name": "Xác sống",
+      "text": "U a... Oa a a a a a a a!!",
+      "jpname": "アンデッド",
+      "jptext": "うア……ウァアァァアアアァァ！！"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "----!!! Đứng dậy đi! Nhanh lên!!",
+      "jpname": "キセキ？",
+      "jptext": "――――！！！　立って！！\n早くッ！！"
+    },
+    {
+      "name": "",
+      "text": "Năm 20XX. Đầu hạ. Vào một buổi sáng đẹp trời. Nỗi tuyệt vọng đã bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "20XX年。初夏。ある晴れた朝。\n絶望は始まった。"
+    },
+    {
+      "name": "",
+      "text": "Chỉ trong chưa đầy một tháng, nhân loại đã bị thống trị bởi ZBSS--những xác sống nuốt chửng mọi sinh vật... và chuỗi ngày êm đềm đã bị cướp đoạt.",
+      "jpname": "モノローグ",
+      "jptext": "人類は僅か1か月足らずのうちに、遍く生物を喰らう死者――\nZBSSに支配され……穏やかな日常を、奪われた。"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "...Thế này là dựng xong rào chắn tạm thời rồi ạ! Bọn ZBSS chắc cũng không thể xông vào trong một thời gian đâu!",
+      "jpname": "キセキ？",
+      "jptext": "……これで一応、バリケードはできました！\nZBSSも、しばらくは中に入って来られないはずです！",
+      "choice_data_list": [
+        "...Một thời gian, sao... cầm cự được nửa ngày thì tốt"
+      ],
+      "jpchoice_data_list": [
+        "……しばらく、か……半日もてばいいけど"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "... Đằng kia có một cửa hàng quần áo. Trong tình huống khẩn cấp thế này, em xin phép đi lấy đồ thay nhé!",
+      "jpname": "キセキ？",
+      "jptext": "…………。向こうに、洋服屋さんがありました。\nこの緊急事態ですから。着替え、もらってきますね！"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Tèn ten! Anh thấy thế nào? Trông em có ngầu không?",
+      "jpname": "キセキ？",
+      "jptext": "じゃーんっ！　どうですか？\nかっこよく決まってます？",
+      "choice_data_list": [
+        "...Trong tình cảnh ngàn cân treo sợi tóc thế này mà em vẫn..."
+      ],
+      "jpchoice_data_list": [
+        "……生き死にのかかった状況で、よくもまあ"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "--Chính vì thế nên mới phải vậy chứ.",
+      "jpname": "キセキ？",
+      "jptext": "――だからこそ、でしょう。"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Bộ này giống âu phục của nhân vật em thích. Thế nên em mới chọn nó.",
+      "jpname": "キセキ？",
+      "jptext": "これ、あたしが好きなキャラのスーツに似てて。\nだから、選んだんです。"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Đến cả trang phục lúc chết, em cũng quyết không để lũ chúng nó định đoạt.",
+      "jpname": "キセキ？",
+      "jptext": "死ぬときの服装まで、あいつらに選ばせない。",
+      "choice_data_list": [
+        "...Em đúng thật là...",
+        "...Bạn đúng thật là..."
+      ],
+      "jpchoice_data_list": [
+        "…………君は、本当に……",
+        "…………貴方は、本当に……"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Mà dù là lần đầu thử sức... nhưng vui thật đấy anh nhỉ! Cosplay ấy! Đúng rồi! Anh có muốn làm cùng không? Em sẽ chọn đồ giúp anh nhé!",
+      "jpname": "キセキ？",
+      "jptext": "というか、初めてやったけど……楽しいですね！　コスプレ！\nそうだ！　一緒にやりません？　あたしが見繕ってあげますっ！"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "...Tuyệt! Đẹp lắm luôn, rất hợp với anh! Đúng là âu phục phải để người trưởng thành mặc thì mới toát lên vẻ lịch lãm được!",
+      "jpname": "キセキ？",
+      "jptext": "……いい！　いいですね、似合います！\nやっぱスーツって、大人の人が着たほうがサマになりますね！",
+      "choice_data_list": [
+        "B-Bộ đồ sặc sỡ thế này, bình thường đi làm ai mà mặc chứ..."
+      ],
+      "jpchoice_data_list": [
+        "こ、こんな派手なの、仕事じゃ着ないよ……"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Thế ạ? Vậy thì từ nay về sau, em thấy anh cứ mặc bộ này đi làm cũng ổn áp phết đấy ạ!",
+      "jpname": "キセキ？",
+      "jptext": "そうなんですか？　ならこれからは、\nそれで出勤しちゃうのもアリだと思います！",
+      "choice_data_list": [
+        "Bộ vest tím hoa văn á!? Đồng nghiệp sẽ sốc chết mất!"
+      ],
+      "jpchoice_data_list": [
+        "花柄紫スーツで！？同僚に驚かれるよ！"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "A ha ha! Vậy tiếp theo anh muốn thử mặc đồ gì nào? Kiểu fantasy như pháp sư chẳng hạn? Anh có muốn thử thách không!?",
+      "jpname": "キセキ？",
+      "jptext": "あははっ！　それじゃあ、次はなに着てみます？\n魔法使いみたいな、ファンタジー系とか？　挑戦してみません！？"
+    },
+    {
+      "name": "",
+      "text": "...Khoảng thời gian ấy đối với tôi tựa như một khoảnh khắc ngọc ngà quý giá. Quên đi tất cả để cùng cười đùa với anh ấy--25 phút cuối cùng.",
+      "jpname": "モノローグ",
+      "jptext": "……その時間はあたしにとって、宝石のような一瞬で。\n全てを忘れて、彼と笑いあえた――最後の、25分だった。"
+    },
+    {
+      "name": "",
+      "text": "...Khoảng thời gian ấy đối với tôi tựa như một khoảnh khắc ngọc ngà quý giá. Quên đi tất cả để cùng cười đùa với cô ấy--25 phút cuối cùng.",
+      "jpname": "モノローグ",
+      "jptext": "……その時間はあたしにとって、宝石のような一瞬で。\n全てを忘れて、彼女と笑いあえた――最後の、25分だった。"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Không... không, không chịu đâu!!!! Không muốn đâu, chuyện như thế... em không chịu đâu mà...!",
+      "jpname": "キセキ？",
+      "jptext": "嫌……いや、嫌だ！！！！\n嫌です、そんな……嫌だよぉ……！",
+      "choice_data_list": [
+        "Đừng khóc! Không cần phải khóc! Em hãy sống tiếp đi!",
+        "Đừng khóc! Không cần phải khóc! Bạn hãy sống tiếp đi!"
+      ],
+      "jpchoice_data_list": [
+        "泣くな！泣かなくていい！君は生きろ！",
+        "泣くな！泣かなくていい！貴方は生きて！"
+      ]
+    },
+    {
+      "name": "Kiseki?",
+      "text": "Đ-Đã hứa rồi cơ mà! Hứa là sẽ lại đi \"Triển lãm Tranh gốc\" nữa mà! Hứa là sẽ chụp ảnh cùng bọn Ushippy... đã hứa rồi mà...!",
+      "jpname": "キセキ？",
+      "jptext": "や、約束したじゃないですかっ！　また、『原画展』行こうって！\nウシッピーたちと写真撮るんだって……約束っ……！"
+    },
+    {
+      "name": "Kiseki?",
+      "text": "...Xin đừng bỏ em lại một mình mà...! Em xin anh...! Em cũng muốn đi cùng...!",
+      "jpname": "キセキ？",
+      "jptext": "……置いて行かないでください……！　お願い……！\nあたしも、一緒に……！",
+      "choice_data_list": [
+        "--Hãy ngẩng cao đầu mà tiến bước, Joanna",
+        "--Hãy ngẩng cao đầu mà tiến bước, Joanna"
+      ],
+      "jpchoice_data_list": [
+        "――前を向いて進め、ジョアンナ",
+        "――前を向いて進みなさい、ジョアンナ"
+      ]
+    },
+    {
+      "name": "Joanna",
+      "text": "A a a a a...! ... Hức hức... sụt sùi... ... --Quyết không tha thứ.",
+      "jpname": "ジョアンナ",
+      "jptext": "あああああっ……！　……うううっ……ぐすっ……。\n…………――許さない。"
+    },
+    {
+      "name": "Joanna",
+      "text": "...Ta sẽ kết thúc tất cả. Vì một thời đại tiếp theo. Hãy chống mắt lên mà nhìn. Ta sẽ sống sót đến cùng cho xem--",
+      "jpname": "ジョアンナ",
+      "jptext": "……終わらせるんだ、全部。次の時代のために。\n見てろ。あたしは、そうやって生き抜いてやる――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "--Anh thấy thế nào ạ!!!?",
+      "jpname": "キセキ",
+      "jptext": "――どうでしょうかっっ！！！？"
+    },
+    {
+      "name": "Kiseki",
+      "text": "A, em xin lỗi vì đã lớn tiếng ạ...! Ừm, thì... dù sao đây cũng là tác phẩm em rất tâm đắc... nhưng m-mà anh thấy thế nào ạ?",
+      "jpname": "キセキ",
+      "jptext": "あっ、大きい声すみませんっ……！　えっと、その……\n一応、自信作ではあるんですけど……ど、どうでしたか？"
+    },
+    {
+      "name": "",
+      "text": "Một ngày nọ trong đợt tập huấn mùa hè. Tôi lướt màn hình máy tính bảng và khép lại bản thảo Kiseki gửi. Cảm nghĩ của tôi về tác phẩm mang tựa đề \"I'm Last One\" này là--",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿中のある日。タブレットを操作し、キセキにもらった原稿を\n閉じる。『アイム・ラストワン』と題された本作の感想としては――",
+      "choice_data_list": [
+        "Hay lắm! Hay cực kỳ luôn!"
+      ],
+      "jpchoice_data_list": [
+        "面白かった！めちゃくちゃ！"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "----",
+      "jpname": "キセキ",
+      "jptext": "――――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Tuyệt quáaaaa!! Thành công rồiii!! Em cảm ơn anh nhiều lắm ạ!",
+      "jpname": "キセキ",
+      "jptext": "っしゃあーーーー！！　やったーーー！！\nありがとうございますっ！"
+    },
+    {
+      "name": "",
+      "text": "Đó là một tác phẩm xuất sắc đã làm trọn vẹn những gì mà một bộ kinh dị thảm họa kinh điển cần có. Tôi không chỉ say mê khả năng khắc họa zombie hay sức hút của nhân vật, mà trên hết là--",
+      "jpname": "モノローグ",
+      "jptext": "王道パニックホラーとしてやるべきことをやった、快作だった。\nゾンビの描写力、キャラの魅力に夢中になったうえ、何より――",
+      "choice_data_list": [
+        "Phân cảnh ở trung tâm thương mại đoạn giữa ấy? Anh cực kỳ thích!"
+      ],
+      "jpchoice_data_list": [
+        "中盤の、デパートのシーン？すごい好き！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi bộc bạch với em rằng chính vì trước đó toàn là \"những tình huống nghẹt thở\", nên màn tương tác vui vẻ giữa các nhân vật trong phân cảnh ấy đã khiến tôi bất giác mỉm cười.",
+      "jpname": "モノローグ",
+      "jptext": "あのシーンは、これまで『緊迫した場面』が続いていたからこそ、\nキャラ同士の楽しげなやり取りに、思わず笑顔になれたと伝えた。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Oa! Em vui quá đi mất! Cảm ơn anh nhiều lắm ạ! ...Ôi thôi, khóe môi cứ tự cười toe toét này!",
+      "jpname": "キセキ",
+      "jptext": "うわ～～～！　嬉しいですっ！\nありがとうございます！　……やばっ、頬ゆるむ！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Nhưng mà đúng thật ạ! Cảnh nhóm Joanna tổ chức đại hội cosplay ở trung tâm thương mại cũng được mọi người khen ngợi nhiều lắm!",
+      "jpname": "キセキ",
+      "jptext": "でも、確かに！　デパートでジョアンナたちが、\nコスプレ大会を開く場面は、みんなからも評判がよくて！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Mà nói đúng ra thì... fufu. Anh có nhận ra điều gì không ạ?",
+      "jpname": "キセキ",
+      "jptext": "というか……ふふっ。\nなにか気づきません？"
+    },
+    {
+      "name": "",
+      "text": "Nghe em nói, tôi chợt liên tưởng đến điểm khiến mình băn khoăn khi nãy. Chẳng lẽ phân cảnh đại hội cosplay đó là--",
+      "jpname": "モノローグ",
+      "jptext": "言われて、気になっていた点に思い当たる。\nもしかして、コスプレ大会のシーンは――",
+      "choice_data_list": [
+        "Dựa trên trải nghiệm mà chúng ta đã cùng trải qua sao?",
+        "Dựa trên trải nghiệm mà chúng ta đã cùng trải qua sao?"
+      ],
+      "jpchoice_data_list": [
+        "俺たちが一緒にした経験を、元にしてる？",
+        "私たちが一緒にした経験を、元にしてる？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Dạ đúng rồi ạ!!! Thật ra là như vậy đấy ạ!!",
+      "jpname": "キセキ",
+      "jptext": "はいっ！！！　実はそうなんです！！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Lúc đang phân khung lên Name, em đã nghĩ ngay: \"Chính là nó!!\"! Cho vào rồi thì đó cũng trở thành phân cảnh em yêu thích nhất luôn!",
+      "jpname": "キセキ",
+      "jptext": "ネーム切ってるときに、『これだっ！！』って思って！\n入れてみたら、あたしも大好きなシーンになりました！",
+      "choice_data_list": [
+        "Ra là thế! Thảo nào ở những phân cảnh khác cũng--"
+      ],
+      "jpchoice_data_list": [
+        "そっか！だから、他のシーンでも――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cả cảnh chụp ảnh cùng linh vật hay cảnh xem bản thảo vẽ tay của manga... Tôi vỡ lẽ ra rằng những miêu tả tương tự như \"trải nghiệm ngày hôm đó\" đều xuất hiện, thế nhưng--",
+      "jpname": "モノローグ",
+      "jptext": "マスコットと写真を撮る場面や、漫画の生原稿を見る場面など……\n“あの日の経験”に似た描写があるのだと、合点がいったが――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ơ? Cả những phân cảnh khác nữa cơ ạ? Không đâu, phân cảnh em lấy làm tư liệu tham khảo chỉ là... phần cosplay--",
+      "jpname": "キセキ",
+      "jptext": "え？　他の場面も、ですか？\nいえ、あたしが参考にしたのは……コスプレの――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Ơ kìa? Đúng là như thế thật nhỉ. Cả chi tiết hai người cùng đi dạo xem triển lãm tranh gốc cũng y đúc trải nghiệm cùng với Trainer-san...",
+      "jpname": "キセキ",
+      "jptext": "……いや？　確かに、そうですね。ふたりで原画展を巡る\n描写とかも、そのまんま、トレーナーさんとの体験を……。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "... A!!!?",
+      "jpname": "キセキ",
+      "jptext": "…………………………あっ！！！？",
+      "choice_data_list": [
+        "Ủa!? S-Sao thế em?",
+        "Ơ!? S-Sao thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "うお！？ど、どうしたんだ？",
+        "わ！？ど、どうしたの？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Ừm, chuyện là, tạm thời!! Cho em xin phép mang máy tính bảng về phòng trước có được không ạ!?",
+      "jpname": "キセキ",
+      "jptext": "……えっと、その、一旦！！\n持ち帰らせてもらっても、いいですか！？"
+    },
+    {
+      "name": "Kiseki",
+      "text": "E-Em xin phép ạ!",
+      "jpname": "キセキ",
+      "jptext": "し、失礼しますっ！",
+      "choice_data_list": [
+        "Ơ kìa, Kiseki!?"
+      ],
+      "jpchoice_data_list": [
+        "あっ、キセキ！？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "... Ừm. Ừm. Chuyện này, quả thật là... không còn đường chối cãi nữa rồi.",
+      "jpname": "キセキ",
+      "jptext": "……………………うん。うん。\nこれは、もう……言い逃れができない、というか。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "... A ha ha, chết thật. Mặt mình nóng bừng bừng thế này.",
+      "jpname": "キセキ",
+      "jptext": "……あははっ、やば。\n顔、あっつー。"
+    },
+    {
+      "name": "",
+      "text": "Tối hôm đó. Kiseki gọi tôi ra bãi biển, khi tôi bước tới nơi--em bất ngờ trao cho tôi một món quà.",
+      "jpname": "モノローグ",
+      "jptext": "その日の夜。キセキからビーチに呼び出されたので、\nその場に行くと――いきなり、プレゼントを渡された。",
+      "choice_data_list": [
+        "Ừm, cái này là...?"
+      ],
+      "jpchoice_data_list": [
+        "えっと、これは……？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Là quà cảm ơn đấy ạ. Bên trong là những bộ manga em tâm đắc muốn giới thiệu... Em cố tình chọn đa dạng thể loại nên chắc chắn anh sẽ tìm được tác phẩm mình yêu thích cho mà xem!",
+      "jpname": "キセキ",
+      "jptext": "お礼です。中身は、あたしのオススメ漫画でして……あえて\nジャンルはバラつかせたので、きっと好きな作品が見つかるかと！",
+      "choice_data_list": [
+        "Cảm ơn em! Nhưng mà, quà cảm ơn... vì chuyện gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう！でも、お礼って……なんの？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Đó là, ừm thì... hôm nay em cũng cho Trainer-san xem rồi đúng không ạ? Là vì... anh đã truyền cảm hứng để em vẽ nên bộ manga đó...",
+      "jpname": "キセキ",
+      "jptext": "それは、ええと……今日、トレーナーさんにも見せましたよね？\nあの漫画を、あたしに描かせてくれた、から……。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Thật ra thì... lúc phân khung lên Name cho bộ manga đó, ngòi bút của em mượt mà vô cùng luôn! Em từng rất tự tin sẽ tạo nên một tác phẩm xuất sắc... nhưng điều đó là vì--",
+      "jpname": "キセキ",
+      "jptext": "実は～……あの漫画のネームを切ったとき、すっごい筆がのってて！\nいい作品にできる自負があったんですけど……それって――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Những \"trải nghiệm\" cùng với Trainer-san đã vui đến nhường nào.",
+      "jpname": "キセキ",
+      "jptext": "トレーナーさんとした“経験”が、\nめちゃくちゃ楽しかったから、なんです。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Đọc lại em mới thấy lộ liễu vô cùng. Ngoài những đoạn em chủ ý ra, thì những chỗ khác cũng toàn vẽ về buổi đi xem Triển lãm Manga cùng với Trainer-san thôi.",
+      "jpname": "キセキ",
+      "jptext": "……読み返してみたら、めっちゃ露骨でした。自覚してた箇所以外\nでも、トレーナーさんと行った漫画展覧会のことばっか描かれてて。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Thế thì câu chuyện trở nên hấp dẫn cũng là điều hiển nhiên đúng không ạ! Bởi vì--",
+      "jpname": "キセキ",
+      "jptext": "……そりゃ、面白くなるのも当然ですよねっ！\nだって――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Em đã gửi gắm trọn vẹn những khoảnh khắc mà bản thân cảm thấy \"vui vẻ\" vào trong từng trang truyện mà.",
+      "jpname": "キセキ",
+      "jptext": "あたしが“楽しい”と思った瞬間を、作品に込めたんですから。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Từ từng khung truyện một, nó cứ thế rỉ ra... cảm xúc \"Được đi chơi cùng Trainer-san vui quá chừng\".",
+      "jpname": "キセキ",
+      "jptext": "……コマのひとつひとつから、ずっと滲んでたんです……\n『トレーナーさんと一緒に遊べて、楽しかったなぁ』の気持ちが。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Thế nên là... e he he. Em cảm ơn anh nhiều lắm.",
+      "jpname": "キセキ",
+      "jptext": "だから……えへへ。\nありがとうございます。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Vì đã cho em một trải nghiệm vô giá.",
+      "jpname": "キセキ",
+      "jptext": "かけがえのない、経験をくれて。",
+      "choice_data_list": [
+        "...Ra là vậy. Giúp được cho em thì tốt quá rồi!"
+      ],
+      "jpchoice_data_list": [
+        "……そっか。力になれたなら、よかった！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nghe những lời Kiseki tâm sự, lòng tôi bất giác dâng lên niềm vui sướng. Dù chỉ là cùng nhau trải qua thời gian đó, nhưng dường như tôi đã trở thành chất liệu cho sự sáng tạo của em.",
+      "jpname": "モノローグ",
+      "jptext": "キセキの語ってくれたことに、つい嬉しくなる。\n一緒に過ごしただけだが、自分は彼女の創作の糧になれたようだ。",
+      "choice_data_list": [
+        "Vậy lần tới, chúng ta lại cùng nhau tạo thêm trải nghiệm gì nữa nhé?"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ次は、どんな経験を一緒にしようか？"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Hả?",
+      "jpname": "キセキ",
+      "jptext": "…………え？",
+      "choice_data_list": [
+        "Nếu là vì manga của em thì anh sẵn sàng giúp một tay!",
+        "Nếu là vì manga của bạn thì tôi sẵn sàng giúp một tay!"
+      ],
+      "jpchoice_data_list": [
+        "君の漫画のためなら、協力するよ！",
+        "貴方の漫画のためなら、協力するよ！"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "... A ha ha. Thật tình, Trainer-san quả đúng là--",
+      "jpname": "キセキ",
+      "jptext": "…………あははっ。\n本当に、トレーナーさんって――"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Anh nói rồi đấy nhé? Em ghi nhận lời này rồi đấy nhé? Nếu Trainer-san đã đồng ý thì em sẽ lại rủ anh đi cùng tiếp đấy nhé!?",
+      "jpname": "キセキ",
+      "jptext": "言いましたね？　言質取りましたよ？\nトレーナーさんがいいなら、また付き合わせちゃいますよっ！？",
+      "choice_data_list": [
+        "Ừ, cứ tự nhiên bơi hết vào đây!",
+        "Ừ, cứ tự nhiên bơi hết vào đây!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、どんとこい！",
+        "うん、どんとこい！"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Fufu... Một nụ cười rạng rỡ như chiếm trọn cả trang đôi vậy.",
+      "jpname": "キセキ",
+      "jptext": "ふふっ……見開き1ページ使ったみたいな笑顔。"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Thật tình, em chẳng thể nào thắng nổi anh mà.",
+      "jpname": "キセキ",
+      "jptext": "敵わないなぁ、ほんと。"
+    }
+  ]
+}
