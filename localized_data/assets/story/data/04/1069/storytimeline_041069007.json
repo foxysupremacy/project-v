@@ -1,0 +1,428 @@
+{
+  "title": "Chỉ Mơ Mộng Sẽ Chẳng Thấy Được Tương Lai",
+  "jptitle": "夢見るだけじゃ未来は見えない",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay trại hè huấn luyện chính thức bắt đầu-- Tôi đưa ngay cho Sakura Chiyono O xem bản ghi chép tổng hợp giáo án và những điểm cần lưu ý trong suốt đợt tập huấn.",
+      "jpname": "モノローグ",
+      "jptext": "今日から夏合宿が始まる――早速、合宿中のメニューと\n留意点をまとめたメモをサクラチヨノオーに見てもらった。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hửm hửm... Quả không hổ là đợt tập huấn hè, bao nhiêu việc cần làm luôn nè!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ふむふむ……。\nさすがは夏合宿、やることが目白押しですね！",
+      "choice_data_list": [
+        "Cường độ vận động nặng hơn mọi khi, em có ổn không?",
+        "Cường độ vận động nặng hơn mọi khi, bạn có ổn không?"
+      ],
+      "jpchoice_data_list": [
+        "いつもより運動量が多いけど大丈夫か？",
+        "いつもより運動量が多いけど大丈夫？"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Tất nhiên rồi ạ! Em tin tưởng Trainer-san và cuốn \"Tre-note\" này!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "もちろんです！\n私はトレーナーさんと、この『トレノート』を信じます！",
+      "choice_data_list": [
+        "\"Tre-note\" sao?"
+      ],
+      "jpchoice_data_list": [
+        "『トレノート』？"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Dạ vâng! Những nhiệm vụ cần phải hoàn thành, những việc có thể làm để phát huy tối đa năng lực... tất cả đều được viết kín trong cuốn sổ này.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "はい！　こなすべき課題はなにか、能力を伸ばすために\nなにができるか……このノートにはびっしり書かれていました。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Chắc hẳn anh đã đọc những cuốn sách mua hôm trước rồi dành nhiều thời gian để lên giáo án cho em đúng không ạ...",
+      "jpname": "サクラチヨノオー",
+      "jptext": "きっと、前に買った本を読んで、\n時間をかけてメニューを考えてくれたんですよね……。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Vì vậy đây chính là cuốn \"Tre-note\" chứa đựng tất cả tâm huyết của Trainer-san!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "だからこれは、トレーナーさんの想いが詰まった\n『トレノート』なんです！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Trong đợt tập huấn này, em sẽ tiến bộ thật nhiều cho anh xem...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "……私、この合宿で\n少しでも多く成長してみせますからね……！"
+    },
+    {
+      "name": "",
+      "text": "Trong ánh mắt của Sakura Chiyono O ánh lên ý chí chiến đấu rực lửa.",
+      "jpname": "モノローグ",
+      "jptext": "サクラチヨノオーの瞳には、\n燃えるような闘志が宿っていた。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Phù ha! Còn một chút nữa là tới bờ rồi...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "……ぷはっ！\n岸まで、もう少し……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Vẫn chưa hết đâu! Còn 10 hiệp nữa...! \"Chiyo cất bước ắt vào cổng xuất phát\"...--!!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "まだまだ！　あと10セット……！\n『チヨも歩けばゲートイン』……っ！！"
+    },
+    {
+      "name": "Mã Nương ở trại hè A",
+      "text": "Nè, từ lúc tới trại huấn luyện đến giờ, Chiyo-chan trông đỉnh ghê luôn á?",
+      "jpname": "合宿中のウマ娘A",
+      "jptext": "ね、合宿に来てからのチヨちゃん、\n結構やばくない？"
+    },
+    {
+      "name": "Mã Nương ở trại hè B",
+      "text": "Ừ, quyết tâm dữ dội luôn. ...Tụi mình cũng đâu thể chịu thua được đúng không!",
+      "jpname": "合宿中のウマ娘B",
+      "jptext": "うん、めちゃくちゃ気合い入ってる。\n……アタシたちもさ、負けてらんないよね！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hộc, hộc... Giáo án hôm nay em hoàn thành rồi ạ!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "はぁ、はぁ……。\n今日のメニュー、終わりました～！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Trên đường tới đây em có cảm giác bị nhiều bạn nhìn chằm chằm... Trông em có gì kỳ quặc lắm sao ạ?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "来る途中、色んな子に見られていた気がするんですが……\n私、なにか変ですか？",
+      "choice_data_list": [
+        "Không, vẫn là Chiyono O \"như mọi khi\" thôi"
+      ],
+      "jpchoice_data_list": [
+        "いや、『いつも通り』のチヨノオーだよ"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hửm...? Nếu vậy thì tốt rồi...",
+      "jpname": "サクラチヨノオー",
+      "jptext": "うーん……？\nそれならいいんですけど……。"
+    },
+    {
+      "name": "",
+      "text": "Những ngày tháng miệt mài luyện tập cùng em ấy cứ thế trôi qua-- và đợt tập huấn hè đã bước sang ngày cuối cùng từ lúc nào không hay.",
+      "jpname": "モノローグ",
+      "jptext": "その後も彼女と練習に明け暮れる日々が続き――\n気づけば夏合宿は最終日を迎えていた。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "T-thật vậy sao anh!!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ほ、本当ですか！！",
+      "choice_data_list": [
+        "Thật đấy, thành tích thời gian đã rút ngắn hơn trước đợt tập huấn rồi"
+      ],
+      "jpchoice_data_list": [
+        "確かに、合宿前よりタイムが縮んでるよ"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "0.1 giây... Trainer-san cùng với em, đã rút ngắn được 0.1 giây...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "0.1秒……\nトレーナーさんと私で、0.1秒分……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Chỉ một chút... dẫu chỉ là một chút xíu thôi, nhưng em... đã tiến gần hơn đến bóng lưng của chị Maruzen rồi đúng không anh...!?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "ちょっとだけ……ほんのちょっとだけですけど、\n私っ……！　マルゼンさんの背中に近づけましたよね……！？",
+      "choice_data_list": [
+        "Ừ, anh đảm bảo đấy!",
+        "Ừ, tôi đảm bảo đấy!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、俺が保証する！",
+        "うん、私が保証する！"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Dạ vâng! ...Ehehe.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "はいっ！\n……えへへ。"
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, đợt huấn luyện hè đã khép lại. Và rồi--",
+      "jpname": "モノローグ",
+      "jptext": "こうして夏合宿は幕を閉じた。\nそして――"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Không ngờ gần đây lại có lễ hội vui thế này. Cảm ơn anh đã đưa em tới đây ạ!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "こんなに近くでお祭りしてたんですね～。\n連れてきてくれて、ありがとうございます！",
+      "choice_data_list": [
+        "Đây là phần thưởng cho sự nỗ lực trong đợt huấn luyện hè đấy"
+      ],
+      "jpchoice_data_list": [
+        "合宿を頑張ったご褒美だよ"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ehehe. Vậy thì em sẽ vui chơi hết mình luôn nhé! Kẹo bông gòn, bóng yo-yo, vớt cá vàng... A!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "えへへっ。じゃあ、めいっぱい楽しんじゃいますね！\nわたあめ、ヨーヨー、金魚すくいに――あっ！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Con thú bông cún con này, anh có thấy giống chị Maruzen không? Cả bộ lông bông xù lẫn đôi mắt hiền từ này nữa!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "このわんちゃんのぬいぐるみ、マルゼンさんに似ていると\n思いませんか？　ふわっふわなところとか、優しい目元とかっ！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Đáng yêu quá đi...! Gâu gâu, bạn cũng muốn về nhà cùng mình sao gâu?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "かわいいなぁ～……！\nわんわん、あなたも一緒に帰るわん？",
+      "choice_data_list": [
+        "Anh thì thấy bé cún này giống em hơn đấy",
+        "Tôi thì thấy bé cún này giống bạn hơn đấy"
+      ],
+      "jpchoice_data_list": [
+        "俺はこの子、君に似てると思うけど",
+        "私はこの子、貴方に似てると思うけど"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-em sao ạ!? Như vậy nghĩa là--",
+      "jpname": "サクラチヨノオー",
+      "jptext": "わ、私ですか！？\nそれって――"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ý em là, không không không! Không có gì đâu ạ! A ha ha, Trainer-san thật là hài hước quá đi!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "って、いえいえいえっ！　なんでもないです！\nあははっ、もう、トレーナーさんってば面白いですね！"
+    },
+    {
+      "name": "Chủ quầy hàng",
+      "text": "Hai cô cậu thích con thú bông đó hả? Vậy thì thử trò \"Katanuki\" xem sao!",
+      "jpname": "屋台の店主",
+      "jptext": "お2人さん、そのぬいぐるみが気に入ったのかい？\nなら『型抜き』やってきなよ！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Katanuki... ạ?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "かたぬき……？"
+    },
+    {
+      "name": "Chủ quầy hàng",
+      "text": "Katanuki là trò gọt tỉa miếng kẹo đường bằng kim và ngón tay như thế này, để giữ lại nguyên vẹn hình vẽ ở chính giữa đấy!",
+      "jpname": "屋台の店主",
+      "jptext": "型抜きってのはな、砂糖で出来た板をこうやって\n針と指で削って、真ん中にある図形だけを残す遊びだ！"
+    },
+    {
+      "name": "Chủ quầy hàng",
+      "text": "Nếu gọt đẹp mà không làm gãy thì ta tặng con thú bông đó luôn! Sao nào? Muốn thử không?",
+      "jpname": "屋台の店主",
+      "jptext": "上手く残せたら、そいつをプレゼントするよ！\nどうだい？　やるかい？"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ưm, em thích con thú bông lắm nhưng mà... trông có vẻ khó quá nhỉ.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "うぅ、ぬいぐるみはすごく気になりますが……\nちょっと難しそうですね。",
+      "choice_data_list": [
+        "Vậy để anh thử sức xem sao!",
+        "Vậy để tôi thử sức xem sao!"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ俺が挑戦するよ！",
+        "じゃあ私が挑戦するよ！"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hả... Hảảả!?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "えっ……ええっ！？"
+    },
+    {
+      "name": "",
+      "text": "--Hừng hực khí thế quyết tâm thử sức vì Sakura Chiyono O là thế, nhưng trò Katanuki này khó ngoài sức tưởng tượng...",
+      "jpname": "モノローグ",
+      "jptext": "――と、サクラチヨノオーのためにと意気込んで挑んだ\n型抜きだったが、想像以上に難しかった……。"
+    },
+    {
+      "name": "Chủ quầy hàng",
+      "text": "Chà chà! Lần này tiếc quá nhỉ. Có muốn thử thêm lượt nữa không?",
+      "jpname": "屋台の店主",
+      "jptext": "う～ん！　今回は惜しかったな。\nもう1回挑戦するかい？",
+      "choice_data_list": [
+        "Vâng! Lần này nhất định...!"
+      ],
+      "jpchoice_data_list": [
+        "はい！今度こそ……！"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oa, Trainer-san ơi! Lúc đầu có lẽ nên tránh xa các đường rãnh ra thì hơn ạ...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "わ、あの、トレーナーさんっ！\n初めは溝の近くを避けた方がいいかもしれません……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Quan sát những lượt trước thì em thấy kiên nhẫn gọt tỉa từ ngoài vào trong sẽ an toàn hơn nhiều...",
+      "jpname": "サクラチヨノオー",
+      "jptext": "今までの傾向を見ると、\n周りを地道に削っていった方が安全だったので……。",
+      "choice_data_list": [
+        "Ra là vậy, đúng là Chiyono O có khác!"
+      ],
+      "jpchoice_data_list": [
+        "なるほど、さすがチヨノオー！"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "D-dạ đâu có đâu ạ! Em chỉ quan sát rồi ghi chép lại thôi mà...! Ừm... anh cố lên nhé!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "い、いえいえっ！　ただ見てメモしていただけなので……！\nその……ファイトですっ！"
+    },
+    {
+      "name": "Chủ quầy hàng",
+      "text": "Ồồồ! Lần này thành công rồi! Tuyệt vời lắm, con thú bông này thuộc về hai đứa!",
+      "jpname": "屋台の店主",
+      "jptext": "おおっ！　今度は成功だ！\nお見事、ぬいぐるみはあんたらのもんだよ！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-em nhận nó có thật sự được không ạ...!?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "わ、私が受け取っちゃって\nいいんでしょうか……！？",
+      "choice_data_list": [
+        "Được chứ, coi như đây cũng là phần thưởng cho đợt tập huấn hè nhé",
+        "Được chứ, coi như đây cũng là phần thưởng cho đợt tập huấn hè nhé"
+      ],
+      "jpchoice_data_list": [
+        "ああ、これも夏合宿のご褒美ってことで",
+        "うん、これも夏合宿のご褒美ってことで"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Em cảm ơn anh nhiều lắm ạ...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "……っ、ありがとうございます……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ehehe! Tên của bạn sẽ là \"Sakura Wanko O\" nhé. Gâu gâu!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "えへへ～！\nあなたの名前は『サクラワンコオー』だよ～。わんわん！",
+      "choice_data_list": [
+        "Quả nhiên là giống hệt em",
+        "Quả nhiên là giống hệt bạn"
+      ],
+      "jpchoice_data_list": [
+        "やっぱり君そっくりだな",
+        "やっぱり貴方そっくりだね"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ch-chắc chỉ có mỗi Trainer-san là nghĩ vậy thôi ạ...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "そ、そう思うのは多分、トレーナーさんだけですよ……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Khụ! Tạm gác chuyện giống hay không sang một bên, ừm... em xin cảm ơn anh một lần nữa ạ.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "……こほん！　似てる似てないは置いておいて、\nその……改めて、ありがとうございます。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Không chỉ về bé cún này, mà cả về đợt tập huấn hè, rồi cả những chuyện trước đó nữa--",
+      "jpname": "サクラチヨノオー",
+      "jptext": "この子のことだけじゃなくて、\n夏合宿のことも、その前のことも――"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Trước đây anh từng nói với em đúng không ạ? Rằng nhìn em anh thấy tràn đầy năng lượng, rằng dáng vẻ nỗ lực của em tiếp thêm cho anh thật nhiều dũng khí.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "前に言ってくれましたよね？\n私を見てると力が湧いてくる、頑張る姿に勇気をもらってるって。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Em cũng vậy đấy ạ. Nhìn thấy Trainer-san luôn nỗ lực hết mình, em tự nhủ bản thân cũng phải cố gắng nhiều hơn nữa.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "……私もです。トレーナーさんが頑張ってる姿を見て、\n私も頑張らなきゃって思えるんです。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Em thấy tràn đầy sức mạnh hơn khi chỉ có một mình. Em có thể tiến xa hơn về phía trước so với khi chỉ có một mình.",
+      "jpname": "サクラチヨノオー",
+      "jptext": "1人のときより力が湧いてきました。\n1人のときより前に進むことができました。"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Bởi vậy em tin chắc rằng, chỉ cần hai chúng ta tiếp tục cùng nhau nỗ lực thì sẽ có thể trở nên mạnh mẽ hơn nữa!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "だからきっと、2人で頑張り続けていれば\nもっと強くなれると思うんです！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Em sẽ tiếp thêm sức mạnh cho Trainer-san, còn Trainer-san tiếp thêm sức mạnh cho em--",
+      "jpname": "サクラチヨノオー",
+      "jptext": "私がトレーナーさんの力になって、\nトレーナーさんが私の力になって――"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Khi ấy, vô địch Derby sẽ không còn là giấc mơ xa vời nữa, chúng ta sẽ có thể trở nên mạnh mẽ hơn bao giờ hết...!!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "そしたら、ダービー優勝だって夢じゃないくらい、\nもっともっと強くなれる……！！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "............và thì... W-Wanko O cũng nghĩ như thế đó gâu...",
+      "jpname": "サクラチヨノオー",
+      "jptext": "…………と、そのぉ～……\nわ、ワンコオーは、思いますわん……。",
+      "choice_data_list": [
+        "Anh cũng đồng ý với Wanko O đấy",
+        "Tôi cũng đồng ý với Wanko O đấy"
+      ],
+      "jpchoice_data_list": [
+        "俺もワンコオーに同意かな",
+        "私もワンコオーに同意かな"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "A a a...!! Em nhất định sẽ biến ước mơ thành hiện thực cho xem! Dẫu có phải đi đường vòng hơn các bạn khác, dẫu có mất nhiều thời gian hơn, nhất định...!",
+      "jpname": "サクラチヨノオー",
+      "jptext": "～～～っ！！　私っ、絶対に夢を叶えてみせます！\n他の子より回り道でも、時間がかかっても、絶対……！"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "\"Hoa anh đào nở muộn cũng vẫn là hoa anh đào\", đúng không anh?",
+      "jpname": "サクラチヨノオー",
+      "jptext": "『遅咲きの桜もまた桜』、ですよねっ？"
+    },
+    {
+      "name": "",
+      "text": "Từng chùm pháo hoa nở rộ đằng xa-- như thể đang reo vui chúc mừng và ủng hộ cho quyết tâm của Sakura Chiyono O.",
+      "jpname": "モノローグ",
+      "jptext": "遠くで花火が上がる――それはまるで、\nサクラチヨノオーの決意を応援してくれているかのようだった。"
+    }
+  ]
+}
