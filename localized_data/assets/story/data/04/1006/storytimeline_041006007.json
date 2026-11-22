@@ -1,0 +1,432 @@
+{
+  "title": "Đột kích! Bảng khảo sát đồ ăn!",
+  "jptitle": "突撃！　ごはんアンケート！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Chuyến tập huấn mùa hè tại khu ven biển nhằm nâng cao thực lực. Ngay khi chuẩn bị bắt đầu buổi tập――",
+      "jpname": "モノローグ",
+      "jptext": "海辺の施設に泊まり込み、実力向上を目指す夏合宿。\n早速トレーニングを始めようとしたところ――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Xin lỗi anh nhé, Trainer. Trước khi bắt đầu tập luyện, tôi muốn anh nhận lấy cái này.",
+      "jpname": "オグリキャップ",
+      "jptext": "すまない、トレーナー。\nトレーニングを開始する前に、受け取って欲しい。"
+    },
+    {
+      "name": "",
+      "text": "Oguri Cap loay hoay lục trong túi xách rồi lấy ra một tờ giấy. ――Xem chừng đây là một phiếu khảo sát viết tay.",
+      "jpname": "モノローグ",
+      "jptext": "オグリキャップがバッグの中からゴソゴソと1枚の紙を取り出す。\n――どうやら手書きのアンケート用紙のようだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Trong lúc tôi khởi động làm nóng cơ thể, anh hãy trả lời giúp tôi nhé. Không có gì đâu, chắc chỉ loáng cái là xong thôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "私が体を温めている間にでも、答えて欲しい。\nなに、すぐに済むはずだ。"
+    },
+    {
+      "name": "",
+      "text": "Nội dung bảng khảo sát là――",
+      "jpname": "モノローグ",
+      "jptext": "アンケートの内容は――"
+    },
+    {
+      "name": "",
+      "text": "\"Có thích đồ ngọt không?\", \"Có thích đồ cay không?\", \"Có bị dị ứng thực phẩm gì không?\"... Xem ra toàn là những câu hỏi liên quan đến chuyện ăn uống.",
+      "jpname": "モノローグ",
+      "jptext": "『甘いものは好きか』『辛いものは好きか』\n『食物アレルギーは？』と、食べ物に関するものばかりのようだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hầu hết các câu đều trả lời bằng \"Có\" hoặc \"Không\" được, nên chắc sẽ không làm mất nhiều thời gian của anh đâu... tôi nghĩ vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "ほとんど『はい』か『いいえ』で答えられるように\nなっているので、手間はとらせない……と、思う。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tôi nhờ anh được không?",
+      "jpname": "オグリキャップ",
+      "jptext": "頼めるだろうか。",
+      "choice_data_list": [
+        "Cũng được thôi, nhưng mà..."
+      ],
+      "jpchoice_data_list": [
+        "構わないけど……"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Cảm ơn anh nhé. Vậy thì, nhờ cả vào anh đấy.",
+      "jpname": "オグリキャップ",
+      "jptext": "ありがとう。\nでは、よろしく頼む。"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc Oguri Cap chạy khởi động, tôi đã điền xong phiếu khảo sát...",
+      "jpname": "モノローグ",
+      "jptext": "オグリキャップが準備運動で走っている間に、\nアンケート用紙を記入した……。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Đỡ cho tôi quá. Tôi sẽ xem lại trước khi trời tối để chuẩn bị cho chu đáo.",
+      "jpname": "オグリキャップ",
+      "jptext": "助かった。\n夜までには確認して、役立てたいと思う。",
+      "choice_data_list": [
+        "Chuẩn bị cho việc gì cơ?"
+      ],
+      "jpchoice_data_list": [
+        "役立てるって？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ừm, Trainer đã điền rất chi tiết cẩn thận rồi nên chắc chắn không có vấn đề gì đâu. Anh cứ yên tâm.",
+      "jpname": "オグリキャップ",
+      "jptext": "うむ、トレーナーがしっかりと書いてくれたので\n問題ないはずだ。安心してくれ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Giờ thì tôi chỉ cần tập trung vào việc luyện tập và hoàn thành thật tốt giáo án ngày hôm nay là xong.",
+      "jpname": "オグリキャップ",
+      "jptext": "あとはトレーニングに集中し、\n今日のメニューをしっかりとこなすだけだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nếu thể lực nửa vời thì niềm vui cũng sẽ vơi đi một nửa. Phải vận động hết sức có thể để sẵn sàng cho tối nay thôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "中途半端な状態では、楽しみも半減する。\nできるだけ体を動かし、夜に備えよう。",
+      "choice_data_list": [
+        "Tối nay có chuyện gì sao em?",
+        "Tối nay có chuyện gì sao bạn?"
+      ],
+      "jpchoice_data_list": [
+        "夜に何かあるのか？",
+        "夜に何かあるの？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Anh không biết sao? Hôm nay từ chập tối――... Hửm, cái này là chuyện đó rồi.",
+      "jpname": "オグリキャップ",
+      "jptext": "知らないのか？\n今日は夜から――……むっ、これはアレだな。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Giữ bí mật có vẻ sẽ hợp lý và bất ngờ hơn đúng không? Anh thấy sao, Trainer.",
+      "jpname": "オグリキャップ",
+      "jptext": "秘密にしておくほうが、それらしいのではないか？\nどう思う、トレーナー。",
+      "choice_data_list": [
+        "Ơ thì..."
+      ],
+      "jpchoice_data_list": [
+        "えっと……"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Ưm, khó nghĩ thật đấy. Thôi thì cứ để tập xong xuôi rồi tính tiếp vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "……ううむ、悩ましいな。\nとりあえず、トレーニングを終えてから考えることにしよう。"
+    },
+    {
+      "name": "",
+      "text": "Oguri Cap cứ bồn chồn đứng ngồi không yên. Tôi thôi không gặng hỏi thêm nữa mà bắt đầu buổi tập.",
+      "jpname": "モノローグ",
+      "jptext": "オグリキャップは、ソワソワとしている。\n問いかけることをやめ、トレーニングを開始することにした。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hà, hà... Phù.",
+      "jpname": "オグリキャップ",
+      "jptext": "はぁ、はぁ……ふーっ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Giáo án hôm nay đến đây là hết rồi sao? Tôi cảm thấy mình vẫn còn chạy thêm được một chút nữa đấy...",
+      "jpname": "オグリキャップ",
+      "jptext": "今日のメニューはこれで終わりか？\nもう少しいけそうな気もするが……。",
+      "choice_data_list": [
+        "Tầm này là vừa đẹp rồi em."
+      ],
+      "jpchoice_data_list": [
+        "このくらいでちょうどいいよ"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vậy à... Ừm, hôm nay tới đây thôi vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "そうか……うん、今日はここまでにしよう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tôi còn phải xem lại phiếu khảo sát Trainer vừa trả lời, với lại cũng cần thời gian tắm rửa sửa soạn bản thân nữa.",
+      "jpname": "オグリキャップ",
+      "jptext": "トレーナーが答えてくれたアンケートの確認も\nしなくてはならないし、身を整える時間も欲しい。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Dù tôi đã đi thám thính trước rồi... nhưng chung quy vẫn là lần đầu tiên. Tốt nhất là nên dành dôi dả thời gian một chút.",
+      "jpname": "オグリキャップ",
+      "jptext": "下見はしてあるが……なにぶん、初めてのことだ。\n時間は十分にとっておいた方がいいだろう。",
+      "choice_data_list": [
+        "Em định đi đâu à?",
+        "Bạn định đi đâu à?"
+      ],
+      "jpchoice_data_list": [
+        "どこか行くのか？",
+        "どこか行くの？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ừ, có nơi tôi muốn dẫn anh đến. Tắm rửa sạch sẽ xong thì anh ra trước khu nhà tập huấn đợi tôi nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "ああ、連れて行きたい場所がある。\n汗を流したら、合宿所の前で待っててくれ。",
+      "choice_data_list": [
+        "Thế thì ăn tối xong rồi hẵng đi cũng được mà..."
+      ],
+      "jpchoice_data_list": [
+        "だったら食事を済ませてからでも……"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Không được đâu. Tuyệt đối không được đâu, Trainer.",
+      "jpname": "オグリキャップ",
+      "jptext": "……それはいけない。いけないんだ、トレーナー。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bản thân tôi nhịn cơn đói sau buổi tập cũng khổ sở lắm. Thú thật là tôi cũng muốn ăn ngay lập tức luôn đây.",
+      "jpname": "オグリキャップ",
+      "jptext": "私も、トレーニング後の空腹に耐えるのはツラい。\nすぐにでも食事をとりたいのが、正直な気持ちだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tầm này mà quay về khu nhà tập huấn thì mùi thức ăn tối đã lan tỏa khắp hành lang rồi. Nghe bảo thực đơn hôm nay là gà chiên tatsutaage và món kho nimono, chắc chắn là thơm nức mũi cho mà xem.",
+      "jpname": "オグリキャップ",
+      "jptext": "この時間、合宿所に戻れば夕飯の香りが廊下を漂っている。\n今日の献立は竜田揚げと煮物らしいから、殊更、香り立つだろう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Thế nhưng, tôi phải vượt qua chuyện đó. Muốn đạt được mục đích thì phải chiến thắng được cám dỗ trước mắt.",
+      "jpname": "オグリキャップ",
+      "jptext": "だが、乗り越えなくてはならないんだ。\n目的を果たすためには、近くの誘惑に打ち勝たなくては。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Xin anh hãy hiểu cho lòng tôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "……どうか、わかってほしい。",
+      "choice_data_list": [
+        "A-Anh hiểu rồi."
+      ],
+      "jpchoice_data_list": [
+        "わ、わかった"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Cảm ơn anh nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "ありがとう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Mà thôi, cứ phải xác nhận xem nhà bếp có để dành phần gà chiên và món kho cho mình không cái đã.",
+      "jpname": "オグリキャップ",
+      "jptext": "……まあ、竜田揚げと煮物は、\n取っておいてもらえるか確認だけはしておこう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vậy nhé, Trainer. Lát nữa gặp lại sau.",
+      "jpname": "オグリキャップ",
+      "jptext": "ではトレーナー。後ほど、また。"
+    },
+    {
+      "name": "",
+      "text": "Oguri Cap vội vã rảo bước rời đi. ――Và rồi.",
+      "jpname": "モノローグ",
+      "jptext": "オグリキャップは足早に立ち去った。\n――そして。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tới nơi rồi nè, Trainer.",
+      "jpname": "オグリキャップ",
+      "jptext": "ついたぞ、トレーナー。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Anh thấy sao, số lượng quầy hàng rong ở đây đỉnh lắm đúng không?",
+      "jpname": "オグリキャップ",
+      "jptext": "どうだ、素晴らしい屋台の数だろう。",
+      "choice_data_list": [
+        "Lễ hội sao em?"
+      ],
+      "jpchoice_data_list": [
+        "お祭り？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ừ. Bữa tối hôm nay, tôi nhất định muốn ăn ở đây cho bằng được.",
+      "jpname": "オグリキャップ",
+      "jptext": "ああ。今日の夕飯は、どうしてもここでとりたかったんだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Như anh thấy đấy, có vô số quầy hàng rong. Những món Trainer thích cũng có bạt ngàn luôn.",
+      "jpname": "オグリキャップ",
+      "jptext": "見ての通り、たくさんの屋台がある。\nトレーナーの好きなものもたくさんだぞ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nếu được, hôm nay xin hãy để tôi chiêu đãi anh nhé. Để đền đáp công ơn và bày tỏ lòng biết ơn thường ngày của tôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "良かったら、今日はご馳走させて欲しい。\n日頃の礼と感謝を込めて。",
+      "choice_data_list": [
+        "Chẳng lẽ bảng khảo sát ban nãy là vì chuyện này sao?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、その為にアンケートを？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ừm... Trainer hiểu về tôi nhiều như thế, trong khi tôi lại chẳng biết nhiều về anh. Tôi cần phải tìm hiểu xem món gì sẽ làm anh vui lòng.",
+      "jpname": "オグリキャップ",
+      "jptext": "うむ……キミが私を知るほど、私はキミを知らなかったからな。\n何が喜んでもらえるのか、調べる必要があった。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Dù sao đi nữa, tôi rất muốn chiêu đãi anh. Bằng một bữa tiệc đầy đủ các món theo cách riêng của tôi... mà tôi đã cất công nghĩ riêng cho anh.",
+      "jpname": "オグリキャップ",
+      "jptext": "とにかく、もてなしたかったんだ。\n私なりに……キミのために考えたフルコースで。"
+    },
+    {
+      "name": "",
+      "text": "Một Oguri Cap vốn lúc nào cũng chỉ mải mê cắm đầu vào ăn, vậy mà lại kỳ công làm hẳn bảng khảo sát để chuẩn bị một bữa tiệc thịnh soạn cho tôi...",
+      "jpname": "モノローグ",
+      "jptext": "いつも食べることに夢中になってしまうオグリキャップが、\nアンケートまで作って考えてくれたフルコース……。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hơn nữa... đi ăn cùng anh lúc nào tôi cũng thấy ngon miệng hơn hẳn. Thế nên nếu có dịp, tôi muốn được cùng anh thưởng thức...",
+      "jpname": "オグリキャップ",
+      "jptext": "それに……キミと食べる食事はとても美味しいんだ。\nだから折角なら、一緒に楽しめれば……と。",
+      "choice_data_list": [
+        "Anh vui lắm đó!"
+      ],
+      "jpchoice_data_list": [
+        "嬉しいよ！"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Vậy à. Thế thì tốt quá rồi. Tôi cũng vui lắm.",
+      "jpname": "オグリキャップ",
+      "jptext": "……そうか。それなら、良かった。私も嬉しい。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vậy thì, tôi xin phép dẫn đường ngay đây. Trước hết là \"Siêu Ngoại Cỡ Jumbo Series\" nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "では、さっそく案内しよう。\nまずは『超特大ジャンボシリーズ』からだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Chỗ này đỉnh lắm đấy. Mọi món ăn đều to khủng bố, không hề hổ thẹn với danh xưng \"Jumbo\" chút nào.",
+      "jpname": "オグリキャップ",
+      "jptext": "これはすごいぞ。あらゆるものがジャンボの名に恥じぬ\n大きさになっているんだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Đá bào thì to bằng cái xô, bánh xèo okonomiyaki thì to như cái đệm ngồi. Còn bánh takoyaki thì to ngang quả bóng chày...",
+      "jpname": "オグリキャップ",
+      "jptext": "かき氷はバケツサイズだし、お好み焼きは座布団サイズ。\nたこ焼きは野球ボールサイズが……。",
+      "choice_data_list": [
+        "To quá mức rồi đấy em ơi!?",
+        "To quá mức rồi đấy bạn ơi!?"
+      ],
+      "jpchoice_data_list": [
+        "大きすぎないか！？",
+        "大きすぎない！？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nói là vậy chứ, đá bào thì tan ra cũng chỉ là nước uống thôi, còn bánh xèo okonomiyaki... anh nhìn xem, gần như toàn bắp cải mà.",
+      "jpname": "オグリキャップ",
+      "jptext": "とは言え、かき氷はもはや飲み物だし、\nお好み焼きは……見てみろ、ほぼキャベツだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Chẳng phải... mấy món này giờ chỉ tính là món khai vị thôi sao?",
+      "jpname": "オグリキャップ",
+      "jptext": "いや……もはやこれは、前菜では？",
+      "choice_data_list": [
+        "Khai... vị... á...!?"
+      ],
+      "jpchoice_data_list": [
+        "前……菜……！？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hì hì. Trainer cũng đang thấy hào hứng lắm đúng không. Tôi hiểu mà... Bản thân tôi cũng đang rạo rực hết cả người đây.",
+      "jpname": "オグリキャップ",
+      "jptext": "ふふっ。トレーナーも興奮しているのだな。\nわかるぞ……私もワクワクしている。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bác chủ quán ơi, cho cháu 2 phần đá bào và 4 phần bánh xèo okonomiyaki nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "すまない、店主。かき氷を2つと、お好み焼きを4つ。",
+      "choice_data_list": [
+        "Bốn phần á!?"
+      ],
+      "jpchoice_data_list": [
+        "4つ！？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Dạ. Vì tụi mình còn định đi thêm các quầy khác nữa nên trước mắt cứ ăn khiêm tốn thế này thôi. Nếu thiếu thì lát quay lại mua tiếp cũng được.",
+      "jpname": "オグリキャップ",
+      "jptext": "うむ。他の屋台も回る予定だから、まずは控え目にな。\n足りなかったら、また戻ってくればいい。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Anh không cần phải ngại đâu, cứ ăn thêm thoải mái bao nhiêu tùy thích nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "遠慮はいらない、好きなだけお代わりしてくれ。",
+      "choice_data_list": [
+        "Không, thế này sao mà ăn hết nổ――"
+      ],
+      "jpchoice_data_list": [
+        "いや、さすがに食べきれ――"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Trainer lúc nào cũng bù đắp và hỗ trợ cho những thiếu sót của tôi. Đây là tất cả tấm lòng biết ơn sâu sắc nhất mà hiện tại tôi có thể làm được.",
+      "jpname": "オグリキャップ",
+      "jptext": "トレーナーはいつも、私に足りないものをフォローしてくれる。\nこれは、いまの私にできる精一杯の感謝の気持ちだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mấy chuyện thế này là lần đầu tiên tôi làm nên cũng thấy hơi ngượng ngùng một chút, nhưng... xin anh hãy nhận lấy tấm lòng của tôi nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "こういったことは初めてで、照れくさいが……\nどうか、受け取って欲しい。"
+    },
+    {
+      "name": "",
+      "text": "Trước tấm lòng biết ơn quá đỗi to lớn ấy, bụng tôi đã no căng đến mức không thể nhúc nhích nổi một hồi lâu.",
+      "jpname": "モノローグ",
+      "jptext": "大きすぎる感謝の気持ちに、\nしばらく動けなくなるほどお腹いっぱいになったのだった。"
+    }
+  ]
+}

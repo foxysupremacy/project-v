@@ -1,0 +1,370 @@
+{
+  "title": "Quái vật và điềm báo",
+  "jptitle": "怪物と予兆",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vài ngày sau trận đua tập cùng Tamamo Cross――tôi tình cờ nhìn thấy Oguri Cap đang miệt mài luyện tập vô cùng hăng say.",
+      "jpname": "モノローグ",
+      "jptext": "タマモクロスとの模擬レースから数日後――\nとても熱心にトレーニングをしているオグリキャップを見かけた。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hà... Được rồi, thêm một hiệp nữa nào...!",
+      "jpname": "オグリキャップ",
+      "jptext": "はぁっ……よし、あと1セット……！"
+    },
+    {
+      "name": "",
+      "text": "Vẫn là đôi chân phi thường với lực chạy khủng khiếp như muốn cày xới mặt đất...!",
+      "jpname": "モノローグ",
+      "jptext": "相変わらず、地面を抉るほどの\n素晴らしい脚力だ……！"
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi đang mải mê ngắm nhìn buổi tập đầy uy lực ấy――",
+      "jpname": "モノローグ",
+      "jptext": "迫力のあるトレーニング風景に、\n思わず見入っていると――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hửm? Cậu là...",
+      "jpname": "オグリキャップ",
+      "jptext": "む？　キミは……。",
+      "choice_data_list": [
+        "Vất vả cho em rồi. Tràn đầy khí thế nhỉ.",
+        "Vất vả cho bạn rồi. Tràn đầy khí thế nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様。張り切ってるな",
+        "お疲れ様。張り切ってるね"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ừ. ...Thực ra, tôi vừa được phép tham gia Cuộc đua Tuyển chọn sắp tới đấy.",
+      "jpname": "オグリキャップ",
+      "jptext": "ああ。……実は、次の選抜レースに\n出られることになったんだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Đơn đăng ký tham gia vốn đã đóng lại ngay từ lúc tôi mới chuyển tới học viện, thế nhưng――",
+      "jpname": "オグリキャップ",
+      "jptext": "参加応募は、私が転入してきた時点で\n締め切られていたんだが――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nhờ người của học viện xem trận đua giữa tôi và Tama hôm trước, nên họ đã đặc cách cho phép tôi tham gia.",
+      "jpname": "オグリキャップ",
+      "jptext": "この間のタマとのレースを学園の人が見て、\n特例で許可を出してくれたらしい。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nếu được chạy ở Cuộc đua Tuyển chọn, ngày tôi ra mắt ở Trung Khu sẽ không còn xa nữa. ...Tôi phải rèn luyện thật chăm chỉ mới được.",
+      "jpname": "オグリキャップ",
+      "jptext": "選抜レースに出れば、中央でのデビューが近づく。\n……鍛えておかねば。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A, đúng rồi... Làm phiền cậu nhiều lần thế này thật ngại quá, nhưng cậu có thể dẫn đường giúp tôi thêm một chỗ nữa được không?",
+      "jpname": "オグリキャップ",
+      "jptext": "あ、そうだ……何度もすまないが、\nまた1つ、案内を頼んでもいいか？",
+      "choice_data_list": [
+        "Em muốn đi đâu thế?",
+        "Bạn muốn đi đâu thế?"
+      ],
+      "jpchoice_data_list": [
+        "どこに行きたいんだ？",
+        "どこに行きたいの？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quanh khu vực này, chỗ nào càng nhiều cây cối thiên nhiên càng tốt, nhờ cậu nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "この付近で、なるべく自然が多い場所を頼む。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Không ngờ sau lưng học viện lại có một khu rừng như thế này... Đúng là một phát hiện lớn. Cảm ơn cậu nhé.",
+      "jpname": "オグリキャップ",
+      "jptext": "学園裏にこんな森があったのか……大発見だ。\nありがとう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Không khí trong rừng quả nhiên trong lành thật. Nó giúp tâm trí tôi trở nên thanh thản và bình yên đến lạ.",
+      "jpname": "オグリキャップ",
+      "jptext": "……やはり、森の空気はいいな。\n澄んだ気持ちになれるし、落ち着く。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hồi trước, tôi toàn chạy nhảy khắp những nơi như thế này thôi. Thế rồi mọi người ở quê mới khuyên tôi rằng \"sao cháu không thử tham gia các cuộc đua của Mã Nương xem sao\".",
+      "jpname": "オグリキャップ",
+      "jptext": "昔は、こういう場所ばかり駆け回っていた。そしたら故郷の\nみんなが『ウマ娘レースに出てはどうか』、と勧めてくれたんだ。",
+      "choice_data_list": [
+        "Đó là cơ duyên đưa em đến với đường đua sao?",
+        "Đó là cơ duyên đưa bạn đến với đường đua nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "それがレースに出るきっかけか",
+        "それがレースに出るきっかけなんだね"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Đúng vậy. ...Tất cả mọi người đều hết lòng cổ vũ cho tôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "ああ。……みんなが、私を応援してくれた。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vào ngày tôi lần đầu tiên tham gia một cuộc đua ở địa phương, mọi người đã làm cho tôi một tấm băng rôn thật đẹp. ...Dù công việc đồng áng bận rộn trăm bề là thế.",
+      "jpname": "オグリキャップ",
+      "jptext": "地方のレースに初めて出ることになった日は、私のために立派な\n横断幕を作ってくれた。……畑仕事で、みんな忙しいはずなのにな。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tối hôm nào có cuộc đua, mọi người cũng tụ tập lại cùng nhau ăn một bữa tiệc linh đình. Dù tôi thắng hay thua cũng vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "レースに出た日の夜は、いつもみんなで集まってごちそうを食べた。\n勝っても、負けてもだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"Vui lắm cháu à\", \"Nhìn cháu chạy mà tràn trề năng lượng luôn\", \"Sau này cũng cứ vui vẻ mà chạy tiếp nhé\"... Bên tai tôi lúc nào cũng rộn rã những lời động viên ấm áp như thế.",
+      "jpname": "オグリキャップ",
+      "jptext": "『楽しかった』『元気が出た』『これからも楽しく走ってくれ』\n……私はいつも、そんな言葉に囲まれていた。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Chính vì thế mà tôi rất yêu việc chạy đua.",
+      "jpname": "オグリキャップ",
+      "jptext": "……だから私は、走るのが好きだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tôi yêu cảm giác được bước ra đường đua và nhìn thấy mọi người cùng reo hò phấn khích.",
+      "jpname": "オグリキャップ",
+      "jptext": "レースに出て、みんなが\n盛り上がってくれるのが大好きなんだ。",
+      "choice_data_list": [
+        "Những người ở quê hương thực sự rất quan trọng với em nhỉ.",
+        "Những người ở quê hương thực sự rất quan trọng với bạn nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "故郷の人たちのことが本当に大切なんだな",
+        "故郷の人たちのことが本当に大切なんだね"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tất nhiên rồi.",
+      "jpname": "オグリキャップ",
+      "jptext": "もちろんだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Mọi người ở quê từng bảo rằng \"được nhìn thấy cháu chạy một cách vui vẻ trên đường đua là điều khiến các bác hạnh phúc nhất trần đời\".",
+      "jpname": "オグリキャップ",
+      "jptext": "……故郷のみんなは、『私がレースで楽しそうに走っているのを\n見られるのが、何より嬉しい』と言ってくれた。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Trận đua cùng Tama hôm trước... vui lắm. Đến tận bây giờ, mỗi khi nhớ lại thì tim tôi vẫn đập rộn ràng.",
+      "jpname": "オグリキャップ",
+      "jptext": "この前のタマとのレースは……楽しかった。\nいまでも思い出すと、鼓動が速くなる。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nếu được ra mắt và có thể cống hiến những trận đua mãn nhãn cùng những đối thủ mạnh mẽ, nhanh nhẹn như Tama――",
+      "jpname": "オグリキャップ",
+      "jptext": "デビューして、タマのように強く、\n速いライバルたちと楽しいレースができるのなら――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tôi muốn được ra mắt ngay lúc này.",
+      "jpname": "オグリキャップ",
+      "jptext": "私は、すぐにでもデビューしたい。"
+    },
+    {
+      "name": "",
+      "text": "Trong ánh mắt của Oguri Cap khi thốt lên những lời ấy, ánh lên một quyết tâm sắt đá――",
+      "jpname": "モノローグ",
+      "jptext": "そう語るオグリキャップの目には、\n強い決意が滲んでいた――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...A, mải đứng nói chuyện quá rồi. Tôi phải quay lại tập luyện thôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "……ああ、立ち話が過ぎたな。\nトレーニングに戻らねば。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nhờ cậu dẫn đường mà tôi đỡ quá. Cảm ơn nhé. Ở một nơi như thế này, tôi có thể chạy trong khi nhớ lại những cảm xúc thuở ban đầu.",
+      "jpname": "オグリキャップ",
+      "jptext": "案内、助かった。ありがとう。\nここなら、初心を思い出しながら走れそうだ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vậy, tôi xin phép.",
+      "jpname": "オグリキャップ",
+      "jptext": "では、失礼する。"
+    },
+    {
+      "name": "",
+      "text": "Nói xong, Oguri Cap sải những bước chạy thoăn thoắt rời khỏi đó. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "そう告げたオグリキャップは、\n軽快にその場から走り去っていった。が――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A...",
+      "jpname": "オグリキャップ",
+      "jptext": "あ……。"
+    },
+    {
+      "name": "",
+      "text": "Oguri Cap bỗng dưng ngồi sụp xuống đất!",
+      "jpname": "モノローグ",
+      "jptext": "オグリキャップが突然、\nその場でうずくまった！",
+      "choice_data_list": [
+        "Em không sao chứ!?",
+        "Bạn không sao chứ!?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫か！？",
+        "大丈夫！？"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hửm...? Sao thế, trông mặt cậu biến sắc dữ vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "ん……？\nどうしたんだ、そんなに血相を変えて。",
+      "choice_data_list": [
+        "Anh tưởng em bị chấn thương..."
+      ],
+      "jpchoice_data_list": [
+        "故障でもしたのかと……"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "À... Không phải đâu. Chỉ là dây giày của tôi bị đứt thôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "ああ……いや、違う。\nシューズの紐が切れただけだ。"
+    },
+    {
+      "name": "",
+      "text": "Nghe em ấy bảo thế tôi mới nhìn kỹ lại, đôi giày của Oguri Cap quả thực đã tơi tả lắm rồi.",
+      "jpname": "モノローグ",
+      "jptext": "言われて見てみると、オグリキャップの\nシューズは、だいぶボロボロになっていた。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Từ xưa đến giờ tôi đã thế rồi. Tôi toàn làm hỏng giày trong nháy mắt thôi.",
+      "jpname": "オグリキャップ",
+      "jptext": "昔からこうなんだ。\n私は、すぐシューズを壊してしまう。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lại phải đi mua đôi khác để thay rồi...",
+      "jpname": "オグリキャップ",
+      "jptext": "また買い替えにいかないと……。"
+    },
+    {
+      "name": "",
+      "text": "Sau khi buộc tạm lại dây giày, Oguri Cap lại tiếp tục sải bước chạy.",
+      "jpname": "モノローグ",
+      "jptext": "紐を結び直してから、\nオグリキャップは再び走り出した。"
+    },
+    {
+      "name": "",
+      "text": "Dù vậy, tình trạng của đôi giày đó thật bất thường. Có lẽ đôi giày bình thường không thể nào chịu nổi lực chân khủng khiếp đến mức cày xới mặt đất của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "にしても、あのシューズの様子は異様だ。恐らく、彼女の地面を\nえぐるほどの脚力に、並のシューズでは耐えられないのだろう。"
+    },
+    {
+      "name": "",
+      "text": "Cứ tiếp tục như thế thì Oguri Cap có thể sẽ không phát huy được tối đa thực lực của mình.",
+      "jpname": "モノローグ",
+      "jptext": "あのままでは、オグリキャップは\n最大限の実力を発揮出来ないかもしれない。"
+    },
+    {
+      "name": "",
+      "text": "Nếu đã vậy thì...!",
+      "jpname": "モノローグ",
+      "jptext": "ならば……！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Trời ơi, nhìn tới nhìn lui đôi nào đôi nấy giá cũng trên trời hết trơn...",
+      "jpname": "タマモクロス",
+      "jptext": "うーん、相変わらずどれもこれも\nええ値段しよるわ……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ủa, hở? Anh là cái Trainer mới gần đây hay đi chung với Oguri đúng hôn?",
+      "jpname": "タマモクロス",
+      "jptext": "って、ん？　アンタ、最近よぉオグリと一緒におる、\n新人トレーナーか？"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Mặt mũi làm sao mà đăm chiêu kỳ cục vậy? Có chuyện gì xảy ra hả?",
+      "jpname": "タマモクロス",
+      "jptext": "……なんや、けったいな顔しとるな。\nどないしたんや？"
+    },
+    {
+      "name": "",
+      "text": "Tôi đã kể lại toàn bộ sự tình cho Tamamo Cross nghe...",
+      "jpname": "モノローグ",
+      "jptext": "タマモクロスに事情を話した……。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hà, ra là vậy. Mà con nhỏ Oguri đó bộ không tự nhận ra luôn hả trời... Đúng là cái đồ chậm tiêu ngơ ngơ ngác ngác mà.",
+      "jpname": "タマモクロス",
+      "jptext": "はー、なるほどな。ちゅうかオグリ、自分で気づいてへん\nかったんか……。ホンマ、ぼーっとしてるやっちゃな。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Mà thôi, dù sao thì tui cũng sẽ giúp một tay! Cuộc đua Tuyển chọn là nơi để thể hiện hết sức cho các Trainer thấy, để nguyên như vậy thì bất công cho nó quá.",
+      "jpname": "タマモクロス",
+      "jptext": "ま、とにかく、協力したるわ！　選抜レースは全力をトレーナーに\n見せる場。このままやとフェアやないからな。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tui sẽ cùng anh đi chọn một đôi giày bền xịn sò nhất trần đời luôn!",
+      "jpname": "タマモクロス",
+      "jptext": "とびっきり丈夫なシューズ、\nウチも一緒に選んだるで！",
+      "choice_data_list": [
+        "Cảm ơn em...!"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう……！"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ái chà, có gì đâu mà khách sáo.",
+      "jpname": "タマモクロス",
+      "jptext": "あー、ええねんええねん。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nó phải bung hết sức để còn mau mau ra mắt chứ. Tui cũng đang ngứa ngáy muốn so tài với nó thêm lần nữa đây nè!",
+      "jpname": "タマモクロス",
+      "jptext": "しっかり全力見して、とっととデビューしてもらわんと。\nもっかい走りたいっちゅー、ウチの願望もあるからな！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vậy thì đi lựa thôi! Mà ngân sách của anh có bao nhiêu đó? Cái đó là quan trọng nhất trần đời luôn á nghen!?",
+      "jpname": "タマモクロス",
+      "jptext": "ほな、選んでこか！\nで、予算はなんぼや？　そこ、1番大事やろ！？"
+    },
+    {
+      "name": "",
+      "text": "Được sự trợ giúp nhiệt tình của Tamamo Cross, tôi đã chọn được một đôi giày có thể chịu đựng được những bước chạy dũng mãnh của Oguri Cap...",
+      "jpname": "モノローグ",
+      "jptext": "タマモクロスに手伝ってもらって、\nオグリキャップの走りに耐えうるシューズを選んだ……。"
+    }
+  ]
+}
