@@ -1,0 +1,404 @@
+{
+  "title": "Cứ giao cho Teio-sama!",
+  "jptitle": "テイオー様にお任せあれ",
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "A, đây rồi! Nè anh ơiii!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "あっ、いたいた！　おーいっ！！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nè anh, anh là Trainer đã bắt chuyện với em sau cuộc đua tuyển chọn hôm trước đúng không? Đúng anh rồi chứ gì!",
+      "jpname": "トウカイテイオー",
+      "jptext": "ねえキミ、選抜レースの後で\nボクに声をかけてくれたトレーナーだよね？　そうだよねっ！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Vậy thì, em sẽ kiểm tra anh nên hãy theo em mau nào!",
+      "jpname": "トウカイテイオー",
+      "jptext": "それじゃ、テストするからついてきてー！",
+      "choice_data_list": [
+        "Kiểm tra!? Đột nhiên là sao thế em!?",
+        "Kiểm tra!? Sao đột nhiên lại thế!?"
+      ],
+      "jpchoice_data_list": [
+        "テスト！？いきなりどういうことだ！？",
+        "テスト！？いきなりどういうこと！？"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chuyện là vầy, sau hôm đó chị Hội trưởng bảo em là: \"Em phải suy nghĩ thật kỹ càng rồi hẵng chọn một Trainer đáng tin cậy\".",
+      "jpname": "トウカイテイオー",
+      "jptext": "それがねー、あの後カイチョーから、\n『信頼出来るトレーナーを熟考の上で選べ』って言われちゃってさ。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nếu vậy thì cứ để anh huấn luyện em một buổi là nhanh nhất đúng không nè? Thế nên hôm nay sẽ là bài kiểm tra! Mau cho em thấy năng lực Trainer của anh đi nào♪",
+      "jpname": "トウカイテイオー",
+      "jptext": "それなら、1回トレーニング受けてみるのが手っ取り早いでしょ？\nだから今日はテスト！　キミのトレーナー力をボクに見せてよ♪"
+    },
+    {
+      "name": "",
+      "text": "...Thế là tôi phải đảm nhận việc huấn luyện Tokai Teio trong vỏn vẹn một ngày, và chúng tôi lập tức bắt tay vào việc――",
+      "jpname": "モノローグ",
+      "jptext": "……ということで、トウカイテイオーに1日だけトレーニングを\nつけることになり、さっそく始めてみたのだが――"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hể, \"nhảy lò cò\" á? Bài tập nhảy một chân vượt qua các chướng ngại vật nhỏ đặt trên đường chạy sao ta...",
+      "jpname": "トウカイテイオー",
+      "jptext": "へー、『ホッピング』？　コース上に置かれたミニハードルを、\n片足で飛び越えるトレーニングかぁ……。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nghe có vẻ thú vị đó chứ! Thời gian mục tiêu là bao nhiêu vậy anh?",
+      "jpname": "トウカイテイオー",
+      "jptext": "なんか面白そーだね！　目標タイムは？"
+    },
+    {
+      "name": "",
+      "text": "Tôi đưa thời gian mục tiêu cho Tokai Teio xem. Dù đã thiết lập ở mức độ cao hơn đôi chút so với một Mã Nương thông thường...",
+      "jpname": "モノローグ",
+      "jptext": "トウカイテイオーに目標タイムを見せた。\n一般的なウマ娘よりもややレベルを高く設定してあるが……。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Gì đây, chỉ chừng này thôi á? Dễ như ăn kẹo! Em xuất phát đây nha!",
+      "jpname": "トウカイテイオー",
+      "jptext": "なーんだ、このくらい？\nラクショーラクショー！　いってきまーすっ！"
+    },
+    {
+      "name": "",
+      "text": "Cứ ngỡ em ấy vừa nhún nhảy lướt đi, Tokai Teio đã nhẹ nhàng tạo nên thành tích vượt xa vài bậc so với thời gian mục tiêu!",
+      "jpname": "モノローグ",
+      "jptext": "跳ねるように駆けていったかと思うと、トウカイテイオーは\n目標タイムからさらに数ランク上の結果を軽々と叩き出してみせた！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Phù... Nè anh, chỉ có thế thôi á? Em vẫn còn sung sức lắm đó nha!",
+      "jpname": "トウカイテイオー",
+      "jptext": "ふぅっ。……ねー、これだけ？\nボク、まだまだいけるよ！"
+    },
+    {
+      "name": "",
+      "text": "Kể từ đó, tôi đã đưa ra đủ mọi giáo án khác nhau, nhưng ở tất cả các bài tập, Tokai Teio đều mang lại kết quả vượt xa mọi dự liệu ban đầu...!",
+      "jpname": "モノローグ",
+      "jptext": "それからも様々なメニューを指示したが、その全てにおいて、\nトウカイテイオーは想定を大幅に上回る結果を出してみせた……！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "――Xong xuôiii!! Sao sao? Kỷ lục của em là đỉnh nhất đúng không nè?",
+      "jpname": "トウカイテイオー",
+      "jptext": "――おーしまいっ！！\nどうどう？　ボクの記録が1番すごいでしょ？",
+      "choice_data_list": [
+        "Thật sự quá tuyệt vời...!"
+      ],
+      "jpchoice_data_list": [
+        "本当にすごい……！"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Đúng rồi chứ gì nữa!! Hì hì, anh hãy khen ngợi Teio-sama vô địch này nhiều hơn nữa, thật nhiều hơn nữa điii!",
+      "jpname": "トウカイテイオー",
+      "jptext": "でっしょぉーーー！！　えへへー、無敵のテイオー様を\nもっともーっと褒め称えるといいぞよ～！",
+      "choice_data_list": [
+        "\"Teio-sama vô địch\"?"
+      ],
+      "jpchoice_data_list": [
+        "『無敵のテイオー様』？"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chuẩn luôn. Từ trước tới giờ em chưa từng thua bất kỳ ai đâu đó. Cuộc đua nào em cũng thắng tuốt, lúc nào cũng được mọi người khen ngợi hết lời luôn á!",
+      "jpname": "トウカイテイオー",
+      "jptext": "そっ。ボク今まで誰かに負けたことってないんだー。どのレースも\nぜーんぶ勝って、いつもみーんなに褒められてたんだよ！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Được khen quả nhiên là sướng rơn người luôn ha♪ Mà được người ta khen tức là người ta công nhận \"Em đỉnh thật đấy!\".",
+      "jpname": "トウカイテイオー",
+      "jptext": "褒められるってやっぱり気持ちいいよね♪　褒めてくれるって\nことは、ボクのこと『すごい！』って思ったってことだもん。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hồi lần đầu tiên tham gia đua cũng vậy, lúc em về nhất, mọi người đã hô to \"Em đỉnh lắm đó!\" nhiều ơi là nhiều!",
+      "jpname": "トウカイテイオー",
+      "jptext": "初めてレースに出た時もさ、1着だったボクに、\nみんながいーっぱい『すごかったぞー！』って言ってくれたんだ！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Cảm giác lúc đó thật sự, thật sự sướng không tả nổi luôn á!",
+      "jpname": "トウカイテイオー",
+      "jptext": "それが、ホントにホントに気持ちよくてさー！"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nhưng mà nếu được tham gia Twinkle Series, em sẽ còn chứng minh cho nhiều người, thật nhiều người hơn nữa thấy được rằng \"Em đỉnh đến nhường nào!\" đúng không anh?",
+      "jpname": "トウカイテイオー",
+      "jptext": "けどトゥインクル・シリーズに出たら、もっともーっと\nたくさんのヒトたちに『ボクってすごいんだぞ！』って示せるよね？",
+      "choice_data_list": [
+        "Ra đó là lý do em đến Học viện Tracen"
+      ],
+      "jpchoice_data_list": [
+        "それでトレセン学園に来たんだ"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chuẩn không cần chỉnh luôn!! Đúng y xì đúc♪",
+      "jpname": "トウカイテイオー",
+      "jptext": "ピンポンピンポーン！！\nそのとーりっ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ư ư, mong chờ quá đi mất!! Em muốn sớm được chạy ở các trận GI, muốn chạy lắm rồi!! Em muốn được mọi người công nhận em là Mã Nương tuyệt đỉnh nhất!",
+      "jpname": "トウカイテイオー",
+      "jptext": "うぅ～、楽しみだな～～！！　早くGⅠとかに出たい出たーい！！\nボクが1番すごいウマ娘だって言われたーい！"
+    },
+    {
+      "name": "",
+      "text": "Tokai Teio đang vô cùng háo hức, dường như trong tâm trí em ấy chẳng hề mảy may nghĩ tới hai chữ thất bại.",
+      "jpname": "モノローグ",
+      "jptext": "うずうずしているトウカイテイオーは、\n敗北することなど一切考えていないようだ。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, khi tận mắt chứng kiến thực lực của cô bé, điều đáng sợ là người ta thực sự tin rằng em ấy sẽ cứ thế mà chiến thắng liên tiếp...",
+      "jpname": "モノローグ",
+      "jptext": "しかし、実際彼女の実力を目の当たりにすると、本当にこのまま\n勝ってしまうのではないかと思えるところが恐ろしい……。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "A, mình đang trong giờ kiểm tra mà ta. Nè nè, giáo án của anh đến đây là hết rồi hả? Giờ mình thả lỏng hạ nhiệt được chưa anh?",
+      "jpname": "トウカイテイオー",
+      "jptext": "あっ、今はテスト中なんだったっけ。ねーねー、\nキミのメニューはこれでおしまい？　もうクールダウンする？"
+    },
+    {
+      "name": "",
+      "text": "Tôi muốn nắm thật rõ thực lực của Tokai Teio thêm một lần cuối cùng. Thế là――",
+      "jpname": "モノローグ",
+      "jptext": "最後にもう1度、トウカイテイオーの実力を\nしっかりわかっておきたいところだ。そこで――",
+      "choice_data_list": [
+        "Để kết thúc, chúng ta bấm giờ chạy 2500m nhé"
+      ],
+      "jpchoice_data_list": [
+        "仕上げに2500mのタイムを計ろうか"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "2500m á? Đúng cự ly sở trường của em luôn nè! Anh muốn kiểm tra thực lực của em ở cự ly phù hợp chứ gì?",
+      "jpname": "トウカイテイオー",
+      "jptext": "2500m？　ボクが得意なやつじゃん！\n適性距離で実力確かめよーってとこかな？"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Được luôn! Vậy em xuất phát đây nha♪",
+      "jpname": "トウカイテイオー",
+      "jptext": "オッケー！\nじゃ、行ってきまーす♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hộc, hộc... Phù! Thời gian thế nào rồi anh?",
+      "jpname": "トウカイテイオー",
+      "jptext": "はっ、はっ……はぁーっ！\nタイム、どうだった？",
+      "choice_data_list": [
+        "2 phút 34 giây... Nhanh thật...!"
+      ],
+      "jpchoice_data_list": [
+        "2分34秒……速い……！"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ồ, phá kỷ lục của bản thân rồi! Tuyệt vời chưa♪",
+      "jpname": "トウカイテイオー",
+      "jptext": "おっ、自己ベスト更新！\nやったね♪"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "――2500m sao. Nếu nói về các trận GI, thì đó chính là cự ly của \"Arima Kinen\".",
+      "jpname": "シンボリルドルフ",
+      "jptext": "――2500mか。\nGⅠレースでいえば、『有馬記念』だな。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oái, chị Hội trưởng!?",
+      "jpname": "トウカイテイオー",
+      "jptext": "わっ、カイチョー！？"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chuyện gì vậy chị, có chuyện gì sao? Chị đến gặp em đó hả!?",
+      "jpname": "トウカイテイオー",
+      "jptext": "なになにどうしたの？\nボクに会いに来てくれたのっ！？"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ừm, đại loại là thế.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "まあ、そんな所だ。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Nhưng trước hết... Hừm. Trainer à, thứ lỗi vì yêu cầu đường đột, nhưng cậu có thể bấm giờ chạy cho tôi một lần được không?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "それよりも……ふむ。トレーナー君、急な頼みで済まないが\n私のタイムも測ってはもらえないだろうか？"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cũng cự ly 2500m như của Teio ban nãy.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "先程のテイオーと同じ、2500mだ。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hể, chị Hội trưởng cũng sẽ chạy sao!? Tuyệt quá, tuyệt quá đi!! Dĩ nhiên là được rồi đúng không Trainer!?",
+      "jpname": "トウカイテイオー",
+      "jptext": "えっ、カイチョーも走ってくれるの！？\nやったやったー！！　もちろんいいよね、トレーナー！？",
+      "choice_data_list": [
+        "Tôi hiểu rồi, tôi sẽ bấm giờ"
+      ],
+      "jpchoice_data_list": [
+        "わかった、測るよ"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cảm ơn cậu. Vậy thì, ta bắt đầu thôi.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "感謝する。\nでは、行こうか。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Phù... Trainer à, thời gian ra sao?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "ふぅっ……。\nトレーナー君、タイムは？",
+      "choice_data_list": [
+        "2, 2 phút 32 giây...!"
+      ],
+      "jpchoice_data_list": [
+        "に、2分32秒……！"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Chị Hội trưởng... nhanh hơn em những 2 giây lận...!",
+      "jpname": "トウカイテイオー",
+      "jptext": "カイチョー……ボクより2秒も速い……！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Đúng vậy. ...Em đã thua rồi đấy, Teio.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "そうだな。\n……君の敗北だ、テイオー。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Vâng ạ, em thua mất rồi! Quả nhiên chị Hội trưởng đỉnh thật đấy!! Đúng là Mã Nương mạnh nhất có khác!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "うんっ、負けちゃった！　やっぱりカイチョーはすごいな～！！\nさっすが、最強のウマ娘だねっ！！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Em không còn cảm nghĩ nào khác sao?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "他にはないのか？"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Dạ, khác là sao ạ?",
+      "jpname": "トウカイテイオー",
+      "jptext": "えっ、ほか？"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Phải. ...Ta xin nhắc lại một lần nữa nhé, Teio. Vừa rồi, em đã bị ta đánh bại đấy?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "ああ。……もう1度言うが、テイオー。\n君は今、私に敗北したんだぞ？"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ơ, ơ? Ừm thì, vâng ạ. Cho nên em mới bảo là chị Hội trưởng đỉnh quá trời... Ơ kìa?",
+      "jpname": "トウカイテイオー",
+      "jptext": "えっ、えっ？　えーっと、うん。\nだから、カイチョーはすごいなーって……え？"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ra là vậy... Không, xin lỗi vì đã đường đột.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "そうか……。\nいや、急に済まなかったな。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Teio, buổi tập đến đây là kết thúc rồi nhỉ? Nếu vậy thì thay vì thả lỏng tại chỗ, em chạy một vòng bên ngoài xem sao.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "テイオー、トレーニングは以上かな？\nそれならクールダウン代わりに、少し外を走って来てはどうだ。"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "A, vâng! Em đi liền đây! Trainer, lát gặp lại nha!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "あ、うん！　そうするー！\nトレーナー、後でね～！！"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Giờ thì... Đột ngột thế này nhưng cho tôi hỏi một câu nhé, Trainer.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "さて……。\n突然だが1つ聞かせてくれ、トレーナー君。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cậu nghĩ sao về dáng vẻ vừa rồi của Teio?",
+      "jpname": "シンボリルドルフ",
+      "jptext": "君は、先程のテイオーの様子をどう思った？"
+    },
+    {
+      "name": "",
+      "text": "Dù bị áp đảo bởi uy lực tĩnh lặng toát ra từ người đối diện, tôi vẫn cố gắng ngẫm nghĩ một lần nữa.",
+      "jpname": "モノローグ",
+      "jptext": "静かな迫力に気圧されつつも、今一度考えを巡らせてみる。"
+    },
+    {
+      "name": "",
+      "text": "Sở hữu năng lực và hoài bão áp đảo, thế nhưng khi công nhận thần tượng là kẻ mạnh tuyệt đối, em ấy lại chẳng hề cảm thấy ấm ức hay tiếc nuối, chuyện đó――",
+      "jpname": "モノローグ",
+      "jptext": "圧倒的な能力と野心を持ちながらも、憧れの対象を\n絶対の強者として認め、悔しさすら抱かない、というのは――",
+      "choice_data_list": [
+        "Cứ như bây giờ thì uổng phí quá..."
+      ],
+      "jpchoice_data_list": [
+        "今のままだと、もったいない……"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...! Ra là vậy, \"uổng phí\" sao. Quả không hổ danh là Trainer của học viện, mắt nhìn người thật sắc sảo.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "……！　なるほど、『もったいない』か。\n流石は学園専属トレーナー、慧眼だな。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Đúng như cậu nói. ...Cứ giữ nguyên thế này, Teio sẽ tự thu hẹp tiềm năng của chính mình. Đối với một Mã Nương luôn hướng tới đỉnh cao, điều đó thật sự quá đỗi bất hạnh.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "その通りだ。……今のままだとテイオーは、自らの可能性を\n狭めてしまう。頂きを目指すウマ娘として、あまりに不幸だ。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Được rồi... Thật ra, tôi có một việc rất quan trọng muốn nhờ cậy cậu.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "よし……。\n実は、君に折り入って頼みたい事がある。"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sắp tới, tôi dự định sẽ có một cuộc đua với Teio, nhưng mà――",
+      "jpname": "シンボリルドルフ",
+      "jptext": "近々私は、テイオーとレースをするつもりなのだが――"
+    }
+  ]
+}
