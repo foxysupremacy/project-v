@@ -1,0 +1,446 @@
+{
+  "title": "Tập 2",
+  "jptitle": "第2話",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Tôi có hẹn đi xem móng sắt với Maruzensky, nhưng đã quá giờ hẹn mà vẫn chẳng thấy bóng dáng em đâu...",
+      "jpname": "モノローグ",
+      "jptext": "マルゼンスキーと蹄鉄を見に行く約束をしていたのだが、\n時間になっても姿が見えない……。"
+    },
+    {
+      "name": "",
+      "text": "Gọi điện thoại di động cũng không bắt máy, tôi quyết định đến tận nhà để đón em, thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "携帯に連絡しても繋がらないので、\n自宅まで迎えに行くことにしたのだが――"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "V-Vâng, ra ngay đây ạ...! Chết thật, lại kiện hàng mới tới nữa sao. Xin lỗi nhé, đợi một ch——... Á, á á á a!?",
+      "jpname": "マルゼンスキー",
+      "jptext": "は、はーい……！　やだ、新しい荷物かしら。\nごめんなさい、ちょっと待っ――……き、きゃあああ！？",
+      "choice_data_list": [
+        "Em có sao không!?",
+        "Bạn có sao không!?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫か！？",
+        "大丈夫！？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nghe thấy tiếng động lớn cùng tiếng hét thất thanh của Maruzensky, tôi vội vã mở cửa bước vào——",
+      "jpname": "モノローグ",
+      "jptext": "激しい物音とマルゼンスキーの悲鳴が聞こえ、\n思わず扉を開けると――"
+    },
+    {
+      "name": "",
+      "text": "...Và đập vào mắt tôi là cảnh Maruzensky đang bị chôn vùi dưới đống thùng các-tông.",
+      "jpname": "モノローグ",
+      "jptext": "……そこには、段ボールに埋もれたマルゼンスキーがいた。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Vừa rồi làm anh hết hồn, em xin lỗi nhé.",
+      "jpname": "マルゼンスキー",
+      "jptext": "……さっきはビックリさせちゃって、ごめんね。",
+      "choice_data_list": [
+        "Núi thùng các-tông kia rốt cuộc là..."
+      ],
+      "jpchoice_data_list": [
+        "あの段ボールの山は一体……"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mua sắm qua mạng thì hàng đều giao bằng thùng các-tông mà, đúng không anh? Thế là, nói sao nhỉ, nhận ra thì chúng đã chất cao như núi mất rồi.",
+      "jpname": "マルゼンスキー",
+      "jptext": "通販で買い物したりすると、段ボールで届くじゃない？\nそれでその、気がついたら積み重なっていったと言うか。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tức là...",
+      "jpname": "マルゼンスキー",
+      "jptext": "つまり……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Uuu! Nói thẳng ra là em không dọn dẹp nổi đấy! Khắp nơi trong phòng đâu đâu cũng ngập ngụa đồ đạc cả...!",
+      "jpname": "マルゼンスキー",
+      "jptext": "……ううっ！　ようするに、片付けができていないの！\n部屋の中、どこもかしこも荷物だらけで……！",
+      "choice_data_list": [
+        "Em dở việc dọn dẹp lắm sao?",
+        "Bạn dở việc dọn dẹp lắm sao?"
+      ],
+      "jpchoice_data_list": [
+        "片付け、苦手なのか？",
+        "片付け、苦手なの？"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Không hẳn... phải nói thế nào nhỉ.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ううん……なんて言うのかしら。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mỗi khi có khách đến chơi thì em tràn đầy quyết tâm dọn dẹp lắm đó chứ? Thậm chí dọn đến từng ngóc ngách khuất tầm mắt luôn.",
+      "jpname": "マルゼンスキー",
+      "jptext": "お客様が来る時は、気合いを入れて片付けるのよ？\nそれこそ、見えないところも隅々まで。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nhưng hễ chỉ có một mình là em lại chẳng có chút động lực nào cả...",
+      "jpname": "マルゼンスキー",
+      "jptext": "でも1人だと、どうしてもやる気が出なくて……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sáng nay em đánh rơi điện thoại vào kẽ hở giữa các thùng các-tông, đang mải tìm thì Trainer-kun tới...",
+      "jpname": "マルゼンスキー",
+      "jptext": "今朝は段ボールの隙間に携帯を落としちゃって、\n探してたらトレーナー君が来て……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sáng nay em đánh rơi điện thoại vào kẽ hở giữa các thùng các-tông, đang mải tìm thì Trainer-chan tới...",
+      "jpname": "マルゼンスキー",
+      "jptext": "今朝は段ボールの隙間に携帯を落としちゃって、\n探してたらトレーナーちゃんが来て……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Đã trễ hẹn rồi mà lại còn phô ra cái bộ dạng này nữa chứ. Haaa, việc dọn dẹp đúng là quan trọng thật đấy...",
+      "jpname": "マルゼンスキー",
+      "jptext": "遅刻した上に、こんなところを見せちゃうなんて。\nはぁ、片付けって大事ね……。",
+      "choice_data_list": [
+        "Để tôi dọn dẹp cùng em nhé"
+      ],
+      "jpchoice_data_list": [
+        "一緒に片付けようか"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hả!? Dọn phòng của em á? Được thật sao?",
+      "jpname": "マルゼンスキー",
+      "jptext": "え！？　あたしの部屋を？　いいの？",
+      "choice_data_list": [
+        "Hai người cùng làm thì sẽ có hứng hơn đúng không?",
+        "Hai người cùng làm thì sẽ có hứng hơn đúng không nào?"
+      ],
+      "jpchoice_data_list": [
+        "2人ならやる気も出るんだろ？",
+        "2人ならやる気も出るんだよね？"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Vâng, có Trainer-kun ở cạnh thì động lực và tinh thần của em sẽ sung hết nấc luôn!",
+      "jpname": "マルゼンスキー",
+      "jptext": "……ええ、トレーナー君がいてくれたら、\nやる気もテンションもアゲアゲよ！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Vâng, có Trainer-chan ở cạnh thì động lực và tinh thần của em sẽ sung hết nấc luôn!",
+      "jpname": "マルゼンスキー",
+      "jptext": "……ええ、トレーナーちゃんがいてくれたら、\nやる気もテンションもアゲアゲよ！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cảm ơn anh nha♪ Trăm sự nhờ cậy Trainer-kun nhé!",
+      "jpname": "マルゼンスキー",
+      "jptext": "ありがとっ♪　よろしくね、トレーナー君！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cảm ơn nhé♪ Trăm sự nhờ cậy Trainer-chan nhé!",
+      "jpname": "マルゼンスキー",
+      "jptext": "ありがとっ♪　よろしくね、トレーナーちゃん！"
+    },
+    {
+      "name": "",
+      "text": "Trở lại phòng Maruzensky, chúng tôi dành ra vài tiếng đồng hồ để thu gom đống thùng các-tông khổng lồ và sắp xếp lại đồ đạc ngăn nắp.",
+      "jpname": "モノローグ",
+      "jptext": "マルゼンスキーの部屋に戻り、数時間かけて\n大量の段ボールをまとめ、荷物を整理した。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cảm ơn anh nhiều nhé, Trainer-kun! Nhờ có anh mà căn phòng đã gọn gàng sạch sẽ hẳn ra rồi!",
+      "jpname": "マルゼンスキー",
+      "jptext": "ありがとう、トレーナー君！\nおかげで部屋もスッキリ！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cảm ơn nhiều nhé, Trainer-chan! Nhờ có bạn mà căn phòng đã gọn gàng sạch sẽ hẳn ra rồi!",
+      "jpname": "マルゼンスキー",
+      "jptext": "ありがとう、トレーナーちゃん！\nおかげで部屋もスッキリ！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Để cảm ơn, anh muốn ăn món gì em cũng sẽ chiêu đãi hết! Cứ thoải mái nói ra đừng ngại nha♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "お礼になんでも好きなものをご馳走するわ。\n遠慮しないで言ってね♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Kể cả đồ ăn tự nấu cũng được luôn đó nhé. Trông vậy chứ khoản nấu nướng em cũng cừ khôi lắm đấy!",
+      "jpname": "マルゼンスキー",
+      "jptext": "なんなら、手作りでもいいわよ。\nこれでも料理は得意なんだから！",
+      "choice_data_list": [
+        "Bình thường em cũng hay nấu nướng sao?",
+        "Bình thường bạn cũng hay nấu nướng sao?"
+      ],
+      "jpchoice_data_list": [
+        "料理は普段からやってるのか？",
+        "料理は普段からやってるの？"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ừm, cũng giống chuyện dọn dẹp thôi anh. Nấu cho mỗi bản thân ăn thì em chẳng buồn động tay vào.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ん～片付けと同じね。\n自分の分だけとなると、やる気が出ないの。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nhưng hôm nay thì khác! Vì đã có Trainer-kun ở đây rồi. Anh muốn ăn gì nào? Đồ Nhật, món Tây hay món Trung, em chiều tất tần tật nha♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "でも今日は別！　トレーナー君がいるもの。\nなにが食べたい？　和洋中、なんでもござれよ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nhưng hôm nay thì khác! Vì đã có Trainer-chan ở đây rồi. Bạn muốn ăn gì nào? Đồ Nhật, món Tây hay món Trung, em chiều tất tần tật nha♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "でも今日は別！　トレーナーちゃんがいるもの。\nなにが食べたい？　和洋中、なんでもござれよ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Em sẽ trổ hết tài nghệ gia truyền ra làm, anh cứ việc mong chờ đi nha!",
+      "jpname": "マルゼンスキー",
+      "jptext": "腕によりをかけて作るから、期待してて！"
+    },
+    {
+      "name": "",
+      "text": "Mua sắm đầy đủ gia vị cần thiết, Maruzensky bắt tay vào chuẩn bị bữa tối cho chúng tôi. Đôi bàn tay thoăn thoắt khéo léo, các món ăn lần lượt được hoàn thành——",
+      "jpname": "モノローグ",
+      "jptext": "調味料まで買い揃え、マルゼンスキーは夕食を用意してくれた。\n手際もよく、次々に出来上がっていき――"
+    },
+    {
+      "name": "",
+      "text": "Cả cách trình bày lẫn hương vị đều đạt đến trình độ đỉnh cao không thua kém bất kỳ đầu bếp chuyên nghiệp nào!",
+      "jpname": "モノローグ",
+      "jptext": "盛り付けも味も、プロ顔負けの仕上がりだった！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phù! No nê đã đời rồi. Trainer-kun thấy hài lòng với bữa ăn chứ anh?",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふぅ！　ごちそうさまでした。\nトレーナー君、満足してくれた？",
+      "choice_data_list": [
+        "Ngon tuyệt đỉnh luôn!"
+      ],
+      "jpchoice_data_list": [
+        "美味しかった！"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phù! No nê đã đời rồi. Trainer-chan thấy hài lòng với bữa ăn chứ?",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふぅ！　ごちそうさまでした。\nトレーナーちゃん、満足してくれた？",
+      "choice_data_list": [
+        "Ngon tuyệt đỉnh luôn!"
+      ],
+      "jpchoice_data_list": [
+        "美味しかった！"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu, tuyệt quá♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふふっ、良かった♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hôm nay vừa làm phiền Trainer-kun lại vừa để lộ ra bộ dạng đáng xấu hổ nữa, nên em rất muốn gỡ gạc lại chút thể diện ấy mà.",
+      "jpname": "マルゼンスキー",
+      "jptext": "今日はトレーナー君に迷惑かけちゃったり、\n残念なとこ見せちゃったりしたから、挽回したかったの。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hôm nay vừa làm phiền Trainer-chan lại vừa để lộ ra bộ dạng đáng xấu hổ nữa, nên em rất muốn gỡ gạc lại chút thể diện ấy mà.",
+      "jpname": "マルゼンスキー",
+      "jptext": "今日はトレーナーちゃんに迷惑かけちゃったり、\n残念なとこ見せちゃったりしたから、挽回したかったの。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thấy thành công mỹ mãn thế này là em nhẹ cả người rồi! Còn lại thì——",
+      "jpname": "マルゼンスキー",
+      "jptext": "成功したみたいで、ホッとしたわ！\nあとは――"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Chỉ cần chú ý không để đồ đạc bừa bãi vứt lung tung nữa là được.",
+      "jpname": "マルゼンスキー",
+      "jptext": "……荷物を放置しないように、気をつけるだけね。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Dù nói vậy nhưng chuyện này khó ghê cơ. Phải làm sao thì mới có động lực dọn dẹp thường xuyên được nhỉ.",
+      "jpname": "マルゼンスキー",
+      "jptext": "と言っても、これが難しいのよね～。\n片付けへのやる気って、どうしたら出るのかしら。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Không phải là em ghét dọn, nhưng chẳng thể nào tự giác hào hứng làm như lúc chạy bộ hay nhảy múa được ấy.",
+      "jpname": "マルゼンスキー",
+      "jptext": "嫌いじゃないけど、走ったり踊ったりするみたいに、\n自分から進んでって気にはなれないのよねぇ。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...A! Hay là định kỳ Trainer-kun cứ ghé qua kiểm tra giùm em nhé? Ý kiến hay đúng không anh?",
+      "jpname": "マルゼンスキー",
+      "jptext": "……あ！　定期的にトレーナー君がチェックしに\n来てくれるなんてどう？　いい案じゃない？",
+      "choice_data_list": [
+        "Được chứ"
+      ],
+      "jpchoice_data_list": [
+        "いいよ"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...A! Hay là định kỳ Trainer-chan cứ ghé qua kiểm tra giùm em nhé? Ý kiến hay đúng không?",
+      "jpname": "マルゼンスキー",
+      "jptext": "……あ！　定期的にトレーナーちゃんがチェックしに\n来てくれるなんてどう？　いい案じゃない？",
+      "choice_data_list": [
+        "Được chứ"
+      ],
+      "jpchoice_data_list": [
+        "いいよ"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thật sao anh? Thế thì phần thưởng cảm ơn sẽ là... ừm, bữa cơm em tự tay nấu nhé♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "本当？\nだったらお礼は……うん、手作りご飯でどうかしら♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Có Trainer-kun ghé qua và được tự tay nấu nướng cho anh ăn, nghĩa là...",
+      "jpname": "マルゼンスキー",
+      "jptext": "トレーナー君が来てくれて、\n手料理をふるまえるってことは……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Có Trainer-chan ghé qua và được tự tay nấu nướng cho bạn ăn, nghĩa là...",
+      "jpname": "マルゼンスキー",
+      "jptext": "トレーナーちゃんが来てくれて、\n手料理をふるまえるってことは……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vừa giữ được phòng ốc sạch bong, lại vừa được cùng nhau thưởng thức những bữa ăn ngon lành nữa chứ!",
+      "jpname": "マルゼンスキー",
+      "jptext": "部屋を綺麗に保てる上に、食事も一緒に楽しめるのね！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Em vui lắm luôn ấy. Không chỉ có thêm động lực dọn dẹp, mà bữa cơm một mình nhạt nhẽo buồn chán trước kia cũng chấm dứt rồi!",
+      "jpname": "マルゼンスキー",
+      "jptext": "すっごく嬉しいわ。やる気もだけど、\n1人で食べる食事って味気なくてつまらなかったの！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vừa giải quyết xong phiền não lại vừa có thêm niềm vui mới nữa chứ! Cảm ơn anh nhiều nhé, Trainer-kun♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "悩みが解決して、楽しみも増えちゃった！\nありがとう、トレーナー君♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vừa giải quyết xong phiền não lại vừa có thêm niềm vui mới nữa chứ! Cảm ơn nhiều nhé, Trainer-chan♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "悩みが解決して、楽しみも増えちゃった！\nありがとう、トレーナーちゃん♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vậy thì, em về đây nhé.",
+      "jpname": "マルゼンスキー",
+      "jptext": "それじゃ、帰るわね。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Cùng nhau dọn dẹp phòng, cùng nhau ăn cơm tối.",
+      "jpname": "マルゼンスキー",
+      "jptext": "……一緒に片付けして、一緒にご飯食べて。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Chỉ có những chuyện đơn giản nhường ấy thôi mà thật sự vui quá chừng. Giờ em đã nóng lòng mong chờ tới lần tiếp theo rồi đây này!",
+      "jpname": "マルゼンスキー",
+      "jptext": "これだけのことなのに、本当に楽しかった。\n次が今から楽しみで仕方ないくらい！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu. Bị người ta đến kiểm tra xem phòng có sạch sẽ không, đáng ra đâu được vui mừng hớn hở thế này cơ chứ.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふふっ。部屋が綺麗かチェックされるなんて、\n本当は喜んじゃいけないのにね。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Phải rồi! Hay là anh chuyển hẳn tới căn hộ sát vách bên cạnh ở luôn đi? Khỏi phải cất công đi đi lại lại từ chỗ anh qua nhà em nữa... nhỉ?",
+      "jpname": "マルゼンスキー",
+      "jptext": "……そうだ！　もういっそ、隣に引っ越してきたらどうかしら。\nここからうちに通う必要もなくなるし……ね？"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phòng bên cạnh hình như hiện đang trống đấy, để em đi tìm hiểu thử xem sao nhé!",
+      "jpname": "マルゼンスキー",
+      "jptext": "隣、確かいま空き部屋になってたはずだから、調べてみるわね！",
+      "choice_data_list": [
+        "Ch-Chuyện đó thì hơi quá rồi đấy!"
+      ],
+      "jpchoice_data_list": [
+        "そ、それはさすがに！"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ôi chao, tiếc thế♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "あら、残念♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Fufu. Trainer-kun kìa, anh cuống quýt lên trông đáng yêu ghê cơ!",
+      "jpname": "マルゼンスキー",
+      "jptext": "……ふふっ。トレーナー君ったら、焦っちゃって\n可愛いんだから！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Fufu. Trainer-chan kìa, cuống quýt lên trông đáng yêu ghê cơ!",
+      "jpname": "マルゼンスキー",
+      "jptext": "……ふふっ。トレーナーちゃんったら、焦っちゃって\n可愛いんだから！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Chuyện dọn nhà thì tạm gác qua một bên... nhưng bất cứ lúc nào anh ghé qua chơi, em cũng đều vui mừng khôn xiết cả.",
+      "jpname": "マルゼンスキー",
+      "jptext": "引っ越しはともかく……\nいつだって、遊びに来てくれたらうれしいわ。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Kể cả là ngày nào cũng qua đi chăng nữa...♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "それこそ、毎日だってね……♪"
+    },
+    {
+      "name": "",
+      "text": "Vừa nở nụ cười đầy tinh nghịch, Maruzensky vừa bước lên xế yêu nổ máy lao vút đi trong màn đêm...",
+      "jpname": "モノローグ",
+      "jptext": "いたずらっぽく笑いながら、\nマルゼンスキーは愛車に乗って帰って行った……。"
+    }
+  ]
+}

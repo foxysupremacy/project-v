@@ -1,0 +1,390 @@
+{
+  "title": "Cô gái trong làn gió",
+  "jptitle": "風の中の彼女",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"Trận Đua Tuyển Chọn\", một sự kiện lớn của học viện nơi các Mã Nương thể hiện thực lực của mình trước các Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "ウマ娘たちがその実力をトレーナーたちに\nアピールする学園の一大行事、『選抜レース』"
+    },
+    {
+      "name": "",
+      "text": "Giữa muôn vàn Mã Nương đang dốc hết sức mình trên đường đua, có một cô gái nở nụ cười đầy ung dung tự tại, phô diễn những bước chạy áp đảo tuyệt đối——",
+      "jpname": "モノローグ",
+      "jptext": "多くのウマ娘たちが懸命に走る中、余裕の表情を浮かべたまま、\n圧倒的な走りを見せた1人のウマ娘がいた――"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nào, mình vẫn còn tăng tốc được nữa cơ mà!",
+      "jpname": "マルゼンスキー",
+      "jptext": "さ、まだまだ飛ばすわよ！"
+    },
+    {
+      "name": "Khán giả",
+      "text": "(Oaaaaaaa!!)",
+      "jpname": "観客たち",
+      "jptext": "（ワァアアアアアー！！）"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ma... Maruzensky lại tiếp tục tăng tốc! Khoảng cách với nhóm bám đuổi ngày càng bị nới rộng! Giờ đây chỉ còn là màn độc diễn của cô ấy thôi!!",
+      "jpname": "実況",
+      "jptext": "ま、マルゼンスキーさらに加速っ！　後続との差は開く一方！！\nもはや彼女の1人旅ですっ！！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hộc, hộc, hộc... Phù, gió thổi mát mẻ thích thật đấy!",
+      "jpname": "マルゼンスキー",
+      "jptext": "はっ、はっ、はっ……。\nふふ、いい風吹いてるわね！"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Đ-Đây là...!",
+      "jpname": "新人トレーナーA",
+      "jptext": "こ、これは……！",
+      "choice_data_list": [
+        "(Màn trình diễn tuyệt vời làm sao...!)",
+        "(Những bước chạy tuyệt vời làm sao...!)"
+      ],
+      "jpchoice_data_list": [
+        "（なんて素晴らしい走りだ……！）",
+        "（なんて素晴らしい走り……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Những bước chạy của em đầy mạnh mẽ, xinh đẹp và nhanh hơn cả cơn gió——",
+      "jpname": "モノローグ",
+      "jptext": "走る彼女は力強く、美しく、風よりも速く――"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nhanh hơn... mình vẫn có thể nhanh hơn nữa cơ mà!!",
+      "jpname": "マルゼンスキー",
+      "jptext": "もっと……もっと速く、イケるわっ！！"
+    },
+    {
+      "name": "",
+      "text": "Và hơn hết, em sải bước đạp lên mặt đất với vẻ ngập tràn niềm vui và sảng khoái hơn bất cứ ai trên đường đua.",
+      "jpname": "モノローグ",
+      "jptext": "そしてなにより、コース上にいる誰よりも\n楽しく、心地よさそうに大地を蹴っていた。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cán đích rồi! Về nhất là Maruzensky!! Một màn bứt tốc áp đảo hoàn toàn, không cho đối thủ bất kỳ cơ hội nào bám đuổi!",
+      "jpname": "実況",
+      "jptext": "ゴールインッ！　1着はマルゼンスキー！！\n他を一切寄せ付けない、圧倒的な走りでした！"
+    },
+    {
+      "name": "Khán giả",
+      "text": "(Oaaaaaa...!!)",
+      "jpname": "観客たち",
+      "jptext": "（ワァァァァー……！！）"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phù! A, sảng khoái ghê cơ♪ Cán đích sớm thế này thấy tiếc thật đấy.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふぅっ！　あー、気持ちよかったー♪\nもうゴールなのがもったいないくらいね。"
+    },
+    {
+      "name": "Mã Nương hậu bối A",
+      "text": "Chị Maruzenskyyy!! Quả đúng là chị! Tuyệt vời quá! Đỉnh chóp luôn ạ!",
+      "jpname": "後輩ウマ娘A",
+      "jptext": "マルゼンスキーせんぱぁぁぁーいっ！！\nさすがです！　すごいです！　やばいですっ！"
+    },
+    {
+      "name": "Mã Nương hậu bối B",
+      "text": "K-Kỷ lục thời gian thế này, lần đầu tiên em được thấy tận mắt luôn đó...!",
+      "jpname": "後輩ウマ娘B",
+      "jptext": "こ、こんなタイム、初めて見ました……！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ôi chao các bé ơi! Cảm ơn các em lúc nào cũng cổ vũ cho chị nha!!",
+      "jpname": "マルゼンスキー",
+      "jptext": "あらあらみんなー！\nいつも応援ありがとねー！！"
+    },
+    {
+      "name": "Mã Nương hậu bối A",
+      "text": "Chạy xúc động quá đi mất ạ! Em cũng muốn chạy nhanh được như chị tiền bối!! Nếu được thì chị lại chạy kèm với em nữa nha!!",
+      "jpname": "後輩ウマ娘A",
+      "jptext": "感動しましたーっ！　アタシも先輩みたいに速くなりたいです！！\nよければまた併走お願いしまーすっ！！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ufufu, chuyện nhỏ như con thỏ ấy mà. Hay là tí nữa chị em mình chạy luôn đi! Cứ được chạy là chị luôn sẵn sàng chào đón nhiệt tình♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "うふふ、お安い御用よ。なんなら、この後すぐにしましょうか！\n走ることならいつでも大歓迎だし♪"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "T-Thắng cách biệt lớn đến thế mà vẫn thong thả nhường kia... Đẳng cấp quá khác biệt, Maruzensky...!",
+      "jpname": "新人トレーナーA",
+      "jptext": "あ、あんな大差で勝った上にあの余裕ぶり……。\nモノが違いすぎますね、マルゼンスキー……！"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Mang một cỗ động cơ hoàn toàn khác biệt chính là để chỉ trường hợp này đây. Bởi vậy nên... tôi nhất định phải đón được em ấy về đội của mình, Maruzensky...!",
+      "jpname": "中堅トレーナーA",
+      "jptext": "積んでいるエンジンが違うとはまさにこのことね。\nだからこそ……ぜひウチにほしいわね、マルゼンスキー……！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Được rồi... ơ kìa, ủa?",
+      "jpname": "マルゼンスキー",
+      "jptext": "さてと……って、あら？"
+    },
+    {
+      "name": "Các Trainer",
+      "text": "Maruzensky, em chính là át chủ bài của đội tôi! Maruzensky, cho tôi nói chuyện chút đi!",
+      "jpname": "トレーナーたち",
+      "jptext": "マルゼンスキー、キミこそうちのエースだ！\nマルゼンスキー、話をさせてちょうだいっ！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ái chà chà...",
+      "jpname": "マルゼンスキー",
+      "jptext": "あらら～……。"
+    },
+    {
+      "name": "",
+      "text": "Đúng như dự đoán, vừa kết thúc trận đua tuyển chọn, xung quanh em đã có một đám đông Trainer ồ ạt kéo đến ngỏ lời ký hợp đồng.",
+      "jpname": "モノローグ",
+      "jptext": "当然のごとく、選抜レースを終えた彼女の周りには、\n契約希望のトレーナーたちが大挙して押し寄せていた。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng——",
+      "jpname": "モノローグ",
+      "jptext": "しかし――"
+    },
+    {
+      "name": "Trainer mới vào nghề A",
+      "text": "Maruzensky, với em thì danh hiệu Tam Miện Mã Nương bất bại chẳng phải là giấc mơ viển vông đâu! Hãy cùng tôi vươn tới đỉnh cao nhé!",
+      "jpname": "新人トレーナーA",
+      "jptext": "マルゼンスキー、君なら無敗の三冠ウマ娘だって\n夢じゃないよ！　俺と一緒にでっかくなろう！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ừm, tôi cũng nghĩ to lớn là điều tốt đó, nhưng mà... tôi xin lỗi nhé. Cảm ơn vì lời mời đầy nhiệt huyết của anh.",
+      "jpname": "マルゼンスキー",
+      "jptext": "そうねぇ、大きいことはいいことだと思うけれど……ごめんなさい。\n情熱的なお誘いありがとね。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Em rồi sẽ trở thành một Mã Nương huyền thoại! Hãy để tôi giúp em khắc ghi tên mình vào trang sử vàng!!",
+      "jpname": "中堅トレーナーA",
+      "jptext": "貴方はいずれ伝説のウマ娘になるわ！\n歴史に名を刻むお手伝いを私にさせて！！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "A ha ha, nói vậy có hơi quá rồi không? Tôi thấy mình chưa đến tầm cỡ to tát thế đâu. Xin lỗi nha♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "あははっ、ちょっと大げさ過ぎない？\nそこまでの器じゃないと思うわ。ごめんね♪"
+    },
+    {
+      "name": "",
+      "text": "Dù được hàng loạt Trainer đến chiêu mộ, Maruzensky đều lịch sự từ chối tất cả.",
+      "jpname": "モノローグ",
+      "jptext": "マルゼンスキーは何人ものトレーナーに\nスカウトされつつも、全て丁寧に断っていた。"
+    },
+    {
+      "name": "Mã Nương hậu bối B",
+      "text": "Chị tiền bối... từ trước trận đua tuyển chọn đã có biết bao nhiêu Trainer ngỏ lời rồi, sao chị ấy lại từ chối hết vậy cà...?",
+      "jpname": "後輩ウマ娘B",
+      "jptext": "先輩……選抜レース前からもずーっと色んなトレーナーさんに\n声かけられてるのに、どうして全部断っちゃうんだろ……？"
+    },
+    {
+      "name": "Mã Nương hậu bối A",
+      "text": "Chắc chắn là chị ấy đang hướng tầm mắt tới những điều xa hơn, cao hơn cả kỳ vọng của các Trainer đó!",
+      "jpname": "後輩ウマ娘A",
+      "jptext": "きっと先輩はさ、トレーナーさんたちより\nもっともーっと上を見てるんだよ！"
+    },
+    {
+      "name": "Mã Nương hậu bối B",
+      "text": "R-Ra là vậy, đúng là chị ấy...! Mong sao chị ấy sớm tìm được Trainer xứng đáng để tụi mình được ngắm chị tỏa sáng rực rỡ quá...",
+      "jpname": "後輩ウマ娘B",
+      "jptext": "な、なるほど、さすが……！　早く先輩に似合うトレーナーが\n見つかって、大活躍してるところが見たいなぁ……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "..................",
+      "jpname": "マルゼンスキー",
+      "jptext": "………………。"
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc ngày hôm đó, Maruzensky đã không ký hợp đồng với bất kỳ ai.",
+      "jpname": "モノローグ",
+      "jptext": "結局その日、マルゼンスキーは誰とも契約を交わさなかった。"
+    },
+    {
+      "name": "",
+      "text": "——Vài ngày sau, vào một buổi chiều tà.",
+      "jpname": "モノローグ",
+      "jptext": "――それから数日後の夕方。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phù...",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふぅっ……。"
+    },
+    {
+      "name": "",
+      "text": "Khi tình cờ đi ngang qua đường chạy tập luyện, tôi bắt gặp Maruzensky đang sải bước với mái tóc tung bay trong gió.",
+      "jpname": "モノローグ",
+      "jptext": "偶然トレーニングコースを通りかかった時、\n髪をなびかせ走るマルゼンスキーを見かけた。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thời gian... vẫn còn kịp nhỉ. Được rồi, làm thêm một vòng nữa nào♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "時間……は、まだあるわね。\nよーし、もう1周いっちゃお♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "——Lên luônnn!!",
+      "jpname": "マルゼンスキー",
+      "jptext": "――それっ！！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hộc, hộc, hộc... Ufufu!",
+      "jpname": "マルゼンスキー",
+      "jptext": "はっ、はっ、はっ……ふふっ！"
+    },
+    {
+      "name": "",
+      "text": "Cảm xúc từng trào dâng trong trận đua tuyển chọn nay lại một lần nữa ùa về trong lòng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "選抜レースの時にも感じたことが、再び胸を過る。"
+    },
+    {
+      "name": "",
+      "text": "Em ấy, thật là——",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、なんて――"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nhanh hơn nữa... phải nhanh hơn nữa...!!",
+      "jpname": "マルゼンスキー",
+      "jptext": "もっと……もっと速く……！！"
+    },
+    {
+      "name": "",
+      "text": "Em sải bước trông mới vui vẻ và ngập tràn sảng khoái làm sao...!",
+      "jpname": "モノローグ",
+      "jptext": "なんて楽しそうに、心地よさそうに駆けるのだろう……！"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Phù, phù... Haaa. Thỏa mãn ghê cơ♪",
+      "jpname": "マルゼンスキー",
+      "jptext": "はぁっ、はぁっ……ふ～。\n満足満足♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ủa, kìa? Anh có phải là... Trainer-kun hôm trước ở chỗ trận đua tuyển chọn... đúng không nhỉ?",
+      "jpname": "マルゼンスキー",
+      "jptext": "っと、あら？　君は確か、\nこの前の選抜レース会場にいたトレーナー君……よね？"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ủa, kìa? Bạn có phải là... Trainer hôm trước ở chỗ trận đua tuyển chọn... đúng không nhỉ?",
+      "jpname": "マルゼンスキー",
+      "jptext": "っと、あら？　あなたは確か、\nこの前の選抜レース会場にいたトレーナーさん……よね？"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Chẳng lẽ là cất công tới đây để chiêu mộ sao? Fufu, đúng là người tận tụy với công việc ghê ta.",
+      "jpname": "マルゼンスキー",
+      "jptext": "もしかして、わざわざスカウトに？\nふふっ、仕事熱心なのねぇ。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thế thì, anh định nói với em những lời thế nào đây? Anh đã nhìn thấy vinh quang tương lai nào từ những bước chạy của em chăng?",
+      "jpname": "マルゼンスキー",
+      "jptext": "それで、君はどんな言葉をかけてくれるの？\nどんな未来の栄光を、あたしの走りに見たのかしら。",
+      "choice_data_list": [
+        "Không, chỉ là...",
+        "Không đâu, chỉ là..."
+      ],
+      "jpchoice_data_list": [
+        "いや、ただ……",
+        "いえ、ただ……"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Thế thì, bạn định nói với em những lời thế nào đây? Bạn đã nhìn thấy vinh quang tương lai nào từ những bước chạy của em chăng?",
+      "jpname": "マルゼンスキー",
+      "jptext": "それで、あなたはどんな言葉をかけてくれるの？\nどんな未来の栄光を、あたしの走りに見たのかしら。",
+      "choice_data_list": [
+        "Không, chỉ là...",
+        "Không đâu, chỉ là..."
+      ],
+      "jpchoice_data_list": [
+        "いや、ただ……",
+        "いえ、ただ……"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...? Chỉ là?",
+      "jpname": "マルゼンスキー",
+      "jptext": "……？　ただ？",
+      "choice_data_list": [
+        "Thấy em chạy có vẻ vui quá nên tôi mải ngắm nhìn thôi"
+      ],
+      "jpchoice_data_list": [
+        "楽しそうに走るなぁと思って見入ってたんだ"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hở? ...Chỉ có vậy thôi á?",
+      "jpname": "マルゼンスキー",
+      "jptext": "えっ？　……それだけ？"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ôi chao... thật sự chỉ có thế thôi sao? Hể...",
+      "jpname": "マルゼンスキー",
+      "jptext": "あら、まあ……本当にそれだけなの？\nへえー……。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu! Anh quả thật có chút kỳ lạ đấy nhỉ.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふふっ！　君、なんだか変わってるのね。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fufu! Bạn quả thật có chút kỳ lạ đấy nhỉ.",
+      "jpname": "マルゼンスキー",
+      "jptext": "ふふっ！　あなた、なんだか変わってるのね。"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vậy thì, em cứ việc chạy theo ý mình đây... Nếu anh muốn ngắm thì cứ tự nhiên nhé?",
+      "jpname": "マルゼンスキー",
+      "jptext": "じゃあ、あたしは好きに走っているから……\n君も、見ていたいならお好きにどうぞ？"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vậy thì, em cứ việc chạy theo ý mình đây... Nếu bạn muốn ngắm thì cứ tự nhiên nhé?",
+      "jpname": "マルゼンスキー",
+      "jptext": "じゃあ、あたしは好きに走っているから……\nあなたも、見ていたいならお好きにどうぞ？"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, tôi tiếp tục đứng dõi theo em, một cô gái đang sải bước lướt đi với tốc độ đáng kinh ngạc, nhưng lại ngập tràn niềm vui sướng...",
+      "jpname": "モノローグ",
+      "jptext": "その後もしばらく、恐るべき速さで、\nしかしながら楽しそうに駆け回る彼女を見守ったのだった……。"
+    }
+  ]
+}
