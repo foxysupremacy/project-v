@@ -1,0 +1,264 @@
+{
+  "title": "Từ Nay Xin Nhờ Anh Giúp Đỡ",
+  "jptitle": "これからどうぞ、よろしくね",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Kể từ khi ký hợp đồng với Hokko Tarumae, ngày nào chúng tôi cũng miệt mài luyện tập để chuẩn bị cho trận đua tập.",
+      "jpname": "モノローグ",
+      "jptext": "ホッコータルマエと契約を結び、\n模擬レースに向けてトレーニングを重ねる日々が続いていた。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Khả năng bộc phát, bứt tốc khi xuất phát, tăng cường thể lực... Vâng, đúng là những thứ em đang rất cần vào lúc này ạ.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "瞬発力、スタートダッシュ、スタミナ強化……。\nうん、たしかに今の私に必要なものです。",
+      "choice_data_list": [
+        "Cùng rèn luyện thật tốt và nhất định phải thắng nhé!"
+      ],
+      "jpchoice_data_list": [
+        "鍛え上げて、必ず勝とう！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vâng ạ! Em đi tập đây!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はいっ！　行ってきます！"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, vài ngày sau――",
+      "jpname": "モノローグ",
+      "jptext": "そして、数日後――"
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "――Đã xuất phát! Hokko Tarumae đã có một cú xuất phát thuận lợi từ phía đường trong!",
+      "jpname": "イベント実況",
+      "jptext": "――スタートしました。\nホッコータルマエが、内から好スタート！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hà, hà, hà!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はぁ、はぁ、はぁっ！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Chọn vị trí tốt. Đúng như những gì đã luyện tập... Bây giờ thì cứ giữ vững vị trí này đã!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（位置取りよし。\nトレーニング通り……今はとにかく、ここをキープ！）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Phải thắng... Mình phải chiến thắng để trở thành một người có thể ngẩng cao đầu trước bà con Tomakomai!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（勝つんだ……勝って、\n苫小牧に胸を張れるような私に――なるんだ！）"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Dạ? Quán này cũng đóng cửa sao ạ? Cháu thích nhất là suất cơm nghêu Hokki ở đây cơ mà...",
+      "jpname": "数年前のタルマエ",
+      "jptext": "え？　ここのお店も畳んじゃうの？\nホッキご飯定食、大好きなのに……。"
+    },
+    {
+      "name": "Người phố mua sắm Tomakomai",
+      "text": "Ừ. Bác cũng thấy áy náy với bé Tarumae và khách quen lắm, nhưng dạo này vắng khách quá. Đã đến lúc phải nghỉ rồi cháu ạ.",
+      "jpname": "苫小牧の商店街の人",
+      "jptext": "うん。タルマエちゃんや常連さんには申し訳ないんだけど、\n最近、お客さんが少なくてねぇ。もう潮時だべさ。"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Sao lại thế... K-Kìa bác! Nếu như đông khách trở lại thì bác không đóng cửa nữa có được không ạ!?",
+      "jpname": "数年前のタルマエ",
+      "jptext": "そんな……。\nね、ねえ！　もしもお客さんが増えたら、お店、畳まない！？"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Cháu là Hokko Tarumae đây ạ! Mọi người ơi, mọi người có biết 'Suất cơm nghêu Hokki' siêu ngon ở Tomakomai không nào?",
+      "jpname": "数年前のタルマエ",
+      "jptext": "ホッコータルマエです！　みんな、苫小牧にある、\nとびっきりおいしい『ホッキご飯定食』って、知ってる～？"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Hôm nay, vì muốn mọi người biết đến sức hút tuyệt hảo của món ăn này, sau buổi biểu diễn cháu xin phép được làm một bài trải nghiệm ẩm thực đặc biệt ạ♪",
+      "jpname": "数年前のタルマエ",
+      "jptext": "今日はね、みんなにその味の魅力を知ってほしくって、\nライブの後に、特別に食レポをさせてもらうことにしました♪"
+    },
+    {
+      "name": "Người phố mua sắm Tomakomai",
+      "text": "Chà... quán thực sự đông khách lên nhiều lắm đấy. Cảm ơn cháu nhiều nhé, bé Tarumae.",
+      "jpname": "苫小牧の商店街の人",
+      "jptext": "まぁ……本当にお客さんが増えちゃうなんてねぇ。\nありがとうね、タルマエちゃん。"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Fufu, may quá rồi! Thế này là ổn thỏa cả rồi đúng không ạ?",
+      "jpname": "数年前のタルマエ",
+      "jptext": "ふふ、よかった！\nこれで一件落着、かな？"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Lâu lắm rồi mới lại được ăn suất cơm nghêu Hokki, mong chờ quá đi mất. ――Ủa? Gì thế này?",
+      "jpname": "数年前のタルマエ",
+      "jptext": "久しぶりのホッキご飯定食、楽しみだなぁ。\n――え？　あれ？"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "............",
+      "jpname": "数年前のタルマエ",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Tarumae vài năm trước",
+      "text": "Quán ăn... biến mất rồi...",
+      "jpname": "数年前のタルマエ",
+      "jptext": "お店……なくなってる……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Hức!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "…………っ！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Phục hưng một vùng quê quả thực quá khó khăn. Dù có khuấy động lên được nhất thời, làn sóng người rồi cũng nhanh chóng rút đi――)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（地域復興って、難しい。\n一時的に盛り上げても、すぐに人の波は引いていくし――）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Cần có cả kiến thức, nỗ lực duy trì bền bỉ và cả niềm đam mê cháy bỏng. Nhưng cho dù có như vậy, cũng chưa chắc đã ngăn chặn được sự suy tàn...!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（知識も、継続するための努力も、情熱も必要。\nでも、それでも、衰退を絶対に止められるわけじゃない……！）"
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "Hokko Tarumae đang ở vị trí thứ 3, thứ 4―― Đã qua mốc 200m cuối, nhóm dẫn đầu đang bứt phá cách biệt 2 rồi 3 thân ngựa!",
+      "jpname": "イベント実況",
+      "jptext": "ホッコータルマエ3、4番手――\n先頭200を切って、2バ身3バ身突き放す！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Nhưng mà, chính vì thế... mình tuyệt đối không muốn bỏ cuộc!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（だけど、だからって……諦めたくなんかないんだ！）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Dù mọi chuyện hoàn toàn không suôn sẻ, dù ngày nào cũng chỉ toàn kiểm điểm bản thân―― mình cũng sẽ không nao núng, không do dự nữa!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（全然上手くいかなくても、毎日反省ばっかりでも――\nもう弱気にならない、迷ったりしない！）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Chính mình sẽ mang Tomakomai... mang ánh sáng rực rỡ của Tomakomai!)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（私が、苫小牧を……苫小牧の輝きを！）"
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "Hokko Tarumae đã vươn lên vị trí thứ 2! Hokko Tarumae đang áp sát!",
+      "jpname": "イベント実況",
+      "jptext": "ホッコータルマエが2番手に上がってきた！\nホッコータルマエ接近！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Gửi gắm đến cho mọi ngườiii―――!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "伝えるんだぁあああ―――ッ！"
+    },
+    {
+      "name": "Bình luận viên sự kiện",
+      "text": "Hokko Tarumae đã bắt kịp! Cán đích!",
+      "jpname": "イベント実況",
+      "jptext": "ホッコータルマエ、捕らえた！　ゴールイン！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hà, hà, hà, hà...! ...Hức!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はぁ、はぁ、はぁ、はぁ……っ！\n……っ！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――E-Em là Hokko Tarumae, đến từ Tomakomai ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――っ、とっ、苫小牧からやってきた、ホッコータルマエです！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Một Tomakomai ấm áp và chan chứa biết bao nét quyến rũ...! Rất mong nhận được sự ủng hộ của mọi người ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "あったかくて、魅力がいっぱいの、苫小牧……っ！\nどうぞ、よろしくお願いしますっ！"
+    },
+    {
+      "name": "Khán giả A",
+      "text": "Cái nơi con bé đó nói... Toma... komai sao? Ở đâu nhỉ? Cậu biết không?",
+      "jpname": "観客A",
+      "jptext": "あの子の言ってる、……とま、こまい？\nどこだろう？　知ってる？"
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Hình như tớ từng nghe tên rồi thì phải. Nhớ không lầm là một thị trấn ở Hokkaido hay sao ấy? ...Để tra thử xem.",
+      "jpname": "観客B",
+      "jptext": "名前は聞いたことあるかも。\nたしか北海道にある町じゃなかったかな？　……調べてみよう。"
+    },
+    {
+      "name": "",
+      "text": "Ngày hôm sau. Hokko Tarumae ghé thăm phòng Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "翌日。\nホッコータルマエがトレーナー室に訪ねてきた。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Em xin lỗi anh ạ! Giờ nghĩ lại thì hôm qua em đã gần như ép buộc anh ký hợp đồng quản lý trong lúc bốc đồng mất rồi...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "すみませんでした！　今思えば半ば無理やり、\n勢いで担当契約を結ばせてしまったなって……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Nhưng nhờ có anh đã đánh thức em, em mới thực sự nhận ra rõ ràng những điều mình cần phải làm...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "でも、あなたが私の目を覚まさせてくれたおかげで、\n私、自分のやるべきことがきちんとわかったっていうか……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cả trong trận đua em cũng có thể tập trung toàn bộ tâm trí vào khát khao chiến thắng... Vì vậy, ừm thì――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "レースでも、勝つぞって気持ちに集中できて……\nだから、その――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Em cảm thấy nếu là cùng anh, em có thể trở thành một idol địa phương thực thụ. ...Hơn nữa anh cũng rất thích quả Hasukup nữa.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "……あなたとならいいロコドルになれそうな気がしているんです。\n……ハスカップも、好きでいてくれていますし。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "A! Ý-Ý em là, ừm thì tóm lại là! Lý do hôm nay em đến đây chính là――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "あ！　ええっと、だから、その、つまり！\nなにをしに来たのかっていうと――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Dù hơi muộn một chút.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "……少し遅くなってしまったんですが。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Xin được chào anh một lần nữa, em là Hokko Tarumae. Từ nay về sau, xin anh hãy giúp đỡ em thật nhiều ạ.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "改めまして、ホッコータルマエです。\nこれから、どうぞよろしくお願いします。"
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng đứng dậy, cung kính đón nhận bằng cả hai tay. Trên tấm danh thiếp được trao, in hình ngọn núi lửa uy nghiêm đang nghi ngút khói trắng―― Núi Tarumae.",
+      "jpname": "モノローグ",
+      "jptext": "慌てて立ち上がり、両手で頂戴する。差し出された名刺には、\n白煙の昇る荘厳な火山――樽前山が載っていたのだった。"
+    }
+  ]
+}

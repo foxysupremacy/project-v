@@ -1,0 +1,436 @@
+{
+  "title": "Nếu Cùng Anh, Mãi Mãi Về Sau",
+  "jptitle": "あなたとなら、いつまでも",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đợt tập huấn mùa hè thường niên. Hôm nay tôi đã dành riêng ra nửa ngày rảnh rỗi. Đó là để thực hiện một kế hoạch đã định sẵn.",
+      "jpname": "モノローグ",
+      "jptext": "毎年恒例の夏合宿。今日は半日、空き時間を作っておいた。\nというのも、ある計画を実行するためだ。",
+      "choice_data_list": [
+        "Cùng anh đi quan sát thiên nhiên nhé!"
+      ],
+      "jpchoice_data_list": [
+        "一緒にネイチャーウォッチングに行こう！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Đi quan sát thiên nhiên sao ạ? Em lại không am hiểu nhiều về thiên nhiên quanh vùng này lắm...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "ネイチャーウォッチング、ですか？\n私、この辺の自然にはあまり詳しくないんですが……。",
+      "choice_data_list": [
+        "Anh sẽ hộ tống em!",
+        "Tôi sẽ hộ tống bạn!"
+      ],
+      "jpchoice_data_list": [
+        "俺がエスコートするよ！",
+        "私がエスコートするよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước tiên, tôi dẫn cô bé vào vùng rừng núi. Tuyến đường men theo vừa ngắm nhìn cỏ cây muông thú, rồi lần theo con suối nhỏ dẫn ra bờ biển―― Tôi nhất định phải hướng dẫn thật an toàn để em ấy tận hưởng trọn vẹn chuyến đi!",
+      "jpname": "モノローグ",
+      "jptext": "まずは山林に案内する。動植物を眺めながら進み、渓流を辿って\n浜へ出るルート――しっかり安全に、楽しんでもらわなくては！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vùng này có nhiều chủng loại thực vật phong phú thật đấy ạ... Không khí cũng trong lành nữa. Chắc sẽ rất thích hợp để xả hơi thư giãn đây.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "この辺、植物の種類がすごく多いですね……\n空気もおいしいです。息抜きにはぴったりかも。",
+      "choice_data_list": [
+        "Bất ngờ có một câu đố đây! Đố em cây này là cây gì nào!"
+      ],
+      "jpchoice_data_list": [
+        "突然ですが問題！この木は何の木でしょう！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Dạ, cái cây đang kết quả màu xanh này sao ạ?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "えっ、この青い実がなってる木ですか？"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Để xem nào... A, nếu em nhớ không lầm thì đây là cây hồng đúng không ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "えっと……あ、これ柿ですよね、たしか！",
+      "choice_data_list": [
+        "Chính xác tuyệt đối! Quả nhiên là em am hiểu thật đấy",
+        "Chính xác tuyệt đối! Quả nhiên là bạn am hiểu thật đó"
+      ],
+      "jpchoice_data_list": [
+        "大正解！さすが、詳しいな",
+        "大正解！さすが、詳しいね"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ehehe. Nhưng em lại không quen nhìn cho lắm... Hôm nay được tận mắt thấy em vui lắm luôn ạ! Bởi vì ở Hokkaido không có cây hồng mọc tự nhiên.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "えへへ。でもあまり見慣れてはなくて……今日見られて嬉しいです！\n北海道には柿の木って、自生しないので。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Ra là vậy, đã đến mùa cây kết trái rồi cơ đấy. Đến mùa thu quả sẽ chuyển sang màu cam rực rỡ tuyệt đẹp đúng không ạ... Fufu, thú vị thật đấy.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "……そっかぁ、もう実がなってるくらいの時期なんだ。\n秋には綺麗なオレンジになるんですよね……ふふ、おもしろいなぁ。"
+    },
+    {
+      "name": "",
+      "text": "Hokko Tarumae vừa quan sát cây hồng với đôi mắt lấp lánh rạng rỡ. Có vẻ như cô bé đã hoàn toàn bị cuốn hút bởi những loài thực vật chưa từng thấy trước đây!",
+      "jpname": "モノローグ",
+      "jptext": "瞳をきらきらさせながら、柿の木を観察するホッコータルマエ。\n見慣れない植物に、すっかり夢中になってくれているようだ！"
+    },
+    {
+      "name": "",
+      "text": "Tiếp theo là khu vực dọc theo con suối nhỏ. Nghe nói quanh đây có rất nhiều cơ hội bắt gặp động vật hoang dã và chim muông...",
+      "jpname": "モノローグ",
+      "jptext": "次は渓流沿いのエリアだ。この辺りは\n動物や野鳥の目撃チャンスが多いらしいのだが……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――A, hình như em vừa nghe thấy tiếng chim hót... Có phải đằng kia không nhỉ, một màu xanh lam tuyệt đẹp...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――あ、今、鳥の鳴き声が……。\nあれかな、綺麗な青色……。",
+      "choice_data_list": [
+        "Đó là chim đớp ruồi lưng xanh đấy em",
+        "Đó là chim đớp ruồi lưng xanh đấy bạn"
+      ],
+      "jpchoice_data_list": [
+        "あれはオオルリだな",
+        "あれはオオルリだね"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "A, đúng thật rồi! Ra là ở vùng này cũng có loài chim ấy...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "あ、ほんとですね！　そっか、この辺にもいるんだ……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ở Hokkaido cũng có, nhưng hiếm gặp lắm luôn ạ! Em toàn chỉ nghe thấy tiếng hót thôi...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "北海道にもいるんですけど、すごく珍しくて！\n声しか聴けないことばかりだったから……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Được nhìn thấy rõ ràng thế này quả thật là hiếm có! Fufu... hiếm hoi lắm mới có dịp, chúng ta cùng chụp ảnh đi anh!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "こんなにはっきり姿が見られるなんて、なかなかないです！\nふふっ……せっかくですし、写真撮りましょう！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Oa! Anh nhìn kìa! Từ trong tổ, những chú chim non đang cất cánh bay――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "わぁ！　見てください！\n巣から小鳥たちが、飛び立って――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "A――! ...Chú chim kia hình như không bay lên nổi.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "あっ――！　……あの子、上手く飛べないみたい。",
+      "choice_data_list": [
+        "Lo thật đấy em nhỉ",
+        "Lo thật đấy bạn nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "心配だな",
+        "心配だね"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "! Trainer-san, chỗ này thì――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "！　トレーナーさん、ここは――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Thực vật trên núi có những loại chỉ cần chạm vào thôi cũng rất nguy hiểm. Lại còn có cả những loài côn trùng có độc nữa.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "山の植物には、触るだけで危険なものもあるんです。\n毒を持った虫だっている。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Đương nhiên chuyện hái mang về lại càng không được chấp nhận...! Xét từ góc độ bảo vệ hệ sinh thái thì đó là điều tuyệt đối không được làm đâu ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "もちろん、摘んで帰るなんてもってのほか……！\n生態系保護の観点からしても、絶対にしてはいけないことです！"
+    },
+    {
+      "name": "",
+      "text": "'A-Anh xin lỗi! Anh hấp tấp quá!'",
+      "jpname": "モノローグ",
+      "jptext": "『ご、ごめん！　軽率だった！』"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "...Hức... Ơ, ừm thì... Chuyện đó...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "……っ……え、えっと……。\n……その……。",
+      "choice_data_list": [
+        "Hãy cầu chúc cho chú chim tự cất cánh bay lên và cùng dõi theo nhé em"
+      ],
+      "jpchoice_data_list": [
+        "自力で飛び立てるのを祈って、見守ろう"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Dạ? ...A... v-vâng ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "えっ？　……あ……は、はい！"
+    },
+    {
+      "name": "",
+      "text": "Hai chúng tôi lặng lẽ, chăm chú dõi theo. Chú chim nhỏ chật vật một hồi lâu rồi――",
+      "jpname": "モノローグ",
+      "jptext": "2人で静かに、じっと見守る。しばらくもがいていた野鳥は――"
+    },
+    {
+      "name": "",
+      "text": "(Chíp chíp chíp――, Chiiiii!)",
+      "jpname": "モノローグ",
+      "jptext": "（ピチチッ――、ピィイ～！）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Hoan hô! Bay lên được rồi!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――やったぁ！　飛べた！",
+      "choice_data_list": [
+        "Tốt quá rồi em ơi!",
+        "Tốt quá rồi bạn ơi!"
+      ],
+      "jpchoice_data_list": [
+        "よかったな！",
+        "よかったね！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vâng ạ, thật là may quá đi mất...! ――Fufu, đây chính là điều tuyệt vời nhất của thiên nhiên đúng không anh.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はいっ、ほんとによかった……！\n――ふふ、これこそ自然の醍醐味、ですよね。"
+    },
+    {
+      "name": "",
+      "text": "Đi xuống hết con đường mòn trên núi, chúng tôi bước ra bờ biển cát trắng. Nơi cuối cùng tôi muốn dẫn cô bé đến chính là――",
+      "jpname": "モノローグ",
+      "jptext": "山道を降りて、砂浜へ出てきた。\n最後に案内するのは――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ở đây lại có một hang động thế này sao...! Ngày nào cũng tập luyện bên bãi biển mà em chẳng hề nhận ra.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "こんな洞窟があったんですね……！\n毎日浜でトレーニングしてたのに、気づきませんでした。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Oa, tối om luôn này...! Những lúc thế này phải đợi cho mắt quen dần với bóng tối đã――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "わ、真っ暗ですね……！\nこういう時は、目が慣れるのを待って――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bên trong hang động mát mẻ và lành lạnh thật đấy... Dưới chân cũng gồ ghề nữa...!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "洞窟って、けっこうひんやりしてて涼しいですね……。\n足元も、でこぼこ……！",
+      "choice_data_list": [
+        "Chỗ đó có bậc mấp mô nên em cẩn thận nhé"
+      ],
+      "jpchoice_data_list": [
+        "そこ、段差があるから気をつけて"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vâng ạ, em cảm ơn anh nhiều...! A, đằng trước là góc cua rồi. Cẩn thận bước qua nào――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はいっ、ありがとうございます……！\nあ、この先、曲がり角ですね。よいしょっと――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Oa! ...Tuyệt quá, cứ như một bầu trời đầy sao vậy...!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――わぁ！\n……すごい、星空みたい……！"
+    },
+    {
+      "name": "",
+      "text": "Dường như do sự phản chiếu của ánh sáng mặt trời kết hợp cùng hình thù của những khối thạch nhũ mà tạo nên cảnh tượng ngoạn mục đến nhường này.",
+      "jpname": "モノローグ",
+      "jptext": "太陽の光の反射や、鍾乳石の形などの関係で\nこのような絶景ができあがっているらしい。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Đây hoàn toàn là do tự nhiên tạo nên đúng không ạ... Thực sự tuyệt vời quá đi mất...! Huyền ảo như không phải ngoài đời thực... Cứ như một thế giới hoàn toàn tách biệt vậy ạ.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "自然にできたものってことですよね……本当にすごいです……！\n幻想的で、現実じゃないみたい……まさに非日常ですね。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Fufu, em mê thiên nhiên ở nơi này mất rồi.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――ふふ、私、ここの自然大好きになっちゃいました。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Có bao nhiêu điều em chưa từng nhìn thấy bao giờ, nhưng lại có cảm giác thân thuộc đến lạ kỳ... Thực sự thú vị lắm luôn!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "見たこともないものがいっぱいで、\nでもどこか親近感もあって……とっても面白くって！",
+      "choice_data_list": [
+        "Vậy thì tốt quá rồi, đại thành công!",
+        "Vậy thì tốt quá rồi, đại thành công nha!"
+      ],
+      "jpchoice_data_list": [
+        "それはよかった、大成功だ！",
+        "それはよかった、大成功だね！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hả...?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "へ……？"
+    },
+    {
+      "name": "",
+      "text": "Thực ra chuyến đi quan sát thiên nhiên ngày hôm nay chính là buổi thuyết trình kế hoạch mà tôi dành cho Hokko Tarumae.",
+      "jpname": "モノローグ",
+      "jptext": "実は今日のネイチャーウォッチングは、\nホッコータルマエへの企画プレゼンだった。"
+    },
+    {
+      "name": "",
+      "text": "Lời khuyên cô bé dành cho tôi trong lúc lên ý tưởng thu hút khách du lịch đến với Tomakomai. Từ đó, tôi đã nảy ra sáng kiến tự mình đứng ra tổ chức một sự kiện.",
+      "jpname": "モノローグ",
+      "jptext": "苫小牧への集客アップの案を企画中に、彼女からもらった助言。\nそこから、自前でイベントの主催をすることを思いついたのだ。"
+    },
+    {
+      "name": "",
+      "text": "Người dẫn dắt giới thiệu nét quyến rũ dồi dào của thiên nhiên Tomakomai―― không ai khác chính là cô bé. Chắc chắn sẽ là một chuyến tham quan vừa an toàn lại vừa học hỏi được rất nhiều điều bổ ích.",
+      "jpname": "モノローグ",
+      "jptext": "魅力たっぷりの苫小牧の自然を案内するのは――彼女。\n安全で学びの多い案内になること、間違いなしだ。"
+    },
+    {
+      "name": "",
+      "text": "Với sự hướng dẫn hoàn hảo mang lại trải nghiệm thiên nhiên tuyệt vời... Ắt hẳn bất kỳ ai cũng sẽ trở thành người hâm mộ của Tomakomai. Giống hệt như cô bé lúc này vậy!",
+      "jpname": "モノローグ",
+      "jptext": "完璧な案内で、素晴らしい自然体験を提供すれば……\n誰もが苫小牧のファンになってくれるはずだ。今の彼女のように！",
+      "choice_data_list": [
+        "Em thấy thế nào...?"
+      ],
+      "jpchoice_data_list": [
+        "どうかな……？"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Trainer-san...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "トレーナーさん……。"
+    },
+    {
+      "name": "",
+      "text": "'Trái lại anh còn rất khâm phục và học hỏi được nhiều điều nữa cơ.'",
+      "jpname": "モノローグ",
+      "jptext": "『感心したし、勉強になったくらいだよ』"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "(Đúng rồi... Trainer-san lúc nào cũng luôn đón nhận mọi chuyện với thái độ tích cực――)",
+      "jpname": "ホッコータルマエ",
+      "jptext": "（そうだった……トレーナーさんは、\nいつだって前向きに受け止めてくれて――）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Chúng ta cùng làm nhé, sự kiện quan sát thiên nhiên ấy ạ. Và đã làm thì nhất định phải biến nó thành một sự kiện thật hoàn hảo!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――やりましょう、ネイチャーウォッチングイベント。\nそしてやるからには、完璧なイベントにしましょう！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Phải nhờ sự hợp tác của bà con địa phương nữa, rồi phải đảm bảo đủ lượng nhân sự hướng dẫn viên du lịch...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "地元の人たちにも協力を仰いで、\nガイドの人員も十分に確保しなくちゃですし……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ngoài ra, cũng phải làm một cuốn cẩm nang hướng dẫn thật chu đáo cho du khách nữa! Những trang bị cần thiết, các quy tắc an toàn cơ bản, việc hướng dẫn trước là vô cùng thiết yếu mà.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "あと、お客さん向けにもしっかりガイド本を作らなきゃ！\n必要な装備とか、基本の注意点とか、事前案内は必須ですし。",
+      "choice_data_list": [
+        "Sắp bận rộn lắm đây em!",
+        "Sắp bận rộn lắm đây bạn!"
+      ],
+      "jpchoice_data_list": [
+        "忙しくなるな！",
+        "忙しくなるね！"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Vâng ạ! ――Fufu, Trainer-san tuyệt thật đấy ạ.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "はい！　――ふふ、トレーナーさんはすごいですね。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Dù em có nói bất cứ điều gì đi chăng nữa... anh cũng luôn đón nhận thẳng thắn và nhìn nhận theo hướng tích cực.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "私がなにを言っても……\nいつも真正面から受け止めて、前向きに捉えてくれる。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cho dù em có suy nghĩ quá nhiều, hay lỡ lời nói những câu gay gắt. Anh đều dẫn lối cho tất cả... tất cả hướng đến điều tốt đẹp và tỏa sáng rực rỡ. Vì vậy――",
+      "jpname": "ホッコータルマエ",
+      "jptext": "私が考え込みすぎてても、きついことを言っちゃっても。\n全部全部……いい方向に導いて、素敵に輝かせてくれる。だから――"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Chỉ cần là ở bên cạnh Trainer-san, em cảm thấy mình cứ sống thật với bản thân... cứ tiếp tục nghiêm túc như thế này cũng không sao cả.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "トレーナーさんと一緒なら私、素のままで……\n真面目なままでいいんだって思えるんです。",
+      "choice_data_list": [
+        "Nghiêm túc chính là điểm đáng quý của em mà",
+        "Nghiêm túc chính là điểm đáng quý của bạn mà"
+      ],
+      "jpchoice_data_list": [
+        "真面目なのは、君の美点だからな",
+        "真面目なのは、貴方の美点だからね"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Ehehe. Cả trên đường đua lẫn làm idol địa phương, em đều sẽ nghiêm túc nỗ lực hết mình! Trainer-san cũng phải nghiêm túc đồng hành cùng em đấy nhé?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――えへへ。レースもロコドルも、真面目にがんばりますよ！\nトレーナーさんも、真面目に付き合ってくださいね？"
+    },
+    {
+      "name": "",
+      "text": "Cả trong các trận đua lẫn hành trình idol địa phương, hai người chung một lòng―― Một lần nữa cảm nhận được sự đồng điệu trong tâm hồn, tôi chỉ muốn tận hưởng khoảnh khắc này thêm một chút nữa.",
+      "jpname": "モノローグ",
+      "jptext": "レースもロコドルも、二人三脚で――改めて心が1つになった\n気がして、この時間をもう少し味わっていたくなる。",
+      "choice_data_list": [
+        "Hay là chúng ta ngắm thêm một lúc nữa nhé em"
+      ],
+      "jpchoice_data_list": [
+        "もう少し――このまま見ていようか"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "――Dạ không, chúng ta mau về thôi ạ! Sắp đến lúc thủy triều lên rồi, sẽ ngày càng nguy hiểm lắm đấy ạ!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "――いえ、帰りましょう！\n満潮も近いですし、どんどん危険になっちゃいますから！"
+    },
+    {
+      "name": "",
+      "text": "...Quả nhiên ở đây, an toàn vẫn là trên hết! Để kịp về trước khi thủy triều dâng, hai chúng tôi rảo bước thật nhanh băng qua bờ cát.",
+      "jpname": "モノローグ",
+      "jptext": "……やはりここは、安全第一！　潮が満ちる前に帰れるよう、\n2人で砂浜をキビキビと歩いたのだった。"
+    }
+  ]
+}
