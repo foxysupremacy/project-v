@@ -1,0 +1,428 @@
+{
+  "title": "Ý hợp tâm đầu",
+  "jptitle": "意氣相投",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sau buổi tập trong kỳ trại hè huấn luyện, tôi bị Satono Crown gọi giật lại bảo có chuyện muốn nói.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿のトレーニング後、サトノクラウンに\n話があると呼び止められた。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Được chứ? Câu hỏi tôi sắp hỏi sau đây, anh hãy trả lời bằng chính suy nghĩ thật lòng của mình nhé?",
+      "jpname": "サトノクラウン",
+      "jptext": "いいかしら？　これから尋ねることには、\nあなたの正直な本心で、答えてちょうだいね？"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Trainer. Liệu anh... có hứng thú với phía bên kia đại dương không?",
+      "jpname": "サトノクラウン",
+      "jptext": "……トレーナー。\nあなたは……海の向こうに興味はあるかしら？",
+      "choice_data_list": [
+        "Phía bên kia đại dương...?"
+      ],
+      "jpchoice_data_list": [
+        "海の向こう……？"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Sau buổi luyện tập khắc nghiệt ở trại hè huấn luyện, đưa ra một câu nói ẩn ý về việc vươn ra biển lớn hải ngoại...)",
+      "jpname": "サトノクラウン",
+      "jptext": "（夏合宿の過酷なトレーニングを行ったあとに、\n海外への挑戦を匂わせる発言……）"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Thêm vào đó, chuyện mình sắp đi Hồng Kông thì anh ấy cũng đã biết từ đợt đi mua sắm cùng rồi)",
+      "jpname": "サトノクラウン",
+      "jptext": "（加えて、私が香港へ行くということは、買い出しに\nついて来ていたのだから、既知の情報でもあるわ）"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Tốt! Mình phục mình thật đấy, hoàn hảo luôn! Thế này thì ý muốn cùng nhau tới Hồng Kông của mình chắc chắn đã được truyền đạt rồi...!)",
+      "jpname": "サトノクラウン",
+      "jptext": "（好！　我ながら、完璧ね！　これで、一緒に香港へ\n行きたいという、私の想いも伝わったはず……っ！）",
+      "choice_data_list": [
+        "Ừm..."
+      ],
+      "jpchoice_data_list": [
+        "うーん……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cất công đợi sau buổi tập mới hỏi thế này, hẳn là chuyện tâm sự riêng tư chăng.",
+      "jpname": "モノローグ",
+      "jptext": "わざわざトレーニング後に聞くということは、\nプライベートな相談だろうか。"
+    },
+    {
+      "name": "",
+      "text": "Phía bên kia đại dương... chuyện du lịch sao...? Nếu là vậy thì sắp tới tôi chẳng có kế hoạch nào cả. Vậy thì lúc này――",
+      "jpname": "モノローグ",
+      "jptext": "海の向こう……旅行の話……？\nだとすれば直近で行く予定はなかった。となれば今は――"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Nào, Trainer! Hãy cùng đi thôi――đến Hồng Kông!)",
+      "jpname": "サトノクラウン",
+      "jptext": "（さあ、トレーナー！　一緒に行きましょう――香港へ！）",
+      "choice_data_list": [
+        "Chắc anh không có ý định đi đâu"
+      ],
+      "jpchoice_data_list": [
+        "行く気はないかな"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "What!? Không, nhưng mà―――― ............",
+      "jpname": "サトノクラウン",
+      "jptext": "What!?　いや、でも――――\n…………っ。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Không được... tuyệt đối không được ép buộc anh ấy...)",
+      "jpname": "サトノクラウン",
+      "jptext": "（いえ……無理強いは駄目よ、絶対……）"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "............Ra vậy. Đành chịu thôi nhỉ. ...Cảm ơn anh.",
+      "jpname": "サトノクラウン",
+      "jptext": "…………そう。\nしょうがないわよね。……ありがとう。",
+      "choice_data_list": [
+        "...?"
+      ],
+      "jpchoice_data_list": [
+        "……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hiếm khi thấy cô ấy trĩu nặng ưu tư như vậy. Đã có chuyện gì xảy ra chăng... Tạm thời mình cứ dõi theo cô ấy xem sao.",
+      "jpname": "モノローグ",
+      "jptext": "珍しく思い悩んでいるようだ。\n何かあったのだろうか……しばらく注視しておくとしよう。"
+    },
+    {
+      "name": "",
+      "text": "Vừa nghĩ ngợi như vậy tôi vừa tới phòng ăn tối. Thế nhưng... lại không thấy bóng dáng Satono Crown đâu cả.",
+      "jpname": "モノローグ",
+      "jptext": "そんなことを思いながら、夕食に参加したのだが。\n……サトノクラウンが見当たらない。"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "...Chị Crown sao ạ? Để xem... ủa lạ nhỉ? Tụi em vừa cùng rời khỏi phòng sinh hoạt chung cơ mà ta?",
+      "jpname": "ウマ娘A",
+      "jptext": "……クラちゃんですか？　えーっと……あれ？\n大部屋は一緒に出たんですけどねぇ？"
+    },
+    {
+      "name": "",
+      "text": "Nếu không có trong phòng lớn... thì có khả năng cô ấy đã ra ngoài. Liệu cô ấy có nói trước là sẽ đi đâu không nhỉ――",
+      "jpname": "モノローグ",
+      "jptext": "大部屋にはいないとなると……外に行っている可能性もある。\n彼女はどこかに行くと、言っていなかっただろうか――",
+      "choice_data_list": [
+        "(Nước ngoài...?)"
+      ],
+      "jpchoice_data_list": [
+        "（海外……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhắc mới nhớ, lúc ở bãi biển nói về chuyện ra nước ngoài, trông cô ấy như đang trăn trở điều gì đó...",
+      "jpname": "モノローグ",
+      "jptext": "そういえば、ビーチで海外旅行の話をしながら、\n彼女は何か、思い悩んでいる様子であった……。",
+      "choice_data_list": [
+        "(Có khi nào...)"
+      ],
+      "jpchoice_data_list": [
+        "（もしかしたら……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có lẽ cô ấy đang ngồi trầm tư ở chính bãi biển ban trưa. Nghĩ vậy, tôi rảo bước ra bờ biển đêm. Và rồi――",
+      "jpname": "モノローグ",
+      "jptext": "昼と同じビーチで、悩んでいるのかもしれない。\nそう思い至り、夜のビーチへ足を運んだ。すると――"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Trainer.",
+      "jpname": "サトノクラウン",
+      "jptext": "……トレーナー。",
+      "choice_data_list": [
+        "Anh tìm em mãi đấy",
+        "Tôi tìm bạn mãi đấy"
+      ],
+      "jpchoice_data_list": [
+        "捜したぞ",
+        "捜したよ"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Sorry. Em chỉ muốn ra hóng gió đêm một chút thôi...",
+      "jpname": "サトノクラウン",
+      "jptext": "Sorry.　ちょっと、夜風に当たりたくて……。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Quả nhiên... Dù mình có ở nơi đâu thì Trainer cũng luôn tìm thấy mình...)",
+      "jpname": "サトノクラウン",
+      "jptext": "（やっぱり。トレーナーはどこに行っても、\n見つけてくれるのね……）",
+      "choice_data_list": [
+        "Em có chuyện gì phiền lòng sao?",
+        "Bạn có chuyện gì phiền lòng sao?"
+      ],
+      "jpchoice_data_list": [
+        "何か悩み事でもあるのか？",
+        "何か悩み事でもあるの？"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "! ............",
+      "jpname": "サトノクラウン",
+      "jptext": "！　…………。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "(Anh ấy đã nhận ra. Chúng mình thực sự hiểu nhau. Anh ấy cũng rất tin tưởng mình... điều đó là không thể nghi ngờ)",
+      "jpname": "サトノクラウン",
+      "jptext": "（気づいてくれてる。ちゃんと通じ合えている。\n私を、信頼もしてくれている……それは間違いない）"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "…………",
+      "jpname": "サトノクラウン",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "............Kỳ nghỉ dài sắp tới, em dự định sẽ về Hồng Kông.",
+      "jpname": "サトノクラウン",
+      "jptext": "…………今度の長期休みに、香港へ行く予定なの。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Vừa phụ giúp công việc kinh doanh của ba, vừa luyện tập ở khu phức hợp chuyên dụng của gia tộc Satono bên đó.",
+      "jpname": "サトノクラウン",
+      "jptext": "パパのビジネスを手伝いながら、\n向こうのサトノ家専用施設でトレーニングしたりとかね。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Chỉ là, thực lòng thì――",
+      "jpname": "サトノクラウン",
+      "jptext": "ただ本当は――"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Em muốn đi cùng với anh cơ.",
+      "jpname": "サトノクラウン",
+      "jptext": "トレーナーと一緒に行きたかったの。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Fufu. Thậm chí em còn lên lịch trình với tiền đề là anh sẽ đi cùng nữa chứ...",
+      "jpname": "サトノクラウン",
+      "jptext": "ふふっ。一緒に行く前提で、予定まで立てちゃって……。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Được anh kèm cặp luyện tập chuyên sâu. Đi xem các trận đua ở Hồng Kông. ...Nếu có thể thì tham gia tranh tài một trận cũng tuyệt nhỉ.",
+      "jpname": "サトノクラウン",
+      "jptext": "集中的にトレーニングをつけてもらって。\n香港のレースを観に行って。……可能なら、出走するのもありよね。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Rồi còn... cùng anh ngắm phong cảnh, ghé thăm tiệm của ba............",
+      "jpname": "サトノクラウン",
+      "jptext": "それから……トレーナーと一緒に景色を見て、\nパパのお店にも行って…………。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "I know. Em đang nói những lời quá đỗi ích kỷ đúng không...",
+      "jpname": "サトノクラウン",
+      "jptext": "I know.　すごい勝手なことを言ってるわよね……。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Chẳng thèm hỏi qua ý kiến của anh, cứ tự mình nuôi nấng những mong muốn riêng...",
+      "jpname": "サトノクラウン",
+      "jptext": "あなたの意見も聞かずに、勝手に想いだけ募らせちゃって……。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Từ trước tới giờ... ngay cả khoảnh khắc ban nãy cũng thế. Em đã quá ỷ lại vào suy nghĩ \"Chỉ cần là Trainer thì anh ấy sẽ hiểu mà\".",
+      "jpname": "サトノクラウン",
+      "jptext": "今まで……今日のこの瞬間だって、そう。\n私は、『トレーナーなら、わかってくれる』って甘えてたわ。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Nhưng nhờ chuyện lần này mà em nhận ra được... có lẽ lại là điều may mắn đấy nhỉ...",
+      "jpname": "サトノクラウン",
+      "jptext": "……でも、今回の件で気づけて……\nよかったのかもしれないわね……。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Anh yên tâm đi! Dù chỉ có một mình, em cũng sẽ trưởng thành hơn ở Hồng Kông cho anh thấy!",
+      "jpname": "サトノクラウン",
+      "jptext": "安心して！　私は1人でも、香港で成長してみせる！"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Vậy nên trong lúc em vắng nhà, anh hãy chuẩn bị sẵn một giáo án tuyệt vời nhất dành riêng cho một em đã tiến bộ vượt bậc nhé♪",
+      "jpname": "サトノクラウン",
+      "jptext": "だから、トレーナーは私が留守の間……\n成長した私用の最高のメニュー、考えておいてっ♪",
+      "choice_data_list": [
+        "Nếu được phép đi cùng thì anh rất muốn đi cùng em đấy"
+      ],
+      "jpchoice_data_list": [
+        "行ってもいいなら、一緒に行きたいんだけど"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hả...?",
+      "jpname": "サトノクラウン",
+      "jptext": "え……？"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Nhưng mà... chẳng phải anh bảo là không có ý định đi sao............",
+      "jpname": "サトノクラウン",
+      "jptext": "だって……行く気ないって…………。",
+      "choice_data_list": [
+        "Anh có nói thế bao giờ đâu?"
+      ],
+      "jpchoice_data_list": [
+        "そんなこと言った？"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "C-Có mà! Trưa hôm nay anh đã nói――",
+      "jpname": "サトノクラウン",
+      "jptext": "い、言ったわよ！　今日のお昼に――"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "\"...Trainer. Liệu anh... có hứng thú với phía bên kia đại dương không?\"",
+      "jpname": "サトノクラウン",
+      "jptext": "……トレーナー。\nあなたは……海の向こうに興味はあるかしら？"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Lúc đó anh đã bảo là \"không có ý định đi\" còn gì...",
+      "jpname": "サトノクラウン",
+      "jptext": "あの時あなた、『行く気はない』って……。",
+      "choice_data_list": [
+        "Xin lỗi em, anh cứ tưởng là em đang nói về chuyện đi du lịch..."
+      ],
+      "jpchoice_data_list": [
+        "ごめん、てっきり旅行とかの話かと……"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Hả!? Làm sao mà――",
+      "jpname": "サトノクラウン",
+      "jptext": "ええっ！？　そんなわけ――"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Ơ kìa... nhưng mà, đúng thật...? Bị hiểu nhầm như vậy cũng phải... Là do em... chưa diễn đạt rõ ràng nhỉ...",
+      "jpname": "サトノクラウン",
+      "jptext": "あれ……でも、確かに……？　そう誤解されても……。\n私……ちゃんと伝えきれていない、わね……。"
+    },
+    {
+      "name": "",
+      "text": "Về phía mình, tôi cũng chỉ mải miết phỏng đoán ý nghĩ của cô ấy mà không chịu lắng nghe tâm tư tình cảm của cô ấy cho thật kỹ.",
+      "jpname": "モノローグ",
+      "jptext": "こちらも、先を読むことばかりに必死で、\nしっかりと彼女の気持ちを聞くことができていなかった。",
+      "choice_data_list": [
+        "Hai ta cần phải trò chuyện với nhau nhiều hơn nữa rồi",
+        "Hai ta cần phải trò chuyện với nhau nhiều hơn nữa rồi nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "もっと、お互いに話さないとな",
+        "もっと、お互いに話さないとね"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Đúng vậy. Tin tưởng nhau không chỉ là không cần nói cũng tự hiểu... Bộc bạch trực tiếp bằng lời nói... cũng quan trọng lắm chứ.",
+      "jpname": "サトノクラウン",
+      "jptext": "そうね。語らずとも伝わることだけが信頼じゃない……。\n直接言葉にすることだって……大事よね。",
+      "choice_data_list": [
+        "Vậy thì, chuyện về Hồng Kông――"
+      ],
+      "jpchoice_data_list": [
+        "それじゃあ、香港についてだけど――"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...?",
+      "jpname": "サトノクラウン",
+      "jptext": "……？",
+      "choice_data_list": [
+        "Anh muốn đi cùng em, với tư cách là Trainer của em",
+        "Tôi muốn đi cùng bạn, với tư cách là Trainer của bạn"
+      ],
+      "jpchoice_data_list": [
+        "一緒に行きたいな、君のトレーナーとして",
+        "一緒に行きたいな、貴方のトレーナーとして"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "............Fufu.",
+      "jpname": "サトノクラウン",
+      "jptext": "…………ふふっ。"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Vâng. Chúng ta hãy cùng đi nhé――đến Hồng Kông!",
+      "jpname": "サトノクラウン",
+      "jptext": "ええ。一緒に行きましょう――香港へ！"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "...Vậy thì trước tiên phải lên lại lịch trình từ đầu rồi. Em vừa mới chỉnh sửa lại vì cứ ngỡ anh không đi cơ mà.",
+      "jpname": "サトノクラウン",
+      "jptext": "……じゃあ、まずは予定を立て直さないといけないわね。\n来ないと思って調整しちゃったんだもの。",
+      "choice_data_list": [
+        "A, anh không mang theo sổ tay rồi"
+      ],
+      "jpchoice_data_list": [
+        "あ、メモ帳持ってきてない"
+      ]
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Không vấn đề! Có bãi cát ở đây mà. Hãy cùng vẽ các ý tưởng ra đây nào!",
+      "jpname": "サトノクラウン",
+      "jptext": "無問題！　砂浜があるわ。\nここにアイディアを描いていきましょう！"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Đã đến Hồng Kông thì ẩm thực là chuyện không thể bỏ qua được rồi. Hãy cùng đến quán dim sum ruột gần văn phòng của ba em nhé!",
+      "jpname": "サトノクラウン",
+      "jptext": "やっぱり香港に行くからには、グルメも大事よね。\nパパのオフィス近くにある、オススメの飲茶のお店に行きましょう！"
+    },
+    {
+      "name": "Satono Crown",
+      "text": "Còn cảnh đêm thì tuyệt đối không thể bỏ lỡ rồi. Đã mất công ở lại dài ngày thì nhất định phải chiêm ngưỡng cảnh đêm ở cảng Victoria mới được! Tiếp theo là――",
+      "jpname": "サトノクラウン",
+      "jptext": "あとはなんといっても夜景は外せないわね。せっかく長くいるなら、\n夜のビクトリア・ハーバーは観ておかないとっ！　あとは――"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chúng tôi vẽ kín những dự định sẽ làm ở Hồng Kông lên bãi cát đến mức chẳng còn chỗ đặt chân, cùng nhau trải qua một đêm mùa hè tuyệt đẹp.",
+      "jpname": "モノローグ",
+      "jptext": "その後、足の踏み場がなくなるほど、香港でやるべき予定を\n砂浜に描き記して、夏の日の夜を過ごしたのであった。"
+    }
+  ]
+}
