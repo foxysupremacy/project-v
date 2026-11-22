@@ -1,0 +1,493 @@
+{
+  "title": "Cùng Golshi bảo vệ hòa bình!?",
+  "jptitle": "ゴルシと一緒に平和を守れ！？",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ nọ. Khi tôi tình cờ đi ngang qua phía trước công viên--",
+      "jpname": "モノローグ",
+      "jptext": "ある休日のこと。\n公園の前を通りかかったところ――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "-- Nằm rạp xuống mau!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "――伏せろっ！！",
+      "choice_data_list": [
+        "Đ-Đột nhiên sao thế!?",
+        "T-Tự dưng có chuyện gì thế!?"
+      ],
+      "jpchoice_data_list": [
+        "い、いきなりなんだ！？",
+        "い、いきなり何っ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng thét bất thình lình của Gold Ship khiến tôi bất giác giật mình lùi lại.",
+      "jpname": "モノローグ",
+      "jptext": "突然のゴールドシップの叫び声に、\n思わずたじろいでしまった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này chú mày, cứ lơ ngơ là bị vạ lây đấy! Danger! Danger!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいオマエ、ぼんやりしてると巻き込まれっぞ！\nデンジャー！　デンジャー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hừ, xem chừng khắp cả khu vực này chẳng còn nơi nào an toàn nữa rồi...!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "くっ、どうやらここら一帯に安息の場はないみたいだな……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Chị Golshi ơi, không tiến thêm được nữa đâu! Chúng mình rút về pháo đài khung leo thôi!",
+      "jpname": "男の子A",
+      "jptext": "ゴルシ姉ちゃん、これ以上は進めないよ！\nジャングルジムの砦に帰ろう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Nhưng mà, muốn về pháo đài thì phải băng qua hố cát nham thạch kia cơ...!",
+      "jpname": "男の子B",
+      "jptext": "だけど、砦に帰るまでにはあの溶岩の砂場を渡らないと……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lo cái gì, cứ để chị đây lo! Trainer cũng bám sát theo mau! Cùng lắm thì quyền pháp hệ Gol-Gol của tôi sẽ xẻ đôi mặt đất cho mà xem...!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "なあに任せろ！　トレーナーもついてこい！\nいざとなったら、アタシのゴルゴル流拳法が大地を割るぜ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Xem chừng Gold Ship đang chơi đùa cùng đám trẻ nhỏ. Ngoảnh đi ngoảnh lại thì tôi cũng đã bị cuốn luôn vào trò chơi này mất rồi...",
+      "jpname": "モノローグ",
+      "jptext": "どうやらゴールドシップは、子どもたちと遊んでいるらしい。\n気付けば自分も巻き込まれる形になってしまった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này Trainer! Chỗ đó là vùng đất dung nham mà! Mắt để đi đâu mà bước vào đấy thế hả!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいトレーナー！　そこは溶岩地帯だろっ！\nどこ見て歩いてやがんだ！",
+      "choice_data_list": [
+        "Xin lỗi, tôi không thấy gì hết..."
+      ],
+      "jpchoice_data_list": [
+        "ごめん、わからない……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đừng có cố nhìn, hãy cảm nhận đi! Don't think, feel! Chú mày là Trainer của tôi cơ mà!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "見ようとすんじゃねえ、感じろ！\nドントシンクフィール！　アタシのトレーナーだろ！？",
+      "choice_data_list": [
+        "R-Ra là vậy sao!?"
+      ],
+      "jpchoice_data_list": [
+        "な、なるほど！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nào, xông lên các em ơi! Chân bọc hậu cứ để Golshi-chan này gánh vác!",
+      "jpname": "ゴールドシップ",
+      "jptext": "さあ行くぞオマエら！\n殿はこのゴルシちゃんが務めてやる！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lưng cứ việc giao phó cho chị đây... yên tâm đi!",
+      "jpname": "ゴールドシップ",
+      "jptext": "アタシに背中は任せやがれ……ってな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Siêu thế! Chị Golshi ngầu bá cháy luôn!",
+      "jpname": "男の子A",
+      "jptext": "すげー！　かっけえよゴルシ姉ちゃん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế là bị kéo theo sự hào hứng tột độ của Gold Ship cùng đám trẻ nhỏ, tôi buộc phải băng qua hố cát, nhưng rồi--",
+      "jpname": "モノローグ",
+      "jptext": "そうしてノリノリのゴールドシップと子どもたちに連れられ、\n砂場を渡ることになったが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ặccc!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "ぐわあーーーーーーっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Ch-Chị Golshi ơi!?",
+      "jpname": "男の子B",
+      "jptext": "ゴ、ゴルシ姉ちゃん！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ngay giữa hố cát, Gold Ship bỗng dưng đổ gục xuống!",
+      "jpname": "モノローグ",
+      "jptext": "砂場の真ん中で、突然ゴールドシップが倒れた！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hự, xem ra tôi không qua khỏi rồi... Ai mà ngờ lại bị bắn trúng ở một nơi như thế này chứ...",
+      "jpname": "ゴールドシップ",
+      "jptext": "ぐっ、アタシはもうダメみてえだ……。\nまさかこんなところで撃たれちまうなんて……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Các em ơi, dẫu không có chị ở bên... cũng phải sống cho thật kiên cường đấy nhé...! -- Ngoẻo.",
+      "jpname": "ゴールドシップ",
+      "jptext": "オマエら、アタシがいなくても……強く生きやがれ……！\n――がくっ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Không thể nào... Mở mắt ra đi chị Golshi ơi!",
+      "jpname": "男の子A",
+      "jptext": "そんな……目を覚ましてよ、ゴルシ姉ちゃん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "-- Hiện trường vụ án là mật thất, hung khí không tìm thấy dấu vết. Mọi kẻ tình nghi đều có bằng chứng ngoại phạm.",
+      "jpname": "ゴールドシップ",
+      "jptext": "――犯行現場は密室、凶器は見つからない。\n容疑者全員にアリバイがある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cứ thế này thì vụ án sẽ đi vào ngõ cụt mất. Nhưng đừng lo... cứ giao phó hết cho thám tử lừng danh Golshi-chan này!",
+      "jpname": "ゴールドシップ",
+      "jptext": "このままじゃこの事件は迷宮入りだ。\nだけど心配すんな……この名探偵ゴルシちゃんに任せやがれ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Các cậu bé",
+      "text": "Xuất hiện rồi! Thám tử lừng danh Golshi xuất hiện rồi!",
+      "jpname": "男の子たち",
+      "jptext": "出たーっ！　名探偵ゴルシだーっ！",
+      "choice_data_list": [
+        "(Chuyển sang phim trinh thám rồi à!?)"
+      ],
+      "jpchoice_data_list": [
+        "（推理モノになった！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hửm! Hừm! Hửm hừm! -- Tế bào não màu ngọc lục bảo với chỉ số IQ năm triệu sáu trăm bốn mươi nghìn vừa lóe lên tia sáng Gol kỳ diệu rồi.",
+      "jpname": "ゴールドシップ",
+      "jptext": "むっ！　むむっ！　むむむっ！\n――IQ564万のエメラルド色の脳細胞が、ゴルッと閃いたぜ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kẻ thủ ác đã nổ súng bắn tôi... chính là chú mày đấy tên khốn kia mau nhận tội điiiii!",
+      "jpname": "ゴールドシップ",
+      "jptext": "アタシを撃った犯人は……オマエだおいてめえこのヤローッ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gold Ship chỉ thẳng ngón tay về phía tôi! Trong lúc tôi còn đang lúng túng chưa biết đáp lại thế nào thì--",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップがこちらを指さした！\nどう返事しようかと困っていると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Phải cãi lại đi chứ không là thua đấy chú ơi!",
+      "jpname": "男の子B",
+      "jptext": "なにか言い返さないと負けちゃうよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Đúng đấy đúng đấy, chú là Trainer của chị Golshi đúng không? Cho tụi cháu xem màn gì thú vị đi nào!",
+      "jpname": "男の子A",
+      "jptext": "そうだそうだ、ゴルシ姉ちゃんのトレーナーってやつなんだろ？\nおもしれーとこ見せてくれよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Ra là vậy... Thay vì cứ mãi bị xoay như chong chóng, chi bằng cứ như mấy đứa nhóc này, chẳng cần nghĩ ngợi gì mà hùa theo hết mình xem sao...!?",
+      "jpname": "モノローグ",
+      "jptext": "なるほど……振り回されるばかりじゃなくて、この子たちのように\nなにも考えず全力でノってあげればいいのかも……！？",
+      "choice_data_list": [
+        "Đúng thế, toàn bộ những kẻ ở đây hãy chuẩn bị tinh thần đi...!",
+        "Đúng thế, tất cả các người hãy chuẩn bị tinh thần đi nhé...!"
+      ],
+      "jpchoice_data_list": [
+        "その通りだ、ここにいる全員覚悟しろ……！",
+        "その通り、ここにいる全員覚悟なさい……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hừ, rốt cuộc cũng chịu lộ nguyên hình rồi hả...! Ba mươi cái xúc tu màu tím mọc tua tủa trên đầu chú mày chính là bằng chứng đanh thép nhất!",
+      "jpname": "ゴールドシップ",
+      "jptext": "くっ、正体を現しやがったな……！\n頭から30本生えてる紫色の触角がなによりの証拠だぜ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nhưng với tình hình hiện tại thì chúng ta không đọ lại hắn đâu! Rút quân thôi các em ơiii!",
+      "jpname": "ゴールドシップ",
+      "jptext": "だけど、今のアタシらじゃアイツには敵わねえ！\n引くぞオマエらーっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hộc... hộc...! Không ngờ hắn lại đuổi theo sát nút tới tận đây cơ chứ...!",
+      "jpname": "ゴールドシップ",
+      "jptext": "はぁ……はぁ……！\nまさかここまで追いかけてくるとはな……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Phải làm sao bây giờ... tụi mình bị dồn vào chân tường rồi...!?",
+      "jpname": "男の子B",
+      "jptext": "どうしよう……追い詰められちゃった……！？",
+      "choice_data_list": [
+        "Đã đến lúc phải đền tội rồi...!",
+        "Tới lúc đền tội rồi đấy nhé...!"
+      ],
+      "jpchoice_data_list": [
+        "年貢の納め時だ……！",
+        "年貢の納め時よ……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hừ, để xem rốt cuộc ai mới là kẻ bị dồn vào chân tường nhé--!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "いや、追い詰めたのは果たしてどっちかな――！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ta chính là Nữ Thần Mã Nương, Goluxia. Ta sẽ ban phát sức mạnh vô song cho những tâm hồn nhân hậu như các con.",
+      "jpname": "ゴールドシップ",
+      "jptext": "わたしはウマ娘の神、ゴルーシア。\n心優しきあなたたちに、力を授けましょう。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Là Nữ Thần Goluxia, người tạo ra phép màu một trăm lần mỗi năm trong truyền thuyết kìa!",
+      "jpname": "男の子A",
+      "jptext": "1年に100度、奇跡を起こすっていうゴルーシアだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tuyệt cú mèo! Thế là sức mạnh thần thánh của Thần Mã Nương cũng đã dâng trào cuồn cuộn trong người các em rồi chứ gì...!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "よっしゃあ！　これでオマエらにも湧いてきたはずだぜ！\nウマ娘神パワーがよ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé A",
+      "text": "Th-Thật kìa! Giờ thì em cảm giác chẳng thể nào thua được nữa rồi...!",
+      "jpname": "男の子A",
+      "jptext": "ほ、ほんとだ！\n今なら負ける気がしない……！",
+      "choice_data_list": [
+        "Không lẽ... là Thần lực Mã Nương sao!?",
+        "Chẳng lẽ... là Thần lực Mã Nương ư!?"
+      ],
+      "jpchoice_data_list": [
+        "まさか……ウマ娘神パワーだと！？",
+        "まさか……ウマ娘神パワーですって！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đúng thế đấy! Chiến lực hiện tại của bọn tao đã lên tới năm triệu sáu trăm bốn mươi nghìn rồi...!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "ああそうだ！\n今のアタシたちの戦闘能力は564万……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đời nào bọn tao lại chịu thua một kẻ như chú mày! Chuẩn bị đền mạng đi! Trả thù cho Golshi-chan nàooo--!",
+      "jpname": "ゴールドシップ",
+      "jptext": "オマエなんかに負けるはずがねえ！\n覚悟しろ！　ゴルシちゃんの仇――ッ！",
+      "choice_data_list": [
+        "Oái, chết tôiii!"
+      ],
+      "jpchoice_data_list": [
+        "ぐわああーっ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Rầm!)",
+      "jpname": "モノローグ",
+      "jptext": "（ドサッ！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Công lý -- Tất thắng!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "正義は――勝つ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé B",
+      "text": "Hoan hô! Quả nhiên là chị Golshi siêu đỉnh!",
+      "jpname": "男の子B",
+      "jptext": "やったぁーっ！　流石ゴルシ姉ちゃんだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù chẳng hiểu đầu cua tai nheo ra sao... nhưng việc hòa nhịp diễn theo Gold Ship hóa ra lại vui ngoài sức tưởng tượng.",
+      "jpname": "モノローグ",
+      "jptext": "全くわけがわからなかったけれど……\nゴールドシップのノリについていくのは、案外楽しかった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tuyệt cú mèooo! Đại công cáo thành rồi!",
+      "jpname": "ゴールドシップ",
+      "jptext": "いやあーっ！　やり遂げたやり遂げた！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nền hòa bình công viên đã được giữ vững, kẻ thủ ác đã bị vạch mặt, Golshi-chan đã hóa thần, và chiến tranh trên toàn thế giới đã hoàn toàn bị dập tắt!",
+      "jpname": "ゴールドシップ",
+      "jptext": "公園の平和は守られたし、犯人は見つかったし、\nゴルシちゃんは神になったし、世界から争いはなくなったし！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đã thế tiện tay hoa nở chim ca ríu rít, cây cối xanh tươi bát ngát luôn cơ chứ! Quả không hổ danh Đại nhân Golshi này mà!",
+      "jpname": "ゴールドシップ",
+      "jptext": "あとついでに花が咲いて木々は生い茂り、\n鳥たちもハミングを唄ったからな！　流石ゴルシ様だぜ～！",
+      "choice_data_list": [
+        "Bọn trẻ trông cũng vui vẻ lắm.",
+        "Đám nhóc trông cũng vui vẻ ghê."
+      ],
+      "jpchoice_data_list": [
+        "子どもたちも喜んでたな",
+        "子どもたちも喜んでたね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đương nhiên rồi, chị đây đời nào chịu làm trò nhàm chán dù chỉ một phần mười giây chứ!",
+      "jpname": "ゴールドシップ",
+      "jptext": "当たり前だろ、アタシがコンマ1秒たりとも\nつまんねーことなんてするはずねえからな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Với cả hôm nay chú mày diễn xuất cũng đâu vào đấy lắm đấy nhé!",
+      "jpname": "ゴールドシップ",
+      "jptext": "それに、今日のオマエのノリも悪くなかったぜ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Sau ngày hôm nay, tôi có cảm giác như mình đã bắt kịp nhịp điệu của Gold Ship được đôi chút...!",
+      "jpname": "モノローグ",
+      "jptext": "今日で少しだけ、ゴールドシップについていけるように\nなった気がする……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Á đúng rồi, phải ra sân trường vẽ nốt hình vẽ Nazca trên mặt đất hôm qua mới được!",
+      "jpname": "ゴールドシップ",
+      "jptext": "あっそうだ、昨日校庭に描いたナスカの地上絵の続き描こーっと！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Chú mày cũng bám theo mau lên! Ba giây nữa tập hợp nhé! Vọt lẹ!",
+      "jpname": "ゴールドシップ",
+      "jptext": "オマエもついてこいよっ！　3秒後に集合な！　じゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "................. Như tôi đã nói đấy, xem ra để thực sự theo kịp cô nàng thì chắc vẫn còn là một chặng đường dài phía trước!",
+      "jpname": "モノローグ",
+      "jptext": "………………。\nやっぱり、ついていけるようになるのはもう少し先かもしれない！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

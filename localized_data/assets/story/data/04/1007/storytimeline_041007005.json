@@ -1,0 +1,324 @@
+{
+  "title": "Chạy ba chân bị quay như chong chóng!",
+  "jptitle": "振り回され二人三脚！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "-- Người ta vẫn thường nói: \"Mã Nương và Trainer là mối quan hệ chạy ba chân kề vai sát cánh\". Đôi bên khi thì tương trợ, khi lại khích lệ lẫn nhau cùng hướng về chiến thắng vinh quang.",
+      "jpname": "モノローグ",
+      "jptext": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\n時に支えあい、励ましあって勝利を目指す。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trách nhiệm của một Trainer là thông qua các buổi luyện tập thường nhật để đánh thức và phát huy tối đa tiềm năng của Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーの役割は、日々のトレーニングを通して\nウマ娘のポテンシャルを十分に引き出すことだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Mình phải nỗ lực hết mình với giáo án hoàn hảo nhất để giúp Gold Ship chạm tay vào đỉnh cao chiến thắng...!",
+      "jpname": "モノローグ",
+      "jptext": "最高のトレーニングで、ゴールドシップに\n勝利を掴ませてあげられるよう頑張ろう……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này Trainer! Giờ chúng ta làm một chuyến đi khám phá đền thờ dưới đáy biển đi!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいトレーナー！\n今からいっちょ海底神殿の探索に行こうぜ！",
+      "choice_data_list": [
+        "Không được, hôm nay nhất định phải luyện tập...!",
+        "Không được đâu, hôm nay phải đi tập luyện chứ...!"
+      ],
+      "jpchoice_data_list": [
+        "いや、今日こそトレーニングに……！",
+        "いえ、今日こそトレーニングに……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hả? Ý chú mày muốn bảo đi khám phá đền thờ đáy biển không phải là luyện tập đấy à?",
+      "jpname": "ゴールドシップ",
+      "jptext": "は？　オマエは海底神殿の探索が、\nトレーニングじゃないって言いたいのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Biểu tượng vinh quang thuở nào nay chìm sâu dưới lòng đại dương! Hành vi cao cả tiếp cận những bí ẩn ấy mà lại không phải là tập luyện sao!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "海に沈む、かつての栄華の象徴！\nその謎に迫るっつう崇高な行為が、トレーニングじゃないと！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cơ mà đúng là vậy thật.",
+      "jpname": "ゴールドシップ",
+      "jptext": "まあ、その通りだけどな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Rồi, tóm lại là chú mày tha thiết muốn luyện tập hôm nay chứ gì. Đừng lo lắng, tấm lòng ấy tôi đã thấu triệt rồi đây.",
+      "jpname": "ゴールドシップ",
+      "jptext": "んで、オマエは今日こそトレーニングがしたいと。\n心配すんなって、その気持ち伝わってるからよ。",
+      "choice_data_list": [
+        "Thật sao!?",
+        "Thật ư!?"
+      ],
+      "jpchoice_data_list": [
+        "ほんとか！？",
+        "ほんとに！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tôi nói \"tâm đầu\" thì chú mày \"ý hợp\". Tôi là \"Phong Thần\" thì chú mày cũng là \"Phong Thần\".",
+      "jpname": "ゴールドシップ",
+      "jptext": "アタシが“つう”と言えば、オマエが“かあ”。\nアタシが“風神”なら、オマエも“風神”。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đến nước này rồi thì giữa hai ta đâu cần thêm lời hoa mỹ thừa thãi nào nữa! Nào, đi thôiii! Bám sát theo mau!",
+      "jpname": "ゴールドシップ",
+      "jptext": "今更アタシたちの間に余計な言葉なんていらねえじゃねえか！\nさあ、いくぞーっ！　ついてきやがれ！",
+      "choice_data_list": [
+        "Gold Ship...!"
+      ],
+      "jpchoice_data_list": [
+        "ゴールドシップ……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Không ngờ cũng có ngày mình và Gold Ship lại tâm đầu ý hợp đến thế...! Nào, hướng thẳng ra đường chạy thôi!",
+      "jpname": "モノローグ",
+      "jptext": "まさかゴールドシップと通じ合える日がくるなんて……！\nさあ、トレーニングコースに向かおう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nào, ra đường chạy... luyện... tập...? ................. Ơ kìa?",
+      "jpname": "モノローグ",
+      "jptext": "さあ、トレーニングコース……に……？\n………………あれ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "U oaaaaaa!! Câu nữa câu mãi câu cho bằng sạch! Mục tiêu hôm nay là trúng quả lớn, bội thu, và tiện thể làm thêm mẻ cá siêu to khổng lồ nữa nàooo!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "うおおおーーーーー！！　釣って釣って釣りまくれ！\n今日の目標は大漁、大漁、もいっちょついでに大漁だぁ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này, đứng ngây như phỗng nhìn cái gì đấy! Chú mày cũng phải phụ một tay đấy biết chưa!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "おい、なにボサっと見てんだ！\nオマエも手伝うんだぞ！？",
+      "choice_data_list": [
+        "Ờ thì... tôi phải làm gì đây?",
+        "Ờ thì... tôi phải làm gì thế?"
+      ],
+      "jpchoice_data_list": [
+        "えっと……何をするんだ？",
+        "えっと……何をするの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này này, cất công lặn lội ra tận bờ nước thế này thì ngoài câu cá ra còn trò gì khác để làm nữa à?",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいおい、わざわざ水辺にきて、\n釣り以外にすることなんかあんのかよ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ngay cả bố tôi, ngư dân đệ nhất làng chài ngày trước, cũng đành phải giải nghệ vì không thể khuất phục nổi con thủy quái chúa tể dòng sông này...",
+      "jpname": "ゴールドシップ",
+      "jptext": "村1番の漁師だったアタシの父親でも、\nこの川のヌシは捕らえられずに現役を退いちまった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thế cho nên! Cô con gái rượu là tôi đây! Nhất định hôm nay sẽ bắt sống con thủy quái ấy! U oaaa, hãy cháy hết mình đi, linh hồn cần thủ của tôiii--!",
+      "jpname": "ゴールドシップ",
+      "jptext": "だからよぉ！　娘のアタシが！　今日こそヌシを捕まえるっ！\nうおおお、燃え尽きろ！　アタシの釣り人魂――ッ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đầu óc còn chưa kịp sắp xếp lại mớ bòng bong, tôi đành buông cần câu xuống sông suốt mấy chục phút đồng hồ--",
+      "jpname": "モノローグ",
+      "jptext": "頭の整理がつかないまま、釣り糸を川に垂らして数十分――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Chẳng cắn câu gì cả. Dính mỗi mấy nhánh rong rêu đúng bài ca muôn thuở.",
+      "jpname": "ゴールドシップ",
+      "jptext": "……釣れねえなー。\nかかったのはお約束の水草だけだぜ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...U oaaaa!! U oaaaa!! Không xong rồi, chán ngắt tới mức muốn lăn đùng ra xỉu mất thôi!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "……うおおおおお！！　うわあああああ！！\nだめだ、退屈でぶっ倒れちまう！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này, đi thôi Trainer! Chạy thẳng về phía Sao Hỏa nàooo!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おい、行くぞトレーナーっ！\n火星の方に向かって走れ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Lẽ nào vì chán quá không chịu nổi nữa nên rốt cuộc cậu ấy cũng chịu bắt đầu vào buổi luyện tập sao...!",
+      "jpname": "モノローグ",
+      "jptext": "もしや、退屈にしびれを切らして\nついにトレーニングを始めてくれるのでは……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bác ơi! Cho cháu một suất cơm cá nướng, xới cho bát cơm đầy ú ụ nhé!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おばちゃーん！\n焼き魚定食1つ、ご飯大盛りな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Phù, suýt chết dở. Vụ câu cá tuy có thất thế một chút, nhưng cứ chén sạch thế này là huề cả làng đúng không nào!",
+      "jpname": "ゴールドシップ",
+      "jptext": "ふう～、危なかったぜ～。\n釣りでは後れを取ったけど、こうして食えばイーブンだよな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thế thì, xin mời cả nhà cùng xơi cơm!",
+      "jpname": "ゴールドシップ",
+      "jptext": "そんじゃ、いっただっきまーす！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gold Ship đón lấy khay cơm cá nướng rồi đánh chén sạch bong chỉ trong chớp mắt...",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップは焼き魚定食を受け取ると、\n一瞬でぺろりとたいらげた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A, no nê đẫy đà rồi. Xin cảm tạ muôn vàn thức ăn nhân gian.",
+      "jpname": "ゴールドシップ",
+      "jptext": "あー食った食った。\nすべての食べ物に感謝だぜ。",
+      "choice_data_list": [
+        "Ơ kìa, còn vụ luyện tập thì sao...?"
+      ],
+      "jpchoice_data_list": [
+        "あの、トレーニングは……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hả? Ý chú mày muốn bảo câu cá với đánh chén cá không phải là luyện tập đấy à?",
+      "jpname": "ゴールドシップ",
+      "jptext": "は？　オマエは魚を釣ったり食ったりすることが、\nトレーニングじゃねえって言いたいのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cuộc sống sinh tồn tự cung tự cấp là một trận chiến tột cùng luôn kề cận với hiểm nguy...",
+      "jpname": "ゴールドシップ",
+      "jptext": "自給自足のサバイバル生活は、\n常に危険と隣り合わせの極限バトル……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Việc hòa mình vào thiên nhiên hoang dã để mài giũa trực giác nguyên thủy sẽ đem lại lợi ích to lớn biết bao cho các cuộc đua, sao chú mày lại không hiểu cơ chứ!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "自然の中に身を置いて、野生の感覚を研ぎ澄ますことが\nどれだけレースに活かされるか、なんでわからないんだっ！！",
+      "choice_data_list": [
+        "Tức là dựa vào trực giác hoang dã để chạy sao!",
+        "Tức là chạy bằng bản năng hoang dã đúng không!"
+      ],
+      "jpchoice_data_list": [
+        "野生の勘で走るってことか！",
+        "野生の勘で走るってことだね！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mà thật ra chẳng liên quan quái gì đâu nhé!",
+      "jpname": "ゴールドシップ",
+      "jptext": "いや、特に関係ないけどな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vậy thì, bụng dạ ấm êm rồi, giờ ta tới nông trại Golshi trông coi cà rốt lớn thôi.",
+      "jpname": "ゴールドシップ",
+      "jptext": "んじゃ、腹ごしらえも終わったし、\nゴルシ農園でにんじんの成長を見守りに行くか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hẹn gặp lại chú mày ở một góc nào đó trong Hệ Mặt Trời nhé! Chào tạm biệt!",
+      "jpname": "ゴールドシップ",
+      "jptext": "今度は太陽系のどこかで会おうぜ！\nあばよっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bị xoay như chong chóng mà rốt cuộc chẳng tập luyện được tí nào, Gold Ship đã phóng vút đi mất...",
+      "jpname": "モノローグ",
+      "jptext": "振り回されっぱなしで結局トレーニングはできないまま、\nゴールドシップは走り去ってしまった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "-- Người ta vẫn thường nói: \"Mã Nương và Trainer là mối quan hệ chạy ba chân kề vai sát cánh\". Cả hai chung sức đồng lòng cùng hướng về thắng lợi... ắt hẳn phải thế, chắc chắn luôn!",
+      "jpname": "モノローグ",
+      "jptext": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\n2人で力を合わせ、共に勝利を目指す……はずだ、きっと！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "title": "Tập 3",
+  "jptitle": "第3話",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sau khi cùng Gold Ship tới vùng đất bí ẩn này, khá nhiều thời gian đã trôi qua--",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップと謎の場所へ来てから、\nかなりの時間が経過した頃――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ào... ào...)",
+      "jpname": "モノローグ",
+      "jptext": "（ザバーン……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hàaaa, sống lại rồi... Nước dừa ngấm vào từng tế bào trong cơ thể sảng khoái ghê...",
+      "jpname": "ゴールドシップ",
+      "jptext": "はぁ～～～、生き返ったぁ～～～……。\n水分が体じゅうに染み渡るぜ～～……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nói sao nhỉ... rong biển sấy khô khi ngâm nước nở ra, chắc lúc nào cũng cảm thấy như thế này cũng nên...",
+      "jpname": "ゴールドシップ",
+      "jptext": "なんつーか……水で戻される乾燥ワカメもさ、\nいつもこんな気分なのかもな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa nhâm nhi nước từ quả dừa mà Gold Ship dùng tay không bổ đôi, chẳng hiểu sao hai chúng tôi lại trải qua những giây phút thanh bình bên nhau.",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップが素手でかち割ったヤシの実の汁を飲みながら、\nなぜか2人で穏やかな時間を過ごしていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tiếng sóng vỗ cùng vị ngọt dịu của nước dừa xoa dịu cơ thể đang mỏi mệt một cách thật dễ chịu...",
+      "jpname": "モノローグ",
+      "jptext": "波の音とヤシの実の汁の甘さが、疲れた体に心地よく感じる……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong lúc ngắm nhìn khung cảnh ấy, lạ lùng thay tôi lại thấy cứ ở thế này mãi cũng chẳng sao...",
+      "jpname": "モノローグ",
+      "jptext": "そうしているうち、\n不思議とこのままでもいいような気がしてきた……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hế... Sắc mặt của chú mày trông cũng thư thái ra phết rồi đấy nhỉ.",
+      "jpname": "ゴールドシップ",
+      "jptext": "ヘッ……オマエもなかなかいい顔になってきたじゃねーか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thích đúng không? Lâu lâu có những khoảng thời gian thảnh thơi thế này cũng tuyệt mà...",
+      "jpname": "ゴールドシップ",
+      "jptext": "いいだろ？　たまにはこういうのんびりした時間もさ……。",
+      "choice_data_list": [
+        "Cậu thường hay dành thời gian như thế này à?",
+        "Cậu hay dành thời gian như thế này lắm à?"
+      ],
+      "jpchoice_data_list": [
+        "よくこんなふうに過ごしているのか？",
+        "よくこんなふうに過ごしているの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ừ, đại loại thế. Người ta vẫn thường bảo chiến binh cũng cần có chốn nghỉ ngơi mà?",
+      "jpname": "ゴールドシップ",
+      "jptext": "ああ、まあな。\n戦士にも安息の地が必要ってよく言うだろ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nhân tiện thì \"chiến binh\" ở đây là cách ví von cho những Mã Nương chạy đua trên đường đua... Nói theo kiểu ảo tưởng sức mạnh thì gọi là \"ẩn dụ\" ấy mà.",
+      "jpname": "ゴールドシップ",
+      "jptext": "ちなみにここでの戦士ってのはレースで走るウマ娘の比喩――\n中二っぽく言うと『メタファー』ってヤツな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nói thế nào nhỉ... Đường đua thực sự là một nơi cháy bỏng lắm đấy.",
+      "jpname": "ゴールドシップ",
+      "jptext": "なんつーか……レースって、すげえ熱い場所なんだよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ngay cả mấy đứa ngày thường hiền khô như cục bột, hễ vào giải đua là cũng phơi bày hết bản năng ra còn gì.",
+      "jpname": "ゴールドシップ",
+      "jptext": "普段はおとなしいヤツらも\nレースじゃ本能をさらけ出すだろ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Giữa lúc ai nấy đều bừng bừng ý chí chiến đấu, tôi mà gỡ bỏ giới hạn ra thì cả người nóng rực lên, cảm giác sảng khoái đã đời cực kỳ.",
+      "jpname": "ゴールドシップ",
+      "jptext": "みんなが闘争心剥き出しの中で、アタシもリミッターを外すと\n体ん中が熱くなって、すげースカッっとした気分になるんだ。",
+      "choice_data_list": [
+        "Hóa ra cậu thích đua đến vậy.",
+        "Hóa ra cậu thích đua đến thế."
+      ],
+      "jpchoice_data_list": [
+        "レースが好きなんだな",
+        "レースが好きなんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ừ, nếu bị hỏi \"Thích cóc khổng lồ phương Đông hay thích đua hơn\" thì tôi sẽ trả lời là \"đua\", đại khái cỡ đó...",
+      "jpname": "ゴールドシップ",
+      "jptext": "ああ、『アズマヒキガエルとどっちが好きか』って聞かれたら、\n『レース』って答えるくらいにはな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cơ mà công nhận... ở đây bình yên thật đấy...",
+      "jpname": "ゴールドシップ",
+      "jptext": "それにしてもさ……ホント落ち着くな、ここ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ào... ào...)",
+      "jpname": "モノローグ",
+      "jptext": "（ザバーン……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tiếng sóng vỗ bờ dập dềnh... người ta gọi là gì nhỉ? Triết lý wabi-sabi thanh tịnh đấy chứ đâu...",
+      "jpname": "ゴールドシップ",
+      "jptext": "寄せては返す波の音……っつーの？\nワビサビってヤツだよな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Ào... ào...)",
+      "jpname": "モノローグ",
+      "jptext": "（ザバーン……）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A... thư thái quá... Cứ sống ở đây cả đời có khi cũng được ấy nhỉ...",
+      "jpname": "ゴールドシップ",
+      "jptext": "あ～……癒される……。\n一生ここで暮らすのもアリかもな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hà............",
+      "jpname": "ゴールドシップ",
+      "jptext": "はぁ～～～…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A a............",
+      "jpname": "ゴールドシップ",
+      "jptext": "あぁぁ～～～～…………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛ーー\nーーーーーーーーーーーーーっっっ！？",
+      "choice_data_list": [
+        "Đột nhiên sao thế!?",
+        "Tự dưng có chuyện gì thế!?"
+      ],
+      "jpchoice_data_list": [
+        "いきなりどうした！？",
+        "いきなりどうしたの！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thôi xong rooòiii!! Năng lượng bức bối đang tích tụ ngùn ngụt rồi!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "やっべえええええええぇぇぇぇぇ！！\n溜まってきたぜフラストレーション！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cố tình lánh xa sự căng thẳng của đường đua để hòa mình vào chốn an yên, từ đó làm bùng lên nỗi khát khao chiến thắng tột cùng!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "敢えてレースの緊張から遠ざかり、\n癒しの中に身を置くことで生じる、勝負への渇望ッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Và rồi tạo ra thôi thúc không thể kiềm chế nổi!! Lửa cháy!! Bùng nổ!! Nổ tung luônnn!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "そして突き動かされる衝動ッ！！\nファイヤー！！　バーニング！！　エクスプロージョンッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đúng là nó rồi!! Đây chính là trạng thái đói khát đỉnh cao mà tôi hằng mong mỏi!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "これだよこれ！！\nこれこそがアタシの求めていたハングリー状態ってヤツだぜ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này, đứng dậy đi Trainer!! Chúng ta về ngay lập tức thôi!! Right now!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "オイ立てよトレーナー！！\n今すぐ帰んぞ！！　Right now！！",
+      "choice_data_list": [
+        "Tôi chẳng hiểu cái mô tê gì hết...!!"
+      ],
+      "jpchoice_data_list": [
+        "わけがわからない……！！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đã bảo là việc ở đây xong xuôi cả rồi nên về thôi chứ sao nữa!",
+      "jpname": "ゴールドシップ",
+      "jptext": "だから、ここでやることは終わったから\n帰るっつってんだよ！",
+      "choice_data_list": [
+        "Rốt cuộc thì tới đây để làm gì cơ chứ!?",
+        "Rốt cuộc là tới đây làm gì vậy chứ!?"
+      ],
+      "jpchoice_data_list": [
+        "結局なにしに来たんだ！？",
+        "結局なにしに来たの！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này này, sao mà tiếp thu chậm chạp thế!! Chú mày là người ngoài hành tinh Nấm Nhớt, Nametakehiko đấy à!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいおい理解が遅せぇーな！！\nオメーはなめ茸星人、なめ茸彦か！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bằng cách tích trữ cảm giác bứt rứt ức chế trước trận đấu, tôi mới có thể bùng cháy hết mình được!",
+      "jpname": "ゴールドシップ",
+      "jptext": "勝負の前にフラストレーションを溜めることで、\nアタシは熱くなれんの！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Và giờ thì tôi đang cuồng chân muốn chạy đến mức không chịu nổi rồi đây này!",
+      "jpname": "ゴールドシップ",
+      "jptext": "んで、実際もう走りたくてしょーがなくなってんだよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mà vốn dĩ ngày mai là có trận đua rồi còn gì!",
+      "jpname": "ゴールドシップ",
+      "jptext": "そもそも明日、レースだしな！",
+      "choice_data_list": [
+        "Ngày mai á!?!?"
+      ],
+      "jpchoice_data_list": [
+        "明日！？！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hử... ủa? Tôi chưa nói à?",
+      "jpname": "ゴールドシップ",
+      "jptext": "ん……あれ？　言ってなかったか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ngại quá ngại quá☆ Thật ra mai là trận ra mắt của tôi đấy.",
+      "jpname": "ゴールドシップ",
+      "jptext": "わりーわりー☆\n実は明日、デビュー戦なんだわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bước chạy thần sầu của tôi sẽ khiến cả chú mày lẫn toàn thể nước Mỹ phải rơi lệ xúc động! U oaaaa, máu nóng sôi sục lên rồi nèeee!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "アタシの鮮烈な走りに、オマエも全米ももらい泣き！\nうおおお～～～たぎってきたぜーーーーっ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thế nên là về thôi!! Nào, thu dọn quả dừa luônnn!! Phải trả nó về với đất mẹ đàng hoàng đấy nhé!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "っつーことで帰るぞ！！\nほい、ヤシの実も撤収ー！！　ちゃんと土に還しとけー！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đường về thì... chả biết nữa, nhưng chắc hướng kia đấy! Nào, bám sát theo mau lên!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "帰り道は……わかんねーけど、多分あっちだろ！\nほら、ついて来ーい！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Chuyến đi săn kho báu bắt đầu trong mơ hồ rốt cuộc đã khép lại một cách đột ngột như thế... (Còn tiếp)",
+      "jpname": "モノローグ",
+      "jptext": "わけがわからないまま始まった宝探しは、突如終わりを告げた……。\n（続く）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "title": "Săn kho báu trên hòn đảo bí ẩn!",
+  "jptitle": "謎の島でトレジャーハント！",
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Một hai! Một hai! Khởi động thế là xoooong!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいっちにー！　おいっちにー！\n準備運動よーっし！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Trước khi đi tìm kho báu thì khởi động là bắt buộc đấy nhé! Chú mày cũng phải làm cho đàng hoàng vào đấy!",
+      "jpname": "ゴールドシップ",
+      "jptext": "宝探しの前には準備運動が必須だかんな！\nオマエもちゃんとやっとけよー！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một nơi lạ hoắc lạ huơ, một nàng Mã Nương bí ẩn, bài tập khởi động trước khi đi tìm kho báu... Tôi hoàn toàn chẳng hiểu nổi chuyện quái gì đang xảy ra.",
+      "jpname": "モノローグ",
+      "jptext": "見覚えのない場所、謎のウマ娘、宝探し前の準備運動……。\nなにが起こっているのか少しも理解できない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mà này, từ nãy đến giờ có nghe thấy không đấy? Alo, alo. A lô ô ô ô ô.",
+      "jpname": "ゴールドシップ",
+      "jptext": "つーかさ、さっきから聞こえてんの？\nもしもし、もしもし。もしも～～～～し。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Reng reng reng reng, reng reng reng reng♪",
+      "jpname": "ゴールドシップ",
+      "jptext": "トゥルルルルルン、トゥルルルルルン♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cảm ơn quý khách đã gọi đến. Đây là \"Trung tâm tư vấn tuốt tuồn tuột của Golshi-chan\" xin kính chào quý khách.",
+      "jpname": "ゴールドシップ",
+      "jptext": "お電話ありがとうございます。こちら\n『ゴルシちゃんなんでも相談センター』でございます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nỗi niềm trăn trở của quý khách thuộc quy mô thế giới chăng? Hay là quy mô toàn cầu? Hay thậm chí là tầm cỡ vũ trụ?",
+      "jpname": "ゴールドシップ",
+      "jptext": "お客様のお悩みは世界規模でしょうか？\nそれとも地球規模？　はたまた宇宙規模？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Quý khách nào đặt một câu hỏi, ngay lúc này đây sẽ được tặng kèm hẳn hai rắc rối siêu to khổng lồ luôn nhaaa♪",
+      "jpname": "ゴールドシップ",
+      "jptext": "1つご質問をいただいた方に、\n今ならなんと、2つの厄介事をお送りいたしまーす♪",
+      "choice_data_list": [
+        "Rốt cuộc đây là cái chốn nào thế...?",
+        "Rốt cuộc đây là đâu thế...?"
+      ],
+      "jpchoice_data_list": [
+        "ここは一体どこなんだ……？",
+        "ここは一体どこ……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Này này, chả phải tầm cỡ vũ trụ mà là nỗi băn khoăn cá nhân bé tí ti con thỏ thế à.",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいおい、宇宙規模どころか個人規模の\nごくごくちっせえお悩みじゃねーか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hết cách rồi nha. Cỡ đó thì chị đây sẽ vì lòng hảo tâm mà nói cho chú mày biết, trên thực tế là hoàn toàn miễn phí nhé.",
+      "jpname": "ゴールドシップ",
+      "jptext": "しゃーねーなー。\nそんくらいなら善意という名の実質無料で教えてやるよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nghe cho rõ đây, đây là nơi sau khi men theo con đường mòn sau núi của Học viện Tracen, chui qua hang động, băng qua rừng rậm nhiệt đới rồi mới tới được...",
+      "jpname": "ゴールドシップ",
+      "jptext": "いいか、ここはトレセン学園の裏山にある獣道を通って、\n洞窟をくぐり抜け、ジャングルを越えてたどり着いた場所……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tóm lại, chính là một nơi nào đó trên Trái Đất.",
+      "jpname": "ゴールドシップ",
+      "jptext": "つまり、地球上のどこかだ。",
+      "choice_data_list": [
+        "Nơi nào đó là nơi nào cơ chứ!?",
+        "Nơi nào đó là nơi nào thế!?"
+      ],
+      "jpchoice_data_list": [
+        "どこかってどこだ！？",
+        "どこかってどこ！？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thôi nào thôi nào, làm gì mà cuống lên thế! Tôi cũng chẳng nhớ đường đâu, nhưng còn ở trên Trái Đất thì thể nào chả có ngày mò về được!",
+      "jpname": "ゴールドシップ",
+      "jptext": "まーまー、んな焦んなって！\nアタシも道覚えてねえけど、地球上ならいつか帰れっから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Quan trọng hơn là chú mày chưa quên mục đích tới đây đấy chứ?",
+      "jpname": "ゴールドシップ",
+      "jptext": "それよりオマエ、ここに来た目的忘れてねーだろうな？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nghe này, ở đây có một kho báu siêu khủng. Một bảo vật chắc chắn sẽ giúp tôi trở thành Mã Nương mạnh nhất quả đất.",
+      "jpname": "ゴールドシップ",
+      "jptext": "いいか、ここにはすっげーお宝がある。\nアタシが最強のウマ娘になれること、間違いナシの代物だ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tìm ra thứ đó chính là mục đích của chuyến đi lần này, nên chú mày cũng phải tìm cho thật cẩn thận đấy nhé!",
+      "jpname": "ゴールドシップ",
+      "jptext": "それを見つけるのが今回の目的だからよ、\nオマエもちゃ～んと探してくれよな！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vậy thì, bắt đầu săn kho báu thôiii♪ Tùng tùng cắc tùng tunggg! Hễ thấy kho báu là phải báo ngay đấy nhớ chưa!",
+      "jpname": "ゴールドシップ",
+      "jptext": "んじゃ、お宝探し開始～♪\nドンドンパフパフ～！　お宝見っけたらすぐ教えろよな～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong lúc tôi còn chưa kịp hiểu mô tê gì, cuộc tìm kiếm kho báu đã bị ép phải bắt đầu...",
+      "jpname": "モノローグ",
+      "jptext": "全くもって状況が理解できない中、\n強制的に宝探しが始まった……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, vài tiếng sau--",
+      "jpname": "モノローグ",
+      "jptext": "そして、数時間後――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ố, ở đây có một chiếc cano rách nát nàyyy!",
+      "jpname": "ゴールドシップ",
+      "jptext": "おっ、こんなところにボロいカヌーはっけ～ん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Úi chà chà! Thủng lỗ chỗ luôn! Một trăm người trèo lên là chìm nghỉm ngay tắp lự! Tình trạng này đảm bảo nước vào ngập mồm!",
+      "jpname": "ゴールドシップ",
+      "jptext": "うっひょお～！　すっげえ穴だらけ！　100人乗ったら即沈没！\n浸水間違いなしのコンディションだぜ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Còn đằng này là... -- Xuất hiện rồi! Tiết mục kinh điển trong các cuộc săn kho báu: đôi ủng bí ẩn!",
+      "jpname": "ゴールドシップ",
+      "jptext": "んで、こっちは……\n――出たな！　お宝探しの定番、謎の長靴！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hít hà hít hà...",
+      "jpname": "ゴールドシップ",
+      "jptext": "くんかくんか……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aaa... hương vị của nghề đánh bắt hải sản... Những ngày xa xưa trên tàu câu cá ngừ... kỷ niệm về những chuyến đánh bắt xa bờ lại ùa về...",
+      "jpname": "ゴールドシップ",
+      "jptext": "ああ～、漁業のフレーバー……。\n遠き日のマグロ船……遠洋漁業の思い出が蘇るぜ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "-- Khoan, mình đang làm cái quái gì thế này!! Giờ đâu phải lúc chìm đắm trong hồi ức! Phải tìm kho báu chứ!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "――って、なにやってんだアタシ！！\n思い出に浸ってる場合じゃねえ！　探すんだよ、お宝を！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Kể từ lúc tới đây, Gold Ship cứ ầm ĩ huyên náo như thế suốt. Rốt cuộc thì cậu ấy đang tìm cái gì vậy chứ?",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップはここへ来てからずっとあの調子で騒いでいる。\n結局、なにを探しているのだろう？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Hử? Chú mày nhìn gì tôi thế?",
+      "jpname": "ゴールドシップ",
+      "jptext": "……ん？　なにコッチ見てんだオマエ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Á, biết tỏng rồi nhé☆ Chắc là mải ngắm vẻ đáng yêu của Golshi-chan chứ gì♪",
+      "jpname": "ゴールドシップ",
+      "jptext": "あっ、わかっちゃった☆\nゴルシちゃんのカワイさに見惚れてたんでしょ♪",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Chị đây hiểu nỗi lòng của chú mày, cơ mà... Nhìn lén lung tung là KHÔNG ĐƯỢC ĐÂU ĐẤY NHÉ☆",
+      "jpname": "ゴールドシップ",
+      "jptext": "気持ちはわかるけどぉ～……\n勝手に見るのは、ダ・メ・だ・ぞ☆",
+      "choice_data_list": [
+        "Cụ thể thì tôi nên tìm cái gì đây...?",
+        "Cụ thể thì tôi nên tìm cái gì thế...?"
+      ],
+      "jpchoice_data_list": [
+        "具体的に何を探したらいいんだ……？",
+        "具体的に何を探したらいいの……？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thì là một thứ gì đó có vẻ giống kho báu chứ sao nữa. Còn lại thì đừng có suy nghĩ, hãy cảm nhận đi.",
+      "jpname": "ゴールドシップ",
+      "jptext": "そりゃオメー、お宝っぽいナニカだろ。\nあとは考えるな、感じろ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Giờ thì tôi càng mù tịt chẳng biết phải tìm cái gì nữa... Hay là cứ nhặt tạm thứ gì quanh đây đưa cho cậu ấy xem sao?",
+      "jpname": "モノローグ",
+      "jptext": "なにを探したらいいのか、余計にわからなくなった……。\nとりあえず、その辺にあるものでも渡しておけばいいだろうか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Đúng lúc ấy, tôi chợt nhận ra có một quả dừa đang lăn lóc gần đó.",
+      "jpname": "モノローグ",
+      "jptext": "その時ふと、近くにヤシの実が転がっていることに気づいた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tiến lên nàooo, tiến lên, tới tận cùng trời cuốiii♪ Hiện ra điii, hiện ra, kho báu ơiii♪",
+      "jpname": "ゴールドシップ",
+      "jptext": "すっすめ～、すっすめ、どこまでも～～♪\n出ってこい、出ってこい、おったから～～♪",
+      "choice_data_list": [
+        "Quả dừa này thì... thấy thế nào?",
+        "Quả dừa này thì... thấy sao?"
+      ],
+      "jpchoice_data_list": [
+        "このヤシの実とか……どうだ？",
+        "このヤシの実とか……どう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "-- Hử?",
+      "jpname": "ゴールドシップ",
+      "jptext": "――ん？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Uô ôi!? U oaaaaaaa a a a a!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "……うおおおっ！？\nうおおおおおおおぉぉおおぉお！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đ-Đó là...!! Trái cây thanh lọc mang linh hồn của vùng đất phương nam...!! Không lẽ chú mày là thiên tài đấy à!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "そ、それは……！！　南国の地に宿りし癒しの果実……ッ！！\nもしかしてオマエ、天才か！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Úi chà chaaa♪ Đó chính xác là kho báu mà tôi đang tìm kiếm bấy lâu nay đấy!! Đặt nó xuống đất giùm tôi một chút coi nào!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "うっひょおお～♪　それこそがアタシの欲しかったお宝だー！！\nちょっとそれ、地面に置いてくれ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "...Tôi cứ nghĩ là đùa, nhưng xem chừng với Gold Ship thì đây quả thực là đáp án chính xác.",
+      "jpname": "モノローグ",
+      "jptext": "……まさかと思ったが、\nどうやら本当にこれでゴールドシップにとっては正解だったらしい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Theo lời cậu ấy, tôi liền đặt quả dừa xuống mặt đất.",
+      "jpname": "モノローグ",
+      "jptext": "言われた通り、ヤシの実を地面に置くことにした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Tốt, chú mày lùi lại đi. Đoạn này nguy hiểm cho dân nghiệp dư lắm đấy...",
+      "jpname": "ゴールドシップ",
+      "jptext": "……よし、オマエは離れてろ。\nこっから先は素人にゃアブねえからな……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Híttttt...",
+      "jpname": "ゴールドシップ",
+      "jptext": "スゥーーーッ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "-- Hwoataaaaaaaa!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "――ホワタアアアァァァァァァァァッッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Rắc rắc xoàn xoạt!!)",
+      "jpname": "モノローグ",
+      "jptext": "（バリバリバリバリッ！！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Gold Ship đã dùng tay không bổ đôi quả dừa cứng ngắc! Tinh thần thép không sợ hãi cùng sức mạnh khôn lường thật đáng kinh ngạc...!",
+      "jpname": "モノローグ",
+      "jptext": "ゴールドシップは硬いヤシの実を素手で割ってしまった！\nなんという恐れ知らずの精神力と底知れぬパワーだ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Phù............ Hì hì, toác làm đôi đẹp đẽ rồi nhé.",
+      "jpname": "ゴールドシップ",
+      "jptext": "ふぅ…………。\nへへっ、パックリ半分こってな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Thời gian cũng đẹp rồi, nghỉ tay tí thôi. Nào, ngồi xuống đây đi Trainer.",
+      "jpname": "ゴールドシップ",
+      "jptext": "時間もいい頃合いだし、休憩すっか。\nほら、ここ座れよトレーナー。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi nhận lấy quả dừa rồi ngồi xuống một khúc gỗ mục ven bờ... (Còn tiếp)",
+      "jpname": "モノローグ",
+      "jptext": "ヤシの実を受け取り、流木の上に腰かけることにした……。（続く）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
