@@ -1,0 +1,312 @@
+{
+  "title": "Con đường đã mở lối! Tiến lên☆ Con đường may mắn của em",
+  "jptitle": "道は見えた！進め☆私のラッキーロード",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "(Oaaaaaaa!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワアアアアアアアアア！）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Vậy em đi đây nhé, Trainer!",
+      "jpname": "コパノリッキー",
+      "jptext": "じゃあトレーナー、行ってくるね！",
+      "choice_data_list": [
+        "Ừ, cố gắng lên nhé",
+        "Được rồi, cố gắng lên nhé"
+      ],
+      "jpchoice_data_list": [
+        "ああ、頑張って",
+        "うん、頑張って"
+      ]
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Nào, xem trận tuyển chọn lần này thế nào nào... A, Copano Rickey ra sân rồi kìa.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "さて、今回の選抜レースはっと……。\nあ、出てきたわ、コパノリッキー。"
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Bận trước chạy trên \"đường cỏ\", nhưng lần này lại chuyển sang tranh tài ở \"đường cát\" à. Không biết độ thích ứng thế nào đây?",
+      "jpname": "中堅トレーナーB",
+      "jptext": "この前は“芝”だったけど、今回は“ダート”に出走か。\n適性的にはどうなんだ？"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Rickey... thế này là sao? Đùng một cái lại đi thách thức đường cát thế kia.",
+      "jpname": "ホッコータルマエ",
+      "jptext": "リッキー……どういうこと？\nいきなりダートに挑戦だなんて。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Không lẽ nào! Ngay trên đường đua mà cậu cũng định ép uổng tôi nghe phong thủy đấy à!?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "まさか！　コース上でまで、私に風水を押し売りする気とか！？"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Đâu có phải thế! Tớ chỉ bàn bạc với Trainer rồi mới quyết định thôi mà.",
+      "jpname": "コパノリッキー",
+      "jptext": "じゃなくてっ！\nトレーナーと話して決めただけだよ。"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Có thể là \"chạy đường cát sẽ tốt hơn chăng\". Xét từ tư thế chạy lẫn thể hình của tớ, và sau đó...",
+      "jpname": "コパノリッキー",
+      "jptext": "もしかしたら『ダートのほうがいいんじゃないか』って。\nフォームや体型的なことと、それから……。"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Quan trọng nhất là đường cát có khi lại hợp với phong thủy hơn ấy chứ. Dù phải thi đấu hết mình mới biết thực hư ra sao♪",
+      "jpname": "コパノリッキー",
+      "jptext": "なによりダートのほうが、風水との相性がいいんじゃないかって。\n本気でレースしてみないとわからないけどね♪"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Hợp phong thủy cái gì chứ... Rickey, đừng có coi thường đường cát. Đường cát là nơi đòi hỏi sự tích lũy bền bỉ qua từng ngày một đấy!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "風水との相性って……。リッキー、ダートを甘く見ないで。\nダートは1日1日の地道な積み重ねが物を言うんだから！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Không thể trông cậy vào bùa phép được đâu, phải cặm cụi từng chút một như khi cày xới mảnh đất Hokkaido băng giá thì mới mong đơm hoa kết trái được chứ?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "おまじないなんかに頼らず、しばれた北海道の大地を耕すように、\nえっちらおっちらやらないと、花開かないんだよ？"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Tớ hiểu mà. Tớ cũng đã nỗ lực hết mình rồi. Và trên nền tảng đó...",
+      "jpname": "コパノリッキー",
+      "jptext": "わかってるって。私だって努力はしてきた。\nその上で――"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Chỉ cần nghe được \"tiếng nói của đại địa\" nữa là...!",
+      "jpname": "コパノリッキー",
+      "jptext": "あとは“大地の聲”さえ聞こえれば……！"
+    },
+    {
+      "name": "",
+      "text": "Copano Rickey tập trung tinh thần bước vào cổng xuất phát. Và rồi cánh cổng định mệnh đã mở ra.",
+      "jpname": "モノローグ",
+      "jptext": "集中してゲートインするコパノリッキー。\nそして運命のゲートは開かれた。"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Tốt lắm, xuất phát mượt mà! Mối tương quan giữa màu sắc số cổng và phương vị cũng hoàn hảo không tì vết. Và cảm giác trên mặt cát là...)",
+      "jpname": "コパノリッキー",
+      "jptext": "（よし、スタートは上々！　枠番カラーと方位の関係も\n申し分なし。そしてダートの感触は……）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Ừm, tuyệt vời lắm! Chạy hết sức thế này... tình trạng mặt sân truyền tới từng đợt rào rạo dưới chân!)",
+      "jpname": "コパノリッキー",
+      "jptext": "（うん、いい感じ！　本気で走ると……\nバ場の具合がザクザク伝わってくる！）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Thế nhưng điều quan trọng nhất đâu phải ở đó. Vấn đề là... liệu mình có nghe thấy \"tiếng nói của đại địa\" mà hôm nọ chẳng thể nghe được hay không)",
+      "jpname": "コパノリッキー",
+      "jptext": "（でも1番大事なのはそこじゃない。問題は――\nこの間、聞こえなかった“大地の聲”が聞こえるかどうか）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Nếu không cảm nhận được dòng chảy của Khí thì chẳng thể tạo nên những bước chạy đại cát tường được. Làm ơn, xin hãy...!)",
+      "jpname": "コパノリッキー",
+      "jptext": "（氣の流れを感じられなきゃ、大吉祥の走りなんてできない。\nお願い、どうにか――！）"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "(Phải dạt đường chạy ra ngoài thêm chút nữa...! Không được để cát bắn từ phía trước phủ lên người!)",
+      "jpname": "ウマ娘A",
+      "jptext": "（もう少し、コース取りは外に……！\n前から飛んでくる砂をかぶらないようにしないと！）"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "(Hôm nay chân khó rút lên quá đi mất. Phải điều hòa nhịp thở rồi bảo toàn thể lực mới được...)",
+      "jpname": "ウマ娘B",
+      "jptext": "（今日はなんか脚抜きが悪いかも～。\n呼吸を整えて、スタミナを温存しておかないと……）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Nhìn thấy rồi...! Hiểu rồi...! Dòng chảy của Khí. Tiếng nói của đại địa... đang mách bảo cho mình biết cục diện xung quanh)",
+      "jpname": "コパノリッキー",
+      "jptext": "（見える……！　わかる……！　氣の流れが。\n大地の聲が……場がどうなってるか教えてくれる）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Đúng như Trainer đã dự đoán. Hóa ra là vậy, quả nhiên đường cát mới tương hợp với phong thủy nhất!)",
+      "jpname": "コパノリッキー",
+      "jptext": "（トレーナーの読み通り。そうだったんだ、\nやっぱり風水との相性はダートのほうが！）"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Rickey trông tràn đầy sức sống hơn hẳn hôm trước... Trainer-san, tại sao lại như thế...?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "リッキー、この間より、あんなに生き生きと……。\nトレーナーさん、どうして……？",
+      "choice_data_list": [
+        "Chính \"cát\" đã mách bảo cho em ấy đấy",
+        "Chính \"cát\" đã mách bảo cho bạn ấy đấy"
+      ],
+      "jpchoice_data_list": [
+        "“砂”が教えてくれてるんだ",
+        "“砂”が教えてくれてるんだよ"
+      ]
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Cát ư? Cát tức là cát trên đường đua sao ạ?",
+      "jpname": "ホッコータルマエ",
+      "jptext": "砂？　砂ってダートの砂、ですか？"
+    },
+    {
+      "name": "",
+      "text": "Phong thủy không phải trò mê tín cầu may mà là môi trường khai vận học. Nếu đúng là vậy thì việc thấu hiểu bản thân đang ở đâu và trong trạng thái nào là điều tối quan trọng.",
+      "jpname": "モノローグ",
+      "jptext": "――風水はゲン担ぎではなく環境開運学。もしそうなら、\n今どういう場所にどういう状態でいるのか、理解することが大切だ。"
+    },
+    {
+      "name": "",
+      "text": "Thứ truyền tải điều đó rõ nét nhất chính là \"cát\". Tựa như \"sỏi vụn\" nơi sân trường hay \"cát trắng\" chốn bờ biển, lớp cát của đường đua đã chỉ dẫn dòng chảy của Khí cho em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "それを鮮明に伝えてくれるのが“砂”。グラウンドの“砂利”や\n浜辺の“白砂”のように、ダートの砂が氣の流れを教えてくれる。",
+      "choice_data_list": [
+        "Tiến lên, Rickey!!"
+      ],
+      "jpchoice_data_list": [
+        "いけ、リッキー！！"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Trainer! Vâng! Phải chọn vị trí ở đâu đây. Đoái, Chấn, Cấn... Được rồi, Chấn! Bứt ra hướng Đông nơi Khí loãng sẽ dễ chạy tự do hơn)",
+      "jpname": "コパノリッキー",
+      "jptext": "（トレーナー！　うん！　どこに位置取るか。兌、震、艮……。\nよし、震！　氣が薄い東に抜けたほうが自由に走れる）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Ngũ hành tương sinh! Mộc sinh Hỏa, Hỏa sinh Thổ! Điểm phát động tấn công chính là đoạn vừa vượt qua cái cây to đằng kia)",
+      "jpname": "コパノリッキー",
+      "jptext": "（五行相生！　木から火が生まれ、火は土に還る！\n仕掛けどころは、あの大きな木を通り過ぎたあたり）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "(Đoạn thẳng cuối cùng! \"Loan Đầu\", \"Lý Khí\"... tất cả đã sẵn sàng. Vận thế vẹn toàn. Giờ chỉ còn...)",
+      "jpname": "コパノリッキー",
+      "jptext": "（最終直線！　『巒頭』、『理氣』……全て整った。\n運勢は万全。あとはただ――）"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Kẻ nhanh hơn sẽ chiến thắng!! Dồn toàn bộ sức mạnh đã tích lũy vào phương cát tường!! Yaaa a a a a a a a a a a a a a a a a!!!!!",
+      "jpname": "コパノリッキー",
+      "jptext": "速いほうが勝つ！！　積み上げた力を吉方位に全力で！！\nやぁぁぁああああああああああああ！！！！！"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Bứt phá hoàn toàn rồi ư!? N-Nước chạy này là...!!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "完全に突き抜けた！？　こ、この走りは……！！"
+    },
+    {
+      "name": "Trainer kỳ cựu B",
+      "text": "Gì thế này, khác hẳn một trời một vực so với hôm nọ!? Chuyện gì đã xảy ra vậy!?",
+      "jpname": "中堅トレーナーB",
+      "jptext": "なんだなんだ、この前と全然違うぞ！？\n何があったんだ！？"
+    },
+    {
+      "name": "",
+      "text": "Chẳng có chuyện gì kỳ lạ cả. Đây chính là thực lực vốn có của Copano Rickey. Một khi đã chuẩn bị chu toàn và nhìn thấu được Khí của trường đua, em ấy mới có thể bộc lộ những bước chạy đích thực.",
+      "jpname": "モノローグ",
+      "jptext": "何かがあったわけでない。これが本来のコパノリッキーの力。\n事前に準備し、場の氣が見えた時にできる本当の走りだった。"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, trận tuyển chọn khép lại...",
+      "jpname": "モノローグ",
+      "jptext": "こうして選抜レースは終わり――"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Trainer, cảm ơn anh nhé. Nhờ có anh mà em đã có được những bước chạy đỉnh nhất luôn☆",
+      "jpname": "コパノリッキー",
+      "jptext": "トレーナー、ありがとう。\nおかげで最高の走りができちゃった☆"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Em có thể nhận ra lý do mình không nghe thấy tiếng nói là nhờ có anh đã tin tưởng phong thủy và cùng em suy ngẫm!",
+      "jpname": "コパノリッキー",
+      "jptext": "聲が聞こえない理由に気づくことができたのは、\nキミが風水を信じ、考えてくれたおかげ！"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Thế nên, em muốn lan tỏa sức mạnh phong thủy tuyệt vời này để giúp những ai đang chán nản hay bế tắc cùng được hạnh phúc...",
+      "jpname": "コパノリッキー",
+      "jptext": "というわけで、私はこの素晴らしい風水の力を広めて、\n落ち込んだり迷ってるみんなをハッピーにしたいんだけど――"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Anh sẽ giúp em một tay chứ? Với tư cách là Trainer của em! Lần này anh sẽ không nói lời từ chối nữa đâu đúng không?",
+      "jpname": "コパノリッキー",
+      "jptext": "力、貸してくれる？　私のトレーナーとして！\n今度こそ、ノーとは言わないよね？",
+      "choice_data_list": [
+        "Được chứ, tất nhiên rồi!",
+        "Được chứ, tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、もちろん！",
+        "うん、もちろん！"
+      ]
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Tuyệt cú mèo luôn! Hiếm có ai chịu tin phong thủy từ đáy lòng và cùng ước mong mang lại hạnh phúc cho mọi người như anh lắm đấy☆",
+      "jpname": "コパノリッキー",
+      "jptext": "やったぁぁぁ！　なかなか見つからないんだよね。\n風水を心から信じて、みんなを幸せにしたいって願ってくれる人☆"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Em với anh quả đúng là \"Tương sinh\" mà! Gặp được anh, em thấy mình thực sự siêu may mắn và hạnh phúc luôn đó♪",
+      "jpname": "コパノリッキー",
+      "jptext": "キミと私はまさしく『相生』！\n出会えた私は本当にラッキーでハッピーだよ♪"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Ư ư ư... chẳng ngờ Rickey lại chuyển sang đường cát. Nhưng nhìn những bước chạy hôm nay...",
+      "jpname": "ホッコータルマエ",
+      "jptext": "むむむ……まさかリッキーがダートに来るなんて。\nでも今日の走りを見ていると……。"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Chưa bàn tới phong thủy ra sao, có khi cậu ấy sẽ là đối thủ đáng gờm đây...!? Nhưng mà... tôi nhất định không chịu thua đâu!!",
+      "jpname": "ホッコータルマエ",
+      "jptext": "風水とか関係なく、わりと手ごわいのかも……！？\nけど……負けないんだから！！"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "Ừm ừm, thiệt tình mà nói. Bà già này cũng sẽ chơi đùa thỏa thích với mấy đứa nha.",
+      "jpname": "ワンダーアキュート",
+      "jptext": "うんうん、ほんにのぉ。あたしも、\nたーんと遊んであげることにしようかのぉ。"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Tarumae! Chị Acute! Vâng, mong được hai người chỉ giáo nhiều ạ♪",
+      "jpname": "コパノリッキー",
+      "jptext": "タルマエ！　アキュートさん！\nうん、よろしくね♪"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Nhất định em cũng sẽ dùng phong thủy để khiến cả hai người cùng hạnh phúc luôn đó☆",
+      "jpname": "コパノリッキー",
+      "jptext": "ぜーったい2人のことも\n風水でハッピーにしちゃうんだから☆"
+    },
+    {
+      "name": "",
+      "text": "Cùng với những kình địch đáng gờm chắn lối trên con đường đua cát. Con đường ngập tràn hạnh phúc của Copano Rickey chính thức bắt đầu từ đây!",
+      "jpname": "モノローグ",
+      "jptext": "そしてダート路線に立ちはだかる手ごわいライバルたち。\nコパノリッキーのハッピーロードはこうして始まった！"
+    }
+  ]
+}
