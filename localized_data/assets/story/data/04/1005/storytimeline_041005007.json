@@ -1,0 +1,374 @@
+{
+  "title": "Hãy cho tôi thấy",
+  "jptitle": "Show me",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vài ngày đã trôi qua kể từ khi đợt trại hè bắt đầu. Có lẽ mọi người đều đang say giấc nồng nên khu nhà trại ban đêm tĩnh lặng như tờ.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿が始まってから、数日が過ぎた。\nみんなぐっすり眠っているのか、夜の合宿所は静まり返っている。"
+    },
+    {
+      "name": "",
+      "text": "Tôi thức dậy đi uống nước, nhưng sảnh chờ vắng tanh vắng ngắt lại mang một vẻ rờn rợn kỳ lạ――",
+      "jpname": "モノローグ",
+      "jptext": "水を飲みに起きだして来てしまったが、\nがらんとしたロビーは、どこか不気味だ――"
+    },
+    {
+      "name": "???",
+      "text": "Oán... hận... quá... đi...",
+      "jpname": "？？？",
+      "jptext": "う～ら～め～し～や～。",
+      "choice_data_list": [
+        "Oái!"
+      ],
+      "jpchoice_data_list": [
+        "わあっ！"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hứ hứ hứ, phản ứng tuyệt ghê nha. Hù dọa Trainer-san đúng là bõ công thật đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "ふふふ、いい反応だなぁ。\nトレーナーさんは、おどかしがいがあるね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Đừng có làm vẻ mặt đó mà. Em chỉ lỡ trêu chút thôi, tha lỗi cho em nhé.",
+      "jpname": "フジキセキ",
+      "jptext": "そんな顔しないで。\nほんの出来心なんだ、許しておくれよ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tự dưng em thấy tỉnh như sáo ấy. Đang buồn chán chẳng biết làm gì thì Trainer-san lại xuất hiện đúng lúc ghê!",
+      "jpname": "フジキセキ",
+      "jptext": "なんだか目がさえてしまってね。\n暇をもてあましていたら、トレーナーさんが来たというわけさ！",
+      "choice_data_list": [
+        "Em không ngủ được sao?",
+        "Bạn không ngủ được sao?"
+      ],
+      "jpchoice_data_list": [
+        "眠れないのか？",
+        "眠れないの？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Anh không cần phải lo lắng đâu. Không phải do bất an gì đâu nhé. Nhưng mà, đây có lẽ là một cơ hội rất tốt đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "心配ご無用。不安とかじゃないんだ。\nだけど、これはいい機会なのかもしれない。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Trainer-san, anh có muốn cùng em đi dạo đêm một chuyến không nào?",
+      "jpname": "フジキセキ",
+      "jptext": "トレーナーさん、私と夜の散歩にいかないかい？"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "A, một đêm thật khoan khoái làm sao―― Kể từ lúc tới trại hè tập huấn tới nay, chưa có đêm nào tự do thế này đâu nhỉ.",
+      "jpname": "フジキセキ",
+      "jptext": "ああ、気持ちのいい夜だ――\n合宿に来てから、こんな自由な夜はなかったかな。",
+      "choice_data_list": [
+        "Em không đi lễ hội mùa hè hay xem pháo hoa sao?",
+        "Bạn không đi lễ hội mùa hè hay xem pháo hoa sao?"
+      ],
+      "jpchoice_data_list": [
+        "夏祭りや花火大会には行っていないのか？",
+        "夏祭りや花火大会には行っていないの？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Trông thế này thôi chứ trưởng ký túc xá có nhiều việc phải làm lắm đấy. Chẳng hạn như dỗ dành mấy nhóc pony lạ chỗ không ngủ được này nọ.",
+      "jpname": "フジキセキ",
+      "jptext": "こうみえて、寮長はやることが多いのさ。\n枕が変わって眠れないポニーちゃんを、慰めたりね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thế nhưng chỉ riêng đêm nay thôi, hay là em gạt bỏ chức vụ qua một bên để độc chiếm lấy anh nhỉ?",
+      "jpname": "フジキセキ",
+      "jptext": "だけど今夜だけは、立場を忘れて\n君を独りじめしてしまおうかな？",
+      "choice_data_list": [
+        "Đừng có trêu chọc người lớn quá trớn đấy nhé?",
+        "Đừng có trêu chọc người lớn quá trớn đấy nhé?"
+      ],
+      "jpchoice_data_list": [
+        "あんまり大人をからかいすぎるなよ？",
+        "あんまり大人をからかいすぎないでね？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahaha, em nói thật lòng đấy chứ. Em muốn Trainer-san hãy dõi theo em.",
+      "jpname": "フジキセキ",
+      "jptext": "あははっ、本気だよ。\nトレーナーさんに、私を見ていてほしいんだ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Này, chúng ta cùng thi chạy ra bờ biển nhé.",
+      "jpname": "フジキセキ",
+      "jptext": "ねえ、ビーチまで競走しようか。",
+      "choice_data_list": [
+        "K-Khoan đã nào, đợi anh với――",
+        "K-Khoan đã nào, đợi tôi với――"
+      ],
+      "jpchoice_data_list": [
+        "ちょ、ちょっと、待てって――",
+        "ちょ、ちょっと、待って――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vừa dứt lời, Fuji Kiseki đã lập tức lao vụt đi.",
+      "jpname": "モノローグ",
+      "jptext": "言うなり、フジキセキは駆け出していく。"
+    },
+    {
+      "name": "",
+      "text": "Dáng chạy ấy đích thực là \"Sao băng đen\". Vừa uyển chuyển vừa dũng mãnh, không vương lại một chút do dự nào.",
+      "jpname": "モノローグ",
+      "jptext": "その走りは、まさに“黒い流星”。\nしなやかで力強く、いっさいの迷いを感じさせない。"
+    },
+    {
+      "name": "",
+      "text": "Và còn mang theo một nhiệt lượng cuồn cuộn tựa như muốn nuốt chửng tất cả. Một ngọn lửa đam mê bất tận dành cho những sải bước chạy đua.",
+      "jpname": "モノローグ",
+      "jptext": "そして、迫りくるような熱を帯びていた。\n走ることへの、あくなき情熱を。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hà... hà...",
+      "jpname": "フジキセキ",
+      "jptext": "はぁ……はぁ……。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tiếng sóng vỗ rì rào nghe êm ái làm sao―― quả thật là một đêm sảng khoái anh nhỉ.",
+      "jpname": "フジキセキ",
+      "jptext": "さざ波の音が心地よくて――本当に気持ちのいい夜だね。",
+      "choice_data_list": [
+        "Fuji Kiseki, rốt cuộc thì em đã――",
+        "Fuji Kiseki, rốt cuộc thì bạn đã――"
+      ],
+      "jpchoice_data_list": [
+        "フジキセキ、いったい君に何が――",
+        "フジキセキ、いったい貴方に何が――"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Anh thấy thế nào? Em muốn cho anh xem thành quả của đợt trại hè đấy. Mấy ngày nay, việc chạy bộ thật sự làm em thấy vui sướng khôn xiết.",
+      "jpname": "フジキセキ",
+      "jptext": "いかがかな？　合宿の成果を見せたかったんだ。\nこの数日、本当に走るのが楽しくってね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Tim anh đã đập thình thịch chưa nào?",
+      "jpname": "フジキセキ",
+      "jptext": "……ドキドキ、してくれたかな？",
+      "choice_data_list": [
+        "Làm anh giật cả mình đấy!"
+      ],
+      "jpchoice_data_list": [
+        "驚かされたよ！"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――",
+      "jpname": "フジキセキ",
+      "jptext": "――――"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Có một điều em rất muốn anh lắng nghe. Một chuyện vô cùng quan trọng.",
+      "jpname": "フジキセキ",
+      "jptext": "君に聞いてほしいことがあるんだ。\n大切なこと。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Kể từ lúc cô bé hậu bối vì chấn thương mà phải rời học viện, em đã luôn suy nghĩ mãi. Rốt cuộc thì \"ước mơ với tư cách một Mã Nương\" mà con bé gửi gắm cho em là gì.",
+      "jpname": "フジキセキ",
+      "jptext": "後輩がケガで学園を去った時から、ずっと考えていた。\n彼女に託された、『ウマ娘としての夢』ってなんだろう。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Làm thế nào em mới có thể gánh vác trọn vẹn nỗi niềm của con bé trên vai.",
+      "jpname": "フジキセキ",
+      "jptext": "どうしたら、彼女の想いも背負えるだろうって。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thế nhưng, vào ngày cùng anh đi xem kịch hôm ấy, em đã nhận ra rồi. Điều mà bản thân em phải làm.",
+      "jpname": "フジキセキ",
+      "jptext": "だけど、君と舞台を観に行ったあの日に気づけたんだ。\n私がやるべきこと。",
+      "choice_data_list": [
+        "Hãy nói cho anh nghe đi",
+        "Hãy nói cho tôi nghe đi"
+      ],
+      "jpchoice_data_list": [
+        "聞かせてくれ",
+        "聞かせて"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Một nghệ sĩ trình diễn tuyệt đỉnh luôn mang lại niềm vui cho muôn người, \"Fuji Kiseki\"! Đó là hình mẫu mà em luôn khao khát trở thành.",
+      "jpname": "フジキセキ",
+      "jptext": "みんなを楽しませる最高のエンターテイナー、“フジキセキ”！\nそれが、私のなりたい私だ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thế nhưng, giấc mơ này vẫn còn có phần tiếp theo nữa cơ.",
+      "jpname": "フジキセキ",
+      "jptext": "だけど、この夢には続きがあったんだよ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Em vừa muốn mang lại niềm vui, vừa muốn xoa dịu đi nỗi buồn của mọi người. Em muốn gánh vác trên vai những ước mơ dang dở chưa thành của những người khác.",
+      "jpname": "フジキセキ",
+      "jptext": "みんなを楽しませるし、みんなの悲しみを癒してあげたい。\n誰かの叶わなかった夢を、私は背負っていきたい。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Để làm được điều đó, em sẽ không bao giờ chịu thua bất kỳ ai!",
+      "jpname": "フジキセキ",
+      "jptext": "そのために、私は誰にも負けない！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Từ nay về sau em sẽ mãi tiếp tục sải bước, giành chiến thắng ở vô số cuộc đua! Cứ thế gặt hái thêm nhiều chiến tích――",
+      "jpname": "フジキセキ",
+      "jptext": "これからずっと走り続けて、たくさんのレースで勝つんだ！\nそうやって勝ち星を上げて――"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Và một ngày nào đó sẽ đoạt lấy ước mơ của mọi Mã Nương, \"Minh chứng của kẻ mạnh nhất\".",
+      "jpname": "フジキセキ",
+      "jptext": "いつかウマ娘の夢、“最強の証”を手に入れる。",
+      "choice_data_list": [
+        "Minh chứng của kẻ mạnh nhất, chẳng lẽ là..."
+      ],
+      "jpchoice_data_list": [
+        "最強の証って、まさか……"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――Đoạt lấy danh hiệu Tam Miện. Đó chính là giấc mơ của đời tôi.",
+      "jpname": "フジキセキ",
+      "jptext": "――三冠を取る。それこそが、私の夢だ。",
+      "choice_data_list": [
+        "\"Tam Miện\"...!"
+      ],
+      "jpchoice_data_list": [
+        "『三冠』……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tam Miện ―― danh hiệu chỉ được trao tặng cho Mã Nương chinh phục được cả 3 cuộc đua danh giá đặc biệt: \"Satsuki Sho\", \"Nippon Derby\" và \"Kikuka Sho\".",
+      "jpname": "モノローグ",
+      "jptext": "三冠――、『皐月賞』、『日本ダービー』、『菊花賞』という\n特別な3つのレースを制覇したウマ娘だけに与えられる称号だ。"
+    },
+    {
+      "name": "",
+      "text": "Trong lịch sử Twinkle Series, số lượng Mã Nương chạm tay tới Tam Miện chỉ đếm trên đầu ngón tay. Được bước lên đỉnh vinh quang chói lọi ấy chính là niềm khao khát cháy bỏng của toàn thể Mã Nương...!",
+      "jpname": "モノローグ",
+      "jptext": "トゥインクル・シリーズ史上、三冠を手にしたウマ娘はごく少数。\nその栄誉に輝くことは、全ウマ娘の憧れである……！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Đêm nay, tôi xin thề với anh. ――Lời thề này đã chạm tới trái tim anh chưa nào?",
+      "jpname": "フジキセキ",
+      "jptext": "今宵、君に誓うよ。\n――君の心に届いたかな？",
+      "choice_data_list": [
+        "Anh đã nghe thấy rất rõ rồi"
+      ],
+      "jpchoice_data_list": [
+        "確かに、聞かせてもらったよ"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Một khi đã nói thành lời, em nhất định sẽ biến nó thành hiện thực. Bởi em ghét nhất là phụ lòng mong đợi của người khác mà!",
+      "jpname": "フジキセキ",
+      "jptext": "言葉にしたからには、私は必ず実現するよ。\n誰かの期待を裏切るのは、なにより嫌だからね！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Để làm được điều đó, em phải tập luyện nghiêm túc hơn nữa mới được. Đi cùng em nhé, Trainer-san!",
+      "jpname": "フジキセキ",
+      "jptext": "そのために、もっと本気でトレーニングしなくちゃ。\n付き合っておくれよ、トレーナーさん！"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, tôi đồng hành cùng buổi tập luyện của Fuji Kiseki thêm một lúc. Trong ánh mắt của em ấy ánh lên một ngọn lửa nhiệt huyết mà tôi chưa từng thấy trước đây.",
+      "jpname": "モノローグ",
+      "jptext": "それから、しばらくフジキセキのトレーニングに付き合った。\n彼女の瞳には、初めて見るような熱が宿っていた。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Phù... Em vẫn muốn nói là còn chưa đã, nhưng trời sắp tảng sáng mất rồi.",
+      "jpname": "フジキセキ",
+      "jptext": "ふぅ……。まだまだ、と言いたいところだけど、\nそろそろ空が白んでしまうね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Dẫu sao thì một giấc mơ to lớn nhường ấy đang hiện ra ngay trước mắt em mà. Em chỉ muốn vươn tay ra nắm thật chặt lấy nó.",
+      "jpname": "フジキセキ",
+      "jptext": "なにせ、目の前におっきな夢が浮かんでいるんだ。\n手を伸ばして掴みたくってさ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lúc này đây, em chỉ khao khát được lao mình chạy thôi.",
+      "jpname": "フジキセキ",
+      "jptext": "今は、走りたくてたまらないんだ。",
+      "choice_data_list": [
+        "Vì giấc mơ của em, có điều gì anh có thể làm được không?",
+        "Vì giấc mơ của bạn, có điều gì tôi có thể làm được không?"
+      ],
+      "jpchoice_data_list": [
+        "君の夢のために、できることはあるか？",
+        "貴方の夢のために、できることはある？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Một lần nữa, em muốn nhờ cậy vào Trainer-san đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "改めて、トレーナーさんにお願いするよ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Từ nay về sau, xin hãy tiếp tục dẫn dắt em. Với tư cách người thấu hiểu em nhất, một cộng sự tri kỷ luôn kề vai sát cánh bên em!",
+      "jpname": "フジキセキ",
+      "jptext": "これからも、私を導いてほしい。\nいちばんの理解者、相棒として、傍にいてほしいんだ！",
+      "choice_data_list": [
+        "Anh hiểu rồi"
+      ],
+      "jpchoice_data_list": [
+        "わかった"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lấy danh dự của một nghệ sĩ trình diễn đỉnh cao nhất, tôi nhất định sẽ mang lại cho anh niềm vui say đắm hơn bất kỳ ai.",
+      "jpname": "フジキセキ",
+      "jptext": "最高のエンターテイナーの名にかけて、\n君を誰より楽しませてみせるよ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Em muốn anh hãy ở vị trí gần em nhất để dõi theo từng \"Kỳ tích\" của em.",
+      "jpname": "フジキセキ",
+      "jptext": "いちばん近くで、私の“キセキ”を見ていてほしい。"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, những ngày tháng cùng Fuji Kiseki theo đuổi ước mơ đã chính thức bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "こうして、フジキセキとともに夢を追う日々が始まった。"
+    }
+  ]
+}

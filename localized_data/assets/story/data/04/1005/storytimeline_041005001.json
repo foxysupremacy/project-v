@@ -1,0 +1,354 @@
+{
+  "title": "Giờ diễn bắt đầu",
+  "jptitle": "It's show time",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, sau khi xong việc và trở về phòng riêng――",
+      "jpname": "モノローグ",
+      "jptext": "ある日、仕事を終え自室に戻ると――",
+      "choice_data_list": [
+        "(Huy hiệu Trainer của mình đâu rồi...!?)"
+      ],
+      "jpchoice_data_list": [
+        "（トレーナーバッジがない……！？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Theo đúng quy định thì mình lúc nào cũng cài nó trên cổ áo cơ mà... Lẽ nào lại đánh rơi ở đâu đó rồi sao? Phải mau chóng đi tìm thôi!",
+      "jpname": "モノローグ",
+      "jptext": "規則通り、いつも襟につけていたはずなのだけれど……\nどこかに落としてしまったのだろうか？　急いで探しに行こう！"
+    },
+    {
+      "name": "",
+      "text": "Tôi đi vòng quanh khắp học viện để tìm chiếc huy hiệu Trainer. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーバッジを探して、学園内を方々歩き回った。しかし――",
+      "choice_data_list": [
+        "(Hoàn toàn chẳng thấy đâu cả...)"
+      ],
+      "jpchoice_data_list": [
+        "（全然見つからない……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Liệu có rơi vào góc sàn nào không, phải tìm kỹ lại lần nữa xem sao. Nghĩ vậy, tôi vừa căng mắt quan sát thì――",
+      "jpname": "モノローグ",
+      "jptext": "床の隅などに落ちていないか、もう1度よく探してみよう。\nそう思い、目を凝らしたところ――"
+    },
+    {
+      "name": "???",
+      "text": "――Ô kìa!",
+      "jpname": "？？？",
+      "jptext": "――おっと！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Xin lỗi nhé! Cậu có sao không? Có bị thương ở đâu không?",
+      "jpname": "フジキセキ",
+      "jptext": "ごめんね！　大丈夫？　ケガはないかい？",
+      "choice_data_list": [
+        "Anh mới phải xin lỗi, do anh không để ý nhìn đường...",
+        "Tôi mới phải xin lỗi, do tôi không để ý nhìn đường..."
+      ],
+      "jpchoice_data_list": [
+        "俺こそごめん、よく見ていなくて……",
+        "私こそごめんなさい、よく見ていなくて……"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Không sao, cả hai đều không bị làm sao là tốt rồi! ――Cơ mà trông cậu có vẻ mặt bồn chồn lo lắng thế kia.",
+      "jpname": "フジキセキ",
+      "jptext": "ううん、お互いなんともないならよかった！\n――でも君、なんだか切羽詰まった顔をしているね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vừa nãy tôi cũng thấy cậu cứ chăm chú nhìn xuống sàn... Lẽ nào cậu đang tìm kiếm thứ gì quan trọng sao?",
+      "jpname": "フジキセキ",
+      "jptext": "さっきも床をじーっと見つめていたし……\nもしかして、なにか大事なものを探しているのかな？"
+    },
+    {
+      "name": "",
+      "text": "Tôi giải thích rằng mình đã đánh rơi huy hiệu Trainer và hiện đang trong lúc đi tìm...",
+      "jpname": "モノローグ",
+      "jptext": "実はトレーナーバッジを落としてしまって、\n探している最中なのだ……と伝えた。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Huy hiệu Trainer ư! Thế thì nguy thật đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "トレーナーバッジ！　それは大変だ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Khuôn viên Học viện Tracen người ngoài không có phận sự thì cấm vào mà. Nếu không đeo huy hiệu, khéo cậu sẽ bị hiểu lầm là kẻ khả nghi mất...?",
+      "jpname": "フジキセキ",
+      "jptext": "トレセン学園の敷地内は、関係者以外立入禁止だからね。\nバッジがないままだと、不審者だって誤解されちゃうかも……？"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Nhắc mới nhớ, cậu có biết chuyện này không? Trước đây từng có một kẻ táo tợn lẻn vào học viện lúc nửa đêm mà không có sự cho phép đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "そういえば、知ってるかい？\n以前、深夜の学園内に許可なく立ち入った不届き者がいてね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hắn đắc ý cười thầm rồi một mình rảo bước trên hành lang tối om, vắng lặng không một bóng người, nhưng rồi...",
+      "jpname": "フジキセキ",
+      "jptext": "しめしめとほくそ笑んだ彼は誰もいない、\n静まり返った真っ暗な廊下を1人で歩いていたんだけど……。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Đúng lúc ấy, có tiếng bước chân lộc cộc không phải của hắn đang tiến lại gần... Và ngay khoảnh khắc hắn quay đầu lại, cô Tazuna đang mỉm cười rạng rỡ――!",
+      "jpname": "フジキセキ",
+      "jptext": "その時、コツ、コツと自分のものじゃない足音が近づいてきて……\n振り向くと次の瞬間、満面の笑みを浮かべたたづなさんが――！",
+      "choice_data_list": [
+        "(Nuốt nước bọt...!)"
+      ],
+      "jpchoice_data_list": [
+        "（ゴクリ……！）"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Phì... Đùa chút thôi mà!",
+      "jpname": "フジキセキ",
+      "jptext": "ふふっ……なーんてね！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Trainer-san, anh thử kiểm tra túi áo xem nào.",
+      "jpname": "フジキセキ",
+      "jptext": "トレーナーさん、服のポケットを見てごらんよ。"
+    },
+    {
+      "name": "",
+      "text": "Bất ngờ bị bảo như vậy, tôi bán tín bán nghi lục túi áo của mình thì――",
+      "jpname": "モノローグ",
+      "jptext": "唐突にそう言われ、不思議に思いながらポケットを探ると――",
+      "choice_data_list": [
+        "Huy hiệu ở trong này ư!?"
+      ],
+      "jpchoice_data_list": [
+        "バッジがあった！？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Em vừa nhặt được ở đằng kia đấy. Thật may mắn khi gặp lại ngay chủ nhân của nó nhỉ!",
+      "jpname": "フジキセキ",
+      "jptext": "ついさっきそこで拾ったんだ。\n落とし主さんにすぐ出会えるなんて、ラッキーだね！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thấy vẻ hớt hải của anh cùng chiếc cổ áo trống trơn, em đoán chừng là vậy... Thật tốt quá vì đã đoán trúng!",
+      "jpname": "フジキセキ",
+      "jptext": "君の慌ててる様子とか、襟にバッジがないところからして、\n多分そうじゃないかなって思ったんだけど……当たりでよかった！",
+      "choice_data_list": [
+        "Em bỏ vào túi anh từ lúc nào thế...?"
+      ],
+      "jpchoice_data_list": [
+        "いつポケットに……？"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vừa nãy lúc va vào anh một chút thôi. Em khá rành mấy trò ảo thuật đấy! Phù phù phù, anh có bất ngờ không nào?",
+      "jpname": "フジキセキ",
+      "jptext": "さっきぶつかった時にちょっとね。手品は得意なんだ！\nふふふっ、びっくりしたかい？"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Nhưng mà, có lẽ em đã dọa anh hơi quá đà rồi. Thay vì chỉ trả lại bình thường, em muốn tạo cho anh một bất ngờ thú vị cơ... Cho em xin lỗi nhé.",
+      "jpname": "フジキセキ",
+      "jptext": "でも、少しおどかしすぎちゃったかな。普通に返すだけじゃなくて、\n楽しいサプライズにしたかったんだけど……ごめんね。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "A, phải rồi! Hay là để tạ lỗi, em mời anh đi ăn gì nhé? Lần này em nhất định sẽ khiến Trainer-san cảm thấy vui vẻ cho xem!",
+      "jpname": "フジキセキ",
+      "jptext": "あっ、そうだ！　お詫びにご飯でもどうかな？\n今度こそ、トレーナーさんを楽しませてみせるよ！",
+      "choice_data_list": [
+        "Đúng ra anh mới là người phải cảm ơn em chứ...",
+        "Đúng ra tôi mới là người phải cảm ơn bạn chứ..."
+      ],
+      "jpchoice_data_list": [
+        "むしろお礼をさせてほしいんだが……",
+        "むしろお礼をさせてほしいんだけど……"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vậy thì coi như 'đi ăn cùng em' chính là lời cảm ơn nhé! Nào, chúng ta cùng tới căn tin thôi, Trainer-san.",
+      "jpname": "フジキセキ",
+      "jptext": "なら、『私との食事に付き合う』がお礼ということにしよう！\nさ、カフェテリアに行こうか、トレーナーさんっ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Nhân tiện, Trainer-san có biết không? Hôm nay là ngày thực đơn bánh mì có thêm món đặc biệt đấy!",
+      "jpname": "フジキセキ",
+      "jptext": "ところでトレーナーさん、知ってる？\n今日はパンの特別メニューが追加される日なんだよ！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bánh mì mặn cũng có nhiều loại phong phú hơn hẳn mọi khi, và món bánh mì cà rốt EX thơm ngon vượt bậc so với bánh thông thường cũng rất đáng thử đấy!",
+      "jpname": "フジキセキ",
+      "jptext": "惣菜パンもいつも以上に豊富な種類が提供されるし、\nにんじんパンを超える美味しさ……にんじんパンEXもお勧めだよ！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Trainer-san thích loại nào nhỉ? Bất kể món gì anh thích em đều sẽ lấy về cho, nên anh cứ thoải mái nói nhé!",
+      "jpname": "フジキセキ",
+      "jptext": "トレーナーさんはどれがいいかな。\nなんでも好きなものを持ってくるから、気軽に言ってね！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Anh đã phải đi khắp cả học viện để tìm huy hiệu đúng không? Chắc là mệt lắm rồi. Hãy ăn thật nhiều để lấy lại năng lượng nhé!",
+      "jpname": "フジキセキ",
+      "jptext": "バッジを探して、学園中歩き回ったんじゃないかい？\nきっと疲れてるだろう。いっぱい食べて、元気になってね！"
+    },
+    {
+      "name": "",
+      "text": "――Sau đó, nhờ có Fuji Kiseki ân cần săn sóc đủ điều, nỗi mệt nhọc vì mải miết tìm huy hiệu của tôi đã tan biến hoàn toàn.",
+      "jpname": "モノローグ",
+      "jptext": "――その後もフジキセキがあれこれと気を回してくれたおかげで、\nバッジを探し回った疲れが吹っ飛んだのだった。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――Trainer-san, mùi vị thế nào ạ?",
+      "jpname": "フジキセキ",
+      "jptext": "――トレーナーさん、お味はどうかな？"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tổng hợp từ sở thích của anh mà em vừa hỏi được, em đã chọn một món tráng miệng chắc là hợp khẩu vị với anh đấy.",
+      "jpname": "フジキセキ",
+      "jptext": "ここまで聞いた君の好みを総合して、\n口に合いそうなデザートを選んできたんだけど。",
+      "choice_data_list": [
+        "Ngon lắm em...!"
+      ],
+      "jpchoice_data_list": [
+        "すごく美味しい……！"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thật sao!? Tuyệt, hoan hô!!",
+      "jpname": "フジキセキ",
+      "jptext": "本当！？　よしっ、やったー！！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Ấy xin lỗi nhé, em lỡ phấn khích quá. Nhìn thấy nụ cười rạng rỡ của Trainer-san, em cũng thấy vô cùng mãn nguyện rồi!",
+      "jpname": "フジキセキ",
+      "jptext": "……っとごめんね、ついはしゃいじゃった。\nトレーナーさんのいい顔が見られて、私も大満足だよ！",
+      "choice_data_list": [
+        "Em chu đáo thật đấy",
+        "Bạn chu đáo thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "優しいんだな",
+        "優しいんだね"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haha, chính tấm lòng của anh khi nghĩ được như vậy mới là dịu dàng chu đáo đấy chứ.",
+      "jpname": "フジキセキ",
+      "jptext": "あははっ、そう思ってくれる君の心が優しいんだよ、それは。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Một khi đã cùng nhau trải qua những giây phút này, em chỉ muốn mang đến cho anh khoảng thời gian vui vẻ nhất mà thôi.",
+      "jpname": "フジキセキ",
+      "jptext": "私は、こうして一緒に過ごす以上\n最高に楽しい時間を提供したかったってだけさ。"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Một nghệ sĩ trình diễn luôn mang lại niềm vui cho mọi người, \"Fuji Kiseki\"! Đó mới chính là hình mẫu mà em luôn khao khát trở thành.",
+      "jpname": "フジキセキ",
+      "jptext": "常にみんなを楽しませるエンターテイナー、“フジキセキ”！\nそれが、私のなりたい私だからね。"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Tiền bối Fujiii--!! Nguy to rồi, tình huống khẩn cấp!!",
+      "jpname": "ビコーペガサス",
+      "jptext": "フジせんぱぁぁーーーいっ！！\n大変大変、緊急事態だっ！！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ơ kìa, Biko! Có chuyện gì thế em?",
+      "jpname": "フジキセキ",
+      "jptext": "おや、ビコー！　どうしたのかな？"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Tivi ở ký túc xá tự dưng không lên hình nữa rồi ạ! Mọi người ai cũng muốn xem chương trình tiếp sóng trực tiếp cuộc đua ban đêm nên đang cuống cả lên đấy ạ!",
+      "jpname": "ビコーペガサス",
+      "jptext": "なんか、寮のテレビが映らなくなっちまってさぁ！\nレースのナイター中継見たいのにって、みんな困ってるんだよー！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Thế thì gay cấn thật đấy! Được rồi, chị qua ngay đây. Cảm ơn em đã báo cho chị biết nhé, Biko!",
+      "jpname": "フジキセキ",
+      "jptext": "それは大変だな！　よし、すぐ行くよ。\n知らせてくれてありがとう、ビコー！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "A! Tiền bối Fuji ở đây rồi!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "あ！　フジ先輩、ここにいたぁ～！！"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Này này, không có tiền bối là chán ngắt luôn á! Lại biểu diễn mấy trò ảo thuật thú vị như hồi trước cho tụi em xem đi mà!!",
+      "jpname": "マヤノトップガン",
+      "jptext": "ねーねー、先輩いないとつまんないよー！\nまた前みたいに、おもしろい手品とか見せて見せて～！！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hahaha, đúng là nhóc pony nghịch ngợm. Được rồi được rồi, chị về ngay đây nên các em cứ đợi ở ký túc xá nhé!",
+      "jpname": "フジキセキ",
+      "jptext": "あはははっ、困ったポニーちゃんだ。\nわかったわかった、すぐ行くから寮で待ってて！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "――Trainer-san, em phải về ký túc xá trước đây. Hôm nay em đã có một khoảng thời gian rất vui vẻ. Cảm ơn anh nhé!",
+      "jpname": "フジキセキ",
+      "jptext": "――トレーナーさん、私は先に寮へ戻るね。\n今日は楽しい時間が過ごせたよ。ありがとう！"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vậy nhé, hẹn gặp lại anh ở đâu đó nha!",
+      "jpname": "フジキセキ",
+      "jptext": "それじゃ、またどこかで会おうね！"
+    },
+    {
+      "name": "",
+      "text": "Nở một nụ cười sảng khoái, Fuji Kiseki rời bước khỏi nơi đó.",
+      "jpname": "モノローグ",
+      "jptext": "爽やかな笑顔で、フジキセキはその場を立ち去って行った。"
+    },
+    {
+      "name": "",
+      "text": "Nếu nhớ không lầm thì Fuji Kiseki còn là trưởng ký túc xá của \"Ký túc xá Ritto\". Nhìn dáng vẻ vừa rồi, có vẻ như mọi người đều hết mực tin tưởng và dựa dẫm vào em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "確かフジキセキは、『栗東寮』の寮長でもあったはずだ。\n先程の様子を見るに、みんなが彼女のことを頼りにしているらしい。"
+    },
+    {
+      "name": "",
+      "text": "Một Fuji Kiseki được tất cả mọi người yêu mến và luôn tâm niệm muốn mang lại niềm vui cho mọi người, rốt cuộc sẽ có phong cách chạy như thế nào nhỉ――",
+      "jpname": "モノローグ",
+      "jptext": "誰もに好かれ、『みんなを楽しませたい』と語るフジキセキは\nいったいどんな走りをするのだろう――"
+    },
+    {
+      "name": "",
+      "text": "Tôi vừa mường tượng về điều đó vừa cất bước trên đường trở về.",
+      "jpname": "モノローグ",
+      "jptext": "想像しながら帰路についたのだった。"
+    }
+  ]
+}
