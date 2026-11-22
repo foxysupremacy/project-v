@@ -1,0 +1,497 @@
+{
+  "title": "Phía bên kia sự kiên định",
+  "jptitle": "貫き通したその先に",
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "――Chính vì vậy, em xin lỗi cô. Cách chạy mà cô chỉ bảo, đối với em thì...",
+      "jpname": "サイレンススズカ",
+      "jptext": "――ですから、すみません。\n指示していただいた走り方、私には……。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "Ra vậy... Xin lỗi em nhé, có vẻ cô đã khiến em phải trăn trở nhiều rồi. Còn vị Trainer bên kia nữa, cảm ơn vì đã quan tâm đến con bé.",
+      "jpname": "スズカのトレーナー",
+      "jptext": "そう……ごめんね、たくさん悩ませてしまったみたいね。\nそちらのトレーナーさんも、この子を気にかけてくれてありがとう。",
+      "choice_data_list": [
+        "Xin hãy giúp phát huy tối đa tiềm năng của em ấy"
+      ],
+      "jpchoice_data_list": [
+        "彼女の可能性を伸ばしてあげてください"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "Tôi cũng muốn làm vậy lắm, nhưng... tính tôi lúc nào cũng cứng nhắc theo khuôn mẫu, sợ rằng sẽ lại khiến con bé cảm thấy gò bó ngột ngạt mất thôi.",
+      "jpname": "スズカのトレーナー",
+      "jptext": "そうしたいところだけど……私はどうしても型にはまった指導を\nしてしまうから、また窮屈な思いをさせてしまうかもしれません。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "Vì vậy... em thấy thế nào hả Suzuka? Nếu chuyển nhượng để vị Trainer ở đây phụ trách em thì sao?",
+      "jpname": "スズカのトレーナー",
+      "jptext": "だから……どうかしら、スズカ？\n移籍という形で、こちらの方に担当して頂くのは。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hả, chuyển nhượng ạ...?",
+      "jpname": "サイレンススズカ",
+      "jptext": "えっ、移籍……？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "Phải. Đây là một người có tư duy linh hoạt, và trên hết là luôn tôn trọng các Mã Nương... luôn tôn trọng em, một người rất tuyệt vời đấy.",
+      "jpname": "スズカのトレーナー",
+      "jptext": "ええ。柔軟な思考を持ち、何よりウマ娘のことを……\nあなたのことを尊重してくれる、素晴らしい方だと思うわ。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ờm... a-anh có đồng ý không ạ? Với một đứa như em...",
+      "jpname": "サイレンススズカ",
+      "jptext": "えっと……あ、あなたは、いいんでしょうか？\nこんな私で……。",
+      "choice_data_list": [
+        "Nếu em cũng mong muốn như vậy, anh rất sẵn lòng...!",
+        "Nếu bạn cũng mong muốn như vậy, tôi rất sẵn lòng...!"
+      ],
+      "jpchoice_data_list": [
+        "君もそう望んでくれるなら、ぜひ……！",
+        "貴方もそう望んでくれるなら、ぜひ……！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!",
+      "jpname": "サイレンススズカ",
+      "jptext": "……！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em cảm ơn... anh rất nhiều. Từ nay mong anh giúp đỡ em nhiều nhé, Trainer-san...!",
+      "jpname": "サイレンススズカ",
+      "jptext": "ありがとう……ございます。\nよろしくお願いします、トレーナーさん……！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "Tốt quá rồi, Suzuka! Cô thực lòng mong chờ màn thể hiện tỏa sáng của em đấy.",
+      "jpname": "スズカのトレーナー",
+      "jptext": "よかったわね、スズカ！\nあなたの活躍、心から楽しみにしているわ。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Trainer của Suzuka",
+      "text": "À mà, nếu đối thủ là học trò do tôi phụ trách thì lại là chuyện khác nhé. Khi ấy tôi sẽ dốc toàn lực để giành chiến thắng đấy, nên em cũng hãy cố gắng trưởng thành cho thật tốt nhé.",
+      "jpname": "スズカのトレーナー",
+      "jptext": "あぁでも、私の担当の子が相手になった時は別ね。\nその時は全力で勝ちに行くから、あなたもしっかり成長なさい。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Dạ vâng...!!",
+      "jpname": "サイレンススズカ",
+      "jptext": "はいっ……！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ờm... hơi đột ngột một chút nhưng Trainer-san này. Theo dự kiến thì tháng sau là trận ra mắt của em rồi, chúng ta nên tính sao đây ạ...?",
+      "jpname": "サイレンススズカ",
+      "jptext": "あの……さっそくですみませんが、トレーナーさん。\n予定だと来月がデビュー戦だったんですが、どうしましょう……？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Ánh mắt bồn chồn của Silence Suzuka đang tràn đầy ý chí quyết tâm. Giờ mà bảo em ấy dừng lại một cách gượng gạo thì chẳng hay chút nào.",
+      "jpname": "モノローグ",
+      "jptext": "そわそわしているサイレンススズカの目は、やる気に満ちている。\nここで変にストップをかけるのもよくないだろう。",
+      "choice_data_list": [
+        "Cứ theo kế hoạch, chúng ta sẽ tham gia trận ra mắt!"
+      ],
+      "jpchoice_data_list": [
+        "予定通り、デビュー戦には出走しよう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em được chạy thật sao...!! Em cảm ơn anh nhiều lắm.",
+      "jpname": "サイレンススズカ",
+      "jptext": "走っていいんですか……！！\nありがとうございますっ。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Vậy thì... lối chạy nên như thế nào ạ...?",
+      "jpname": "サイレンススズカ",
+      "jptext": "それで……走り方は、どうすべきでしょうか……？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Nhờ học qua nên em hiểu rồi. Chạy đại trốn thoát có rủi ro rất cao. Nếu cứ như hiện tại, có thể một ngày nào đó em sẽ không còn chạy dẫn đầu được nữa.",
+      "jpname": "サイレンススズカ",
+      "jptext": "学んだおかげで理解はできました。大逃げはリスクが高いって。\n今のままじゃ、いつか先頭を走れなくなる日が来るかもしれない。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Lời Silence Suzuka nói hoàn toàn có lý. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "サイレンススズカの言うことはもっともだ。\nしかし――",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Em muốn được chạy ở vị trí dẫn đầu.",
+      "jpname": "サイレンススズカ",
+      "jptext": "……私、先頭を走りたい。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em muốn chạm tới nơi ấy thêm một lần nữa, thêm thật nhiều lần nữa. Chỉ riêng cảm xúc này... em quyết không nhượng bộ...!",
+      "jpname": "サイレンススズカ",
+      "jptext": "もう1度、何度でもあそこに辿り着きたい。\nこの気持ちだけは……譲れない……！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Chấp niệm đối với việc \"dẫn đầu\"... Riêng về điểm này, Silence Suzuka vốn đã sở hữu một sức mạnh kiên cường không chịu thua bất kỳ ai.",
+      "jpname": "モノローグ",
+      "jptext": "“先頭”に対する執念……その一点において、\nサイレンススズカは誰にも負けない強さを既に持っている。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Biết đâu ở phía bên kia của sự kiên định ấy, lại có một tiềm năng mới mà chưa từng có Mã Nương nào chạm tới đang đón đợi...!",
+      "jpname": "モノローグ",
+      "jptext": "その想いを貫いた先に、どんなウマ娘も辿り着いたことのない\n新たな可能性が待っているかもしれない……！",
+      "choice_data_list": [
+        "Em cứ kiên định với lối chạy của riêng mình đi",
+        "Bạn cứ kiên định với lối chạy của riêng mình đi"
+      ],
+      "jpchoice_data_list": [
+        "君は、君の走りを貫こう",
+        "貴方は、貴方の走りを貫こう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "\"Dẫn đầu ngay từ xuất phát, đồng thời hạn chế tối đa việc giảm tốc ở giai đoạn cuối\"――tôi bảo với em ấy rằng dù rất khó để thực hiện, nhưng tuyệt đối không phải là điều bất khả thi.",
+      "jpname": "モノローグ",
+      "jptext": "『最初から先頭を走り、なおかつ終盤の減速を極力防ぐ』――\n実現は難しいが、決して不可能ではないはずだと伝えた。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Anh thực sự tin tưởng vào lối chạy của em nhỉ.",
+      "jpname": "サイレンススズカ",
+      "jptext": "……私の走りを、信じてくださっているんですね。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em hiểu rồi. ...Em nhất định sẽ đáp lại niềm tin ấy.",
+      "jpname": "サイレンススズカ",
+      "jptext": "わかりました。……応えます、必ず。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và thế là, hướng tới trận ra mắt sắp tới, chúng tôi bắt tay vào một đợt huấn luyện đặc biệt vô cùng gắt gao...!",
+      "jpname": "モノローグ",
+      "jptext": "こうして、来たるデビュー戦に向け、\n猛特訓を行うことになった……！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lối chạy dẫn đầu ngay từ đầu và không giảm tốc ở giai đoạn cuối... Làm thế nào mới có thể thực hiện được ạ?",
+      "jpname": "サイレンススズカ",
+      "jptext": "序盤から先頭を走って、終盤でも減速しない走り……。\nどうしたら実現できるんでしょうか？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em từng nghe rằng \"năng lượng dùng để bứt tốc là có hạn, nên cần phải có lối chạy biết bảo toàn\", nhưng mà...",
+      "jpname": "サイレンススズカ",
+      "jptext": "『スピードを出すためのエネルギーには限りがあるから、\n温存する走り方が必要なんだ』って、前に聞いたのですが……。",
+      "choice_data_list": [
+        "Chỉ còn cách tăng tổng lượng năng lượng lên thôi nhỉ",
+        "Chỉ còn cách tăng tổng lượng năng lượng lên thôi bạn nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "エネルギーの絶対量を増やすしかないな",
+        "エネルギーの絶対量を増やすしかないね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Để rèn luyện cân bằng cả nhóm cơ phát huy sức bùng nổ lẫn nhóm cơ duy trì thể lực, tôi đã đề xuất bài tập chạy bứt tốc leo dốc.",
+      "jpname": "モノローグ",
+      "jptext": "瞬発力を発揮する筋肉とスタミナを司る筋肉、\nその両方をバランスよく鍛えるため、坂路ダッシュを提案した。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Chạy bứt tốc leo dốc ạ, em hiểu rồi. Nhưng mà... chỉ chạy ở đường dốc trong học viện thôi thì hơi thiếu thiếu nhỉ.",
+      "jpname": "サイレンススズカ",
+      "jptext": "坂路ダッシュですね、わかりました。\nでも……学内のコースだけじゃ、ちょっと物足りないですね。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hay là... hai ta leo núi luôn đi anh? Nhân dịp này luôn...!",
+      "jpname": "サイレンススズカ",
+      "jptext": "山、とか……登っちゃいましょうか？\nこの際ですし……！",
+      "choice_data_list": [
+        "（Ánh mắt em ấy thực sự nghiêm túc rồi...!?）"
+      ],
+      "jpchoice_data_list": [
+        "（目が本気だ……！？）"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cùng một Silence Suzuka đang hừng hực nhiệt huyết, tôi đã trải qua những ngày tháng miệt mài luyện tập――",
+      "jpname": "モノローグ",
+      "jptext": "燃えに燃えているサイレンススズカと、\nトレーニングに明け暮れる日々を過ごし――",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, thời khắc ấy cuối cùng cũng đến...!!",
+      "jpname": "モノローグ",
+      "jptext": "そして、いよいよ……！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ô, chị Air Groove! Chị cũng tới xem sao?",
+      "jpname": "サイレンススズカ",
+      "jptext": "あら、エアグルーヴ！　来ていたの？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ừ, ta có chút bận tâm nên ghé qua xem thử.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ああ、少々気になったのでな。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hừ... nhưng nhìn vẻ mặt kia của em thì có vẻ như ta đã lo lắng thừa rồi.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ふ……しかし、その顔を見る限りでは\nどうやら杞憂だったらしい。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "He he... Sắp đến giờ xuất phát rồi. Em xin phép đi trước nhé.",
+      "jpname": "サイレンススズカ",
+      "jptext": "ふふっ……出走、もうすぐだから。行ってくるわね。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ừ. Ta rất mong chờ đấy.",
+      "jpname": "エアグルーヴ",
+      "jptext": "ああ。楽しみにしている。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Nào, quy tụ dưới bầu trời xanh ngắt này chính là các Mã Nương đang bừng bừng nhiệt huyết sẵn sàng tranh tài tại Twinkle Series!",
+      "jpname": "実況",
+      "jptext": "さあ、抜けるような青空の中集いましたのは、これより\nトゥインクル・シリーズを戦い抜かんと燃えるウマ娘たち！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Các Mã Nương đã tiến vào cổng xuất phát... và trận ra mắt, bắt đầu!!",
+      "jpname": "実況",
+      "jptext": "各ウマ娘ゲートに入りまして……デビュー戦、スタートですっ！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ha, ha, ha...!!",
+      "jpname": "サイレンススズカ",
+      "jptext": "はっ、はっ、はっ……！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Lao vút lên dẫn đầu là ứng viên sáng giá số 1, Silence Suzuka! Với tốc độ khó tin ngay sau khi xuất phát, cô đang bỏ lại tất cả các đối thủ phía sau!",
+      "jpname": "実況",
+      "jptext": "先頭へと飛び出しました、1番人気サイレンススズカ！\nスタート直後とは思えぬ速さで、他を置き去りにしていきます！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Khán giả A",
+      "text": "Con bé Suzuka đó đỉnh thật đấy chứ!? Dù là Mã Nương chạy trốn thoát đi nữa, sao có thể phóng nhanh đến thế ngay từ đầu được cơ chứ!",
+      "jpname": "観客A",
+      "jptext": "あのスズカって子、すっげぇな！？\n逃げウマ娘にしたって序盤からあんな速さで行くのかよ！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Nhưng dù là trận ra mắt thì đây cũng là Twinkle Series đấy nhé? Dốc sức kiểu bạt mạng thế kia thì làm sao trốn thoát thành công đến cùng được...",
+      "jpname": "観客B",
+      "jptext": "でも、デビュー戦とはいえここはトゥインクル・シリーズよ？\nあんな力押しで逃げ切れるはずが……。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "（Vẫn... vẫn còn ồn ào lắm. Chưa được, phải nhanh hơn nữa...!）",
+      "jpname": "サイレンススズカ",
+      "jptext": "（まだ……まだ、騒がしい。まだ、もっと……！）",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hừ...!!",
+      "jpname": "サイレンススズカ",
+      "jptext": "ふっ……！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Cuộc đua đã bước vào giai đoạn cuối, nhưng Silence Suzuka vẫn không hề giảm tốc! Cô tiếp tục nới rộng khoảng cách với nhóm bám đuổi, lao vun vút về phía trước!!",
+      "jpname": "実況",
+      "jptext": "レースも終盤に差し掛かりましたが、サイレンススズカ落ちない！\n後続をさらに突き放し、前へ前へと駆け抜けていく！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Không thể nào...! Cứ đà này thì con bé thực sự trốn thoát thành công đến đích sao...!?",
+      "jpname": "観客B",
+      "jptext": "うそ……！　あのまま、ホントに逃げ切っちゃうの……！？",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "（Không để ai cản bước. Quyết không nhường cho bất kỳ ai）",
+      "jpname": "サイレンススズカ",
+      "jptext": "（誰にも邪魔させない。誰にも、譲らない）",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Khung cảnh từ vị trí dẫn đầu... quyết không để ai chạm tới!!",
+      "jpname": "サイレンススズカ",
+      "jptext": "先頭の景色は……誰にもッ！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Silence Suzuka cán đích với khoảng cách dẫn trước lên tới 7 thân ngựa!! Một màn trốn thoát phi thường ngoài sức tưởng tượng, khiến cả khán đài như bùng nổ trong tiếng reo hò cuồng nhiệt!!",
+      "jpname": "実況",
+      "jptext": "サイレンススズカ、7バ身差をつけゴーーーールインッ！！\n常軌を逸した逃げっぷりに、大歓声が巻き起こっております！！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "",
+      "text": "（ỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒỒ!!）",
+      "jpname": "モノローグ",
+      "jptext": "（ワアアアアアアーーーー！！！）",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Air Groove",
+      "text": "Suzuka, con bé em thật là...! Em đã hóa thành một quái vật thực sự rồi đấy!",
+      "jpname": "エアグルーヴ",
+      "jptext": "スズカ、お前という奴は……！\nとんでもない怪物と成ってくれたものだな！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Haa...",
+      "jpname": "サイレンススズカ",
+      "jptext": "はぁっ……。",
+      "choice_data_list": [
+        "Em đã thỏa mãn chưa?",
+        "Bạn đã thỏa mãn chưa?"
+      ],
+      "jpchoice_data_list": [
+        "満足したか？",
+        "満足した？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "He he... chưa đâu ạ.",
+      "jpname": "サイレンススズカ",
+      "jptext": "ふふっ……いいえ。",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Chúng ta hãy cùng nhau đi ngắm nhìn khung cảnh tuyệt vời hơn nữa nhé. ...Trainer-san!",
+      "jpname": "サイレンススズカ",
+      "jptext": "もっといい景色、一緒に見に行きましょう。\n……トレーナーさん！",
+      "color_text_info_list": [],
+      "choice_data_list": []
+    }
+  ]
+}
