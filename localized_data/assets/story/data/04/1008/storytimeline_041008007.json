@@ -1,0 +1,362 @@
+{
+  "title": "Hai bánh xe kế thừa",
+  "jptitle": "受け継いだ両輪",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "...Cuối cùng đợt tập huấn mùa hè cũng bắt đầu! Đứng trước bãi biển trải rộng ngút tầm mắt, Vodka đang thở phì phò đầy phấn khích.",
+      "jpname": "モノローグ",
+      "jptext": "――ついに夏合宿に突入！　目の前に広がるビーチで\nウオッカは鼻息を荒くしている。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đấu một trận đi, tiền bối! Chạy nước rút bãi cát, trận chiến chớp nhoáng 2 furlong. Tôi sẽ cho chị thấy tốc độ của tôi!",
+      "jpname": "ウオッカ",
+      "jptext": "勝負だ、先輩！　砂浜ダッシュ、2ハロンの電撃戦。\n俺のスピード、見せてやるぜ！"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Hừ, em đang nói chuyện với ai đấy? Chị đây vốn là tài năng được xưng tụng ở đẳng cấp GI rồi. Cỡ như em mà nghĩ thắng nổi chị sao?",
+      "jpname": "先輩ウマ娘",
+      "jptext": "フン、誰に物を言っているの？　私はすでにＧⅠ級と言われている\n逸材。あなたごときが勝てると思って？"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Thắng được chứ. Nếu dùng \"Lối chạy Bộc Phá\" do tôi tự sáng tạo ra! Được rồi! Tôi đi đây, Trainer!",
+      "jpname": "ウオッカ",
+      "jptext": "――勝てる。俺が編み出した『エクスプロード走法』なら！\nよっしゃ！　行ってくるぜ、トレーナー！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oaaaaa! Nhìn này, cú đạp cát bắn tung tóe ra phía sau, lối chạy siêu ngầu lòi này! Được đấy chứ. Tấm lưng của tiền bối ngay trước mắt rồi...!",
+      "jpname": "ウオッカ",
+      "jptext": "うおおおおおっ！　見ろ、砂を後ろに蹴り飛ばす、超カッコいい\nこの走法！　いけるぞ。先輩の背中が目の前に……！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa, ơ kìa!? Lại bị giãn cách rồi sao!? Không xong rồi, không đuổi kịp. Đẳng cấp GI... khủng khiếp đến mức này sao!?",
+      "jpname": "ウオッカ",
+      "jptext": "って、うおおおっ？　また差がついた！？\nダメだ、届かねえ。ＧⅠ級って……こんなにパねえのか！？"
+    },
+    {
+      "name": "Vodka",
+      "text": "Khốn khiếpppp, tại sao chứ!? Rõ ràng khí thế của mình hơn hẳn mấy bậc cơ mà...!",
+      "jpname": "ウオッカ",
+      "jptext": "くっそおおおおお、なんでだ！？\n勢いは、俺の方が数段上だったのに……！"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Phì, em thì rốt cuộc cũng chỉ tới mức này mà thôi♪",
+      "jpname": "先輩ウマ娘",
+      "jptext": "フフッ、あなたなんて、しょせん\nこの程度だったということ♪"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chết tiệt! Chờ đó mà xem. Đến khi đợt tập huấn kết thúc, ngôi vương bãi biển sẽ là...",
+      "jpname": "ウオッカ",
+      "jptext": "チッキショー！　今に見てろよっ。\n合宿が終わる頃には、浜辺の王者は……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa, a, không được không được. Lại bài ca này nữa rồi! Quả nhiên kẻ chỉ biết làm màu thì lộ rõ vẻ mất chất hoàn toàn mà!",
+      "jpname": "ウオッカ",
+      "jptext": "って、あー、ダメだダメだ。またこのパターン！\nやっぱカッコだけのヤツは、カッコ悪さ全開だっての！",
+      "choice_data_list": [
+        "Vodka, anh muốn nói chuyện một chút..."
+      ],
+      "jpchoice_data_list": [
+        "ウオッカ、ちょっと話が……"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hử, gì thế? Trainer? Mấy lời an ủi thì...",
+      "jpname": "ウオッカ",
+      "jptext": "ん、なんだ？　トレーナー？\n慰めの言葉なんて……。",
+      "choice_data_list": [
+        "Em đừng đạp cát hất ra phía sau nữa"
+      ],
+      "jpchoice_data_list": [
+        "砂を後ろに蹴らないようにしよう"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hả, không đạp cát ra sau...? À, ý anh là \"Lối chạy Bộc Phá\" á? Nhưng nếu không đạp mạnh thì lực đâu ra...",
+      "jpname": "ウオッカ",
+      "jptext": "えっ、砂を後ろに……？　あ『エクスプロード走法』のことか？\nでも強く蹴らないとパワーが……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "!! Phải rồi!! Đây là bãi cát lún. Nếu đạp mạnh hất ra sau thì lực sẽ bị tiêu tán mất. Vậy thì... phải làm sao... Nghĩ đi. Phải động não suy nghĩ...!",
+      "jpname": "ウオッカ",
+      "jptext": "！！　そうか！！　ここは砂浜。後ろに蹴ると力が逃げる。\nなら……どうすれば……。考えろ。考えるんだ……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chắc chắn phải có cách chạy nào đó. Mẹ mình cho dù chạy trên đường đất cũng nhanh kinh khủng. Một cách chạy vừa ngầu mà lại vừa đạt được tốc độ, mình nhất định cũng làm được.",
+      "jpname": "ウオッカ",
+      "jptext": "なんか走り方があるはず。母ちゃんはたとえダートでも速かった。\nカッコだけじゃなく速度も出る走り方が、俺にもできるはず。"
+    },
+    {
+      "name": "Vodka",
+      "text": "!! Ra là vậy, có khi cách này... Này tiền bối ơi! Cho em đấu lại thêm một lần nữa có được không ạ?",
+      "jpname": "ウオッカ",
+      "jptext": "！！　そうか、もしかしてコレなら……。あのっ！　先輩！\nもう1回だけ勝負してくれませんか？"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "C-Cái gì thế này? Tốc độ này là sao...!? So với ban nãy thì hoàn toàn là một người khác...!!",
+      "jpname": "先輩ウマ娘",
+      "jptext": "な、なに？　この速さは――！？\n先ほどとは、まるで別の……！！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đúng rồi, chính là dáng chạy này! Hạ thấp trọng tâm, cắm chặt bàn chân xuống cát như lưỡi dao!",
+      "jpname": "ウオッカ",
+      "jptext": "そうだ、この走りだ！\n重心を低く、脚を砂に突き刺すように！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đặt tên là \"Lối chạy Vết Cắt\"! Không để lực phân tán. Dùng toàn bộ móng sắt bám chặt mặt đất để lao về phía trước! Lên luôôôn!",
+      "jpname": "ウオッカ",
+      "jptext": "名付けて『スラッシュ走法』！　力を逃がすな。蹄鉄を全面で\nグリップさせて、前へ！　とりゃあああ！"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Th-Thua rồi... Một người như mình lại thua một đứa non choẹt thế này ư...",
+      "jpname": "先輩ウマ娘",
+      "jptext": "ま、負けた……。\n私がこんな青二才に……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tuyệt vờiiiiii! ...Cảm ơn tiền bối đã nhận lời so tài với em nhé! Thực lực của chị đúng là thứ thiệt đó ạ.",
+      "jpname": "ウオッカ",
+      "jptext": "よっしゃあああ！　……先輩、胸貸してくれて、\nサンキューっした！　先輩の力は本物っすよ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Trận đấu này sẽ còn tiếp nối ở Twinkle Series. Với tài năng của chị thì lên cấp trên chắc thắng dễ dàng thôi. Chị càng tỏa sáng thì lại càng là mục tiêu tuyệt vời để em nhắm tới.",
+      "jpname": "ウオッカ",
+      "jptext": "勝負の続きはトゥインクル・シリーズで。先輩なら\n上でも楽勝っしょ。輝きゃ、いい目印になるんで。"
+    },
+    {
+      "name": "Mã Nương tiền bối",
+      "text": "Vodka, em...",
+      "jpname": "先輩ウマ娘",
+      "jptext": "ウオッカ、あなた……。"
+    },
+    {
+      "name": "",
+      "text": "Rồi đợt tập huấn cũng dần đi đến hồi kết. Sau lễ hội mùa hè...",
+      "jpname": "モノローグ",
+      "jptext": "そして合宿も終わり間近。\n祭りの後――"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chà, thỉnh thoảng đi lễ hội cũng thích thật đấy. A, bán đã tay luôn!",
+      "jpname": "ウオッカ",
+      "jptext": "いやー、たまにゃ祭りもいいもんだなっ。\nあー、売った売った！",
+      "choice_data_list": [
+        "Ăn đã mồm chứ không phải bán à?"
+      ],
+      "jpchoice_data_list": [
+        "食ったじゃなくて？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "À, công nhận là bán nhiều hơn thật. Thật ra chú chủ quán mì yakisoba nhờ tôi phụ một tay ở sạp hàng đêm ấy mà.",
+      "jpname": "ウオッカ",
+      "jptext": "ああ、売った方が多かったかな。じつは焼きそば屋のおっちゃんに\n夜店の手伝い頼まれちまってさ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tôi làm món mì xào yakisoba đỉnh lắm đấy. Ngày xưa tôi từng phụ quầy hàng của bạn bố tôi suốt mà.",
+      "jpname": "ウオッカ",
+      "jptext": "俺、焼きそば作るの超得意なんだよ。\n昔、父ちゃんのダチの露店、手伝ってたから。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa, mà mấy chuyện đó thì có gì quan trọng đâu. Trainer, cảm ơn anh vì mọi thứ trong đợt tập huấn nhé.",
+      "jpname": "ウオッカ",
+      "jptext": "って、そんな話はどうでもいっか。\nトレーナー、合宿中は色々ありがとな。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lúc chạy đua trên bãi biển ấy, tôi dường như đã hiểu ra rồi. Vẻ ngầu mà tôi hằng hướng tới, tóm lại là cần có cả hai đúng không?",
+      "jpname": "ウオッカ",
+      "jptext": "あのビーチレースの時、わかった気がするんだ。\n俺の目指すカッコよさ。つまり、両方ありゃいいんだよな？",
+      "choice_data_list": [
+        "Cả hai?"
+      ],
+      "jpchoice_data_list": [
+        "両方？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Chuẩn! Sự \"ngầu lòi\" của bố và sự \"mạnh mẽ\" của mẹ. Chỉ cần tôi có được cả hai điều đó là được.",
+      "jpname": "ウオッカ",
+      "jptext": "そ！　父ちゃんの“カッコよさ”と母ちゃんの“強さ”。\nダブルで持ってりゃいいんだ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chạy thật ngầu và nhất định phải chiến thắng! Sau đó nói những lời thật ngầu! Có như vậy thì sẽ chẳng bao giờ bị coi là lời chống chế cay cú nữa.",
+      "jpname": "ウオッカ",
+      "jptext": "カッコいい走りで絶対勝つ！　そんで、カッコいいことを\n言う！　そうすれば、いつだって負け惜しみにならないから。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đương nhiên nói thì dễ hơn làm nhiều. Nhưng không sao cả. Là tôi thì chắc chắn sẽ làm được!",
+      "jpname": "ウオッカ",
+      "jptext": "もちろん口で言うほど簡単じゃないさ。\nけど大丈夫。俺ならできる！",
+      "choice_data_list": [
+        "Trông em tràn đầy tự tin nhỉ",
+        "Trông bạn tràn đầy tự tin nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "自信満々だな",
+        "自信満々だね"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Vâng. Sự tự tin vô căn cứ này cũng là được di truyền từ bố mà. Nhắc mới nhớ... mẹ từng kể cho tôi nghe.",
+      "jpname": "ウオッカ",
+      "jptext": "ああ。この根拠のない自信も父ちゃん譲りだから。\nそういえば……母ちゃん言ってたな。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chuyện về sự tự tin khó hiểu của bố. Hình như là hồi hai người mới bắt đầu hẹn hò...",
+      "jpname": "ウオッカ",
+      "jptext": "父ちゃんの、ワケわかんない自信の話。\nあれは付き合いはじめた時らしいけど……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lúc bố tỏ tình với mẹ là vào dịp lễ hội mùa hè đấy.",
+      "jpname": "ウオッカ",
+      "jptext": "父ちゃんが母ちゃんにコクったのって、\n夏祭りの時だったんだって。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hồi ấy mẹ tôi đang là một Mã Nương thi đấu hạng Open đầy nhiệt huyết. Còn bố thì chỉ là một anh chàng bình thường không có gì nổi bật.",
+      "jpname": "ウオッカ",
+      "jptext": "当時、母ちゃんは現役バリバリのオープンウマ娘。\nで、父ちゃんは、ただの冴えない兄ちゃん。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Dù vậy anh có đoán được lý do mẹ đồng ý lời tỏ tình là gì không?",
+      "jpname": "ウオッカ",
+      "jptext": "それでも母ちゃんが告白okした理由って、\nなんだと思う？",
+      "choice_data_list": [
+        "Phải lòng trái tim chân thành chăng?"
+      ],
+      "jpchoice_data_list": [
+        "ハートに惚れた？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hơi chệch một chút. Nghe đâu bố chém gió kinh khủng lắm. Nào là \"Anh nhất định sẽ làm nên nghiệp lớn!\", hay \"Anh sẽ làm cho em hạnh phúc nhất trần đời!\".",
+      "jpname": "ウオッカ",
+      "jptext": "ちょっと違うかな。父ちゃん、色々吹かしまくったんだって。\n『絶対ビッグになる！』とか『世界一幸せにする！』とか。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Mẹ bảo \"Một người dám dõng dạc nói ra những điều vô căn cứ thế này, đúng là một anh chàng thú vị\". Thế là mẹ đồng ý hẹn hò luôn. Tức là bố chỉ dùng khí thế ngút trời để áp đảo đấy.",
+      "jpname": "ウオッカ",
+      "jptext": "『こんな根拠のないこと堂々言うなんて、おもしろいヒトだな』\nって。それで付き合ったんだって。勢いだけで押し切ったわけさ。",
+      "choice_data_list": [
+        "Đúng là cha nào con nấy nhỉ",
+        "Đúng là cha nào con nấy thật"
+      ],
+      "jpchoice_data_list": [
+        "この親にして、この子ありか",
+        "この親にして、この子ありだね"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Chuẩn luôn. Trái tim của tôi là kế thừa từ bố. Còn cơ thể này là thừa hưởng từ mẹ.",
+      "jpname": "ウオッカ",
+      "jptext": "だな。俺の心は父ちゃん譲り。\nで、この体は母ちゃん譲りさ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Nhờ có cả hai điều đó... tôi nhất định sẽ trở thành một Mã Nương dám đương đầu với mọi thử thách liều lĩnh nhất và biến nó thành hiện thực.",
+      "jpname": "ウオッカ",
+      "jptext": "この両方で……俺は絶対になる！　どんな無謀なことにも\n挑戦して、成し遂げるウマ娘に。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hơn nữa so với trước khi bắt cặp với anh, tôi cũng đã mạnh mẽ lên nhiều rồi!",
+      "jpname": "ウオッカ",
+      "jptext": "アンタと組む前より、だいぶ強くなったしな！",
+      "choice_data_list": [
+        "Thế em đã khắc phục được điểm yếu chưa?",
+        "Thế bạn đã khắc phục được điểm yếu chưa?"
+      ],
+      "jpchoice_data_list": [
+        "弱点も克服できたか？",
+        "弱点も克服できた？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Đương nhiên rồi! Trước kia chỉ cần nghe chuyện yêu đương là sởn hết cả gai ốc, chứ bây giờ thì muỗi nhé, có lẽ thế...",
+      "jpname": "ウオッカ",
+      "jptext": "もちろん！　前は恋バナとか聞いただけでゾワゾワしたけど、\n今じゃヘッチャラだぜ、多分……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Nhắc mới nhớ, sau khi nhận lời yêu nhau, bố mẹ từng bảo là \"đèo nhau về trên chiếc mô tô\")",
+      "jpname": "ウオッカ",
+      "jptext": "（そういえば父ちゃんと母ちゃん、付き合うことになった後、\n『2人乗りで帰った』って言ってたな）"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Đèo hai người sao... Trên đường về sau đợt tập huấn, nếu mình với Trainer mà cũng như thế thì...)",
+      "jpname": "ウオッカ",
+      "jptext": "（2人乗りか……。合宿の帰り道、もしトレーナーと\nそんな風になったら……）"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hả, Trainer lái xe sao? Còn tôi ngồi sau á? Ra vậy... thế thì tôi xin phép...",
+      "jpname": "ウオッカ",
+      "jptext": "え、トレーナーが運転すんのか？　俺が後ろに？\nそか……。じゃあ失礼して……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ủa... ôm chặt hai tay quanh eo anh sao!? Thế thì...",
+      "jpname": "ウオッカ",
+      "jptext": "なっ……腰のところにギュッと手を！？\nそれじゃあ……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Phụtttt!!",
+      "jpname": "ウオッカ",
+      "jptext": "ブーッ！！",
+      "choice_data_list": [
+        "Sao thế em? Em có sao không!?",
+        "Sao thế bạn? Có sao không!?"
+      ],
+      "jpchoice_data_list": [
+        "どうした？大丈夫か！？",
+        "どうしたの？大丈夫！？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Kh-Không, không phải thế đâu! Chuyện này là, cái đó...",
+      "jpname": "ウオッカ",
+      "jptext": "いや、ちち、違うんだっ。\nこれは、その――"
+    },
+    {
+      "name": "Vodka",
+      "text": "Chuối bọc sô-cô-la! Tại tôi ăn nhiều chuối bọc sô-cô-la ở chợ đêm quá thôi! Là thật đấy nhé, chết tiệt thật chứ!!",
+      "jpname": "ウオッカ",
+      "jptext": "チョコバナナ！　夜店でチョコバナナ食べすぎただけだっ！\nホントだからな、チキショー！！"
+    }
+  ]
+}

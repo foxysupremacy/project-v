@@ -1,0 +1,352 @@
+{
+  "title": "Tập 3",
+  "jptitle": "第3話",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Chỉ còn một ít thời gian nữa là tới ngày diễn ra \"Đại hội Thể thao Phân môn\"...",
+      "jpname": "モノローグ",
+      "jptext": "『種目別競技大会』本番まで、あと少し――"
+    },
+    {
+      "name": "Mã Nương A",
+      "text": "Cậu nghe gì chưa? Ở bảng 10 cự ly 2000m sân cỏ, vì có tiền bối Brian nên bao nhiêu người đã đồng loạt rút lui rồi đấy...",
+      "jpname": "ウマ娘A",
+      "jptext": "聞いた？　芝2000mの第10グループ、ブライアン先輩が\nいるからって色んな子たちが辞退しまくったみたいでさ……。"
+    },
+    {
+      "name": "Mã Nương B",
+      "text": "Nghe rồi, nghe rồi! Thành ra riêng bảng đó toàn các gương mặt cấp GI tranh tài với nhau thôi. May mà mình rút lui sớm...",
+      "jpname": "ウマ娘B",
+      "jptext": "聞いた聞いた！　あのグループだけGⅠクラスの子たちばっかりの\nレースになっちゃったんだよね。辞退しててよかった～……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Hừm, tình hình hóa ra lại thành như thế à.",
+      "jpname": "ウオッカ",
+      "jptext": "……ふーん、そんなことになっちまってんのか。",
+      "choice_data_list": [
+        "...Em ổn chứ?",
+        "...Bạn ổn chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……大丈夫か？",
+        "……大丈夫？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hả? Có gì mà không ổn?",
+      "jpname": "ウオッカ",
+      "jptext": "はぁ？　何がだよ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Đừng bảo anh cũng định khuyên tôi \"rút lui đi\" đấy nhé?",
+      "jpname": "ウオッカ",
+      "jptext": "……まさか俺に『辞退しとけ』なんて言うんじゃねーだろうな？"
+    },
+    {
+      "name": "Vodka",
+      "text": "Mấy đứa khác làm sao thì mặc xác chúng nó! Tôi vẫn sẽ đua.",
+      "jpname": "ウオッカ",
+      "jptext": "他の連中がどうしてようが関係ねぇ！　俺は出るぜ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đúng là tiền bối Brian là một đối thủ quá đỗi ghê gớm. Đánh giá \"cấp GI\" thậm chí còn chưa lột tả hết thực lực của chị ấy.",
+      "jpname": "ウオッカ",
+      "jptext": "確かに、ブライアン先輩はヤベー相手だよ。\n“GⅠクラス”、なんて評価でさえ足りねぇぐらいの実力者だ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Dù là giải phong trào của trường nhưng các thầy cô và Trainer đều theo dõi sát sao, nên tôi hiểu lý do bọn họ thà đổi sang môn khác còn hơn là thua cuộc rồi bị hạ thấp đánh giá.",
+      "jpname": "ウオッカ",
+      "jptext": "行事のレースでも、先生とかトレーナーたちはしっかり見てっから、\n負けて評価下げるくらいなら別のに出るって連中の言い分もわかる。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Nhưng tôi thì tuyệt đối không rút lui đâu.",
+      "jpname": "ウオッカ",
+      "jptext": "けど、俺は辞退なんかしねぇっ。",
+      "choice_data_list": [
+        "Vì rút lui thì \"mất chất\" lắm sao?"
+      ],
+      "jpchoice_data_list": [
+        "辞退するなんて『ダサい』から？"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hế, chuẩn rồi. Anh hiểu chuyện đấy chứ.",
+      "jpname": "ウオッカ",
+      "jptext": "へっ、そーだよ。わかってんじゃん。"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Tôi muốn trở thành một Mã Nương thật ngầu. Đã vậy thì đời nào lại đi run sợ ở một chỗ như thế này!",
+      "jpname": "ウオッカ",
+      "jptext": "……なるんだよ、カッコいいウマ娘に。\nだったら、こんなとこでビビってられっか！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Nào, đi thôi Trainer! Sắp thi đấu rồi, phải rèn luyện thật tử tế mới được!!",
+      "jpname": "ウオッカ",
+      "jptext": "さ、行くぜトレーナー！\n本番も近いんだ、バッチリ鍛えておかねぇとな！！"
+    },
+    {
+      "name": "",
+      "text": "Cứ thế, vài ngày dõi theo Vodka miệt mài luyện tập trôi qua...",
+      "jpname": "モノローグ",
+      "jptext": "こうして、トレーニングに打ち込むウオッカを見守り数日が過ぎ――"
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng, ngày diễn ra Đại hội Thể thao Phân môn cũng đã tới.",
+      "jpname": "モノローグ",
+      "jptext": "いよいよ、種目別競技大会の本番がやって来た。"
+    },
+    {
+      "name": "",
+      "text": "(ỒỒỒỒỒỒỒ...!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワァアアアアアー！！）"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Hãy lắng nghe tiếng reo hò này đi! Ngôi sao của bảng 10 cự ly 2000m sân cỏ, trận đua sôi động chẳng kém gì một giải GI... không ai khác chính là Mã Nương này!",
+      "jpname": "実況",
+      "jptext": "お聞きください、この歓声！　GⅠレース並の盛り上がりを見せる\n芝2000m、第10レースのスターは――やはりこのウマ娘！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "\"Quái vật\" đáng sợ, Narita Brian!!",
+      "jpname": "実況",
+      "jptext": "恐るべき“怪物”、ナリタブライアンですっっっ！！"
+    },
+    {
+      "name": "",
+      "text": "(OAAAAAA...!!)",
+      "jpname": "モノローグ",
+      "jptext": "（ワァアアアアアッ！！）"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ồn ào thật.",
+      "jpname": "ナリタブライアン",
+      "jptext": "……騒がしいな。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tiền bối Brian... quả nhiên tỏa ra áp lực kinh người thật.",
+      "jpname": "ウオッカ",
+      "jptext": "ブライアン先輩……さすがにスゲェ圧放ってんな。"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ủa, đến nước này rồi lại muốn rút lui à? Hay để tôi đi thương lượng với ban tổ chức cho nhé.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あら、今からでも辞退したくなっちゃった？\nアタシが実行委員会に掛け合ってきてあげましょうか。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Đ-Đừng có dở hơi! Chớ có lo chuyện bao đồng.",
+      "jpname": "ウオッカ",
+      "jptext": "ばっ、んなわけねぇだろ！　余計なことすんじゃねぇっ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Tôi sẽ thắng cho mà xem. Chống mắt lên mà nhìn đi!!",
+      "jpname": "ウオッカ",
+      "jptext": "……勝ってきてやるさ。見とけ！！"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vâng vâng, tôi sẽ chống mắt lên xem nhé. ...Thiệt tình.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "はいはい、見ててあげるわよ。……ったく。"
+    },
+    {
+      "name": "Trainer có kinh nghiệm A",
+      "text": "Con bé dõng dạc tuyên bố \"sẽ thắng cho mà xem\"... chẳng lẽ Vodka định thắng Narita Brian thật đấy à?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "『勝って来る』って、高らかに宣言してたが……\nまさかウオッカ、ナリタブライアンに勝つ気でいるのか？"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Vodka cũng có tố chất đấy... Nhưng mà, chuyện đó thì hơi quá sức rồi...",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "ウオッカも素質はあるんだが……しかし、それはちょっとなぁ……。"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "......",
+      "jpname": "ダイワスカーレット",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi, trận đua của nhóm Vodka cuối cùng cũng bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "そして、とうとうウオッカたちのレースが始まった。"
+    },
+    {
+      "name": "",
+      "text": "(Keng...!!)",
+      "jpname": "モノローグ",
+      "jptext": "（――ガコン！！）"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hà... hà... hà...!!",
+      "jpname": "ウオッカ",
+      "jptext": "はっ、はっ、はっ……！！"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Mình cũng sẽ làm được...! Nếu thắng được tiền bối ở đây... thì không chỉ đơn thuần là ngầu đâu mà sẽ đỉnh cao luôn!)",
+      "jpname": "ウオッカ",
+      "jptext": "（やってやるさ、俺だって……！\nここで先輩に勝ちゃあ……カッコいいなんてもんじゃねぇだろ！）"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tốt lắm...!!",
+      "jpname": "ウオッカ",
+      "jptext": "よぉしっ……！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Vodka đã vươn lên dẫn đầu rồi! Bằng pha tăng tốc uyển chuyển, em ấy đang vượt qua nhóm đông!!",
+      "jpname": "実況",
+      "jptext": "ここでウオッカが前に出ましたっ！\nしなやかな加速で集団をかわしていきます！！"
+    },
+    {
+      "name": "",
+      "text": "Trận đua quy tụ toàn hảo thủ nên tốc độ được đẩy lên rất cao ngay từ đầu, nhưng Vodka vẫn kiên cường bám đuổi.",
+      "jpname": "モノローグ",
+      "jptext": "実力者揃いのレースなだけあり序盤から速いペースだったが、\nウオッカは懸命について行っていた。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, khi bước vào giai đoạn cuối trận đua...",
+      "jpname": "モノローグ",
+      "jptext": "だが、レースも終盤になると――"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hà... hà... hà...",
+      "jpname": "ウオッカ",
+      "jptext": "はぁっ、はぁっ……はぁ……。"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Chết tiệt... mắt mình bắt đầu mờ đi rồi...!)",
+      "jpname": "ウオッカ",
+      "jptext": "（ヤベ……視界、曇ってきやがった……！）"
+    },
+    {
+      "name": "Vodka",
+      "text": "Khốn khiếp...!!",
+      "jpname": "ウオッカ",
+      "jptext": "くそぉ、っ……！！"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Kết thúc tại đây!",
+      "jpname": "ナリタブライアン",
+      "jptext": "……決めるっ！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Đến rồi, Narita Brian! Bứt tốc ngay tại đây!! Dễ dàng vượt qua các Mã Nương kỳ cựu để chiếm lĩnh vị trí dẫn đầu!!",
+      "jpname": "実況",
+      "jptext": "来ました、ナリタブライアン！　ここでスパートっ！！\n強豪ウマ娘たちをやすやすと追い抜き、先頭に立ちましたっ！！"
+    },
+    {
+      "name": "Vodka",
+      "text": "Khố... nnn khiếpppppp!!",
+      "jpname": "ウオッカ",
+      "jptext": "くっ……そぉおおおおおおお！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Vodka cũng tăng tốc! Nhưng khoảng cách này liệu có san lấp được không!? Dẫn đầu là Narita Brian, bỏ xa vị trí thứ hai từ 5 đến 6 thân ngựa!",
+      "jpname": "実況",
+      "jptext": "ウオッカもスピードを上げます！　しかしこの差は厳しいか！？\n先頭はナリタブライアン、2番手との差は5バ身から6バ身！"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Không được rồi... Chị ấy mạnh quá...!!)",
+      "jpname": "ウオッカ",
+      "jptext": "（ダメだ……強すぎるっ……！！）"
+    },
+    {
+      "name": "Vodka",
+      "text": "Vô ích rồi... không thể đuổi kịp nữa...",
+      "jpname": "ウオッカ",
+      "jptext": "無理だ……もう、追いつけねぇ……。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Narita Brian, cán đích!! Một màn thể hiện xuất chúng, xứng danh với hai từ áp đảo!!",
+      "jpname": "実況",
+      "jptext": "ナリタブライアン、ゴォオオオオル！！\n圧倒的と言うに相応しい、見事な走りを見せてくれましたっ！！"
+    },
+    {
+      "name": "",
+      "text": "...Vodka đáng tiếc chỉ có thể về đích ở vị trí thứ 5.",
+      "jpname": "モノローグ",
+      "jptext": "……ウオッカは、残念ながら5着に終わってしまったのだった。"
+    },
+    {
+      "name": "Trainer có kinh nghiệm A",
+      "text": "Đã thi đấu kiên cường đấy, nhưng quả thực là một thử thách liều lĩnh quá mức, Vodka à.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "健闘はしていたが……\nさすがに無謀なチャレンジだったな、ウオッカ。"
+    },
+    {
+      "name": "Trainer kỳ cựu A",
+      "text": "Đúng vậy. Nếu biết chọn một sân chơi phù hợp hơn, thì ngôi sao hôm nay có lẽ đã là con bé rồi.",
+      "jpname": "ベテラントレーナーA",
+      "jptext": "ああ。適切な舞台を選んでさえいれば、スターは彼女だったろうに。",
+      "choice_data_list": [
+        "Này, đừng có sỉ nhục em ấy nữa...",
+        "Này, xin đừng sỉ nhục bạn ấy nữa..."
+      ],
+      "jpchoice_data_list": [
+        "おい、いい加減彼女を侮辱するのは――",
+        "ちょっと、いい加減彼女を侮辱するのは――"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Này này, sao mặt anh lại hầm hố thế kia, Trainer?",
+      "jpname": "ウオッカ",
+      "jptext": "おいおい、なに怖い顔してんだ、トレーナー？",
+      "choice_data_list": [
+        "Vodka..."
+      ],
+      "jpchoice_data_list": [
+        "ウオッカ……"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Không sao đâu mà. Nói đúng hơn... cũng đành chịu thôi.",
+      "jpname": "ウオッカ",
+      "jptext": "いいんだよ。\nっていうか……しかたねぇよ。"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tôi của hiện tại... thật sự mất chất quá mà...",
+      "jpname": "ウオッカ",
+      "jptext": "今の俺……マジで、ダセェからさ……。"
+    },
+    {
+      "name": "",
+      "text": "\"Không phải thế đâu\"... Tôi toan nói lời an ủi, nhưng Vodka đã quay lưng rời đi mất rồi.",
+      "jpname": "モノローグ",
+      "jptext": "『そんなことはない』……そう伝えようとしたのだが、\nウオッカはその場を立ち去ってしまった。"
+    }
+  ]
+}
