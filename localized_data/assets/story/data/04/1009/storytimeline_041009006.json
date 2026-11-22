@@ -1,0 +1,472 @@
+{
+  "title": "Món quà đặc biệt",
+  "jptitle": "特別なプレゼント",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Vào một ngày nghỉ, khi tôi đang tản bộ dạo quanh phố xá thì――",
+      "jpname": "モノローグ",
+      "jptext": "休日、散歩がてら街を歩いていると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "A, mẹ ạ? Con xin lỗi vì đã gọi lúc mẹ đang bận nhé. Chuyện là... lịch trình tháng sau của mẹ thế nào ạ?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あ、ママ？　忙しいのに、ごめんなさい。\nその……来月のママのスケジュールなんだけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dạ, vâng... A, ra là vậy ạ. Dạ... con hiểu rồi, con cảm ơn mẹ! Vậy con chào mẹ nhé!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "うん、うん……あ、そうなんだ。\nん……わかった、ありがとう！　それじゃあ、また！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Được rồi! Đã biết khách sạn mẹ sẽ ở rồi, thế là xong xuôi nhé! Giờ chỉ cần chuẩn bị quà nữa thôi... Hì hì♪",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……よし！　滞在してるホテルもわかったし、これでバッチリね！\nあとはプレゼントを用意すれば……ふふっ♪",
+      "choice_data_list": [
+        "Em vừa gọi điện cho mẹ à?",
+        "Bạn vừa gọi điện cho mẹ à?"
+      ],
+      "jpchoice_data_list": [
+        "お母さんと電話してたのか？",
+        "お母さんと電話してたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "T-Trainer!? Anh làm gì ở nơi này thế... Ơ khoan, không lẽ anh vừa nghe lén tôi đấy à? Đừng có làm mấy trò như thế chứ!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ト、トレーナー！？　こんなところでなにを……って、\nもしかして、盗み聞きしてたわけ？　やめてよね、そういうこと！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hà... Tháng sau là sinh nhật của mẹ tôi, nên tôi mới hỏi để xác nhận địa chỉ gửi quà thôi.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "はぁ……来月はママの誕生日だから、送り先を確認してたの。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Kiểu như một món quà bất ngờ ấy mà. Dù cũng chẳng biết mẹ có ngạc nhiên hay không.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "サプライズってやつね。\nママが驚いてくれるかはわからないけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Thứ khiến mẹ nhận được sẽ vui sướng nhất... Tôi phải nghĩ ra một món quà tuyệt vời nhất để mẹ phải khen 'Quả không hổ danh là Scarlet' mới được!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ママがもらって1番嬉しいもの……『さすがはスカーレット』って\n言ってもらえるような、最高のプレゼントを考えなくちゃ！",
+      "choice_data_list": [
+        "Anh giúp một tay được không?",
+        "Tôi giúp một tay được không?"
+      ],
+      "jpchoice_data_list": [
+        "手伝ってもいいか？",
+        "手伝ってもいい？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Anh á? ...Mà thôi, xách đồ hộ thì chắc cũng có ích đấy.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アンタが？\n……まあ、荷物持ちくらいなら役には立ちそうね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Được rồi, tôi cho phép anh đi cùng đấy. Nhanh chân lên nào!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "いいわ、付き合わせてあげる。\nほら、さっさと行くわよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Cứ như thế, tôi đã đi cùng để giúp Daiwa Scarlet chọn quà, thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "こうして、ダイワスカーレットの\nプレゼント選びに付き合うことになったのだが――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Việc chọn quà diễn ra vô cùng nan giải.",
+      "jpname": "モノローグ",
+      "jptext": "プレゼント選びは難航していた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dây chuyền... Hừm. Dễ thương thật đấy, nhưng kiểu dáng có chút không hợp với mẹ.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ネックレス……むむっ。\nかわいいけど、ちょっとデザインがママ向きじゃないわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hoa tai bên này cũng đẹp, nhưng lại lấp lánh quá. Nếu để mẹ đeo thì phải tao nhã hơn cơ...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "こっちの耳飾りもキレイだけど、キラキラしすぎね。\nママが付けるならもっと品のある方が……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hay là tặng quần áo nhỉ. Bộ kia chẳng hạn, là thương hiệu nổi tiếng nhất và bán chạy nhất hiện nay――",
+      "jpname": "ダイワスカーレット",
+      "jptext": "いっそ、服なんてどうかしら。\nあれとか、今1番の人気ブランドで1番売れてる――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Đúng là bán chạy có khác, đi đâu cũng thấy kiểu này. Quà cho mẹ là phải mang lại cảm giác đặc biệt hơn thế nhiều.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……だけはあるわね。そこら中で見かけるデザインだわ。\nママにはもっと、特別感のあるものじゃないと。",
+      "choice_data_list": [
+        "Một bó hoa thì sao?",
+        "Một bó hoa thì sao?"
+      ],
+      "jpchoice_data_list": [
+        "花束とかはどうだ？",
+        "花束とかはどう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Không tồi, nhưng... tôi muốn tặng một thứ gì đó đặc biệt hơn cơ. Dù sao cũng là sinh nhật, tôi muốn mẹ phải vui hết nấc.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "悪くないけど……もっと特別なものをあげたいの。\nせっかくの誕生日だし、ママを思いっきり喜ばせてあげたい。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Để làm được điều đó thì phải tìm một món quà số 1 mà chỉ có chính tay tôi mới có thể chọn được.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "そのためには、アタシじゃないと選べないような、\n1番のプレゼントを探さないといけないのよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Khu vực quanh đây xem hết cả rồi nhỉ. Tiếp theo, đến trung tâm thương mại thôi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……この辺りは見つくしちゃったわね。\n次、ショッピングモールに行きましょ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hừm... Mẫu mã thì nhiều thật, nhưng cứ nghĩ xem cái nào hợp với mẹ thì chẳng thấy cái nào thực sự nổi bật cả.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "うう～ん。種類は多いけど、どれもママに似合うかって\n考えちゃうと、パッとしないわ。",
+      "choice_data_list": [
+        "Em yêu mẹ lắm nhỉ",
+        "Bạn yêu mẹ lắm nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "お母さんが大好きなんだな",
+        "お母さんが大好きなんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đương nhiên rồi! Bởi vì mẹ tôi là một Mã Nương siêu tuyệt vời cơ mà!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あったりまえじゃない！\nだってママは、すっごいウマ娘なんだから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Thời còn thi đấu mẹ tỏa sáng rực rỡ ở các cuộc đua thì khỏi phải bàn rồi, mà bây giờ mẹ vẫn đang bay khắp thế giới để làm biết bao nhiêu công việc nữa.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "現役時代はレースで大活躍だったのはもちろん、\n今も海外を飛び回ってたくさんお仕事をしてるの。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đúng chuẩn một Mã Nương tài giỏi, nói chung là cực kỳ tuyệt vời luôn!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "デキるウマ娘って感じで、とにかく素敵なの！",
+      "choice_data_list": [
+        "Mẹ là hình mẫu mà em ngưỡng mộ sao",
+        "Mẹ là hình mẫu mà bạn ngưỡng mộ nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "君にとっての憧れなのか",
+        "貴方にとっての憧れなんだね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đúng thế đấy.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ええ、そうよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hồi lần đầu tiên tôi giành vị trí số 1 trong một cuộc đua, tuy mẹ không có ở gần đó, nhưng mẹ đã để lại một tin nhắn thoại vỏn vẹn hai chữ 'Chúc mừng con'.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……初めてレースで1番をとった時、ママは近くにいなかったけど、\n留守電に一言『おめでとう』って入れてくれて。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lúc đó, tôi đã vui sướng biết bao nhiêu... Bây giờ cũng vậy, hễ tôi đoạt được vị trí số 1 là mẹ nhất định sẽ gửi tin nhắn.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あの時は、本当に嬉しかったな……。\n今もね、1番をとると必ずメッセージをくれるの。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dù chỉ là đôi ba chữ ngắn ngủi... nhưng lời của mẹ chính là báu vật đối với tôi.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "たった一言だけだけど……ママの言葉は、アタシの宝物よ。",
+      "choice_data_list": [
+        "Đó là lý do em hướng tới vị trí số 1 sao?"
+      ],
+      "jpchoice_data_list": [
+        "それが1番を目指すきっかけ？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ừm, đại loại là vậy đấy. Dù bây giờ cũng là vì bản thân tôi 'không muốn chịu thua' nữa.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "まあ、そんなところね。\n今は『負けたくない』って思う、自分自身のためでもあるけど。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dù sao thì quà tặng cũng phải chọn thứ tốt nhất số 1. Tôi tuyệt đối không chịu thỏa hiệp đâu! Nào, qua chỗ tiếp theo thôi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "とにかく、プレゼントも1番のものを選ばなくちゃ。\n妥協は絶対にしないから！　ほら、次に行くわよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hừm, bắt đầu cạn kiệt ý tưởng rồi đây. Đồ ngọt, phụ kiện hay giày dép đều không ổn...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……う～ん、そろそろ思いつかなくなってきたわ。\nスイーツもアクセも、靴もダメ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Này, anh có cao kiến gì không? Tôi nghe để tham khảo thôi đấy nhé.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ねえ、アンタなにかいい案はある？\n参考までに聞いてあげる。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nói trước là bình thường thì không được đâu đấy. Hãy nghĩ ra một món quà thật đặc biệt mà chỉ có tôi mới tặng được đi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ちなみに、普通じゃダメよ。このアタシにしかあげられないような、\nとっておきのプレゼントを考えなさい！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thứ đặc biệt nhất, khiến người ta vui nhất. Thứ mà mẹ của Daiwa Scarlet sẽ vui sướng khi nhận được――Phải rồi!",
+      "jpname": "モノローグ",
+      "jptext": "とっておきで、1番嬉しいもの。\nダイワスカーレットのお母さんが喜ぶものと言えば――そうだ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Gì thế gì thế? Anh nghĩ ra cái gì rồi à?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "なになに？　なにか思いついたの？",
+      "choice_data_list": [
+        "Chính là giành vị trí số 1 trong cuộc đua!",
+        "Chính là giành vị trí số 1 trong cuộc đua đấy!"
+      ],
+      "jpchoice_data_list": [
+        "レースで1番になることだ！",
+        "レースで1番になることだよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Vị trí số 1 trong cuộc đua? Dùng cái đó làm quà tặng á?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……レースで1番？　それをプレゼントに？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hừm... Mà, có khi thế lại hay đấy chứ? Mẹ cứ hễ thấy tôi giành số 1 là lại nhắn tin cho tôi mà...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ううん……まあ、悪くはないかも？\nママ、1番とるといつも連絡くれるし……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vị trí số 1 dành tặng cho mẹ... Nếu tôi đoạt lấy vị trí số 1 rồi trong buổi phỏng vấn gửi lời 'Chúc mừng sinh nhật mẹ'...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ママのための1番……1番をとって、インタビューの時に\nママに『お誕生日おめでとう』って言ったら……。",
+      "choice_data_list": [
+        "Đó sẽ là ngày sinh nhật tuyệt nhất đấy!",
+        "Đó sẽ là ngày sinh nhật tuyệt nhất đấy!"
+      ],
+      "jpchoice_data_list": [
+        "最高の誕生日になるぞ！",
+        "最高の誕生日になるよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đ-Đúng thế nhỉ! Dù có thể không rơi đúng vào ngày sinh nhật đi chăng nữa...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "そ、そうよね！\n誕生日当日、とはいかないかも知れないけど……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Một món quà đặc biệt mà không một ai khác có thể tặng được. Trao tặng vị trí số 1 của tôi cho mẹ...!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "他の誰にもあげられない、特別なプレゼント。\nアタシの1番をママに……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đối với anh thì ý kiến này được đấy chứ. Tôi khen anh một câu cũng không tiếc đâu.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アンタにしては、いいトコついたわね。\n褒めてあげてもいいわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Được rồi! Quyết định vậy đi! Nhất định ở cuộc đua tới tôi sẽ giành lấy vị trí số 1! Anh cũng thấy vui đúng không? Nếu như tôi chiến thắng!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……よしっ！　決めた！　絶対に次のレースで1番をとる！\nアンタも嬉しいでしょ？　アタシが勝てば！",
+      "choice_data_list": [
+        "Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vậy thì không thể lề mề được nữa! Đi luyện tập ngay thôi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "なら、モタモタしてられないわ！　さっそくトレーニングよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hà, hà, hà... phù.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "はっ、はっ、はっ……ふぅ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hình như mình hơi bung sức quá rồi. Mồ hôi cay cả mắt...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "少し飛ばしすぎたかしら。汗が目に……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Không, vẫn chưa thấm vào đâu! Phải cố gắng nhiều hơn nữa!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……ううん、でもまだまだ！　もっともっと頑張らないと！",
+      "choice_data_list": [
+        "Mẹ em chắc chắn sẽ vui lắm đấy",
+        "Mẹ bạn chắc chắn sẽ vui lắm đấy"
+      ],
+      "jpchoice_data_list": [
+        "お母さん、きっと喜ぶぞ",
+        "お母さん、きっと喜ぶよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vâng... Cứ nghĩ đến chuyện đó là tôi lại thấy tràn trề sinh lực.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ええ……そう思うと気力が湧いてくるわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hì hì, lời nhắn gửi tới mẹ trong buổi phỏng vấn, tôi phải suy nghĩ thật kỹ từ bây giờ mới được!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ふふっ、インタビューでママに送る言葉、\n今からちゃんと考えておかなきゃ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nào, tiếp tục thôi Trainer! Tôi nhất định sẽ giành vị trí số 1... Anh cũng phải lên tinh thần đấy nhé!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "さあ続けるわよ、トレーナー！\nアタシは絶対に1番をとる……アンタも気合い入れてよね！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Những ngày sau đó. Daiwa Scarlet đã xuất sắc giành lấy vị trí \"số 1\" trong cuộc đua.",
+      "jpname": "モノローグ",
+      "jptext": "――後日。\nダイワスカーレットは、見事レースで“1番”を手に入れた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Nhận được cuộc gọi từ mẹ, Daiwa Scarlet đã nở một nụ cười rạng rỡ đầy hạnh phúc, hệt như một đứa trẻ thơ.",
+      "jpname": "モノローグ",
+      "jptext": "母親から電話をもらったダイワスカーレットは、\n小さな子どものような表情で、嬉しそうに笑っていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}

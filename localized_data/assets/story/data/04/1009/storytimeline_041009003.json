@@ -1,0 +1,465 @@
+{
+  "title": "Kẻ kỳ quặc hơn bất kỳ ai",
+  "jptitle": "誰よりも変なヤツ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Suốt một thời gian sau Trận đua Tuyển chọn, Daiwa Scarlet luôn bị vây quanh bởi các Trainer muốn chiêu mộ.",
+      "jpname": "モノローグ",
+      "jptext": "選抜レースからしばらくの間は、\nスカウトのトレーナーに囲まれていたダイワスカーレット。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng, đến giờ thì――",
+      "jpname": "モノローグ",
+      "jptext": "だが、今となっては――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "Ơ kìa? Sao vậy, không có ai đến bắt chuyện với Scarlet nữa à?",
+      "jpname": "中堅トレーナーA",
+      "jptext": "あれ？　なんだ、誰もスカーレットに\n声をかけにいかないのか？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer tân binh A",
+      "text": "Bên tôi chỉ tập trung vào mỗi Vodka thôi. Dù thực lực có tốt đến đâu thì với tính khí ấy cũng khó lòng tiến xa được...",
+      "jpname": "新人トレーナーA",
+      "jptext": "うちはウオッカ1人に絞りましたよ。いくら地力があるといっても、\nあの気性では上に行くのは難しいかと……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Trainer trung cấp A",
+      "text": "...Ừm, cũng đúng thật. Thôi tôi cũng qua chỗ Vodka đây.",
+      "jpname": "中堅トレーナーA",
+      "jptext": "……ま、それもそうだな。\n俺もウオッカの所へ行くとするか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hừ, nhẹ cả người! Mấy kẻ xem trò phiền phức cũng đi hết rồi, giờ thì mình có thể tập trung vào luyện tập――",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……ふん、せいせいしたわ！　余計なギャラリーも\nいなくなったし、これでトレーニングに集中できるもの――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đáng lẽ phải nói được thế chứ! Này! Sao vẫn còn một người ở lại đây thế hả!?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "って、言いたかったのに。\nちょっと！　なんで1人残ってるわけ！？",
+      "choice_data_list": [
+        "Anh muốn nói chuyện với em",
+        "Tôi muốn nói chuyện với bạn"
+      ],
+      "jpchoice_data_list": [
+        "君と話がしたくて",
+        "貴方と話がしたくて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hả? ...À, không lẽ anh vẫn nghĩ tôi là một học sinh gương mẫu ngoan ngoãn nghe lời đấy chứ?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "はぁ？　……ああ、もしかしてアンタ、まだアタシのこと、\n素直に言うこと聞く優等生だとでも思ってるのかしら？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sẵn đây tôi nói cho mà biết luôn, cái đó chỉ là 'diễn' thôi.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "もうこの際だから教えてあげるけど、\nあれ、そういう『フリ』だから。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đây mới là con người thật của tôi này! ...Đúng như những kẻ lúc nãy nói đấy, một đứa cứng đầu, ích kỷ và tính khí khó chiều.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ほんとのアタシはこっち！\n……さっきの連中が言ってた通りの、頑固でワガママな気性難よ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sao nào? Thấy vỡ mộng rồi chứ gì? Thế thì biến khỏi đây cho khuất mắt tôi ngay đi.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "どう？　幻滅したかしら？\nじゃ、とっととここから居なくなって。",
+      "choice_data_list": [
+        "Anh sẽ không đi đâu cả"
+      ],
+      "jpchoice_data_list": [
+        "どこにも行かない"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Này. Anh có nghe tôi nói gì không đấy?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……ちょっと。\nアンタ、アタシの話聞いてた？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tôi đã bảo tôi không phải là đứa con gái như anh nghĩ đâu! Hiểu ra giùm một chút đi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アタシはアンタが思ってるような子じゃ\nないんだってば！　いい加減理解しなさいよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Học viện Tracen toàn là những đứa chạy nhanh! Trong một nơi như thế mà tôi lại làm bộ làm tịch, lên mặt ta đây, rồi cuối cùng nhận lấy thất bại thảm hại, đó mới là tôi của bây giờ đấy!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "トレセン学園は速い子ばっかり！　そんな中で虚勢張って、\nでかい態度取って、みっともなく負けたのが今のアタシなの！",
+      "choice_data_list": [
+        "Không hề thảm hại chút nào cả!"
+      ],
+      "jpchoice_data_list": [
+        "みっともなくなんかなかった！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ồn ào quá đấy!! Tôi không cần anh an ủi!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "うるっさいわね！！\n慰めはいらないのよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tôi... cũng tự hiểu mà. Rằng tôi chỉ biết lặp đi lặp lại chữ \"số 1\", \"số 1\" một cách vô nghĩa, rồi mọi nỗ lực chỉ toàn uổng công vô ích!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アタシだって……わかってる。\n“1番”“1番”って虚しく繰り返して、空回ってばっかだって！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Chỉ vì thua Vodka một lần mà dỗi hờn, nổi đóa, rồi đâm đầu chạy thục mạng bất chấp... Bản thân tôi cũng thấy mình ngốc nghếch lắm chứ!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "1度ウオッカに負けたぐらいで、拗ねてヤケになって、\n無茶な走り込みして……自分でもバカなことしてるって思うわよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nhưng mà... biết làm sao được chứ!! Nếu không phải là \"số 1\", tôi không thể nào tha thứ cho chính mình được!!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "でもっ……しょうがないじゃない！！\n“1番”じゃなきゃ、許せないんだから！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tôi phải nhanh nhất, mạnh nhất! Phải là một tôi được mọi người công nhận nhất, được chú ý nhiều nhất cơ!!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "1番速くて、1番強い！　1番みんなに認められる、\n1番注目されるアタシじゃなきゃ嫌なの！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nếu không được như thế thì tôi tuyệt đối không bao giờ thỏa mãn... Tôi đã trót trở thành một con người như vậy rồi, biết làm sao được cơ chứ...!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "そうじゃなきゃ絶対満足できないんだから……\nそういうふうになっちゃったんだから、しょうがないじゃない……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tôi... vì bản thân mình, mà nhất định phải tiếp tục đoạt lấy vị trí \"số 1\"!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "アタシはっ、アタシのために、\n“1番”だけを取り続けなきゃいけないのよ！",
+      "choice_data_list": [
+        "Anh đến đây vì muốn trở thành chỗ dựa cho một người như em đấy",
+        "Tôi đến đây vì muốn trở thành chỗ dựa cho một người như bạn đấy"
+      ],
+      "jpchoice_data_list": [
+        "そんな君を支えたくて、ここに来たんだ",
+        "そんな貴方を支えたくて、ここに来たんだよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..................H-Hả?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "………………は、はぁ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Khoan, đợi đã. Nghe đến tận nước này rồi mà vẫn nói thế... Không lẽ anh ngốc thật đấy à?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "いや、ちょっと。ここまで聞いといてソレって……\nアンタ、もしかして本気でバカなの？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Anh nên sáng mắt ra đi chứ! Tôi chỉ là một kẻ cứng đầu, ngoài việc cố chấp với vị trí \"số 1\" ra thì chẳng biết làm gì khác đâu!!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "察しなさいよ、そろそろ！　アタシは“1番”にこだわる事しか\nできない、ただの頑固なヤツなんだってば！！",
+      "choice_data_list": [
+        "Nếu vậy thì hãy cùng nhau hướng tới vị trí \"số 1\" nào"
+      ],
+      "jpchoice_data_list": [
+        "それなら一緒に“1番”を目指そう"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Đã bảo là...!! Sao chuyện lại chuyển hướng sang như đang chiêu mộ thế này hả!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "っ、だからぁ！！\nなんでスカウトみたいな流れになるのよ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nói cho mà biết, tôi không dễ dàng nghe theo lời anh đâu đấy nhé!?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "あのねぇ、アタシはそうやすやすと\nアンタの言うことなんか聞かないわよ！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nếu không cảm thấy thỏa đáng, tôi sẽ can thiệp lung tung vào cả giáo án luyện tập cho xem!! Anh đã chuẩn bị tinh thần cho chuyện đó chưa hả!?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "納得いかなきゃ、トレーニングメニューにも\nめちゃくちゃ口出しするんだから！！　その覚悟、できてるわけ！？",
+      "choice_data_list": [
+        "Chúng ta sẽ cùng trao đổi kỹ càng cho đến khi em vừa lòng mới thôi!",
+        "Chúng ta sẽ cùng trao đổi kỹ càng cho đến khi bạn vừa lòng mới thôi!"
+      ],
+      "jpchoice_data_list": [
+        "君が納得いくまでとことん話し合おう！",
+        "貴方が納得いくまでとことん話し合おう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "............A-Anh bị làm sao thế hả.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "…………な、なんなのよ、アンタ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Làm chỗ dựa... rồi lại cùng nhau... Anh nói nghiêm túc đấy à...?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "支える、って……一緒にって……\nアンタ、本気で言ってるわけ……？",
+      "choice_data_list": [
+        "Anh sẽ trở thành Trainer \"số 1\" của em",
+        "Tôi sẽ trở thành Trainer \"số 1\" của bạn"
+      ],
+      "jpchoice_data_list": [
+        "君にとって“1番”のトレーナーになるよ",
+        "貴方にとって“1番”のトレーナーになるよ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "............!!",
+      "jpname": "ダイワスカーレット",
+      "jptext": "…………ッ！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hừ. Đừng có cướp câu cửa miệng của người khác thế chứ?",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……ふん。\nヒトの口癖、取らないでくれるかしら？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Thật là... mình vớ phải một kẻ kỳ quặc mất rồi...",
+      "jpname": "ダイワスカーレット",
+      "jptext": "ほんと……っ、変なヤツに、捕まっちゃった……っ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Như thể mọi cảm xúc kìm nén bấy lâu vỡ òa, Daiwa Scarlet đã bật khóc nức nở.",
+      "jpname": "モノローグ",
+      "jptext": "今まで抑え込んできたものが\n決壊したかのように、ダイワスカーレットは泣いた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi, một lúc sau――",
+      "jpname": "モノローグ",
+      "jptext": "そうして、しばらくの後――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Khóc trước mặt người khác thế này, không biết đã bao lâu rồi nhỉ.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "……人前で泣くとか、いつぶりかしら。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hà... Tự nhiên thấy nhẹ bẫng cả người. ...Tôi về phòng đây.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "はぁ……なんか、気が抜けちゃった。\n……アタシ、そろそろ帰るわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Thật tình thì dạo này người tôi cứ nặng trĩu. Hôm nay... lâu lắm rồi tôi mới đi ngủ sớm đấy.",
+      "jpname": "ダイワスカーレット",
+      "jptext": "正直、最近ずっと体が重かったのよね。\n今日は……久々に、早めに寝るわ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Bóng lưng rời đi của Daiwa Scarlet vẫn chưa thể tìm lại nhuệ khí như trước kia. Có vẻ việc về nhì ở Trận đua Tuyển chọn vẫn còn đè nặng lên tâm trí em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "立ち去るダイワスカーレットの背中には、まだ以前のような覇気が\n感じられなかった。選抜レースでの2着が相当響いているようだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi vừa đi tới nhà ăn vừa trăn trở xem làm cách nào để giúp em ấy lấy lại sự tự tin, thì――",
+      "jpname": "モノローグ",
+      "jptext": "なんとか自信を取り戻させて\nあげられないものか、と考えつつカフェテリアを訪れると――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Húuu, Vodka!",
+      "jpname": "トウカイテイオー",
+      "jptext": "やっほ～、ウオッカ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Hả? ...Gì đấy, Teio à.",
+      "jpname": "ウオッカ",
+      "jptext": "ああ？　……なんだ、テイオーか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Gì là gì cơ chứ! ...Mà dạo này trông Vodka có vẻ chán chường thế nhỉ.",
+      "jpname": "トウカイテイオー",
+      "jptext": "なんだとはなんだよー！！\n……なんかウオッカ、最近つまんなそーだね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Đâu có... Làm gì có chuyện đó.",
+      "jpname": "ウオッカ",
+      "jptext": "別に……んなことねーよ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Chỉ là... dạo gần đây con nhỏ đó cứ trưng cái bộ mặt ủ rũ ra suốt thôi...",
+      "jpname": "ウオッカ",
+      "jptext": "ただ……アイツが、ここんとこずっと\nつまんねー顔ばっかしてっから……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Con nhỏ đó? Ý cậu là... Scarlet hả? Cùng phòng ký túc xá lại còn là đối thủ của nhau nữa, lo lắng cho người ta chứ gì!",
+      "jpname": "トウカイテイオー",
+      "jptext": "アイツ？　って……もしかしてスカーレット？\n寮じゃ同じ部屋の上にライバルだもんね、心配だよね～。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "K-Không, làm gì có chuyện đó chứ...",
+      "jpname": "ウオッカ",
+      "jptext": "べ、別に、そんなんじゃねーよ……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nhưng mà công nhận là cậu ấy suy sụp hẳn luôn ấy. Chắc là bị sốc nặng vì để thua Vodka ở Trận đua Tuyển chọn rồi nhỉ?",
+      "jpname": "トウカイテイオー",
+      "jptext": "けど確かに、だいぶ落ち込んでるよね～。選抜レースで\nウオッカに負けちゃったのがよっぽどショックだったのかなぁ？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "...Tôi cứ nghĩ con nhỏ đó không phải kiểu người chịu chìm nghỉm luôn chỉ vì bấy nhiêu đâu chứ.",
+      "jpname": "ウオッカ",
+      "jptext": "……それで沈んだままになっちまうような\nヤツじゃ、ないと思ってたんだけどな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Vodka...?",
+      "jpname": "トウカイテイオー",
+      "jptext": "ウオッカ……？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Vodka",
+      "text": "Tsk... Chẳng có gì đâu. Chỉ là với tình trạng của nó hiện tại thì tôi chẳng thấy có cửa thua. ...Thế thôi.",
+      "jpname": "ウオッカ",
+      "jptext": "チッ……なんでもねぇ。ただ、今のアイツには、\n負ける気がしねーよ。……それだけだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "A, đợi đã Vodka! Chờ tớ với!!",
+      "jpname": "トウカイテイオー",
+      "jptext": "あっ、ちょっとウオッカ！\n待ってよ～！！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "――Có lẽ tôi vừa nảy ra một ý hay rồi.",
+      "jpname": "モノローグ",
+      "jptext": "――いいことを思いついたかもしれない。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
