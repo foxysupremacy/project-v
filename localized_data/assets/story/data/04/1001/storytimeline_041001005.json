@@ -1,0 +1,335 @@
+{
+  "title": "Con đường về nhà ngày ấy",
+  "jptitle": "いつか過ごした帰り道",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay tôi cùng Special Week ra ngoài học viện để tập luyện chạy bền... thế nhưng.",
+      "jpname": "モノローグ",
+      "jptext": "今日はスペシャルウィークと、\n学園の外で走り込みトレーニング……なのだが。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Hà... phù...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "はぁ…………はぁ～……。",
+      "choice_data_list": [
+        "Có chuyện gì thế em? Trông em ủ rũ thế",
+        "Có chuyện gì thế bạn? Trông bạn ủ rũ thế"
+      ],
+      "jpchoice_data_list": [
+        "どうしたんだ？元気ないな",
+        "どうしたの？元気ないね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ!? V-Vậy sao anh? Làm gì có chuyện đó đâu nè!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "え！？　そ、そうですか？　そんなことないですよ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Đ-Được rồi! Lên dây cót tinh thần, hôm nay cũng phải cố gắng hết mình nàooo!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "よ、よーし！\n元気いっぱい、今日もがんばるぞ～っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Dù vẫn để mắt lo lắng cho tình trạng của Special Week, tôi vẫn cùng em bắt đầu buổi tập chạy bền.",
+      "jpname": "モノローグ",
+      "jptext": "スペシャルウィークの調子を気にしつつ、\n走り込みトレーニングを開始したのだった。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Và rồi...",
+      "jpname": "モノローグ",
+      "jptext": "そして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Phù! Hôm nay chúng ta đã có một buổi tập luyện thật hiệu quả anh nhỉ! Mà em vẫn còn tràn trề năng lượng lắm đó nha!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "ふぃ～♪　今日もいいトレーニングできましたね！\nでも私、まだまだ元気いっぱいですよ～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Phải rồi! Anh Trainer ơi! Hay là mình chạy bộ về luôn đi anh? Vừa kết hợp rèn luyện thêm mà lại...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "そうだ！　トレーナーさん！\nこのまま走って帰るとかどうですか？　トレーニングにもなり――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Mẹ ơiii! Mua croquette cho con đi mà, mua đi mẹee!",
+      "jpname": "男の子",
+      "jptext": "おかーさーん！　コロッケ買って買って～！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Bà nội trợ",
+      "text": "Thật là, ăn vào rồi lát nữa sao nuốt nổi cơm tối hả. Mau về nhà nhanh lên, đi nào!",
+      "jpname": "主婦",
+      "jptext": "もう、お夕飯入らなくなっちゃうでしょ。\n早くお家に帰るわよ、ほら！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "A...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "あ……。",
+      "choice_data_list": [
+        "Có chuyện gì sao em?",
+        "Có chuyện gì thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうかしたか？",
+        "どうかした？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ? ...A, em xin lỗi! Tự dưng em lại nhớ tới u.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "え？　……あ、すみません！\nちょっとお母ちゃんのこと思い出しちゃって。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Hồi xưa em cũng hay vòi vĩnh giống hệt như vậy. Rồi cũng bị la y như thế...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "私もよくああやっておねだりしたなぁ。\nそれであんな風に叱られて……。",
+      "choice_data_list": [
+        "...Em nhớ u à?",
+        "...Bạn nhớ u à?"
+      ],
+      "jpchoice_data_list": [
+        "……会いたいか？",
+        "……会いたい？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Em muốn gặp lắm chứ ạ! ...Nhưng mà khoảng cách xa xôi quá, đâu phải muốn là gặp ngay được.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "会いたいですっ！\n……けど、すぐ会える距離じゃないですからね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Thật ra hôm qua em vừa gọi điện về cho u.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "実は昨日、お母ちゃんと電話したんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Nào là \"Trang trại bên cạnh vừa có chú bê con mới sinh\", rồi thì \"Cà rốt ngoài ruộng lớn nhanh phổng phao lắm nha\". U kể cho em nghe nhiều chuyện ơi là nhiều.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "『お隣の牧場で仔牛が産まれた』とか、『にんじんが元気に\n育ってるよ～』とか。いーっぱい話してくれました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Thế là em bỗng thấy nhớ quê hương, mới buột miệng bảo: \"Thèm món súp cà rốt hầm của u quá đi mất\"...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "それで懐かしくなって、\n『お母ちゃんのにんじんシチュー、食べたいな』って言ったら……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Thế là u bảo ngay: \"Giọng con nghe ỉu xìu thế. Vẫn ổn chứ con? Đừng có gắng gượng quá sức đấy nhé\". ...U lo lắng cho em nhiều lắm.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "『元気ないわね。大丈夫？　無理してない？』って。\n……お母ちゃん、すごく心配してました。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Đã quyết tâm trở thành niềm tự hào của các u, vậy mà em lại...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "お母ちゃんたちの誇りになるって決めたのに、私……。",
+      "choice_data_list": [
+        "Hóa ra đó là lý do em ủ rũ",
+        "Hóa ra đó là lý do bạn ủ rũ"
+      ],
+      "jpchoice_data_list": [
+        "それで元気がなかったのか",
+        "それで元気がなかったんだ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ vâng... Hàa. Những lúc thế này, giá như em có thể ở gần bên u thì tốt biết mấy.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "はい……はぁ～。\nこんな時、近くにいられたらいいのにな。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Được vậy thì em đã có thể trực tiếp nói cho u yên tâm rằng: \"Con tuy có nhớ nhà đôi chút nhưng vẫn đang cố gắng hết mình và khỏe mạnh lắm\".",
+      "jpname": "スペシャルウィーク",
+      "jptext": "そしたらちゃんと伝えられるのに。\n『さみしいけど、元気にがんばってるよ』って。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "A... Ơ, em đùa thôi đó! Tự dưng em lại nói mấy chuyện này, chắc khiến anh Trainer phải khó xử rồi.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "あ……な、なーんて！　すみません、急にこんな話。\nトレーナーさんも困っちゃいますよね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ thôi, chúng ta mau quay về học viện đi anh! ...Ủa mà khoan đã?",
+      "jpname": "スペシャルウィーク",
+      "jptext": "えっと、早く学園に戻りましょうか！\n……って、あれ？",
+      "choice_data_list": [
+        "Sao thế em?",
+        "Sao thế bạn?"
+      ],
+      "jpchoice_data_list": [
+        "どうした？",
+        "どうしたの？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "A, đằng kia kìa! Tiệm sách đằng kia kìa anh! Trang bìa cuốn tạp chí đó là hình Suzuka-san đó...!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "あ、あの！　あそこの本屋さん！\n雑誌の表紙、スズカさんですよ……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi cùng Special Week ghé vào tiệm sách và mua cuốn tạp chí ấy về.",
+      "jpname": "モノローグ",
+      "jptext": "スペシャルウィークとともに本屋へ立ち寄り、\n一緒にその雑誌をゲットした。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Oa...! Cuốn tạp chí đó nổi tiếng lắm đúng không anh!? Hồi còn ở Hokkaido em cũng từng thấy qua rồi!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "わぁ……！　その雑誌ってすっごく有名ですよね！？\n私も北海道で見たことがありますっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Suzuka-san quả nhiên đỉnh thật đó! Cậu ấy tỏa sáng rực rỡ trong các cuộc đua mà lị.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "やっぱりすごいなぁ、スズカさん！\nレースで大活躍してますもんね。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ừm... em cũng không thể ngồi đây ủ rũ mãi được, phải nỗ lực để một ngày nào đó được lên bìa tạp chí mới được.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "うん……私もクヨクヨしてないで、\n雑誌に載れるくらいがんばらないと。",
+      "choice_data_list": [
+        "Nếu được lên báo, em cũng có thể truyền tải hình ảnh rạng rỡ của mình về cho u rồi",
+        "Nếu được lên báo, bạn cũng có thể truyền tải hình ảnh rạng rỡ của mình về cho u rồi"
+      ],
+      "jpchoice_data_list": [
+        "載ったら、元気な姿も伝えられるな",
+        "載ったら、元気な姿も伝えられるね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ? Được lên báo thì... A, đúng rồi ha.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "え？　載ったらって……あ、そっか。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Nếu được lên tạp chí giống như Suzuka-san... thì mình có thể nhắn nhủ cho u biết rằng mình vẫn đang sống rất vui khỏe.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "スズカさんみたいに雑誌に載れば……\n元気にやってるよって、伝えられるんだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Nếu được như vậy thì u nhất định sẽ vui mừng lắm cho xem...!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "それならお母ちゃん、きっと喜んでくれるはず……！",
+      "choice_data_list": [
+        "Phải có khí thế thế chứ!",
+        "Phải có khí thế thế chứ bạn!"
+      ],
+      "jpchoice_data_list": [
+        "その意気だ！",
+        "その意気だよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Dạ vâng! Em cảm ơn anh nhiều lắm, anh Trainer.",
+      "jpname": "スペシャルウィーク",
+      "jptext": "はい！　ありがとうございます、トレーナーさん。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Ở nơi này tuy không có cánh đồng cỏ trang trại bát ngát nơi em từng tha hồ chạy nhảy, cũng chẳng có ruộng cà rốt mà em hằng yêu thích. Nhưng mà...",
+      "jpname": "スペシャルウィーク",
+      "jptext": "ここにはたくさん駆け回ったあの牧場も、\n大好きなにんじん畑もないけど。でも――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Special Week",
+      "text": "Em sẽ nỗ lực hết mình. Em sẽ tỏa sáng thật nhiều trên đường đua, để trở thành một đứa con đáng tự hào nhất...!",
+      "jpname": "スペシャルウィーク",
+      "jptext": "私、がんばりますっ。\nたくさん活躍して、1番誇れる私になりたいから……！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trong đôi mắt đang ngước nhìn ráng chiều tà ấy, phảng phất chút nỗi niềm cô đơn, nhưng cũng chan chứa ngọn lửa của lòng quyết tâm.",
+      "jpname": "モノローグ",
+      "jptext": "夕焼けを見上げるその瞳には\nさみしさと共に、決意の色もにじんでいた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
