@@ -1,0 +1,505 @@
+{
+  "title": "Anh có yêu dặm không?",
+  "jptitle": "マイル、愛していますか？",
+  "text_block_list": [
+    {
+      "name": "Gran Alegria",
+      "text": "Chỗ này hay ghê nè! Độ tự do chừng khoảng 30 dặm luôn! ...Còn bên này thì mức độ hồi hộp kích thích tầm 20 dặm.",
+      "jpname": "グランアレグリア",
+      "jptext": "ここいいな～！　自由度30マイルぐらいあって！\n……こっちは、20マイルぐらいスリリングだ。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Một ngày nọ trước thềm trại hè huấn luyện. Hôm ấy, hai chúng tôi đang cùng nhau bàn bạc xem nên làm gì vào ngày nghỉ giữa kỳ tập huấn.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿を目前に控えたある日。この日は、\n合宿半ばにある休養日に何をするかを、ふたりで話し合っていた。",
+      "choice_data_list": [
+        "Ưm... A! Chỗ này thì sao em?",
+        "Ưm... A! Chỗ này thì sao bạn?"
+      ],
+      "jpchoice_data_list": [
+        "う～ん……あ！ここはどうだ？",
+        "う～ん……あ！ここはどう？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi dừng ngón tay đang cuộn chuột lại rồi xoay màn hình máy tính về phía em. Nơi tôi vừa tìm thấy là một khu giải trí nằm khá gần khu tập huấn.",
+      "jpname": "モノローグ",
+      "jptext": "スクロールしていた手を止め、パソコンの画面を彼女に向ける。\n見つけたのは、合宿所からほど近いレジャー施設だ。",
+      "choice_data_list": [
+        "Có hồ bơi, có suối nước nóng. Quan trọng hơn cả là--"
+      ],
+      "jpchoice_data_list": [
+        "プールあり、温泉あり。なにより――"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "A! Biểu tượng này... là của cửa tiệm ưu đãi tích dặm mà...!?",
+      "jpname": "グランアレグリア",
+      "jptext": "あ！\nこのマーク、マイルお得店の……！？",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Tuyệt quá! Cộng hẳn 100 dặm luôn đó Trainer-san! ...Ngày nghỉ chúng mình tới đây đi anh!",
+      "jpname": "グランアレグリア",
+      "jptext": "すごい！　＋100マイルです、トレーナーさん！\n……休養日は、ここに行きましょう！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Trainer-saaan, em trượt xuống đây nè! Anh nhớ cầm sẵn máy ảnh đấy nhé! --Một, hai, ba!",
+      "jpname": "グランアレグリア",
+      "jptext": "トレーナーさーーん、行きますよー！　カメラ構えててくださいね！\n――せーの！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "(Tõmmmm!)",
+      "jpname": "モノローグ",
+      "jptext": "（ザッパーン！）",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Phùu! Cầu trượt nước vui quá đi mất! Cảm giác phấn khích dâng trào luôn! Cỡ chừng 50 dặm lận đó!",
+      "jpname": "グランアレグリア",
+      "jptext": "ぷはー！　ウォータースライダー楽しい！\nテンション上がっちゃいます！　50マイルぐらいっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Trainer-san! Tiếp theo chúng mình cùng chơi trò kia đi! 'Thuyền cà rốt★ Hẹn hò' ấy ạ!",
+      "jpname": "グランアレグリア",
+      "jptext": "トレーナーさん！　次はあれを一緒にしましょう！\n『にんじんボート★ランデブー』！",
+      "choice_data_list": [
+        "Được chứ, đi thôi em!",
+        "Được chứ, đi thôi bạn!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、いいぞ！",
+        "うん、いいよ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Tôi cùng Gran Alegria tận hưởng mùa hè một cách trọn vẹn nhất. Bơi lội, thả trôi theo dòng nước rồi nhảy ùm xuống hồ, sau khi đã quẩy hết mình thỏa thích thì...",
+      "jpname": "モノローグ",
+      "jptext": "グランアレグリアと一緒に、思いっきり夏を満喫する。\n泳いで流れて飛び込んで、さんざん遊んだ後は………。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ưmmmm! Đĩa salad này ngon chuẩn 100 dặm luôn...!",
+      "jpname": "グランアレグリア",
+      "jptext": "ん～～～～！\nこのサラダ、おいしさ100マイル……っ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Xà lách vừa giòn sần sật vừa tươi xốp, quyện cùng các loại rau củ quả ngập tràn màu sắc bắt mắt! Lại thêm hành phi làm điểm nhấn cho hương vị và độ giòn tan nữa! Hoàn hảo luôn ạ!",
+      "jpname": "グランアレグリア",
+      "jptext": "シャキシャキふわふわのレタスと、彩り鮮やかな緑黄色野菜！\n食感と味のアクセントのフライドオニオン！　完璧です！",
+      "choice_data_list": [
+        "Món này cũng ngon lắm này! Độ ngon 120 dặm luôn!",
+        "Món này cũng ngon lắm này! Độ ngon 120 dặm luôn!"
+      ],
+      "jpchoice_data_list": [
+        "これも美味しいぞ！美味しさ120マイル！",
+        "これも美味しいよ！美味しさ120マイル！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hả, đến mức đó luôn sao ạ!? ...Ăn xong bữa cơm chuẩn luật dặm bay này, em nhất định sẽ gọi món đó ăn thử!",
+      "jpname": "グランアレグリア",
+      "jptext": "ええ、そんなにですか！？\n……マイルールご飯のあとは、それ頼んでみます！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...Phùuu! Ăn no căng cả bụng rồi ạ! Thế này thì buổi chiều sinh lực của em lại dồi dào vô hạn dặm luôn!",
+      "jpname": "グランアレグリア",
+      "jptext": "……ぷは～～！　いっぱい食べました～！\nこれで午後も元気無限マイルですっ！",
+      "choice_data_list": [
+        "Ha ha! Nạp đầy năng lượng rồi đó nha",
+        "Hì hì! Nạp đầy năng lượng rồi đó nha"
+      ],
+      "jpchoice_data_list": [
+        "はは！バッチリチャージ完了だな",
+        "ふふ！バッチリチャージ完了だね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Vừa ngắm nhìn em thưởng thức ly kem đá bào tráng miệng, tôi vừa lấy cuốn sổ tay từ trong túi xách ra.",
+      "jpname": "モノローグ",
+      "jptext": "デザートのフラッペを飲む彼女を見つつ、\nカバンからメモ帳を取り出す。",
+      "choice_data_list": [
+        "Xem nào, số dặm vừa tích được lúc nãy là..."
+      ],
+      "jpchoice_data_list": [
+        "ええっと、さっき貯まったマイルは……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "! Trainer-san, cuốn sổ tay đó chẳng lẽ là...",
+      "jpname": "グランアレグリア",
+      "jptext": "！　トレーナーさん、そのメモ帳はもしかして……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Trước ánh mắt lấp lánh tràn ngập mong chờ của Gran Alegria, tôi khẽ gật đầu mỉm cười. ...Đúng vậy. Đó chính là 'Sổ tay dặm bay' giống hệt như cuốn sổ mà em đang dùng!",
+      "jpname": "モノローグ",
+      "jptext": "グランアレグリアの期待に輝く視線に、うんと頷く。\n……そう。彼女がつけているのと同じ『マイルメモ』だ！",
+      "choice_data_list": [
+        "Chỉ xem trên điện thoại thì hơi tẻ nhạt một chút"
+      ],
+      "jpchoice_data_list": [
+        "スマホで確認するだけだと、少し味気なくて"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "A! Em hiểu cảm giác đó lắm chứ! Cảm giác háo hức khi tự tay nắn nót từng dòng, cảm giác tự hào gặt hái thành quả mỗi khi mở ra xem lại!",
+      "jpname": "グランアレグリア",
+      "jptext": "あー！　わかります、その気持ち！\n手で書いていくときのワクワク感、見直したときの達成感！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hì hì! Trainer-san giờ cũng đã là một chân chạy dặm thực thụ rồi đấy nha!",
+      "jpname": "グランアレグリア",
+      "jptext": "ふふっ！\nトレーナーさんも、もう立派なマイラーですねっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Được rồi! Cứ đà này chúng mình cùng chơi thật nhiều và tích thêm thật nhiều dặm nữa nhé! Dù sao thì nơi đây cũng là điểm đến ưu đãi tích dặm mà!",
+      "jpname": "グランアレグリア",
+      "jptext": "よし！　この調子でどんどん遊んで、マイルも貯めましょう！\nなんといっても、ここはマイルお得店ですから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Vậy thì tiếp theo sẽ là... vâng!",
+      "jpname": "グランアレグリア",
+      "jptext": "それじゃあ次は……うん！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "'Khu nghỉ dưỡng miền nhiệt đới'! Chơi đùa thỏa thích rồi, giờ là lúc tận hưởng kỳ nghỉ thảnh thơi thôi nào!",
+      "jpname": "グランアレグリア",
+      "jptext": "『南国バカンスエリア』！\nいっぱい遊んだので、次はのんびりバカンスタイムです！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Oa...!",
+      "jpname": "グランアレグリア",
+      "jptext": "わぁ……！",
+      "choice_data_list": [
+        "Tuyệt thật! Cứ như xứ nhiệt đới thực sự vậy",
+        "Tuyệt thật! Cứ như xứ nhiệt đới thực sự vậy nè"
+      ],
+      "jpchoice_data_list": [
+        "すごい！まるで本物の南国だな",
+        "すごい！まるで本物の南国だね"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Vâng ạ! Em bất ngờ đến 100... à không, phải đến 1000 dặm luôn á!",
+      "jpname": "グランアレグリア",
+      "jptext": "はい！　100……いや！\n1000マイルぐらいビックリしましたっ！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hình như nơi này được mô phỏng theo một khu nghỉ dưỡng thực tế ở nước ngoài đấy ạ! Tờ rơi có viết thế đó!",
+      "jpname": "グランアレグリア",
+      "jptext": "実際の海外のリゾートがモデルらしいですよ！\nパンフレットに書いてありました！",
+      "choice_data_list": [
+        "Hở, có thật ngoài đời sao!",
+        "Hở, có thật ngoài đời hả!"
+      ],
+      "jpchoice_data_list": [
+        "へー、実際にあるのか！",
+        "へー、実際にあるんだ！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Nếu ở đây đã làm em ngạc nhiên 1000 dặm rồi... thì không biết nơi thật sự sẽ gây kinh ngạc bao nhiêu dặm nữa nhỉ? Tò mò ghê luôn á!",
+      "jpname": "グランアレグリア",
+      "jptext": "ここで驚き1000マイルだったなら……\n本物は驚きなんマイルなんだろう？　気になりますね！",
+      "choice_data_list": [
+        "Ừ!... Nhưng ngoài công việc ra thì đi nước ngoài hơi khó",
+        "Phải đó!... Nhưng ngoài công việc ra thì đi nước ngoài hơi khó"
+      ],
+      "jpchoice_data_list": [
+        "ああ！……でも仕事以外で海外はなあ",
+        "うん！……でも仕事以外で海外はなあ"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Với một Trainer mới vào nghề như tôi thì... có rất nhiều rào cản và khó khăn.",
+      "jpname": "モノローグ",
+      "jptext": "自分のような新人トレーナーにはこう……\n色々と厳しいものがある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Ưm, thật vậy sao anh? Em nghĩ nếu hai đứa mình cùng đi thì đâu có vấn đề gì đâu!",
+      "jpname": "グランアレグリア",
+      "jptext": "うーん、そうですかね？\nふたりで行けば、そんなことないと思います！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Bởi vì chúng ta có dặm bay cơ mà!",
+      "jpname": "グランアレグリア",
+      "jptext": "だって、マイルがあるじゃないですか！",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Chỉ cần dùng dặm bay tích lũy của hai đứa là chắc chắn đi được luôn! Còn tiếng Anh thì đã có em làm phiên dịch cho anh rồi!",
+      "jpname": "グランアレグリア",
+      "jptext": "ふたり分のマイルを使ったら、絶対行けます！\n英語ならあたしが通訳できますし！",
+      "choice_data_list": [
+        "Ơ, nhưng mà... cả phần của hai đứa cơ à..."
+      ],
+      "jpchoice_data_list": [
+        "え、でも……ふたり分のって……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "--Vào cái ngày tôi biết Gran Alegria có thói quen tích điểm dặm bay, em quả thực từng nói thế này.",
+      "jpname": "モノローグ",
+      "jptext": "――グランアレグリアが、マイルを貯めていることを知った日。\n彼女はたしかにこう言っていた。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "? Vâng ạ! Bởi vì nếu dùng thì số dặm sẽ bị vơi đi mất mà!",
+      "jpname": "グランアレグリア",
+      "jptext": "？　はい！\nだって、使ったら減っちゃいますから！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Cùng lắm chỉ khi nào sắp hết hạn sử dụng thì em mới dùng thôi. Nhưng em sẽ đợi đến phút chót mới xài! Vì xài là nó giảm đi mất mà!",
+      "jpname": "グランアレグリア",
+      "jptext": "使うのは有効期限が切れるときぐらい？\nでも、ギリギリまでしないです！　減っちゃうので！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Đương nhiên, đến giờ suy nghĩ ấy trong em vẫn không hề thay đổi! Thế nhưng mà...",
+      "jpname": "グランアレグリア",
+      "jptext": "もちろん、それは今でも変わりません！\nでもですね……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Nếu là cùng với Trainer-san, em cảm thấy thế cũng thật tuyệt. Em nhận ra mình muốn dùng số dặm đó cùng anh.",
+      "jpname": "グランアレグリア",
+      "jptext": "トレーナーさんと一緒なら、いいなって。\n使いたいなって、思ったんです。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Bởi vì... ở đó có chứa chan tình yêu dặm bay mà!",
+      "jpname": "グランアレグリア",
+      "jptext": "だって……そこにはマイル愛がありますから！",
+      "choice_data_list": [
+        "Tình yêu dặm bay?"
+      ],
+      "jpchoice_data_list": [
+        "マイル愛？"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Vâng ạ, chính là tình yêu dặm bay!",
+      "jpname": "グランアレグリア",
+      "jptext": "はい、マイル愛です！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Anh có nhớ không? Chuyện lần trước Trainer-san đã dùng dặm bay chiêu đãi em chiếc bánh kem ấy.",
+      "jpname": "グランアレグリア",
+      "jptext": "覚えてますか？　前にトレーナーさんが、\nマイルでケーキを、ごちそうしてくれたときのこと。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Hôm đó, quả thực số dặm của Trainer-san đã biến mất rồi. Thế nhưng... ở ngay trong trái tim em đây, chúng vẫn còn vẹn nguyên.",
+      "jpname": "グランアレグリア",
+      "jptext": "あの日、たしかにトレーナーさんのマイルは消えちゃいました。\nでも……あたしのここには残ってます。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Tình yêu dặm bay của Trainer-san, 'kết tinh từ số dặm anh đã cố công tích lũy'. Tất cả đã hóa thành niềm xúc động lắng đọng mãi mãi!",
+      "jpname": "グランアレグリア",
+      "jptext": "トレーナーさんのマイル愛が、『頑張って貯めたマイルの結晶』が。\n感動という形になって、ずーっと！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "...Dặm bay sẽ biến đổi hình dạng. Ngay trong khoảnh khắc mà người trân quý dặm bay, biết ơn dặm bay và sử dụng dặm bay ấy.",
+      "jpname": "グランアレグリア",
+      "jptext": "……マイルは、形を変える。\nマイルを愛する者が、マイルに感謝し、マイルを使ったその瞬間に。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Chúng sẽ biến thành một hình hài vô hình, đọng lại sâu thẳm trong tim, và rồi--",
+      "jpname": "グランアレグリア",
+      "jptext": "目には見えない形になって、心に残って、そして――",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Trở thành những dặm bay vĩnh viễn không bao giờ phai tàn!",
+      "jpname": "グランアレグリア",
+      "jptext": "永遠に消えない、マイルになる！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Vậy nên chúng mình cùng đến hòn đảo phương nam nhé anh!",
+      "jpname": "グランアレグリア",
+      "jptext": "だから行きましょう、南の島！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Xem như là kỳ nghỉ phần thưởng sau bao nỗ lực hết mình! Bằng chính kết tinh từ tình yêu dặm bay mà hai đứa mình đã cùng nhau tích góp!",
+      "jpname": "グランアレグリア",
+      "jptext": "いっぱいいっぱい頑張った、ご褒美のバカンスに！\nふたりで一緒に集めた、マイル愛の結晶で！",
+      "choice_data_list": [
+        "Gran..."
+      ],
+      "jpchoice_data_list": [
+        "グラン……"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Từng lời của em khiến lồng ngực tôi nghẹn ngào ấm áp. Và rồi khi nhận ra, tôi đã kiên quyết gật đầu đồng ý.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の言葉に、胸がグッと熱くなる。\nそして気づけば、力強く頷いていた。",
+      "choice_data_list": [
+        "Ừ, nhất định một ngày nào đó anh và em sẽ đi!",
+        "Ừ, nhất định một ngày nào đó tôi và bạn sẽ đi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、いつか絶対行こう！",
+        "うん、いつか絶対行こう！"
+      ],
+      "color_text_info_list": []
+    },
+    {
+      "name": "",
+      "text": "Có thể sẽ mất rất nhiều thời gian, thế nhưng dẫu vậy nhất định một ngày nào đó...",
+      "jpname": "モノローグ",
+      "jptext": "時間はかかってしまうかもしれないが、\nそれでもいつか必ず……。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Dù có mất bao nhiêu thời gian đi chăng nữa cũng không sao hết ạ!",
+      "jpname": "グランアレグリア",
+      "jptext": "時間なんか、いくらかかっても大丈夫です！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Bởi vì, cho dù sau này em có tốt nghiệp khỏi Học viện Tracen đi nữa thì dặm bay vẫn sẽ mãi ở nơi đó.",
+      "jpname": "グランアレグリア",
+      "jptext": "だって、たとえあたしがトレセン学園を卒業しても、\nマイルはそこにある。",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Giữa em và Trainer-san luôn có một sợi dây liên kết được gắn kết thông qua dặm bay!",
+      "jpname": "グランアレグリア",
+      "jptext": "マイルを通してつながった絆が、\nあたしとトレーナーさんにはある！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    },
+    {
+      "name": "Gran Alegria",
+      "text": "Chính vì thế, lời hứa hẹn này của chúng ta sẽ không bao giờ có hạn sử dụng đâu ạ!",
+      "jpname": "グランアレグリア",
+      "jptext": "だからこの約束に、有効期限はありません！",
+      "choice_data_list": [],
+      "color_text_info_list": []
+    }
+  ]
+}
