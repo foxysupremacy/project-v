@@ -1,0 +1,428 @@
+{
+  "title": "“Tình yêu” khởi đầu",
+  "jptitle": "始まりの“愛”",
+  "text_block_list": [
+    {
+      "name": "Loves Only You",
+      "text": "Để xem nào... Thế này là xong.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ええと……これでよし、と。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Em chuẩn bị xong rồi ạ. Nhưng mà... bảo em “hãy phát sóng trực tiếp đi” là có ý gì vậy anh?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "準備できたわ。\nけど……『配信をやってほしい』なんて、どういうこと？",
+      "choice_data_list": [
+        "Em sẽ biết ngay thôi. Với lại anh muốn xác nhận chút..."
+      ],
+      "jpchoice_data_list": [
+        "すぐにわかるよ。それと確認なんだけど……"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "? Chuyện gì vậy anh?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "？\nなに？",
+      "choice_data_list": [
+        "Em có nhớ số người đăng ký trong cộng đồng fan không?"
+      ],
+      "jpchoice_data_list": [
+        "ファンコミュニティの登録者数、覚えてる？"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Chuyện đó... đương nhiên là em nhớ chứ. Tính đến hôm nay là 9927 người.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "それは……もちろん覚えてるわ。\n今日現在、9927人。",
+      "choice_data_list": [
+        "Ừ, được rồi. Vậy mình bắt đầu thôi"
+      ],
+      "jpchoice_data_list": [
+        "うん、OK。じゃあ始めよう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau khi xác nhận mọi thứ đã sẵn sàng, tôi dùng điện thoại gửi đi “tín hiệu” đã chuẩn bị từ trước.",
+      "jpname": "モノローグ",
+      "jptext": "準備が整ったのを確認し、\n自分のスマホで準備していた『合図』を送る。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Oa, nhanh thật đấy. Đã có người vào xem rồi nè. Alo, alo. Sao rồi? Mọi người có nghe rõ không?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……わ、すごい。もう入ってきた。\nあ、あーあー。どう？　聞こえてる？"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Nghe rõ lắm!”... A ha, cảm ơn mọi người nha!",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『聞こえてる！』……あはっ、ありがとね！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Ừm. Vậy thì, mình bắt đầu nhé.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……うん。\nじゃあ、始めるわ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Mọi người ơi, khỏe không nè? Love me♡ Love you♡ Loves Only You đây nè♡",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "みんな～、元気？\nラヴミー♡　ラヴユー♡　ラヴズオンリーユーでーす♡"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Vì không báo trước nên buổi stream này hơi đột xuất một chút, nhưng mà―― ...Ủa?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "予告もしてないから突発配信になっちゃったけど――\n……えっ？"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Cái gì thế này...? Đây... đâu phải là số người đang xem đúng không...?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "なにこれ……？　これ、視聴者数じゃないわよね……？"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Dù thế nào thì lượng xem cùng lúc đông thế này――",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "いくらなんでもこんな同接――",
+      "choice_data_list": [
+        "Đúng đấy em. Mọi người đều tụ họp ở đây cả rồi"
+      ],
+      "jpchoice_data_list": [
+        "合ってるよ。みんなここに集まってる"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――...99...26 người...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――……99……26人……。",
+      "choice_data_list": [
+        "Và――"
+      ],
+      "jpchoice_data_list": [
+        "そして――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi lấy điện thoại ra, thao tác ngay trước mắt em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "自分のスマホを取り出し、彼女の目の前で操作する。",
+      "choice_data_list": [
+        "Tính cả anh nữa... là 9927 người đấy em",
+        "Tính cả tôi nữa... là 9927 người đấy bạn"
+      ],
+      "jpchoice_data_list": [
+        "俺を入れて……9927人だよ",
+        "私を入れて……9927人だよ"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――... Không ngờ anh cũng là thành viên cộng đồng. Vậy là... anh đã biết hết mọi chuyện dạo gần đây và chuẩn bị điều này sao.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――……。まさか君も、コミュメンだったなんて。\nじゃあ……最近のこともずっと知っていて、これを用意したのね。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――... Không ngờ chị cũng là thành viên cộng đồng. Vậy là... chị đã biết hết mọi chuyện dạo gần đây và chuẩn bị điều này sao.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――……。まさかあなたも、コミュメンだったなんて。\nじゃあ……最近のこともずっと知っていて、これを用意したのね。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Nhưng mà, làm sao có thể tập hợp được tất cả mọi người chứ? Thời gian sinh hoạt của mỗi người đều khác nhau cơ mà.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "でも、全員なんてどうやって集めたの？\nみんなそれぞれ、生活時間も違うのに。",
+      "choice_data_list": [
+        "Không có chuyện gì cần ưu tiên hơn chuyện này cả đâu"
+      ],
+      "jpchoice_data_list": [
+        "これ以上に、優先すべきことなんてないんだ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đương nhiên mỗi người đều có lịch trình riêng. Dẫu vậy, mọi người đã thề sẽ tụ họp đầy đủ dù chỉ trong khoảnh khắc này.",
+      "jpname": "モノローグ",
+      "jptext": "無論それぞれに予定もある。それでもこの瞬間だけでも\n全員集まろうと誓っていた。"
+    },
+    {
+      "name": "",
+      "text": "Để em ấy... không phải đơn độc một mình. Để nhắn nhủ rằng tất cả đều ở bên em. Tôi đưa ra cuốn sổ dày cộm kết tinh từ những tấm lòng ấy rồi cất lời.",
+      "jpname": "モノローグ",
+      "jptext": "彼女を……ひとりにしないために。みんな一緒だと伝えるために。\nその想いの結晶である分厚い冊子を見せ、一言告げる。",
+      "choice_data_list": [
+        "Bằng tâm tư của 9927 người, anh sẽ đưa em vươn ra thế giới",
+        "Bằng tâm tư của 9927 người, tôi sẽ đưa bạn vươn ra thế giới"
+      ],
+      "jpchoice_data_list": [
+        "9927人の想いで、君を世界へ送り出す",
+        "9927人の想いで、貴方を世界へ送り出す"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Kế hoạch 9927”...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『9927プラン』……。",
+      "choice_data_list": [
+        "Một khi sải bước chạy, chắc chắn em sẽ nhìn thấy rất nhiều điều"
+      ],
+      "jpchoice_data_list": [
+        "きっと、走り出せばいろんな事が見えてくる"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Những điều muốn làm chắc chắn cũng sẽ nhiều thêm”...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『やりたいことも、きっと増える』……。",
+      "choice_data_list": [
+        "Để khi ấy, em có thể bước đi trên con đường mình muốn",
+        "Để khi ấy, bạn có thể bước đi trên con đường mình muốn"
+      ],
+      "jpchoice_data_list": [
+        "その時、君が行きたい道を行けるように",
+        "その時、貴方が行きたい道を行けるように"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Dẫu không thể dắt tay dìu bước”...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『手を引いてあげることはできないけど』……。",
+      "choice_data_list": [
+        "Nhưng chắc chắn có thể soi sáng lối đi cho em"
+      ],
+      "jpchoice_data_list": [
+        "道行きを照らしてあげることはきっとできる"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Mô phỏng độ tương thích từ phong cách chạy của em và... giáo án luyện tập. Dinh dưỡng, nghỉ ngơi... chi tiết đến tận mức này ư...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "私の走りから見た適性のシミュレートと……トレーニングプラン。\n食事、休養……こんなに詳細まで……。",
+      "choice_data_list": [
+        "Em xem tiếp nửa sau đi"
+      ],
+      "jpchoice_data_list": [
+        "後半も見てみて"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Nửa sau ư...? ――A...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "後半……？\n――ああ……。",
+      "choice_data_list": [
+        "Phần đó là do các thành viên cộng đồng chung tay xây dựng đấy"
+      ],
+      "jpchoice_data_list": [
+        "そっちはコミュニティのみんなが作ったんだ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kế hoạch này lấy việc phát sóng làm trọng tâm trong các hoạt động giao lưu với người hâm mộ của em ấy. Giữ nguyên vẹn nền tảng cốt lõi, đồng thời hỗ trợ mở rộng thêm vòng tròn kết nối ấy.",
+      "jpname": "モノローグ",
+      "jptext": "配信を中心に据えた彼女のファンとの交流活動。\n根幹の部分はそのままに、よりその輪を広げる助力をするプランだ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Fufu. Cảm ơn mọi người... cảm ơn mọi người nhiều lắm.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……ふふっ。\nありがとう……ありがとう、みんな。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Bởi vì mình đâu có nghĩ tới con đường nào mà không thể bước cùng mọi người.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "考えてないもの。みんなと一緒に歩めない道なんて。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Thực sự... thực sự tin tưởng là quyết định đúng đắn nhất đời mình. Tình yêu của mọi người, mình đã đón nhận trọn vẹn rồi.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "本当に……本当に、信じていてよかった。\nみんなの愛、受け取ったわ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Tình yêu này... em nhất định sẽ biến thành thắng lợi vang dội để đền đáp cho tất cả mọi người.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "この愛を……大きな勝利にして、きっとみんなに返す。",
+      "choice_data_list": [
+        "Biến niềm vui ấy thành sự cổ vũ, rồi lại gửi trao đến em",
+        "Biến niềm vui ấy thành sự cổ vũ, rồi lại gửi trao đến bạn"
+      ],
+      "jpchoice_data_list": [
+        "その喜びを応援に変えて、また君へ返す",
+        "その喜びを応援に変えて、また貴方へ返す"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu. Cứ như thế, tụi mình hãy cùng bồi đắp cho tình yêu của chúng ta ngày một lớn thêm nhé.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふふっ。そうやって私たちの愛を、もっと大きくしていきましょう。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Khi tình yêu ấy lan tỏa rộng hơn, vươn xa hơn nữa... đó sẽ là một tình yêu tuyệt vời nhất đúng không anh?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "それがもっと広く、もっと遠くまで届いたら……\n最高にステキなラヴ、よね？",
+      "choice_data_list": [
+        "Đến lúc đó thì chẳng phải 9927 người nữa đâu, mà là 1 triệu người đấy chứ"
+      ],
+      "jpchoice_data_list": [
+        "その頃には9927人どころか100万人かな"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Không đâu. Dù có được như thế thì con số khởi đầu vẫn không hề thay đổi. Vì với em... đó sẽ là con số thiêng liêng mà cả đời em không bao giờ quên♪",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ううん。そうなっても、始まりの数字は変わらない。\n私にとって……一生忘れない、大切な数字になるから♪"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――Tụi mình hãy cùng ký hợp đồng nhé. Ngay trước sự chứng kiến của tất cả mọi người nơi đây.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――契約を、結びましょう。\nここにいる全員の前で。",
+      "choice_data_list": [
+        "――Ừ, chắc chắn rồi!",
+        "――Ừ, chắc chắn rồi!"
+      ],
+      "jpchoice_data_list": [
+        "――ああ！",
+        "――うん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Vài ngày sau.",
+      "jpname": "モノローグ",
+      "jptext": "――後日。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Phù...!",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふうっ……！"
+    },
+    {
+      "name": "Mã Nương chạy cùng",
+      "text": "K-Không thể nào...! K-Không thể theo kịp được...!",
+      "jpname": "併走するウマ娘",
+      "jptext": "む……むり……！\n追い……つけないーっ！"
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "Gì cơ...!?",
+      "jpname": "古株トレーナー",
+      "jptext": "むぅ……！？"
+    },
+    {
+      "name": "Mã Nương chạy cùng",
+      "text": "Nghe bảo cậu ấy mới có Trainer đảm nhiệm cách đây không lâu cơ mà...! Người cống hiến toàn bộ cho việc luyện tập như mình mà lại...!",
+      "jpname": "併走するウマ娘",
+      "jptext": "この前トレーナーついたばっかりだって聞いてたのに……！\nすべてをトレーニングに捧げてる、このあたしが……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "(Khắc kỷ rèn luyện sẽ giúp bản thân mạnh hơn... đó chắc hẳn là đáp án đúng của đại đa số. Nhưng mình thì khác)",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "（ストイックに取り組んだほうが強くなる……きっとそれが\n大多数の正解。でも、私は違う）"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "(Những người đón nhận “tình yêu” của mình, và gửi trao “tình yêu” lại cho mình... Chính vì cảm nhận được họ luôn cận kề bên cạnh――)",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "（私の“愛”を受け取って、私に“愛”を返してくれる人たち……\nその存在を傍に感じるからこそ――）"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Yaaa!",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "やぁあっ！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Thấy sao hả, Trainer-kun♪",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "どうかな？　トレーナーくんっ♪",
+      "choice_data_list": [
+        "Chuẩn không cần chỉnh! ...Dù cái vụ thêm đuôi -kun thì tính sau",
+        "Chuẩn không cần chỉnh bạn nhé! ...Dù cái vụ thêm đuôi -chan thì tính sau"
+      ],
+      "jpchoice_data_list": [
+        "バッチリだな！……くん付けはともかく",
+        "バッチリだね！……ちゃん付けはともかく"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Thấy sao hả, Trainer-chan♪",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "どうかな？　トレーナーちゃんっ♪",
+      "choice_data_list": [
+        "Chuẩn không cần chỉnh! ...Dù cái vụ thêm đuôi -kun thì tính sau",
+        "Chuẩn không cần chỉnh bạn nhé! ...Dù cái vụ thêm đuôi -chan thì tính sau"
+      ],
+      "jpchoice_data_list": [
+        "バッチリだな！……くん付けはともかく",
+        "バッチリだね！……ちゃん付けはともかく"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ơ kìa, có sao đâu nè. Hơn nữa, gọi thế này... chẳng phải thấy nhiều tình yêu thương hơn sao?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "えー、いいじゃない。\nそれに、こっちのほうが……ラヴ、感じない？"
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "...Loves Only You. Thực lực của em lúc này đã mạnh hơn hẳn so với hồi ta đến chiêu mộ.",
+      "jpname": "古株トレーナー",
+      "jptext": "……ラヴズオンリーユー。\n私がスカウトした時よりも、力が増していたな。"
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "Ta xin rút lại lời nói trước đây. Quả thực tồn tại Mã Nương trở nên mạnh mẽ vì ai đó. ...Em đã chứng minh điều ấy bằng chính bản thân mình.",
+      "jpname": "古株トレーナー",
+      "jptext": "訂正しよう。誰かのために強くなるウマ娘は存在する。\n……君はそれを、体現してみせた。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu♡ Em cảm ơn thầy ạ. Nhưng người hiện thực hóa điều ấy không chỉ có một mình em, mà là “chúng em” cơ ạ♪",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふふっ♡　ありがとうございます。\nでも、体現したのは私ひとりではなく――“私たち”、ですよ♪"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Tình yêu của bao người tiếp thêm sức mạnh cho em. Khi không phải đơn độc một mình... em có thể trở nên mạnh mẽ vô hạn luôn đấy ạ♪",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "たくさんの人の愛が背中を押してくれる。\nひとりじゃないなら……どこまでも強くなれるんです♪"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Bởi vì――",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "だって――"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Love me♡ Love you♡ Vì em là Loves Only You mà♡",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ラヴミー♡　ラヴユー♡\n私はラヴズオンリーユー、ですから♡"
+    }
+  ]
+}

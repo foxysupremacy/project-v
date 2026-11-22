@@ -1,0 +1,372 @@
+{
+  "title": "“Tình yêu” của mỗi người",
+  "jptitle": "それぞれの“愛”",
+  "text_block_list": [
+    {
+      "name": "Trainer trung cấp",
+      "text": "Cú chạy tuyệt quá... Cô bé này có lẽ sẽ nhắm tới đỉnh cao được đây...!",
+      "jpname": "中堅トレーナー",
+      "jptext": "いい走りだ……これは上を狙える子かもしれない……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Phù... phù... phù... phù...!",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……ふっ……ふっ……ふっ……ふっ……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hít sâu... phù...!",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "すぅーっ……ふぅっ……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Phù...! Ừm ừm, hôm nay cảm giác khá là tốt đấy chứ?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふうっ……！\nうんうんっ、今日はなかなかいい感じかも？",
+      "choice_data_list": [
+        "(Đúng là thực lực của em ấy vượt trội hẳn...)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり、実力は頭ひとつ抜けてる……）"
+      ]
+    },
+    {
+      "name": "Trainer trung cấp",
+      "text": "Em chạy tuyệt lắm! Đặc biệt là khả năng duy trì tốc độ rất tốt! Em có muốn phát triển tài năng đó dưới sự hướng dẫn của tôi không?",
+      "jpname": "中堅トレーナー",
+      "jptext": "素晴らしいよ君！　特にスピードの持続性がいい！\nその才能、私のもとで伸ばしてみないか？"
+    },
+    {
+      "name": "",
+      "text": "Tôi đã chứng kiến em ấy được chiêu mộ như thế không biết bao nhiêu lần. Dưới con mắt của một người mới như tôi, việc em ấy có Trainer đảm nhiệm cũng chẳng có gì lạ.",
+      "jpname": "モノローグ",
+      "jptext": "あんなふうにスカウトされている姿をもう幾度も目にしている。\n新人の自分から見ても、担当がついていてもおかしくないのだが。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――Thế nên là, dù đã nhận được lời mời... nhưng lần này mình quyết định từ chối.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――というわけで、お誘いもらったんだけど……。\n今回は見送ることにしたの。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Chắc chắn cậu sẽ tìm được người hướng dẫn tốt thôi!”... Ừm ừm, cảm ơn nha♡ Những chuyện thế này đều là cái duyên mà.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『きっといい指導者見つかるさ！』……うんうん、ありがとね♡\nこういうのって、巡り合わせだもの。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Bởi vì chuyện này giống như đem toàn bộ sự nghiệp thi đấu đặt cược vào người đó vậy. Đó là việc vô cùng quan trọng nên mình không muốn quyết định qua loa đâu.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "現役生活のすべてをその人に懸けるようなものだもんね。\n大事なことだから、私もいい加減に決めたくないの。"
+    },
+    {
+      "name": "Người chăm chỉ＠Công tác nước ngoài",
+      "text": "“Ở Học Viện Tracen nếu không có Trainer thì không thể ra mắt đúng không? Bé Loves có sao không đấy? Thời điểm ra mắt các thứ ấy”",
+      "jpname": "働き者＠海外赴任",
+      "jptext": "『トレセン学園ってさ、トレーナーつかないとデビューって\nできないんだよね？　ラヴズちゃん大丈夫？　デビュー時期とかさ』",
+      "choice_data_list": [
+        "Nếu muốn ra mắt trong năm nay thì em nên sớm quyết định"
+      ],
+      "jpchoice_data_list": [
+        "年内デビュー目指すならそろそろ決めるべき"
+      ]
+    },
+    {
+      "name": "Người chăm chỉ＠Công tác nước ngoài",
+      "text": "“Thế à! Mà bạn “Cầu nối” ơi, chẳng lẽ bạn là người am hiểu nội bộ sao?”",
+      "jpname": "働き者＠海外赴任",
+      "jptext": "『そうなんだ！　てか“架け橋”さん、もしかして詳しい人？』",
+      "choice_data_list": [
+        "K-Không, tôi cũng chỉ nghe nói thế thôi...!"
+      ],
+      "jpchoice_data_list": [
+        "い、いやそう聞いたことがあるだけで……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng chữa ngượng. Nếu lộ thân phận, có lẽ rất khó để duy trì mối quan hệ như hiện tại. Phải cẩn thận mới được.",
+      "jpname": "モノローグ",
+      "jptext": "慌てて取り繕う。身バレすれば、\nおそらく今の関係を維持するのは難しい。気をつけなければ。"
+    },
+    {
+      "name": "",
+      "text": "Hôm sau. Khi đi ngang qua căng tin, tôi lại bắt gặp bóng dáng quen thuộc.",
+      "jpname": "モノローグ",
+      "jptext": "翌日。\nカフェテリアを通りかかると、また見覚えのある姿を見かけた。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu, được một bậc tiền bối dày dặn thành tích ngỏ lời thế này thật là vinh dự cho em quá ạ.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふふっ、実績豊富なベテランの方からお声がけいただけるなんて、\n大変光栄です。",
+      "choice_data_list": [
+        "(Vị đó từng dẫn dắt cả Mã Nương GⅠ...)"
+      ],
+      "jpchoice_data_list": [
+        "（あの人はGⅠウマ娘も担当してきた……）"
+      ]
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "Ta có thể đưa em chạm tới đỉnh cao mà em hằng mong ước. Em có muốn phát huy tài năng ấy tại các giải cấp nhóm... không, tại đấu trường GⅠ không?",
+      "jpname": "古株トレーナー",
+      "jptext": "私なら君が望む高みに連れていける。\nその才能を重賞……いや、GⅠ戦線で発揮しないか？",
+      "choice_data_list": [
+        "(Chắc chắn sẽ chốt rồi. Chẳng tìm đâu ra lý do để từ chối)"
+      ],
+      "jpchoice_data_list": [
+        "（決まりだろう。断る理由が見つからない）"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――Mình đã từ chối mất rồi♡",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――お断りしちゃった♡"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Có lý do gì ghê gớm lắm sao?” á? Ưm... cũng đúng nhỉ. Được một Trainer GⅠ chiêu mộ thì bình thường ai cũng vồ lấy ngay rồi.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『よほどの理由があるのか？』って？　う～ん……まあそうよね。\nGⅠトレーナーからのスカウトなんて、飛びつくのが普通だもんね。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Nếu chỉ xét về thành tích thì chính mình cũng nghĩ đây là lời đề nghị nhất định phải nhận. Nhưng mà...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "実績だけを考えたら、間違いなく受けるべき話だと私も思うわ。\nでも――"
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "Thứ lỗi cho ta, nhưng ta muốn em đóng cửa cái gọi là cộng đồng fan hâm mộ kia đi. ――Đó là điều kiện hợp đồng.",
+      "jpname": "古株トレーナー",
+      "jptext": "すまないが、ファンコミュニティとやらは閉鎖してもらいたい。\n――これが契約条件だ。"
+    },
+    {
+      "name": "Trainer lão làng",
+      "text": "Những phiền toái và rắc rối vô bổ sẽ dẫn tới kiệt quệ tinh thần và chấn thương. Nếu xét theo mức độ ưu tiên của một vận động viên, ắt hẳn em phải hiểu chứ.",
+      "jpname": "古株トレーナー",
+      "jptext": "無用な手間やトラブルは、メンタルの疲弊やケガに繋がる。\nアスリートとしての優先度を考えれば、理解できるはずだ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Những điều thầy nói em đều hiểu ạ. Nhưng mà... đối với em thì lại khác. Dù có thể thầy sẽ không hiểu cho em.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……仰ることはわかります。ですが……私にとっては違うんです。\nご理解いただけないかもしれませんが。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Để trở nên mạnh mẽ thì không cần phải giao lưu quá mức với fan hâm mộ”. Những người mà mình từ chối từ trước tới giờ, ít nhiều gì cũng có suy nghĩ tương tự như vậy đấy.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『強くなるのに、ファンとの過度な交流は必要ない』。\nこれまで断った方々も、大なり小なり似た考えの方だったわね。",
+      "choice_data_list": [
+        "...Em không sợ sao?"
+      ],
+      "jpchoice_data_list": [
+        "……怖くないの？"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "... “...Cậu không sợ sao?” ư...",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……。\n『……怖くないの？』……。"
+    },
+    {
+      "name": "",
+      "text": "Tôi đã buột lòng đăng câu hỏi ấy lên. Tôi không thể kìm nén được mong muốn được nghe câu trả lời.",
+      "jpname": "モノローグ",
+      "jptext": "思わず、そんな質問を投稿していた。\n聞かずにはいられなかった。",
+      "choice_data_list": [
+        "Nếu như không tìm được người thấu hiểu cho em"
+      ],
+      "jpchoice_data_list": [
+        "理解ある人に見出されなかったら"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Nếu như không tìm được người thấu hiểu cho cậu”... sao.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『理解ある人に見出されなかったら』……かぁ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Fufu♪ Câu hỏi đó có lẽ chẳng có ý nghĩa gì đâu. Bởi vì mình đâu có nghĩ tới con đường nào mà không thể bước cùng mọi người.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……ふふ♪　その質問には意味がないかもしれないわね。\n考えてないもの。みんなと一緒に歩めない道なんて。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ dạo đó, một thời gian đã trôi qua.",
+      "jpname": "モノローグ",
+      "jptext": "あれから、しばらく経った。"
+    },
+    {
+      "name": "",
+      "text": "Loves Only You vẫn chưa có Trainer đảm nhiệm.",
+      "jpname": "モノローグ",
+      "jptext": "ラヴズオンリーユーには、まだトレーナーがついていない。"
+    },
+    {
+      "name": "Quý ông tập gym",
+      "text": "“Liệu tụi tôi có đang cướp đi cơ hội của em không?”",
+      "jpname": "筋トレ中年",
+      "jptext": "『私たちは君の機会を奪っていないだろうか』"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Thôi nào, làm gì có chuyện “cướp đi cơ hội” chứ, hoàn toàn không có đâu. Thời gian luyện tập mình vẫn sắp xếp đàng hoàng mà.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "もう、『機会を奪ってる』だなんて、全然そんなことないから。\nトレーニングの時間だって、ちゃんと取れてるし。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Thế nhưng, nếu việc stream trở thành gánh nặng ngáng đường ký hợp đồng”... ư?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『けれど、配信活動が契約の足枷になるなら』……？"
+    },
+    {
+      "name": "Quý ông tập gym",
+      "text": "“Tôi chỉ dõi theo từ xa thôi cũng không sao cả”",
+      "jpname": "筋トレ中年",
+      "jptext": "『私は、遠くから見守るだけでも構わない』",
+      "choice_data_list": [
+        "Hả...!?"
+      ],
+      "jpchoice_data_list": [
+        "っ！？"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Chỉ dõi theo từ xa thôi”... là sao...?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『遠くから見守るだけ』……って……？"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "――“Nếu lý do việc đàm phán không tiến triển là vì hoạt động stream”――",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "――『話が進まない理由が配信活動なら』――"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Fufu, thật là. Mọi người không cần phải lo lắng như thế đâu.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……ふふっ、もう。\nそんな心配しなくても大丈夫よ。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ở Học Viện Tracen vẫn còn rất nhiều Trainer mà. Chẳng qua là mình chỉ bất đồng quan điểm với vài người thôi.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "トレセン学園には、トレーナーさんはまだたくさんいるんだし。\n何人かの人と考え方に違いがあっただけだもの。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Nè. Có ai... còn nhớ chuyện hồi mình còn nhỏ không nhỉ?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "……ねえ。\n私が小さい頃の話、覚えてる人……いるかな？"
+    },
+    {
+      "name": "Người dẫn chương trình",
+      "text": "Và sau đây! Quán quân của cuộc đua nhí trong sự kiện đặc biệt hôm nay chính là bé Loves Only You!",
+      "jpname": "司会者",
+      "jptext": "はいっ！　本日の特別イベント！\nキッズレースの優勝は、ラヴズオンリーユーちゃんでしたー！"
+    },
+    {
+      "name": "Loves thuở nhỏ",
+      "text": "Hoan hô! Bố ơi! Mẹ ơi! Bố mẹ có thấy con không!?",
+      "jpname": "幼いラヴズ",
+      "jptext": "やったぁ～！\nパパ～！　ママ～！　みてた～！？"
+    },
+    {
+      "name": "Mẹ của Loves",
+      "text": "Ufufu, ừ, chúc mừng con gái vô địch nhé♪ Mẹ vui lắm, Loves à♪",
+      "jpname": "ラヴズの母親",
+      "jptext": "うふふっ、ええ、優勝おめでとう♪\nママとっても嬉しいわ、ラヴズ♪"
+    },
+    {
+      "name": "Bố của Loves",
+      "text": "Mẹ nó nhìn nụ cười của Loves xem kìa! Chao ôi, bố muốn cho thật nhiều người được nhìn thấy nụ cười rạng rỡ này...!",
+      "jpname": "ラヴズの父親",
+      "jptext": "ママ、見てごらんよラヴズのこの笑顔！\nああ、もっとたくさんの人に、この笑顔を見せてあげたい……！"
+    },
+    {
+      "name": "Bố của Loves",
+      "text": "Nào Loves. Đây là “phát sóng trực tiếp” mà con nói muốn làm thử đấy. Con thử nhìn vào chỗ ống kính này rồi nói “Xin chào” xem nào?",
+      "jpname": "ラヴズの父親",
+      "jptext": "ほら、ラヴズ。これがラヴズがやってみたいって言った『配信』さ。\nこのカメラの部分を見ながら、『こんにちは』って言ってごらん？"
+    },
+    {
+      "name": "Loves thuở nhỏ",
+      "text": "X-Xin... c-h-à-o ạ?",
+      "jpname": "幼いラヴズ",
+      "jptext": "こ……こん・にち・は？"
+    },
+    {
+      "name": "Thầy giáo nhiệt huyết",
+      "text": "“Xin chào bé nha!”",
+      "jpname": "熱血先生",
+      "jptext": "『こんにちは！』"
+    },
+    {
+      "name": "Loves thuở nhỏ",
+      "text": "Oa!? Bố ơi! Ở đây hiện lên chữ “Xin chào” nè!",
+      "jpname": "幼いラヴズ",
+      "jptext": "ふわっ！？\nパパ！　ここに『こんにちは！』ってでたよ！"
+    },
+    {
+      "name": "Nữ sinh cấp 3 cả thèm chóng chán",
+      "text": "“Em bé tí ti dễ thương thế mà chạy nhanh ghê hồn luôn! Chị thành fan của em sau cuộc đua vừa rồi luôn rồi đó!”",
+      "jpname": "三日坊主女子高生",
+      "jptext": "『君、ちっちゃかわいいのに、めっちゃ足速いじゃん！\nあたし、今のレースで君のファンになっちゃった！』"
+    },
+    {
+      "name": "Loves thuở nhỏ",
+      "text": "Fan... hâm mộ ạ...?",
+      "jpname": "幼いラヴズ",
+      "jptext": "ふぁん……？"
+    },
+    {
+      "name": "Bố của Loves",
+      "text": "A ha ha, nghĩa là những người “yêu quý” Loves đó con!",
+      "jpname": "ラヴズの父親",
+      "jptext": "あはは、ラヴズのことが『好き』な人たちってことさ！"
+    },
+    {
+      "name": "Loves thuở nhỏ",
+      "text": "Oa...!",
+      "jpname": "幼いラヴズ",
+      "jptext": "わぁ……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "“Hồi đó bé Loves tí hon xíu xiu ha”... ",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "『あの頃のラヴズちゃんちっちゃかったなー』……。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Fufu, đúng thế thật. Thật hoài niệm. ...Nơi đây đối với mình là chốn thiêng liêng nơi mình lần đầu tiên gặp gỡ mọi người.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ふふっ、そうね。懐かしい。\n……ここは私にとって、みんなと最初に出会った大切な場所。"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Và hơn hết thảy――",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "そしてなにより――"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Là nơi mà mình――tìm thấy “tình yêu” của riêng mình.",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "私が――私だけの“愛”を見つけた場所。"
+    }
+  ]
+}
