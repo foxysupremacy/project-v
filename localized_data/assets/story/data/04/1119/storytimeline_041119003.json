@@ -34,8 +34,8 @@
       "jpname": "モノローグ",
       "jptext": "ドリームジャーニーと契約を結んでから数日。全てが順調で、 彼女は自分をよく気遣ってくれている……先日感じた違和感もない。",
       "choice_data_list": [
-        "(Quả nhiên chỉ là mình tưởng tượng thôi mà)",
-        "(Quả nhiên chỉ là do mình nghĩ nhiều thôi nhỉ)"
+        "(Quả nhiên chỉ là tôi tưởng tượng thôi mà)",
+        "(Quả nhiên chỉ là do tôi nghĩ nhiều thôi nhỉ)"
       ],
       "jpchoice_data_list": [
         "（やっぱり、気のせいだよな）",
@@ -48,8 +48,8 @@
       "jpname": "ウマ娘A",
       "jptext": "あの、トレーナーさん！",
       "choice_data_list": [
-        "! Em là...",
-        "! Bạn là..."
+        "! Cô là...",
+        "! Cô là..."
       ],
       "jpchoice_data_list": [
         "！君は……",
@@ -68,7 +68,7 @@
       "jpname": "ウマ娘A",
       "jptext": "返信、すっかり忘れちゃってて……それだけ、謝りたくて。けど、 やっぱり今はジャーニーさんを見てるんですね。よかったです！",
       "choice_data_list": [
-        "Đúng như em nghĩ sao...?"
+        "Đúng như cô nghĩ sao...?"
       ],
       "jpchoice_data_list": [
         "やっぱり……？"
@@ -76,13 +76,13 @@
     },
     {
       "name": "Mã Nương A",
-      "text": "Ủa, Journey-san chưa kể với anh sao? Chị ấy đã đổi Trainer hướng dẫn cho em đấy!",
+      "text": "Ủa, Journey-san chưa kể với anh sao? Chị ấy đã đổi Trainer-san hướng dẫn cho em đấy!",
       "jpname": "ウマ娘A",
       "jptext": "あれ、ジャーニーさんから聞いてますよね？ 指導するトレーナーさん、代わってもらったの！"
     },
     {
       "name": "Mã Nương A",
-      "text": "Hôm đó, Journey-san... có hẹn với một Trainer cực kỳ nổi tiếng. Là một nhân vật siêu tên tuổi với sự nghiệp vô cùng lẫy lừng luôn đấy ạ!",
+      "text": "Hôm đó, Journey-san... có hẹn với một Trainer-san cực kỳ nổi tiếng. Là một nhân vật siêu tên tuổi với sự nghiệp vô cùng lẫy lừng luôn đấy ạ!",
       "jpname": "ウマ娘A",
       "jptext": "あの日、ジャーニーさん……すごく人気のあるトレーナーさんと 約束してたんです。超有名で、すんごいキャリアのある人ですよ！"
     },
@@ -100,7 +100,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Bản thân tôi cũng không nghĩ mình kém cỏi hơn ai. Thế nhưng... nếu không có Trainer nào nhận ra tiềm năng của tôi, tôi sẽ chẳng thể nào ra mắt được.",
+      "text": "Bản thân tôi cũng không nghĩ mình kém cỏi hơn ai. Thế nhưng... nếu không có Trainer-san nào nhận ra tiềm năng của tôi, tôi sẽ chẳng thể nào ra mắt được.",
       "jpname": "ドリームジャーニー",
       "jptext": "私も、自分が劣るとは思っていません。ですが…… 見出してくれるトレーナーさんがいなければ、デビューはできない。"
     },
@@ -134,8 +134,8 @@
       "jpname": "モノローグ",
       "jptext": "確かに、それは優しさだったのかもしれない。 しかし、心にわだかまるものがまだ残っていた。",
       "choice_data_list": [
-        "Em... thật sự thấy ổn với điều đó sao?",
-        "Bạn... thấy như vậy là ổn thật sao?"
+        "Cô... thật sự thấy ổn với điều đó sao?",
+        "Cô... thấy như vậy là ổn thật sao?"
       ],
       "jpchoice_data_list": [
         "君は……これでよかったのか？",
@@ -148,8 +148,8 @@
       "jpname": "モノローグ",
       "jptext": "高い実績を持つトレーナーのほうが、新人である自分よりも、 力になってくれただろう。だが彼女は……そちらを選ばなかった。",
       "choice_data_list": [
-        "Tại sao em lại chọn anh...——",
-        "Tại sao bạn lại chọn tôi chứ...——"
+        "Tại sao cô lại chọn tôi...——",
+        "Tại sao cô lại chọn tôi chứ...——"
       ],
       "jpchoice_data_list": [
         "君はなんで、俺を……――",
@@ -210,8 +210,8 @@
       "jpname": "モノローグ",
       "jptext": "詳しい事情はわからないが、オルフェーヴルへの憤りが、 なぜか姉のドリームジャーニーに向いてしまっているようだ。",
       "choice_data_list": [
-        "Mấy người đã nói chuyện trực tiếp với Orfevre chưa?",
-        "Các bạn đã nói chuyện đàng hoàng với Orfevre chưa?"
+        "Các cô đã nói chuyện trực tiếp với Orfevre chưa?",
+        "Các cô đã nói chuyện đàng hoàng với Orfevre chưa?"
       ],
       "jpchoice_data_list": [
         "オルフェーヴル本人とは話をしたのか？",
@@ -350,7 +350,7 @@
       "jpname": "モノローグ",
       "jptext": "――ある記憶を、思い出させた。それは、 纏わりつくような彼女の香りとともに、ふいに立ち上ってくる……。",
       "choice_data_list": [
-        "(Tại sao mình lại có thể quên được cơ chứ)"
+        "(Tại sao tôi lại có thể quên được cơ chứ)"
       ],
       "jpchoice_data_list": [
         "（どうして、忘れていたんだろう）"
@@ -358,7 +358,7 @@
     },
     {
       "name": "",
-      "text": "Đó là... tại một trận đua Graded Race vào ngày nọ, khi một khoảng thời gian thật dài đã trôi qua kể từ chiến thắng cuối cùng của nàng Mã Nương mà tôi hằng cổ vũ.",
+      "text": "Đó là... tại một trận đua Graded Race vào ngày nọ, khi một khoảng thời gian thật dài đã trôi qua kể từ chiến thắng cuối cùng của Mã Nương mà tôi hằng cổ vũ.",
       "jpname": "モノローグ",
       "jptext": "あれは……応援していたウマ娘が、最後に勝利してから…… 長い長い時間が経とうとしていたある日の重賞レース。"
     },
@@ -370,11 +370,11 @@
     },
     {
       "name": "",
-      "text": "Khi tôi cũng đang nóng lòng chờ đợi cuộc đua bắt đầu với tâm trạng bồn chồn ấy... tôi chợt nhìn thấy một cô bé Mã Nương với dáng người nhỏ nhắn đang tìm chỗ quan sát.",
+      "text": "Khi tôi cũng đang nóng lòng chờ đợi cuộc đua bắt đầu với tâm trạng bồn chồn ấy... tôi chợt nhìn thấy một Mã Nương với dáng người nhỏ nhắn đang tìm chỗ quan sát.",
       "jpname": "モノローグ",
       "jptext": "自分も同じじりじりした気持ちでレースの開始を待っていた時…… ふと、とても小柄なウマ娘が、観戦場所を探しているのを見かけた。",
       "choice_data_list": [
-        "...Chỗ này dễ nhìn lắm, đổi chỗ cho em nhé?"
+        "...Chỗ này dễ nhìn lắm, đổi chỗ cho cô bé nhé?"
       ],
       "jpchoice_data_list": [
         "……ここ、見やすいから代わろうか？"
@@ -406,7 +406,7 @@
     },
     {
       "name": "",
-      "text": "Lời nói ấy tựa như một lời tiên tri... nàng Mã Nương ấy không màng đến mặt sân nặng lầy lội, đáp lại tiếng hò reo vang dội chẳng kém gì giải G1 của người hâm mộ, giành lại chiến thắng sau bao ngày tháng đợi chờ——",
+      "text": "Lời nói ấy tựa như một lời tiên tri... Mã Nương ấy không màng đến mặt sân nặng lầy lội, đáp lại tiếng hò reo vang dội chẳng kém gì giải G1 của người hâm mộ, giành lại chiến thắng sau bao ngày tháng đợi chờ——",
       "jpname": "モノローグ",
       "jptext": "その言葉は予言だったのか……彼女は、重いバ場をものともせず、 GⅠに匹敵するファンの声援に応え、久しぶりの勝利を挙げた――"
     },

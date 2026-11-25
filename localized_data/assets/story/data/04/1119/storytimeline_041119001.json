@@ -4,7 +4,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Quỹ đạo của nàng Mã Nương ấy... tựa như một \"chuyến lữ hành\" thật dài. Mọi ký ức về cô ấy đều tỏa sáng lấp lánh như hoàng kim——",
+      "text": "Quỹ đạo của Mã Nương ấy... tựa như một \"chuyến lữ hành\" thật dài. Mọi ký ức về cô ấy đều tỏa sáng lấp lánh như hoàng kim——",
       "jpname": "モノローグ",
       "jptext": "そのウマ娘の軌跡は……長い長い、“旅”に似ていた。 思い出す彼女の全てが、まるで黄金のように輝いている――"
     },
@@ -220,8 +220,8 @@
       "jpname": "モノローグ",
       "jptext": "――しかし、翌日。張り切ってコースへ向かったはいいものの……。 トレーニングを見る予定の子は現れず、連絡もとれない。",
       "choice_data_list": [
-        "(Quả nhiên... mình kém cỏi thật sao)",
-        "(Quả nhiên... mình vô dụng thật sao)"
+        "(Quả nhiên... tôi kém cỏi thật sao)",
+        "(Quả nhiên... tôi vô dụng thật sao)"
       ],
       "jpchoice_data_list": [
         "（やっぱり……俺ってダメなのかな）",
@@ -260,7 +260,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Thật ra, tôi cũng chưa có ai phụ trách... Nếu nhận được ý kiến đóng góp từ một Trainer như anh, đó sẽ là nguồn động viên lớn cho tôi đấy ạ.",
+      "text": "Thật ra, tôi cũng chưa có ai phụ trách... Nếu nhận được ý kiến đóng góp từ một Trainer-san như anh, đó sẽ là nguồn động viên lớn cho tôi đấy ạ.",
       "jpname": "ドリームジャーニー",
       "jptext": "実は、私もまだ担当がついておらず……。 トレーナーさんからご意見をいただけると、励みになるのですが。"
     },
@@ -334,7 +334,7 @@
     },
     {
       "name": "",
-      "text": "nàng Mã Nương mà tôi từng ủng hộ ngày trước cũng thuộc dạng nhỏ nhắn. Thế nhưng cô ấy vẫn bền bỉ bước qua từng trận đấu và giành lấy chiến thắng lẫy lừng.",
+      "text": "Mã Nương mà tôi từng ủng hộ ngày trước cũng thuộc dạng nhỏ nhắn. Thế nhưng cô ấy vẫn bền bỉ bước qua từng trận đấu và giành lấy chiến thắng lẫy lừng.",
       "jpname": "モノローグ",
       "jptext": "自分が応援していたウマ娘だって、小柄なほうではあった。 それでも彼女はタフにレースを重ね、大金星を手にした。",
       "choice_data_list": [
@@ -346,7 +346,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Bản thân tôi cũng không nghĩ mình kém cỏi hơn ai. Thế nhưng... nếu không có Trainer nào nhận ra tiềm năng của tôi, tôi sẽ chẳng thể nào ra mắt được.",
+      "text": "Bản thân tôi cũng không nghĩ mình kém cỏi hơn ai. Thế nhưng... nếu không có Trainer-san nào nhận ra tiềm năng của tôi, tôi sẽ chẳng thể nào ra mắt được.",
       "jpname": "ドリームジャーニー",
       "jptext": "私も、自分が劣るとは思っていません。ですが…… 見出してくれるトレーナーさんがいなければ、デビューはできない。"
     },
@@ -356,8 +356,8 @@
       "jpname": "モノローグ",
       "jptext": "少し胸が痛くなった。彼女の才能を思えば、このまま じりじりしているのはもったいない。何か力になってあげたいが――",
       "choice_data_list": [
-        "Nếu em không chê, anh có thể hướng dẫn tập luyện cho em chứ?",
-        "Nếu bạn không chê, để tôi hướng dẫn tập luyện cho bạn nhé?"
+        "Nếu cô không chê, tôi có thể hướng dẫn tập luyện cho cô chứ?",
+        "Nếu cô không chê, để tôi hướng dẫn tập luyện cho cô nhé?"
       ],
       "jpchoice_data_list": [
         "俺でよければ、トレーニングを見ようか？",
@@ -440,12 +440,12 @@
     },
     {
       "name": "",
-      "text": "Nếu không giữ cô ấy lại lúc này... có lẽ tôi sẽ chẳng bao giờ còn cơ hội nữa. Nghĩ vậy, khi tôi kịp nhận ra thì——mình đã hét lên.",
+      "text": "Nếu không giữ cô ấy lại lúc này... có lẽ tôi sẽ chẳng bao giờ còn cơ hội nữa. Nghĩ vậy, khi tôi kịp nhận ra thì——tôi đã hét lên.",
       "jpname": "モノローグ",
       "jptext": "今、引き留めなければ……2度と機会はないかもしれない。 そう思うと、気がつけば――叫んでいた。",
       "choice_data_list": [
-        "Anh sẽ——chiêu mộ em!",
-        "Tôi muốn——chiêu mộ bạn!"
+        "Tôi sẽ――chiêu mộ cô!",
+        "Tôi muốn――chiêu mộ cô!"
       ],
       "jpchoice_data_list": [
         "俺が――君を、スカウトする！",
@@ -482,8 +482,8 @@
       "jpname": "ドリームジャーニー",
       "jptext": "……ありがとうございます。 そう仰っていただけて、とても嬉しいです。",
       "choice_data_list": [
-        "Em có chắc một người như anh là ổn chứ?",
-        "Bạn có chắc chọn một người như tôi là ổn không?"
+        "Cô có chắc một người như tôi là ổn chứ?",
+        "Cô có chắc chọn một người như tôi là ổn không?"
       ],
       "jpchoice_data_list": [
         "君こそ、俺でいいのか？",

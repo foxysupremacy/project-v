@@ -10,12 +10,12 @@
     },
     {
       "name": "Fenomeno",
-      "text": "! Sếp đã vất vả rồi ạ, thưa Sếp.",
+      "text": "! Boss đã vất vả rồi ạ, thưa Boss.",
       "jpname": "フェノーメノ",
       "jptext": "！　お疲れ様です、ボス。",
       "choice_data_list": [
         "Cô vất vả rồi. Cô đang làm gì thế?",
-        "Em vất vả rồi. Em đang làm gì đấy?"
+        "Cô vất vả rồi. Cô đang làm gì đấy?"
       ],
       "jpchoice_data_list": [
         "お疲れ様。何しているんだ？",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Dạ rõ!! Được đích thân Sếp động viên, bản quan cảm thấy vô cùng vinh dự!",
+      "text": "Dạ rõ!! Được đích thân Boss động viên, bản quan cảm thấy vô cùng vinh dự!",
       "jpname": "フェノーメノ",
       "jptext": "はっ！！ ボス直々の激励、誠に光栄であります！"
     },
@@ -66,8 +66,8 @@
       "jpname": "モノローグ",
       "jptext": "フェノーメノは授業中に犯人が現れないか気がかりな様子だ。 自分も午後に仕事を入れているが、予定は調整できる。",
       "choice_data_list": [
-        "Trong giờ học để anh canh chừng thay cho nhé?",
-        "Trong lúc bạn học để tôi đứng canh hộ cho nha?"
+        "Trong giờ học để tôi canh chừng thay cho nhé?",
+        "Trong lúc cô học để tôi đứng canh hộ cho nha?"
       ],
       "jpchoice_data_list": [
         "授業の間は俺が代わりに見張ろうか？",
@@ -76,11 +76,11 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Không được đâu ạ, làm sao tôi dám phiền Sếp chuyện như thế......",
+      "text": "Không được đâu ạ, làm sao tôi dám phiền Boss chuyện như thế......",
       "jpname": "フェノーメノ",
       "jptext": "いえ、さすがにそのようなわけには……。",
       "choice_data_list": [
-        "Anh cũng không thể làm ngơ trước kẻ phá hoại bồn hoa được",
+        "Tôi cũng không thể làm ngơ trước kẻ phá hoại bồn hoa được",
         "Tôi cũng không thể bỏ mặc kẻ phá hoại bồn hoa được đâu"
       ],
       "jpchoice_data_list": [
@@ -90,7 +90,7 @@
     },
     {
       "name": "Fenomeno",
-      "text": "......Quả đúng là Sếp! Một tấm gương sáng ngời của chính nghĩa! Vậy thì trong khoảng thời gian này, tôi xin phép bàn giao lại vị trí cho Sếp ạ!",
+      "text": "......Quả đúng là Boss! Một tấm gương sáng ngời của chính nghĩa! Vậy thì trong khoảng thời gian này, tôi xin phép bàn giao lại vị trí cho Boss ạ!",
       "jpname": "フェノーメノ",
       "jptext": "……さすが、ボス！　正義の模範たるべき御方です！ それではしばらくの間、この場をお渡しいたします！"
     },
@@ -108,7 +108,7 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Sếp vất vả rồi ạ! Tôi đã mua bánh mì nhân đậu đỏ và sữa tươi về rồi đây. ......Tình hình sao rồi Sếp?",
+      "text": "Boss vất vả rồi ạ! Tôi đã mua bánh mì nhân đậu đỏ và sữa tươi về rồi đây. ......Tình hình sao rồi Boss?",
       "jpname": "フェノーメノ",
       "jptext": "お疲れ様です！　あんぱんと牛乳、買ってきました。 ……それで、様子は？",
       "choice_data_list": [
@@ -144,7 +144,7 @@
     },
     {
       "name": "Mã Nương A",
-      "text": "Á đù!! Toang rồi......!!",
+      "text": "Ối chà!! Toang rồi......!!",
       "jpname": "ウマ娘A",
       "jptext": "ゲッ！！　ヤバッ……！！"
     },
@@ -202,8 +202,8 @@
       "jpname": "モノローグ",
       "jptext": "ウマ娘はフェノーメノの迫力に怯え、縮こまってしまう。 だが、彼女はただ怒鳴ったわけではない。",
       "choice_data_list": [
-        "Meno đang muốn bảo vệ tương lai cho em đấy",
-        "Meno đang cố bảo vệ tương lai cho bạn đấy"
+        "Meno đang muốn bảo vệ tương lai cho cô đấy",
+        "Meno đang cố bảo vệ tương lai cho cô đấy"
       ],
       "jpchoice_data_list": [
         "メノは君の未来を守ろうとしているんだよ",
@@ -248,12 +248,12 @@
     },
     {
       "name": "Fenomeno",
-      "text": "Sếp, nhờ có Sếp mà vụ việc đã được giải quyết êm đẹp. Tôi xin chân thành cảm ơn sự hợp tác phá án của Sếp!",
+      "text": "Boss, nhờ có Boss mà vụ việc đã được giải quyết êm đẹp. Tôi xin chân thành cảm ơn sự hợp tác phá án của Boss!",
       "jpname": "フェノーメノ",
       "jptext": "ボス、おかげで事件を解決に導けました。 捜査へのご協力、心より感謝します！",
       "choice_data_list": [
         "Ừ. Cô vất vả rồi, Meno",
-        "Ừm. Em vất vả rồi, Meno"
+        "Ừm. Cô vất vả rồi, Meno"
       ],
       "jpchoice_data_list": [
         "ああ。お疲れ様、メノ",

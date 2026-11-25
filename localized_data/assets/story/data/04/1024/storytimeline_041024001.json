@@ -57,7 +57,7 @@
       "jptext": "あわわわ、ごめんなさーい！\n大丈夫！？",
       "choice_data_list": [
         "Anh không sao, em có bị thương ở đâu không?",
-        "Tôi không sao, bạn có bị thương ở đâu không?"
+        "Anh không sao đâu, em có bị thương ở đâu không?"
       ],
       "jpchoice_data_list": [
         "平気だ、君こそケガはないか？",
@@ -78,7 +78,7 @@
     },
     {
       "name": "Nhân viên Cuộc đua Tuyển chọn A",
-      "text": "A, may quá! Trainer! Mong anh trông chừng con bé để nó không tự ý chạy vào đường đua được không!? Trông cậy cả vào anh đấy nhé!",
+      "text": "A, may quá! Trainer-san! Phiền Trainer-san trông chừng con bé để nó không tự ý chạy vào đường đua được không!? Trông cậy cả vào Trainer-san đấy nhé!",
       "jpname": "選抜レース係員A",
       "jptext": "あ、ちょうどよかった！　トレーナーさん！　その子が勝手に\nレースへ出ないよう、見張っててもらえます！？　頼みましたよ！",
       "choice_data_list": [
@@ -132,19 +132,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Ư... Mayano cũng muốn chạy mà...",
+      "text": "……Tôi sẽ bứt phá bỏ xa hết thảy.",
       "jpname": "ナリタブライアン",
       "jptext": "……ブッちぎる。"
     },
     {
       "name": "Bình luận viên",
-      "text": "Mayano Top Gun bĩu môi hờn dỗi rồi hướng mắt nhìn về phía đường đua.",
+      "text": "Chọn vị trí tuyệt vời! Narita Brian đã bám chắc vào nhóm dẫn đầu rồi!",
       "jpname": "実況",
       "jptext": "素晴らしい位置取り！　ナリタブライアン、\n先頭集団にしっかりと加わりました！"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "... Dù trong lòng cảm thấy có lỗi, nhưng tôi cũng không thể để em tự tiện chạy vào được.",
+      "text": "Haizz-, thích thật đấy, cuộc đua…… Mayano cũng muốn chạy mà-, chán phèo à.",
       "jpname": "マヤノトップガン",
       "jptext": "あーあ、いいなぁ、レース……\nマヤも走りたかったな～、つまんなーい。"
     },
@@ -210,7 +210,7 @@
     },
     {
       "name": "",
-      "text": "Nghe lời Mayano Top Gun nói, tôi bất giác đưa mắt nhìn về phía nàng Mã Nương đang chạy ở vị trí thứ hai.",
+      "text": "Nghe lời Mayano Top Gun nói, tôi bất giác đưa mắt nhìn về phía Mã Nương đang chạy ở vị trí thứ hai.",
       "jpname": "モノローグ",
       "jptext": "マヤノトップガンの言葉に、思わず2番手のウマ娘を見る。"
     },
@@ -258,7 +258,7 @@
     },
     {
       "name": "",
-      "text": "... Nàng Mã Nương kia dường như đã thất bại, nhưng phán đoán về thời điểm của Mayano Top Gun là hoàn toàn chuẩn xác.",
+      "text": "... Mã Nương kia dường như đã thất bại, nhưng phán đoán về thời điểm của Mayano Top Gun là hoàn toàn chuẩn xác.",
       "jpname": "モノローグ",
       "jptext": "……あのウマ娘は失敗してしまったようだが、\nマヤノトップガンのタイミングは完璧だった。"
     },
@@ -275,7 +275,7 @@
       "jptext": "あーあ、いいないいな～！\nマヤもレース出たかったな～。",
       "choice_data_list": [
         "Em rốt cuộc là...?",
-        "Bạn rốt cuộc là...?"
+        "Em rốt cuộc là ai...?"
       ],
       "jpchoice_data_list": [
         "君は一体……？",

@@ -1,461 +1,461 @@
 {
-  "title": "Chẳng đơn giản như vậy đâu",
-  "jptitle": "そったにゆるぐねンだ",
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Vài ngày sau khi tôi giúp đỡ cô học viên có vẻ ngoài chất phác ở trên phố――",
-      "jpname": "モノローグ",
-      "jptext": "街中で純朴そうな生徒を助けた、その数日後――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nghe nói hôm nay có buổi tập luyện công khai của các học viên trước thềm ra mắt, tôi bèn đến xem thử. Nghe đồn hôm nay \"tân binh khủng\" đến từ Morioka cũng sẽ xuất hiện……",
-      "jpname": "モノローグ",
-      "jptext": "デビュー前の生徒たちの公開練習があるというので、見に来てみた。\n今日は盛岡から来た、噂の『大型新人』も出るらしい……。",
-      "choice_data_list": [
-        "(Oa, đông người thật đấy……!)"
-      ],
-      "jpchoice_data_list": [
-        "（わ、すごい人だな……！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Những người đến xem",
-      "text": "……Một hai ba, Yukino Bijin-chan ơi!! Nhìn về phía này đi em ơi!!",
-      "jpname": "見学者たち",
-      "jptext": "……せーのっ、ユキノビジンちゃ～んっ！！\nこっち向～いて～～～っ！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Hawawa……!? X-Xin chào mọi người ạ……",
-      "jpname": "ユキノビジン",
-      "jptext": "はわわっ……！？　どっ、どうも～～っ……。",
-      "choice_data_list": [
-        "(Cô bé đó là…… người hôm trước!?)"
-      ],
-      "jpchoice_data_list": [
-        "（あの子は……この前の！？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ahaha…… Cứ thấy ngượng ngượng làm sao ấy. ――A, sắp đến giờ bắt đầu chạy…… ặc!",
-      "jpname": "ユキノビジン",
-      "jptext": "あはは……なンだか、こっ恥ずかしいなぁ。\n――っと、そろそろランニング始ま……る゛っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Người hâm mộ của Yukino A",
-      "text": "Kìa, Yukino-chan!? Trời ơi! Hậu đậu ghê á!",
-      "jpname": "ユキノのファンA",
-      "jptext": "きゃっ、ユキノちゃんっ！？　も～！　おドジ～～っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ayaya…… E-Em không sao đâu ạ! Ở Morioka em toàn chạy đường cát, nên giờ phải làm quen với mặt cỏ nữa……!",
-      "jpname": "ユキノビジン",
-      "jptext": "あややっ……、だ、大丈夫でがんす！\n盛岡じゃダートばっかり走っでだけど、芝にも慣れねぇとなあ……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Người hâm mộ của Yukino B",
-      "text": "Haizz, kiên cường mà đáng yêu ghê! Đúng là \"mỹ thiếu nữ\" mà! Hóng màn ra mắt của em ấy quá, cố lên cố lên nha!",
-      "jpname": "ユキノのファンB",
-      "jptext": "は～、健気で可愛いっ！　『美少女』～～っ！\nデビューが楽しみだなぁ、がんばれがんばれ～～っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Phóng viên A",
-      "text": "Tính cách thú vị thật đấy! Tuy hơi mộc mạc chưa sắc sảo lắm nhưng chính điểm đó lại hay! Độ thiện cảm cực cao! Chắc chắn sẽ khuấy động Twinkle Series cho xem.",
-      "jpname": "記者A",
-      "jptext": "いいキャラしてるなぁ～！　ちょっと垢抜けないけどそこがいい！\n好感度抜群！　トゥインクル・シリーズを盛り上げてくれそうだ。",
-      "choice_data_list": [
-        "(Đây cũng là một phần của \"làn sóng địa phương\" sao……)"
-      ],
-      "jpchoice_data_list": [
-        "（これも『地方ブーム』の一端か……）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Mấy năm gần đây, khởi đầu từ Oguri Cap chuyển từ Kasamatsu lên Trung ương và Inari One từ Ohi, các \"Mã Nương địa phương\" đang thu hút rất nhiều sự chú ý.",
-      "jpname": "モノローグ",
-      "jptext": "ここ数年、笠松から中央へ来たオグリキャップ、大井から来た\nイナリワンたちを皮切りに、『地方ウマ娘』が注目されていた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Trong bối cảnh đó, Yukino Bijin đến từ một ngôi làng nghèo heo hút ở Morioka dường như đang được đặt rất nhiều kỳ vọng sẽ trở thành ngôi sao Mã Nương tiếp theo……",
-      "jpname": "モノローグ",
-      "jptext": "そんななか、盛岡の寒村からやって来たユキノビジンは、\n次なるスターウマ娘として大きな期待を寄せられているようだ……。",
-      "choice_data_list": [
-        "(Nhưng có phải mọi người đang xem em ấy như thần tượng quá mức không……?)"
-      ],
-      "jpchoice_data_list": [
-        "（でも、アイドル視しすぎでは……？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Giảng viên A",
-      "text": "――Được rồi, hôm nay đến đây là kết thúc. Cuối cùng, từng em hãy lần lượt nêu lên vấn đề và mục tiêu mình nhận ra trong ngày hôm nay nhé. Theo chiều kim đồng hồ nào――",
-      "jpname": "教官A",
-      "jptext": "――はい、本日はこれで終了です。最後に1人ずつ、\n今日見えた課題や目標を発表しましょう。では時計回りに――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Mã Nương A",
-      "text": "Dạ! Em thấy mình hay bị đuối ở nửa sau, nên thể lực là vấn đề cần khắc phục. Em định sẽ kết hợp thêm các bài tập bơi lội ạ!",
-      "jpname": "ウマ娘A",
-      "jptext": "はいっ！　私は後半バテるので、スタミナが課題だと思いました。\n水泳トレーニングを取り入れてみようと思います！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Mã Nương B",
-      "text": "Dạ em thì…… chọn vị trí chưa tốt nên chắc đó là điểm yếu ạ…… Em muốn có thể bao quát toàn cục tốt hơn nữa ạ!",
-      "jpname": "ウマ娘B",
-      "jptext": "えーっと私は……位置取りが下手なので、そこかな～……？\nもっと全体を把握できるようにしたいでーす！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ưm…… ừm…… A! T-Tới lượt em rồi đúng không ạ!? Dạ em thì…… tóm lại là phải trở nên mạnh mẽ hơn nữa, hơn nữa……!",
-      "jpname": "ユキノビジン",
-      "jptext": "う～～ン、ン～～っ……はっ！　あ、あたしの番ですね！？\nええとあたしは……とにかく、もっともっと強くなっで……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Và muốn trở thành một \"City Girl\" lấp lánh rạng ngời ạ!",
-      "jpname": "ユキノビジン",
-      "jptext": "キラッキラの“シチーガール”になりてぇですっ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Mọi người",
-      "text": "C-City Girl……?",
-      "jpname": "みんな",
-      "jptext": "シ、シチーガール……？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "……! Ý-Ý em là thế này ạ……!",
-      "jpname": "ユキノビジン",
-      "jptext": "……っ！　そっ、その、ですね……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Giảng viên A",
-      "text": "Hahaha! Tràn đầy nhiệt huyết, rất tốt! Nhưng tập luyện cũng rất quan trọng nên đừng lơ là đấy nhé.",
-      "jpname": "教官A",
-      "jptext": "はははっ！　元気があってよろしい！\nですが、トレーニングも大事だから、そこは怠らないようにね。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ơ, a…… ý em không phải lơ là đâu ạ……! Việc tập luyện đương nhiên em vẫn chú trọng, nhưng mà…… \"City Girl\" đối với em là……",
-      "jpname": "ユキノビジン",
-      "jptext": "えっ、あ……そンなつもりは……！\n練習だってもちろん、そのっ……“シチーガール”っつうのは……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Mã Nương B",
-      "text": "Mà này, được chú ý càng nhiều thì càng phải có thực lực tương xứng chứ đúng không? Nói thật là vất vả lắm đấy. Kiểu thần tượng rất dễ bị ném đá chỉ trích mà……",
-      "jpname": "ウマ娘B",
-      "jptext": "まー、注目度が高いぶん、実力はしっかりつけとかないとね？\nいや実際、大変だと思うよ。アイドル系は叩かれやすいから……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "…………!",
-      "jpname": "ユキノビジン",
-      "jptext": "…………っ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Đ…… đúng vậy nhỉ. Ahaha……",
-      "jpname": "ユキノビジン",
-      "jptext": "そ……そうですね。あはは……。",
-      "choice_data_list": [
-        "…………"
-      ],
-      "jpchoice_data_list": [
-        "…………"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Tối hôm đó, khi tôi có việc đi ngang qua khu ký túc xá thì……",
-      "jpname": "モノローグ",
-      "jptext": "その日の夜、用事があって寮の傍を通りかかると……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Phù…… Được rồi!",
-      "jpname": "ユキノビジン",
-      "jptext": "ふぅっ……よしっ！",
-      "choice_data_list": [
-        "(Ủa, giờ này em ấy còn đi đâu thế nhỉ……?)"
-      ],
-      "jpchoice_data_list": [
-        "（あれ、こんな時間にどこへ……？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Liệu có phải em ấy ra sân tự tập luyện không? Nhưng sắp tới giờ giới nghiêm rồi…… Lo lắng nên tôi quyết định đuổi theo xem sao.",
-      "jpname": "モノローグ",
-      "jptext": "グラウンドで自主トレでもするのだろうか？\nだが門限が迫っている……心配なので追いかけてみることにした。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "――Hộc, hộc, hộc……!",
-      "jpname": "ユキノビジン",
-      "jptext": "――はぁっ、はぁっ、はぁっ……！",
-      "choice_data_list": [
-        "(……!)"
-      ],
-      "jpchoice_data_list": [
-        "（……！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Yukino Bijin bắt đầu chạy lên chạy xuống liên tục trên con dốc núi dựng đứng. Hơn nữa, ở cổ chân em ấy còn đeo một quả tạ khổng lồ……!",
-      "jpname": "モノローグ",
-      "jptext": "ユキノビジンは、山道で急な斜面を往復し始めた。\nしかも、アンクルに巨大な重りをつけて……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Chẳng dễ dàng chút nào…… nhưng mình sẽ không nản chí đâu……! Mình nhất định phải trở thành một \"City Girl\" lấp lánh rạng ngời……!",
-      "jpname": "ユキノビジン",
-      "jptext": "ゆるぐねぇな……でも、めげねぇ……！\nあたしは、ぜってぇキラキラの“シチーガール”になンだ……っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Bị xem như một thần tượng chỉ là vì bản thân mình còn quá non nớt! Không thể làm người ta bùng nổ bằng những bước chạy…… thì chẳng có chút lấp lánh nào hết!",
-      "jpname": "ユキノビジン",
-      "jptext": "アイドル視しかされねぇのはっ！　あたしがぬるいからだなはん！\n走りで沸かせらンねぇのは……全っ然キラキラしでねぇっ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Cứ như vậy thì làm sao có thể trở thành một \"City Girl\" chân chính được chứ……!",
-      "jpname": "ユキノビジン",
-      "jptext": "そンなンじゃあ本物の“シチーガール”には、なれねぇっ……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Yaaaaaa――――!!",
-      "jpname": "ユキノビジン",
-      "jptext": "じゃあああぁぁぁーーーーっ！！",
-      "choice_data_list": [
-        "(Hóa ra là vậy……)"
-      ],
-      "jpchoice_data_list": [
-        "（そうか……）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Bản thân em ấy chính là người cảm thấy khó chấp nhận nhất. Việc mình chưa chứng tỏ được thực lực mà đã nhận được nhiều sự mến mộ đến vậy……",
-      "jpname": "モノローグ",
-      "jptext": "彼女自身が、1番納得していなかったのだ。\n実力も示していないのに、自分が人気を博していることに……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Yukino Bijin vẫn tiếp tục chạy không một giây ngơi nghỉ. Trong những bước chạy đầy uy lực ấy, tôi cảm nhận được một ý chí kiên cường và lòng quyết tâm mãnh liệt……",
-      "jpname": "モノローグ",
-      "jptext": "ユキノビジンは休むことなく走り続けた。\nその力強い走りに、すさまじい根性を、執念を、感じた……。",
-      "choice_data_list": [
-        "À, này em ơi――!"
-      ],
-      "jpchoice_data_list": [
-        "あっ、あの――！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ối trời đất ơi!? Anh là…… Trainer-san hôm nọ? S-Sao anh lại ở đây……!?",
-      "jpname": "ユキノビジン",
-      "jptext": "じゃじゃっ！？　あなたは……この前のトレーナーさん？\nな、なしてここに……！？",
-      "choice_data_list": [
-        "Thấy em đi ra ngoài, tôi lo lắng nên……"
-      ],
-      "jpchoice_data_list": [
-        "出かけるのを見かけて、心配で……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ayaya, ra là vậy ạ. Làm anh phải lo lắng thật áy náy quá. Nhưng em sẽ về trước giờ giới nghiêm nên anh đừng lo……!",
-      "jpname": "ユキノビジン",
-      "jptext": "あやや、そうでしたか。心配かけておもさげねぇです。\nでも、門限までには帰るのでご心配なく……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Tiếp theo em phải kéo lốp xe nữa! Vậy em xin phép ạ!",
-      "jpname": "ユキノビジン",
-      "jptext": "次はタイヤ引きしねぇと！　それじゃ、失礼します！",
-      "choice_data_list": [
-        "Kéo lốp xe trên con đường núi thế này sao……"
-      ],
-      "jpchoice_data_list": [
-        "こんな山道でタイヤ引き……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Có vẻ bài tập này chỉ tổ tạo áp lực nặng nề chứ hiệu quả thì còn đáng ngờ lắm…… Tôi bèn khuyên em ấy nên áp dụng phương pháp hiệu quả hơn và không làm tổn thương cơ thể.",
-      "jpname": "モノローグ",
-      "jptext": "なんだか負荷ばかり大きそうで効果のほどは疑問だ……。\nもっと効率がよく、体を痛めない方法のほうがいい、と伝えた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Ra là vậy, tính hiệu quả sao ạ……! Cái đó nghe có vẻ rất \"thời thượng\" đấy chứ……!",
-      "jpname": "ユキノビジン",
-      "jptext": "なるほど、効率ですか……！\nそれはなンとも“すたいりっしゅ”でいいですねぇ……！",
-      "choice_data_list": [
-        "Tôi có thể góp ý thêm một chút được không?",
-        "Tôi có thể hướng dẫn thêm một chút được không?"
-      ],
-      "jpchoice_data_list": [
-        "もう少し、アドバイスしていいか？",
-        "もう少し、アドバイスしていい？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Dạ? Nhưng mà…… có được không ạ!? Đã muộn thế này rồi, làm phiền anh quá……",
-      "jpname": "ユキノビジン",
-      "jptext": "へっ？　でも……いいンですかっ！？\nもう遅ぇのに、ご迷惑じゃ……。",
-      "choice_data_list": [
-        "Tôi có hứng thú với những bước chạy của em",
-        "Tôi rất có hứng thú với những bước chạy của em"
-      ],
-      "jpchoice_data_list": [
-        "君の走りに興味があるんだ",
-        "貴方の走りに興味があるの"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Tr-Trời đất ơi……! Những bước chạy…… của em sao ạ!?",
-      "jpname": "ユキノビジン",
-      "jptext": "な！　なンたら……っ！　あたしの、走りを……ですか！？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Nếu đã vậy thì em xin nhờ anh ạ! Dù em nghĩ mình vẫn còn non nớt lắm…… nhưng mong anh chỉ bảo giúp em nhé!",
-      "jpname": "ユキノビジン",
-      "jptext": "そういうことなら、ぜひぜひっ！\nまだまだだと思いますけど……どうぞ、よろしくお願いしますっ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "――Hộc, hộc! Quyết làm tới cùng! Mình nhất định phải trở thành một \"City Girl\"……!",
-      "jpname": "ユキノビジン",
-      "jptext": "――はぁっ、はぁっ！　やンぞっ！\nあたしは、“シチーガール”に、なンだ……っ！",
-      "choice_data_list": [
-        "Cố lên nào!"
-      ],
-      "jpchoice_data_list": [
-        "ファイトー！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Hực, hực……! Động tác này ăn sâu vào cơ đùi ghê gớm! Ngày mai chắc sẽ ê ẩm đã đời lắm đây ạ……!",
-      "jpname": "ユキノビジン",
-      "jptext": "ふンすっ、ふンすっ……！　これ、すげぇ腿に効いてる感じするべ！\n明日は、いい筋肉痛になりそうだなはんっ……！",
-      "choice_data_list": [
-        "Lần cuối cùng nào――!!"
-      ],
-      "jpchoice_data_list": [
-        "ラストいっぽーん！！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "(Cơ mà, tại sao người đó lại nhiệt tình giúp mình đến mức này nhỉ……?)",
-      "jpname": "ユキノビジン",
-      "jptext": "（にしても、あの人は、なしてここまで……？）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Yukino Bijin",
-      "text": "Không……! Bây giờ phải tập trung đã! Được rồi, haaaaa――!",
-      "jpname": "ユキノビジン",
-      "jptext": "いンや……！　今は集中だなはんっ！\nよっし、はああぁぁ――っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Giữa cánh rừng đêm đen tĩnh mịch không một ánh đèn, tiếng bước chân kiên trì miệt mài của em ấy vang vọng khắp không gian……",
-      "jpname": "モノローグ",
-      "jptext": "灯りもない真っ暗な夜の森に、\n彼女のひたむきな足音が、響いた……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    }
-  ]
+    "title": "Chẳng đơn giản như vậy đâu",
+    "jptitle": "そったにゆるぐねンだ",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Vài ngày sau khi tôi giúp đỡ cô học viên có vẻ ngoài chất phác ở trên phố――",
+            "jpname": "モノローグ",
+            "jptext": "街中で純朴そうな生徒を助けた、その数日後――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nghe nói hôm nay có buổi tập luyện công khai của các học viên trước thềm ra mắt, tôi bèn đến xem thử. Nghe đồn hôm nay \"tân binh khủng\" đến từ Morioka cũng sẽ xuất hiện……",
+            "jpname": "モノローグ",
+            "jptext": "デビュー前の生徒たちの公開練習があるというので、見に来てみた。\n今日は盛岡から来た、噂の『大型新人』も出るらしい……。",
+            "choice_data_list": [
+                "(Oa, đông người thật đấy……!)"
+            ],
+            "jpchoice_data_list": [
+                "（わ、すごい人だな……！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Những người đến xem",
+            "text": "……Một hai ba, Yukino Bijin-chan ơi!! Nhìn về phía này đi em ơi!!",
+            "jpname": "見学者たち",
+            "jptext": "……せーのっ、ユキノビジンちゃ～んっ！！\nこっち向～いて～～～っ！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hawawa……!? X-Xin chào mọi người ạ……",
+            "jpname": "ユキノビジン",
+            "jptext": "はわわっ……！？　どっ、どうも～～っ……。",
+            "choice_data_list": [
+                "(Cô bé đó là…… người hôm trước!?)"
+            ],
+            "jpchoice_data_list": [
+                "（あの子は……この前の！？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ahaha…… Cứ thấy ngượng ngượng làm sao ấy. ――A, sắp đến giờ bắt đầu chạy…… ặc!",
+            "jpname": "ユキノビジン",
+            "jptext": "あはは……なンだか、こっ恥ずかしいなぁ。\n――っと、そろそろランニング始ま……る゛っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Người hâm mộ của Yukino A",
+            "text": "Kìa, Yukino-chan!? Trời ơi! Hậu đậu ghê á!",
+            "jpname": "ユキノのファンA",
+            "jptext": "きゃっ、ユキノちゃんっ！？　も～！　おドジ～～っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ayaya…… E-Em không sao đâu ạ! Ở Morioka em toàn chạy đường cát, nên giờ phải làm quen với mặt cỏ nữa……!",
+            "jpname": "ユキノビジン",
+            "jptext": "あややっ……、だ、大丈夫でがんす！\n盛岡じゃダートばっかり走っでだけど、芝にも慣れねぇとなあ……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Người hâm mộ của Yukino B",
+            "text": "Haizz, kiên cường mà đáng yêu ghê! Đúng là \"mỹ thiếu nữ\" mà! Hóng màn ra mắt của em ấy quá, cố lên cố lên nha!",
+            "jpname": "ユキノのファンB",
+            "jptext": "は～、健気で可愛いっ！　『美少女』～～っ！\nデビューが楽しみだなぁ、がんばれがんばれ～～っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Phóng viên A",
+            "text": "Tính cách thú vị thật đấy! Tuy hơi mộc mạc chưa sắc sảo lắm nhưng chính điểm đó lại hay! Độ thiện cảm cực cao! Chắc chắn sẽ khuấy động Twinkle Series cho xem.",
+            "jpname": "記者A",
+            "jptext": "いいキャラしてるなぁ～！　ちょっと垢抜けないけどそこがいい！\n好感度抜群！　トゥインクル・シリーズを盛り上げてくれそうだ。",
+            "choice_data_list": [
+                "(Đây cũng là một phần của \"làn sóng địa phương\" sao……)"
+            ],
+            "jpchoice_data_list": [
+                "（これも『地方ブーム』の一端か……）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Mấy năm gần đây, khởi đầu từ Oguri Cap chuyển từ Kasamatsu lên Trung ương và Inari One từ Ohi, các \"Mã Nương địa phương\" đang thu hút rất nhiều sự chú ý.",
+            "jpname": "モノローグ",
+            "jptext": "ここ数年、笠松から中央へ来たオグリキャップ、大井から来た\nイナリワンたちを皮切りに、『地方ウマ娘』が注目されていた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Trong bối cảnh đó, Yukino Bijin đến từ một ngôi làng nghèo heo hút ở Morioka dường như đang được đặt rất nhiều kỳ vọng sẽ trở thành ngôi sao Mã Nương tiếp theo……",
+            "jpname": "モノローグ",
+            "jptext": "そんななか、盛岡の寒村からやって来たユキノビジンは、\n次なるスターウマ娘として大きな期待を寄せられているようだ……。",
+            "choice_data_list": [
+                "(Nhưng có phải mọi người đang xem em ấy như thần tượng quá mức không……?)"
+            ],
+            "jpchoice_data_list": [
+                "（でも、アイドル視しすぎでは……？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Giảng viên A",
+            "text": "――Được rồi, hôm nay đến đây là kết thúc. Cuối cùng, từng em hãy lần lượt nêu lên vấn đề và mục tiêu mình nhận ra trong ngày hôm nay nhé. Theo chiều kim đồng hồ nào――",
+            "jpname": "教官A",
+            "jptext": "――はい、本日はこれで終了です。最後に1人ずつ、\n今日見えた課題や目標を発表しましょう。では時計回りに――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Mã Nương A",
+            "text": "Dạ! Em thấy mình hay bị đuối ở nửa sau, nên thể lực là vấn đề cần khắc phục. Em định sẽ kết hợp thêm các bài tập bơi lội ạ!",
+            "jpname": "ウマ娘A",
+            "jptext": "はいっ！　私は後半バテるので、スタミナが課題だと思いました。\n水泳トレーニングを取り入れてみようと思います！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Mã Nương B",
+            "text": "Dạ em thì…… chọn vị trí chưa tốt nên chắc đó là điểm yếu ạ…… Em muốn có thể bao quát toàn cục tốt hơn nữa ạ!",
+            "jpname": "ウマ娘B",
+            "jptext": "えーっと私は……位置取りが下手なので、そこかな～……？\nもっと全体を把握できるようにしたいでーす！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ưm…… ừm…… A! T-Tới lượt em rồi đúng không ạ!? Dạ em thì…… tóm lại là phải trở nên mạnh mẽ hơn nữa, hơn nữa……!",
+            "jpname": "ユキノビジン",
+            "jptext": "う～～ン、ン～～っ……はっ！　あ、あたしの番ですね！？\nええとあたしは……とにかく、もっともっと強くなっで……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Và muốn trở thành một \"City Girl\" lấp lánh rạng ngời ạ!",
+            "jpname": "ユキノビジン",
+            "jptext": "キラッキラの“シチーガール”になりてぇですっ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Mọi người",
+            "text": "C-City Girl……?",
+            "jpname": "みんな",
+            "jptext": "シ、シチーガール……？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "……! Ý-Ý em là thế này ạ……!",
+            "jpname": "ユキノビジン",
+            "jptext": "……っ！　そっ、その、ですね……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Giảng viên A",
+            "text": "Hahaha! Tràn đầy nhiệt huyết, rất tốt! Nhưng tập luyện cũng rất quan trọng nên đừng lơ là đấy nhé.",
+            "jpname": "教官A",
+            "jptext": "はははっ！　元気があってよろしい！\nですが、トレーニングも大事だから、そこは怠らないようにね。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ơ, a…… ý em không phải lơ là đâu ạ……! Việc tập luyện đương nhiên em vẫn chú trọng, nhưng mà…… \"City Girl\" đối với em là……",
+            "jpname": "ユキノビジン",
+            "jptext": "えっ、あ……そンなつもりは……！\n練習だってもちろん、そのっ……“シチーガール”っつうのは……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Mã Nương B",
+            "text": "Mà này, được chú ý càng nhiều thì càng phải có thực lực tương xứng chứ đúng không? Nói thật là vất vả lắm đấy. Kiểu thần tượng rất dễ bị ném đá chỉ trích mà……",
+            "jpname": "ウマ娘B",
+            "jptext": "まー、注目度が高いぶん、実力はしっかりつけとかないとね？\nいや実際、大変だと思うよ。アイドル系は叩かれやすいから……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "…………!",
+            "jpname": "ユキノビジン",
+            "jptext": "…………っ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Đ…… đúng vậy nhỉ. Ahaha……",
+            "jpname": "ユキノビジン",
+            "jptext": "そ……そうですね。あはは……。",
+            "choice_data_list": [
+                "…………"
+            ],
+            "jpchoice_data_list": [
+                "…………"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Tối hôm đó, khi tôi có việc đi ngang qua khu ký túc xá thì……",
+            "jpname": "モノローグ",
+            "jptext": "その日の夜、用事があって寮の傍を通りかかると……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Phù…… Được rồi!",
+            "jpname": "ユキノビジン",
+            "jptext": "ふぅっ……よしっ！",
+            "choice_data_list": [
+                "(Ủa, giờ này em ấy còn đi đâu thế nhỉ……?)"
+            ],
+            "jpchoice_data_list": [
+                "（あれ、こんな時間にどこへ……？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Liệu có phải em ấy ra sân tự tập luyện không? Nhưng sắp tới giờ giới nghiêm rồi…… Lo lắng nên tôi quyết định đuổi theo xem sao.",
+            "jpname": "モノローグ",
+            "jptext": "グラウンドで自主トレでもするのだろうか？\nだが門限が迫っている……心配なので追いかけてみることにした。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "――Hộc, hộc, hộc……!",
+            "jpname": "ユキノビジン",
+            "jptext": "――はぁっ、はぁっ、はぁっ……！",
+            "choice_data_list": [
+                "(……!)"
+            ],
+            "jpchoice_data_list": [
+                "（……！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Yukino Bijin bắt đầu chạy lên chạy xuống liên tục trên con dốc núi dựng đứng. Hơn nữa, ở cổ chân em ấy còn đeo một quả tạ khổng lồ……!",
+            "jpname": "モノローグ",
+            "jptext": "ユキノビジンは、山道で急な斜面を往復し始めた。\nしかも、アンクルに巨大な重りをつけて……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Chẳng dễ dàng chút nào…… nhưng mình sẽ không nản chí đâu……! Mình nhất định phải trở thành một \"City Girl\" lấp lánh rạng ngời……!",
+            "jpname": "ユキノビジン",
+            "jptext": "ゆるぐねぇな……でも、めげねぇ……！\nあたしは、ぜってぇキラキラの“シチーガール”になンだ……っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Bị xem như một thần tượng chỉ là vì bản thân mình còn quá non nớt! Không thể làm người ta bùng nổ bằng những bước chạy…… thì chẳng có chút lấp lánh nào hết!",
+            "jpname": "ユキノビジン",
+            "jptext": "アイドル視しかされねぇのはっ！　あたしがぬるいからだなはん！\n走りで沸かせらンねぇのは……全っ然キラキラしでねぇっ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Cứ như vậy thì làm sao có thể trở thành một \"City Girl\" chân chính được chứ……!",
+            "jpname": "ユキノビジン",
+            "jptext": "そンなンじゃあ本物の“シチーガール”には、なれねぇっ……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yaaaaaa――――!!",
+            "jpname": "ユキノビジン",
+            "jptext": "じゃあああぁぁぁーーーーっ！！",
+            "choice_data_list": [
+                "(Hóa ra là vậy……)"
+            ],
+            "jpchoice_data_list": [
+                "（そうか……）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Bản thân em ấy chính là người cảm thấy khó chấp nhận nhất. Việc tôi chưa chứng tỏ được thực lực mà đã nhận được nhiều sự mến mộ đến vậy……",
+            "jpname": "モノローグ",
+            "jptext": "彼女自身が、1番納得していなかったのだ。\n実力も示していないのに、自分が人気を博していることに……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Yukino Bijin vẫn tiếp tục chạy không một giây ngơi nghỉ. Trong những bước chạy đầy uy lực ấy, tôi cảm nhận được một ý chí kiên cường và lòng quyết tâm mãnh liệt……",
+            "jpname": "モノローグ",
+            "jptext": "ユキノビジンは休むことなく走り続けた。\nその力強い走りに、すさまじい根性を、執念を、感じた……。",
+            "choice_data_list": [
+                "À, này em ơi――!"
+            ],
+            "jpchoice_data_list": [
+                "あっ、あの――！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ối trời đất ơi!? Anh là…… Trainer-san hôm nọ? S-Sao anh lại ở đây……!?",
+            "jpname": "ユキノビジン",
+            "jptext": "じゃじゃっ！？　あなたは……この前のトレーナーさん？\nな、なしてここに……！？",
+            "choice_data_list": [
+                "Thấy em đi ra ngoài, tôi lo lắng nên……"
+            ],
+            "jpchoice_data_list": [
+                "出かけるのを見かけて、心配で……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ayaya, ra là vậy ạ. Làm anh phải lo lắng thật áy náy quá. Nhưng em sẽ về trước giờ giới nghiêm nên anh đừng lo……!",
+            "jpname": "ユキノビジン",
+            "jptext": "あやや、そうでしたか。心配かけておもさげねぇです。\nでも、門限までには帰るのでご心配なく……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Tiếp theo em phải kéo lốp xe nữa! Vậy em xin phép ạ!",
+            "jpname": "ユキノビジン",
+            "jptext": "次はタイヤ引きしねぇと！　それじゃ、失礼します！",
+            "choice_data_list": [
+                "Kéo lốp xe trên con đường núi thế này sao……"
+            ],
+            "jpchoice_data_list": [
+                "こんな山道でタイヤ引き……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Có vẻ bài tập này chỉ tổ tạo áp lực nặng nề chứ hiệu quả thì còn đáng ngờ lắm…… Tôi bèn khuyên em ấy nên áp dụng phương pháp hiệu quả hơn và không làm tổn thương cơ thể.",
+            "jpname": "モノローグ",
+            "jptext": "なんだか負荷ばかり大きそうで効果のほどは疑問だ……。\nもっと効率がよく、体を痛めない方法のほうがいい、と伝えた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ra là vậy, tính hiệu quả sao ạ……! Cái đó nghe có vẻ rất \"thời thượng\" đấy chứ……!",
+            "jpname": "ユキノビジン",
+            "jptext": "なるほど、効率ですか……！\nそれはなンとも“すたいりっしゅ”でいいですねぇ……！",
+            "choice_data_list": [
+                "Tôi có thể góp ý thêm một chút được không?",
+                "Tôi có thể hướng dẫn thêm một chút được không?"
+            ],
+            "jpchoice_data_list": [
+                "もう少し、アドバイスしていいか？",
+                "もう少し、アドバイスしていい？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Dạ? Nhưng mà…… có được không ạ!? Đã muộn thế này rồi, làm phiền anh quá……",
+            "jpname": "ユキノビジン",
+            "jptext": "へっ？　でも……いいンですかっ！？\nもう遅ぇのに、ご迷惑じゃ……。",
+            "choice_data_list": [
+                "Tôi có hứng thú với những bước chạy của em",
+                "Tôi rất có hứng thú với những bước chạy của em"
+            ],
+            "jpchoice_data_list": [
+                "君の走りに興味があるんだ",
+                "貴方の走りに興味があるの"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Tr-Trời đất ơi……! Những bước chạy…… của em sao ạ!?",
+            "jpname": "ユキノビジン",
+            "jptext": "な！　なンたら……っ！　あたしの、走りを……ですか！？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Nếu đã vậy thì em xin nhờ anh ạ! Dù em nghĩ mình vẫn còn non nớt lắm…… nhưng mong anh chỉ bảo giúp em nhé!",
+            "jpname": "ユキノビジン",
+            "jptext": "そういうことなら、ぜひぜひっ！\nまだまだだと思いますけど……どうぞ、よろしくお願いしますっ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "――Hộc, hộc! Quyết làm tới cùng! Mình nhất định phải trở thành một \"City Girl\"……!",
+            "jpname": "ユキノビジン",
+            "jptext": "――はぁっ、はぁっ！　やンぞっ！\nあたしは、“シチーガール”に、なンだ……っ！",
+            "choice_data_list": [
+                "Cố lên nào!"
+            ],
+            "jpchoice_data_list": [
+                "ファイトー！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hực, hực……! Động tác này ăn sâu vào cơ đùi ghê gớm! Ngày mai chắc sẽ ê ẩm đã đời lắm đây ạ……!",
+            "jpname": "ユキノビジン",
+            "jptext": "ふンすっ、ふンすっ……！　これ、すげぇ腿に効いてる感じするべ！\n明日は、いい筋肉痛になりそうだなはんっ……！",
+            "choice_data_list": [
+                "Lần cuối cùng nào――!!"
+            ],
+            "jpchoice_data_list": [
+                "ラストいっぽーん！！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "(Cơ mà, tại sao người đó lại nhiệt tình giúp mình đến mức này nhỉ……?)",
+            "jpname": "ユキノビジン",
+            "jptext": "（にしても、あの人は、なしてここまで……？）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Không……! Bây giờ phải tập trung đã! Được rồi, haaaaa――!",
+            "jpname": "ユキノビジン",
+            "jptext": "いンや……！　今は集中だなはんっ！\nよっし、はああぁぁ――っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Giữa cánh rừng đêm đen tĩnh mịch không một ánh đèn, tiếng bước chân kiên trì miệt mài của em ấy vang vọng khắp không gian……",
+            "jpname": "モノローグ",
+            "jptext": "灯りもない真っ暗な夜の森に、\n彼女のひたむきな足音が、響いた……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        }
+    ]
 }

@@ -51,7 +51,7 @@
       "jptext": "走り心地を確かめるように軽く流していた姿から一転。\n最終コーナーを過ぎて一気に加速し、鋭い脚を見せた。",
       "choice_data_list": [
         "(...! Bứt tốc sắc bén quá...!)",
-        "(...! Bứt tốc sắc bén thật...!)"
+        "(...! Bứt tốc sắc bén quá...!)"
       ],
       "jpchoice_data_list": [
         "（……！なんて切れ味だ……！）",
@@ -65,7 +65,7 @@
       "jptext": "――ふぅ……温まってきたかな？\nまだまだいけそうね♪",
       "choice_data_list": [
         "Thế này mà vẫn chưa hết sức sao? E-Em là...!",
-        "Thế này mà vẫn chưa hết sức sao? B-Bạn là...!"
+        "Thế này mà vẫn chưa hết sức sao? E-Em là...!"
       ],
       "jpchoice_data_list": [
         "これでまだまだ？き、君は……！",
@@ -122,13 +122,13 @@
     },
     {
       "name": "Satono Crown",
-      "text": "Xin chào các vị Trainer! Tôi là Satono Crown. Hôm nay xin mời mọi người hãy thưởng thức trọn vẹn màn chạy của tôi nhé!",
+      "text": "Xin chào các Trainer-san! Tôi là Satono Crown. Hôm nay xin mời mọi người hãy thưởng thức trọn vẹn màn chạy của tôi nhé!",
       "jpname": "サトノクラウン",
       "jptext": "こんにちは、トレーナーさんたち！\nサトノクラウンです。今日は私の走り、存分に見ていってください！"
     },
     {
       "name": "Trainer kỳ cựu A",
-      "text": "Đến rồi đó, nàng Mã Nương tinh anh của gia tộc Satono. Nhân vật chính hôm nay chắc chắn là cô bé rồi.",
+      "text": "Đến rồi đó, Mã Nương tinh anh của gia tộc Satono. Nhân vật chính hôm nay chắc chắn là cô bé rồi.",
       "jpname": "ベテラントレーナーA",
       "jptext": "来たな、あのサトノ家のエリートウマ娘。\n今日の主役は彼女で間違いない。"
     },
@@ -176,7 +176,7 @@
     },
     {
       "name": "",
-      "text": "\"Tâm nguyện lớn của gia tộc Satono\"... câu chuyện đó vốn đã rất nổi tiếng trong giới đua. Gia tộc Satono tuy là một thế gia mới nổi nhưng đã đóng góp rất nhiều cho giới đua xe.",
+      "text": "\"Tâm nguyện lớn của gia tộc Satono\"... câu chuyện đó vốn đã rất nổi tiếng trong giới đua. Gia tộc Satono tuy là một thế gia mới nổi nhưng đã đóng góp rất nhiều cho thế giới đường đua.",
       "jpname": "モノローグ",
       "jptext": "『サトノ家の悲願』……その話はレース界では有名だった。\nサトノ家は新興の一族でありながらレース界に大きく貢献してきた。"
     },
@@ -229,7 +229,7 @@
       "jptext": "素晴らしいっ！　ぜひうちのチームに来てくれないか？\n私ならあなたの才能をもっと引き出せるわ！",
       "choice_data_list": [
         "Không, là anh mới phải! Hãy để anh cùng em thực hiện ước mơ...!",
-        "Không, là tôi mới phải! Hãy để tôi cùng bạn thực hiện ước mơ...!"
+        "Không, là anh mới phải! Hãy để anh cùng em thực hiện ước mơ...!"
       ],
       "jpchoice_data_list": [
         "いや俺がっ！一緒に、君の夢を……！",
@@ -327,7 +327,7 @@
       "jptext": "欸？",
       "choice_data_list": [
         "Anh muốn chiêu mộ em!",
-        "Tôi muốn chiêu mộ bạn!"
+        "Anh muốn chiêu mộ em!"
       ],
       "jpchoice_data_list": [
         "君をスカウトしたい！",
@@ -341,7 +341,7 @@
       "jptext": "真係……？　本当に？　あなた……。",
       "choice_data_list": [
         "Anh nghiêm túc đấy. Anh muốn ký hợp đồng với em! Nếu là anh thì――",
-        "Tôi nghiêm túc đấy. Tôi muốn ký hợp đồng với bạn! Nếu là tôi thì――"
+        "Anh nghiêm túc đấy. Anh muốn ký hợp đồng với em! Nếu là anh thì――"
       ],
       "jpchoice_data_list": [
         "本気だ。君と契約したい！俺なら――",
@@ -385,7 +385,7 @@
       "jptext": "うん、いいわ。ひとまず仮契約といきましょうか？\nあなたの力を見せてちょうだい。",
       "choice_data_list": [
         "...Cảm ơn em, mong được em giúp đỡ!",
-        "...Cảm ơn bạn, mong được bạn giúp đỡ nhé!"
+        "...Cảm ơn em, mong được em giúp đỡ!"
       ],
       "jpchoice_data_list": [
         "……っ！ありがとう、よろしくな",
@@ -429,7 +429,7 @@
       "jptext": "思えば……自分はまだ彼女のことをよく知らない。\n理解を深めなければ、いいサポートはできない気がした。",
       "choice_data_list": [
         "Công việc đó... để anh phụ một tay được không?",
-        "Công việc đó... để tôi phụ một tay được không?"
+        "Công việc đó... để anh phụ một tay được không?"
       ],
       "jpchoice_data_list": [
         "その仕事……手伝わせてくれないか？",

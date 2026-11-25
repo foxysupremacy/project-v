@@ -1,538 +1,538 @@
 {
-  "title": "Tôi Sẽ Bảo Vệ",
-  "jptitle": "ワタシ　ガ　マモル",
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Đã một thời gian kể từ khi tôi nhận thấy cơ thể mình không ổn, nhưng tình trạng vẫn chẳng mấy cải thiện.",
-      "jpname": "モノローグ",
-      "jptext": "調子の悪さを自覚してからしばらく経つが、\nあまり改善できていなかった。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Theo lời Manhattan Cafe dặn, ngày nào sau giờ luyện tập tôi cũng về sớm nên chắc chắn đã nghỉ ngơi đầy đủ rồi, ấy thế mà……",
-      "jpname": "モノローグ",
-      "jptext": "マンハッタンカフェに言われ、毎日、練習後は早く\n帰っているので、休息は十分にとれているはずだが……。",
-      "choice_data_list": [
-        "(Dù sao cũng là ngày nghỉ, ra ngoài dạo chút thôi!)",
-        "(Dù sao cũng là ngày nghỉ, hay là ra ngoài chút nhỉ!)"
-      ],
-      "jpchoice_data_list": [
-        "（休日だし、出かけるか！）",
-        "（休日だし、出かけようかな！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Ru rú trong phòng mãi cũng chẳng tốt lành gì. Vừa mở cửa ra định đi đổi gió một chút thì——",
-      "jpname": "モノローグ",
-      "jptext": "部屋にこもりすぎなのも、よくないのかもしれない。\n気晴らしでもしようと、玄関を開けると――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "…………Chào thầy ạ.",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "…………こんにちは。",
-      "choice_data_list": [
-        "Oái!"
-      ],
-      "jpchoice_data_list": [
-        "わあ！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Bất ngờ nhìn thấy bóng dáng của Manhattan Cafe khiến tôi giật bắn cả mình. Rốt cuộc em ấy đã đứng trước cửa từ lúc nào vậy nhỉ?",
-      "jpname": "モノローグ",
-      "jptext": "思いがけず、マンハッタンカフェの姿を見つけて驚いた。\n一体、いつから玄関前にいたのだろう？",
-      "choice_data_list": [
-        "Xin lỗi em! Mình có hẹn gì trước sao?"
-      ],
-      "jpchoice_data_list": [
-        "ごめん！何か、約束してたっけ？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Dạ không…… ……Chỉ là tình cờ thôi ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "いえ……。\n……ただの、偶然です……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Quan trọng hơn…… Trainer-san đang định ra ngoài sao ạ?",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "それより……トレーナーさんは、お出かけですか？",
-      "choice_data_list": [
-        "Tôi muốn hít thở chút không khí trong lành"
-      ],
-      "jpchoice_data_list": [
-        "外の空気が吸いたくて"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "………… Thầy ơi…… Trainer-san……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "…………。\nあの……トレーナーさん……。",
-      "choice_data_list": [
-        "Nếu em không phiền thì đi cùng tôi không?",
-        "Nếu được thì đi cùng tôi nhé?"
-      ],
-      "jpchoice_data_list": [
-        "よかったら、一緒に行かないか？",
-        "よかったら、一緒に行かない？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Dạ……?",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "え……？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……Phải rồi, nhỉ. Nếu đi cùng nhau…… như thế sẽ tốt hơn……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "……そう、ですね。\n一緒なら……その方が……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Em hiểu rồi…… Em sẽ đi theo thầy ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "わかりました……ついて、いきます……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Đã có bạn đồng hành thì đi xa một chút cũng hay. Nơi nào sẽ khiến Manhattan Cafe vui vẻ đây nhỉ——",
-      "jpname": "モノローグ",
-      "jptext": "道連れができたなら、少し遠出するのもいいだろう。\nどこへ行けばマンハッタンカフェは喜ぶだろうか――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Nơi này là……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "ここは……。",
-      "choice_data_list": [
-        "Em không thích thủy cung à?"
-      ],
-      "jpchoice_data_list": [
-        "水族館、好きじゃなかった？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Dạ không…… Chỉ là…… nơi này tối hơn em tưởng thôi ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "いえ……。\nただ……思っていたよりも、暗かったので……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……Trainer-san——",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "……トレーナーさん――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Để không bị lạc…… xin thầy hãy nắm lấy tay……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "はぐれないように……手を……。",
-      "choice_data_list": [
-        "……!"
-      ],
-      "jpchoice_data_list": [
-        "……！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Tuyệt đối…… đừng buông tay ra nhé…… ……Giờ mình cùng đi thôi ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "絶対に……離さないで……。\n……では、行きましょうか……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nắm tay nhau, tôi cùng Manhattan Cafe dạo quanh thủy cung. Có lẽ do là ngày nghỉ nên nơi đây đông nghịt người. Nơi đông đúc nhất chính là trước bể cá khổng lồ——",
-      "jpname": "モノローグ",
-      "jptext": "手をつないで、マンハッタンカフェと水族館を回る。\n休日なせいか館内は盛況だ。特に混雑しているのは大水槽前で――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "…………Đẹp…… quá nhỉ. Hơn nữa…… đông người thế này thì chắc chắn……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "…………綺麗……ですね。\nそれに……これだけ人がいれば、きっと……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "A……!",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "あ……っ！",
-      "choice_data_list": [
-        "Đ-Đừng xô đẩy……!"
-      ],
-      "jpchoice_data_list": [
-        "お、押さないで……！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Không được rồi…… Trainer-san……!",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "いけない……トレーナー、さん……っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Bị dòng người cuốn đi, loáng cái tôi đã lạc mất Manhattan Cafe. Chẳng biết tự lúc nào, tôi đã dạt vào một hành lang vắng lặng không một bóng người.",
-      "jpname": "モノローグ",
-      "jptext": "人波にのまれ、気づけばマンハッタンカフェと離れ離れに\nなってしまった。知らぬ間に、誰もいない通路に紛れ込んでいる。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Có lẽ là khu vực dành riêng cho nhân viên, so với gần bể cá thì nơi này yên ắng lạ thường. Chắc do điều hòa phả hơi lạnh nên sống lưng tôi cứ run lên từng đợt ớn lạnh.",
-      "jpname": "モノローグ",
-      "jptext": "職員用だろうか、水槽近くと比べ、やけに静かな場所だ。\n空調のせいか冷え込んでいて、ぞくぞくと背筋に悪寒が走った。",
-      "choice_data_list": [
-        "(Phải mau chóng quay lại thôi)"
-      ],
-      "jpchoice_data_list": [
-        "（早く戻らないと）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Vừa nghĩ bụng thế và định bước chân đi thì——",
-      "jpname": "モノローグ",
-      "jptext": "そう思って足を踏み出そうとすると――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "(Bập——!)",
-      "jpname": "モノローグ",
-      "jptext": "（ガッ――！）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Bất thình lình, hai cổ chân tôi bị \"ai đó\"—— hay đúng hơn là \"thứ gì đó\" tóm chặt lấy. Dù cố vùng vẫy nhưng một sức mạnh khủng khiếp khóa chặt khiến chân tôi không tài nào nhúc nhích nổi!",
-      "jpname": "モノローグ",
-      "jptext": "突然、両足首を“誰か”――でなければ“何か”につかまれた。\n動かそうにも、ものすごい力でびくともしない！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Giọng nói của \"thứ gì đó\"?",
-      "text": "C……hơ……i…… đi……——",
-      "jpname": "“何か”の声？",
-      "jptext": "あ……そ……ぼ……――",
-      "choice_data_list": [
-        "(C-Chuyện này nguy to rồi……!)"
-      ],
-      "jpchoice_data_list": [
-        "（こ、これはまずいやつだ……！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Trong lúc tôi còn đang hoảng loạn, hai cổ chân cứ liên tục bị kéo giật lùi về phía sau. Quá đỗi kinh hoàng khiến tôi chẳng dám nhìn xuống chân mình——!",
-      "jpname": "モノローグ",
-      "jptext": "思う間にも、足首が後ろへ、後ろへと引っぱられる。\n恐ろしくて足元を見ることができない――！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "…………Không được……!",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "…………だめ……っ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "…………Trainer-san…… ……May quá rồi……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "…………トレーナーさん……。\n……よかった……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Mình…… mau đi thôi ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "もう……行きましょう……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Bước ra tới nơi sáng sủa, tôi thở phào nhẹ nhõm và cơ thể dần ấm trở lại. Rốt cuộc thì hiện tượng quái gở vừa rồi là gì cơ chứ?",
-      "jpname": "モノローグ",
-      "jptext": "明るい場所に出ると、ほっとして体が温かくなる。\n一体、さっきの現象は何だったのだろうか？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……Thầy đã bình tĩnh…… lại chưa ạ……?",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "……落ち着き、ましたか……？",
-      "choice_data_list": [
-        "Ừ. Cảm ơn em……",
-        "Rồi. Cảm ơn em nhiều……"
-      ],
-      "jpchoice_data_list": [
-        "ああ。ありがとう……",
-        "うん。ありがとう……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Tốt quá rồi…… Nhờ cú vừa rồi…… em nghĩ trong một thời gian tới sẽ ổn thôi ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "よかった……。さっきので……\nまたしばらくは、大丈夫だと……思います……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……Em xin lỗi…… vì đã bất cẩn lơ là…… Từ trước tới nay…… cứ có đông người qua lại là sẽ an toàn……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "……すみません……油断、してしまって……。\nこれまでは……人目があれば、大丈夫だったので……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Thế nhưng…… giờ thì ngay cả \"thứ đó\" cũng không còn từ thủ đoạn nào nữa rồi……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "けれど……もう“アレ”も、\n手段を選ばなく、なってしまった……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Cứ thế này thì…… sớm muộn gì nó cũng sẽ lại nhắm vào thầy……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "このままでは……またいずれ、アナタを……。",
-      "choice_data_list": [
-        "\"Thứ đó\" rốt cuộc là cái gì vậy?",
-        "\"Thứ đó\" rốt cuộc là gì thế em?"
-      ],
-      "jpchoice_data_list": [
-        "“アレ”って、一体何なんだ？",
-        "“アレ”って、一体何なの？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Em không biết…… phải diễn tả thế nào cho đúng……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "うまく……言えません……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "\"Thứ đó\"…… không giống với \"người bạn\" của em……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "“アレ”は……私の『お友だち』とは、違う……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Có lẽ…… là một thứ tồi tệ hơn nhiều ạ…… Một thứ bám chặt lấy thế giới này một cách sống sượng…… tựa như những ký ức hay nỗi vương vấn khôn nguôi……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "たぶん……もっとよくないもの、です……。記憶や……\n未練に似た……生々しく、世界に……こびりつくもの……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Nói nhiều về nó…… có lẽ cũng không tốt đâu ạ…… Vì một khi tỏ ra hứng thú…… sẽ chỉ khiến \"thứ đó\"…… thích thú hơn mà thôi……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "あまり……話すのも、よくないかも……しれません……。\n興味を持つと……“アレ”を……喜ばせて、しまうから……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Trainer-san…… có tin tưởng…… em không ạ……?",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "トレーナーさんは……私を……信じて、くれますか……？",
-      "choice_data_list": [
-        "Tất nhiên rồi"
-      ],
-      "jpchoice_data_list": [
-        "もちろん"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Vậy thì…… dạo này thầy hãy thật cẩn thận nhé…… Hãy cố gắng ở những nơi…… có đông người qua lại……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "でしたら……しばらくは、注意して……。\nなるべく……人のいるところに……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Xin hãy cho em…… thêm một chút thời gian nữa……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "私に……あと少しだけ……時間を……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nói rồi Manhattan Cafe lộ rõ vẻ mặt nghiêm trọng. Dạo gần đây tôi có cảm giác mình toàn khiến em ấy phải mang vẻ mặt như thế.",
-      "jpname": "モノローグ",
-      "jptext": "そう言って、厳しい表情になるマンハッタンカフェ。\n最近はこんな顔をさせてばかりな気がする。",
-      "choice_data_list": [
-        "Chuyến đi thủy cung tiếc thật đấy nhỉ……",
-        "Chuyến đi thủy cung chẳng trọn vẹn chút nào nhỉ……"
-      ],
-      "jpchoice_data_list": [
-        "水族館、残念だったな……",
-        "水族館、残念だったね……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Bây giờ thì…… không còn cách nào khác ạ…… Xin thầy ráng chịu thêm một chút——",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "今は……仕方ありません……もう少し、我慢して――",
-      "choice_data_list": [
-        "Tôi đã muốn em được vui vẻ vậy mà",
-        "Tôi những mong em có thể tận hưởng chuyến đi vậy mà"
-      ],
-      "jpchoice_data_list": [
-        "君に楽しんでもらいたかったのに",
-        "貴方に楽しんでもらいたかったのに"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Dạ…………?",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "え…………？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Là vì…… em sao ạ……? Em lại cứ nghĩ…… là do thầy muốn đi chứ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "私の……ため……？\n私は……アナタが、行きたかったのだと……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Trainer-san…… thầy thật là……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "トレーナーさん……アナタは……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Ngay cả khi bản thân gặp nguy hiểm…… thầy vẫn chỉ nghĩ cho mỗi em…… Chính vì thầy như thế…… nên \"thứ đó\" mới……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "自分が危ない時まで……私のことばかり……。\nそんなだから……“アレ”も……。",
-      "choice_data_list": [
-        "Em vừa nói gì sao?"
-      ],
-      "jpchoice_data_list": [
-        "何か言った？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Dạ không…… Không có gì đâu ạ…… Trainer-san……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "いえ……。なんでも、ありません……。\nトレーナーさん……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Sau khi mọi chuyện…… kết thúc…… Lúc đó, mình sẽ lại đi tiếp nhé……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "全部……終わったら……。その時に、また……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Sau đó, Manhattan Cafe đưa tôi về tận phòng. Em ấy cúi gằm mặt bước đi nên tôi không tài nào thấy rõ biểu cảm. Chính vì vậy——",
-      "jpname": "モノローグ",
-      "jptext": "その後、マンハッタンカフェに自室まで送ってもらった。\nうつむきがちに歩く彼女の表情はよく見えない。だから――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Về phần thầy…… nhất định em sẽ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "アナタのことは……私が……必ず……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Mãi tới rất lâu sau tôi mới nhận ra rằng, ngay vào khoảnh khắc ấy, em đã hạ quyết tâm làm một điều gì đó rồi……",
-      "jpname": "モノローグ",
-      "jptext": "その時、彼女がすでに何かを決意していたことに、\nしばらく後まで気づくことができなかった……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    }
-  ]
+    "title": "Tôi Sẽ Bảo Vệ",
+    "jptitle": "ワタシ　ガ　マモル",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Đã một thời gian kể từ khi tôi nhận thấy cơ thể tôi không ổn, nhưng tình trạng vẫn chẳng mấy cải thiện.",
+            "jpname": "モノローグ",
+            "jptext": "調子の悪さを自覚してからしばらく経つが、\nあまり改善できていなかった。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Theo lời Manhattan Cafe dặn, ngày nào sau giờ luyện tập tôi cũng về sớm nên chắc chắn đã nghỉ ngơi đầy đủ rồi, ấy thế mà……",
+            "jpname": "モノローグ",
+            "jptext": "マンハッタンカフェに言われ、毎日、練習後は早く\n帰っているので、休息は十分にとれているはずだが……。",
+            "choice_data_list": [
+                "(Dù sao cũng là ngày nghỉ, ra ngoài dạo chút thôi!)",
+                "(Dù sao cũng là ngày nghỉ, hay là ra ngoài chút nhỉ!)"
+            ],
+            "jpchoice_data_list": [
+                "（休日だし、出かけるか！）",
+                "（休日だし、出かけようかな！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Ru rú trong phòng mãi cũng chẳng tốt lành gì. Vừa mở cửa ra định đi đổi gió một chút thì——",
+            "jpname": "モノローグ",
+            "jptext": "部屋にこもりすぎなのも、よくないのかもしれない。\n気晴らしでもしようと、玄関を開けると――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…………Chào buổi trưa ạ.",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "…………こんにちは。",
+            "choice_data_list": [
+                "Oái!"
+            ],
+            "jpchoice_data_list": [
+                "わあ！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Bất ngờ nhìn thấy bóng dáng của Manhattan Cafe khiến tôi giật bắn cả mình. Rốt cuộc em ấy đã đứng trước cửa từ lúc nào vậy nhỉ?",
+            "jpname": "モノローグ",
+            "jptext": "思いがけず、マンハッタンカフェの姿を見つけて驚いた。\n一体、いつから玄関前にいたのだろう？",
+            "choice_data_list": [
+                "Xin lỗi em! Chúng ta có hẹn gì trước sao?"
+            ],
+            "jpchoice_data_list": [
+                "ごめん！何か、約束してたっけ？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Dạ không…… ……Chỉ là tình cờ thôi ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "いえ……。\n……ただの、偶然です……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Quan trọng hơn…… Trainer-san đang định ra ngoài sao ạ?",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "それより……トレーナーさんは、お出かけですか？",
+            "choice_data_list": [
+                "Tôi muốn hít thở chút không khí trong lành"
+            ],
+            "jpchoice_data_list": [
+                "外の空気が吸いたくて"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "………… Này…… Trainer-san……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "…………。\nあの……トレーナーさん……。",
+            "choice_data_list": [
+                "Nếu em không phiền thì đi cùng tôi không?",
+                "Nếu được thì đi cùng tôi nhé?"
+            ],
+            "jpchoice_data_list": [
+                "よかったら、一緒に行かないか？",
+                "よかったら、一緒に行かない？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Dạ……?",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "え……？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Phải rồi, nhỉ. Nếu đi cùng nhau…… như thế sẽ tốt hơn……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "……そう、ですね。\n一緒なら……その方が……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Em hiểu rồi…… Em sẽ đi theo người ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "わかりました……ついて、いきます……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Đã có bạn đồng hành thì đi xa một chút cũng hay. Nơi nào sẽ khiến Manhattan Cafe vui vẻ đây nhỉ——",
+            "jpname": "モノローグ",
+            "jptext": "道連れができたなら、少し遠出するのもいいだろう。\nどこへ行けばマンハッタンカフェは喜ぶだろうか――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Nơi này là……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "ここは……。",
+            "choice_data_list": [
+                "Em không thích thủy cung à?"
+            ],
+            "jpchoice_data_list": [
+                "水族館、好きじゃなかった？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Dạ không…… Chỉ là…… nơi này tối hơn em tưởng thôi ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "いえ……。\nただ……思っていたよりも、暗かったので……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Trainer-san——",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "……トレーナーさん――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Để không bị lạc…… xin người hãy nắm lấy tay……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "はぐれないように……手を……。",
+            "choice_data_list": [
+                "……!"
+            ],
+            "jpchoice_data_list": [
+                "……！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tuyệt đối…… đừng buông tay ra nhé…… ……Giờ mình cùng đi thôi ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "絶対に……離さないで……。\n……では、行きましょうか……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nắm tay nhau, tôi cùng Manhattan Cafe dạo quanh thủy cung. Có lẽ do là ngày nghỉ nên nơi đây đông nghịt người. Nơi đông đúc nhất chính là trước bể cá khổng lồ——",
+            "jpname": "モノローグ",
+            "jptext": "手をつないで、マンハッタンカフェと水族館を回る。\n休日なせいか館内は盛況だ。特に混雑しているのは大水槽前で――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…………Đẹp…… quá nhỉ. Hơn nữa…… đông người thế này thì chắc chắn……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "…………綺麗……ですね。\nそれに……これだけ人がいれば、きっと……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A……!",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "あ……っ！",
+            "choice_data_list": [
+                "Đ-Đừng xô đẩy……!"
+            ],
+            "jpchoice_data_list": [
+                "お、押さないで……！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Không được rồi…… Trainer-san……!",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "いけない……トレーナー、さん……っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Bị dòng người cuốn đi, loáng cái tôi đã lạc mất Manhattan Cafe. Chẳng biết tự lúc nào, tôi đã dạt vào một hành lang vắng lặng không một bóng người.",
+            "jpname": "モノローグ",
+            "jptext": "人波にのまれ、気づけばマンハッタンカフェと離れ離れに\nなってしまった。知らぬ間に、誰もいない通路に紛れ込んでいる。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Có lẽ là khu vực dành riêng cho nhân viên, so với gần bể cá thì nơi này yên ắng lạ thường. Chắc do điều hòa phả hơi lạnh nên sống lưng tôi cứ run lên từng đợt ớn lạnh.",
+            "jpname": "モノローグ",
+            "jptext": "職員用だろうか、水槽近くと比べ、やけに静かな場所だ。\n空調のせいか冷え込んでいて、ぞくぞくと背筋に悪寒が走った。",
+            "choice_data_list": [
+                "(Phải mau chóng quay lại thôi)"
+            ],
+            "jpchoice_data_list": [
+                "（早く戻らないと）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Vừa nghĩ bụng thế và định bước chân đi thì——",
+            "jpname": "モノローグ",
+            "jptext": "そう思って足を踏み出そうとすると――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "(Bập——!)",
+            "jpname": "モノローグ",
+            "jptext": "（ガッ――！）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Bất thình lình, hai cổ chân tôi bị \"ai đó\"—— hay đúng hơn là \"thứ gì đó\" tóm chặt lấy. Dù cố vùng vẫy nhưng một sức mạnh khủng khiếp khóa chặt khiến chân tôi không tài nào nhúc nhích nổi!",
+            "jpname": "モノローグ",
+            "jptext": "突然、両足首を“誰か”――でなければ“何か”につかまれた。\n動かそうにも、ものすごい力でびくともしない！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Giọng nói của \"thứ gì đó\"?",
+            "text": "C……hơ……i…… đi……——",
+            "jpname": "“何か”の声？",
+            "jptext": "あ……そ……ぼ……――",
+            "choice_data_list": [
+                "(C-Chuyện này nguy to rồi……!)"
+            ],
+            "jpchoice_data_list": [
+                "（こ、これはまずいやつだ……！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Trong lúc tôi còn đang hoảng loạn, hai cổ chân cứ liên tục bị kéo giật lùi về phía sau. Quá đỗi kinh hoàng khiến tôi chẳng dám nhìn xuống chân mình——!",
+            "jpname": "モノローグ",
+            "jptext": "思う間にも、足首が後ろへ、後ろへと引っぱられる。\n恐ろしくて足元を見ることができない――！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…………Không được……!",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "…………だめ……っ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…………Trainer-san…… ……May quá rồi……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "…………トレーナーさん……。\n……よかった……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Mình…… mau đi thôi ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "もう……行きましょう……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Bước ra tới nơi sáng sủa, tôi thở phào nhẹ nhõm và cơ thể dần ấm trở lại. Rốt cuộc thì hiện tượng quái gở vừa rồi là gì cơ chứ?",
+            "jpname": "モノローグ",
+            "jptext": "明るい場所に出ると、ほっとして体が温かくなる。\n一体、さっきの現象は何だったのだろうか？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Người đã bình tĩnh…… lại chưa ạ……?",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "……落ち着き、ましたか……？",
+            "choice_data_list": [
+                "Ừ. Cảm ơn em……",
+                "Rồi. Cảm ơn em nhiều……"
+            ],
+            "jpchoice_data_list": [
+                "ああ。ありがとう……",
+                "うん。ありがとう……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tốt quá rồi…… Nhờ cú vừa rồi…… em nghĩ trong một thời gian tới sẽ ổn thôi ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "よかった……。さっきので……\nまたしばらくは、大丈夫だと……思います……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Em xin lỗi…… vì đã bất cẩn lơ là…… Từ trước tới nay…… cứ có đông người qua lại là sẽ an toàn……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "……すみません……油断、してしまって……。\nこれまでは……人目があれば、大丈夫だったので……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Thế nhưng…… giờ thì ngay cả \"thứ đó\" cũng không còn từ thủ đoạn nào nữa rồi……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "けれど……もう“アレ”も、\n手段を選ばなく、なってしまった……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Cứ thế này thì…… sớm muộn gì nó cũng sẽ lại nhắm vào người……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "このままでは……またいずれ、アナタを……。",
+            "choice_data_list": [
+                "\"Thứ đó\" rốt cuộc là cái gì vậy?",
+                "\"Thứ đó\" rốt cuộc là gì thế em?"
+            ],
+            "jpchoice_data_list": [
+                "“アレ”って、一体何なんだ？",
+                "“アレ”って、一体何なの？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Em không biết…… phải diễn tả thế nào cho đúng……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "うまく……言えません……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "\"Thứ đó\"…… không giống với \"người bạn\" của em……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "“アレ”は……私の『お友だち』とは、違う……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Có lẽ…… là một thứ tồi tệ hơn nhiều ạ…… Một thứ bám chặt lấy thế giới này một cách sống sượng…… tựa như những ký ức hay nỗi vương vấn khôn nguôi……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "たぶん……もっとよくないもの、です……。記憶や……\n未練に似た……生々しく、世界に……こびりつくもの……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Nói nhiều về nó…… có lẽ cũng không tốt đâu ạ…… Vì một khi tỏ ra hứng thú…… sẽ chỉ khiến \"thứ đó\"…… thích thú hơn mà thôi……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "あまり……話すのも、よくないかも……しれません……。\n興味を持つと……“アレ”を……喜ばせて、しまうから……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer-san…… có tin tưởng…… em không ạ……?",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "トレーナーさんは……私を……信じて、くれますか……？",
+            "choice_data_list": [
+                "Tất nhiên rồi"
+            ],
+            "jpchoice_data_list": [
+                "もちろん"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Vậy thì…… dạo này người hãy thật cẩn thận nhé…… Hãy cố gắng ở những nơi…… có đông người qua lại……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "でしたら……しばらくは、注意して……。\nなるべく……人のいるところに……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Xin hãy cho em…… thêm một chút thời gian nữa……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "私に……あと少しだけ……時間を……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nói rồi Manhattan Cafe lộ rõ vẻ mặt nghiêm trọng. Dạo gần đây tôi có cảm giác mình toàn khiến em ấy phải mang vẻ mặt như thế.",
+            "jpname": "モノローグ",
+            "jptext": "そう言って、厳しい表情になるマンハッタンカフェ。\n最近はこんな顔をさせてばかりな気がする。",
+            "choice_data_list": [
+                "Chuyến đi thủy cung tiếc thật đấy nhỉ……",
+                "Chuyến đi thủy cung chẳng trọn vẹn chút nào nhỉ……"
+            ],
+            "jpchoice_data_list": [
+                "水族館、残念だったな……",
+                "水族館、残念だったね……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Bây giờ thì…… không còn cách nào khác ạ…… Xin người ráng chịu thêm một chút——",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "今は……仕方ありません……もう少し、我慢して――",
+            "choice_data_list": [
+                "Tôi đã muốn em được vui vẻ vậy mà",
+                "Tôi những mong em có thể tận hưởng chuyến đi vậy mà"
+            ],
+            "jpchoice_data_list": [
+                "君に楽しんでもらいたかったのに",
+                "貴方に楽しんでもらいたかったのに"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Dạ…………?",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "え…………？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Là vì…… em sao ạ……? Em lại cứ nghĩ…… là do người muốn đi chứ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "私の……ため……？\n私は……アナタが、行きたかったのだと……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer-san…… người thật là……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "トレーナーさん……アナタは……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ngay cả khi bản thân gặp nguy hiểm…… người vẫn chỉ nghĩ cho mỗi em…… Chính vì người như thế…… nên \"thứ đó\" mới……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "自分が危ない時まで……私のことばかり……。\nそんなだから……“アレ”も……。",
+            "choice_data_list": [
+                "Em vừa nói gì sao?"
+            ],
+            "jpchoice_data_list": [
+                "何か言った？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Dạ không…… Không có gì đâu ạ…… Trainer-san……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "いえ……。なんでも、ありません……。\nトレーナーさん……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sau khi mọi chuyện…… kết thúc…… Lúc đó, mình sẽ lại đi tiếp nhé……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "全部……終わったら……。その時に、また……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Sau đó, Manhattan Cafe đưa tôi về tận phòng. Em ấy cúi gằm mặt bước đi nên tôi không tài nào thấy rõ biểu cảm. Chính vì vậy——",
+            "jpname": "モノローグ",
+            "jptext": "その後、マンハッタンカフェに自室まで送ってもらった。\nうつむきがちに歩く彼女の表情はよく見えない。だから――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Về phần người…… nhất định em sẽ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "アナタのことは……私が……必ず……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Mãi tới rất lâu sau tôi mới nhận ra rằng, ngay vào khoảnh khắc ấy, em đã hạ quyết tâm làm một điều gì đó rồi……",
+            "jpname": "モノローグ",
+            "jptext": "その時、彼女がすでに何かを決意していたことに、\nしばらく後まで気づくことができなかった……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        }
+    ]
 }

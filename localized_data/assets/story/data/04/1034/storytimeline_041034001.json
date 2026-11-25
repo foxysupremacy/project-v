@@ -4,7 +4,7 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Đã một khoảng thời gian trôi qua kể từ khi tôi bắt đầu cuộc sống của một Trainer tân binh tại Học viện Tracen. Vậy mà tôi vẫn chưa phụ trách cô nàng Mã Nương nào, cũng chưa chiêu mộ được ai.",
+      "text": "Đã một khoảng thời gian trôi qua kể từ khi tôi bắt đầu cuộc sống của một Trainer tân binh tại Học viện Tracen. Vậy mà tôi vẫn chưa phụ trách Mã Nương nào, cũng chưa chiêu mộ được ai.",
       "jpname": "モノローグ",
       "jptext": "新人トレーナーとしてトレセン学園での生活を始めてからしばらく。\nいまだ担当ウマ娘はおらず、スカウトもできずにいた。"
     },
@@ -40,7 +40,7 @@
     },
     {
       "name": "Hayakawa Tazuna",
-      "text": "Đôi khi, có những Trainer phát hiện ra tài năng từ những em ấy, rồi ký hợp đồng phụ trách dưới hình thức chuyển trường tới Học viện Tracen này đấy!",
+      "text": "Đôi khi, có những Trainer-san phát hiện ra tài năng từ những em ấy, rồi ký hợp đồng phụ trách dưới hình thức chuyển trường tới Học viện Tracen này đấy!",
       "jpname": "駿川たづな",
       "jptext": "時には、そんな子たちの中から才能を見出し、ここトレセン学園に\n転入という形で担当契約をされるトレーナーさんもいるんですよ！",
       "choice_data_list": [
@@ -126,7 +126,7 @@
     },
     {
       "name": "",
-      "text": "Vừa được cô nàng Mã Nương hào sảng xoa nắn vuốt ve, chú mèo hung hãn ban nãy đã lập tức ngoan ngoãn trở lại! Quả là một ngón nghề điêu luyện không chê vào đâu được……!",
+      "text": "Vừa được Mã Nương hào sảng xoa nắn vuốt ve, chú mèo hung hãn ban nãy đã lập tức ngoan ngoãn trở lại! Quả là một ngón nghề điêu luyện không chê vào đâu được……!",
       "jpname": "モノローグ",
       "jptext": "いなせなウマ娘に撫で回されると、あれほど凶暴だった猫が\nあっという間に大人しくなった！　見事というほかない手業だ……！"
     },
@@ -164,7 +164,7 @@
     },
     {
       "name": "",
-      "text": "Thế là cô nàng Mã Nương hào sảng thoan thoắt sải bước dẫn tôi tới một quán mì soba đứng ăn nằm trong khu phố buôn bán có mái vòm.",
+      "text": "Thế là Mã Nương hào sảng thoan thoắt sải bước dẫn tôi tới một quán mì soba đứng ăn nằm trong khu phố buôn bán có mái vòm.",
       "jpname": "モノローグ",
       "jptext": "こうして案内された先のアーケード街で、いなせなウマ娘は\nずいぶん慣れた足取りで立ち食いソバ屋まで連れて行ってくれた。"
     },
@@ -306,7 +306,7 @@
       "jpname": "モノローグ",
       "jptext": "間違いなく芝コースでも――トゥインクル・シリーズでも通用する。\n彼女しかいない……彼女しかいない！",
       "choice_data_list": [
-        "Mình muốn――chiêu mộ cô bé ấy!"
+        "Tôi muốn――chiêu mộ cô bé ấy!"
       ],
       "jpchoice_data_list": [
         "あの子を――スカウトしたい！"
@@ -320,12 +320,12 @@
     },
     {
       "name": "",
-      "text": "Dẫu vậy, cô nàng Mã Nương hào sảng――Inari One, sau khi chăm chú lắng nghe hết những lời tôi giãi bày, đã dứt khoát đáp lại như thế.",
+      "text": "Dẫu vậy, Mã Nương hào sảng――Inari One, sau khi chăm chú lắng nghe hết những lời tôi giãi bày, đã dứt khoát đáp lại như thế.",
       "jpname": "モノローグ",
       "jptext": "が、いなせなウマ娘――イナリワンは、自分の話を\n最後まで黙って聞いてくれたのちに、きっぱりとそう答えた。",
       "choice_data_list": [
         "……Tôi có thể hỏi lý do được không?",
-        "……Anh có thể hỏi lý do được không?"
+        "……Cho tôi hỏi lý do được chứ?"
       ],
       "jpchoice_data_list": [
         "……理由を、聞いてもいいか？",
@@ -387,7 +387,7 @@
       "jptext": "こちとら江戸っ子でい。世話んなった親方のことも、\n可愛い子分のことも、裏切れねえのさ。……わりいな！",
       "choice_data_list": [
         "Không, không sao đâu…… Tôi hiểu hoàn cảnh của em rồi",
-        "Không sao đâu…… Anh hiểu hoàn cảnh của em rồi"
+        "Không sao đâu…… Tôi hiểu nỗi lòng của em rồi"
       ],
       "jpchoice_data_list": [
         "いや、いいんだ……事情はわかったから",
@@ -419,7 +419,7 @@
       "jptext": "でも、……なんでい？",
       "choice_data_list": [
         "Nhưng tôi vẫn nghĩ người đó chỉ có thể là em",
-        "Nhưng anh vẫn nghĩ người đó chỉ có thể là em"
+        "Dẫu vậy tôi vẫn tin người đó chỉ có thể là em"
       ],
       "jpchoice_data_list": [
         "それでも、君しかいないって思ったんだ",

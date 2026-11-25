@@ -34,7 +34,7 @@
       "jpname": "モノローグ",
       "jptext": "彼女はどこまでも完璧で、何も問題はない。 だが、なにを考えているかわからないところはやはり気になる……。",
       "choice_data_list": [
-        "(Mình muốn giao lưu nhiều hơn để hiểu được cô ấy……)"
+        "(Tôi muốn giao lưu nhiều hơn để hiểu được cô ấy……)"
       ],
       "jpchoice_data_list": [
         "（もっと交流して、理解したい……）"
@@ -68,7 +68,7 @@
     },
     {
       "name": "",
-      "text": "Anh bạn đồng nghiệp vui vẻ nhắc tên vùng đất quê tôi rồi cười sảng khoái. Đối với tôi thì món đó chẳng có gì lạ lẫm, nhưng lễ hội đêm nghe chừng cũng vui đấy chứ.",
+      "text": "Người đồng nghiệp vui vẻ nhắc tên vùng đất quê tôi rồi cười sảng khoái. Đối với tôi thì món đó chẳng có gì lạ lẫm, nhưng lễ hội đêm nghe chừng cũng vui đấy chứ.",
       "jpname": "モノローグ",
       "jptext": "彼は土地の名を挙げて、陽気に笑った。 自分にとってはそれほど珍しくもない。だが夜祭りは楽しそうだ。"
     },
@@ -152,7 +152,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Được hóng gió đêm mát mẻ cũng thích đấy chứ…… Giấy xin phép ra ngoài, nhờ anh nhé.",
+      "text": "Được hóng gió đêm mát mẻ cũng thích đấy chứ…… Giấy xin phép ra ngoài, nhờ người nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "夜風で涼めそうだわ……外出届、お願いね。",
       "choice_data_list": [
@@ -194,12 +194,12 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Em đâu có nhờ anh làm việc đó?",
+      "text": "Tôi đâu có nhờ người làm việc đó?",
       "jpname": "メジロラモーヌ",
       "jptext": "頼んでいないけれど？",
       "choice_data_list": [
-        "Anh muốn được đi đến bất kỳ nơi nào em tới",
-        "Tôi muốn được đi đến bất kỳ nơi nào bạn tới"
+        "Tôi muốn được đi đến bất kỳ nơi nào cô tới",
+        "Tôi muốn được đi đến bất kỳ nơi nào cô tới"
       ],
       "jpchoice_data_list": [
         "俺が君の行くところへ行きたいんだ",
@@ -238,19 +238,19 @@
     },
     {
       "name": "Người hâm mộ của Ramonu",
-      "text": "A a a! Tiểu thư Ramonu! Tôi đã mong chờ tiểu thư mãi…… Mà khoan, chiếc huy hiệu kia…… ngài là Trainer của tiểu thư Ramonu sao?!",
+      "text": "A a a! Tiểu thư Ramonu! Tôi đã mong chờ tiểu thư mãi…… Mà khoan, chiếc huy hiệu kia…… ngài là Trainer-san của tiểu thư Ramonu sao?!",
       "jpname": "ラモーヌのファン",
       "jptext": "ああぁ～～！　ラモーヌさん！　お待ちしておりました……って、 そのバッジ……あなた、ラモーヌさんのトレーナーさん！？"
     },
     {
       "name": "Người hâm mộ của Ramonu",
-      "text": "Phải rồi, đi tập huấn thì đương nhiên Trainer cũng sẽ đi cùng chứ……! Tôi thật thất lễ quá. Nào, xin mời ngài cùng lên thuyền……!",
+      "text": "Phải rồi, đi tập huấn thì đương nhiên Trainer-san cũng sẽ đi cùng chứ……! Tôi thật thất lễ quá. Nào, xin mời ngài cùng lên thuyền……!",
       "jpname": "ラモーヌのファン",
       "jptext": "そうか、合宿にはトレーナーさんも当然いらしていますよね……！ これは失礼いたしました。さぁ、どうぞ船へ……！"
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Người ta bảo thế kìa…… May cho anh rồi nhé.",
+      "text": "Người ta bảo thế kìa…… May cho người rồi nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "ですって……よかったわね。"
     },
@@ -268,7 +268,7 @@
     },
     {
       "name": "",
-      "text": "Mình đến đây với tư cách là người hộ tống Mejiro Ramonu. Không thể có hành vi khó coi làm mất mặt cô ấy được. Trong khi đó, nàng vẫn giữ phong thái điềm tĩnh như mọi ngày.",
+      "text": "Tôi đến đây với tư cách là người hộ tống Mejiro Ramonu. Không thể có hành vi khó coi làm mất mặt cô ấy được. Trong khi đó, nàng vẫn giữ phong thái điềm tĩnh như mọi ngày.",
       "jpname": "モノローグ",
       "jptext": "メジロラモーヌの付き添いとしてきたのだ。 みっともないふるまいはできない。一方、彼女はいつもどおりだ。"
     },
@@ -364,7 +364,7 @@
       "jpname": "セレブC",
       "jptext": "へぇ、あなたの故郷でしたか！　いやぁ、いいところですね。 写真もたくさん撮ったんです、ほら！",
       "choice_data_list": [
-        "A, chỗ này thì anh cũng từng đến rồi……!",
+        "A, chỗ này thì tôi cũng từng đến rồi……!",
         "A, chỗ này thì tôi cũng từng đến rồi……!"
       ],
       "jpchoice_data_list": [
@@ -404,7 +404,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Chẳng lẽ…… anh lại nghĩ em là một Mã Nương đến điều cỏn con đó cũng không làm được sao?",
+      "text": "Chẳng lẽ…… người lại nghĩ tôi là một Mã Nương đến điều cỏn con đó cũng không làm được sao?",
       "jpname": "メジロラモーヌ",
       "jptext": "まさか……そんなことすらできないウマ娘だと思って？",
       "choice_data_list": [
@@ -446,7 +446,7 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Đúng là anh thích làm quá lên.",
+      "text": "Đúng là người thích làm quá lên.",
       "jpname": "メジロラモーヌ",
       "jptext": "大袈裟な人。"
     }

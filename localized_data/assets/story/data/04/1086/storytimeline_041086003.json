@@ -4,11 +4,11 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Ngày hôm sau sau khi ký hợp đồng Trainer với Mejiro Ramonu. Sực nhớ ra do quá phấn khởi mà mình quên trao đổi phương thức liên lạc, tôi bèn đi tìm cô ấy.",
+      "text": "Ngày hôm sau sau khi ký hợp đồng Trainer với Mejiro Ramonu. Sực nhớ ra do quá phấn khởi mà tôi quên trao đổi phương thức liên lạc, tôi bèn đi tìm cô ấy.",
       "jpname": "モノローグ",
       "jptext": "メジロラモーヌとトレーナー契約を結んだ翌日。浮かれて連絡先を 交換し忘れていたことを思い出し、彼女を捜しに来ていた。",
       "choice_data_list": [
-        "(Mình cũng muốn bàn bạc về những dự định tiếp theo nữa!)"
+        "(Tôi cũng muốn bàn bạc về những dự định tiếp theo nữa!)"
       ],
       "jpchoice_data_list": [
         "（この先のことも相談したい！）"
@@ -45,7 +45,7 @@
       "jptext": "運命の悪戯か、メジロラモーヌを捕まえられない。今日は休日、 トレーニング中と踏んでジムに来たが――やはり、いない。",
       "choice_data_list": [
         "Cô ở đâu rồi, Ramonu……!",
-        "Em ở đâu rồi, Ramonu……!"
+        "Cô ở đâu rồi, Ramonu……!"
       ],
       "jpchoice_data_list": [
         "どこだ、ラモーヌ……！",
@@ -58,8 +58,8 @@
       "jpname": "？？？",
       "jptext": "あの……姉をお捜しですか？",
       "choice_data_list": [
-        "Em là……",
-        "Bạn là……"
+        "Cô là……",
+        "Cô là……"
       ],
       "jpchoice_data_list": [
         "君は……",
@@ -80,7 +80,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Người là Trainer của chị ấy phải không ạ? Em đã được nghe người nhà kể lại rồi.",
+      "text": "Người là Trainer-san của chị ấy phải không ạ? Em đã được nghe người nhà kể lại rồi.",
       "jpname": "メジロアルダン",
       "jptext": "貴方は、姉のトレーナーさんですね？ お話は家の者から伺っております。"
     },
@@ -90,7 +90,7 @@
       "jpname": "メジロアルダン",
       "jptext": "もし姉をお捜しでしたら、心当たりがございます。 この時間であれば……ほぼ、間違いなく。",
       "choice_data_list": [
-        "Em chỉ cho tôi với được không?!"
+        "Cô chỉ cho tôi với được không?!"
       ],
       "jpchoice_data_list": [
         "教えてくれる！？"
@@ -192,8 +192,8 @@
       "jpname": "モノローグ",
       "jptext": "レース後の余韻に浸り、じっとゴール板を見つめていると…… 不意にメジロラモーヌが言葉を発した。恐らく、自分にだろう。",
       "choice_data_list": [
-        "Em cũng…… rất yêu những cuộc đua nhỉ",
-        "Bạn cũng…… rất thích những cuộc đua nhỉ"
+        "Cô cũng…… rất yêu những cuộc đua nhỉ",
+        "Cô cũng…… rất thích những cuộc đua nhỉ"
       ],
       "jpchoice_data_list": [
         "君も……レースが大好きなんだな",
@@ -298,13 +298,13 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "C-Chị hai…… Là Trainer của chị mà. Chị đã ký hợp đồng rồi cơ mà?",
+      "text": "C-Chị hai…… Là Trainer-san của chị mà. Chị đã ký hợp đồng rồi cơ mà?",
       "jpname": "メジロアルダン",
       "jptext": "ね、姉様……姉様のトレーナーさんですよ。 契約なさったのでしょう？"
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "……À. Ngươi, việc chuẩn bị cho trận ra mắt đã tiến hành đến đâu rồi?",
+      "text": "……À. Người, việc chuẩn bị cho trận ra mắt đã tiến hành đến đâu rồi?",
       "jpname": "メジロラモーヌ",
       "jptext": "……ああ。 貴方、デビューの準備は進めていらして？",
       "choice_data_list": [
@@ -316,17 +316,17 @@
     },
     {
       "name": "Mejiro Ramonu",
-      "text": "Không cần thiết đâu. Chỉ việc chuẩn bị thôi, nhờ anh nhé.",
+      "text": "Không cần thiết đâu. Chỉ việc chuẩn bị thôi, nhờ người nhé.",
       "jpname": "メジロラモーヌ",
       "jptext": "要らないわ。 準備だけ、お願いね。"
     },
     {
       "name": "Mejiro Ardan",
-      "text": "A, chị hai……! ……Anh Trainer ơi.",
+      "text": "A, chị hai……! ……Trainer-san ơi.",
       "jpname": "メジロアルダン",
       "jptext": "あっ、姉様……！ ……あの、トレーナーさん。",
       "choice_data_list": [
-        "Tôi không sao đâu, cảm ơn em……"
+        "Tôi không sao đâu, cảm ơn cô……"
       ],
       "jpchoice_data_list": [
         "大丈夫、ありがとう……"
@@ -340,7 +340,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "……Dạ. Em có thể hỏi một chuyện được không ạ? Trainer đã ký hợp đồng với chị hai như thế nào vậy?",
+      "text": "……Dạ. Em có thể hỏi một chuyện được không ạ? Trainer-san đã ký hợp đồng với chị hai như thế nào vậy?",
       "jpname": "メジロアルダン",
       "jptext": "……あの。お聞きしてもよろしいでしょうか。 トレーナーさんは姉と、どのように契約なさったのですか？"
     },
@@ -358,7 +358,7 @@
     },
     {
       "name": "Mejiro Ardan",
-      "text": "Thực ra thì…… Trainer không phải là người đầu tiên đâu ạ. Người từng ký hợp đồng với chị hai――",
+      "text": "Thực ra thì…… Trainer-san không phải là người đầu tiên đâu ạ. Người từng ký hợp đồng với chị hai――",
       "jpname": "メジロアルダン",
       "jptext": "実は……トレーナーさんが最初ではないのです。 姉と契約した方は――"
     }

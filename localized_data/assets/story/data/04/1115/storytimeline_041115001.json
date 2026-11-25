@@ -44,12 +44,12 @@
     },
     {
       "name": "",
-      "text": "――Sáng nay. Tôi đang định đi xem buổi triển lãm đặc biệt tôn vinh các Mã Nương và Huấn luyện viên huyền thoại, được tổ chức tại bảo tàng bên trong Trường đua Tokyo.",
+      "text": "――Sáng nay. Tôi đang định đi xem buổi triển lãm đặc biệt tôn vinh các Mã Nương và Trainer huyền thoại, được tổ chức tại bảo tàng bên trong Trường đua Tokyo.",
       "jpname": "モノローグ",
       "jptext": "――今朝。自分は東京レース場内ミュージアムで開催の、伝説的な ウマ娘とトレーナーを特集した、特別展示を見に行こうとしていた。",
       "choice_data_list": [
-        "(Được rồi, mình không quên mang vé chứ nhỉ)",
-        "(Được rồi, mình đã mang theo vé rồi)"
+        "(Được rồi, tôi không quên mang vé chứ nhỉ)",
+        "(Được rồi, tôi đã mang theo vé rồi)"
       ],
       "jpchoice_data_list": [
         "（よし、チケットは忘れずに持ったな）",
@@ -147,7 +147,7 @@
     },
     {
       "name": "",
-      "text": "...Nơi Orfevre dừng bước chính là điểm nhấn sáng giá nhất của buổi triển lãm lần này. Nơi đây khắc họa những khoảnh khắc oai phong của các Mã Nương huyền thoại cùng Huấn luyện viên của họ.",
+      "text": "...Nơi Orfevre dừng bước chính là điểm nhấn sáng giá nhất của buổi triển lãm lần này. Nơi đây khắc họa những khoảnh khắc oai phong của các Mã Nương huyền thoại cùng Trainer của họ.",
       "jpname": "モノローグ",
       "jptext": "……オルフェーヴルが足を止めたのは、今回の展示の目玉。 ここでは、伝説となったウマ娘とトレーナーの勇姿が並んでいた。",
       "choice_data_list": [
@@ -164,7 +164,7 @@
       "jpname": "モノローグ",
       "jptext": "ある者は劇的な勝利を、ある者は歴史的な偉業を携え…… レース界に名を刻んだその姿に、自分も心が躍る。",
       "choice_data_list": [
-        "(Mình cũng... nhất định một ngày nào đó sẽ đứng ở đây...!)",
+        "(Tôi cũng... nhất định một ngày nào đó sẽ đứng ở đây...!)",
         "(Tôi cũng... nhất định một ngày nào đó sẽ đứng ở đây...!)"
       ],
       "jpchoice_data_list": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "",
-      "text": "Tôi mơ mộng. Ước gì mình cũng có thể dẫn dắt một Mã Nương tuyệt vời như thế, để một ngày nào đó chạm tay vào vinh quang――",
+      "text": "Tôi mơ mộng. Ước gì tôi cũng có thể dẫn dắt một Mã Nương tuyệt vời như thế, để một ngày nào đó chạm tay vào vinh quang――",
       "jpname": "モノローグ",
       "jptext": "夢を見る。自分もあんなふうに、 素晴らしいウマ娘を育てあげて、いつか栄光を掴みたいと――",
       "choice_data_list": [],
@@ -218,8 +218,8 @@
       "jpname": "オルフェーヴル",
       "jptext": "貴様は、憧れのみでここに来たと言うつもりか？ ……ならば、己の内も知らぬと見える。",
       "choice_data_list": [
-        "Em đang nói điều gì――",
-        "Bạn muốn nói gì cơ――"
+        "Cô đang nói điều gì――",
+        "Cô muốn nói gì cơ――"
       ],
       "jpchoice_data_list": [
         "君は、何を――",
@@ -436,7 +436,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "A, ra là vậy. Dù chắc hẳn có việc riêng cần làm, vậy mà người vẫn cất công dẫn đường cho em gái tôi. Thật lòng cảm ơn người nhiều nhé.",
+      "text": "A, ra là vậy. Dù chắc hẳn có việc riêng cần làm, vậy mà Trainer-san vẫn cất công dẫn đường cho em gái tôi. Thật lòng cảm ơn rất nhiều.",
       "jpname": "ドリームジャーニー",
       "jptext": "ああ、なるほど。ご自身のこともあったでしょうに。 そんな中で妹を案内してくださるとは。ありがとうございます。",
       "choice_data_list": [],
@@ -484,7 +484,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Được rồi. ...Em đã vất vả rồi. Mọi chuyện sau đó cứ để người làm chị như tôi lo liệu. Vậy xin phép mọi người nhé――",
+      "text": "Đúng thế. ...Trainer-san đã vất vả rồi. Mọi chuyện sau đó cứ để người làm chị như tôi lo liệu. Vậy xin phép mọi người nhé――",
       "jpname": "ドリームジャーニー",
       "jptext": "そうだね。……お疲れ様でした。 後のことは姉である私にお任せください。では、失礼します――",
       "choice_data_list": [],

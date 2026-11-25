@@ -16,7 +16,7 @@
       "jpname": "モノローグ",
       "jptext": "休日、1人でりんごのフェスというものに来てみた。 りんごは、ウインバリアシオンの大好物だからだ……！",
       "choice_data_list": [
-        "(Mình muốn tìm món gì đó mà Shion sẽ thích!)"
+        "(Tôi muốn tìm món gì đó mà Shion sẽ thích!)"
       ],
       "jpchoice_data_list": [
         "（シオンが喜びそうなもの、見つけたい！）"
@@ -25,12 +25,12 @@
     },
     {
       "name": "Win Variation",
-      "text": "Ủa, Trainer-san? Chào anh ạ, anh vất vả rồi. Tình cờ ghê anh nhỉ.",
+      "text": "Ủa, Trainer-san? Chúc một ngày tốt lành ạ. Tình cờ quá đi mất.",
       "jpname": "ウインバリアシオン",
       "jptext": "あれっ、トレーナーさん？ お疲れさまっす。偶然ですね。",
       "choice_data_list": [
         "Shion! Chẳng lẽ em cũng tới tham gia lễ hội sao?",
-        "Shion! Không lẽ bạn cũng đến lễ hội này à?"
+        "Shion! Không lẽ em cũng đến lễ hội này à?"
       ],
       "jpchoice_data_list": [
         "シオン！もしかして君もフェスに？",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Trainer-san đi một mình sao ạ? Dạ... nếu được thì để em giới thiệu cho anh mấy quầy quán ruột của em nhé.",
+      "text": "Trainer-san đi một mình sao ạ? Dạ... nếu được thì để em giới thiệu cho Trainer-san mấy quầy quán ruột của em nhé.",
       "jpname": "ウインバリアシオン",
       "jptext": "トレーナーさんはお1人ですか？ あの……よかったら、オススメのお店、紹介させてください。",
       "choice_data_list": [],
@@ -94,7 +94,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Đúng vậy đó anh. ...A, đằng kia có quầy ăn thử kìa. Cả tiếng giòn tan thanh tao ấy nữa, nghe mà tâm hồn như được thanh lọc vậy ạ.",
+      "text": "Đúng vậy đấy ạ. ...A, đằng kia có quầy ăn thử kìa. Cả tiếng giòn tan thanh tao ấy nữa, nghe mà tâm hồn như được thanh lọc vậy ạ.",
       "jpname": "ウインバリアシオン",
       "jptext": "ですよね。……あぁ、あっちに試食コーナーが。 爽やかな音も、心が洗われるようっす。",
       "choice_data_list": [
@@ -165,7 +165,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Táo loại nào cũng ngon hết á anh. Nhưng mỗi giống lại mang một cá tính riêng biệt. Chẳng hạn như sự cân bằng giữa vị ngọt và vị chua, hay độ giòn xốp khác nhau...",
+      "text": "Táo loại nào cũng ngon hết cả ạ. Nhưng mỗi giống lại mang một cá tính riêng biệt. Chẳng hạn như sự cân bằng giữa vị ngọt và vị chua, hay độ giòn xốp khác nhau...",
       "jpname": "ウインバリアシオン",
       "jptext": "りんごはどれも美味しいっす。でも個性があるんです。 甘みと酸味のバランスとか、食感の違いとか……。",
       "choice_data_list": [],
@@ -173,7 +173,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Nếu anh không có yêu cầu gì đặc biệt thì hay là cùng em ăn thử đối chiếu những loại em đề xuất nhé? Trước hết, nhắc tới táo là nhất định phải là táo Aomori rồi ạ!",
+      "text": "Nếu không có yêu cầu gì đặc biệt thì hay là cùng em ăn thử đối chiếu những loại em đề xuất nhé? Trước hết, nhắc tới táo là nhất định phải là táo Aomori rồi ạ!",
       "jpname": "ウインバリアシオン",
       "jptext": "こだわりがなければ、あたしのオススメを食べ比べしませんか？ まずは、なんと言っても青森産っす！",
       "choice_data_list": [],
@@ -231,7 +231,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Dạ vâng, em xin phép làm như vậy ạ. Mà này... nếu được thì anh có thể ăn thử các loại khác thay phần em được không ạ?",
+      "text": "Dạ vâng, em xin phép làm như vậy ạ. Mà này... nếu được thì Trainer-san có thể ăn thử các loại khác thay phần em được không ạ?",
       "jpname": "ウインバリアシオン",
       "jptext": "はい、そうさせていただくっす。あの……できたら他のも、 あたしの代わりに試食してもらえないっすか？",
       "choice_data_list": [
@@ -333,7 +333,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Hì hì, món đó em rất muốn anh thử một lần đấy ạ! Không biết hôm nay ở đây có bán không ta?",
+      "text": "Hì hì, món đó em rất muốn Trainer-san thử một lần đấy ạ! Không biết hôm nay ở đây có bán không ta?",
       "jpname": "ウインバリアシオン",
       "jptext": "ふふっ、あれはぜひ食べてみてほしいっす！ 今日売ってるかな？",
       "choice_data_list": [],
@@ -372,7 +372,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Ủa mà khoan, hôm nay em luyên thuyên thao thao bất tuyệt nhiều quá rồi đúng không ạ!? Em xin lỗi anh nhiều lắm...!",
+      "text": "Ủa mà khoan, hôm nay em luyên thuyên thao thao bất tuyệt nhiều quá rồi đúng không ạ!? Em xin lỗi nhiều lắm ạ...!",
       "jpname": "ウインバリアシオン",
       "jptext": "って、今日のあたし、べらべら喋りすぎっすよね！？ すみません……！",
       "choice_data_list": [
@@ -393,7 +393,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Đâu thể bắt một Trainer lúc nào cũng bận rộn vất vả như anh phải bỏ công đi theo nghe mấy chuyện này cơ chứ...!",
+      "text": "Đâu thể bắt một Trainer lúc nào cũng bận rộn vất vả như Trainer-san phải bỏ công đi theo nghe mấy chuyện này cơ chứ...!",
       "jpname": "ウインバリアシオン",
       "jptext": "いつも忙しくして、頑張ってるトレーナーさんに わざわざ付き合ってもらうようなことじゃ――！",
       "choice_data_list": [
@@ -461,7 +461,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "A... ra là thế ạ. Đúng là vậy thật anh nhỉ...! Cơ mà ủa? Trainer-san thích ăn táo đến thế từ bao giờ vậy ạ?",
+      "text": "A... ra là thế ạ. Đúng là vậy thật ạ...! Cơ mà ủa? Trainer-san thích ăn táo đến thế từ bao giờ vậy ạ?",
       "jpname": "ウインバリアシオン",
       "jptext": "あっ……そっか。そっすよね……！　……って、あれ？ トレーナーさんって、そんなにりんご好きでしたっけ？",
       "choice_data_list": [
@@ -474,12 +474,12 @@
     },
     {
       "name": "Win Variation",
-      "text": "Ơ, vậy thì tại sao anh lại...?",
+      "text": "Ơ, vậy thì tại sao Trainer-san lại...?",
       "jpname": "ウインバリアシオン",
       "jptext": "えっ、じゃあなんで……？",
       "choice_data_list": [
         "Bởi vì em rất thích táo mà.",
-        "Vì tôi biết bạn mê táo đến chừng nào."
+        "Vì tôi biết em mê táo đến chừng nào."
       ],
       "jpchoice_data_list": [
         "君が、りんご好きだから",
@@ -526,7 +526,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Em muốn nói chứ ạ... Em đã rất muốn nói chuyện với anh. Thực ra hôm nọ cũng vậy... em muốn tán gẫu những chuyện vu vơ...",
+      "text": "Em muốn nói chứ ạ... Em đã rất muốn trò chuyện cùng Trainer-san. Thực ra hôm nọ cũng vậy... em muốn tán gẫu những chuyện vu vơ...",
       "jpname": "ウインバリアシオン",
       "jptext": "したいっす……したかったんす。 本当は、この前も……どうでもいい話……。",
       "choice_data_list": [],
@@ -534,7 +534,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Dạ rồi thì, có một cách bổ táo gọi là 'cắt hình ngôi sao', vừa cắt dễ dàng mà lại ăn luôn cả vỏ cũng rất tiện nữa đấy anh ạ.",
+      "text": "Dạ rồi thì, có một cách bổ táo gọi là 'cắt hình ngôi sao', vừa cắt dễ dàng mà lại ăn luôn cả vỏ cũng rất tiện nữa đấy ạ.",
       "jpname": "ウインバリアシオン",
       "jptext": "――それで、『スターカット』っていって、 簡単に切れるうえに、皮ごとでも食べやすいんですよ。",
       "choice_data_list": [],
@@ -550,7 +550,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Hì hì hì, a... đã về tới nơi rồi anh nhỉ... Dạ thì... hôm nay em cảm ơn anh rất nhiều ạ.",
+      "text": "Hì hì hì, a... đã về tới nơi rồi nhỉ... Dạ thì... hôm nay em cảm ơn Trainer-san rất nhiều ạ.",
       "jpname": "ウインバリアシオン",
       "jptext": "――ふふふっ、あ……もう着いちゃったっすね……。 ええと……今日は、ありがとうございました。",
       "choice_data_list": [
@@ -565,7 +565,7 @@
     },
     {
       "name": "Win Variation",
-      "text": "Dạ vâng...! Hẹn gặp lại anh vào ngày mai ạ.",
+      "text": "Dạ vâng...! Hẹn gặp lại vào ngày mai ạ.",
       "jpname": "ウインバリアシオン",
       "jptext": "はい……！　また明日。",
       "choice_data_list": [],

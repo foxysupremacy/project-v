@@ -66,12 +66,12 @@
     },
     {
       "name": "Daring Heart",
-      "text": "Checkmate―― đùa chút thôi! Để cậu đợi lâu rồi, Huấn luyện viên! Oh! Chẳng phải là một \"Điệp viên phong cách nhân viên văn phòng\" hoàn hảo đó sao♪",
+      "text": "Checkmate―― đùa chút thôi! Để cậu đợi lâu rồi, Trainer! Oh! Chẳng phải là một \"Điệp viên phong cách nhân viên văn phòng\" hoàn hảo đó sao♪",
       "jpname": "デアリングハート",
       "jptext": "Checkmate――なんてね！　お待たせ、トレーナー！ Oh!　完璧な『オフィスワーカー風スパイ』じゃない♪",
       "choice_data_list": [
-        "C-Cảm ơn em. Trang phục của em là...",
-        "C-Cảm ơn bạn. Trang phục của bạn là..."
+        "C-Cảm ơn cô. Trang phục của cô là...",
+        "C-Cảm ơn cô. Bộ đồ của cô là..."
       ],
       "jpchoice_data_list": [
         "あ、ありがとう。君の格好は……",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Bạn của Heart",
-      "text": "A, Heart kìa! Người đứng cạnh cậu là vị Huấn luyện viên phụ trách theo lời đồn đó hả? Rất vui được gặp anh/chị nhé! Cùng cạn ly nào☆",
+      "text": "A, Heart kìa! Người đứng cạnh cậu là vị Trainer-san phụ trách theo lời đồn đó hả? Rất vui được làm quen nhé! Cùng cạn ly nào☆",
       "jpname": "ハートの友人",
       "jptext": "あっ、ハートじゃん！　隣の人は、うわさの担当トレーナーさん？ はじめまして～！　ってことでカンパーイ☆",
       "choice_data_list": [
@@ -98,7 +98,7 @@
     },
     {
       "name": "",
-      "text": "...Không khí náo nhiệt vượt xa tưởng tượng khiến tôi không khỏi lo lắng liệu mình có hòa nhập nổi không. Để giữ thể diện cho Heart, tôi cũng muốn cố gắng hết sức, nhưng mà...",
+      "text": "...Không khí náo nhiệt vượt xa tưởng tượng khiến tôi không khỏi lo lắng liệu bản thân có hòa nhập nổi không. Để giữ thể diện cho Heart, tôi cũng muốn cố gắng hết sức, nhưng mà...",
       "jpname": "モノローグ",
       "jptext": "……想像以上の賑わいに、ついていけるか心配になる。 ハートの顔を立てるためにも、なんとか頑張りたいが……。"
     },
@@ -140,7 +140,7 @@
     },
     {
       "name": "Bạn của Heart",
-      "text": "Đương nhiên là tụi này tham gia rồi! Huấn luyện viên thì sao ạ? Có thi không? Có tham gia luôn không nào!?",
+      "text": "Đương nhiên là tụi này tham gia rồi! Trainer-san thì sao? Có thi không? Có tham gia luôn không nào!?",
       "jpname": "ハートの友人",
       "jptext": "もちろん出る出る～！ トレーナーさんはどうします？　出ます？　出ちゃいます！？",
       "choice_data_list": [
@@ -152,7 +152,7 @@
     },
     {
       "name": "",
-      "text": "...Thành thật mà nói, tôi chẳng giỏi việc xuất hiện trước đám đông chút nào. Thế nhưng, nếu đã là Huấn luyện viên của Daring Heart thì...",
+      "text": "...Thành thật mà nói, tôi chẳng giỏi việc xuất hiện trước đám đông chút nào. Thế nhưng, nếu đã là Trainer của Daring Heart thì...",
       "jpname": "モノローグ",
       "jptext": "……正直に言うと、人前に出るのはあまり得意ではない。 だが、デアリングハートのトレーナーなら……。",
       "choice_data_list": [
@@ -182,7 +182,7 @@
     },
     {
       "name": "Mã Nương ban tổ chức",
-      "text": "Ối giời, hóa ra có biết kéo đàn đâu cơ chứ! ...Và sau đây, thí sinh kế tiếp! Điệp viên tiếp theo chính là vị Huấn luyện viên của nàng tiểu thư ấy!",
+      "text": "Ối giời, hóa ra có biết kéo đàn đâu cơ chứ! ...Và sau đây, thí sinh kế tiếp! Điệp viên tiếp theo chính là vị Trainer-san của nàng tiểu thư ấy!",
       "jpname": "主催者ウマ娘",
       "jptext": "いや、弾けないんか～い！　……ってことで、ネクスト！ 次のエージェントは、そんな令嬢のトレーナーさん！"
     },
@@ -210,8 +210,8 @@
       "jpname": "デアリングハート",
       "jptext": "Wow...",
       "choice_data_list": [
-        "Hôm nay anh sẽ không để các em về đâu... hãy cùng chạy với anh nhé!",
-        "Hôm nay tôi sẽ không để các bạn về đâu... hãy cùng chạy với tôi nhé!"
+        "Hôm nay tôi sẽ không để cô về đâu... hãy cùng chạy với tôi nhé!",
+        "Hôm nay tôi sẽ không để cô về đâu... hãy cùng chạy với tôi nhé!"
       ],
       "jpchoice_data_list": [
         "今日はもう帰さない……俺と一緒に走ろう！",
@@ -260,8 +260,8 @@
       "jpname": "デアリングハート",
       "jptext": "いつもの流れなら、この後しばらくはダンスタイムね。 私は行ってくるけれど、あなたは少し休んで……。",
       "choice_data_list": [
-        "Đợi đã, anh cũng đi cùng em.",
-        "Đợi đã, tôi cũng đi cùng bạn."
+        "Đợi đã, tôi cũng đi cùng cô.",
+        "Đợi đã, tôi cũng đi với cô."
       ],
       "jpchoice_data_list": [
         "待って、俺も行くよ",
@@ -282,13 +282,13 @@
     },
     {
       "name": "",
-      "text": "Nếu đã là Huấn luyện viên của cô ấy, tôi muốn mình cũng có thể bắt kịp được bầu không khí nhiệt huyết này...",
+      "text": "Nếu đã là Trainer của cô ấy, tôi muốn mình cũng có thể bắt kịp được bầu không khí nhiệt huyết này...",
       "jpname": "モノローグ",
       "jptext": "彼女のトレーナーとしてやっていくなら、 このぐらいのノリにはついていけるように……。"
     },
     {
       "name": "Daring Heart",
-      "text": "――No. Tôi rất cảm ơn lòng tốt của cậu, nhưng chuyện đó thì no thanks nhé Huấn luyện viên.",
+      "text": "――No. Tôi rất cảm ơn lòng tốt của cậu, nhưng chuyện đó thì no thanks nhé Trainer.",
       "jpname": "デアリングハート",
       "jptext": "――No. ありがたいけれど、それはno thanksよトレーナー。"
     },
@@ -402,7 +402,7 @@
     },
     {
       "name": "Daring Heart",
-      "text": "This is unbelievable! Đỉnh thật đấy, Huấn luyện viên! Toàn bộ đều chuẩn xác luôn!",
+      "text": "This is unbelievable! Đỉnh thật đấy, Trainer! Toàn bộ đều chuẩn xác luôn!",
       "jpname": "デアリングハート",
       "jptext": "This is unbelievable! すごいわ、トレーナー！　どれも正解よ！"
     },
@@ -444,8 +444,8 @@
       "jpname": "デアリングハート",
       "jptext": "ね。他の子は？　よかったら他の分析結果を見せてほしいわ！ 答え合わせをしましょうよ！",
       "choice_data_list": [
-        "Anh thì không sao, nhưng em bỏ dở bữa tiệc thế có ổn không?",
-        "Tôi thì không sao, nhưng bạn bỏ dở bữa tiệc thế có ổn không?"
+        "Tôi thì không sao, nhưng cô bỏ dở bữa tiệc thế có ổn không?",
+        "Tôi thì ổn thôi, nhưng cô bỏ dở bữa tiệc thế có sao không?"
       ],
       "jpchoice_data_list": [
         "俺はいいけど、パーティーはいいのか？",

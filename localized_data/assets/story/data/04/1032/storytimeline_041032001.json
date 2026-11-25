@@ -1,513 +1,513 @@
 {
-  "title": "Hiệu ứng Zeigarnik",
-  "jptitle": "ツァイガルニク効果",
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Đầu tôi đau quá……",
-      "jpname": "モノローグ",
-      "jptext": "頭が痛い……。",
-      "choice_data_list": [
-        "(Ủa…… rốt cuộc mình……?)",
-        "(Ủa…… rốt cuộc tôi……?)"
-      ],
-      "jpchoice_data_list": [
-        "（あれ……俺は一体……？）",
-        "（あれ……私は一体……？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Ý thức từng bị màn đêm bao phủ dần dần tỉnh lại. Và rồi――",
-      "jpname": "モノローグ",
-      "jptext": "暗闇に閉ざされていた意識が、ゆっくりと覚醒する。\nそして――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "――Ồ kìa. Tỉnh lại rồi đấy à?",
-      "jpname": "アグネスタキオン",
-      "jptext": "――おや。目が覚めたかい？",
-      "choice_data_list": [
-        "Agnes Tachyon……?"
-      ],
-      "jpchoice_data_list": [
-        "アグネスタキオン……？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Ngay cả một Trainer tân binh như tôi cũng từng nghe danh 'Mã Nương ẩn chứa năng lực kinh người', vậy mà giờ đây Agnes Tachyon lại đang đứng ngay trước mắt tôi……",
-      "jpname": "モノローグ",
-      "jptext": "『凄まじい能力を秘めたウマ娘だ』と新人トレーナーの自分でさえ\n聞いたことのあるアグネスタキオンが、目の前に立っていた……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Có vẻ như vẫn còn đôi chút hỗn loạn nhỉ. Vừa mới lấy lại ý thức thôi mà, đừng gắng gượng quá làm gì.",
-      "jpname": "アグネスタキオン",
-      "jptext": "多少の混乱状態にあるようだね。\n意識を取り戻したばかりなんだ、あまり無理をしない方がいい。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Nào, ngồi xuống ghế đi. Cứ thả lỏng ra.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ほら、椅子に座って。リラックスすべきだ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Cứ theo lời thúc giục của em, tôi ngồi xuống chiếc ghế tròn trong phòng y tế.",
-      "jpname": "モノローグ",
-      "jptext": "促されるがまま、保健室の丸椅子に腰かけた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Vậy thì…… ngươi có nhớ được vì sao mình lại ở đây không nào?",
-      "jpname": "アグネスタキオン",
-      "jptext": "さて……自分が何故ここにいるかは？　思い出せるかな？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Nhân tiện thì, kẻ vác một kẻ bất tỉnh như ngươi đến đây chính là ta đấy. Do đó, điều ngươi cần nhớ lại là 'tại sao' và 'làm thế nào' mà ngươi lại ngất đi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ちなみに、気を失った君をここまで運搬したのは私だよ。\n故に君が思い出すべきは、『何故』『いかにして』気を失ったかだ。",
-      "choice_data_list": [
-        "Ừm thì……"
-      ],
-      "jpchoice_data_list": [
-        "えっと……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Tôi cố gắng vận dụng bộ não đang nhức nhối từng cơn để nhớ lại. Rõ ràng hôm nay mình…… đang đi dọc hành lang thì……",
-      "jpname": "モノローグ",
-      "jptext": "ずきずきと鈍痛がする頭をどうにか回して、考えを巡らせる。\n確か自分は、今日……廊下を歩いていて……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Này này này đứng lạiii!! Tachyon-san đằng kia, đứng lại mauuu!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "こらこらこらぁーーーっ！！\nそこのタキオンさん、お待ちなさぁーーーいっ！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ôi chao, Bakushin O-kun! Sao mà cuống cuồng lên thế hả? Đâu phải phòng học thân yêu của cậu bị cháy thành tro rồi đâu nào.",
-      "jpname": "アグネスタキオン",
-      "jptext": "おやおや、バクシンオー君！　そんなに慌ててどうしたのかな？\n君の愛する教室が黒焦げになったわけでもあるまいに。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Vâng, đúng là chưa bị cháy thành tro thật!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "ハイ、黒焦げにはなりませんでしたともッ！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Tốt rồi, hòa bình muôn năm. Vậy ta xin phép đi trước nhé.",
-      "jpname": "アグネスタキオン",
-      "jptext": "よし、平和平和。では私はこれで。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Lớp trưởng ra lệnh đứnnggg lạiii!! Hòa bình cái nỗi gì cơ chứ hả!?",
-      "jpname": "サクラバクシンオー",
-      "jptext": "委員長ストォーーーーップ！！\n全然平和じゃありませんよ！？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Đúng là chưa cháy thành tro thật!! Nhưng cũng ngấp nghé đến cái giai đoạn đó rồi còn gì nữa!?",
-      "jpname": "サクラバクシンオー",
-      "jptext": "確かに黒焦げにはなりませんでしたがッ！！\nその前段階くらいにはたどりついていましたよッ！？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Chẳng phải chỉ có một chút xíu khói bốc lên ở một góc phòng học thôi sao? Nhân vật tầm cỡ lớp trưởng như cậu mà lại đi bới lông tìm vết chuyện cỏn con thế ư.",
-      "jpname": "アグネスタキオン",
-      "jptext": "教室のほんの一角で、少～しばかり煙が立っただけだろう？\n学級委員長ほどの人物が、目くじらを立てるようなことかな。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Hử!? H-Hừm…… nghe cậu nói thế thì……",
-      "jpname": "サクラバクシンオー",
-      "jptext": "むぅ！？　む、むむむん……そう言われてしまうと……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Chỉ là khói đen mịt mù bao trùm cả phòng học thôi mà, mình nên mở rộng lòng bao dung tha thứ chăng……?",
-      "jpname": "サクラバクシンオー",
-      "jptext": "教室全体をもうもうと黒煙が覆った程度、\n寛大な心で許すべき……？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Khoan dung là một đức tính tốt đẹp đấy, Lớp Trưởng-kun. Vậy thì lần này ta đi thật đây――",
-      "jpname": "アグネスタキオン",
-      "jptext": "寛大さは美徳だよ、委員長君。\nそれでは、今度こそ私はこれで――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "……A, không được! Nhắc mới nhớ, thầy giáo đã dặn đi dặn lại tới 8 lần là 'dù nó có nói gì thì cứ tóm cổ về đây' rồi mà……!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "……ハッ、いえ！『何を言われてもとりあえず捕まえて来い』と、\nそういえば先生から8回ほど言いつけられていました……！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Thế nên tôi quyết không để cậu trốn thoát đâuuu, Tachyon-saaaan!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "というわけで逃がしませんよッ、タキオンさぁーーーん！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "A ha ha ha! Quả nhiên là không lừa được cậu rồi!!",
-      "jpname": "アグネスタキオン",
-      "jptext": "アッハッハッハ！　さすがに誤魔化されないか！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "Đứng lại mauuuu!! Bakushin bakushiiiiiin!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "待て待てえぇーーーーーーーい！！\nバクシンバクシィィィイイイン！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Sakura Bakushin O",
-      "text": "A…… Trainer đằng kia ơi! Đừng để Tachyon-san chạy qua mauuuu!!",
-      "jpname": "サクラバクシンオー",
-      "jptext": "ハッ……そこのトレーナーさん！\nタキオンさんを通さないでくださぁーいいッ！！",
-      "choice_data_list": [
-        "(Ơ, m-mình……!?)",
-        "(Ơ, t-tôi……!?)"
-      ],
-      "jpchoice_data_list": [
-        "（お、俺……！？）",
-        "（わ、私……！？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Hửm……? Ô kìa!!",
-      "jpname": "アグネスタキオン",
-      "jptext": "ん……？　おっと！！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "………………",
-      "jpname": "モノローグ",
-      "jptext": "………………。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "――Hừm, xem ra ngươi đã chắp nối lại được toàn bộ sự tình rồi nhỉ.",
-      "jpname": "アグネスタキオン",
-      "jptext": "――ふぅン、ことの経緯までどうにか思い出せたようだね。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nhớ ra được thì hay thật đấy, nhưng cũng vì thế mà tôi nhận ra kẻ trước mặt chính là thủ phạm gây ra vụ khói đen mịt mù trong lớp học……",
-      "jpname": "モノローグ",
-      "jptext": "思い出せはしたがその結果、目の前の彼女がどうやら教室で\n黒煙騒ぎを起こした張本人であるという事実も明らかになった……。",
-      "choice_data_list": [
-        "Sao cô lại làm khói đen bốc lên trong lớp học……?"
-      ],
-      "jpchoice_data_list": [
-        "どうして教室で黒煙を……？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ngươi hỏi một câu kỳ quặc thật đấy. Chuyện đó ngoài 'một phần của nghiên cứu' ra thì còn câu trả lời nào khác nữa sao?",
-      "jpname": "アグネスタキオン",
-      "jptext": "奇妙なことを訊ねるね君は。\nそんなモノ、『研究の一環』以外にどんな解答が存在するんだ？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "'Nghiên cứu'―― Vừa thốt ra lời ấy, đôi mắt của Agnes Tachyon bỗng lóe lên tia sáng ma mị sắc lạnh.",
-      "jpname": "モノローグ",
-      "jptext": "『研究』――そう言い放ったアグネスタキオンの瞳が、\nぎらりと妖しく光る。",
-      "choice_data_list": [
-        "(Cảm giác có chút rợn người……)"
-      ],
-      "jpchoice_data_list": [
-        "（ちょっと不気味な感じがする……）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Có lẽ tốt nhất là không nên dính dáng gì tới em ấy thì hơn. Nghĩ vậy, tôi toan đứng dậy khỏi ghế, nhưng――",
-      "jpname": "モノローグ",
-      "jptext": "あまり彼女と関わり合いにならない方がいいのかもしれない。\nそう思い、椅子から立ち上がろうとしたが――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "(Két……)",
-      "jpname": "モノローグ",
-      "jptext": "（ギシッ……）",
-      "choice_data_list": [
-        "Ơ kìa!? Tôi không cử động được!?"
-      ],
-      "jpchoice_data_list": [
-        "あれ！？動けない！？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Từ bao giờ mà tôi đã bị trói chặt vào ghế rồi thế này……!",
-      "jpname": "モノローグ",
-      "jptext": "いつの間にか椅子に縛り付けられている……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ngươi thuộc tuýp người một khi đã chìm vào suy nghĩ thì chẳng còn để tâm đến xung quanh nữa hả? Mà ta cũng cùng một giuộc thôi, nên không phải là ta không hiểu cảm giác đó đâu.",
-      "jpname": "アグネスタキオン",
-      "jptext": "君、考えごとに没頭すると、他に意識が向かなくなるタイプかい？\nいや私もそこに関しては同類だ、気持ちはわからなくもないがね。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Dù vậy, từ lòng tốt của mình, ta khuyên ngươi nên luôn để mắt đến trạng thái của bản thân thì hơn.",
-      "jpname": "アグネスタキオン",
-      "jptext": "とはいえ親切心から忠告しておくけれど、\n自分の状態ぐらいは、常に気を配ることをお勧めするよ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Biết đâu ngươi lại vô tình chạm mặt một nhà nghiên cứu đang đỏ mắt tìm kiếm vật thí nghiệm là 'nam giới trưởng thành khỏe mạnh' ở bất cứ đâu thì sao?",
-      "jpname": "アグネスタキオン",
-      "jptext": "“健康で元気な成人男性”という被験体を求めてやまない研究者と、\nいつどこで巡り合ってしまうかわからないだろう？",
-      "choice_data_list": [
-        "V-Vật thí nghiệm……!?"
-      ],
-      "jpchoice_data_list": [
-        "ひ、被験体……！？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Biết đâu ngươi lại vô tình chạm mặt một nhà nghiên cứu đang đỏ mắt tìm kiếm vật thí nghiệm là 'nữ giới trưởng thành khỏe mạnh' ở bất cứ đâu thì sao?",
-      "jpname": "アグネスタキオン",
-      "jptext": "“健康で元気な成人女性”という被験体を求めてやまない研究者と、\nいつどこで巡り合ってしまうかわからないだろう？",
-      "choice_data_list": [
-        "V-Vật thí nghiệm……!?"
-      ],
-      "jpchoice_data_list": [
-        "ひ、被験体……！？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Nhưng đối với ta, chẳng khác nào vận may đang tự dùng hai chân bước thẳng đến trước mặt. Thỉnh thoảng cũng nên cảm tạ cái thứ gọi là thần linh một chút vậy.",
-      "jpname": "アグネスタキオン",
-      "jptext": "もっとも私にとっては、幸運が両足で歩いてやって来たと言うほか\n無いがね。たまには神様とやらにも感謝しておくとしよう。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Dù sao thì lời đồn về ta dường như đã lan khắp cả học viện rồi. Đến nước này thì đừng nói là nhờ làm vật thí nghiệm, cứ hễ chạm mắt là người ta lại bỏ chạy thục mạng.",
-      "jpname": "アグネスタキオン",
-      "jptext": "何しろ私の噂は、すっかり学園中に知れ渡ってしまったようでね。\n今となっては被験体を頼む所か、目が合うたび逃げられる始末だ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Thế mà―― Ha ha ha! Không ngờ trước mắt ta lại xuất hiện một tân binh hoàn toàn không biết gì về tin đồn! Thật là may mắn tột cùng!",
-      "jpname": "アグネスタキオン",
-      "jptext": "だというのに――ハーハッハ！\nまさか目の前に噂を知らぬ新人が現れるとは！　なんたる幸運！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Thế nên là nhé, chuột bạch-kun. ――À nhầm, Tân binh Trainer-kun.",
-      "jpname": "アグネスタキオン",
-      "jptext": "というわけでモルモット君。\n――間違えた、新人トレーナー君。",
-      "choice_data_list": [
-        "Cô vừa gọi là 'chuột bạch' đấy à!?"
-      ],
-      "jpchoice_data_list": [
-        "今『モルモット』って言った！？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Người lớn cả rồi, đừng có để bụng chuyện cỏn con thế chứ.",
-      "jpname": "アグネスタキオン",
-      "jptext": "大の大人が些末なことを気にするな。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Quan trọng hơn là, tiếp theo đây ngươi sẽ phải uống cạn 1 lọ…… à không, khỏe mạnh thế này chắc chịu nổi nhiều hơn, làm chừng 3 lọ thuốc nhé.",
-      "jpname": "アグネスタキオン",
-      "jptext": "それよりも、これから1本……いや健康だしもっとイケるな、\n3本ほど薬を飲み干してもらうぞ。",
-      "choice_data_list": [
-        "Thuốc gì cơ……?"
-      ],
-      "jpchoice_data_list": [
-        "何の薬……？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Kha kha kha, cái đó thì phải uống xong mới biết được điều thú vị chứ.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ククククッ、それは、飲んでからのお楽しみというやつだよ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "À yên tâm đi…… Cùng lắm trong trường hợp xấu nhất, da ở hai chân của ngươi chỉ phát quang màu xanh lục ngả vàng trong vài giờ thôi. Tác dụng phụ đáng yêu đấy chứ?",
-      "jpname": "アグネスタキオン",
-      "jptext": "あぁ大丈夫……最悪の結果になったとしても精々数時間、\n両脚の皮膚が黄緑色に発光するぐらいだ。可愛い副作用だろう？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "So với việc đó, điều quan trọng hơn chính là dữ liệu co thắt cơ tứ đầu đùi của con người mà thứ thuốc này sẽ giúp ta quan sát được.",
-      "jpname": "アグネスタキオン",
-      "jptext": "そんなことよりも重要なのは、この薬によって観測されるであろう\n人間の大腿四頭筋の収縮データだ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Việc cơ thể Mã Nương và con người có cấu trúc gần như tương đồng vốn là một sự thật ai cũng biết, nhưng bằng cách so sánh dữ liệu của cả hai, một――",
-      "jpname": "アグネスタキオン",
-      "jptext": "ウマ娘と人間の身体構造がほぼ同一であることはよく知られた\n事実だが、その両方のデータを比較することによって新たな――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Tachyon-san…… chị lại làm mấy trò đó nữa rồi đấy à……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "タキオンさん……またそんなことやってるんですか……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ồ, chẳng phải Cafe sao! Có chuyện gì thế, hay là em muốn hợp tác thí nghiệm――",
-      "jpname": "アグネスタキオン",
-      "jptext": "おや、カフェじゃないか！\nどうしたんだい、もしや実験に協力を――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Không đâu ạ. Thầy giáo đang gọi chị nên em chỉ đến nhắn lại thôi…… Hình như có chuyện…… muốn nói về việc tham gia Cuộc đua Tuyển chọn sắp tới đấy ạ……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "しません。先生が呼んでいるので、伝えに来ただけです……。\n次の選抜レース参加について……話が、あるそうですよ……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "Chị mau…… đi đi. Nào…… ngay bây giờ đấy……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "早く……行ってください。ほら……すぐに……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Úi chà…… Được rồi được rồi, đừng lườm ta ghê thế chứ! Đành chịu vậy, thí nghiệm đành để dịp khác.",
-      "jpname": "アグネスタキオン",
-      "jptext": "おっとっと……わかったわかった、そう睨むなよ！\nしょうがない、実験はまた次の機会にしよう。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Tân binh Trainer-kun, hẹn gặp lại nhé!",
-      "jpname": "アグネスタキオン",
-      "jptext": "新人トレーナー君、また会おう！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Manhattan Cafe",
-      "text": "……Hà. Em cởi dây thừng…… cho anh nhé……",
-      "jpname": "マンハッタンカフェ",
-      "jptext": "……はぁ。縄……解きますね……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Tôi thầm thở phào nhẹ nhõm từ tận đáy lòng…… rằng 'mình được cứu rồi'.",
-      "jpname": "モノローグ",
-      "jptext": "『助かった』……心からそう安堵したのだった。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    }
-  ]
+    "title": "Hiệu ứng Zeigarnik",
+    "jptitle": "ツァイガルニク効果",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Đầu tôi đau quá……",
+            "jpname": "モノローグ",
+            "jptext": "頭が痛い……。",
+            "choice_data_list": [
+                "(Ủa…… rốt cuộc tôi……?)",
+                "(Ủa…… rốt cuộc tôi……?)"
+            ],
+            "jpchoice_data_list": [
+                "（あれ……俺は一体……？）",
+                "（あれ……私は一体……？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Ý thức từng bị màn đêm bao phủ dần dần tỉnh lại. Và rồi――",
+            "jpname": "モノローグ",
+            "jptext": "暗闇に閉ざされていた意識が、ゆっくりと覚醒する。\nそして――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "――Ồ kìa. Tỉnh lại rồi đấy à?",
+            "jpname": "アグネスタキオン",
+            "jptext": "――おや。目が覚めたかい？",
+            "choice_data_list": [
+                "Agnes Tachyon……?"
+            ],
+            "jpchoice_data_list": [
+                "アグネスタキオン……？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Ngay cả một Trainer tân binh như tôi cũng từng nghe danh 'Mã Nương ẩn chứa năng lực kinh người', vậy mà giờ đây Agnes Tachyon lại đang đứng ngay trước mắt tôi……",
+            "jpname": "モノローグ",
+            "jptext": "『凄まじい能力を秘めたウマ娘だ』と新人トレーナーの自分でさえ\n聞いたことのあるアグネスタキオンが、目の前に立っていた……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Có vẻ như vẫn còn đôi chút hỗn loạn nhỉ. Vừa mới lấy lại ý thức thôi mà, đừng gắng gượng quá làm gì.",
+            "jpname": "アグネスタキオン",
+            "jptext": "多少の混乱状態にあるようだね。\n意識を取り戻したばかりなんだ、あまり無理をしない方がいい。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nào, ngồi xuống ghế đi. Cứ thả lỏng ra.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ほら、椅子に座って。リラックスすべきだ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Cứ theo lời thúc giục của em, tôi ngồi xuống chiếc ghế tròn trong phòng y tế.",
+            "jpname": "モノローグ",
+            "jptext": "促されるがまま、保健室の丸椅子に腰かけた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Vậy thì…… ngươi có nhớ được vì sao mình lại ở đây không nào?",
+            "jpname": "アグネスタキオン",
+            "jptext": "さて……自分が何故ここにいるかは？　思い出せるかな？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nhân tiện thì, kẻ vác một kẻ bất tỉnh như ngươi đến đây chính là ta đấy. Do đó, điều ngươi cần nhớ lại là 'tại sao' và 'làm thế nào' mà ngươi lại ngất đi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ちなみに、気を失った君をここまで運搬したのは私だよ。\n故に君が思い出すべきは、『何故』『いかにして』気を失ったかだ。",
+            "choice_data_list": [
+                "Ừm thì……"
+            ],
+            "jpchoice_data_list": [
+                "えっと……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Tôi cố gắng vận dụng bộ não đang nhức nhối từng cơn để nhớ lại. Rõ ràng hôm nay mình…… đang đi dọc hành lang thì……",
+            "jpname": "モノローグ",
+            "jptext": "ずきずきと鈍痛がする頭をどうにか回して、考えを巡らせる。\n確か自分は、今日……廊下を歩いていて……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Này này này đứng lạiii!! Tachyon-san đằng kia, đứng lại mauuu!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "こらこらこらぁーーーっ！！\nそこのタキオンさん、お待ちなさぁーーーいっ！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ôi chao, Bakushin O-kun! Sao mà cuống cuồng lên thế hả? Đâu phải phòng học thân yêu của cậu bị cháy thành tro rồi đâu nào.",
+            "jpname": "アグネスタキオン",
+            "jptext": "おやおや、バクシンオー君！　そんなに慌ててどうしたのかな？\n君の愛する教室が黒焦げになったわけでもあるまいに。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Vâng, đúng là chưa bị cháy thành tro thật!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "ハイ、黒焦げにはなりませんでしたともッ！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tốt rồi, hòa bình muôn năm. Vậy ta xin phép đi trước nhé.",
+            "jpname": "アグネスタキオン",
+            "jptext": "よし、平和平和。では私はこれで。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Lớp trưởng ra lệnh đứnnggg lạiii!! Hòa bình cái nỗi gì cơ chứ hả!?",
+            "jpname": "サクラバクシンオー",
+            "jptext": "委員長ストォーーーーップ！！\n全然平和じゃありませんよ！？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Đúng là chưa cháy thành tro thật!! Nhưng cũng ngấp nghé đến cái giai đoạn đó rồi còn gì nữa!?",
+            "jpname": "サクラバクシンオー",
+            "jptext": "確かに黒焦げにはなりませんでしたがッ！！\nその前段階くらいにはたどりついていましたよッ！？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Chẳng phải chỉ có một chút xíu khói bốc lên ở một góc phòng học thôi sao? Nhân vật tầm cỡ lớp trưởng như cậu mà lại đi bới lông tìm vết chuyện cỏn con thế ư.",
+            "jpname": "アグネスタキオン",
+            "jptext": "教室のほんの一角で、少～しばかり煙が立っただけだろう？\n学級委員長ほどの人物が、目くじらを立てるようなことかな。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hử!? H-Hừm…… nghe cậu nói thế thì……",
+            "jpname": "サクラバクシンオー",
+            "jptext": "むぅ！？　む、むむむん……そう言われてしまうと……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Chỉ là khói đen mịt mù bao trùm cả phòng học thôi mà, mình nên mở rộng lòng bao dung tha thứ chăng……?",
+            "jpname": "サクラバクシンオー",
+            "jptext": "教室全体をもうもうと黒煙が覆った程度、\n寛大な心で許すべき……？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Khoan dung là một đức tính tốt đẹp đấy, Lớp Trưởng-kun. Vậy thì lần này ta đi thật đây――",
+            "jpname": "アグネスタキオン",
+            "jptext": "寛大さは美徳だよ、委員長君。\nそれでは、今度こそ私はこれで――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "……A, không được! Nhắc mới nhớ, thầy giáo đã dặn đi dặn lại tới 8 lần là 'dù nó có nói gì thì cứ tóm cổ về đây' rồi mà……!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "……ハッ、いえ！『何を言われてもとりあえず捕まえて来い』と、\nそういえば先生から8回ほど言いつけられていました……！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Thế nên tôi quyết không để cậu trốn thoát đâuuu, Tachyon-saaaan!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "というわけで逃がしませんよッ、タキオンさぁーーーん！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A ha ha ha! Quả nhiên là không lừa được cậu rồi!!",
+            "jpname": "アグネスタキオン",
+            "jptext": "アッハッハッハ！　さすがに誤魔化されないか！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Đứng lại mauuuu!! Bakushin bakushiiiiiin!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "待て待てえぇーーーーーーーい！！\nバクシンバクシィィィイイイン！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A…… Trainer-san đằng kia ơi! Đừng để Tachyon-san chạy qua mauuuu!!",
+            "jpname": "サクラバクシンオー",
+            "jptext": "ハッ……そこのトレーナーさん！\nタキオンさんを通さないでくださぁーいいッ！！",
+            "choice_data_list": [
+                "(Ơ, m-mình……!?)",
+                "(Ơ, t-tôi……!?)"
+            ],
+            "jpchoice_data_list": [
+                "（お、俺……！？）",
+                "（わ、私……！？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hửm……? Ô kìa!!",
+            "jpname": "アグネスタキオン",
+            "jptext": "ん……？　おっと！！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "………………",
+            "jpname": "モノローグ",
+            "jptext": "………………。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "――Hừm, xem ra ngươi đã chắp nối lại được toàn bộ sự tình rồi nhỉ.",
+            "jpname": "アグネスタキオン",
+            "jptext": "――ふぅン、ことの経緯までどうにか思い出せたようだね。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nhớ ra được thì hay thật đấy, nhưng cũng vì thế mà tôi nhận ra kẻ trước mặt chính là thủ phạm gây ra vụ khói đen mịt mù trong lớp học……",
+            "jpname": "モノローグ",
+            "jptext": "思い出せはしたがその結果、目の前の彼女がどうやら教室で\n黒煙騒ぎを起こした張本人であるという事実も明らかになった……。",
+            "choice_data_list": [
+                "Sao cô lại làm khói đen bốc lên trong lớp học……?"
+            ],
+            "jpchoice_data_list": [
+                "どうして教室で黒煙を……？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ngươi hỏi một câu kỳ quặc thật đấy. Chuyện đó ngoài 'một phần của nghiên cứu' ra thì còn câu trả lời nào khác nữa sao?",
+            "jpname": "アグネスタキオン",
+            "jptext": "奇妙なことを訊ねるね君は。\nそんなモノ、『研究の一環』以外にどんな解答が存在するんだ？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "'Nghiên cứu'―― Vừa thốt ra lời ấy, đôi mắt của Agnes Tachyon bỗng lóe lên tia sáng ma mị sắc lạnh.",
+            "jpname": "モノローグ",
+            "jptext": "『研究』――そう言い放ったアグネスタキオンの瞳が、\nぎらりと妖しく光る。",
+            "choice_data_list": [
+                "(Cảm giác có chút rợn người……)"
+            ],
+            "jpchoice_data_list": [
+                "（ちょっと不気味な感じがする……）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Có lẽ tốt nhất là không nên dính dáng gì tới em ấy thì hơn. Nghĩ vậy, tôi toan đứng dậy khỏi ghế, nhưng――",
+            "jpname": "モノローグ",
+            "jptext": "あまり彼女と関わり合いにならない方がいいのかもしれない。\nそう思い、椅子から立ち上がろうとしたが――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "(Két……)",
+            "jpname": "モノローグ",
+            "jptext": "（ギシッ……）",
+            "choice_data_list": [
+                "Ơ kìa!? Tôi không cử động được!?"
+            ],
+            "jpchoice_data_list": [
+                "あれ！？動けない！？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Từ bao giờ mà tôi đã bị trói chặt vào ghế rồi thế này……!",
+            "jpname": "モノローグ",
+            "jptext": "いつの間にか椅子に縛り付けられている……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ngươi thuộc tuýp người một khi đã chìm vào suy nghĩ thì chẳng còn để tâm đến xung quanh nữa hả? Mà ta cũng cùng một giuộc thôi, nên không phải là ta không hiểu cảm giác đó đâu.",
+            "jpname": "アグネスタキオン",
+            "jptext": "君、考えごとに没頭すると、他に意識が向かなくなるタイプかい？\nいや私もそこに関しては同類だ、気持ちはわからなくもないがね。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dù vậy, từ lòng tốt của mình, ta khuyên ngươi nên luôn để mắt đến trạng thái của bản thân thì hơn.",
+            "jpname": "アグネスタキオン",
+            "jptext": "とはいえ親切心から忠告しておくけれど、\n自分の状態ぐらいは、常に気を配ることをお勧めするよ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Biết đâu ngươi lại vô tình chạm mặt một nhà nghiên cứu đang đỏ mắt tìm kiếm vật thí nghiệm là 'nam giới trưởng thành khỏe mạnh' ở bất cứ đâu thì sao?",
+            "jpname": "アグネスタキオン",
+            "jptext": "“健康で元気な成人男性”という被験体を求めてやまない研究者と、\nいつどこで巡り合ってしまうかわからないだろう？",
+            "choice_data_list": [
+                "V-Vật thí nghiệm……!?"
+            ],
+            "jpchoice_data_list": [
+                "ひ、被験体……！？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Biết đâu ngươi lại vô tình chạm mặt một nhà nghiên cứu đang đỏ mắt tìm kiếm vật thí nghiệm là 'nữ giới trưởng thành khỏe mạnh' ở bất cứ đâu thì sao?",
+            "jpname": "アグネスタキオン",
+            "jptext": "“健康で元気な成人女性”という被験体を求めてやまない研究者と、\nいつどこで巡り合ってしまうかわからないだろう？",
+            "choice_data_list": [
+                "V-Vật thí nghiệm……!?"
+            ],
+            "jpchoice_data_list": [
+                "ひ、被験体……！？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nhưng đối với ta, chẳng khác nào vận may đang tự dùng hai chân bước thẳng đến trước mặt. Thỉnh thoảng cũng nên cảm tạ cái thứ gọi là thần linh một chút vậy.",
+            "jpname": "アグネスタキオン",
+            "jptext": "もっとも私にとっては、幸運が両足で歩いてやって来たと言うほか\n無いがね。たまには神様とやらにも感謝しておくとしよう。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dù sao thì lời đồn về ta dường như đã lan khắp cả học viện rồi. Đến nước này thì đừng nói là nhờ làm vật thí nghiệm, cứ hễ chạm mắt là người ta lại bỏ chạy thục mạng.",
+            "jpname": "アグネスタキオン",
+            "jptext": "何しろ私の噂は、すっかり学園中に知れ渡ってしまったようでね。\n今となっては被験体を頼む所か、目が合うたび逃げられる始末だ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Thế mà―― Ha ha ha! Không ngờ trước mắt ta lại xuất hiện một tân binh hoàn toàn không biết gì về tin đồn! Thật là may mắn tột cùng!",
+            "jpname": "アグネスタキオン",
+            "jptext": "だというのに――ハーハッハ！\nまさか目の前に噂を知らぬ新人が現れるとは！　なんたる幸運！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Thế nên là nhé, chuột bạch-kun. ――À nhầm, Tân binh Trainer-kun.",
+            "jpname": "アグネスタキオン",
+            "jptext": "というわけでモルモット君。\n――間違えた、新人トレーナー君。",
+            "choice_data_list": [
+                "Cô vừa gọi là 'chuột bạch' đấy à!?"
+            ],
+            "jpchoice_data_list": [
+                "今『モルモット』って言った！？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Người lớn cả rồi, đừng có để bụng chuyện cỏn con thế chứ.",
+            "jpname": "アグネスタキオン",
+            "jptext": "大の大人が些末なことを気にするな。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Quan trọng hơn là, tiếp theo đây ngươi sẽ phải uống cạn 1 lọ…… à không, khỏe mạnh thế này chắc chịu nổi nhiều hơn, làm chừng 3 lọ thuốc nhé.",
+            "jpname": "アグネスタキオン",
+            "jptext": "それよりも、これから1本……いや健康だしもっとイケるな、\n3本ほど薬を飲み干してもらうぞ。",
+            "choice_data_list": [
+                "Thuốc gì cơ……?"
+            ],
+            "jpchoice_data_list": [
+                "何の薬……？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kha kha kha, cái đó thì phải uống xong mới biết được điều thú vị chứ.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ククククッ、それは、飲んでからのお楽しみというやつだよ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "À yên tâm đi…… Cùng lắm trong trường hợp xấu nhất, da ở hai chân của ngươi chỉ phát quang màu xanh lục ngả vàng trong vài giờ thôi. Tác dụng phụ đáng yêu đấy chứ?",
+            "jpname": "アグネスタキオン",
+            "jptext": "あぁ大丈夫……最悪の結果になったとしても精々数時間、\n両脚の皮膚が黄緑色に発光するぐらいだ。可愛い副作用だろう？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So với việc đó, điều quan trọng hơn chính là dữ liệu co thắt cơ tứ đầu đùi của con người mà thứ thuốc này sẽ giúp ta quan sát được.",
+            "jpname": "アグネスタキオン",
+            "jptext": "そんなことよりも重要なのは、この薬によって観測されるであろう\n人間の大腿四頭筋の収縮データだ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Việc cơ thể Mã Nương và con người có cấu trúc gần như tương đồng vốn là một sự thật ai cũng biết, nhưng bằng cách so sánh dữ liệu của cả hai, một――",
+            "jpname": "アグネスタキオン",
+            "jptext": "ウマ娘と人間の身体構造がほぼ同一であることはよく知られた\n事実だが、その両方のデータを比較することによって新たな――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tachyon-san…… chị lại làm mấy trò đó nữa rồi đấy à……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "タキオンさん……またそんなことやってるんですか……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ồ, chẳng phải Cafe sao! Có chuyện gì thế, hay là em muốn hợp tác thí nghiệm――",
+            "jpname": "アグネスタキオン",
+            "jptext": "おや、カフェじゃないか！\nどうしたんだい、もしや実験に協力を――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Không đâu ạ. Thầy giáo đang gọi chị nên em chỉ đến nhắn lại thôi…… Hình như có chuyện…… muốn nói về việc tham gia Cuộc đua Tuyển chọn sắp tới đấy ạ……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "しません。先生が呼んでいるので、伝えに来ただけです……。\n次の選抜レース参加について……話が、あるそうですよ……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Chị mau…… đi đi. Nào…… ngay bây giờ đấy……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "早く……行ってください。ほら……すぐに……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Úi chà…… Được rồi được rồi, đừng lườm ta ghê thế chứ! Đành chịu vậy, thí nghiệm đành để dịp khác.",
+            "jpname": "アグネスタキオン",
+            "jptext": "おっとっと……わかったわかった、そう睨むなよ！\nしょうがない、実験はまた次の機会にしよう。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tân binh Trainer-kun, hẹn gặp lại nhé!",
+            "jpname": "アグネスタキオン",
+            "jptext": "新人トレーナー君、また会おう！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Hà. Em cởi dây thừng…… ra cho nhé……",
+            "jpname": "マンハッタンカフェ",
+            "jptext": "……はぁ。縄……解きますね……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Tôi thầm thở phào nhẹ nhõm từ tận đáy lòng…… rằng 'tôi được cứu rồi'.",
+            "jpname": "モノローグ",
+            "jptext": "『助かった』……心からそう安堵したのだった。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        }
+    ]
 }

@@ -1,415 +1,415 @@
 {
-  "title": "Tân tinh rực sáng",
-  "jptitle": "輝けるノヴァ",
-  "text_block_list": [
-    {
-      "name": "Admire Vega",
-      "text": "(――Chạy, là một lời cầu nguyện)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（――走ることは、祈りだった）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hà…… hà…… phù. Khụ, khụ khụ……!",
-      "jpname": "アドマイヤベガ",
-      "jptext": "はっ……はっ……はぁ。\nッ、ごほっ……げほっ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "(Cổ họng nghẹn ứ. Nhờ vậy tôi mới hiểu ra. Sự thật phũ phàng đập vào mắt tôi. Rằng tôi, ……vẫn còn đang thở)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（喉が詰まる。だからわかる。突きつけられる。\n私は、……息をしている、と）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "…………………….",
-      "jpname": "アドマイヤベガ",
-      "jptext": "……………………。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "(Một trong hai mươi mốt ngôi sao sáng bậc nhất trên bầu trời, cấu thành nên Lục giác Mùa đông. Ngôi sao đỏ dịu dàng nhấp nháy, sao Pollux)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（冬のダイヤモンドを構成する、全天21の一等星の1つ。\n優しく瞬く赤い恒星、ポルックス）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "(Ở nơi ấy…… đêm nay cũng vậy. Nhất định, em đang dõi theo tôi)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（あそこで……今夜も。きっと、あなたが見ている）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "……, ……mình phải đi thôi.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "……、……行かないと。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "(Tôi nguyện cầu. Thay vì chắp tay, tôi dùng đôi chân này đạp lên mặt đất. Để tất cả những điều rực rỡ, những điều ấm áp phía cuối con đường này――)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（私は祈る。手を合わせる代わりに大地を蹴って。\nこの道の先にある輝かしいもの、温かなもの、そのすべてが――）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "(Có thể gửi trọn đến em.)",
-      "jpname": "アドマイヤベガ",
-      "jptext": "（あなたに、届きますようにと。）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Đã sắp đến ngày diễn ra \"Cuộc đua tuyển chọn\" quan trọng, nơi đội ngũ Trainer đánh giá thực lực của các Mã Nương.",
-      "jpname": "モノローグ",
-      "jptext": "そろそろ、トレーナー陣がウマ娘の実力を見極める\n大事な『選抜レース』の開催日だ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Khi tôi đến đường chạy, rất nhiều Trainer khác cũng đã có mặt để quan sát các Mã Nương đang miệt mài luyện tập chuẩn bị cho cuộc đua chính thức.",
-      "jpname": "モノローグ",
-      "jptext": "コースを訪れると、他にも数多くのトレーナーたちが\n本番に向けトレーニングを重ねるウマ娘たちの様子を見に来ていた。",
-      "choice_data_list": [
-        "(Xem nào, danh sách tham gia lần này là……)"
-      ],
-      "jpchoice_data_list": [
-        "（ええと、今回の出走者リストは……）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Trainer tầm trung A",
-      "text": "――Ồ! Cú bứt tốc nước rút vừa rồi sắc bén tuyệt vời thật đấy……!",
-      "jpname": "中堅トレーナーA",
-      "jptext": "――おおっ！　今の末脚のキレ、素晴らしいな……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Trainer kỳ cựu A",
-      "text": "Khả năng phán đoán thời điểm tấn công cũng cực kỳ xuất sắc…… Admire Vega, cuộc đua tuyển chọn sắp tới ngày càng đáng mong chờ rồi đây.",
-      "jpname": "ベテラントレーナーA",
-      "jptext": "仕掛けどころの見極めも抜群……\nアドマイヤベガ、ますます今度の選抜が楽しみになってきたわね。",
-      "choice_data_list": [
-        "(\"Admire Vega\"……!)"
-      ],
-      "jpchoice_data_list": [
-        "（“アドマイヤベガ”……！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nghe thấy cái tên có trong danh sách xuất phát mà bản thân cũng đang chú ý, tôi vội đảo mắt nhìn ra đường chạy.",
-      "jpname": "モノローグ",
-      "jptext": "選抜レースの出走者リストにあり、自分も注目していた名が聞こえ、\n急いでコースに目を走らせる。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "Hộc, hộc, phù…… C-Cảm ơn chị đã chạy cùng em ạ……!",
-      "jpname": "メイショウドトウ",
-      "jptext": "はふ、はふ、はひ……\nへ、併走、ありがとうございましたぁ……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Tôi cũng cảm ơn em. ……Em nghỉ rồi sao?",
-      "jpname": "アドマイヤベガ",
-      "jptext": "こちらこそ。……もう上がる？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "D-Dạ vâng, lát nữa em có hẹn ăn tối cùng nhóm Urara-san ạ…… À ừm ừm, nếu được thì Ayabe-san cũng――",
-      "jpname": "メイショウドトウ",
-      "jptext": "は、はい～、この後ウララさんたちと、お夕飯をいただく\n約束でして……あのあのあの、よければ、アヤベさんもっ――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Không đâu. Tôi…… vẫn sẽ chạy thêm một lúc nữa.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "いえ。私は……もう少し、走るから。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Meisho Doto",
-      "text": "A! D-Dạ…… ừm, chị đừng gượng ép bản thân quá nhé ạ……!",
-      "jpname": "メイショウドトウ",
-      "jptext": "あっ！　あ、ぁ……その、あまりっ、無理はなさらずぅ～……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hà, hà, hà――!",
-      "jpname": "アドマイヤベガ",
-      "jptext": "はっ、はっ、はっ――！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Trong khi số người dừng tập dần tăng lên, em lại thản nhiên từ chối lời rủ rê của bạn bè, một mình khắc kỷ tiếp tục rèn luyện.",
-      "jpname": "モノローグ",
-      "jptext": "少しずつ上がっていく子も増えていく中で、友人の誘いを\n淡々と断り、独り、ストイックにトレーニングを続ける彼女。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hà……!!",
-      "jpname": "アドマイヤベガ",
-      "jptext": "はぁっ……！！",
-      "choice_data_list": [
-        "(Đúng như lời đồn, sức bứt phá thật tuyệt vời……!)",
-        "(Đúng như lời đồn, gia tốc tuyệt vời quá……!)"
-      ],
-      "jpchoice_data_list": [
-        "（評判通り、素晴らしい加速力だ……！）",
-        "（評判通り、素晴らしい加速力……！）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Từ đôi chân ấy, tôi cảm nhận được một tài năng khiến sống lưng râm ran rạo rực.",
-      "jpname": "モノローグ",
-      "jptext": "その脚からは、背筋がひりつくほどの才が感じられた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Một Mã Nương mang năng lực vượt trội, khiến người ta cảm nhận được tiềm năng vươn tới tương lai rực rỡ, Admire Vega. Em là một người thế nào――",
-      "jpname": "モノローグ",
-      "jptext": "優れた能力を持ち、輝かしい未来へと至る可能性を感じさせる\nウマ娘、アドマイヤベガ。彼女は――",
-      "choice_data_list": [
-        "(Em ấy là một Mã Nương thế nào nhỉ?)",
-        "(Không biết em ấy là một Mã Nương ra sao?)"
-      ],
-      "jpchoice_data_list": [
-        "（どんなウマ娘なんだろう？）",
-        "（どんなウマ娘なのかな？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Sau đó khi trở về phòng Trainer, tôi lục tìm những tài liệu trước đây về Admire Vega, mải mê đến mức nhận ra trời đã về khuya từ lúc nào.",
-      "jpname": "モノローグ",
-      "jptext": "その後トレーナー室に戻り、アドマイヤベガに関する過去の資料を\nあさっていると、すっかり夢中になって気づけば夜も更けていた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nghĩ rằng đã đến lúc phải về ký túc xá Trainer, vừa bước ra ngoài thì――",
-      "jpname": "モノローグ",
-      "jptext": "そろそろトレーナー寮に帰らなければ、と、外に出たところで――",
-      "choice_data_list": [
-        "Ủa? Phía đường chạy có…… bóng người?"
-      ],
-      "jpchoice_data_list": [
-        "ん？コースの方に……影？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "――Phù. ……Hà, hà……!",
-      "jpname": "アドマイヤベガ",
-      "jptext": "――ふぅっ。……はぁっ、はぁ……！",
-      "choice_data_list": [
-        "(Giờ này mà em ấy vẫn còn tập sao!?)",
-        "(Vẫn còn tập đến tận giờ này ư!?)"
-      ],
-      "jpchoice_data_list": [
-        "（まだやってたのか！？）",
-        "（まだやってたの！？）"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Trên đường chạy đã hoàn toàn vắng bóng người, em vẫn cô độc sải bước. Dù trông em đã kiệt sức thấy rõ, nhưng――",
-      "jpname": "モノローグ",
-      "jptext": "すっかり誰もいなくなったコースを、彼女は独り、走り続けていた。\nさすがに疲れきった様子だったが――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hự…… vẫn chưa, vẫn chưa đủ……!",
-      "jpname": "アドマイヤベガ",
-      "jptext": "っ……まだ、まだ……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Nhịp độ không hề suy giảm. Đôi chân em không dừng lại. Cứ như thể――",
-      "jpname": "モノローグ",
-      "jptext": "ペースは落ちない。彼女の脚は止まらない。\nまるで――",
-      "choice_data_list": [
-        "Như thể đang bị điều gì đó thôi thúc, truy đuổi ráo riết……"
-      ],
-      "jpchoice_data_list": [
-        "何かに、追い立てられているみたいに……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hà…… hà…… hự……",
-      "jpname": "アドマイヤベガ",
-      "jptext": "はーっ、はーっ……くっ……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "…………………………",
-      "jpname": "アドマイヤベガ",
-      "jptext": "…………………………。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Admire Vega với dáng vẻ mệt nhoài bỗng dừng bước lại. Trong sự tĩnh lặng khi tiếng bước chân cuối cùng vừa dứt, đôi mắt em―― đang phản chiếu những vì sao.",
-      "jpname": "モノローグ",
-      "jptext": "疲弊しきった様子のアドマイヤベガがふと足を止める。\n最後の足音さえ消えた静寂の中で、彼女の瞳は――星を映していた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Ánh sao. Ánh sao. Bầu trời đêm ngập tràn ánh sao. ……Lay động mong manh, tựa như sắp bị nuốt chửng ngay lúc này――",
-      "jpname": "モノローグ",
-      "jptext": "星を。星を。満天の星空を。\n……まるで、今にも吞まれてしまいそうに、儚く揺れて――",
-      "choice_data_list": [
-        "……Em, em có sao không?",
-        "……Em, em ổn chứ?"
-      ],
-      "jpchoice_data_list": [
-        "……大、丈夫か？",
-        "……大、丈夫？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hả?",
-      "jpname": "アドマイヤベガ",
-      "jptext": "え？",
-      "choice_data_list": [
-        "A"
-      ],
-      "jpchoice_data_list": [
-        "あっ"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "……Ngay cả bản thân tôi cũng chẳng hiểu tại sao mình lại buột miệng hỏi như vậy.",
-      "jpname": "モノローグ",
-      "jptext": "……なぜそう訊ねてしまったのかは、自分でもわからなかった。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "? ……Tôi bình thường. Vì đây là chuyện tôi vẫn làm hằng ngày thôi.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "？　……平気。いつもやっていることだから。",
-      "choice_data_list": [
-        "Lúc nào em cũng tập đến tận giờ này sao?"
-      ],
-      "jpchoice_data_list": [
-        "いつもこんな時間まで？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Hầu như là vậy.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "だいたいは。",
-      "choice_data_list": [
-        "……Em không thấy vất vả sao?",
-        "……Em không mệt mỏi sao?"
-      ],
-      "jpchoice_data_list": [
-        "……辛くないのか？",
-        "……辛くないの？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Không. ……Vì đó là điều cần thiết để chiến thắng.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "ない。……勝つために、必要なことだから。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "Tôi sẽ thắng. Chạy, và tiếp tục chiến thắng. Chỉ có vậy thôi.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "私は、勝つ。走って、勝ち続ける。それだけ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Admire Vega",
-      "text": "……Nếu với tư cách Trainer mà cậu có chuyện muốn nói, thì để sau cuộc đua tuyển chọn đi. Chào cậu.",
-      "jpname": "アドマイヤベガ",
-      "jptext": "……トレーナーとして話があるなら、選抜レースの後にして。\nそれじゃ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Đúng khoảnh khắc đó, ánh đèn dùng cho buổi tập đêm trên đường chạy cũng tắt hẳn―― Dưới ánh sao, em quay bước rời đi như hòa tan vào màn đêm.",
-      "jpname": "モノローグ",
-      "jptext": "瞬間、夜練用に点いていたコースの明かりもとうとう消え――\n星明かりの中、夜に溶けるように、彼女は立ち去っていった。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Dáng hình của Admire Vega, như đang tự bào mòn bản thân dưới gánh nặng của quyết tâm quá đỗi nặng nề, cứ mãi đọng lại trong lòng tôi……",
-      "jpname": "モノローグ",
-      "jptext": "まるで身を削るように、ひどく重い覚悟を背負っている様子の\nアドマイヤベガの姿は、いつまでも胸に残ったのだった……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    }
-  ]
+    "title": "Tân tinh rực sáng",
+    "jptitle": "輝けるノヴァ",
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "(――Chạy, là một lời cầu nguyện)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（――走ることは、祈りだった）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hà…… hà…… phù. Khụ, khụ khụ……!",
+            "jpname": "アドマイヤベガ",
+            "jptext": "はっ……はっ……はぁ。\nッ、ごほっ……げほっ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Cổ họng nghẹn ứ. Nhờ vậy tôi mới hiểu ra. Sự thật phũ phàng đập vào mắt tôi. Rằng tôi, ……vẫn còn đang thở)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（喉が詰まる。だからわかる。突きつけられる。\n私は、……息をしている、と）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…………………….",
+            "jpname": "アドマイヤベガ",
+            "jptext": "……………………。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Một trong hai mươi mốt ngôi sao sáng bậc nhất trên bầu trời, cấu thành nên Lục giác Mùa đông. Ngôi sao đỏ dịu dàng nhấp nháy, sao Pollux)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（冬のダイヤモンドを構成する、全天21の一等星の1つ。\n優しく瞬く赤い恒星、ポルックス）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Ở nơi ấy…… đêm nay cũng vậy. Nhất định, em đang dõi theo tôi)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（あそこで……今夜も。きっと、あなたが見ている）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……, ……mình phải đi thôi.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "……、……行かないと。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Tôi nguyện cầu. Thay vì chắp tay, tôi dùng đôi chân này đạp lên mặt đất. Để tất cả những điều rực rỡ, những điều ấm áp phía cuối con đường này――)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（私は祈る。手を合わせる代わりに大地を蹴って。\nこの道の先にある輝かしいもの、温かなもの、そのすべてが――）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Có thể gửi trọn đến em.)",
+            "jpname": "アドマイヤベガ",
+            "jptext": "（あなたに、届きますようにと。）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Đã sắp đến ngày diễn ra \"Cuộc đua tuyển chọn\" quan trọng, nơi đội ngũ Trainer đánh giá thực lực của các Mã Nương.",
+            "jpname": "モノローグ",
+            "jptext": "そろそろ、トレーナー陣がウマ娘の実力を見極める\n大事な『選抜レース』の開催日だ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Khi tôi đến đường chạy, rất nhiều Trainer khác cũng đã có mặt để quan sát các Mã Nương đang miệt mài luyện tập chuẩn bị cho cuộc đua chính thức.",
+            "jpname": "モノローグ",
+            "jptext": "コースを訪れると、他にも数多くのトレーナーたちが\n本番に向けトレーニングを重ねるウマ娘たちの様子を見に来ていた。",
+            "choice_data_list": [
+                "(Xem nào, danh sách tham gia lần này là……)"
+            ],
+            "jpchoice_data_list": [
+                "（ええと、今回の出走者リストは……）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Trainer tầm trung A",
+            "text": "――Ồ! Cú bứt tốc nước rút vừa rồi sắc bén tuyệt vời thật đấy……!",
+            "jpname": "中堅トレーナーA",
+            "jptext": "――おおっ！　今の末脚のキレ、素晴らしいな……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Trainer kỳ cựu A",
+            "text": "Khả năng phán đoán thời điểm tấn công cũng cực kỳ xuất sắc…… Admire Vega, cuộc đua tuyển chọn sắp tới ngày càng đáng mong chờ rồi đây.",
+            "jpname": "ベテラントレーナーA",
+            "jptext": "仕掛けどころの見極めも抜群……\nアドマイヤベガ、ますます今度の選抜が楽しみになってきたわね。",
+            "choice_data_list": [
+                "(\"Admire Vega\"……!)"
+            ],
+            "jpchoice_data_list": [
+                "（“アドマイヤベガ”……！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nghe thấy cái tên có trong danh sách xuất phát mà bản thân cũng đang chú ý, tôi vội đảo mắt nhìn ra đường chạy.",
+            "jpname": "モノローグ",
+            "jptext": "選抜レースの出走者リストにあり、自分も注目していた名が聞こえ、\n急いでコースに目を走らせる。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hộc, hộc, phù…… C-Cảm ơn chị đã chạy cùng em ạ……!",
+            "jpname": "メイショウドトウ",
+            "jptext": "はふ、はふ、はひ……\nへ、併走、ありがとうございましたぁ……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tôi cũng cảm ơn em. ……Em nghỉ rồi sao?",
+            "jpname": "アドマイヤベガ",
+            "jptext": "こちらこそ。……もう上がる？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "D-Dạ vâng, lát nữa em có hẹn ăn tối cùng nhóm Urara-san ạ…… À ừm ừm, nếu được thì Ayabe-san cũng――",
+            "jpname": "メイショウドトウ",
+            "jptext": "は、はい～、この後ウララさんたちと、お夕飯をいただく\n約束でして……あのあのあの、よければ、アヤベさんもっ――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Không đâu. Tôi…… vẫn sẽ chạy thêm một lúc nữa.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "いえ。私は……もう少し、走るから。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A! D-Dạ…… ừm, chị đừng gượng ép bản thân quá nhé ạ……!",
+            "jpname": "メイショウドトウ",
+            "jptext": "あっ！　あ、ぁ……その、あまりっ、無理はなさらずぅ～……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hà, hà, hà――!",
+            "jpname": "アドマイヤベガ",
+            "jptext": "はっ、はっ、はっ――！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Trong khi số người dừng tập dần tăng lên, em lại thản nhiên từ chối lời rủ rê của bạn bè, một mình khắc kỷ tiếp tục rèn luyện.",
+            "jpname": "モノローグ",
+            "jptext": "少しずつ上がっていく子も増えていく中で、友人の誘いを\n淡々と断り、独り、ストイックにトレーニングを続ける彼女。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hà……!!",
+            "jpname": "アドマイヤベガ",
+            "jptext": "はぁっ……！！",
+            "choice_data_list": [
+                "(Đúng như lời đồn, sức bứt phá thật tuyệt vời……!)",
+                "(Đúng như lời đồn, gia tốc tuyệt vời quá……!)"
+            ],
+            "jpchoice_data_list": [
+                "（評判通り、素晴らしい加速力だ……！）",
+                "（評判通り、素晴らしい加速力……！）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Từ đôi chân ấy, tôi cảm nhận được một tài năng khiến sống lưng râm ran rạo rực.",
+            "jpname": "モノローグ",
+            "jptext": "その脚からは、背筋がひりつくほどの才が感じられた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Một Mã Nương mang năng lực vượt trội, khiến người ta cảm nhận được tiềm năng vươn tới tương lai rực rỡ, Admire Vega. Em là một người thế nào――",
+            "jpname": "モノローグ",
+            "jptext": "優れた能力を持ち、輝かしい未来へと至る可能性を感じさせる\nウマ娘、アドマイヤベガ。彼女は――",
+            "choice_data_list": [
+                "(Em ấy là một Mã Nương thế nào nhỉ?)",
+                "(Không biết em ấy là một Mã Nương ra sao?)"
+            ],
+            "jpchoice_data_list": [
+                "（どんなウマ娘なんだろう？）",
+                "（どんなウマ娘なのかな？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Sau đó khi trở về phòng Trainer, tôi lục tìm những tài liệu trước đây về Admire Vega, mải mê đến mức nhận ra trời đã về khuya từ lúc nào.",
+            "jpname": "モノローグ",
+            "jptext": "その後トレーナー室に戻り、アドマイヤベガに関する過去の資料を\nあさっていると、すっかり夢中になって気づけば夜も更けていた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nghĩ rằng đã đến lúc phải về ký túc xá Trainer, vừa bước ra ngoài thì――",
+            "jpname": "モノローグ",
+            "jptext": "そろそろトレーナー寮に帰らなければ、と、外に出たところで――",
+            "choice_data_list": [
+                "Ủa? Phía đường chạy có…… bóng người?"
+            ],
+            "jpchoice_data_list": [
+                "ん？コースの方に……影？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "――Phù. ……Hà, hà……!",
+            "jpname": "アドマイヤベガ",
+            "jptext": "――ふぅっ。……はぁっ、はぁ……！",
+            "choice_data_list": [
+                "(Giờ này mà em ấy vẫn còn tập sao!?)",
+                "(Vẫn còn tập đến tận giờ này ư!?)"
+            ],
+            "jpchoice_data_list": [
+                "（まだやってたのか！？）",
+                "（まだやってたの！？）"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Trên đường chạy đã hoàn toàn vắng bóng người, em vẫn cô độc sải bước. Dù trông em đã kiệt sức thấy rõ, nhưng――",
+            "jpname": "モノローグ",
+            "jptext": "すっかり誰もいなくなったコースを、彼女は独り、走り続けていた。\nさすがに疲れきった様子だったが――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hự…… vẫn chưa, vẫn chưa đủ……!",
+            "jpname": "アドマイヤベガ",
+            "jptext": "っ……まだ、まだ……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Nhịp độ không hề suy giảm. Đôi chân em không dừng lại. Cứ như thể――",
+            "jpname": "モノローグ",
+            "jptext": "ペースは落ちない。彼女の脚は止まらない。\nまるで――",
+            "choice_data_list": [
+                "Như thể đang bị điều gì đó thôi thúc, truy đuổi ráo riết……"
+            ],
+            "jpchoice_data_list": [
+                "何かに、追い立てられているみたいに……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hà…… hà…… hự……",
+            "jpname": "アドマイヤベガ",
+            "jptext": "はーっ、はーっ……くっ……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "…………………………",
+            "jpname": "アドマイヤベガ",
+            "jptext": "…………………………。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Admire Vega với dáng vẻ mệt nhoài bỗng dừng bước lại. Trong sự tĩnh lặng khi tiếng bước chân cuối cùng vừa dứt, đôi mắt em―― đang phản chiếu những vì sao.",
+            "jpname": "モノローグ",
+            "jptext": "疲弊しきった様子のアドマイヤベガがふと足を止める。\n最後の足音さえ消えた静寂の中で、彼女の瞳は――星を映していた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Ánh sao. Ánh sao. Bầu trời đêm ngập tràn ánh sao. ……Lay động mong manh, tựa như sắp bị nuốt chửng ngay lúc này――",
+            "jpname": "モノローグ",
+            "jptext": "星を。星を。満天の星空を。\n……まるで、今にも吞まれてしまいそうに、儚く揺れて――",
+            "choice_data_list": [
+                "……Em, em có sao không?",
+                "……Em, em ổn chứ?"
+            ],
+            "jpchoice_data_list": [
+                "……大、丈夫か？",
+                "……大、丈夫？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hả?",
+            "jpname": "アドマイヤベガ",
+            "jptext": "え？",
+            "choice_data_list": [
+                "A"
+            ],
+            "jpchoice_data_list": [
+                "あっ"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "……Ngay cả bản thân tôi cũng chẳng hiểu tại sao tôi lại buột miệng hỏi như vậy.",
+            "jpname": "モノローグ",
+            "jptext": "……なぜそう訊ねてしまったのかは、自分でもわからなかった。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "? ……Tôi bình thường. Vì đây là chuyện tôi vẫn làm hằng ngày thôi.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "？　……平気。いつもやっていることだから。",
+            "choice_data_list": [
+                "Lúc nào em cũng tập đến tận giờ này sao?"
+            ],
+            "jpchoice_data_list": [
+                "いつもこんな時間まで？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hầu như là vậy.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "だいたいは。",
+            "choice_data_list": [
+                "……Em không thấy vất vả sao?",
+                "……Em không mệt mỏi sao?"
+            ],
+            "jpchoice_data_list": [
+                "……辛くないのか？",
+                "……辛くないの？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Không. ……Vì đó là điều cần thiết để chiến thắng.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "ない。……勝つために、必要なことだから。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tôi sẽ thắng. Chạy, và tiếp tục chiến thắng. Chỉ có vậy thôi.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "私は、勝つ。走って、勝ち続ける。それだけ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Nếu với tư cách Trainer mà cậu có chuyện muốn nói, thì để sau cuộc đua tuyển chọn đi. Chào cậu.",
+            "jpname": "アドマイヤベガ",
+            "jptext": "……トレーナーとして話があるなら、選抜レースの後にして。\nそれじゃ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Đúng khoảnh khắc đó, ánh đèn dùng cho buổi tập đêm trên đường chạy cũng tắt hẳn―― Dưới ánh sao, em quay bước rời đi như hòa tan vào màn đêm.",
+            "jpname": "モノローグ",
+            "jptext": "瞬間、夜練用に点いていたコースの明かりもとうとう消え――\n星明かりの中、夜に溶けるように、彼女は立ち去っていった。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Dáng hình của Admire Vega, như đang tự bào mòn bản thân dưới gánh nặng của quyết tâm quá đỗi nặng nề, cứ mãi đọng lại trong lòng tôi……",
+            "jpname": "モノローグ",
+            "jptext": "まるで身を削るように、ひどく重い覚悟を背負っている様子の\nアドマイヤベガの姿は、いつまでも胸に残ったのだった……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        }
+    ]
 }

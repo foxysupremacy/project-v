@@ -64,13 +64,13 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Không sao đâu ạ. Chỉ là vì bọn em cũng muốn thức dậy nên mới mở mắt thôi mà.",
+      "text": "Không sao đâu ạ. Chỉ là vì tụi mình cũng muốn thức dậy nên mới mở mắt thôi mà.",
       "jpname": "メジロブライト",
       "jptext": "いいのです。\nわたくしたちが起きたくて、目覚めただけですもの。"
     },
     {
       "name": "Tsurumaru Tsuyoshi",
-      "text": "... Dạ, Bright-san? Ý bạn bảo bọn em là...?",
+      "text": "... Dạ, Bright-san? Ý Bright-san bảo \"tụi mình\" là...?",
       "jpname": "ツルマルツヨシ",
       "jptext": "……へ、ブライトさん？　私たちって……？"
     },
@@ -99,7 +99,7 @@
       "jptext": "うそっ！！　な、なんで？　ブライトさ……あぁぁ……。",
       "choice_data_list": [
         "\"Hôm trước em cũng thức dậy vào tầm giờ này sao?\"",
-        "\"Hôm trước bạn cũng thức dậy vào tầm giờ này sao?\""
+        "\"Hôm trước em cũng thức dậy vào tầm giờ này à?\""
       ],
       "jpchoice_data_list": [
         "『この前もこんな時間に起きてたのか？』",
@@ -143,7 +143,7 @@
       "jptext": "がんばることも、ときにお休みしないといけないって……。\nでも。だけどっ――……。",
       "choice_data_list": [
         "\"Em hiểu rõ điều đó nhưng vẫn muốn cố gắng đúng không?\"",
-        "\"Bạn hiểu rõ điều đó nhưng vẫn muốn cố gắng đúng không?\""
+        "\"Em hiểu rõ điều đó nhưng vẫn muốn cố gắng đúng không?\""
       ],
       "jpchoice_data_list": [
         "『それをわかってて、頑張りたいんだよな』",
@@ -157,7 +157,7 @@
       "jptext": "――っ……！",
       "choice_data_list": [
         "\"Anh biết ngay là em sẽ nói thế mà\"",
-        "\"Tôi biết ngay là bạn sẽ nói thế mà\""
+        "\"Anh biết ngay là em sẽ nói thế mà\""
       ],
       "jpchoice_data_list": [
         "『君ならそう言うと思った』",
@@ -171,7 +171,7 @@
       "jptext": "ツルマルツヨシに渡された手紙を広げながら、資料を並べる。\n……栄養学の本を、こんなに読みこんだのは久々だ。",
       "choice_data_list": [
         "... Anh cũng nghĩ thế, anh muốn cùng cố gắng với em",
-        "... Tôi cũng nghĩ thế, tôi muốn cùng cố gắng với bạn"
+        "... Anh cũng nghĩ thế, anh muốn cùng cố gắng với em"
       ],
       "jpchoice_data_list": [
         "……俺も思ってるよ、君と頑張りたいって",
@@ -185,7 +185,7 @@
       "jptext": "ツルマルツヨシが提案した『ツヨシ、ラーメン10杯大作戦！』。\n意気込みは素晴らしいが……その作戦にはまだまだ穴も多い。",
       "choice_data_list": [
         "Thế nên anh quyết định gửi phương án cải thiện",
-        "Thế nên tôi gửi phương án cải thiện cho bạn nhé"
+        "Thế nên anh gửi phương án cải thiện cho em nhé"
       ],
       "jpchoice_data_list": [
         "だから改善案を送ることにした",
@@ -253,7 +253,7 @@
       "jptext": "みんなが進んでいるように――私も、私のゴールに近づきたくて。",
       "choice_data_list": [
         "Anh hiểu, vì thế anh sẽ soi sáng con đường của em",
-        "Tôi hiểu, vì thế tôi sẽ soi sáng con đường của bạn"
+        "Anh hiểu, vì thế anh sẽ soi sáng con đường của em"
       ],
       "jpchoice_data_list": [
         "わかってる、だから俺が君の道を照らす",
@@ -297,7 +297,7 @@
       "jptext": "でも、がんばることを諦めたくない。止まりたくない。\nアナタが正しい努力を教えてくれるなら、それで前に進みたい。",
       "choice_data_list": [
         "\"Ừ, anh cũng sẽ ở bên cạnh em cho đến cuối cùng\"",
-        "\"Ừ, tôi cũng sẽ ở bên cạnh bạn cho đến cuối cùng\""
+        "\"Ừ, anh cũng sẽ ở bên cạnh em cho đến cuối cùng\""
       ],
       "jpchoice_data_list": [
         "『うん、俺もその最後まで君の隣にいる』",
@@ -317,7 +317,7 @@
       "jptext": "……その責任から逃れる気はない。自分はこれから、\n体が弱く、競走生活も厳しくなるであろう子を茨の道に導くのだ。",
       "choice_data_list": [
         "Dù có chuyện gì xảy ra, anh cũng sẽ tiếp tục nâng đỡ em",
-        "Dù có chuyện gì xảy ra, tôi cũng sẽ tiếp tục nâng đỡ bạn"
+        "Dù có chuyện gì xảy ra, anh vẫn sẽ tiếp tục nâng đỡ em"
       ],
       "jpchoice_data_list": [
         "何があろうとも俺は君を支え続けるよ",
@@ -331,7 +331,7 @@
       "jptext": "――覚悟の上だ。彼女に道を示してしまった1人として、最後まで。\nお互いにレースから身を引いたとしても。彼女が頼れる相手として。",
       "choice_data_list": [
         "Những lúc em gặp khó khăn, anh nhất định sẽ giúp đỡ",
-        "Những lúc bạn gặp khó khăn, tôi nhất định sẽ giúp đỡ"
+        "Những lúc em gặp khó khăn, anh nhất định sẽ giúp đỡ"
       ],
       "jpchoice_data_list": [
         "君が困った時には、俺が必ず助ける",
@@ -345,7 +345,7 @@
       "jptext": "――……私には、アナタがいる。",
       "choice_data_list": [
         "\"Thế nên hãy cứ vững bước trên con đường em muốn đi! Tsuyoshi!!\"",
-        "\"Thế nên hãy cứ vững bước trên con đường bạn muốn đi! Tsuyoshi!!\""
+        "\"Thế nên hãy cứ vững bước trên con đường em muốn đi nhé! Tsuyoshi!!\""
       ],
       "jpchoice_data_list": [
         "『だから行きたい道へ行け！ツヨシ！！』",
@@ -433,7 +433,7 @@
       "jptext": "わっ、あっ、あ！！　トレーナーさん！！\nおはようございます！！　すみません今日は――",
       "choice_data_list": [
         "Ồ, Tsuyoshi! Nghe nói hôm nay em ngủ nướng hả!",
-        "A, Tsuyoshi! Nghe nói hôm nay bạn ngủ nướng hả!"
+        "A, Tsuyoshi! Nghe nói hôm nay em ngủ nướng hả!"
       ],
       "jpchoice_data_list": [
         "おっ、ツヨシ！今日は寝坊したらしいね！",

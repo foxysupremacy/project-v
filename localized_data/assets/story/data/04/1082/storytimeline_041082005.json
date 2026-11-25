@@ -1,296 +1,296 @@
 {
-  "title": "Nhà tạo mẫu chuyên biệt của \"em\"",
-  "jptitle": "「わたし」の、専属スタイリスト",
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Đó là một ngày nọ, một thời gian sau khi tôi chính thức trở thành Trainer phụ trách của North Flight.",
-      "jpname": "モノローグ",
-      "jptext": "それはノースフライトの担当トレーナーになって\nしばらく経った、ある日のことだった。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Hà... hà... hà... phùuuu! Được rồi, bài tập chạy đường trường hoàn thành!",
-      "jpname": "ノースフライト",
-      "jptext": "はぁっ、はぁっ、はぁっ……ふうぅ～～！\nよし、走り込み完了です！",
-      "choice_data_list": [
-        "Em vất vả rồi! Vậy tiếp theo là..."
-      ],
-      "jpchoice_data_list": [
-        "お疲れ様！じゃあ次は――"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "...Ư, suýt thì...",
-      "jpname": "ノースフライト",
-      "jptext": "……っ、とと……。",
-      "choice_data_list": [
-        "Flight! Em có sao không?"
-      ],
-      "jpchoice_data_list": [
-        "フライト！大丈夫？"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "A... em xin lỗi ạ. Em không sao đâu. Chỉ là hơi váng đầu một chút thôi.",
-      "jpname": "ノースフライト",
-      "jptext": "あぁ……ごめんなさい。大丈夫です。\nちょっと立ちくらみしただけなので。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Dạo này trời đột ngột nóng lên hẳn mà. Mình cũng phải thật cẩn thận trước sự chênh lệch nhiệt độ mới được!",
-      "jpname": "ノースフライト",
-      "jptext": "このところ一気に暑くなりましたからね。\n寒暖差にも、ちゃーんと気をつけませんと！",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Thường xuyên lau mồ hôi, bôi lại kem chống nắng, rồi không quên bổ sung nước và chất điện giải nữa... ực ực... hà...",
-      "jpname": "ノースフライト",
-      "jptext": "小まめな汗拭き、日焼け止めの塗り直し、\nそれから水分と電解質の補給も忘れずに……ごくごく……はぁ……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Đúng như em ấy nói. Dạo gần đây tiết trời ấm lên nhanh chóng, ánh nắng mặt trời cũng trở nên gay gắt hơn.",
-      "jpname": "モノローグ",
-      "jptext": "彼女の言うとおり。\n近頃は一気に暖かくなり、日差しも厳しくなっていた。",
-      "choice_data_list": [
-        "Buổi chiều chúng mình chuyển sang tập trong nhà nhé"
-      ],
-      "jpchoice_data_list": [
-        "午後は室内トレーニングにしようか"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Dạ... phải rồi. Không gắng gượng, không hấp tấp là điều quan trọng nhất mà. Đến chiều muộn khi trời mát mẻ hơn, chúng mình lại chạy ngoài trời nhé!",
-      "jpname": "ノースフライト",
-      "jptext": "そう……ですね。無理せず、焦らず、が大事ですよね。\n夕方、涼しくなったらまた外を走りましょう！",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Biện pháp chống nóng... sao. Thế nhưng với một người vốn cẩn thận chu toàn như North Flight, dường như mọi cách có thể làm em đều đã thực hiện cả rồi.",
-      "jpname": "モノローグ",
-      "jptext": "暑さ対策……か。しかし、元々しっかりしたノースフライトは、\nすでにやれる対策は、ほとんどやっているようだ。",
-      "choice_data_list": [
-        "(Còn điều gì có thể làm nữa không... đúng rồi!)"
-      ],
-      "jpchoice_data_list": [
-        "（他にやれることは……そうだ！）"
-      ]
-    },
-    {
-      "name": "",
-      "text": "\"Chị gái\" ở câu lạc bộ đào tạo mà North Flight từng theo học ngày trước. Nếu hỏi ý kiến chị ấy, biết đâu sẽ tìm ra giải pháp.",
-      "jpname": "モノローグ",
-      "jptext": "ノースフライトが昔、通っていた育成クラブの『お姉ちゃん』。\n彼女に相談すれば、なにか手立てが見つかるかもしれない。",
-      "choice_data_list": []
-    },
-    {
-      "name": "\"Chị Gái\"",
-      "text": "\"Trước đây con bé cũng từng mệt mỏi như vậy đấy. Xem chừng không chỉ vì cái nóng, mà mệt mỏi tích tụ chủ yếu là do tia cực tím gây ra\"",
-      "jpname": "『お姉ちゃん』",
-      "jptext": "『――あの子は以前も同じように体調を崩したことがありましたね。\nどうやら、暑さ以上に紫外線で疲労が蓄積されたようで』",
-      "choice_data_list": [
-        "Ra là vậy..."
-      ],
-      "jpchoice_data_list": [
-        "なるほど……"
-      ]
-    },
-    {
-      "name": "",
-      "text": "Những thông tin về thể trạng của North Flight được chị ấy chia sẻ. Dựa vào đó, tôi tìm tòi dưới một góc nhìn khác hẳn ngày thường và đi đến kết luận...",
-      "jpname": "モノローグ",
-      "jptext": "教えてもらったノースフライトの体質に関する情報。\nそれを元に、普段とは違う角度から調べてたどり着いたのは……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "...\"Kính râm\" sao anh?",
-      "jpname": "ノースフライト",
-      "jptext": "――“サングラス”ですか？",
-      "choice_data_list": [
-        "Có thể giúp giảm bớt gánh nặng cho cơ thể đấy"
-      ],
-      "jpchoice_data_list": [
-        "体の負担を軽減できるかも"
-      ]
-    },
-    {
-      "name": "",
-      "text": "Tổn hại do tia cực tím là một trong những nguyên nhân lớn gây suy nhược cơ thể. Lượng tia đi qua mắt chiếm phần đáng kể và còn gây căng thẳng cho não bộ nữa.",
-      "jpname": "モノローグ",
-      "jptext": "紫外線によるダメージは身体疲労の大きな一因になる。\n目から入るぶんも大きく、脳にもストレスを与えるそうだ。",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Dẫu vậy, đồ thể dục của trường kết hợp với kính râm quả là cách phối hiếm thấy.",
-      "jpname": "モノローグ",
-      "jptext": "とはいえ、学校のジャージにサングラス、\nというのは、あまり見ない組み合わせだ。",
-      "choice_data_list": [
-        "Nếu em không thích thì không ép..."
-      ],
-      "jpchoice_data_list": [
-        "嫌だったら無理にとは……"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Dạ đâu có, không hề ạ! Đúng là một kiểu phối hiếm gặp thật, nhưng đâu có vi phạm nội quy của trường đâu.",
-      "jpname": "ノースフライト",
-      "jptext": "いえ、そんなことありません！\n確かに珍しいコーデではありますが、校則違反でもありませんし。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Ở nước ngoài cũng có những quốc gia khuyến khích đeo kính râm khi đi học mà. Kính râm vốn là món phụ kiện ra đời từ tính ứng dụng thực tiễn...",
-      "jpname": "ノースフライト",
-      "jptext": "海外には通学にサングラスを推奨している国もあります。\nサングラスは、本来実用性から生まれたアイテム……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Có lẽ vì ấn tượng \"phụ kiện mùa hè\" quá sâu đậm nên em đã phần nào quên mất công dụng nguyên bản của nó rồi.",
-      "jpname": "ノースフライト",
-      "jptext": "『真夏の小物』というイメージが強すぎて、\nわたしは本来の用途を少し忘れていたのかもしれませんね。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Rất đáng để thử đấy ạ! Chúng mình thực hiện ngay thôi nào!",
-      "jpname": "ノースフライト",
-      "jptext": "試す価値はありそうです！\nさっそくやってみましょう！",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Ừm... đúng là mắt đỡ cay rát hẳn. Đeo vào rồi em mới nhận ra những tổn hại bấy lâu nay cứ tích tụ dần.",
-      "jpname": "ノースフライト",
-      "jptext": "うん……確かに目のひりひりが和らぎますね。\nかけて初めて気づけました。蓄積していたダメージに。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Lúc chạy thì tầm nhìn bị hạn chế nên cởi ra sẽ tốt hơn, nhưng chúng mình hãy thường xuyên chắn nắng và so sánh mức độ mệt mỏi xem sao nhé!",
-      "jpname": "ノースフライト",
-      "jptext": "走るときは視界が悪くなるので外したほうがよさそうですが、\n小まめに日差しをカットして、疲労度を比べてみましょう！",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "Flight bắt đầu đeo kính râm trong giờ nghỉ giải lao và khi di chuyển. Tiếp tục theo dõi việc luyện tập trong vài ngày...",
-      "jpname": "モノローグ",
-      "jptext": "フライトは休憩中や移動中にサングラスをかけるようになった。\n数日間、様子を見ながらトレーニングを続けていくと……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Hà, hà, hà, hà!",
-      "jpname": "ノースフライト",
-      "jptext": "――はっ、はっ、はっ、はっ！",
-      "choice_data_list": [
-        "Tốt lắm! Tăng tốc cực đại từ chỗ đó luôn nào!",
-        "Tốt lắm! Tăng tốc cực đại từ chỗ đó luôn nhé!"
-      ],
-      "jpchoice_data_list": [
-        "いいぞ！そこからトップスピードへ！",
-        "いいよ！そこからトップスピードへ！"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Vâng ạ! Haaaaa!",
-      "jpname": "ノースフライト",
-      "jptext": "はいっ！　はああぁぁーーっ！",
-      "choice_data_list": []
-    },
-    {
-      "name": "",
-      "text": "North Flight duy trì phong độ chạy rất tốt suốt chuỗi ngày qua. Trong lúc tập luyện em cũng không còn bị suy giảm thể lực nữa.",
-      "jpname": "モノローグ",
-      "jptext": "ノースフライトは連日いい走りを見せた。\nトレーニング中に体調を崩すこともない。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Sau khi tập xong người em vẫn thấy nhẹ nhõm. Chiến lược kính râm dường như hiệu quả thật rồi anh ơi!",
-      "jpname": "ノースフライト",
-      "jptext": "――トレーニング後も体が軽いです。\nサングラス作戦、効果アリみたいですね！",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Em cảm ơn anh nhiều nhé. Lời khuyên từ một góc nhìn hoàn toàn khác với em đã giúp ích rất nhiều đấy ạ.",
-      "jpname": "ノースフライト",
-      "jptext": "ありがとうございます。\nわたしとは別角度からのアドバイス、とっても助かりました。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Quả nhiên Trainer-san chính là nhà tạo mẫu chuyên biệt giúp em tỏa sáng mà.",
-      "jpname": "ノースフライト",
-      "jptext": "トレーナーさんはやはり、\nわたしを輝かせる専属スタイリストさんですね。",
-      "choice_data_list": [
-        "Giúp được em là anh vui rồi"
-      ],
-      "jpchoice_data_list": [
-        "役に立ててよかった"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Vâng ạ, nhờ mắt và não bớt mệt mỏi nên buổi tối em cũng ngủ ngon hơn nữa. Với lại, đeo vào trông cũng có chút hứng khởi hơn hẳn...",
-      "jpname": "ノースフライト",
-      "jptext": "はい、目や脳の疲れが減ったせいか夜の寝つきもいいんですよ。\nそれに、かけてるとちょっとモチベも上がるというか……。",
-      "choice_data_list": [
-        "Thời trang lắm đấy chứ em",
-        "Thời trang lắm đấy chứ bạn"
-      ],
-      "jpchoice_data_list": [
-        "おしゃれだもんな",
-        "おしゃれだもんね"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Đúng thế đấy ạ! Vừa luyện tập lại vừa sành điệu thì vui biết bao. Chiếc gọng đó được em chọn lựa tỉ mỉ từng milimét theo đường nét khuôn mặt đấy anh.",
-      "jpname": "ノースフライト",
-      "jptext": "そうなんです！　トレーニング中もおしゃれできると楽しくて。\nあれは、輪郭に合わせてミリ単位で選んだフレームなんですよ。",
-      "choice_data_list": [
-        "Hèn chi. Trông cực kỳ hợp với em luôn đấy!"
-      ],
-      "jpchoice_data_list": [
-        "どうりで。すっごく似合ってたよ！"
-      ]
-    },
-    {
-      "name": "North Flight",
-      "text": "Ủa, hợp đến thế cơ ạ? Hi hi hi... em cảm ơn anh nhé!",
-      "jpname": "ノースフライト",
-      "jptext": "まぁ、そんなにですか？\nふふふ……ありがとうございます！",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Hi hi, được khen thích quá đi mất♪ Nhắc mới nhớ, dạo gần đây em ít khi dùng chiếc kính này ghê...",
-      "jpname": "ノースフライト",
-      "jptext": "えへへ、褒められちゃった♪\nそういえばこれ、最近あんまり使ってなかったなぁ……。",
-      "choice_data_list": []
-    },
-    {
-      "name": "North Flight",
-      "text": "Ngắm kỹ lại thấy đẹp thật đấy...! Mùa này quyết định sẽ diện em ấy thường xuyên luôn♪",
-      "jpname": "ノースフライト",
-      "jptext": "改めて見るとやっぱりいい……！\n今シーズンはヘビロテ決定かなっ♪",
-      "choice_data_list": []
-    }
-  ]
+    "title": "Nhà tạo mẫu chuyên biệt của \"em\"",
+    "jptitle": "「わたし」の、専属スタイリスト",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Đó là một ngày nọ, một thời gian sau khi tôi chính thức trở thành Trainer phụ trách của North Flight.",
+            "jpname": "モノローグ",
+            "jptext": "それはノースフライトの担当トレーナーになって\nしばらく経った、ある日のことだった。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Hà... hà... hà... phùuuu! Được rồi, bài tập chạy đường trường hoàn thành!",
+            "jpname": "ノースフライト",
+            "jptext": "はぁっ、はぁっ、はぁっ……ふうぅ～～！\nよし、走り込み完了です！",
+            "choice_data_list": [
+                "Em vất vả rồi! Vậy tiếp theo là..."
+            ],
+            "jpchoice_data_list": [
+                "お疲れ様！じゃあ次は――"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "...Ư, suýt thì...",
+            "jpname": "ノースフライト",
+            "jptext": "……っ、とと……。",
+            "choice_data_list": [
+                "Flight! Em có sao không?"
+            ],
+            "jpchoice_data_list": [
+                "フライト！大丈夫？"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "A... em xin lỗi ạ. Em không sao đâu. Chỉ là hơi váng đầu một chút thôi.",
+            "jpname": "ノースフライト",
+            "jptext": "あぁ……ごめんなさい。大丈夫です。\nちょっと立ちくらみしただけなので。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Dạo này trời đột ngột nóng lên hẳn mà. Mình cũng phải thật cẩn thận trước sự chênh lệch nhiệt độ mới được!",
+            "jpname": "ノースフライト",
+            "jptext": "このところ一気に暑くなりましたからね。\n寒暖差にも、ちゃーんと気をつけませんと！",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Thường xuyên lau mồ hôi, bôi lại kem chống nắng, rồi không quên bổ sung nước và chất điện giải nữa... ực ực... hà...",
+            "jpname": "ノースフライト",
+            "jptext": "小まめな汗拭き、日焼け止めの塗り直し、\nそれから水分と電解質の補給も忘れずに……ごくごく……はぁ……。",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "Đúng như em ấy nói. Dạo gần đây tiết trời ấm lên nhanh chóng, ánh nắng mặt trời cũng trở nên gay gắt hơn.",
+            "jpname": "モノローグ",
+            "jptext": "彼女の言うとおり。\n近頃は一気に暖かくなり、日差しも厳しくなっていた。",
+            "choice_data_list": [
+                "Buổi chiều chúng ta chuyển sang tập trong nhà nhé"
+            ],
+            "jpchoice_data_list": [
+                "午後は室内トレーニングにしようか"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Dạ... phải rồi. Không gắng gượng, không hấp tấp là điều quan trọng nhất mà. Đến chiều muộn khi trời mát mẻ hơn, chúng mình lại chạy ngoài trời nhé!",
+            "jpname": "ノースフライト",
+            "jptext": "そう……ですね。無理せず、焦らず、が大事ですよね。\n夕方、涼しくなったらまた外を走りましょう！",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "Biện pháp chống nóng... sao. Thế nhưng với một người vốn cẩn thận chu toàn như North Flight, dường như mọi cách có thể làm em đều đã thực hiện cả rồi.",
+            "jpname": "モノローグ",
+            "jptext": "暑さ対策……か。しかし、元々しっかりしたノースフライトは、\nすでにやれる対策は、ほとんどやっているようだ。",
+            "choice_data_list": [
+                "(Còn điều gì có thể làm nữa không... đúng rồi!)"
+            ],
+            "jpchoice_data_list": [
+                "（他にやれることは……そうだ！）"
+            ]
+        },
+        {
+            "name": "",
+            "text": "\"Chị gái\" ở câu lạc bộ đào tạo mà North Flight từng theo học ngày trước. Nếu hỏi ý kiến chị ấy, biết đâu sẽ tìm ra giải pháp.",
+            "jpname": "モノローグ",
+            "jptext": "ノースフライトが昔、通っていた育成クラブの『お姉ちゃん』。\n彼女に相談すれば、なにか手立てが見つかるかもしれない。",
+            "choice_data_list": []
+        },
+        {
+            "name": "\"Chị Gái\"",
+            "text": "\"Trước đây con bé cũng từng mệt mỏi như vậy đấy. Xem chừng không chỉ vì cái nóng, mà mệt mỏi tích tụ chủ yếu là do tia cực tím gây ra\"",
+            "jpname": "『お姉ちゃん』",
+            "jptext": "『――あの子は以前も同じように体調を崩したことがありましたね。\nどうやら、暑さ以上に紫外線で疲労が蓄積されたようで』",
+            "choice_data_list": [
+                "Ra là vậy..."
+            ],
+            "jpchoice_data_list": [
+                "なるほど……"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Những thông tin về thể trạng của North Flight được chị ấy chia sẻ. Dựa vào đó, tôi tìm tòi dưới một góc nhìn khác hẳn ngày thường và đi đến kết luận...",
+            "jpname": "モノローグ",
+            "jptext": "教えてもらったノースフライトの体質に関する情報。\nそれを元に、普段とは違う角度から調べてたどり着いたのは……。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "...\"Kính râm\" sao anh?",
+            "jpname": "ノースフライト",
+            "jptext": "――“サングラス”ですか？",
+            "choice_data_list": [
+                "Có thể giúp giảm bớt gánh nặng cho cơ thể đấy"
+            ],
+            "jpchoice_data_list": [
+                "体の負担を軽減できるかも"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Tổn hại do tia cực tím là một trong những nguyên nhân lớn gây suy nhược cơ thể. Lượng tia đi qua mắt chiếm phần đáng kể và còn gây căng thẳng cho não bộ nữa.",
+            "jpname": "モノローグ",
+            "jptext": "紫外線によるダメージは身体疲労の大きな一因になる。\n目から入るぶんも大きく、脳にもストレスを与えるそうだ。",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "Dẫu vậy, đồ thể dục của trường kết hợp với kính râm quả là cách phối hiếm thấy.",
+            "jpname": "モノローグ",
+            "jptext": "とはいえ、学校のジャージにサングラス、\nというのは、あまり見ない組み合わせだ。",
+            "choice_data_list": [
+                "Nếu em không thích thì không ép..."
+            ],
+            "jpchoice_data_list": [
+                "嫌だったら無理にとは……"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Dạ đâu có, không hề ạ! Đúng là một kiểu phối hiếm gặp thật, nhưng đâu có vi phạm nội quy của trường đâu.",
+            "jpname": "ノースフライト",
+            "jptext": "いえ、そんなことありません！\n確かに珍しいコーデではありますが、校則違反でもありませんし。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Ở nước ngoài cũng có những quốc gia khuyến khích đeo kính râm khi đi học mà. Kính râm vốn là món phụ kiện ra đời từ tính ứng dụng thực tiễn...",
+            "jpname": "ノースフライト",
+            "jptext": "海外には通学にサングラスを推奨している国もあります。\nサングラスは、本来実用性から生まれたアイテム……。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Có lẽ vì ấn tượng \"phụ kiện mùa hè\" quá sâu đậm nên em đã phần nào quên mất công dụng nguyên bản của nó rồi.",
+            "jpname": "ノースフライト",
+            "jptext": "『真夏の小物』というイメージが強すぎて、\nわたしは本来の用途を少し忘れていたのかもしれませんね。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Rất đáng để thử đấy ạ! Chúng mình thực hiện ngay thôi nào!",
+            "jpname": "ノースフライト",
+            "jptext": "試す価値はありそうです！\nさっそくやってみましょう！",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Ừm... đúng là mắt đỡ cay rát hẳn. Đeo vào rồi em mới nhận ra những tổn hại bấy lâu nay cứ tích tụ dần.",
+            "jpname": "ノースフライト",
+            "jptext": "うん……確かに目のひりひりが和らぎますね。\nかけて初めて気づけました。蓄積していたダメージに。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Lúc chạy thì tầm nhìn bị hạn chế nên cởi ra sẽ tốt hơn, nhưng chúng mình hãy thường xuyên chắn nắng và so sánh mức độ mệt mỏi xem sao nhé!",
+            "jpname": "ノースフライト",
+            "jptext": "走るときは視界が悪くなるので外したほうがよさそうですが、\n小まめに日差しをカットして、疲労度を比べてみましょう！",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "Flight bắt đầu đeo kính râm trong giờ nghỉ giải lao và khi di chuyển. Tiếp tục theo dõi việc luyện tập trong vài ngày...",
+            "jpname": "モノローグ",
+            "jptext": "フライトは休憩中や移動中にサングラスをかけるようになった。\n数日間、様子を見ながらトレーニングを続けていくと……。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Hà, hà, hà, hà!",
+            "jpname": "ノースフライト",
+            "jptext": "――はっ、はっ、はっ、はっ！",
+            "choice_data_list": [
+                "Tốt lắm! Tăng tốc cực đại từ chỗ đó luôn nào!",
+                "Tốt lắm! Tăng tốc cực đại từ chỗ đó luôn nhé!"
+            ],
+            "jpchoice_data_list": [
+                "いいぞ！そこからトップスピードへ！",
+                "いいよ！そこからトップスピードへ！"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Vâng ạ! Haaaaa!",
+            "jpname": "ノースフライト",
+            "jptext": "はいっ！　はああぁぁーーっ！",
+            "choice_data_list": []
+        },
+        {
+            "name": "",
+            "text": "North Flight duy trì phong độ chạy rất tốt suốt chuỗi ngày qua. Trong lúc tập luyện em cũng không còn bị suy giảm thể lực nữa.",
+            "jpname": "モノローグ",
+            "jptext": "ノースフライトは連日いい走りを見せた。\nトレーニング中に体調を崩すこともない。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Sau khi tập xong người em vẫn thấy nhẹ nhõm. Chiến lược kính râm dường như hiệu quả thật rồi anh ơi!",
+            "jpname": "ノースフライト",
+            "jptext": "――トレーニング後も体が軽いです。\nサングラス作戦、効果アリみたいですね！",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Em cảm ơn anh nhiều nhé. Lời khuyên từ một góc nhìn hoàn toàn khác với em đã giúp ích rất nhiều đấy ạ.",
+            "jpname": "ノースフライト",
+            "jptext": "ありがとうございます。\nわたしとは別角度からのアドバイス、とっても助かりました。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Quả nhiên Trainer-san chính là nhà tạo mẫu chuyên biệt giúp em tỏa sáng mà.",
+            "jpname": "ノースフライト",
+            "jptext": "トレーナーさんはやはり、\nわたしを輝かせる専属スタイリストさんですね。",
+            "choice_data_list": [
+                "Giúp được em là anh vui rồi"
+            ],
+            "jpchoice_data_list": [
+                "役に立ててよかった"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Vâng ạ, nhờ mắt và não bớt mệt mỏi nên buổi tối em cũng ngủ ngon hơn nữa. Với lại, đeo vào trông cũng có chút hứng khởi hơn hẳn...",
+            "jpname": "ノースフライト",
+            "jptext": "はい、目や脳の疲れが減ったせいか夜の寝つきもいいんですよ。\nそれに、かけてるとちょっとモチベも上がるというか……。",
+            "choice_data_list": [
+                "Thời trang lắm đấy chứ em",
+                "Thời trang lắm đấy chứ em"
+            ],
+            "jpchoice_data_list": [
+                "おしゃれだもんな",
+                "おしゃれだもんね"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Đúng thế đấy ạ! Vừa luyện tập lại vừa sành điệu thì vui biết bao. Chiếc gọng đó được em chọn lựa tỉ mỉ từng milimét theo đường nét khuôn mặt đấy anh.",
+            "jpname": "ノースフライト",
+            "jptext": "そうなんです！　トレーニング中もおしゃれできると楽しくて。\nあれは、輪郭に合わせてミリ単位で選んだフレームなんですよ。",
+            "choice_data_list": [
+                "Hèn chi. Trông cực kỳ hợp với em luôn đấy!"
+            ],
+            "jpchoice_data_list": [
+                "どうりで。すっごく似合ってたよ！"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Ủa, hợp đến thế cơ ạ? Hi hi hi... em cảm ơn anh nhé!",
+            "jpname": "ノースフライト",
+            "jptext": "まぁ、そんなにですか？\nふふふ……ありがとうございます！",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Hi hi, được khen thích quá đi mất♪ Nhắc mới nhớ, dạo gần đây em ít khi dùng chiếc kính này ghê...",
+            "jpname": "ノースフライト",
+            "jptext": "えへへ、褒められちゃった♪\nそういえばこれ、最近あんまり使ってなかったなぁ……。",
+            "choice_data_list": []
+        },
+        {
+            "name": "North Flight",
+            "text": "Ngắm kỹ lại thấy đẹp thật đấy...! Mùa này quyết định sẽ diện em ấy thường xuyên luôn♪",
+            "jpname": "ノースフライト",
+            "jptext": "改めて見るとやっぱりいい……！\n今シーズンはヘビロテ決定かなっ♪",
+            "choice_data_list": []
+        }
+    ]
 }

@@ -92,8 +92,8 @@
       "jpname": "学園スタッフ",
       "jptext": "肝試し大会にご参加のかた～、エントリーはこちらになります～！",
       "choice_data_list": [
-        "Ồ, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Mình đi thôi!",
-        "A, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Tụi mình đi thôi!"
+        "Ồ, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Chúng ta đi thôi!",
+        "Ồ, có vẻ đã bắt đầu tiếp nhận đăng ký rồi. Chúng ta đi thôi!"
       ],
       "jpchoice_data_list": [
         "お、受付が始まったみたいだ。行こうか！",
@@ -167,7 +167,7 @@
       "jptext": "かなり張り詰めた様子を不思議に思う。と、\n固く握った彼女の手が、微かに震えているのに気づいてしまった。",
       "choice_data_list": [
         "(Chẳng lẽ…… em ấy sợ bóng tối sao?)",
-        "(Chẳng lẽ…… em sợ bóng tối à?)"
+        "(Chẳng lẽ…… em ấy sợ bóng tối sao?)"
       ],
       "jpchoice_data_list": [
         "（もしかして……暗闇が怖いのか？）",
@@ -211,7 +211,7 @@
       "jptext": "驚かせたかもしれないが、気にせず声をかけ続ける。\n自分にできるのは、彼女を奮い立たせてあげることだけだから。",
       "choice_data_list": [
         "Chẳng ai có thể đánh bại được em đâu!",
-        "Không ai có thể thắng được em đâu!"
+        "Chẳng ai có thể đánh bại được em đâu!"
       ],
       "jpchoice_data_list": [
         "君相手に勝てるものなんていない！",
@@ -220,12 +220,12 @@
     },
     {
       "name": "Durandal",
-      "text": "……A, Trainer……",
+      "text": "……A, Trainer-dono……",
       "jpname": "デュランダル",
       "jptext": "……っ、トレーナー殿……っ。",
       "choice_data_list": [
         "Chỉ cần có em ở bên thì tôi chẳng sợ hãi điều gì!",
-        "Có em ở bên thì tôi chẳng còn sợ gì nữa!"
+        "Chỉ cần có em ở bên thì tôi chẳng sợ hãi điều gì!"
       ],
       "jpchoice_data_list": [
         "君がいれば、俺も怖いものはないよ！",
@@ -263,7 +263,7 @@
       "jptext": "はぁっ、はぁっ、はぁっ――",
       "choice_data_list": [
         "Đỉnh quá! Trong chớp mắt đã qua rồi!",
-        "Đỉnh ghê! Loáng một cái là xong rồi!"
+        "Đỉnh quá! Trong chớp mắt đã qua rồi!"
       ],
       "jpchoice_data_list": [
         "すごい！あっという間だったな！",
@@ -277,7 +277,7 @@
       "jptext": "当然……っ、ですっ。\n我が『聖剣』にかかれば、あのような森ごとき――",
       "choice_data_list": [
         "Giờ chỉ cần vào cái hang kia lấy bùa trừ tà nữa là xong!",
-        "Giờ chỉ cần vào cái hang kia lấy lá bùa nữa là xong rồi!"
+        "Giờ chỉ cần vào cái hang kia lấy bùa trừ tà nữa là xong!"
       ],
       "jpchoice_data_list": [
         "あとはあの洞窟でお札をもらうだけだ！",
@@ -310,7 +310,7 @@
     },
     {
       "name": "Durandal",
-      "text": "…………Trainer……",
+      "text": "…………Trainer-dono……",
       "jpname": "デュランダル",
       "jptext": "…………トレーナー殿……。"
     },
@@ -357,7 +357,7 @@
       "jptext": "彼女が求めているのは、誇り高く勇敢な騎士としての自分だ。\nであるなら、そうではない姿など暴くべきではない。",
       "choice_data_list": [
         "Cảm ơn em, tôi chỉ còn biết trông cậy vào em thôi",
-        "Cảm ơn em nhé, tôi chỉ còn biết dựa vào em thôi"
+        "Cảm ơn em, tôi chỉ còn biết trông cậy vào em thôi"
       ],
       "jpchoice_data_list": [
         "ありがとう、君だけが頼りだ",
@@ -408,7 +408,7 @@
     },
     {
       "name": "Durandal",
-      "text": "(Quả nhiên, nếu là cùng với Trainer thì mình……)",
+      "text": "(Quả nhiên, nếu là cùng với Trainer-dono thì mình……)",
       "jpname": "デュランダル",
       "jptext": "（やはり、トレーナー殿となら私は……）"
     },

@@ -4,11 +4,11 @@
   "text_block_list": [
     {
       "name": "",
-      "text": "Ôm chồng tài liệu dày cộm trên tay, tôi vội vã rảo bước về phía phòng Huấn luyện viên.",
+      "text": "Ôm chồng tài liệu dày cộm trên tay, tôi vội vã rảo bước về phía phòng Trainer.",
       "jpname": "モノローグ",
       "jptext": "大量の資料を抱え、トレーナー室への道を急ぐ。",
       "choice_data_list": [
-        "(Hôm nay liệu mình có thể quyết định được ứng viên muốn tuyển mộ không đây?)"
+        "(Hôm nay liệu tôi có thể quyết định được ứng viên muốn tuyển mộ không đây?)"
       ],
       "jpchoice_data_list": [
         "（スカウト候補、今日こそ決められるかな）"
@@ -16,12 +16,12 @@
     },
     {
       "name": "",
-      "text": "Nỗi âu lo của một Huấn luyện viên tân binh khiến tôi cứ mãi tốn thời gian vào khâu chuẩn bị... đến mức chẳng thể cất lời bắt chuyện với bất kỳ Mã Nương nào.",
+      "text": "Nỗi âu lo của một Trainer tân binh khiến tôi cứ mãi tốn thời gian vào khâu chuẩn bị... đến mức chẳng thể cất lời bắt chuyện với bất kỳ Mã Nương nào.",
       "jpname": "モノローグ",
       "jptext": "新人トレーナーゆえの不安から、準備ばかりに時間をかけ…… ウマ娘に声をかけることすら、なかなかできなかった。",
       "choice_data_list": [
-        "(Mình... đúng là nhát gan thật đấy.)",
-        "(Mình... đúng là nhát gan thật đấy.)"
+        "(Tôi... đúng là nhát gan thật đấy.)",
+        "(Tôi... đúng là nhát gan thật đấy.)"
       ],
       "jpchoice_data_list": [
         "（俺って……本当に、小心者だな）",
@@ -96,7 +96,7 @@
     },
     {
       "name": "",
-      "text": "Một tài năng xuất chúng nhường này, chắc hẳn đã có một Huấn luyện viên ưu tú đồng hành rồi. Mình chẳng có tư cách chen vào đâu―― Đúng lúc tôi ôm lại xấp tài liệu và quay gót bước đi thì...",
+      "text": "Một tài năng xuất chúng nhường này, chắc hẳn đã có một Trainer ưu tú đồng hành rồi. Tôi chẳng có tư cách chen vào đâu―― Đúng lúc tôi ôm lại xấp tài liệu và quay gót bước đi thì...",
       "jpname": "モノローグ",
       "jptext": "これほどの逸材だ。すでに優秀なトレーナーがついてるに違いない。 自分の出る幕ではない――資料を抱えなおし、踵を返した時だった。"
     },
@@ -106,7 +106,7 @@
       "jpname": "モノローグ",
       "jptext": "（びゅおおおお……っ！！）",
       "choice_data_list": [
-        "(A, tài liệu của mình...!)"
+        "(A, tài liệu của tôi...!)"
       ],
       "jpchoice_data_list": [
         "（あぁっ、資料が……！）"
@@ -190,8 +190,8 @@
       "jpname": "モノローグ",
       "jptext": "彼女の射抜くような瞳の輝きに、ハートがひとつ高鳴った。 もし……本当に。自分の分析データが、役に立つのなら……――",
       "choice_data_list": [
-        "Được rồi... anh hiểu rồi, anh sẽ cho em mượn!",
-        "Vâng... tôi hiểu rồi, tôi sẽ cho bạn mượn!"
+        "Được rồi... tôi hiểu rồi, tôi sẽ cho cô mượn!",
+        "Vâng... tôi hiểu rồi, tôi sẽ cho cô mượn!"
       ],
       "jpchoice_data_list": [
         "ああ……わかった、君に貸すよ！",
@@ -240,8 +240,8 @@
       "jpname": "デアリングハート",
       "jptext": "並走ってこと？　その自転車で？",
       "choice_data_list": [
-        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của em ở cự ly gần nhất!",
-        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của bạn ở cự ly gần nhất!"
+        "Đúng vậy...! Tôi muốn được ngắm nhìn những bước chạy của cô ở cự ly gần nhất!",
+        "Phải rồi...! Tôi muốn được ngắm nhìn những bước chạy của cô ở cự ly gần nhất!"
       ],
       "jpchoice_data_list": [
         "ああ……！君の走りを、近くで見たいんだ！",

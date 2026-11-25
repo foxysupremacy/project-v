@@ -1,484 +1,484 @@
 {
-  "title": "Tập 2",
-  "jptitle": "第2話",
-  "text_block_list": [
-    {
-      "name": "",
-      "text": "Vào một ngày nghỉ, khi tôi ra khu phố mua sắm để mua đồ thì――",
-      "jpname": "モノローグ",
-      "jptext": "休日、買い物をすべく商店街へ行くと――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ồ kìa, chẳng phải Trainer-kun sao.",
-      "jpname": "アグネスタキオン",
-      "jptext": "おや、トレーナー君じゃないか。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Chẳng lẽ ngươi đến đây để xách đồ giúp ta đấy à? Kha kha, đáng khen đáng khen! Cứ thỏa sức mà cống hiến nhé.",
-      "jpname": "アグネスタキオン",
-      "jptext": "もしや荷物持ちをしに来たのかい？\nククッ、感心感心！　存分に働きたまえ。",
-      "choice_data_list": [
-        "Tôi chỉ đi mua sắm đồ của mình thôi mà……",
-        "Tôi chỉ đi mua sắm đồ của mình thôi đấy chứ……"
-      ],
-      "jpchoice_data_list": [
-        "自分の買い物に来ただけなんだが……",
-        "自分の買い物に来ただけなんだけど……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Gì chứ, chẳng sao cả. Cứ tiện thể mua luôn thể. Ta đâu phải là một Mã Nương hẹp hòi đến thế đâu!",
-      "jpname": "アグネスタキオン",
-      "jptext": "なーに、構わないよ。ついでに済ますといい。\n私はそんなに心の狭いウマ娘ではないからね！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "……Rốt cuộc tôi lại phải đi theo tháp tùng Agnes Tachyon mua sắm.",
-      "jpname": "モノローグ",
-      "jptext": "……結局、アグネスタキオンの買い物に付き合うことになった。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Chỉ một quả cà chua thôi cũng hấp thụ được kha khá chất dinh dưỡng rồi, nhưng thế vẫn chưa đủ, cơ thể này bất tiện thật đấy.",
-      "jpname": "アグネスタキオン",
-      "jptext": "トマト1つで、そこそこの栄養が摂取できるが、\nそれでも足りないのがこの体の不便なところだな。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Cà chua và…… mua thêm 3 phần ức gà hấp cho món salad nữa nào. Không có nguồn protein thì cơ bắp chẳng thể nào phát triển được.",
-      "jpname": "アグネスタキオン",
-      "jptext": "トマトと……あとはサラダ用の蒸されたチキンも3つ買おう。\nたんぱく源がなければ筋肉機能の成長は見込めない。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Aizz, phiền phức thật đấy. Giá mà bổ sung tất cả bằng thực phẩm chức năng được thì vừa chẳng phí thời gian lại vừa xong trong nháy mắt.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ああ、面倒だ。全てサプリメントで賄えれば、\n時間もムダにせず一瞬で済むというのに。",
-      "choice_data_list": [
-        "Uống thực phẩm chức năng thì nhạt nhẽo lắm",
-        "Chỉ uống thực phẩm chức năng thì vô vị lắm"
-      ],
-      "jpchoice_data_list": [
-        "サプリじゃ味気ないぞ",
-        "サプリじゃ味気ないよ"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Này này, ăn uống chẳng qua chỉ là hành vi bù đắp lượng dinh dưỡng còn thiếu hụt thôi mà?",
-      "jpname": "アグネスタキオン",
-      "jptext": "おいおい、食事とは不足している栄養を補うための行為だよ？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Phần lớn chất dinh dưỡng dù ăn sống cũng đều hấp thụ vào cơ thể được. Dù mấy chất như lycopene thì qua chế biến sẽ hấp thụ được nhiều hơn.",
-      "jpname": "アグネスタキオン",
-      "jptext": "大方の栄養素は、生で食べても体内に入る。\nリコピンなどは、加工品の方が多く摂取できるがね。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Hơi đâu mà nấu nướng cơ chứ, thường ngày ta cứ tống bừa đồ mua được vào máy xay rồi uống ực một hơi là xong.",
-      "jpname": "アグネスタキオン",
-      "jptext": "料理なんてしてられないし、私は普段、\n買ったものを適当にミキサーに放り込んで飲み干してるよ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ta không muốn tốn công sức dư thừa cho hành vi nạp dinh dưỡng qua đường miệng đơn thuần đâu. Thời gian là hữu hạn đấy, Trainer-kun!",
-      "jpname": "アグネスタキオン",
-      "jptext": "経口から補給するだけの行為に、余分な手間を取られたくない。\n時間は有限なのだよ、トレーナー君！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "……Càng nghe Agnes Tachyon nói, tôi lại càng thấy lo lắng cho thói quen ăn uống của em ấy hơn.",
-      "jpname": "モノローグ",
-      "jptext": "……アグネスタキオンの話を聞けば聞くほど、\n彼女の食生活が心配になってきた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Hà. Nếu căn tin mà mở cửa quanh năm suốt tháng thì ta đã chẳng phải làm mấy việc phiền phức này rồi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "はぁ。カフェテリアが年中無休で営業していれば、\nこんな面倒なことをせずに済むのになー。",
-      "choice_data_list": [
-        "Để tôi nấu cho em nhé?",
-        "Để tôi nấu cho cô nhé?"
-      ],
-      "jpchoice_data_list": [
-        "俺が作ろうか？",
-        "私が作ろうか？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ngươi nấu cơm cho ta ư? Ha ha! Nên gọi là tận tụy hay là phục tùng đây nhỉ.",
-      "jpname": "アグネスタキオン",
-      "jptext": "君が食事を？　ハハッ！\n献身的と言うべきか、従属的と言うべきか。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Qua các thí nghiệm từ trước tới giờ, cũng không loại trừ khả năng hành vi cống hiến hết mình này đã trở thành một dạng nghiện ngập đối với ta rồi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "これまでの実験を経て、尽くすという行為が私への\nアディクションとなっている可能性も否定できないな。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Kha kha, được thôi. Dù sao cũng chẳng cướp mất thời gian của ta, đề xuất không tồi chút nào.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ククッ、いいだろう。\n私の時間が奪われるわけでもなし、悪くない提案だ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Được rồi, bữa tối nay ta giao cho ngươi đấy. Cứ việc tận tâm cống hiến đừng ngại ngần!",
-      "jpname": "アグネスタキオン",
-      "jptext": "わかった、夕食は君に任せてみよう。\n遠慮なく尽くしたまえ！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "À, bữa ăn mà chỉ toàn calo cao chót vót mất cân đối là không xong đâu đấy nhé. Phải chuẩn bị có tính toán đến cân bằng dinh dưỡng đấy.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ああ、熱量ばかりが高い偏った食事になっては困るぞ。\n栄養バランスを考えて用意するように。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Thế là tôi đành chuẩn bị cơm cho Agnes Tachyon――",
-      "jpname": "モノローグ",
-      "jptext": "そうしてアグネスタキオンのため、\n食事を用意することになり――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Gọi ta ra vào giờ này rốt cuộc là có việc gì thế?",
-      "jpname": "アグネスタキオン",
-      "jptext": "こんな時間に呼び出すなんて、何の用だい？",
-      "choice_data_list": [
-        "Tôi mang cơm hộp đến cho em đây",
-        "Tôi mang cơm hộp đến cho cô đây"
-      ],
-      "jpchoice_data_list": [
-        "お弁当を持ってきたぞ",
-        "お弁当を持ってきたよ"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ồ, nhắc mới nhớ! Mải mê nghiên cứu quá nên ta quên béng mất cả chuyện ăn uống.",
-      "jpname": "アグネスタキオン",
-      "jptext": "おお、そういえば！\n研究に夢中になって、食事のことを忘れてたよ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Thực ra ta vừa quay lại những điều cơ bản một chút đấy. Nếu muốn tìm kiếm tốc độ vượt qua vận tốc ánh sáng như một tiềm năng của Mã Nương, thì bốn vector động lượng――",
-      "jpname": "アグネスタキオン",
-      "jptext": "実は少し基本に立ち戻ってみてね。いわゆる光速を超える速さを\nウマ娘の可能性として求めるならば、4元運動量の――",
-      "choice_data_list": [
-        "C-Chuyện đó để sau hãy nói!"
-      ],
-      "jpchoice_data_list": [
-        "は、話はまた今度で！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Gì thế, sao mà cuống quýt lên vậy. Mà thôi, nghiên cứu đang vào hồi gay cấn. Lượt của ngươi phải đợi thêm một chút nữa, nhưng cứ việc háo hức mong chờ đi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "なんだい、落ち着きのない。まぁいい、研究がいいところなんだ。\n君の出番はもう少し先になるが、楽しみにしてるといい。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Hộp cơm này ta sẽ ăn tạm vậy. Bởi vì tiếp theo đây ta lại phải tiếp tục nghiên cứu nữa rồi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "弁当は適当にいただくよ。\nこれからまた研究の続きをしなくてはならないのでね。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Và rồi, sáng hôm sau――",
-      "jpname": "モノローグ",
-      "jptext": "そして、翌朝――",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "(Cạch)",
-      "jpname": "モノローグ",
-      "jptext": "（ガラッ）",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Oáp…… hà. Chào buổi sáng nhé, Trainer-kun. Này, trả lại ngươi cái này.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ふわぁ……はぁ。おはよう、トレーナー君。\nほら、これを返すよ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Agnes Tachyon dúi vào tay tôi hộp cơm mà tôi đã đưa cho em ấy hôm qua.",
-      "jpname": "モノローグ",
-      "jptext": "アグネスタキオンから、\n昨日渡した弁当箱を押し付けられた。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Vitamin, khoáng chất, protein…… lipid và carbohydrate, tất cả đều có hàm lượng vừa phải. Độ cân bằng dinh dưỡng đạt điểm chuẩn đấy.",
-      "jpname": "アグネスタキオン",
-      "jptext": "ビタミン、ミネラル、タンパク質……脂質に糖質、\nどれも適度に含まれていた。バランスは合格点だ。",
-      "choice_data_list": [
-        "Vị ăn thế nào?"
-      ],
-      "jpchoice_data_list": [
-        "味はどうだった？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ăn cũng không tệ. Nhưng xét về tiêu chuẩn một hộp cơm thì có hai điểm cần cải thiện.",
-      "jpname": "アグネスタキオン",
-      "jptext": "悪くはなかったね。\nだが、弁当としては2つほど改善すべき点がある。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Điểm thứ nhất, ta ăn giữa lúc làm thí nghiệm nên việc dùng đũa có phần hơi vướng víu. Hãy nghĩ cách cải tiến đi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "まず1点目、実験の合間に食したが、\n箸を使うのはいささか煩わしい。工夫してくれ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Điểm thứ hai là lượng cơm trắng. Cơm ít quá so với lượng thức ăn kèm. Xét về mặt cân bằng thì nên tăng thêm cơm nữa.",
-      "jpname": "アグネスタキオン",
-      "jptext": "2点目は白米の量だ。おかずの量に対して米が少なすぎる。\nバランス的にはもっと増やしてもいいだろう。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Phần của hôm nay thì đành chịu rồi, nhưng từ lần sau hãy cải thiện theo đó nhé.",
-      "jpname": "アグネスタキオン",
-      "jptext": "今日の分は仕方ないが、次回から改善するよう頼むよ。",
-      "choice_data_list": [
-        "Phần của hôm nay là sao cơ?"
-      ],
-      "jpchoice_data_list": [
-        "今日の分って？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Đương nhiên là bữa sáng rồi. Ngươi đã chuẩn bị sẵn rồi đúng không?",
-      "jpname": "アグネスタキオン",
-      "jptext": "もちろん朝食だ。\n用意しているのだろう？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ta lại phải quay lại phòng thí nghiệm ngay đây. Nào, mau mang ra đây xem nào.",
-      "jpname": "アグネスタキオン",
-      "jptext": "私はまたラボに戻らなくてはならないんだ。\nほら、さっさと出したまえ。",
-      "choice_data_list": [
-        "Làm gì có đâu……"
-      ],
-      "jpchoice_data_list": [
-        "ないけど……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "C-Cái gì cơ!?",
-      "jpname": "アグネスタキオン",
-      "jptext": "な、なんだって！？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Không chuẩn bị đồ ăn là trò đùa kiểu quái gì thế hả! Người ta đã cất công tạm dừng nghiên cứu để đến đây nhận cơm rồi vậy mà……!",
-      "jpname": "アグネスタキオン",
-      "jptext": "食事を用意していないなんて、一体なんの冗談だ！\nわざわざ研究途中で受け取りに来てやったのに……！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ngươi đã hứa là sẽ chuẩn bị cơm cho ta rồi cơ mà!",
-      "jpname": "アグネスタキオン",
-      "jptext": "君、私の食事を用意すると約束しただろう！",
-      "choice_data_list": [
-        "Hôm nay tôi đâu có hứa đâu……"
-      ],
-      "jpchoice_data_list": [
-        "今日はしてないし……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ơ kìa!?",
-      "jpname": "アグネスタキオン",
-      "jptext": "えー！？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Lần nào cũng phải giao hẹn từng bữa một đấy à!? Làm thế thì kém hiệu quả quá mức!",
-      "jpname": "アグネスタキオン",
-      "jptext": "いちいち毎回約束をしろってのかい！？\nそんなの効率が悪すぎる！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Chăm sóc cho ta là nghĩa vụ của ngươi cơ mà! Nào, mau kiếm cơm cho ta ăn đi chứ!",
-      "jpname": "アグネスタキオン",
-      "jptext": "私の面倒をみるのは君の役目だろう！\nほら、さっさと私にご飯を食べさせろ！",
-      "choice_data_list": [
-        "Vậy thì để đến bữa trưa tôi làm món gì đó cho nhé……"
-      ],
-      "jpchoice_data_list": [
-        "じゃあ、昼食までに何か作るから……"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Ngay! Bây! Giờ! Ta muốn ăn ngay bây giờ cơ.",
-      "jpname": "アグネスタキオン",
-      "jptext": "い・ま！　私はいま食べたいんだ。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Khao khát này chỉ có thể được giải tỏa bằng cách lấp đầy bụng đói, hoặc là lôi ngươi ra làm đủ loại thí nghiệm mà thôi.",
-      "jpname": "アグネスタキオン",
-      "jptext": "この欲求は腹を満たすか、君にあらゆる実験を行うことでしか\n解消されることはないだろう。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Nào, chọn đi. Chuẩn bị đồ ăn, hay là bị đem ra làm thí nghiệm.",
-      "jpname": "アグネスタキオン",
-      "jptext": "さぁ、選択したまえ。食事を用意するか、実験されるか。",
-      "choice_data_list": [
-        "Đ-Đồ ăn!"
-      ],
-      "jpchoice_data_list": [
-        "し、食事！"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Được lắm. Vậy thì thí nghiệm dời sang buổi chiều, trước hết cứ lo bữa sáng đã.",
-      "jpname": "アグネスタキオン",
-      "jptext": "いいだろう。\nでは実験は午後にまわすということで、まずは朝食だ。",
-      "choice_data_list": [
-        "Rốt cuộc cô vẫn tính làm thí nghiệm à!?",
-        "Rốt cuộc em vẫn tính làm thí nghiệm à!?"
-      ],
-      "jpchoice_data_list": [
-        "結局実験もするのか！？",
-        "結局実験もするの！？"
-      ],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Tất nhiên rồi. Đó là nghĩa vụ của ngươi với tư cách chuột bạch. Còn chuẩn bị đồ ăn là nghĩa vụ với tư cách Trainer mà, đúng không?",
-      "jpname": "アグネスタキオン",
-      "jptext": "するとも。それはモルモットとしての君の役目。\n食事はトレーナーとしての役目だろう？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Đi ra căn tin thì phiền chết đi được. Trong lúc chờ ngươi làm đồ ăn thì ta chợp mắt một lát vậy.",
-      "jpname": "アグネスタキオン",
-      "jptext": "カフェテリアまで行くのは面倒だしな。\n私は食事が用意されるまで、仮眠するとしよう。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Yên tâm, ta chẳng đòi hỏi xa hoa gì đâu. Cứ lấy nguyên liệu thừa hôm qua mà nấu. Vẫn còn sót lại đúng không?",
-      "jpname": "アグネスタキオン",
-      "jptext": "何、贅沢は言わないさ。昨日の食材の余りを使うといい。\nまだ残っているだろう？",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "Agnes Tachyon",
-      "text": "Nào, mauu lênnn. Mauu lênnn làm cho ta ăn điii!",
-      "jpname": "アグネスタキオン",
-      "jptext": "ほら、はーやーくー。はーやーくー作ってくれよー！",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    },
-    {
-      "name": "",
-      "text": "Em ấy chịu ăn uống tử tế thì tốt thật đấy, nhưng kể từ đó ngày nào tôi cũng bị em vòi vĩnh làm cơm hộp cho ăn……",
-      "jpname": "モノローグ",
-      "jptext": "しっかり食事をとるようになったのはいいが、\nそれから毎日のように弁当をねだられるようになった……。",
-      "choice_data_list": [],
-      "color_text_info_list": []
-    }
-  ]
+    "title": "Tập 2",
+    "jptitle": "第2話",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Vào một ngày nghỉ, khi tôi ra khu phố mua sắm để mua đồ thì――",
+            "jpname": "モノローグ",
+            "jptext": "休日、買い物をすべく商店街へ行くと――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ồ kìa, chẳng phải Trainer-kun sao.",
+            "jpname": "アグネスタキオン",
+            "jptext": "おや、トレーナー君じゃないか。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Chẳng lẽ ngươi đến đây để xách đồ giúp ta đấy à? Kha kha, đáng khen đáng khen! Cứ thỏa sức mà cống hiến nhé.",
+            "jpname": "アグネスタキオン",
+            "jptext": "もしや荷物持ちをしに来たのかい？\nククッ、感心感心！　存分に働きたまえ。",
+            "choice_data_list": [
+                "Tôi chỉ đi mua sắm đồ của mình thôi mà……",
+                "Tôi chỉ đi mua sắm đồ của mình thôi đấy chứ……"
+            ],
+            "jpchoice_data_list": [
+                "自分の買い物に来ただけなんだが……",
+                "自分の買い物に来ただけなんだけど……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Gì chứ, chẳng sao cả. Cứ tiện thể mua luôn thể. Ta đâu phải là một Mã Nương hẹp hòi đến thế đâu!",
+            "jpname": "アグネスタキオン",
+            "jptext": "なーに、構わないよ。ついでに済ますといい。\n私はそんなに心の狭いウマ娘ではないからね！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "……Rốt cuộc tôi lại phải đi theo tháp tùng Agnes Tachyon mua sắm.",
+            "jpname": "モノローグ",
+            "jptext": "……結局、アグネスタキオンの買い物に付き合うことになった。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Chỉ một quả cà chua thôi cũng hấp thụ được kha khá chất dinh dưỡng rồi, nhưng thế vẫn chưa đủ, cơ thể này bất tiện thật đấy.",
+            "jpname": "アグネスタキオン",
+            "jptext": "トマト1つで、そこそこの栄養が摂取できるが、\nそれでも足りないのがこの体の不便なところだな。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Cà chua và…… mua thêm 3 phần ức gà hấp cho món salad nữa nào. Không có nguồn protein thì cơ bắp chẳng thể nào phát triển được.",
+            "jpname": "アグネスタキオン",
+            "jptext": "トマトと……あとはサラダ用の蒸されたチキンも3つ買おう。\nたんぱく源がなければ筋肉機能の成長は見込めない。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aizz, phiền phức thật đấy. Giá mà bổ sung tất cả bằng thực phẩm chức năng được thì vừa chẳng phí thời gian lại vừa xong trong nháy mắt.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ああ、面倒だ。全てサプリメントで賄えれば、\n時間もムダにせず一瞬で済むというのに。",
+            "choice_data_list": [
+                "Uống thực phẩm chức năng thì nhạt nhẽo lắm",
+                "Chỉ uống thực phẩm chức năng thì vô vị lắm"
+            ],
+            "jpchoice_data_list": [
+                "サプリじゃ味気ないぞ",
+                "サプリじゃ味気ないよ"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Này này, ăn uống chẳng qua chỉ là hành vi bù đắp lượng dinh dưỡng còn thiếu hụt thôi mà?",
+            "jpname": "アグネスタキオン",
+            "jptext": "おいおい、食事とは不足している栄養を補うための行為だよ？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Phần lớn chất dinh dưỡng dù ăn sống cũng đều hấp thụ vào cơ thể được. Dù mấy chất như lycopene thì qua chế biến sẽ hấp thụ được nhiều hơn.",
+            "jpname": "アグネスタキオン",
+            "jptext": "大方の栄養素は、生で食べても体内に入る。\nリコピンなどは、加工品の方が多く摂取できるがね。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hơi đâu mà nấu nướng cơ chứ, thường ngày ta cứ tống bừa đồ mua được vào máy xay rồi uống ực một hơi là xong.",
+            "jpname": "アグネスタキオン",
+            "jptext": "料理なんてしてられないし、私は普段、\n買ったものを適当にミキサーに放り込んで飲み干してるよ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ta không muốn tốn công sức dư thừa cho hành vi nạp dinh dưỡng qua đường miệng đơn thuần đâu. Thời gian là hữu hạn đấy, Trainer-kun!",
+            "jpname": "アグネスタキオン",
+            "jptext": "経口から補給するだけの行為に、余分な手間を取られたくない。\n時間は有限なのだよ、トレーナー君！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "……Càng nghe Agnes Tachyon nói, tôi lại càng thấy lo lắng cho thói quen ăn uống của em ấy hơn.",
+            "jpname": "モノローグ",
+            "jptext": "……アグネスタキオンの話を聞けば聞くほど、\n彼女の食生活が心配になってきた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hà. Nếu căn tin mà mở cửa quanh năm suốt tháng thì ta đã chẳng phải làm mấy việc phiền phức này rồi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "はぁ。カフェテリアが年中無休で営業していれば、\nこんな面倒なことをせずに済むのになー。",
+            "choice_data_list": [
+                "Để tôi nấu cho cô nhé?",
+                "Để tôi nấu cho cô nhé?"
+            ],
+            "jpchoice_data_list": [
+                "俺が作ろうか？",
+                "私が作ろうか？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ngươi nấu cơm cho ta ư? Ha ha! Nên gọi là tận tụy hay là phục tùng đây nhỉ.",
+            "jpname": "アグネスタキオン",
+            "jptext": "君が食事を？　ハハッ！\n献身的と言うべきか、従属的と言うべきか。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Qua các thí nghiệm từ trước tới giờ, cũng không loại trừ khả năng hành vi cống hiến hết mình này đã trở thành một dạng nghiện ngập đối với ta rồi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "これまでの実験を経て、尽くすという行為が私への\nアディクションとなっている可能性も否定できないな。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kha kha, được thôi. Dù sao cũng chẳng cướp mất thời gian của ta, đề xuất không tồi chút nào.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ククッ、いいだろう。\n私の時間が奪われるわけでもなし、悪くない提案だ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Được rồi, bữa tối nay ta giao cho ngươi đấy. Cứ việc tận tâm cống hiến đừng ngại ngần!",
+            "jpname": "アグネスタキオン",
+            "jptext": "わかった、夕食は君に任せてみよう。\n遠慮なく尽くしたまえ！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "À, bữa ăn mà chỉ toàn calo cao chót vót mất cân đối là không xong đâu đấy nhé. Phải chuẩn bị có tính toán đến cân bằng dinh dưỡng đấy.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ああ、熱量ばかりが高い偏った食事になっては困るぞ。\n栄養バランスを考えて用意するように。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Thế là tôi đành chuẩn bị cơm cho Agnes Tachyon――",
+            "jpname": "モノローグ",
+            "jptext": "そうしてアグネスタキオンのため、\n食事を用意することになり――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Gọi ta ra vào giờ này rốt cuộc là có việc gì thế?",
+            "jpname": "アグネスタキオン",
+            "jptext": "こんな時間に呼び出すなんて、何の用だい？",
+            "choice_data_list": [
+                "Tôi mang cơm hộp đến cho cô đây",
+                "Tôi mang cơm hộp đến cho cô đây"
+            ],
+            "jpchoice_data_list": [
+                "お弁当を持ってきたぞ",
+                "お弁当を持ってきたよ"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ồ, nhắc mới nhớ! Mải mê nghiên cứu quá nên ta quên béng mất cả chuyện ăn uống.",
+            "jpname": "アグネスタキオン",
+            "jptext": "おお、そういえば！\n研究に夢中になって、食事のことを忘れてたよ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Thực ra ta vừa quay lại những điều cơ bản một chút đấy. Nếu muốn tìm kiếm tốc độ vượt qua vận tốc ánh sáng như một tiềm năng của Mã Nương, thì bốn vector động lượng――",
+            "jpname": "アグネスタキオン",
+            "jptext": "実は少し基本に立ち戻ってみてね。いわゆる光速を超える速さを\nウマ娘の可能性として求めるならば、4元運動量の――",
+            "choice_data_list": [
+                "C-Chuyện đó để sau hãy nói!"
+            ],
+            "jpchoice_data_list": [
+                "は、話はまた今度で！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Gì thế, sao mà cuống quýt lên vậy. Mà thôi, nghiên cứu đang vào hồi gay cấn. Lượt của ngươi phải đợi thêm một chút nữa, nhưng cứ việc háo hức mong chờ đi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "なんだい、落ち着きのない。まぁいい、研究がいいところなんだ。\n君の出番はもう少し先になるが、楽しみにしてるといい。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hộp cơm này ta sẽ ăn tạm vậy. Bởi vì tiếp theo đây ta lại phải tiếp tục nghiên cứu nữa rồi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "弁当は適当にいただくよ。\nこれからまた研究の続きをしなくてはならないのでね。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Và rồi, sáng hôm sau――",
+            "jpname": "モノローグ",
+            "jptext": "そして、翌朝――",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "(Cạch)",
+            "jpname": "モノローグ",
+            "jptext": "（ガラッ）",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oáp…… hà. Chào buổi sáng nhé, Trainer-kun. Này, trả lại ngươi cái này.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ふわぁ……はぁ。おはよう、トレーナー君。\nほら、これを返すよ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Agnes Tachyon dúi vào tay tôi hộp cơm mà tôi đã đưa cho em ấy hôm qua.",
+            "jpname": "モノローグ",
+            "jptext": "アグネスタキオンから、\n昨日渡した弁当箱を押し付けられた。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Vitamin, khoáng chất, protein…… lipid và carbohydrate, tất cả đều có hàm lượng vừa phải. Độ cân bằng dinh dưỡng đạt điểm chuẩn đấy.",
+            "jpname": "アグネスタキオン",
+            "jptext": "ビタミン、ミネラル、タンパク質……脂質に糖質、\nどれも適度に含まれていた。バランスは合格点だ。",
+            "choice_data_list": [
+                "Vị ăn thế nào?"
+            ],
+            "jpchoice_data_list": [
+                "味はどうだった？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ăn cũng không tệ. Nhưng xét về tiêu chuẩn một hộp cơm thì có hai điểm cần cải thiện.",
+            "jpname": "アグネスタキオン",
+            "jptext": "悪くはなかったね。\nだが、弁当としては2つほど改善すべき点がある。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Điểm thứ nhất, ta ăn giữa lúc làm thí nghiệm nên việc dùng đũa có phần hơi vướng víu. Hãy nghĩ cách cải tiến đi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "まず1点目、実験の合間に食したが、\n箸を使うのはいささか煩わしい。工夫してくれ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Điểm thứ hai là lượng cơm trắng. Cơm ít quá so với lượng thức ăn kèm. Xét về mặt cân bằng thì nên tăng thêm cơm nữa.",
+            "jpname": "アグネスタキオン",
+            "jptext": "2点目は白米の量だ。おかずの量に対して米が少なすぎる。\nバランス的にはもっと増やしてもいいだろう。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Phần của hôm nay thì đành chịu rồi, nhưng từ lần sau hãy cải thiện theo đó nhé.",
+            "jpname": "アグネスタキオン",
+            "jptext": "今日の分は仕方ないが、次回から改善するよう頼むよ。",
+            "choice_data_list": [
+                "Phần của hôm nay là sao cơ?"
+            ],
+            "jpchoice_data_list": [
+                "今日の分って？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Đương nhiên là bữa sáng rồi. Ngươi đã chuẩn bị sẵn rồi đúng không?",
+            "jpname": "アグネスタキオン",
+            "jptext": "もちろん朝食だ。\n用意しているのだろう？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ta lại phải quay lại phòng thí nghiệm ngay đây. Nào, mau mang ra đây xem nào.",
+            "jpname": "アグネスタキオン",
+            "jptext": "私はまたラボに戻らなくてはならないんだ。\nほら、さっさと出したまえ。",
+            "choice_data_list": [
+                "Làm gì có đâu……"
+            ],
+            "jpchoice_data_list": [
+                "ないけど……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "C-Cái gì cơ!?",
+            "jpname": "アグネスタキオン",
+            "jptext": "な、なんだって！？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Không chuẩn bị đồ ăn là trò đùa kiểu quái gì thế hả! Người ta đã cất công tạm dừng nghiên cứu để đến đây nhận cơm rồi vậy mà……!",
+            "jpname": "アグネスタキオン",
+            "jptext": "食事を用意していないなんて、一体なんの冗談だ！\nわざわざ研究途中で受け取りに来てやったのに……！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ngươi đã hứa là sẽ chuẩn bị cơm cho ta rồi cơ mà!",
+            "jpname": "アグネスタキオン",
+            "jptext": "君、私の食事を用意すると約束しただろう！",
+            "choice_data_list": [
+                "Hôm nay tôi đâu có hứa đâu……"
+            ],
+            "jpchoice_data_list": [
+                "今日はしてないし……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ơ kìa!?",
+            "jpname": "アグネスタキオン",
+            "jptext": "えー！？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Lần nào cũng phải giao hẹn từng bữa một đấy à!? Làm thế thì kém hiệu quả quá mức!",
+            "jpname": "アグネスタキオン",
+            "jptext": "いちいち毎回約束をしろってのかい！？\nそんなの効率が悪すぎる！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Chăm sóc cho ta là nghĩa vụ của ngươi cơ mà! Nào, mau kiếm cơm cho ta ăn đi chứ!",
+            "jpname": "アグネスタキオン",
+            "jptext": "私の面倒をみるのは君の役目だろう！\nほら、さっさと私にご飯を食べさせろ！",
+            "choice_data_list": [
+                "Vậy thì để đến bữa trưa tôi làm món gì đó cho nhé……"
+            ],
+            "jpchoice_data_list": [
+                "じゃあ、昼食までに何か作るから……"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ngay! Bây! Giờ! Ta muốn ăn ngay bây giờ cơ.",
+            "jpname": "アグネスタキオン",
+            "jptext": "い・ま！　私はいま食べたいんだ。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Khao khát này chỉ có thể được giải tỏa bằng cách lấp đầy bụng đói, hoặc là lôi ngươi ra làm đủ loại thí nghiệm mà thôi.",
+            "jpname": "アグネスタキオン",
+            "jptext": "この欲求は腹を満たすか、君にあらゆる実験を行うことでしか\n解消されることはないだろう。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nào, chọn đi. Chuẩn bị đồ ăn, hay là bị đem ra làm thí nghiệm.",
+            "jpname": "アグネスタキオン",
+            "jptext": "さぁ、選択したまえ。食事を用意するか、実験されるか。",
+            "choice_data_list": [
+                "Đ-Đồ ăn!"
+            ],
+            "jpchoice_data_list": [
+                "し、食事！"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Được lắm. Vậy thì thí nghiệm dời sang buổi chiều, trước hết cứ lo bữa sáng đã.",
+            "jpname": "アグネスタキオン",
+            "jptext": "いいだろう。\nでは実験は午後にまわすということで、まずは朝食だ。",
+            "choice_data_list": [
+                "Rốt cuộc cô vẫn tính làm thí nghiệm à!?",
+                "Rốt cuộc cô vẫn tính làm thí nghiệm à!?"
+            ],
+            "jpchoice_data_list": [
+                "結局実験もするのか！？",
+                "結局実験もするの！？"
+            ],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tất nhiên rồi. Đó là nghĩa vụ của ngươi với tư cách chuột bạch. Còn chuẩn bị đồ ăn là nghĩa vụ với tư cách Trainer mà, đúng không?",
+            "jpname": "アグネスタキオン",
+            "jptext": "するとも。それはモルモットとしての君の役目。\n食事はトレーナーとしての役目だろう？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Đi ra căn tin thì phiền chết đi được. Trong lúc chờ ngươi làm đồ ăn thì ta chợp mắt một lát vậy.",
+            "jpname": "アグネスタキオン",
+            "jptext": "カフェテリアまで行くのは面倒だしな。\n私は食事が用意されるまで、仮眠するとしよう。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yên tâm, ta chẳng đòi hỏi xa hoa gì đâu. Cứ lấy nguyên liệu thừa hôm qua mà nấu. Vẫn còn sót lại đúng không?",
+            "jpname": "アグネスタキオン",
+            "jptext": "何、贅沢は言わないさ。昨日の食材の余りを使うといい。\nまだ残っているだろう？",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nào, mauu lênnn. Mauu lênnn làm cho ta ăn điii!",
+            "jpname": "アグネスタキオン",
+            "jptext": "ほら、はーやーくー。はーやーくー作ってくれよー！",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        },
+        {
+            "name": "",
+            "text": "Em ấy chịu ăn uống tử tế thì tốt thật đấy, nhưng kể từ đó ngày nào tôi cũng bị em vòi vĩnh làm cơm hộp cho ăn……",
+            "jpname": "モノローグ",
+            "jptext": "しっかり食事をとるようになったのはいいが、\nそれから毎日のように弁当をねだられるようになった……。",
+            "choice_data_list": [],
+            "color_text_info_list": []
+        }
+    ]
 }

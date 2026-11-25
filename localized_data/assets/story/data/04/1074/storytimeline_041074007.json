@@ -27,7 +27,7 @@
       "jptext": "それでは、計測はよろしくお願いいたしますね～。",
       "choice_data_list": [
         "Cứ giao cho anh! Chuẩn bị... Bắt đầu!",
-        "Cứ giao cho tôi! Chuẩn bị... Bắt đầu!"
+        "Cứ giao cho anh! Chuẩn bị... Bắt đầu thôi!"
       ],
       "jpchoice_data_list": [
         "任せてくれ！よーい……スタート！",
@@ -54,18 +54,18 @@
     },
     {
       "name": "???",
-      "text": "...san ơi? ...Trainer-san ơi?",
+      "text": "...san ơi? ...Trainer-sama ơi?",
       "jpname": "？？？",
       "jptext": "……さま？\n……レーナーさま？"
     },
     {
       "name": "Mejiro Bright",
-      "text": "Trainer-san ơi!",
+      "text": "Trainer-sama ơi!",
       "jpname": "メジロブライト",
       "jptext": "トレーナーさま～！",
       "choice_data_list": [
         "Oái!? E-Em đã quay lại rồi đó sao?",
-        "Oái!? B-Bạn đã quay lại rồi đó sao?"
+        "Oái!? E-Em đã quay lại rồi đó sao?"
       ],
       "jpchoice_data_list": [
         "うわあっ！？も、もう戻って来たのか？",
@@ -80,7 +80,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "...Nhắc mới nhớ, Trainer-san ơi. Đêm qua anh cũng thức khuya tới tận muộn để pha chế sẵn thức uống dinh dưỡng cho em đúng không ạ?",
+      "text": "...Nhắc mới nhớ, Trainer-sama ơi. Đêm qua anh cũng thức khuya tới tận muộn để pha chế sẵn thức uống dinh dưỡng cho em đúng không ạ?",
       "jpname": "メジロブライト",
       "jptext": "……そういえば、トレーナーさま。昨日の夜も遅くまで、\n栄養ドリンクの作り置きをしてくださっていましたわね～？"
     },
@@ -98,7 +98,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Em quyết định rồi ạ. Trainer-san ơi, tối nay anh có muốn đi lễ hội cùng em không?",
+      "text": "Em quyết định rồi ạ. Trainer-sama ơi, tối nay anh có muốn đi lễ hội cùng em không?",
       "jpname": "メジロブライト",
       "jptext": "決めましたわ。\nトレーナーさま、今日の晩はお祭りに行きませんこと～？"
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "",
-      "text": "Để có thể cùng em ấy thảnh thơi đi chơi lễ hội, mình phải giải quyết cho xong đống việc còn lại mới được! Trước mắt cứ bắt đầu sắp xếp lại giáo án luyện tập cái đã!",
+      "text": "Để có thể cùng em ấy thảnh thơi đi chơi lễ hội, tôi phải giải quyết cho xong đống việc còn lại mới được! Trước mắt cứ bắt đầu sắp xếp lại giáo án luyện tập cái đã!",
       "jpname": "モノローグ",
       "jptext": "一緒にお祭りを楽しむためにも、他の仕事を済ませなければ！\nまずは練習メニューの組み直しからやっていこう！"
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Ơ kìa, anh ấy đi mất rồi. Nghỉ giải lao thì tốt thật đấy, nhưng không biết liệu Trainer-san có chịu nghỉ ngơi cho đàng hoàng không nữa đây?",
+      "text": "Ơ kìa, anh ấy đi mất rồi. Nghỉ giải lao thì tốt thật đấy, nhưng không biết liệu Trainer-sama có chịu nghỉ ngơi cho đàng hoàng không nữa đây?",
       "jpname": "メジロブライト",
       "jptext": "まあ、行ってしまいましたわ。休憩はよいけれど\nきちんと、トレーナーさまもお休みできるのかしら～？"
     },
@@ -200,7 +200,7 @@
     },
     {
       "name": "",
-      "text": "Không được rồi, rõ ràng mình vẫn còn đống tài liệu cần tổng hợp cơ mà—",
+      "text": "Không được rồi, rõ ràng tôi vẫn còn đống tài liệu cần tổng hợp cơ mà—",
       "jpname": "モノローグ",
       "jptext": "いけない、まとめるべき書類がまだあったはずなのに――"
     },
@@ -246,7 +246,7 @@
       "jpname": "メジロブライト",
       "jptext": "あら……もうお目覚めになりましたのね？\nもっとゆっくりしていただいても、よろしかったのに。",
       "choice_data_list": [
-        "Hả... Mình vừa ngủ quên sao!?"
+        "Hả... Anh vừa ngủ quên sao!?"
       ],
       "jpchoice_data_list": [
         "え……寝てた！？"
@@ -278,12 +278,12 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "...Liệu có phải em đã hơi quá trớn rồi không ạ? Em đã tự ý làm thay đổi hết kế hoạch của Trainer-san mất rồi.",
+      "text": "...Liệu có phải em đã hơi quá trớn rồi không ạ? Em đã tự ý làm thay đổi hết kế hoạch của Trainer-sama mất rồi.",
       "jpname": "メジロブライト",
       "jptext": "……ちょっぴり、やりすぎてしまったでしょうか～？\nトレーナーさまの予定を変えてしまいましたし。",
       "choice_data_list": [
         "Không đâu... cảm ơn em nhiều nhé",
-        "Không đâu... cảm ơn bạn nhiều nhé"
+        "Không đâu... cảm ơn em nhiều lắm"
       ],
       "jpchoice_data_list": [
         "いや……ありがとう",
@@ -298,7 +298,7 @@
     },
     {
       "name": "",
-      "text": "Quả thật, có lẽ dạo này tôi đã làm việc hơi quá sức... Nhờ được chợp mắt mà tôi cảm nhận rõ thể lực của mình đã hồi phục lại.",
+      "text": "Quả thật, có lẽ dạo này tôi đã làm việc hơi quá sức... Nhờ được chợp mắt mà tôi cảm nhận rõ thể lực của tôi đã hồi phục lại.",
       "jpname": "モノローグ",
       "jptext": "確かに、少しオーバーワーク気味だったかもしれない……\n寝かせてもらえたおかげで体力が回復したのを感じる。"
     },
@@ -316,7 +316,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Nhịp độ của chúng mình... Ý anh là của em, và của Trainer-san sao ạ?",
+      "text": "Nhịp độ của chúng mình... Ý anh là của em, và của Trainer-sama sao ạ?",
       "jpname": "メジロブライト",
       "jptext": "自分たちのペース……。\nわたくしと、トレーナーさまの、でしょうか？"
     },
@@ -328,7 +328,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "Ô kìa, anh nhìn xem này Trainer-san. Quầy cà rốt nướng đằng kia dường như vẫn còn đang mở bán đấy ạ.",
+      "text": "Ô kìa, anh nhìn xem này Trainer-sama. Quầy cà rốt nướng đằng kia dường như vẫn còn đang mở bán đấy ạ.",
       "jpname": "メジロブライト",
       "jptext": "あら～、ご覧くださいな、トレーナーさま。\nあちらのにんじん焼きの屋台は、まだ営業中のようですわ。"
     },
@@ -376,7 +376,7 @@
     },
     {
       "name": "Mejiro Bright",
-      "text": "...Anh thấy không, Trainer-san. Quả đúng là—",
+      "text": "...Anh thấy không, Trainer-sama. Quả đúng là—",
       "jpname": "メジロブライト",
       "jptext": "……ね、トレーナーさま。やっぱり――"
     },
@@ -387,7 +387,7 @@
       "jptext": "待てば、花は咲くのですね。",
       "choice_data_list": [
         "...Đúng vậy thật em nhỉ",
-        "...Đúng vậy thật bạn nhỉ"
+        "...Đúng vậy thật em nhỉ"
       ],
       "jpchoice_data_list": [
         "……そうだな",

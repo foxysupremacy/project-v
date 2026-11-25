@@ -8,7 +8,7 @@
       "jpname": "モノローグ",
       "jptext": "ついに迎えた――模擬レース、当日。",
       "choice_data_list": [
-        "(Cho đến tận hôm nay, mình và cô ấy đã liên tục điều chỉnh từng chi tiết nhỏ nhất...)"
+        "(Cho đến tận hôm nay, tôi và cô ấy đã liên tục điều chỉnh từng chi tiết nhỏ nhất...)"
       ],
       "jpchoice_data_list": [
         "（今日まで、緻密に調整を重ねてきた……）"
@@ -20,8 +20,8 @@
       "jpname": "デアリングハート",
       "jptext": "クラフトたちの最新データ……？ すごいわね、ギリギリまで集めてくれていたのね。",
       "choice_data_list": [
-        "Dựa vào đây, chúng ta hãy cùng lên chiến thuật cho em nhé.",
-        "Dựa vào đây, chúng ta hãy cùng lên chiến thuật cho bạn nhé."
+        "Dựa vào đây, chúng ta hãy cùng lên chiến thuật cho cô nhé.",
+        "Dựa vào đây, chúng ta hãy cùng vạch chiến thuật cho cô nhé."
       ],
       "jpchoice_data_list": [
         "これを元に、君の作戦を練ろう",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Daring Heart",
-      "text": "Fufu, có một Huấn luyện viên tài ba ở bên cạnh hỗ trợ, hóa ra lại... an tâm đến dường này.",
+      "text": "Fufu, có một Trainer tài ba ở bên cạnh hỗ trợ, hóa ra lại... an tâm đến dường này.",
       "jpname": "デアリングハート",
       "jptext": "フフ、優秀なトレーナーがついてくれることが、 こんなにも……心強いなんてね。"
     },
@@ -42,7 +42,7 @@
     },
     {
       "name": "",
-      "text": "Chuẩn bị cho màn so tài chính thức, với tư cách là Huấn luyện viên tạm thời, tôi đã đồng hành và tỉ mỉ điều chỉnh từng chi tiết cùng Daring Heart. Tất cả―― là vì ngày hôm nay.",
+      "text": "Chuẩn bị cho màn so tài chính thức, với tư cách là Trainer tạm thời, tôi đã đồng hành và tỉ mỉ điều chỉnh từng chi tiết cùng Daring Heart. Tất cả―― là vì ngày hôm nay.",
       "jpname": "モノローグ",
       "jptext": "本番に向けて、仮のトレーナーとして緻密な調整を重ね、 デアリングハートを見守ってきた。全ては――今日のために。"
     },
@@ -82,8 +82,8 @@
       "jpname": "モノローグ",
       "jptext": "彼女は待っている。迷いを断ち切り、 栄光の勝利を手にする、その名を呼ぶのを――",
       "choice_data_list": [
-        "(Em là...)",
-        "(Bạn là...)"
+        "(Cô là...)",
+        "(Cô chính là...)"
       ],
       "jpchoice_data_list": [
         "（君は……）",
@@ -354,7 +354,7 @@
       "jpname": "モノローグ",
       "jptext": "あまりに遠くて果てしない。圧倒的すぎる。 だからこそ――心が沸き立った。彼女の走りに、ひどく惹かれた。",
       "choice_data_list": [
-        "(Mình lại sắp bị bỏ rơi lại phía sau rồi――...!)"
+        "(Tôi lại sắp bị bỏ rơi lại phía sau rồi――...!)"
       ],
       "jpchoice_data_list": [
         "（また、置いていかれる――……！）"
@@ -368,7 +368,7 @@
     },
     {
       "name": "Daring Heart",
-      "text": "Cùng đi nào! Huấn luyện viên!",
+      "text": "Cùng đi nào! Trainer!",
       "jpname": "デアリングハート",
       "jptext": "一緒に行きましょ！　トレーナー！"
     },
@@ -416,7 +416,7 @@
     },
     {
       "name": "Daring Heart",
-      "text": "――Be my partner... Với tư cách là Huấn luyện viên phụ trách của tôi.",
+      "text": "――Be my partner... Với tư cách là Trainer phụ trách của tôi.",
       "jpname": "デアリングハート",
       "jptext": "――Be my partner……私の、担当トレーナーとして。"
     },

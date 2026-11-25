@@ -16,7 +16,7 @@
     },
     {
       "name": "",
-      "text": "Lồng ngực tôi rộn ràng khôn xiết. ……Kể từ hôm nay, chuỗi ngày làm Huấn luyện viên Mã Nương tại Học viện Tracen này cuối cùng cũng bắt đầu.",
+      "text": "Lồng ngực tôi rộn ràng khôn xiết. ……Kể từ hôm nay, chuỗi ngày làm Trainer Mã Nương tại Học viện Tracen này cuối cùng cũng bắt đầu.",
       "jpname": "モノローグ",
       "jptext": "胸が震える。……いよいよ今日から、このトレセン学園で、 ウマ娘トレーナーとしての日々が始まるのだ。",
       "choice_data_list": [
@@ -96,7 +96,7 @@
     },
     {
       "name": "Mẹ của Buena",
-      "text": "——Nào, chào bạn đi con. Đây là bạn <username> mới chuyển đến cạnh nhà mình đấy. Con hãy hòa thuận với bạn nhé.",
+      "text": "——Nào, chào bạn đi con. Đây là <username>-kun mới chuyển đến cạnh nhà mình đấy. Con hãy hòa thuận với bạn nhé.",
       "jpname": "ブエナの母親",
       "jptext": "――さ、ご挨拶しましょ。お隣に引っ越してきた <username>くんよ。仲良くしてもらいましょうね。",
       "choice_data_list": [
@@ -110,7 +110,7 @@
     },
     {
       "name": "Mẹ của Buena",
-      "text": "——Nào, chào bạn đi con. Đây là bạn <username> mới chuyển đến cạnh nhà mình đấy. Con hãy hòa thuận với bạn nhé.",
+      "text": "——Nào, chào bạn đi con. Đây là <username>-chan mới chuyển đến cạnh nhà mình đấy. Con hãy hòa thuận với bạn nhé.",
       "jpname": "ブエナの母親",
       "jptext": "――さ、ご挨拶しましょ。お隣に引っ越してきた <username>ちゃんよ。仲良くしてもらいましょうね。",
       "choice_data_list": [
@@ -146,8 +146,8 @@
       "jpname": "幼いブエナ",
       "jptext": "ぐすっ、うぅ～……！　つらいよね、苦しいよね……。 ずっと、ごほごほって……おねつも……うぅぅ～……！",
       "choice_data_list": [
-        "Anh không sao đâu mà…… Đừng khóc nữa, Buena.",
-        "Không sao đâu mà…… Ngoan, đừng khóc nữa nhé, Buena."
+        "Tôi không sao đâu mà…… Đừng khóc nữa, Buena.",
+        "Tôi không sao đâu mà…… Ngoan, đừng khóc nữa nhé, Buena."
       ],
       "jpchoice_data_list": [
         "俺は大丈夫だから……泣かないで、ブエナ",
@@ -234,7 +234,7 @@
     },
     {
       "name": "Buena Vista",
-      "text": "——Hả, định hướng là vào trường đào tạo Huấn luyện viên sao!? Lại còn là trường của Trung ương nữa……!?",
+      "text": "——Hả, định hướng là vào trường đào tạo Trainer sao!? Lại còn là trường của Trung ương nữa……!?",
       "jpname": "ブエナビスタ",
       "jptext": "――えっ、進路、トレーナー養成学校にするの！？ しかも中央の……！？",
       "choice_data_list": [
@@ -252,8 +252,8 @@
       "jpname": "モノローグ",
       "jptext": "『君の走りを初めて見た時から、本当はずっと』。 そう続け、意を決して、彼女の前で自身の胸を叩く。『俺は――』",
       "choice_data_list": [
-        "Một ngày nào đó, anh muốn trở thành Huấn luyện viên của em!",
-        "Tôi muốn một ngày nào đó sẽ là người đồng hành dẫn dắt bạn!"
+        "Một ngày nào đó, tôi muốn trở thành Trainer của em!",
+        "Tôi muốn một ngày nào đó sẽ là người đồng hành dẫn dắt em!"
       ],
       "jpchoice_data_list": [
         "いつか君の、担当トレーナーになりたい！",
@@ -266,8 +266,8 @@
       "jpname": "モノローグ",
       "jptext": "『貴方の走りを初めて見た時から、本当はずっと』。 そう続け、意を決して、彼女の前で自身の胸を叩く。『私は――』",
       "choice_data_list": [
-        "Một ngày nào đó, anh muốn trở thành Huấn luyện viên của em!",
-        "Tôi muốn một ngày nào đó sẽ là người đồng hành dẫn dắt bạn!"
+        "Một ngày nào đó, tôi muốn trở thành Trainer của em!",
+        "Tôi muốn một ngày nào đó sẽ là người đồng hành dẫn dắt em!"
       ],
       "jpchoice_data_list": [
         "いつか君の、担当トレーナーになりたい！",
@@ -300,7 +300,7 @@
     },
     {
       "name": "",
-      "text": "Buena Vista đã thuận lợi trở thành học viên Tracen…… Còn tôi thì đang vùi đầu vào học ngày học đêm để thi lấy chứng chỉ Huấn luyện viên, vào một ngày mùa thu nọ.",
+      "text": "Buena Vista đã thuận lợi trở thành học viên Tracen…… Còn tôi thì đang vùi đầu vào học ngày học đêm để thi lấy chứng chỉ Trainer, vào một ngày mùa thu nọ.",
       "jpname": "モノローグ",
       "jptext": "ブエナビスタは無事、トレセン学園生となり……自分はといえば、 トレーナー資格試験合格に向けて猛勉強中だった、ある秋のこと。"
     },
@@ -444,7 +444,7 @@
       "jpname": "ブエナビスタ",
       "jptext": "それじゃあ、改めて。 ……聞かせてもらっても、いい？",
       "choice_data_list": [
-        "Được chứ. Buena, cùng với anh——",
+        "Được chứ. Buena, cùng với tôi——",
         "Ừ. Buena, hãy cùng tôi——"
       ],
       "jpchoice_data_list": [

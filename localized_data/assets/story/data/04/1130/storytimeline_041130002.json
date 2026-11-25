@@ -8,8 +8,8 @@
       "jpname": "モノローグ",
       "jptext": "ラッキーライラックのことが気になり、オルフェーヴルとの マッチレースを見守るようになってからしばらくが経った。",
       "choice_data_list": [
-        "(Được rồi... mình cũng bắt đầu thôi)",
-        "(Được rồi... mình cũng bắt đầu thôi)"
+        "(Được rồi... tôi cũng bắt đầu thôi)",
+        "(Được rồi... tôi cũng bắt đầu nào)"
       ],
       "jpchoice_data_list": [
         "（さて……俺も始めるか）",
@@ -71,7 +71,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...chẳng khác nào tự tìm đường chết ha anh.",
+      "text": "...chẳng khác nào tự tìm đường chết ha.",
       "jpname": "ラッキーライラック",
       "jptext": "――自滅しに行くようなものですわな。",
       "choice_data_list": [
@@ -91,7 +91,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Chà... Từ thành tích thời gian tới dáng chạy rồi mọi thứ, anh ghi chép tỉ mỉ ghê nha. Phân tích cũng... chi tiết đến từng chân tơ kẽ tóc luôn. ...Ủa.",
+      "text": "Chà... Từ thành tích thời gian tới dáng chạy rồi mọi thứ, ghi chép tỉ mỉ ghê nha. Phân tích cũng... chi tiết đến từng chân tơ kẽ tóc luôn. ...Ủa.",
       "jpname": "ラッキーライラック",
       "jptext": "へえ……タイムから走法からなにから、つぶさに書いてはりますね。 分析も……かなり細いところまで。……あ。",
       "color_text_info_list": []
@@ -102,8 +102,8 @@
       "jpname": "ラッキーライラック",
       "jptext": "『ラッキーライラックがオルフェーヴルに認められるには、 どうすればいいのか』……。",
       "choice_data_list": [
-        "...Nhìn thấy em, anh lại bất giác muốn suy nghĩ về điều đó",
-        "...Nhìn thấy bạn, tôi lại bất giác muốn suy nghĩ về điều đó"
+        "...Nhìn thấy em, tôi lại bất giác muốn suy nghĩ về điều đó",
+        "...Nhìn thấy em, tôi tự nhiên muốn suy nghĩ về điều đó"
       ],
       "jpchoice_data_list": [
         "……君を見てたら、考えたくなっちゃって",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Trainer-san, em đi thay đồ ngay đây ạ. Xong xuôi thì... anh cho em xin một chút thời gian được không?",
+      "text": "...Trainer-san, em đi thay đồ ngay đây ạ. Xong xuôi thì... cho em xin một chút thời gian được không ạ?",
       "jpname": "ラッキーライラック",
       "jptext": "……。トレーナーさん、うち、すぐ着替えてきますので。 そのあと、少しだけ……お時間いただけます？",
       "color_text_info_list": []
@@ -195,7 +195,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Cho nên em rất muốn thỉnh giáo Trainer-san. Dõi theo các cuộc đua vừa qua, anh có nhận thấy điều gì không ạ?",
+      "text": "Cho nên em rất muốn thỉnh giáo Trainer-san. Dõi theo các cuộc đua vừa qua, người có nhận thấy điều gì không ạ?",
       "jpname": "ラッキーライラック",
       "jptext": "それでトレーナーさんに、ぜひお伺いしたいんです。 レースを観ていて、なにか気づいたことはありませんでしたか？",
       "choice_data_list": [
@@ -208,7 +208,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Vậy ạ. Cảm ơn anh đã bận tâm vì em nha. Phần còn lại... em sẽ lại tự mình suy nghĩ tiếp ạ.",
+      "text": "...Vậy ạ. Cảm ơn Trainer-san đã bận tâm vì em nha. Phần còn lại... em sẽ lại tự mình suy nghĩ tiếp ạ.",
       "jpname": "ラッキーライラック",
       "jptext": "……そうですか。気にかけてもろて、ありがとうございました。 あとは……またひとりで、考えてみますね。",
       "color_text_info_list": []
@@ -237,7 +237,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Nếu nhận ra điều gì thì anh cứ thoải mái nói với em nha. Chừng nào chưa bị chị Orfevre bỏ rơi, em sẽ luôn có mặt trên đường chạy này mà.",
+      "text": "Nếu nhận ra điều gì thì cứ thoải mái nói với em nha. Chừng nào chưa bị chị Orfevre bỏ rơi, em sẽ luôn có mặt trên đường chạy này mà.",
       "jpname": "ラッキーライラック",
       "jptext": "なにか気づいたことがありましたら、お気軽にお声がけ下さいね。 オルフェさんに見限られへんうちは、いつもコースにおりますから。",
       "choice_data_list": [
@@ -265,7 +265,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "Trainer-san? Anh có điều gì muốn nói sao ạ?",
+      "text": "Trainer-san? Người có điều gì muốn nói sao ạ?",
       "jpname": "ラッキーライラック",
       "jptext": "トレーナーさん？ なにか、仰りたいことでも？",
       "choice_data_list": [
@@ -320,12 +320,12 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Ý anh là... Trận so tài với chị Orfevre sao ạ? Hay là... quan sát em thế ạ?",
+      "text": "...Ý người là... Trận so tài với chị Orfevre sao ạ? Hay là... quan sát em thế ạ?",
       "jpname": "ラッキーライラック",
       "jptext": "……それは……。オルフェさんとのレースのこと？ それとも……うちのこと、でしょうか？",
       "choice_data_list": [
-        "Anh muốn được theo dõi các buổi tập luyện của em",
-        "Tôi muốn được theo dõi các buổi tập luyện của bạn"
+        "Tôi muốn được theo dõi các buổi tập luyện của em",
+        "Tôi muốn được xem các buổi tập luyện của em"
       ],
       "jpchoice_data_list": [
         "君のトレーニングを見させてほしい",
@@ -335,12 +335,12 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Lần này thì có vẻ anh không nói đùa rồi nhỉ.",
+      "text": "...Lần này thì có vẻ Trainer-san không nói đùa rồi nhỉ.",
       "jpname": "ラッキーライラック",
       "jptext": "……そちらは、ご冗談やないみたいですね。",
       "choice_data_list": [
-        "Anh cũng... rất muốn biết em đang cần điều gì",
-        "Tôi cũng... rất muốn biết bạn đang cần điều gì"
+        "Tôi cũng... rất muốn biết em đang cần điều gì",
+        "Tôi cũng... rất để tâm xem em đang cần điều gì"
       ],
       "jpchoice_data_list": [
         "俺も……君に何が必要か、気になるんだ",
@@ -350,14 +350,14 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "...Em cảm ơn anh nhiều lắm. Lời đề nghị của anh quý giá vô cùng ạ. Thú thật thì... em cũng đang rơi vào bế tắc.",
+      "text": "...Em cảm ơn rất nhiều ạ. Lời đề nghị đó quý giá vô cùng ạ. Thú thật thì... em cũng đang rơi vào bế tắc.",
       "jpname": "ラッキーライラック",
       "jptext": "……ありがとうございます。申し出、大変ありがたいです。 正直……行き詰まってしまっていたので。",
       "color_text_info_list": []
     },
     {
       "name": "Lucky Lilac",
-      "text": "Trainer-san, trăm sự nhờ anh giúp đỡ cho em nha. Em còn thiếu sót điều gì... mong anh hãy cùng em tìm ra nhé.",
+      "text": "Trainer-san, trăm sự nhờ người giúp đỡ cho em nha. Em còn thiếu sót điều gì... mong Trainer-san hãy cùng em tìm ra nhé.",
       "jpname": "ラッキーライラック",
       "jptext": "トレーナーさん、ぜひご協力よろしくお願いします。 うちになにが足りてへんのか……ともに、見つけて下さいませ。",
       "choice_data_list": [
@@ -386,7 +386,7 @@
     },
     {
       "name": "Lucky Lilac",
-      "text": "(Thế nhưng, vị Trainer đó... đã cùng suy nghĩ với mình. Nếu nhìn từ góc độ của người đó, biết đâu chừng sẽ có gì đó thay đổi thì sao.)",
+      "text": "(Thế nhưng, vị Trainer-san đó... đã cùng suy nghĩ với mình. Nếu nhìn từ góc độ của người đó, biết đâu chừng sẽ có gì đó thay đổi thì sao.)",
       "jpname": "ラッキーライラック",
       "jptext": "（でも、あのトレーナーさんは……一緒に考えてくれとった。 あのひとの視点で見てもらえば、なにか変わるかもしれへん）",
       "color_text_info_list": []

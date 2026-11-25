@@ -21,7 +21,7 @@
       "jptext": "なのに、全然イヤミじゃない。洗練されてて、かっこいい！ 世界中のみんなが憧れる、その国は――"
     },
     {
-      "name": "Cô bé Mã Nương",
+      "name": "Mã Nương nhỏ",
       "text": "\"Ba mẹ ơi! Con thích nơi này lắm! Sau này... con nhất định sẽ sống ở đâyyy!\"",
       "jpname": "ある子どものウマ娘",
       "jptext": "『パパ、ママ！　私、ここが好き！ 私……ここで暮らす～～っ！』"
@@ -57,7 +57,7 @@
       "jptext": "――……ん？ あれ？　あなたは……。",
       "choice_data_list": [
         "…………Là anh sao?",
-        "…………Là tôi sao?"
+        "…………Là anh à?"
       ],
       "jpchoice_data_list": [
         "…………俺？",
@@ -66,7 +66,7 @@
     },
     {
       "name": "???",
-      "text": "A! Anh là Trainer của học viện đúng không nè?",
+      "text": "A! Anh là Trainer-san của học viện đúng không nè?",
       "jpname": "？？？",
       "jptext": "ゆ～！ あなた、学園のトレーナーさんだよね？",
       "choice_data_list": [
@@ -90,7 +90,7 @@
     },
     {
       "name": "???",
-      "text": "Hổng có đâu! Chuyện là dạo này á, em đang tăm tia hết tất cả các Trainer luôn đó!",
+      "text": "Hổng có đâu! Chuyện là dạo này á, em đang tăm tia hết tất cả các Trainer-san luôn đó!",
       "jpname": "？？？",
       "jptext": "ううん！　私ね、今ね～、 トレーナーさんはみーんなチェックしてるんだ！",
       "choice_data_list": [
@@ -212,7 +212,7 @@
       "jpname": "モノローグ",
       "jptext": "どうやらヴィブロスはセレブらしく振る舞うのが好きなようで、 その後に入った別のお店でも……。",
       "choice_data_list": [
-        "(Mình được dẫn thẳng vào phòng VIP luôn...)"
+        "(Tôi được dẫn thẳng vào phòng VIP luôn...)"
       ],
       "jpchoice_data_list": [
         "（VIPルームに通された……）"
@@ -334,12 +334,12 @@
     },
     {
       "name": "???",
-      "text": "――Vivlos! Còn người bên cạnh... là Trainer của học viện sao?",
+      "text": "――Vivlos! Còn vị này... là Trainer-san của học viện sao?",
       "jpname": "？？？",
       "jptext": "――ヴィブロス！ と、貴方は……学園のトレーナーさんですか？",
       "choice_data_list": [
-        "Em là... Verxina!",
-        "Bạn là... Verxina!"
+        "Cô là... Verxina!",
+        "Cô là... Verxina!"
       ],
       "jpchoice_data_list": [
         "君は……ヴィルシーナ！",
@@ -390,13 +390,13 @@
     },
     {
       "name": "Verxina",
-      "text": "Có vẻ như em gái tôi đã làm phiền anh rồi. Cảm ơn anh rất nhiều. Này Vivlos, các Trainer đều rất bận rộn đấy, em đừng――",
+      "text": "Có vẻ như em gái tôi đã làm phiền anh rồi. Cảm ơn anh rất nhiều. Này Vivlos, các Trainer-san đều rất bận rộn đấy, em đừng――",
       "jpname": "ヴィルシーナ",
       "jptext": "妹がお世話になったようで。ありがとうございます。 こらヴィブロス、トレーナーさんたちはお忙しいんだから――"
     },
     {
       "name": "Vivlos",
-      "text": "Hứ, em đâu có đi chơi không đâu nè! Em đã nói với chị rồi mà, em đang tìm Trainer cho mình đó chứ bộ!",
+      "text": "Hứ, em đâu có đi chơi không đâu nè! Em đã nói với chị rồi mà, em đang tìm Trainer-san cho mình đó chứ bộ!",
       "jpname": "ヴィブロス",
       "jptext": "むぅ、ただ遊んでただけじゃないもーん！ 前に話したでしょ？　トレーナーさんを探してるって！"
     },

@@ -37,8 +37,8 @@
       "jpname": "オルフェーヴル",
       "jptext": "よい。 …………先のトレーニングの褒美だ。少し聞いてやる。",
       "choice_data_list": [
-        "Tôi muốn chứng minh thực lực của mình cho em thấy...!",
-        "Tôi muốn chứng tỏ bản lĩnh của tôi cho bạn thấy...!"
+        "Tôi muốn chứng minh thực lực của mình cho cô thấy...!",
+        "Tôi muốn chứng tỏ bản lĩnh của tôi cho cô thấy...!"
       ],
       "jpchoice_data_list": [
         "君に俺の力を示したい……！",
@@ -56,7 +56,7 @@
     },
     {
       "name": "",
-      "text": "Vậy thì chỉ có cách không ngừng chứng minh mà thôi. Một bản thân vượt trội hơn trước. Một bản thân không chỉ biết đứng nhìn khao khát. Hãy chứng minh giá trị của mình cùng với sự quyết tâm sắt đá.",
+      "text": "Vậy thì chỉ có cách không ngừng chứng minh mà thôi. Một bản thân vượt trội hơn trước. Một bản thân không chỉ biết đứng nhìn khao khát. Hãy chứng minh giá trị của bản thân cùng với sự quyết tâm sắt đá.",
       "jpname": "モノローグ",
       "jptext": "ならばひたすら示すのみだ。これまで以上の自分を。 焦がれるだけではない自分を。その価値を、覚悟と共に。",
       "choice_data_list": [
@@ -71,7 +71,7 @@
     },
     {
       "name": "",
-      "text": "Tôi hiểu mối quan hệ giữa Huấn luyện viên và Mã Nương như thế này quả thực rất kỳ lạ. ...Dù vậy, tôi vẫn muốn chứng minh mình là một người có giá trị đối với \"Quân vương\".",
+      "text": "Tôi hiểu mối quan hệ giữa Trainer và Mã Nương như thế này quả thực rất kỳ lạ. ...Dù vậy, tôi vẫn muốn chứng minh mình là một người có giá trị đối với \"Quân vương\".",
       "jpname": "モノローグ",
       "jptext": "担当とウマ娘の関係性として特殊なのは、理解している。 ……それでも自分は“王”にとって価値ある存在だと証明したい。",
       "choice_data_list": [],
@@ -100,7 +100,7 @@
     },
     {
       "name": "Bầy tôi của Orfe A",
-      "text": "N-Ngài bằng lòng thật sao ạ? Vị này khác với chúng thần, vốn là một Huấn luyện viên của học viện cơ mà...",
+      "text": "N-Ngài bằng lòng thật sao ạ? Vị này khác với chúng thần, vốn là một Trainer của học viện cơ mà...",
       "jpname": "オルフェの臣下A",
       "jptext": "よ、よろしいのですか？ この方は私どもと違って、学園のトレーナーですが……。",
       "choice_data_list": [],
@@ -123,7 +123,7 @@
     },
     {
       "name": "",
-      "text": "Cứ như thế, tôi đã được phép chứng minh năng lực của mình trước Orfevre không phải với tư cách một Huấn luyện viên, mà đơn thuần chỉ là một con người――",
+      "text": "Cứ như thế, tôi đã được phép chứng minh năng lực của mình trước Orfevre không phải với tư cách một Trainer, mà đơn thuần chỉ là một con người――",
       "jpname": "モノローグ",
       "jptext": "こうして、オルフェーヴルにトレーナーとしてではなく ただひとりの人間として力を示すことが許され――",
       "choice_data_list": [],
@@ -210,7 +210,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Huấn luyện viên. Thật lòng cảm ơn người vì đã cất công đi cùng nhé. Nhờ có người mà chuyến đi vui vẻ hơn hẳn đấy.",
+      "text": "Trainer-san. Thật lòng cảm ơn vì đã cất công đi cùng nhé. Nhờ có Trainer-san mà chuyến đi vui vẻ hơn hẳn đấy.",
       "jpname": "ドリームジャーニー",
       "jptext": "トレーナーさん。わざわざ付き添っていただき、 ありがとうございます。おかげでとても楽しめましたよ。",
       "choice_data_list": [
@@ -248,7 +248,7 @@
     },
     {
       "name": "Dream Journey",
-      "text": "Ồ. Người đã thu xếp chu toàn hết cả rồi sao. ...Thật là chu đáo quá đi.",
+      "text": "Ồ. Trainer-san đã thu xếp chu toàn hết cả rồi sao. ...Thật là chu đáo quá đi.",
       "jpname": "ドリームジャーニー",
       "jptext": "おや。すべて手配済みというわけですか。 ……気が利きますね。",
       "choice_data_list": [],
@@ -256,7 +256,7 @@
     },
     {
       "name": "Orfevre",
-      "text": "――Ngay khi quay trở về học viện, hãy chứng minh giá trị của ngươi với tư cách một Huấn luyện viên cho ta xem.",
+      "text": "――Ngay khi quay trở về học viện, hãy chứng minh giá trị của ngươi với tư cách một Trainer cho ta xem.",
       "jpname": "オルフェーヴル",
       "jptext": "――――学園に戻り次第、トレーナーとしての価値を示せ。",
       "choice_data_list": [
@@ -310,8 +310,8 @@
       "jpname": "モノローグ",
       "jptext": "オルフェーヴルの前に、ひとつの資料を突き出す。 それは、“王”たる彼女が進むべき未来をまとめたものだ。",
       "choice_data_list": [
-        "Tôi sẽ trở thành \"sức mạnh\" của em.",
-        "Tôi sẽ biến thành \"sức mạnh\" phò tá bạn."
+        "Tôi sẽ trở thành \"sức mạnh\" của cô.",
+        "Tôi sẽ biến thành \"sức mạnh\" phò tá cô."
       ],
       "jpchoice_data_list": [
         "俺は、君の“力”になる",
@@ -321,11 +321,11 @@
     },
     {
       "name": "",
-      "text": "Không phải với tư cách bầy tôi. Cũng chẳng phải vì ngưỡng mộ mà phụng sự. Mà là với tư cách một Huấn luyện viên, để sánh vai kề cạnh bên \"Quân vương\"――",
+      "text": "Không phải với tư cách bầy tôi. Cũng chẳng phải vì ngưỡng mộ mà phụng sự. Mà là với tư cách một Trainer, để sánh vai kề cạnh bên \"Quân vương\"――",
       "jpname": "モノローグ",
       "jptext": "臣下としてではない。憧れ、仕えるのではない。 トレーナーとして、“王”の隣に立つために――",
       "choice_data_list": [
-        "Vì điều đó... Tôi sẽ đứng trên đỉnh cao của giới Huấn luyện viên!!"
+        "Vì điều đó... Tôi sẽ đứng trên đỉnh cao của giới Trainer!!"
       ],
       "jpchoice_data_list": [
         "そのために……トレーナーの頂点に立つ！！"
@@ -342,7 +342,7 @@
     },
     {
       "name": "",
-      "text": "...Giá trị và cách định vị bản thân với tư cách Huấn luyện viên cần chứng minh trước Orfevre, thực chất đã có manh mối từ chính ngày đầu tiên tôi gặp cô ấy.",
+      "text": "...Giá trị và cách định vị bản thân với tư cách Trainer cần chứng minh trước Orfevre, thực chất đã có manh mối từ chính ngày đầu tiên tôi gặp cô ấy.",
       "jpname": "モノローグ",
       "jptext": "……オルフェーヴルに示すべき自分のトレーナーとしての価値は、 在り方は、初めて彼女と会った日にヒントがあった。",
       "choice_data_list": [],
@@ -370,8 +370,8 @@
       "jpname": "モノローグ",
       "jptext": "自分も、己の力をレース界に焼きつけるのだ。過去の伝説を超え、 “王”が三冠を……三冠以上の光輝を手にするために。",
       "choice_data_list": [
-        "――Và rồi sẽ cùng em đứng cạnh nhau trên đỉnh vinh quang!",
-        "――Và rồi sẽ cùng bạn sánh vai trên đỉnh vinh quang!"
+        "――Và rồi sẽ cùng cô đứng cạnh nhau trên đỉnh vinh quang!",
+        "――Và rồi sẽ cùng cô sánh vai trên đỉnh vinh quang!"
       ],
       "jpchoice_data_list": [
         "――――そして君と、頂点で並び立つ！",
