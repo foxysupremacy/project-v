@@ -4,11 +4,6 @@
   "zip_dir": "project-v-dev/localized_data",
   "files": [
     {
-      "path": "assets/UMAOpenSansRodinEX-ExtraBold.otf",
-      "hash": "e839eae06613f3ab380a857fa9b8f12717f0c5b91df23ac04022624606f4d937",
-      "size": 15990276
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
       "hash": "779f97efbd3938b08c248620d1db7dc2b62b289d7722cb305b9d0367011f145f",
       "size": 271530
@@ -1177,6 +1172,11 @@
       "path": "assets/atlas/walking/walking.json",
       "hash": "ac98685306fd537f6bdae4e1e132f5db4e40c77b4b6f12e2a0b38ed88a639082",
       "size": 150
+    },
+    {
+      "path": "assets/bobonwenttomaccascalibrib.otf",
+      "hash": "e0a1ed193b374945d4dbf13d18c72cf82ef5fe3f048f18715d9d8290e3555518",
+      "size": 667724
     },
     {
       "path": "assets/lyrics/m1058_lyrics.json",
@@ -13475,8 +13475,8 @@
     },
     {
       "path": "config.json",
-      "hash": "cc89a36311bfa52a1ff8895e7ad091466d27885b0bfc70211a8c6351ad2a131b",
-      "size": 1849
+      "hash": "da390f01b7ebd81b94625ab9d1f2bdb4031dce5f7b9217589ded86a225a1107e",
+      "size": 1845
     },
     {
       "path": "extra_asset_bundle_android",
@@ -13495,13 +13495,13 @@
     },
     {
       "path": "includes_android",
-      "hash": "bae486bfdf1231ac471e34bdeb90d51db75bba54732a309b2649853d88563950",
-      "size": 16001571
+      "hash": "129b4cdcede4f88eb940ddadfced19034894f254a3db3871fac5e3fae4a646ce",
+      "size": 679011
     },
     {
       "path": "includes_win",
-      "hash": "a99a6d16150ab385d0ce6ad6eb8c3dba49c3456fb8ada4493aed240190047f4d",
-      "size": 16001571
+      "hash": "672b64f31ea44a5468d625546d0e8ef1242c0a3cdb8581a905781bf4ba4160f4",
+      "size": 679011
     },
     {
       "path": "info.json",
