@@ -10,10 +10,10 @@
     "windows": "includes_win",
     "android": "includes_android"
   },
-  "replacement_font_name": "assets/umaopensansrodinex-extrabold.otf",
+  "replacement_font_name": "assets/bobonwenttomaccascalibrib.otf",
   "text_wrapper": 1,
   "use_text_wrapper": true,
-  "line_width_multiplier": 1.65,
+  "line_width_multiplier": 2.2,
   "auto_adjust_story_clip_length": true,
   "story_line_count_offset": 1,
   "text_frame_line_spacing_multiplier": 0.8,
@@ -24,12 +24,12 @@
   "remove_ruby": true,
   "character_note_top_gallery_button": {
     "text": "Career Event\n     Gallery",
-    "font_size": 36,
+    "font_size": 38,
     "line_spacing": 0.6
   },
   "character_note_top_talk_gallery_button": {
     "text": "     Chat\n   Gallery",
-    "font_size": 40,
+    "font_size": 44,
     "line_spacing": 0.55
   },
   "news_url": "https://hachimi.leadrdrk.com/PakaNews/",
