@@ -1,0 +1,382 @@
+{
+  "title": "Trận chiến piano góc phố!",
+  "jptitle": "街角ピアノバトル！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Trên đường trở về sau chuyến đi chơi. Nhìn thấy cây piano công cộng trong khu phố thương mại, K.S.Miracle dừng bước.",
+      "jpname": "モノローグ",
+      "jptext": "お出かけの帰り道。\nケイエスミラクルは、商店街にある\nストリートピアノを見ると足を止めた。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A, piano công cộng. Mà nghĩ lại...... dạo này em ít được chơi piano ghê......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あっ、ストリートピアノ。\nそういえば……ピアノ、\n最近あまり弾けてないな……。",
+      "choice_data_list": [
+        "Chơi một khúc rồi về nhé?"
+      ],
+      "jpchoice_data_list": [
+        "弾いてから帰ろうか"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, được thế cơ à......! Em cảm ơn anh!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ、いいんですか……！\nありがとうございます！"
+    },
+    {
+      "name": "",
+      "text": "K.S.Miracle bắt đầu chơi một bài nhạc pop một cách nhẹ nhàng và đầy hứng thú.",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルは、\n穏やかに、そして楽しそうに\nポップソングを弾きはじめた。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phù......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふぅ……。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Oaaa! Chơi giỏi quá đi! Tôi nghe mà quên cả trời đất!",
+      "jpname": "ウマチューバー",
+      "jptext": "わぁぁ！　すっごくお上手ですね！\n思わず聴き入っちゃいましたよ！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đâu có, tay nghề em bình thường thôi...... Nhưng em cảm ơn ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そんな、大したことは……。\nけど、ありがとうございます。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Này em...... nói đột ngột thật, tôi đang làm UmaTuber chuyên piano! Nếu em thấy ổn, xuất hiện trong video của tôi nhé!?",
+      "jpname": "ウマチューバー",
+      "jptext": "あの……突然なんですけど、\n私、ピアノ系ウマチューバーをやってて！\nよかったら、動画に出演してくれませんか！？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "X-xuất hiện......? Em sao......?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "しゅ、出演……？\nおれが……？"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Vâng! Tôi đang thực hiện dự án đối đầu với những nghệ sĩ piano tìm thấy giữa phố!",
+      "jpname": "ウマチューバー",
+      "jptext": "はい！　街中で見つけたピアニストと\n対決する企画を考えてまして！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Tôi cứ mời liên tục những người có màn trình diễn tuyệt đẹp! Nhưng...... toàn bị từ chối......",
+      "jpname": "ウマチューバー",
+      "jptext": "素敵な演奏をする方に\nずっと声をかけてるんです！\nが……断られっぱなしで……。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Đang định dừng hẳn dự án này thì đúng lúc tiếng đàn của em vang lên......!",
+      "jpname": "ウマチューバー",
+      "jptext": "もうこの企画を中止にしようって考えてたら、\nちょうどあなたの演奏が\n聞こえてきたんです……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Thì ra là thế......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そう、なんですね……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Trainer-san. Anh đợi em một chút được không? Em muốn góp phần vào video này......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……トレーナーさん。\n少しだけ、待ってもらえますか？\n動画、協力したくて……。",
+      "choice_data_list": [
+        "Ừ, đương nhiên rồi!",
+        "Ừ, đương nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、もちろんだ！",
+        "うん、もちろん！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em cảm ơn anh, Trainer-san. Em sẽ cố gắng nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ありがとうございます、トレーナーさん。\nおれ、頑張ってきますね。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Em nhận lời cơ à!? Em cảm ơn chị!!",
+      "jpname": "ウマチューバー",
+      "jptext": "受けてくれるんですかっ！？\nありがとうございますっ！！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "V-vậy thì bắt đầu ngay! Ta chuyển sang sân khấu bên kia! Ở đó có hai cây đàn mà!",
+      "jpname": "ウマチューバー",
+      "jptext": "じゃ、じゃあ早速！\nあっちのステージに移動しましょう！\nピアノが2台ありますから！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Mà nghĩ lại, trận đấu piano sẽ làm gì nhỉ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そういえば、ピアノの対決って\nどんなことをするんですか？"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Tôi đang tính giữa hai hình thức: chơi nhanh bài Neko Funjatta, hoặc đấu tổng hợp theo kiểu nối tên bài!",
+      "jpname": "ウマチューバー",
+      "jptext": "ねこふんじゃったの速弾きか、\n曲名しりとりのメドレー勝負の\nどちらかで考えてます！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Luật chơi nhanh thì đúng như tên gọi. Hai người cùng bắt đầu chơi, ai hoàn thành 30 lượt trước thì thắng!",
+      "jpname": "ウマチューバー",
+      "jptext": "速弾きのルールは、ズバリその名の通り。\n2人で同時に演奏を始めて、\n先に30回弾き終えたほうの勝利！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Đấu tổng hợp thì theo kiểu nối tên bài, luân phiên tiếp tục chơi đàn. Ai dừng đàn trước thì thua!",
+      "jpname": "ウマチューバー",
+      "jptext": "メドレー勝負は、しりとりの要領で\n曲名をつないで、交互に演奏を続けます。\n演奏を止めてしまったほうの負け！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Thế nên, em cứ chọn hình thức mình thích nhé!",
+      "jpname": "ウマチューバー",
+      "jptext": "というわけで、\nどちらか好きなほうを選んでください！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì, bên nào nghe cũng vui nhỉ. À mà...... Trainer-san thấy bên nào hay hơn?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ、どっちも楽しそうですね。\nそうだな……トレーナーさんは\nどっちがいいですか？",
+      "choice_data_list": [
+        "Đấu thử nhanh tay đi!",
+        "Thử đối đầu bằng nối tên bài nào!"
+      ],
+      "jpchoice_data_list": [
+        "速弾きで勝負！",
+        "曲名しりとりで対決してみよう！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đấu tốc độ à...... Ừm, khí thế bùng lên rồi đây.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "スピード勝負か……。\nうん、気合い入りますね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Được rồi, em sẽ gắng hết mình. Vì chị đã cố tình mời gọi, em sẽ đáp lại bằng tất cả sự nghiêm túc!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "よしっ、おれ、精一杯頑張ります。\nわざわざ声をかけてくれたんですから、\n本気で応えますよ！"
+    },
+    {
+      "name": "",
+      "text": "Mọi thứ đã sẵn sàng, quay hình bắt đầu!",
+      "jpname": "モノローグ",
+      "jptext": "準備が整い、撮影が始まった！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Thế thì phần đếm ngược, nhờ anh bên kia nhé!",
+      "jpname": "ウマチューバー",
+      "jptext": "それじゃあカウントダウンは、\nそちらの方、よろしくお願いします！",
+      "choice_data_list": [
+        "3, 2, 1...... bắt đầu!"
+      ],
+      "jpchoice_data_list": [
+        "3、2、1……スタート！"
+      ]
+    },
+    {
+      "name": "Hai người",
+      "text": "!!",
+      "jpname": "2人",
+      "jptext": "っ！！"
+    },
+    {
+      "name": "",
+      "text": "Xuất phát ngang tài ngang sức! Hai bên không nhường nhau từng tấc, cùng bắt đầu chơi với tốc độ kinh hoàng!",
+      "jpname": "モノローグ",
+      "jptext": "スタートは互角！\n両者一歩も譲らず、\nものすごい速さで弾き始めた！"
+    },
+    {
+      "name": "Cô A",
+      "text": "Ơ la la, bài Neko Funjatta à? Hi hi hi, nhanh thật đấy!",
+      "jpname": "おばさんA",
+      "jptext": "あら～、ねこふんじゃった？\nふふふっ、速いわねえ～！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phụt!!!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふっ！！！！",
+      "choice_data_list": [
+        "(Vừa tung cú tăng tốc rồi!?)"
+      ],
+      "jpchoice_data_list": [
+        "（スパートをかけた！？）"
+      ]
+    },
+    {
+      "name": "Cô A",
+      "text": "!? K-không phải mức thường! Tốc độ gì thế này......――Hả!?",
+      "jpname": "おばさんA",
+      "jptext": "っ！？　ふ、普通じゃないわ！\nなんてスピードなの……――ハッ！？"
+    },
+    {
+      "name": "Cô A",
+      "text": "T-tôi thấy rồi...... con mèo đang nhảy với vận tốc ánh sáng!! Bài Neko Funjatta kiểu này, tôi chưa từng nghe qua!!",
+      "jpname": "おばさんA",
+      "jptext": "み、見えるわ……高速で踊るネコが！！\nこんなねこふんじゃった、\n聴いたことないわっ！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......chết! chết!! ......Phù.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……っ！　っ！！\n…………ふぅ。"
+    },
+    {
+      "name": "",
+      "text": "Bỏ xa đối thủ một khoảng cách áp đảo, K.S.Miracle kết thúc phần chơi trước!",
+      "jpname": "モノローグ",
+      "jptext": "相手を圧倒的に引き離して、\nケイエスミラクルが先に演奏を終えた！",
+      "choice_data_list": [
+        "Người chiến thắng, K.S.Miracle!!"
+      ],
+      "jpchoice_data_list": [
+        "勝者、ケイエスミラクル！！"
+      ]
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Cảm ơn chị về một trận đấu hay đấy! Tốc độ kinh khủng thật!",
+      "jpname": "ウマチューバー",
+      "jptext": "いい勝負、ありがとうございましたっ！\nすごいスピードでしたね！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không đâu, mới là em phải cảm ơn chị. ......Nhớ lại rồi, lần trước chơi cho các bé nghe, chúng cũng hào hứng lắm mà.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "いえ、こちらこそありがとうございます。\n……思い出すなぁ、前に子どもたちに\n弾いてあげたときも盛り上がってくれたっけ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Càng chơi nhanh chúng càng hào hứng, đến em cũng cuồng nhiệt luyện tập theo......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "速弾きすればするほど盛り上がってくれて、\nおれも練習に力が入っちゃって……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Mong video này cũng khiến mọi người thấy vui thật nhiều.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……この動画も、みんなたくさん\n楽しんでくれたらいいなぁ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Được chơi nhiều bài thì nghe chắc sẽ thú vị nhỉ. Chị ấy sẽ chơi bài gì đây, em háo hức quá.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "たくさん演奏できて、\nおもしろそうですよね。\n彼女がどんな曲を弾くのか、ワクワクします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng mà, đấu là đấu...... Vui vẻ là một chuyện, nhưng em sẽ chơi đàn nghiêm túc nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ただ、勝負は勝負……。\n楽しむのもいいけど、\n真剣に演奏してきますね。"
+    },
+    {
+      "name": "",
+      "text": "Mọi thứ đã sẵn sàng, quay hình bắt đầu!",
+      "jpname": "モノローグ",
+      "jptext": "準備が整い、撮影が始まった！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Với vai trò chủ kênh, tôi nhường lượt đi trước. ......Nào, mời em!",
+      "jpname": "ウマチューバー",
+      "jptext": "チャンネルのホストとして、\n先攻は譲りますね。……さあ、どうぞ！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em hiểu rồi. Vậy thì, đầu tiên là......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "わかりました。\nじゃあ、まずは……。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "――! Ồ, “Katatsumuri”......! Chị chọn bài đồng dao đấy à!",
+      "jpname": "ウマチューバー",
+      "jptext": "――！\nへぇ～、『かたつむり』……！\n童謡できましたか！"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Vậy thì tôi đánh một bài pop!",
+      "jpname": "ウマチューバー",
+      "jptext": "じゃあ、私はポップソングで！"
+    },
+    {
+      "name": "Cô nữ sinh",
+      "text": "A, bài này. Là “Phản ứng độ nhạy tối đa” hả? Dạo này đang hot lắm mà!",
+      "jpname": "女子高生",
+      "jptext": "あっ、これ。\n『リアクション最高感度』じゃない？\nなんか今めっちゃ流行ってるよねー！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy thì, em lấy bài này.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "じゃあ、これで。"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Ơ. Lại đồng dao nữa? “Donguri Korokoro”, ro, ro...... Ra rồi!",
+      "jpname": "ウマチューバー",
+      "jptext": "えっ。また童謡？\n『どんぐりころころ』、ろ、ろ……。\nそうだっ！"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, chuỗi chuyền tay tiếp diễn qua nhiều lượt, K.S.Miracle vẫn tiếp tục trận đấu chỉ bằng những bài đồng dao!",
+      "jpname": "モノローグ",
+      "jptext": "その後も、何往復もリレーが続く中、\nケイエスミラクルは童謡だけで\n勝負を続ける！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "――Dây xích nhỏ tí teo ấy, lũ trẻ đang bơi lội vui vẻ thế đó♪",
+      "jpname": "ケイエスミラクル",
+      "jptext": "――ちいさいひごいは　こどもたち\nおもしろそうに　およいでる♪"
+    },
+    {
+      "name": "UmaTuber",
+      "text": "R-ri...... “Koinobori” cũng có ri...... ......ừm thì, ừm thì...... T-tôi đầu hàng......!",
+      "jpname": "ウマチューバー",
+      "jptext": "り、り……『こいのぼり』の、り……\n……えっと、えっと……くっ。\nま、参りました……！",
+      "choice_data_list": [
+        "Người chiến thắng, K.S.Miracle!"
+      ],
+      "jpchoice_data_list": [
+        "勝者、ケイエスミラクル！"
+      ]
+    },
+    {
+      "name": "UmaTuber",
+      "text": "Đường nào chỉ bằng đồng dao mà vượt cả kho bài của tôi......! Tôi được học hỏi nhiều! Cảm ơn chị!",
+      "jpname": "ウマチューバー",
+      "jptext": "まさか童謡だけで、\n私のレパートリーを上回るだなんて……！\n勉強になりました！　ありがとうございます！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không đâu, nào có. Em chỉ muốn đáp cho trọn sở thích của mọi người nên mới học nhiều bài thế thôi......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "いえ、そんな。\nみんなの好みに全部応えてあげたくて、\n色々覚えたかっただけなので……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì. Mong là sẽ có thật nhiều bé hát theo video này.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふっ。\nこの動画に合わせて、\nたくさんの子が歌ってくれるといいな。"
+    }
+  ]
+}

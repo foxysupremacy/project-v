@@ -1,0 +1,664 @@
+{
+  "title": "Tại trại huấn luyện mùa hè (Năm 2)",
+  "jptitle": "夏合宿（2年目）にて",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Trại hè cuối cùng cũng sắp khép lại. “Keenland Cup” cũng ngày càng cận kề, đúng vào lúc cao trào nhất――",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿もいよいよ大詰め。\n『キーンランドC』も近づいてきて、\nまさしく佳境、といったところだが――"
+    },
+    {
+      "name": "",
+      "text": "......Chính vì thế!!",
+      "jpname": "モノローグ",
+      "jptext": "……だからこそ！！",
+      "choice_data_list": [
+        "Hôm nay, cứ chơi cho thỏa thích nào!"
+      ],
+      "jpchoice_data_list": [
+        "今日は、思いっきり遊ぼう！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hì hì...... vào những lúc thế này, em có một câu nói cực kỳ hợp cảnh, được một vị “bão tố” nào đó truyền lại cho đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふふ……私、こんな時にぴったりな言葉を、\nある暴風さんから教わっておりますよ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hả? À, chẳng lẽ là......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ？　あ、もしかして……。"
+    },
+    {
+      "name": "Zephyr & Miracle",
+      "text": "“Weeeiii”. “Weeeiii”......?",
+      "jpname": "ゼファー＆ミラクル",
+      "jptext": "『うぇ～～～い』。\n『うぇ～～～い』……？",
+      "choice_data_list": [
+        "Weeeiii!"
+      ],
+      "jpchoice_data_list": [
+        "ウェーーーイ！"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Chà. Trainer-san của Miracle-san, đón gió khéo thật đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "まあ。ミラクルさんのトレーナーさん、\nよい風招きぶりですね。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Cơ mà Miracle-san thật là. Hì hì hì, em không ngờ bạn lại mua hẳn một cặp kính thường về đấy.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "にしてもミラクルさんったら。ふふふ、\nまさか、普通の眼鏡を買ってこられるとは\n思いませんでした。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Được nhân viên cửa hàng gợi ý nên em lỡ mua luôn...... nhưng nhìn cái của Zephyr thì, chắc em mua nhầm đồ rồi...... đúng không?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "店員さんにすすめられちゃって、つい……\nでも、ゼファーのを見る限り、おれ多分、\n買うものを間違った……んだよね？",
+      "color_text_info_list": [
+        "Zephyr"
+      ],
+      "jpcolor_text_info_list": [
+        "ゼファー"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em được chỉ giáo là “trước hết cứ vào từ diện mạo, phần còn lại cứ theo cảm hứng”―― nghe bảo hễ nhắc đến “party” là phải đeo kiểu này đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "『形からインして後はノリ』、\nとうかがっておりまして――\n『ぱーりぃ』といえば、こちらだそうで。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Nhưng mà này, hình dáng cũng chẳng khác nhau mấy đâu, và kiểu đó cũng là một cơn gió thuận đấy ạ. Rất hợp với bạn đấy, Miracle-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ただ、まあ、形はそう違いませんし、\nそちらもまた順風でしょう。\nよくお似合いです、ミラクルさん。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy à? Cảm ơn cậu...... Trông Zephyr cũng có vẻ vui lắm, thích thật đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうかな？　ありがとう……\nゼファーも、すごく楽しそうな感じでいいね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Còn Trainer-san thì...... oa, là kính hình ngôi sao đấy ạ!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "それで、トレーナーさんは……\nわぁ、星形なんですね！",
+      "choice_data_list": [
+        "Vì anh muốn tận hưởng thật trọn vẹn mà!",
+        "Vì anh muốn tận hưởng thật trọn vẹn mà nhỉ!"
+      ],
+      "jpchoice_data_list": [
+        "楽しんでいきたいからな！",
+        "楽しんでいきたいからね！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ra vậy...... với cả Trainer-san nữa, việc xả hơi cũng rất quan trọng nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そっか……トレーナーさんにとっても\n息抜きって、大切ですよね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vâng. Hôm nay mọi người cùng nhau thư giãn thật thoải mái nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん。今日はみんなで、\nたくさんリフレッシュしましょう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi lên kế hoạch này là để K.S.Miracle được thư giãn hơn là cho bản thân mình, nhưng chẳng cần nói toạc ra làm gì.",
+      "jpname": "モノローグ",
+      "jptext": "自分……というよりもケイエスミラクルに\nリフレッシュしてほしくて企画したのだが、\nわざわざ言い含めることもないだろう。"
+    },
+    {
+      "name": "",
+      "text": "Thậm chí xét tính cách của cô ấy, có khi để em nghĩ rằng “đang giúp Trainer nghỉ ngơi” lại khiến em vui chơi thoải mái hơn ấy chứ.",
+      "jpname": "モノローグ",
+      "jptext": "むしろ彼女の性格を考えると、\n『トレーナーの休息を手伝う』と考えて\nいたほうが、遊びやすい可能性さえある。",
+      "choice_data_list": [
+        "(Dù sao đi nữa...... hôm nay nhất định phải để em xả hơi!)"
+      ],
+      "jpchoice_data_list": [
+        "（ともかく……息抜きさせよう、今日は！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thế là cả ngày hôm đó, tôi cùng K.S.Miracle và Yamanin Zephyr cứ thế rong chơi khắp nơi......!",
+      "jpname": "モノローグ",
+      "jptext": "と、いうことで、その日はとにかく\nケイエスミラクル・ヤマニンゼファーと\n遊び回った……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt quá...... hì hì, hiếm khi nào mới được ăn món xịn thế này nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "すごい……ふふ、こんなに立派なのが\n食べられるなんて、なかなかないなぁ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Được bảo là có thể chọn tận 3 vị nên em hơi phân vân mất rồi. Tâm trạng cứ như tơ liễu bay theo gió vậy......",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "3つも選んでよいと言われると、\n少し迷ってしまいました。\nさながら飛絮の気持ち……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đúng nhỉ. Nhưng mà kiểu phân vân chọn xem vị nào ngon thế này cũng vui thật đấy――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうだね。\nでも、何がいいかなって選ぶのも\nこういうのは楽しいね――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À, đúng rồi, Trainer-san. Em có xin dư thêm một cái thìa nữa nên là......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "と、そうだ、トレーナーさん。\nスプーン、余分にもらってきたので……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nếu anh không ngại thì có muốn thử một thìa của em không ạ? ......Nhìn ngon đến mức khó chọn thế cơ mà nhỉ, món sherbet lý chua đen ấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "よかったらおれの、ひと口いりませんか？\n……迷っちゃうくらいおいしそうですもんね、\nカシスのシャーベット。"
+    },
+    {
+      "name": "",
+      "text": "Nghe em nói vậy, tôi mới giật mình nhận ra. Thứ trên tay em cầm, đích thị là vị lý chua đen mà tôi đã phân vân đến tận phút chót.",
+      "jpname": "モノローグ",
+      "jptext": "言われてみて、はっとする。彼女が\n持っているのは、確かに自分が最後まで\nどちらにしようか迷ったカシス味だった。",
+      "choice_data_list": [
+        "Ủa, chẳng lẽ em chọn phần đó cho anh sao!?",
+        "Ủa, chẳng lẽ em chọn phần đó cho anh à!?"
+      ],
+      "jpchoice_data_list": [
+        "あれ、もしかして俺のために選んだのか！？",
+        "あれ、もしかして私のために選んだの！？"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A ha ha, đâu có đâu. Chỉ là nhìn anh phân vân quá, em cũng thèm theo thôi mà.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あははっ、いえいえ。\nトレーナーさんが悩んでるのを見て、\nおれも食べたくなっちゃっただけなんです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Mà nó ngon thật sự nên...... em muốn anh cũng được nếm thử ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "それで、本当においしかったから……\nトレーナーさんにも、食べてほしくって。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Anh thấy sao ạ? Trước khi nó tan mất, nếu anh không phiền.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……どうでしょう？\n溶けちゃう前に、よかったら。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ơ kìa, Miracle-san...... vừa mới nằm xuống nghỉ ngơi được một chút, bạn lại ngồi dậy mất rồi ạ?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あら、ミラクルさん……\nせっかく横になっていましたのに、\n起きてしまわれるんですか？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừ-ừm. Chắc tại hiếm khi đến khu nghỉ dưỡng thế này, nên em hơi hồi hộp chút......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "う、うーん。こんなリゾートなんて\nめったに来ないせいかな、\nちょっと緊張しちゃって……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ra là thế, ngay cả việc đón gió biển cũng khiến bạn bỡ ngỡ...... nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "なるほど、浦風を浴びるにも\n戸惑ってしまう……と。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Nếu vậy, để em hát một bài nhé? ......Thật ra em rất hay được khen là “nghe rất thư giãn” đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "であれば、私、歌いましょうか。\n……実は『リラックスできる』と\nよくお褒めいただくのです。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Từ gia đình đến các bạn cùng lớp...... cả những bạn thú hay nô đùa cùng em trong rừng nữa.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "家族やクラスのみなさま……\nあとは、森でよく戯れる、\nさまざまな動物さんたちにも。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy sao......! Tuyệt ghê, đúng là Zephyr.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうなんだ……！\nすごいなぁ、さすがゼファーだ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Hì hì. Vậy thì, em xin phép mạo muội nhé.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふふ。\nでは、僭越ながら。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "......la......laa♪",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………～♪"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "......la......laa♪ ......la......laa♪",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………～♪\n…………～♪",
+      "choice_data_list": [
+        "(Ơ, tôi sắp ngủ gật mất rồi......!)",
+        "(Ơ, tôi sắp ngủ gật mất rồi......!)"
+      ],
+      "jpchoice_data_list": [
+        "（お、俺が寝てしまいそうだ……！）",
+        "（わ、私が寝てしまいそう……！）"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Phù...... có vẻ như kịp lúc bắn pháo hoa rồi đấy ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ふぅ……花火の打ち上げには、\nどうにか間に合ったようですね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A, Trainer-san! Xin lỗi vì để anh chờ nhé......! Thay đồ không ngờ lại mất nhiều thời gian thế......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、トレーナーさん！\nお待たせしちゃってすみません……！\n着替え、意外と時間がかかって……。",
+      "choice_data_list": [
+        "Không đâu, anh chẳng phải chờ gì cả",
+        "Không hề, anh chẳng phải chờ gì cả"
+      ],
+      "jpchoice_data_list": [
+        "いや、全然待ってないよ",
+        "ううん、全然待ってないよ"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Thế ạ? ......Em cảm ơn anh.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうですか？\n……ありがとうございます。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san cũng mặc jinbei à...... kiểu dáng tuy khác nhưng màu lại đồng bộ nhỉ. ......Hì hì, em thấy vui lắm.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさんも甚平……\nデザインは違うけど、色がお揃いですね。\n……ふふ、ちょっと嬉しいです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san mặc yukata à...... kiểu tóc cũng khác với ngày thường nữa. Trông chững chạc mà đẹp lắm ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさんは浴衣……\n髪型も、いつもと違う感じなんですね。\n大人っぽくって、素敵です。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "A...... Miracle-san, Trainer-san. Nhìn kìa. Trên kia――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "あっ……ミラクルさん、トレーナーさん。\n見てください。上――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Oa! ......Đẹp thật đấy......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "わぁ！　……綺麗だなぁ……。"
+    },
+    {
+      "name": "",
+      "text": "Ngắm nhìn góc nghiêng của K.S.Miracle dưới ánh pháo hoa rực rỡ sắc màu, tôi thầm nghĩ. Không biết em đã thấy vui chưa, đã được nghỉ ngơi trọn vẹn chưa――",
+      "jpname": "モノローグ",
+      "jptext": "色とりどりの花火に照らされる、\nケイエスミラクルの横顔を見ながら思う。\n楽しめただろうか、休めただろうか――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Đúng là khoảnh khắc đẹp tựa như giữa cơn mưa hoa anh đào vậy nhỉ. Nào, tiếp theo thì――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "花嵐のさなかもかくや、\nといった時間でしたね。\nさて、あとは――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Chúng ta đi dạo quanh các gian hàng một chút nhé? Hãy thả mình theo cơn vui náo nhiệt này thôi nào.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "少し屋台でも巡りませんか？\nこの楽しい神立に、身を任せるとしましょう。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Gian hàng lễ hội à...... ừ nhỉ, đi thôi! Trainer-san có để ý gian nào không ạ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "屋台か……そうだね、行こう！\nトレーナーさんは、\nどんなのが気になりますか？",
+      "choice_data_list": [
+        "Chắc là đồ ăn nào ăn vào thấy lên tinh thần nhỉ",
+        "Trò chơi nào khiến mình hừng hực khí thế ấy!"
+      ],
+      "jpchoice_data_list": [
+        "元気が出そうな食べ物系かな",
+        "気合いが入りそうなゲーム系！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đồ ăn lễ hội lúc nào cũng hấp dẫn thật đấy ạ. Món nào trông cũng bắt mắt vui tươi, mà mùi hương lại còn......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "お祭りの食べ物って、魅力的ですよね。\n楽しげな見た目のものが多いし、\n匂いも……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhớ thật đấy. Những tối gần bệnh viện có lễ hội, con đường trước cổng cũng bỗng dưng nhộn nhịp hẳn lên...... mùi nước sốt nướng thơm lừng bay đến tận từ đằng xa.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "懐かしいなぁ。近くでお祭りがある日の夜は、\n病院前の通りもなんだか賑やかで……\nうんと遠くから、ソースの香りがしてたっけ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "................",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "…………。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ kìa? Zephyr? ......Cậu ấy đi đâu mất rồi nhỉ......?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あれっ？　ゼファー？\n……どうしたんでしょう……？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "――Xin lỗi vì để mọi người đợi lâu. Nào, Miracle-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "――お待たせしました。\nさあ、ミラクルさん。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hả...... ơ, Zephyr? Nhiều thế này, rốt cuộc là sao......!?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ……えっ、ゼファー？\nすごい量だけど、いったい……！？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng. Vậy nên, chúng ta hãy hít hà thật nhiều. Và, hãy ăn thật nhiều. Cùng với nhau.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "はい。ですので、たくさん嗅ぎましょう。\nそして、たくさん食べましょう。共に。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "......Nhé?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……ね？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Zephyr......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ゼファー……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A ha ha...... ừ, làm vậy nhé. ......Cảm ơn cậu, Zephyr.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あははっ……うん、そうしようか。\n……ありがとう、ゼファー。"
+    },
+    {
+      "name": "",
+      "text": "Vì K.S.Miracle vốn ăn ít nên tôi cũng phải gắng sức lắm...... nhưng rốt cuộc cả ba cũng ăn sạch sành sanh.",
+      "jpname": "モノローグ",
+      "jptext": "なにしろケイエスミラクルが少食なので、\n自分もだいぶ頑張らねばならなかったが……\nどうにか、3人で完食したのだった。"
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, sáng hôm sau.",
+      "jpname": "モノローグ",
+      "jptext": "――そして、翌朝。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trò chơi...... bắn súng nút bần hay rút thăm trúng thưởng ấy ạ? Hì hì, trò nào trông cũng vui cả.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ゲーム……射的とか、くじ引きとかですか？\nふふっ、どれも楽しそうですよね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À nhắc mới nhớ...... ở bệnh viện em hay đến đánh đàn piano, từng có một em bé thân thiết tặng cho em một quả bóng nước yo-yo đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そういえば……いつもピアノを弾きに行く\n病院で、仲良くしてくれてた子がヨーヨーを\nプレゼントしてくれたこと、あったなぁ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hình như bé không biết là nó sẽ bị xì hơi, nên lúc lấy ra thấy nó teo nhỏ lại liền bật khóc nức nở...... nhưng em thì thấy vui lắm.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "しぼんじゃうって知らなかったみたいで、\n取り出したら小さくなってたから、\n泣いちゃって……でも、おれは嬉しくて。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì, giờ nó khô quắt cả rồi nhưng em vẫn giữ đến tận bây giờ đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ、もうすっかりカラカラなんですけど、\n取ってあるんですよ、今も。",
+      "choice_data_list": [
+        "Nhân dịp này, chơi thử trò câu bóng yo-yo nhé"
+      ],
+      "jpchoice_data_list": [
+        "せっかくだしやろうか、ヨーヨー釣り"
+      ]
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Vâng. Rồi mình cùng tặng qua tặng lại cho nhau nhé.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ええ。\nそして、贈り合いましょう。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Em sẽ cố gắng câu bằng được nhé. Nhất định sẽ chọn màu thật hợp với bạn.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "私、頑張って取りますから。\nあなたに似合いそうな色を、ぜひ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san, Zephyr...... ừ, nhất định nhé, nhờ hai người đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、ゼファー……\nうん、ぜひ、お願いします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không biết em nên tặng hai người màu gì đây nhỉ. Với Zephyr thì...... màu xanh da trời? Còn với Trainer-san thì――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれは、2人にどんな色を贈ろうかなぁ。\nゼファーには……空色？\nトレーナーさんには――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm, phải cố lên mới được!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うんっ、頑張らないと！"
+    },
+    {
+      "name": "",
+      "text": "Thế là cả ba đã cùng nhau tận hưởng trò câu bóng yo-yo và buổi trao đổi quà......",
+      "jpname": "モノローグ",
+      "jptext": "こうして、3人でヨーヨー釣りと交換会を\n楽しんだのだった……。"
+    },
+    {
+      "name": "",
+      "text": "――Và rồi, sáng hôm sau.",
+      "jpname": "モノローグ",
+      "jptext": "――そして、翌朝。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hự, hự―― phù.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふっ、ふっ――ふぅ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(......Hôm qua vui thật đấy)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（……昨日は、楽しかったな）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Nhưng――)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（でも――）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Hình như em đã khiến anh phải bận tâm nhiều quá rồi. Trainer-san...... lo lắng nhiều thật đấy)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（たくさん、気を使わせてるみたいだ。\nトレーナーさんに……たくさん）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phải nghĩ cách...... nói ra mới được.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "どうにかして、……伝えないと。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phải nói cho anh hiểu rằng em không sao, bằng cách nào đó――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれは大丈夫ですって、どうにか――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "――Miracle-san.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "――ミラクルさん。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ủa, Zephyr! Dậy sớm thế. ......Chẳng lẽ lúc mình ra ngoài đã lỡ đánh thức cậu à?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あれ、ゼファー！　早いね。\n……もしかして、出て行くときに起こした？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Không đâu. Em vốn đã định sẽ thức dậy rồi. Nếu như thấy bạn đi ra ngoài.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "いいえ。起きるつもりでいましたから。\nあなたが出ていくようでしたら。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hả? ......Là mình sao?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "？　……おれ？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Miracle-san. Em đã đặt “Sprinters Stakes” làm mục tiêu rồi.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ミラクルさん。私は、\n『スプリンターズS』を目標と定めました。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Dù phải nghỉ dưỡng một thời gian dài...... nhưng cuối cùng, em đã sẵn sàng để hóa thành ngọn gió lồng lộng rồi ạ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "長らくの休養を余儀なくされましたが……\nようやく、颯となる準備が整いましたので。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ra vậy......! Vậy là cuối cùng...... tụi mình, những người đồng kỳ cũng có thể so tài với nhau rồi nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そっか……！　そうか、やっと……\nおれたち、同期で勝負できるんだね。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "......Vậy quả nhiên, bạn cũng định thế sao?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "……ではやはり、あなたも？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừ, tất nhiên rồi. Em cũng sẽ tham dự “Sprinters Stakes”. Chạy hết mình, và nhất định giành lấy chiến thắng――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん、もちろん。\nおれも出るよ、『スプリンターズS』。\n出て、必ず勝利を――"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngay cả khi đang cảm thấy mệt mỏi và bất ổn, vẫn vậy sao?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "疲労や不調を感じながらも、ですか？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "! ......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！　……。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Ngay cả khi thân thể băng qua bão táp ấy đang tổn thương, đang dần rạn vỡ từng chút một sao?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "嵐をゆくその身が、傷つき、\n徐々に軋みを上げているのだとしても？"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Bạn vẫn sẽ ra sân sao? ......Thật sự chứ?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "出走、されるのですか？\n……本当に？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em vẫn sẽ chạy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "出るよ。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "!!",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Cảm ơn cậu vì đã lo lắng cho em.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……心配してくれて、ありがとう。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng không sao đâu. Em đã biết rõ chuyện đó rồi. Ngay từ đầu―― em đã biết.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "でもいいんだ。わかってたことなんだ。\n最初から――わかってた。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhờ phép màu mà mọi người trao cho, em mới có thể chạy được đến tận bây giờ. Nhưng――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "みんなにもらった奇跡で、\nおれはやっと走れてる。でも――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phép màu rồi cũng có giới hạn. Nó không thể kéo dài mãi mãi. ......Chính vì thế, mới phải là “Sprinters Stakes”.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "奇跡にだって、限りはある。\nずっとずっとは続かない。\n……だから、『スプリンターズS』なんだ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Phải thắng ở đó. Ngoài ra, chẳng còn gì nữa. ......Với em, chẳng còn gì khác nữa.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そこで勝つ。それ以外に、ない。\n……ないんだ、おれには。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Xin lỗi nhé. Em phải đi chạy đây. Gặp lại sau nhé, Zephyr.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……ごめん。\nおれ、走ってこなくちゃ。\nまた後でね、ゼファー。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "................",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "………………。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Miracle-san――",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ミラクルさん――"
+    }
+  ]
+}

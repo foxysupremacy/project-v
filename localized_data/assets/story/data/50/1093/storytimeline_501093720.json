@@ -1,0 +1,878 @@
+{
+  "title": "Thầy châm kim an tâââm, xuất☆hiện",
+  "jptitle": "あんし～ん笹針師、参☆上",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, tôi đưa <chrname> đến phòng y tế để kiểm tra thể trạng thì――",
+      "jpname": "モノローグ",
+      "jptext": "ある日、<chrname>の体の調子を\n見てもらうため、保健室へやって来ると――"
+    },
+    {
+      "name": "???",
+      "text": "À, vâng vâng! Khách h…… à không, bạn học sinh đúng không nè!",
+      "jpname": "？？？",
+      "jptext": "あっ、はいはーい！　お客さ……じゃない、\n生徒さんね！"
+    },
+    {
+      "name": "???",
+      "text": "Chấn thương? Bệnh tật? Hay là chăm sóc tinh thần? Thôi cứ giao hết ráo cho chị lo nhé!",
+      "jpname": "？？？",
+      "jptext": "ケガ？　病気？　それともメンタルケア？\nま、ぜーんぶドドンと任せちゃってよ！",
+      "choice_data_list": [
+        "……Cô là ai thế ạ!?"
+      ],
+      "jpchoice_data_list": [
+        "……誰ですか！？"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Hả? Thì đang ở phòng y tế nên…… chắc là cô giáo y tế hơi bị kỳ ảo một chút? Kiểu kiểu vậy?",
+      "jpname": "？？？",
+      "jptext": "え？　そりゃー保健室にいるんだから……\nちょっぴりファンタスティックな保健の先生？\n的な？",
+      "choice_data_list": [
+        "Không phải đâu đúng không……?"
+      ],
+      "jpchoice_data_list": [
+        "違いますよね……？"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "A ha ha, quả nhiên là không lừa được rồi. Thôi thì chị xưng danh đàng hoàng vậy nhé.",
+      "jpname": "？？？",
+      "jptext": "あっはっは、さすがに騙されないか。\nやっぱ普通に名乗る感じでいくわね。"
+    },
+    {
+      "name": "???",
+      "text": "Khụ hèm! Chẳng giấu gì hai bạn, chính chị đây――",
+      "jpname": "？？？",
+      "jptext": "ぉほん！　何を隠そう、このあたしこそ――"
+    },
+    {
+      "name": "???",
+      "text": "Vị cứu tinh (có lẽ) dẫn lối cho muôn vàn Mã Nương! Thầy châm kim huyền thoại sở hữu đôi tay kỳ diệu (tự phong)!",
+      "jpname": "？？？",
+      "jptext": "数多のウマ娘を（たぶん）導く救世主！\n奇跡の腕を持つ（自称）伝説的笹針師！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Tên chị chính là “Anshinzawa Sasami” đấy nhé!! Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "その名も、『安心沢　刺々美』よっ！！\nワォ、あんし～ん☆",
+      "choice_data_list": [
+        "…………"
+      ],
+      "jpchoice_data_list": [
+        "…………"
+      ],
+      "color_text_info_list": [
+        "Anshinzawa Sasami"
+      ],
+      "jpcolor_text_info_list": [
+        "安心沢　刺々美"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……À thì. Kiểu trị liệu thế này……? Em cũng, không có nhiều kinh nghiệm lắm……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あの。こういった治療……？　は、\nおれも、あまり経験がなくて……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Wao, trông chẳng an tâââm chút nào luôn☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "ワォ、あんし～んしてなさそ～う☆"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Thôi nào thôi nào, trước mắt thì. Chào hỏi cũng xong xuôi rồi, làm một mũi phập nhé?",
+      "jpname": "安心沢刺々美",
+      "jptext": "まあまあまあまあ、とりあえずね。\n自己紹介も済んだし、ブスッといっとく？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "D-dạ thôi! Em xin phép từ chối ạ!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "い、いえ！　遠慮します！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "A ha ha! Không cần phải sợ đâu nè? Chỉ là dùng kim tre bí truyền chích nhẹ vào chỗ giống như bí huyệt thôi mà.",
+      "jpname": "安心沢刺々美",
+      "jptext": "あっはっは！　怖がらなくていいのよ？\n秘伝の笹針でちょっと秘孔的なのを突くだけ。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Rồi thì ối giời ơi, khỏe phơi phới…… sung mãn dạt dào…… nói chung là biến chuyển cực kỳ kinh khủng luôn đấy!",
+      "jpname": "安心沢刺々美",
+      "jptext": "そしたらもー、メキメキと……モリモリと……\nとにかくすんんんごいことになるんだから！",
+      "choice_data_list": [
+        "(Đáng nghi cực độ……)"
+      ],
+      "jpchoice_data_list": [
+        "（ものすごく怪しい……）"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À! Nói trước là không hề đáng nghi đâu nhé! Chưa từng thất bại lấy 1 lần nào luôn đấy!",
+      "jpname": "安心沢刺々美",
+      "jptext": "あ！　言っとくけど怪しくないわよ！\n失敗したことなんか1度もないんだから！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Là sư phụ chị.",
+      "jpname": "安心沢刺々美",
+      "jptext": "……師匠は。",
+      "choice_data_list": [
+        "Sư phụ “thôi” á!?"
+      ],
+      "jpchoice_data_list": [
+        "師匠『は』！？"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Thôi mà thôi mà, đây cũng là phi vụ đầu tay của chị nên tính theo nghĩa rộng thì chị cũng chưa thất bại lần nào đâu nhé!",
+      "jpname": "安心沢刺々美",
+      "jptext": "まーまーあたしだってこれが初仕事なんだし\n広義じゃ失敗したことないわよ！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Chị cũng có kinh nghiệm pha trà…… à nhầm, tu luyện suốt 10 năm dưới trướng vị sư phụ huyền thoại rồi đấy.",
+      "jpname": "安心沢刺々美",
+      "jptext": "伝説の師匠のもとで10年もの間お茶くみ……\nじゃない、修行した経験もあるんだから。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "ワォ、あんし～ん☆",
+      "choice_data_list": [
+        "(Đáng nghi đến mức toát cả khí chất luôn……!)"
+      ],
+      "jpchoice_data_list": [
+        "（迸るほどに怪しい……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Quả nhiên không thể hùa theo câu chuyện này được. Tôi định dẫn <chrname> rời đi thì――",
+      "jpname": "モノローグ",
+      "jptext": "さすがにこんな話に乗るわけにはいかない。\n<chrname>を連れ、\n出て行こうとしたのだが――"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "K-khoan khoan khoan, khoan đã nào!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ま、待って待って待って、待ってってば！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Em là K.S.Miracle-chan đúng không!? Mã Nương mang bầu không khí dịu dàng ôn hòa, nhưng lại luôn khao khát phép màu và chạy với quyết tâm sắt đá!",
+      "jpname": "安心沢刺々美",
+      "jptext": "あなたケイエスミラクルちゃんでしょ！？\n優しくて温和な雰囲気を持ちながらも\n奇跡を求め、強い覚悟で走るウマ娘！",
+      "choice_data_list": [
+        "……Chị biết em ấy ạ?"
+      ],
+      "jpchoice_data_list": [
+        "……知ってるんですか"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Tất nhiên là biết rồi! Chị xem suốt mà!! Chị là fan đấy!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "そりゃ知ってるわよ！　見たもの！！\nファンだものっ！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Chị lặn lội tới đây là để cổ vũ cho hai đứa đấy! Chị tới giúp sức thật lòng đấy nhé!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "あたし、あなたたちを応援しに来たの！\n手助けしに来たのよ、これでもっ！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Vậy nên làm ơn điiii!! Cho chị một cơ hội đi mà!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "だからお願いぃ～～～！！\nあたしにチャンスをちょうだいよぉ～！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Chị Anshinzawa…… Chị tha thiết đến thế cơ ạ……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "安心沢さん……\nそんなにも懸命に……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Làm ơn làm ơn làm ơn đấy! Chị cho chọn cả vị trí bí huyệt luôn mà!",
+      "jpname": "安心沢刺々美",
+      "jptext": "お願いお願いお願いっ！\n秘孔の場所も選ばせてあげるから！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Chắc chắắắắn sẽ không thất bại đâu mà!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ぜ～ったい失敗しないからぁ～！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Chắc thế.",
+      "jpname": "安心沢刺々美",
+      "jptext": "……多分。",
+      "choice_data_list": [
+        "Chắc thế á!?"
+      ],
+      "jpchoice_data_list": [
+        "多分！？"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À ừm thì chắc chắn ở mức tiệm cận tuyệt đối? Kiểu vậy? ……Mà mấy tiểu tiết đó kệ đi!",
+      "jpname": "安心沢刺々美",
+      "jptext": "あーいや多分に程近い絶対？　みたいな？\n……まあ細かいことはいいのよ！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Quan trọng hơn là muốn nhắm bí huyệt nào nào!? Nào là tăng năng lực, tăng sức khỏe…… rồi còn có cả tăng sức hút nữa đấy nhé!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "それよりどんな秘孔を狙っちゃう！？\n能力アップに健康度アップ……\n魅力アップな～んてのもあるわよ！！"
+    },
+    {
+      "name": "",
+      "text": "……Dù tỏa ra mùi nguy hiểm đáng sợ thật, nhưng biết đâu lại có khả năng tạo ra hiệu quả phi thường…… cũng nên.",
+      "jpname": "モノローグ",
+      "jptext": "……恐ろしく危険な香りもするのだが、\nひょっとするとすごい効果が出る可能性も\nなくはない……かもしれない。"
+    },
+    {
+      "name": "",
+      "text": "Phải làm sao đây……?",
+      "jpname": "モノローグ",
+      "jptext": "どうしようか……？",
+      "choice_data_list": [
+        "Nhắm vào bí huyệt giúp trở thành Mã Nương mạnh mẽ",
+        "Nhắm vào bí huyệt giúp chiến thắng cuộc đua",
+        "Nhắm vào bí huyệt giúp khỏe mạnh tràn đầy sức sống",
+        "Nhắm vào bí huyệt tăng sức hút",
+        "Thấy bất an nên thôi vậy"
+      ],
+      "jpchoice_data_list": [
+        "強いウマ娘になれる秘孔を狙う",
+        "レースで勝てる秘孔を狙う",
+        "元気で健康になれる秘孔を狙う",
+        "魅力アップの秘孔を狙う",
+        "不安なのでやめておく"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Hừm hừm, “bí huyệt giúp trở thành Mã Nương mạnh mẽ” đúng không nào!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ほむほむ、\n『強いウマ娘になれる秘孔』ね！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Vậy thì chị chích phập luôn nhé? Được chứ? ……Thậậậậậậật sự, là được chứ?",
+      "jpname": "安心沢刺々美",
+      "jptext": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "choice_data_list": [
+        "Vâng",
+        "Không"
+      ],
+      "jpchoice_data_list": [
+        "はい",
+        "いいえ"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Ô kê ô kê cứ giao hết cho chị! Kim tre xuất hiện! Bí huyệt lộ diện!",
+      "jpname": "安心沢刺々美",
+      "jptext": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Nào thả lỏng ra nào…… Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "さあ力を抜いて～……ワォ、あんし～ん☆"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Phập một phát nào!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ブスッとな！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ư……!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うっ……！"
+    },
+    {
+      "name": "",
+      "text": "Phập một phát đại thành công!",
+      "jpname": "モノローグ",
+      "jptext": "ブスッと大成功！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……Ơ, ơ kìa? Hình như, sức mạnh đang trào…… dâng lên thì phải?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あ、あれ？\nなんだか、力が湧いて……くるような？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt, tuyệt quá ạ. Đúng là chị Anshinzawa thật tài tình!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "す、すごいです。\nさすがですね、安心沢さん！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Ủa, thành công á? Thật hả!? Hả!?",
+      "jpname": "安心沢刺々美",
+      "jptext": "……えっ、成功？　マジ！？　え！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Đùa nhau chắc!! Làm sao mình làm được hay vậy nè trời!?!? Thiên tàààài!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+    },
+    {
+      "name": "",
+      "text": "<chrname> tràn đầy sức mạnh đến mức trông như lột xác hẳn!",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は見違えるほど\n力をみなぎらせていた！"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ em ấy đã nắm bắt được tiềm năng mới. Tôi cảm nhận rõ bước tiến lớn hướng về giấc mơ……!",
+      "jpname": "モノローグ",
+      "jptext": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, ơ kìa…… T-Trainer-san…… ơ……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、あれ……\nト、トレーナーさん……あの……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em bây giờ…… có đang đứng thẳng được không ạ……?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、いま……まっすぐ立てていますか……？"
+    },
+    {
+      "name": "",
+      "text": "<chrname> suy sụp phong độ thấy rõ……",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は、目に見えて\n調子を崩していた……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À thì…… thôi mà, chuyện đó…… nhé?",
+      "jpname": "安心沢刺々美",
+      "jptext": "あ～……まあ、その……ね？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, tạm biệt nhé☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、さようなら～☆"
+    },
+    {
+      "name": "",
+      "text": "Tôi vô cùng hối hận vì đã nghe theo lời dụ dỗ đầy khả nghi kia……",
+      "jpname": "モノローグ",
+      "jptext": "怪しい誘いになど乗るべきでなかった……と、\n大いに後悔したのだった。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Hừm hừm, “bí huyệt giúp chiến thắng cuộc đua” đúng không nào!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ほむほむ、\n『レースで勝てる秘孔を狙う』ね！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Vậy thì chị chích phập luôn nhé? Được chứ? ……Thậậậậậậật sự, là được chứ?",
+      "jpname": "安心沢刺々美",
+      "jptext": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "choice_data_list": [
+        "Vâng",
+        "Không"
+      ],
+      "jpchoice_data_list": [
+        "はい",
+        "いいえ"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Ô kê ô kê cứ giao hết cho chị! Kim tre xuất hiện! Bí huyệt lộ diện!",
+      "jpname": "安心沢刺々美",
+      "jptext": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Nào thả lỏng ra nào…… Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "さあ力を抜いて～……ワォ、あんし～ん☆"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Phập một phát nào!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ブスッとな！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ư……!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うっ……！"
+    },
+    {
+      "name": "",
+      "text": "Phập một phát đại thành công!",
+      "jpname": "モノローグ",
+      "jptext": "ブスッと大成功！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……Ơ, ơ kìa? Hình như, sức mạnh đang trào…… dâng lên thì phải?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あ、あれ？\nなんだか、力が湧いて……くるような？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt, tuyệt quá ạ. Đúng là chị Anshinzawa thật tài tình!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "す、すごいです。\nさすがですね、安心沢さん！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Ủa, thành công á? Thật hả!? Hả!?",
+      "jpname": "安心沢刺々美",
+      "jptext": "……えっ、成功？　マジ！？　え！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Đùa nhau chắc!! Làm sao mình làm được hay vậy nè trời!?!? Thiên tàààài!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+    },
+    {
+      "name": "",
+      "text": "Có thể cảm nhận được kỹ năng của <chrname> đã tăng lên rõ rệt!",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>の技量が\n大きくアップしているのを感じた！"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ em ấy đã nắm bắt được tiềm năng mới. Tôi cảm nhận rõ bước tiến lớn hướng về giấc mơ……!",
+      "jpname": "モノローグ",
+      "jptext": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, ơ kìa…… T-Trainer-san…… ơ……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、あれ……\nト、トレーナーさん……あの……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em bây giờ…… có đang đứng thẳng được không ạ……?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、いま……まっすぐ立てていますか……？"
+    },
+    {
+      "name": "",
+      "text": "<chrname> suy sụp phong độ thấy rõ……",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は、目に見えて\n調子を崩していた……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À thì…… thôi mà, chuyện đó…… nhé?",
+      "jpname": "安心沢刺々美",
+      "jptext": "あ～……まあ、その……ね？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, tạm biệt nhé☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、さようなら～☆"
+    },
+    {
+      "name": "",
+      "text": "Tôi vô cùng hối hận vì đã nghe theo lời dụ dỗ đầy khả nghi kia……",
+      "jpname": "モノローグ",
+      "jptext": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Hừm hừm, “bí huyệt giúp khỏe mạnh tràn đầy sức sống” đúng không nào!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ほむほむ、\n『元気で健康になれる秘孔を狙う』ね！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Vậy thì chị chích phập luôn nhé? Được chứ? ……Thậậậậậậật sự, là được chứ?",
+      "jpname": "安心沢刺々美",
+      "jptext": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "choice_data_list": [
+        "Vâng",
+        "Không"
+      ],
+      "jpchoice_data_list": [
+        "はい",
+        "いいえ"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Ô kê ô kê cứ giao hết cho chị! Kim tre xuất hiện! Bí huyệt lộ diện!",
+      "jpname": "安心沢刺々美",
+      "jptext": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Nào thả lỏng ra nào…… Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "さあ力を抜いて～……ワォ、あんし～ん☆"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Phập một phát nào!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ブスッとな！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ư……!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うっ……！"
+    },
+    {
+      "name": "",
+      "text": "Phập một phát đại thành công!",
+      "jpname": "モノローグ",
+      "jptext": "ブスッと大成功！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……Ơ, ơ kìa? Hình như, sức mạnh đang trào…… dâng lên thì phải?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あ、あれ？\nなんだか、力が湧いて……くるような？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt, tuyệt quá ạ. Đúng là chị Anshinzawa thật tài tình!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "す、すごいです。\nさすがですね、安心沢さん！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Ủa, thành công á? Thật hả!? Hả!?",
+      "jpname": "安心沢刺々美",
+      "jptext": "……えっ、成功？　マジ！？　え！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Đùa nhau chắc!! Làm sao mình làm được hay vậy nè trời!?!? Thiên tàààài!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+    },
+    {
+      "name": "",
+      "text": "Toàn thân <chrname> căng bóng như thể sắp phát sáng lên đến nơi! Nguồn năng lượng khỏe khoắn đang tuôn trào……!",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>の全身が、今にも\n光り輝きそうなほどツヤツヤしていた！\n健康的なエネルギーが迸っている……！"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ em ấy đã nắm bắt được tiềm năng mới. Tôi cảm nhận rõ bước tiến lớn hướng về giấc mơ……!",
+      "jpname": "モノローグ",
+      "jptext": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, ơ kìa…… T-Trainer-san…… ơ……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、あれ……\nト、トレーナーさん……あの……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em bây giờ…… có đang đứng thẳng được không ạ……?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、いま……まっすぐ立てていますか……？"
+    },
+    {
+      "name": "",
+      "text": "<chrname> suy sụp phong độ thấy rõ……",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は、目に見えて\n調子を崩していた……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À thì…… thôi mà, chuyện đó…… nhé?",
+      "jpname": "安心沢刺々美",
+      "jptext": "あ～……まあ、その……ね？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, tạm biệt nhé☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、さようなら～☆"
+    },
+    {
+      "name": "",
+      "text": "Tôi vô cùng hối hận vì đã nghe theo lời dụ dỗ đầy khả nghi kia……",
+      "jpname": "モノローグ",
+      "jptext": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Hừm hừm, “bí huyệt tăng sức hút” đúng không nào!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ほむほむ、\n『魅力アップの秘孔を狙う』ね！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Vậy thì chị chích phập luôn nhé? Được chứ? ……Thậậậậậậật sự, là được chứ?",
+      "jpname": "安心沢刺々美",
+      "jptext": "じゃあブスッといくわよ？　いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "choice_data_list": [
+        "Vâng",
+        "Không"
+      ],
+      "jpchoice_data_list": [
+        "はい",
+        "いいえ"
+      ]
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Ô kê ô kê cứ giao hết cho chị! Kim tre xuất hiện! Bí huyệt lộ diện!",
+      "jpname": "安心沢刺々美",
+      "jptext": "おっけーおっけー任しといて！\n出でよ笹針！　見つかれ秘孔！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Nào thả lỏng ra nào…… Wao, an tâââm☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "さあ力を抜いて～……ワォ、あんし～ん☆"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Phập một phát nào!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ブスッとな！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ư……!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うっ……！"
+    },
+    {
+      "name": "",
+      "text": "Phập một phát đại thành công!",
+      "jpname": "モノローグ",
+      "jptext": "ブスッと大成功！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……Ơ, ơ kìa? Hình như, sức mạnh đang trào…… dâng lên thì phải?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あ、あれ？\nなんだか、力が湧いて……くるような？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt, tuyệt quá ạ. Đúng là chị Anshinzawa thật tài tình!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "す、すごいです。\nさすがですね、安心沢さん！！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Ủa, thành công á? Thật hả!? Hả!?",
+      "jpname": "安心沢刺々美",
+      "jptext": "……えっ、成功？　マジ！？　え！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Đùa nhau chắc!! Làm sao mình làm được hay vậy nè trời!?!? Thiên tàààài!!",
+      "jpname": "安心沢刺々美",
+      "jptext": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！"
+    },
+    {
+      "name": "",
+      "text": "<chrname> đang tỏa ra sức hút khiến bất kỳ ai đi ngang qua cũng phải ngoái nhìn!",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は、道行く誰もが\n振り返りたくなる魅力を溢れさせていた！"
+    },
+    {
+      "name": "",
+      "text": "Có vẻ em ấy đã nắm bắt được tiềm năng mới. Tôi cảm nhận rõ bước tiến lớn hướng về giấc mơ……!",
+      "jpname": "モノローグ",
+      "jptext": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, ơ kìa…… T-Trainer-san…… ơ……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、あれ……\nト、トレーナーさん……あの……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em bây giờ…… có đang đứng thẳng được không ạ……?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、いま……まっすぐ立てていますか……？"
+    },
+    {
+      "name": "",
+      "text": "<chrname> suy sụp phong độ thấy rõ……",
+      "jpname": "モノローグ",
+      "jptext": "<chrname>は、目に見えて\n調子を崩していた……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "À thì…… thôi mà, chuyện đó…… nhé?",
+      "jpname": "安心沢刺々美",
+      "jptext": "あ～……まあ、その……ね？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, tạm biệt nhé☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、さようなら～☆"
+    },
+    {
+      "name": "",
+      "text": "Tôi vô cùng hối hận vì đã nghe theo lời dụ dỗ đầy khả nghi kia……",
+      "jpname": "モノローグ",
+      "jptext": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Hả!? Đ-đừng nói thế mà……",
+      "jpname": "安心沢刺々美",
+      "jptext": "ええ！？　そ、そう言わずに～……。",
+      "choice_data_list": [
+        "Thôi không làm đâu",
+        "Nghĩ lại xem"
+      ],
+      "jpchoice_data_list": [
+        "やめておく",
+        "考え直す"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "――Này, cô kia! Cô đã xâm nhập trái phép vào Học Viện đúng không!?",
+      "jpname": "駿川たづな",
+      "jptext": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Gya haa!? Chết rồi, bị phát hiện rồi!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ぎゃはー！？　やば、見つかった！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, chuồn lẹ thôi☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、退散～☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Á!? Đ-đứng lại ngayyy!!",
+      "jpname": "駿川たづな",
+      "jptext": "あ！？　ま、待ちなさぁーいっ！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "……Chị ấy đã quan tâm cho em như vậy, thấy cũng hơi áy náy thật……",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……おれのことを\n気遣ってくれたのに、\nなんだか、申し訳ないなぁ……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng mà…… vâng. Quả nhiên em vẫn phải tự mình trở nên mạnh mẽ hơn bằng chính sức lực của bản thân thôi ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "でも……うん。やっぱり自分の力で、\n強くなっていかないとですよね。",
+      "choice_data_list": [
+        "Phải đấy",
+        "Đúng thế nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "だな",
+        "だね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Anshinzawa rốt cuộc là ai…… Có nghĩ mãi cũng chẳng ra được kết quả gì, nên tôi quyết định quên luôn chuyện hôm nay.",
+      "jpname": "モノローグ",
+      "jptext": "安心沢とは何者だったのか……\n考えても仕方がなさそうなので、\n今日の一件は忘れることにした。"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Ối chà, chọn nhầm à? Thôi thì chuyện thường tình mà, ai chẳng có lúc thế!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ありゃま、間違えちゃった？\nまーあるある、あるわよねーそういうの！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Nào, nói lại chị nghe xem nào. Hai đứa muốn nhắm bí huyệt nào đây!?",
+      "jpname": "安心沢刺々美",
+      "jptext": "じゃ、もう1回教えてちょーだいな。\nどの秘孔狙っちゃう！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Cứ làm người ta hồi hộp mãi thế!? À mà khoan, cứ dây dưa lâu thế này thì――",
+      "jpname": "安心沢刺々美",
+      "jptext": "焦らすわね～！？\nいやでも待って、こんな時間かけてると――"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "――Này, cô kia! Cô đã xâm nhập trái phép vào Học Viện đúng không!?",
+      "jpname": "駿川たづな",
+      "jptext": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "Gya haa!? Chết rồi, bị phát hiện rồi!",
+      "jpname": "安心沢刺々美",
+      "jptext": "ぎゃはー！？　やば、見つかった！"
+    },
+    {
+      "name": "Anshinzawa Sasami",
+      "text": "……Wao, chuồn lẹ thôi☆",
+      "jpname": "安心沢刺々美",
+      "jptext": "……ワォ、退散～☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Á!? Đ-đứng lại ngayyy!!",
+      "jpname": "駿川たづな",
+      "jptext": "あ！？　ま、待ちなさぁーいっ！！"
+    },
+    {
+      "name": "",
+      "text": "……Cứ chần chừ phân vân mãi, thành ra mọi chuyện lại trôi tuột đi đâu mất.",
+      "jpname": "モノローグ",
+      "jptext": "……いつまでも悩んでいたら、\nなんだかうやむやになってしまった。"
+    },
+    {
+      "name": "",
+      "text": "Rốt cuộc chuyện vừa rồi là sao…… Tôi và <chrname> nhìn nhau, cùng nghiêng đầu khó hiểu.",
+      "jpname": "モノローグ",
+      "jptext": "いったいなんだったのか……\n<chrname>と顔を見合わせ、\n首をひねるのだった。"
+    }
+  ]
+}

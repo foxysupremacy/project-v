@@ -1,0 +1,596 @@
+{
+  "title": "Quyết tâm năm mới",
+  "jptitle": "新年の抱負",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Cuối cùng cũng đến, năm mới mà K.S.Miracle sẽ bước lên Cấp Classic――",
+      "jpname": "モノローグ",
+      "jptext": "いよいよ迎えた、ケイエスミラクルが\n『クラシック級』へと上がる新年――",
+      "color_text_info_list": [
+        "Cấp Classic"
+      ],
+      "jpcolor_text_info_list": [
+        "クラシック級"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy thì...... em gọi điện ở đây nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "それじゃ……おれ、ここで電話してるね。"
+    },
+    {
+      "name": "Bố của Miracle",
+      "text": "Ừ. Bố mẹ đi quầy bán hàng, con cứ nói chuyện thoải mái nhé.",
+      "jpname": "ミラクルの父親",
+      "jptext": "ああ。父さんたちは売店に行ってるから、\nゆっくり話しておいで。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Gửi lời hỏi Trainer-san giúp mẹ nhé.",
+      "jpname": "ミラクルの母親",
+      "jptext": "トレーナーさんによろしく伝えてね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm. ......Ok thôi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん。……よしっ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...A, alô? Anh đấy hả, Trainer-san?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あ、もしもし？\nトレーナーさんですか？",
+      "choice_data_list": [
+        "Miracle! Chúc mừng năm mới nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ミラクル！あけましておめでとう"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì...... vâng, chúc anh năm mới sung sướng ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ……はい、\nあけましておめでとうございます。",
+      "choice_data_list": [
+        "Em có đang nghỉ ngơi thoải mái thật không?",
+        "Em có đang nghỉ ngơi thoải mái thật không đấy?"
+      ],
+      "jpchoice_data_list": [
+        "ちゃんとゆっくり休めてるか？",
+        "ちゃんとゆっくり休めてる？"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vâng. Bố mẹ đã đặt luôn nhà trọ cho cả gia đình...... nên em được đón giao thừa thư thả thật sự.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "はい。母さんたち、\n旅館まで予約してくれてて……\nすごくゆっくりした年越しができました。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em vốn nghĩ, đã ra mắt rồi thì dịp cuối năm và năm mới cũng phải cố gắng hết mình――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "デビューしたんだから、年末年始もしっかり\n頑張らなきゃって思ってたんですけど――",
+      "choice_data_list": [
+        "Bây giờ, nghỉ ngơi cũng quan trọng lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "今は、休むのも大事！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A ha ha. Cuối năm em cũng bị anh rầy theo kiểu này đúng không nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あははっ。年末にも\nそんな感じで叱られましたね、おれ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dù thế nào, kỳ nghỉ mà anh tặng em...... em sẽ trân trọng tận hưởng cho đàng hoàng nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "とにかく、トレーナーさんがくれたお休み……\nちゃんと、大事に過ごしてきますね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À, đúng rồi, còn nữa. Về tấm thiệp năm mới của anh――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あっ、そうだ、それと。\n年賀状なんですが――",
+      "choice_data_list": [
+        "(Mình viết lời khen cho em rồi nhỉ)",
+        "(Mình viết “Ăn thật nhiều osechi nhé!” rồi nhỉ)",
+        "(Mình vẽ hình con giáp của năm rồi nhỉ)"
+      ],
+      "jpchoice_data_list": [
+        "（ミラクルへの褒め言葉を書いたっけ）",
+        "（おせちいっぱい食べよう！と書いたっけ）",
+        "（干支の絵を描いたっけ）"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dạ đó...... anh viết toàn những điều khiến em vui sướng, nhiều vô kể......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あの……すごくたくさん、\n嬉しいこと、書いてくれて……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Bố mẹ còn đọc to thành tiếng nữa...... à, không, họ cũng mừng cho em thật đấy......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……父さん母さんが、\n大きな声で読み上げちゃって……\nあ、その、喜んでくれてたんですが……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm. ......Nhưng tất cả, em cứ thấy mình không xứng đáng với những điều ấy――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっと。……でも全部、\nおれにはもったいない気がして――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A--...... ừm thì.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あー……んっと。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em sẽ cố gắng, cố gắng nhiều hơn nữa. Vì rằng...... em cố được đấy ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……もっと、もっと、頑張りますね。\nその……頑張れます、おれ。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Chúng mẹ về...... ơ? Kei-chan? ......Thôi, con ngủ mất rồi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ただい……っと、あら？　ケイちゃん？\n……まあ、寝ちゃってる。",
+      "color_text_info_list": [
+        "Kei"
+      ],
+      "jpcolor_text_info_list": [
+        "ケイ"
+      ]
+    },
+    {
+      "name": "Bố của Miracle",
+      "text": "Hà hà, con được nghỉ ngơi thư thả là tốt nhất rồi. ......Hả?",
+      "jpname": "ミラクルの父親",
+      "jptext": "はは、のんびりできててなによりだなぁ。\n……ん？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm...... cố lên nào――!! ......Cố...... lên...... ............",
+      "jpname": "ケイエスミラクル",
+      "jptext": "んん……頑張るぞー！！\n……頑張る、ぞ……。…………。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Hì hì...... Nói mớ vẫn lớn giọng như chẳng bao giờ đổi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ふふ……相変わらず、大きな寝言。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì, em có đọc kỹ mà. Em có ăn osechi đấy nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ、ちゃんと読みました。\n食べてますよ、おせち。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đồ ăn ở nhà trọ cũng xa xỉ vô cùng. Nên...... ngược lại, em còn phải cẩn thận kẻo thêm thịt quá nhiều nữa ấy chứ――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "旅館のご飯も、すっごく豪華で。\nだから……逆に、肉がつきすぎないよう\n気をつけなきゃって思うくらいで――",
+      "choice_data_list": [
+        "Thôi, mập lên một chút mới tốt đó!!"
+      ],
+      "jpchoice_data_list": [
+        "むしろちょっと太っておいで！！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "K-Không không, thế là không được đâu. Tuyệt đối, không được.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "い、いやいや、それはダメです。\n絶対、ダメ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Chuyện là...... nếu lúc gặp lại sau kỳ nghỉ mà em mất dáng dấp...... thì hơi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "その……お休み明けに会ったとき、\nみっともなくなってたら……ちょっと。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em muốn gặp anh với dáng dấp đàng hoàng, cho nên vậy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……みっともなくないおれで\n会いたいですから、ちゃんと。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Chúng mẹ về...... ơ? Kei-chan? ......Thôi, con ngủ mất rồi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ただい……っと、あら？　ケイちゃん？\n……まあ、寝ちゃってる。",
+      "color_text_info_list": [
+        "Kei"
+      ],
+      "jpcolor_text_info_list": [
+        "ケイ"
+      ]
+    },
+    {
+      "name": "Bố của Miracle",
+      "text": "Hà hà, con được nghỉ ngơi thư thả là tốt nhất rồi. ......Hả?",
+      "jpname": "ミラクルの父親",
+      "jptext": "はは、のんびりできててなによりだなぁ。\n……ん？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm...... Không được!! Không...... chuối thì, hết......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "んん……ダメです！！\nダメ……バナナは、もう……。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Hì hì...... Nói mớ vẫn lớn giọng như chẳng bao giờ đổi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ふふ……相変わらず、大きな寝言。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Cái tấm hình minh họa ấy...... hì hì hì. Em cứ thấy quý hơn cả!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あの、イラストが……ふふふっ。\nおれ、すごく気に入っちゃって！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Muốn lúc nào cũng có thể xem lại nên...... em còn chụp luôn ảnh nữa.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "いつでも見られるようにしたくて……\n写真も撮っちゃいました。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dạ...... nếu anh không thấy khó chịu, cho em khoe với bạn bè được không ạ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あの……イヤじゃなかったら、\n友だちにも見せていいですか？",
+      "choice_data_list": [
+        "Nó đâu có gì đặc biệt đến thế......!?"
+      ],
+      "jpchoice_data_list": [
+        "そんなに大したものでは……！？"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không sao đâu, nó đáng yêu lắm. Giữ riêng một mình mới tiếc là đằng khác.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ううん、かわいかったです。\nひとりじめじゃ、もったいないくらい。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đáng yêu thật đấy...... hì hì hì.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "かわいかったなぁ……ふふふっ。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Chúng mẹ về...... ơ? Kei-chan? ......Thôi, con ngủ mất rồi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ただい……っと、あら？　ケイちゃん？\n……まあ、寝ちゃってる。",
+      "color_text_info_list": [
+        "Kei"
+      ],
+      "jpcolor_text_info_list": [
+        "ケイ"
+      ]
+    },
+    {
+      "name": "Bố của Miracle",
+      "text": "Hà hà, con được nghỉ ngơi thư thả là tốt nhất rồi. ......Hả?",
+      "jpname": "ミラクルの父親",
+      "jptext": "はは、のんびりできててなによりだなぁ。\n……ん？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm...... nhìn này, nhìn này!! ......Nhìn đi, đáng yêu lắm...... ............",
+      "jpname": "ケイエスミラクル",
+      "jptext": "んん……見て見て！！\n……見て、かわいいんだ……。…………。"
+    },
+    {
+      "name": "Mẹ của Miracle",
+      "text": "Hì hì...... Nói mớ vẫn lớn giọng như chẳng bao giờ đổi.",
+      "jpname": "ミラクルの母親",
+      "jptext": "ふふ……相変わらず、大きな寝言。"
+    },
+    {
+      "name": "",
+      "text": "Riêng thư thế đấy, quãng cuối năm năm mới trôi qua thong thả――",
+      "jpname": "モノローグ",
+      "jptext": "そんなこんなで、\nゆっくりとした年末年始を過ごし――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Cho em nói lại lần nữa...... chúc mừng năm mới, Trainer-san. Năm nay, mong anh tiếp tục chiếu cố em nhiều ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "改めて……あけましておめでとうございます、\nトレーナーさん。\n今年もどうぞ、よろしくお願いします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy thì...... bất cứ lúc nào, em cũng sẵn sàng bắt đầu!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "それじゃ……\nいつでも、始められます！",
+      "choice_data_list": [
+        "Ok, bắt đầu buổi tập đầu tiên năm thôi!",
+        "Ok, bắt đầu buổi tập đầu tiên năm nhỉ!"
+      ],
+      "jpchoice_data_list": [
+        "よし、初トレーニングだ！",
+        "よし、初トレーニングだね！"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "A-KE-O-MEEEE!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "A・KE・O・ME～！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Miracle oo-à và Mira-tore! Chúc mừng! Tiếp tục chúc mừng! Tiếp tục chúc mừng nữa----!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ミラクルあーんどミラトレ！\nおめ！　からのおめ！　からのおめ～～～！！",
+      "color_text_info_list": [
+        "Miracle",
+        "Mira"
+      ],
+      "jpcolor_text_info_list": [
+        "ミラクル",
+        "ミラ"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ, Helios! Và――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あれ、ヘリオス！　と――",
+      "color_text_info_list": [
+        "Helios"
+      ],
+      "jpcolor_text_info_list": [
+        "ヘリオス"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Chào cả nhà, làm phiền rồi, xin lỗi nha! Năm nay cũng mong các cậu chiếu cố nha!",
+      "jpname": "バンブーメモリー",
+      "jptext": "ども、お邪魔してすみませんっス！\n今年もよろしくお願いしまっス！"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Quả tình cờ, chúng tôi vừa chạm nhau ngay cổng sân tập. Nếu các người giờ bắt đầu tập, cho em hòa vào cùng làm cơn gió bay qua nhé?",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "ちょうど、グラウンド入口で行き合いまして。\n今からトレーニングでしたら――\n共に吹き抜けさせていただいても？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Chẳng lẽ là tập chung? Em thì vui lắm, nhưng mà ừm...... anh thấy sao nhỉ, Trainer-san?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "もしかして、合同トレーニング？\nおれは嬉しいけど、えっと……\nどうでしょうか、トレーナーさん？",
+      "choice_data_list": [
+        "Nói vậy thì phải là chúng tôi nhờ các em mới đúng!",
+        "Nói vậy thì phải là chúng tôi nhờ các em mới đúng chứ!"
+      ],
+      "jpchoice_data_list": [
+        "こちらからお願いしたいくらいだ！",
+        "こちらからお願いしたいくらいだよ！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi gật đầu với K.S.Miracle đang vui rỡ, rồi nhìn lại đám đông đã tập hợp. ......Thực tế, đây đúng là điều mong ước còn khó có.",
+      "jpname": "モノローグ",
+      "jptext": "嬉しそうなケイエスミラクルに頷いてみせ、\n改めて集まった面々を見渡す。\n……実際、願ってもないことだ。"
+    },
+    {
+      "name": "",
+      "text": "Mặc dù hiện đang tạm nghỉ vì vấn đề thể trạng, Yamanin Zephyr là đồng kỳ của K.S.Miracle, một Mã Nương chạy cùng lộ trình.",
+      "jpname": "モノローグ",
+      "jptext": "現在は体調の問題で休養しているものの、\nヤマニンゼファーはケイエスミラクルの\n同期にして同じ路線を走るウマ娘である。",
+      "color_text_info_list": [
+        "Yamanin Zephyr"
+      ],
+      "jpcolor_text_info_list": [
+        "ヤマニンゼファー"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vì khả năng hai đứa va chạm trong tương lai rất cao, không thể bỏ lỡ cơ hội này để chạy cùng cô ấy, một đối thủ thực lực còn chưa biết.",
+      "jpname": "モノローグ",
+      "jptext": "今後ぶつかる可能性が高い以上、\n実力的には未知数な彼女と走っておける\nこのチャンスを活かさない手はない。"
+    },
+    {
+      "name": "",
+      "text": "Daitaku Helios là tiền bối ra mắt từ hai năm trước. Em này cũng theo đường ngắn, khả năng cao sẽ trở thành đối thủ trong tương lai.",
+      "jpname": "モノローグ",
+      "jptext": "ダイタクヘリオスは一昨年デビューの\n先輩ウマ娘。この子も同じく短距離路線で、\n今後ライバルになる可能性は高い。",
+      "color_text_info_list": [
+        "Daitaku Helios"
+      ],
+      "jpcolor_text_info_list": [
+        "ダイタクヘリオス"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Năm ngoái, ở “Sprinters Stakes”, em ấy cán đích thứ 5, thực lực cũng đang dần lóe sáng. Chạy cùng em ấy, chắc chắn sẽ có nhiều điều để thu hoạch.",
+      "jpname": "モノローグ",
+      "jptext": "昨年の『スプリンターズS』では5着につけ、\n実力的にも徐々に頭角を現している。\n共に走ることで得られるものは多いだろう。",
+      "color_text_info_list": [
+        "Sprinters Stakes"
+      ],
+      "jpcolor_text_info_list": [
+        "スプリンターズS"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và trên hết―― Bamboo Memory. Chủ nhân cặp chân vạn dặm hiếm có, người đã ghi dấu thành tích ở vô số trận G1.",
+      "jpname": "モノローグ",
+      "jptext": "そしてなにより――バンブーメモリー。\n数多くのGⅠレースで戦績を残している、\n無類の豪脚の持ち主。",
+      "color_text_info_list": [
+        "Bamboo Memory"
+      ],
+      "jpcolor_text_info_list": [
+        "バンブーメモリー"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cô ấy là đương kim vô địch cả Yasuda Kinen lẫn Sprinters Stakes, vậy mà lại sẵn sàng chạy cùng K.S.Miracle, quả là điều mong ước còn khó có được......!",
+      "jpname": "モノローグ",
+      "jptext": "安田記念・スプリンターズSの覇者でもある\n彼女がケイエスミラクルと走ってくれるなど、\nまさに願ってもないことだ……！",
+      "choice_data_list": [
+        "Tất cả, mong các em chiếu cố thật nhiều!",
+        "Tất cả, mong các em chiếu cố thật nhiều nhé!"
+      ],
+      "jpchoice_data_list": [
+        "みんな、ぜひよろしく頼む！",
+        "みんな、ぜひよろしくね！"
+      ],
+      "color_text_info_list": [
+        "Yasuda Kinen"
+      ],
+      "jpcolor_text_info_list": [
+        "安田記念"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Okiii!! Đối với tớ thì mong các cậu chiếu cố mới phải!!",
+      "jpname": "バンブーメモリー",
+      "jptext": "おっス！！　こちらこそっス！！"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Thế thì, bắt tay ngay luôn nhé! Ai cũng mới nghỉ Tết xong, để khỏi chấn thương thì trước tiên khởi động thật kỹ――",
+      "jpname": "バンブーメモリー",
+      "jptext": "んじゃ、さっそく始めるっスか！\nみんな年始休み明けだし、ケガしないように\nまずはアップをしっかり――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "――Cho tôi xin phép tham gia cùng, được không ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "――私も、加えていただけますでしょうか。"
+    },
+    {
+      "name": "",
+      "text": "Daiichi Ruby lặng lẽ tiến lại gần. Nhìn hình dáng ấy―― tôi hơi phải kinh ngạc.",
+      "jpname": "モノローグ",
+      "jptext": "静かに歩み寄ってきたダイイチルビー。\nその姿を見て――少々、驚かされる。",
+      "choice_data_list": [
+        "(Gương mặt ấy, hoàn toàn khác với năm ngoái......!)"
+      ],
+      "jpchoice_data_list": [
+        "（顔つきが、昨年までとまるで違う……！）"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby......! Cậu cũng sẽ chạy cùng chúng em à?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビー……！\nキミも、おれたちと走ってくれるの？",
+      "color_text_info_list": [
+        "Ruby"
+      ],
+      "jpcolor_text_info_list": [
+        "ルビー"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Theo tôi nghĩ, người phải năn nố là tôi mới đúng. Vì mọi người―― đều là tiền bối của lộ trình này cả.",
+      "jpname": "ダイイチルビー",
+      "jptext": "お願い申し上げる立場かと存じます。\n皆様は――この路線の先輩にあたりますので。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Lộ trình này...... ừm. ......Ra vậy, Ruby, cậu là......!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "この路線……って。\n……そっか、ルビー、キミは……！"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Vâng. ――Từ giờ, tôi sẽ chuyển sang đường ngắn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ええ。\n――私はこれより、短距離路線へ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi đặt “Yasuda Kinen” làm mục tiêu lớn, và sẽ chính thức khởi động từ đây.",
+      "jpname": "ダイイチルビー",
+      "jptext": "大目標を『安田記念』に定め、\n本格始動いたします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "...!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hả!? Ơ, ơ, ơ, ơ----!! Hả!?!?!?!? Ruby chuyển sang đường ngắn!? “Yasuda Kinen”!?!?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "え！？　え、え、え、えーーー！！\nマ！？！？！？！？\nルビー短距離転向！？　『安田記念』！？！？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Okiiiiiiii----!! Vậy tớ cũng chạy đó! Tớ cũng chạy đường ấy----!! Hưng phấn muốn xù lông rồi Weiiiiii----!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "うぉおおおっしゃぁーーーい！！\nじゃウチもそこ！　そこ走るぅーーーっ！！\nアガってきたべウェイウェーーーイ！！"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Hê hê, Ruby quả nhiên gốc rễ vẫn máu nóng mà! Tức là cậu đến đây tuyên chiến đúng không? Kế hoạch ban đầu tớ cũng định chạy Yasuda Kinen đấy.",
+      "jpname": "バンブーメモリー",
+      "jptext": "へへ、やっぱ根っこはアツいっスね、ルビー！\n宣戦布告に来てくれたってことっスか？\n安田記念、アタシも出る予定だったんスけど。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Trên lộ trình này, các bạn là những người thực lực đáng nể, đồng thời là những đối thủ đáng gờm cùng tranh giành đỉnh cao. Đó là sự thật chẳng thể phủ nhận.",
+      "jpname": "ダイイチルビー",
+      "jptext": "この路線において、貴方がたが相当な\n実力者であり――頂点を競う好敵手で\nあることは、疑いようもない事実です。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Nhưng với dòng máu “gia tộc lộng lẫy” Mejiro, cùng tốc độ hiếm có chôn giấu trong huyết quản. Tôi―― nhất định sẽ vượt qua cả các bạn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ですが“華麗なる一族”、\nその血に宿る無類の速さで以て。\n私は――貴方がたをも、超えてみせる。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Quyết tâm của tôi, đã khắc sẵn rồi. ......Xin mọi người chiếu cố nhiều ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "覚悟は、すでに定まりました。\n……どうぞよろしくお願いいたします。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Đường ngắn...... em đây, giờ đã hóa thành cơn cuồng phong rồi nhỉ.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "短距離路線……\n颶風に、なって参りましたね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm. Nhìn tất cả đang chạy phía trước, chói lóa biết bao.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん。\n前をゆくみんなが、眩しく見えるよ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng, năm nay nhất định là―― em cũng sẽ thế.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "でも、今年こそは――おれも。"
+    }
+  ]
+}

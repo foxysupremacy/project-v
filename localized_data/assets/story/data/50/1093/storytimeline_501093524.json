@@ -1,0 +1,458 @@
+{
+  "title": "Cuộc tìm kiếm dưới chân cầu vượt",
+  "jptitle": "高架下の捜索",
+  "text_block_list": [
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san, người đó...... bị làm sao vậy nhỉ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、あの人……\nどうしたんでしょうか？"
+    },
+    {
+      "name": "",
+      "text": "Được K.S.Miracle nhắc, tôi chuyển hướng nhìn, ở đó có một cậu thanh niên đang tìm kiếm thứ gì――",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルに言われ\n視線を動かすとそこには、\n何かを捜す青年が1人――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Có lẽ là đánh mất đồ đạc...... nhỉ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "落とし物……でしょうか。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em sẽ đi giúp tìm! Vùng đó đất lại lầy lội, nên Trainer-san cứ đợi em ở đây――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、捜すの手伝ってきます！\nあの辺りは土もぬかるんでいますし、\nトレーナーさんはここで待ってて――",
+      "choice_data_list": [
+        "Để hai người phụ tìm sẽ nhanh hơn",
+        "Chính vì thế, anh sẽ đi",
+        "Chính vì thế, anh sẽ đi"
+      ],
+      "jpchoice_data_list": [
+        "2人で手伝った方が早いよ",
+        "だからこそ、俺が行くよ",
+        "だからこそ、私が行くよ"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em sẽ đi giúp tìm! Vùng đó đất lại lầy lội, nên Trainer-san cứ đợi em ở đây――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれ、捜すの手伝ってきます！\nあの辺りは土もぬかるんでいますし、\nトレーナーさんはここで待ってて――",
+      "choice_data_list": [
+        "Để hai người phụ tìm sẽ nhanh hơn",
+        "Chính vì thế, anh sẽ đi",
+        "Chính vì thế, anh sẽ đi"
+      ],
+      "jpchoice_data_list": [
+        "2人で手伝った方が早いよ",
+        "だからこそ、俺が行くよ",
+        "だからこそ、私が行くよ"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......đúng vậy nhỉ, em hiểu rồi. Vậy thì cùng đi thôi! Còn anh, xin chú ý đôi chân thật kỹ nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……そうですね、わかりました。\nそれじゃ、一緒に行きましょう！\n足元には、充分気をつけてくださいね。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Là thật sao!? Cái chìa khóa của tôi! Xin hãy xuất hiện nào!!! T-tôi đã tìm đến hai tiếng rồi mà......!",
+      "jpname": "困っている青年",
+      "jptext": "ウソだろ～！？\n俺の鍵～！　出てきてくれぇええ！！\nも、もう2時間も捜しているのにぃい……！"
+    },
+    {
+      "name": "",
+      "text": "Dưới chân cầu vượt, một cậu thanh niên đang cuống quýt. Hóa ra cậu đánh mất chìa khóa. Cậu đang lê từng bước dọc theo bờ sông.",
+      "jpname": "モノローグ",
+      "jptext": "高架下で、慌てふためく青年が1人。\nどうやら鍵を落としたらしい。\nフラフラと川沿いを歩いている。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Xin lỗi, anh có ổn không? Chìa khóa là...... chìa khóa nhà đúng không ạ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あの、大丈夫ですか？\n鍵って……家の？"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Hả? A, không...... cái...... thật ra là...... ......c-chìa khóa công ty......",
+      "jpname": "困っている青年",
+      "jptext": "え？　あ、いや……その……\n実は…………\n…………か、会社の鍵で……。",
+      "choice_data_list": [
+        "V-vậy là......"
+      ],
+      "jpchoice_data_list": [
+        "そ、それは……"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đ-điều đó nghiêm trọng thật ạ. Em sẽ giúp tìm. Dù phải thế nào, nhất định sẽ tìm thấy thôi!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "た、大変ですね。捜すの手伝います。\nなんとしても、見つけましょう！"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Uu, em xin lỗi...... cảm ơn nhiều lắm! Nếu bị công ty phát hiện mình đánh mất chìa khóa thì...... c-có khi bị đuổi việc......",
+      "jpname": "困っている青年",
+      "jptext": "うう、すみません……本当にありがとう！\n鍵をなくしたことが会社にバレたら……\nく、クビになるかも……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đâu cũng không có...... Trainer-san, sao rồi ạ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "どこにもありませんね……。\nトレーナーさん、どうですか？",
+      "choice_data_list": [
+        "Không thấy......"
+      ],
+      "jpchoice_data_list": [
+        "見つからない……"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Thế ạ. Vậy lần này mình tập trung tìm khu bên này xem sao.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……そうですか。\nじゃあ、今度はこちらの方を\n重点的に捜してみましょうか。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "K-không...... không thể phiền hai người thêm nữa được. Phần còn lại để tự tôi――......ơ?",
+      "jpname": "困っている青年",
+      "jptext": "い、いや……もうこれ以上、\n迷惑かけるわけにもいかないよ。\nあとは俺1人で――……え？"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Ơ-o!? V-vừa nãy! Âm thanh vừa nãy, chìa khóa...... chìa khóa rơi xuống sông!?",
+      "jpname": "困っている青年",
+      "jptext": "あー！？　い、いまの！\nいまの音、鍵……鍵が川に！？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "K-không sao đâu ạ! Nghe âm thanh vừa nãy thì tôi nghĩ đó không phải sông mà là vũng nước!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "だ、大丈夫ですよ！\nいまの音からして川じゃなく\n水たまりだと思いますから！"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "T-thật không? U, uu...... nhưng nếu thật sự là sông thì...... cuộc đời tôi, k, kết, kết thúc......!!",
+      "jpname": "困っている青年",
+      "jptext": "ほ、本当に？　う、うう……\nだけどもし川だったら……\n俺の人生が、お、おわ、おわっ……！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tuyệt đối sẽ không kết thúc đâu!! Không sao, không sao hết......!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "絶対に終わりません！！\n大丈夫、大丈夫です……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Anh ơi, không được bỏ cuộc đâu. Em là...... tụi em sẽ nhất định tìm thấy cho anh mà!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "お兄さん、諦めちゃダメです。\nおれが……おれたちが、\n必ず見つけてみせますから！"
+    },
+    {
+      "name": "",
+      "text": "Nhờ cuộc tìm kiếm tận tụy cùng K.S.Miracle, chiếc chìa khóa cậu thanh niên đánh mất đã bình yên―― được tìm thấy trong một thân đầy bùn đất.",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルとの懸命な捜索により、\n青年がなくした鍵は、無事――\n泥だらけで見つかったのだった。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......đúng vậy nhỉ, em hiểu rồi. Vậy thì cùng đi thôi! Còn anh, xin chú ý đôi chân thật kỹ nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……そうですね、わかりました。\nそれじゃ、一緒に行きましょう！\n足元には、充分気をつけてくださいね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Ơ? Anh là, chẳng lẽ...... người lần trước?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あれ？\nあなたは、もしかして……この前の？"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "A! H-hai vị...... Hôm trước, cảm ơn hai vị nhiều lắm...... ......và thì, cái......",
+      "jpname": "困っている青年",
+      "jptext": "あ！　お、お2人とも……。\n先日は、ありがとうございました……。\n……それで、その……。",
+      "choice_data_list": [
+        "Chẳng lẽ lại đánh mất thứ gì nữa......?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、また何か落とし物を……？"
+      ]
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "......Vâng. Ở công ty được khen, tôi vui quá liền giơ tay hô “hoan hô” thật mạnh ngay tại đây......",
+      "jpname": "困っている青年",
+      "jptext": "……はい。会社で褒められて、\n嬉しくなってここで『やったー』って\n思いっきり手を上げたら……。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Vì cú đó mà chiếc nhẫn...... Chiếc nhẫn kỷ vật ông nội để lại cho tôi, mà nó hơi to so với ngón tay tôi nên......",
+      "jpname": "困っている青年",
+      "jptext": "その勢いで、指輪が……。\nじいちゃんからもらった形見の指輪で、\nちょっと俺の指には大きかったから……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhẫn kỷ vật......!? Ở gần đâu thế? Món đồ này nhất định phải tìm thấy mới được......!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "形見の指輪……！？\nどの辺りですか？\nそれは絶対に見つけないと……！"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "T-tôi thật sự xin lỗi......! Cảm ơn, cảm ơn!!",
+      "jpname": "困っている青年",
+      "jptext": "ほ、本当にごめんなさい……！\nありがとうございます、ありがとう！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nó nhỏ hơn chìa khóa mà...... đứng thẳng thì khó thấy được nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "鍵よりも小さいですから……\n立ったままではよく見えませんね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san, anh chiếu đèn điện thoại giúp em nhé? Em sẽ cúi thấp hơn để tìm――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、\nスマホで照らしてもらえますか？\nおれ、もう少し屈んで捜してみるので――"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "K-không thể để hai người làm thế được! Lại còn dính bùn đất nữa, nhẫn thì xin thôi tìm......",
+      "jpname": "困っている青年",
+      "jptext": "そ、そんなことさせられない！\n泥だらけになっちゃうし、\n指輪は諦めて……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không được.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ダメです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Đây là kỷ vật của ông nội đúng không? Món đồ quan trọng thế, xin anh đừng bỏ cuộc. Em nhất định tìm thấy thôi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……おじいさんの形見なんですよね？\nそんなに大切なもの、諦めないでください。\n絶対に、見つけますから。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "B-bạn...... uu uuu, cảm ơn......",
+      "jpname": "困っている青年",
+      "jptext": "き、君……ううう、ありがとう……。"
+    },
+    {
+      "name": "",
+      "text": "Nhờ cuộc tìm kiếm tận tụy, chiếc nhẫn được tìm thấy an toàn. Cả bộ quần áo dính đầy bùn cũng như mang chút tự hào―― cậu thanh niên trao nụ cười cùng K.S.Miracle.",
+      "jpname": "モノローグ",
+      "jptext": "懸命な捜索により、指輪は無事に見つかった。\n泥だらけになった服も、少しだけ誇らしく――\nケイエスミラクルと笑顔を交わしたのだった。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san, nhưng......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、でも……。",
+      "choice_data_list": [
+        "Giao cho anh!"
+      ],
+      "jpchoice_data_list": [
+        "任せといて！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em hiểu rồi. Nhưng anh phải chú ý đôi chân thật kỹ nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "…………。\nわかりました。でも、足元には\n本当に気をつけてくださいね。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Aaa, cảm ơn hai vị! Tôi đánh mất chìa khóa công ty...... thật sự đang lúng túng cực kỳ!",
+      "jpname": "困っている青年",
+      "jptext": "あああ、ありがとうございます！\n会社の鍵をなくしてしまって……\n本当に困っていたんです！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không sao đâu ạ. Trainer-san là...... trong những lúc thế này cũng rất đáng tin cậy mà.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "大丈夫ですよ。\nトレーナーさんは……\nこういうときも、すごく頼りになるので。"
+    },
+    {
+      "name": "",
+      "text": "Bật đèn điện thoại chiếu xuống, tôi cẩn trọng tìm từng tấc đất dưới chân. Và có thứ gì đó lấp lánh phản chiếu――",
+      "jpname": "モノローグ",
+      "jptext": "スマホのライトを照らしながら、\n慎重に足元を捜す。\nすると、わずかに反射して光る――",
+      "choice_data_list": [
+        "Thấy rồi――!!"
+      ],
+      "jpchoice_data_list": [
+        "あったー！！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "! Trainer-san, anh tuyệt quá!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！　トレーナーさん、すごいです！"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Uwaaaaaaa! Cảm ơn, cảm ơn! Bạn là ân nhân của tôi!!",
+      "jpname": "困っている青年",
+      "jptext": "うわぁああああ！\nありがとう、ありがとう！\nアナタは恩人です！！"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Vì người dưng mà phải tận thế này...... Cô Mã Nương cũng cảm ơn nhé. Tôi sẽ cổ vũ cho hai vị......!",
+      "jpname": "困っている青年",
+      "jptext": "赤の他人のために、ここまで……\nウマ娘さんも、ありがとう。\n俺、アナタたちのこと応援します……！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Thế thì...... tìm thấy là tốt rồi ạ. Em chẳng làm gì cả, lời cảm ơn xin dành cho Trainer-san.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そんな……見つかってよかったです。\nおれは何もしていませんし、\nお礼はトレーナーさんに。",
+      "choice_data_list": [
+        "Không đâu, quan trọng là tìm thấy là tốt rồi"
+      ],
+      "jpchoice_data_list": [
+        "いやいや、とにかく見つかってよかった"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Thành thật mà nói, tôi tiến lên phía trước hơn là vì cậu ấy, mà là để K.S.Miracle không gồng mình quá mức.",
+      "jpname": "モノローグ",
+      "jptext": "正直、彼のためというよりも\nケイエスミラクルが無理をしないように\n自分が前に出ただけなのだ。"
+    },
+    {
+      "name": "",
+      "text": "......Lý do ấy, tôi cũng không định nói ra bằng mồm, nhưng K.S.Miracle khẽ cười――",
+      "jpname": "モノローグ",
+      "jptext": "……そんな理由を、\nわざわざ口に出して言うつもりはないのだが、\nケイエスミラクルは小さく笑うと――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vậy thì, đến lượt em. Trainer-san, em cảm ơn anh.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "じゃあ、おれから。\nトレーナーさん、ありがとうございます。"
+    },
+    {
+      "name": "",
+      "text": "Nói xong, cô ấy lại nhìn chăm chú vào mặt tôi.",
+      "jpname": "モノローグ",
+      "jptext": "そう言って、顔を覗き込んできたのだった。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san, nhưng......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、でも……。",
+      "choice_data_list": [
+        "Giao cho anh!"
+      ],
+      "jpchoice_data_list": [
+        "任せといて！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em hiểu rồi. Nhưng anh phải chú ý đôi chân thật kỹ nhé.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "…………。\nわかりました。でも、足元には\n本当に気をつけてくださいね。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "......Phiền hai vị nhiều lần, thật sự xin lỗi. Lần này là chiếc...... nhẫn kỷ vật bị đánh mất......",
+      "jpname": "困っている青年",
+      "jptext": "……たびたび、すみません。\n今度は、その……形見の指輪を落として……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "C-từ giờ, khoảng này mọi người hạn chế đi lại...... à, thôi là tránh đi. Đêm tối còn nguy hiểm nữa.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "こ、これからは\nあまりこの辺りを歩くのは……\nその、避けましょう。夜は特に危ないですし。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......A, Trainer-san! Cúi thấp như thế là――!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あっ、トレーナーさん！\nそんなに屈むと――！",
+      "choice_data_list": [
+        "Oa!"
+      ],
+      "jpchoice_data_list": [
+        "うわっ！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trainer-san!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん！",
+      "choice_data_list": [
+        "Anh không sao! Cứ đứng yên ở đó!"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫！そこにいて！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......nhưng mà......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……っ、でも……。"
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "X-xin lỗi......! Tất cả chỉ vì tôi vụng về thôi. Tôi là, tôi...... uu......",
+      "jpname": "困っている青年",
+      "jptext": "すすす、すみません……！\n俺がドジなばっかりにっ。\n俺、俺……うう……。"
+    },
+    {
+      "name": "",
+      "text": "Nhìn cậu thanh niên đã dính đầy bùn, tôi cười đùa rằng “nhà mình đồng phục nhỉ”. Thấy gương mặt cậu hơi bớt căng thẳng, tôi thở phào.",
+      "jpname": "モノローグ",
+      "jptext": "すでに泥だらけになっていた青年に\n『お揃いだ』と冗談っぽく笑う。青年の\n少しだけホッとしたような顔に息を吐いた。",
+      "choice_data_list": [
+        "Nào, bắt đầu tìm thôi!"
+      ],
+      "jpchoice_data_list": [
+        "さぁ、見つけるぞー！"
+      ]
+    },
+    {
+      "name": "Cậu thanh niên đang lúng túng",
+      "text": "Vâng!",
+      "jpname": "困っている青年",
+      "jptext": "はい！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Trainer-san...... anh là......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……トレーナーさん……\nあなたは……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(......Chỉ riêng nụ cười ấy, đã khiến người ở bên cạnh cảm thấy ấm áp ạ......)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（……その笑顔だけで、近くにいる人を、\nあたたかな気持ちにさせるんですね……）"
+    },
+    {
+      "name": "",
+      "text": "Nhờ cuộc tìm kiếm tận tụy, chiếc nhẫn được tìm thấy an toàn. K.S.Miracle cười rồi lau bùn trên mặt cho tôi, làm tôi hơi bị nhột.",
+      "jpname": "モノローグ",
+      "jptext": "懸命な捜索により、指輪は無事に見つかった。\nケイエスミラクルが笑って顔についた泥を\n拭いてくれたのが、少しくすぐったかった。"
+    }
+  ]
+}

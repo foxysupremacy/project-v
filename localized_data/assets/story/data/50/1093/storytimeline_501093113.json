@@ -1,0 +1,680 @@
+{
+  "title": "Đỏ thắm, lấp lánh, tỏa sáng",
+  "jptitle": "あか、きらり、ひかる",
+  "text_block_list": [
+    {
+      "name": "K.S.Miracle",
+      "text": "Những ngày tháng của hai đứa gần như hôm nào cũng bắt đầu từ căn phòng còn mờ tối――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれたちの日々は、ほとんど毎日、\n仄暗いまんまの部屋から始まる――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Thế nhưng hôm ấy. ......Căn phòng lại tối tăm đến quá đỗi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "けれど、その日は。\n……あんまりにも、暗すぎた。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hửm............?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ん…………？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Không phải...... buổi sáng à? Nửa đêm......? Sao vào giờ này mắt mình lại――)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（朝……じゃ、ない？　夜中……？\nなんでこんな時間に、目が――）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Ruby?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……ルビー？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Hức. ............Ư............!",
+      "jpname": "ダイイチルビー",
+      "jptext": "……っ。\n…………ぅ…………！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "!! ......Ruby? Ruby ơi, cậu sao thế?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！！　……ルビー？\nルビー、どうしたの？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby, cậu đau ở đâu à!? ......Xin lỗi, có ai không ạ! Chị trưởng ký túc xá ơi!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビー、どこか痛いの！？\n……すみません、誰か！　寮長！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby cậu ấy――......!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビーが――……！！"
+    },
+    {
+      "name": "Uma A",
+      "text": "Này, cậu xem chưa? Cái tin tức kia ấy.",
+      "jpname": "ウマ娘A",
+      "jptext": "ね、アンタも見た？　例のニュース。"
+    },
+    {
+      "name": "Uma B",
+      "text": "Vụ của chị Daiichi Ruby đúng không? Nghe bảo phát hiện bệnh ở chân nên phải nghỉ thi đấu hết năm luôn! Căng đét nhỉ......!!",
+      "jpname": "ウマ娘B",
+      "jptext": "ダイイチルビーさんのやつでしょ？\n脚の病気が見つかって年内休養って！\nヤバいよね～……！！",
+      "choice_data_list": [
+        "(Mấy đứa kia cũng vừa xem bản tin đó......)"
+      ],
+      "jpchoice_data_list": [
+        "（あの子たちも同じニュースを……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "“Daiichi Ruby nghỉ thi đấu hết năm vì phát hiện chấn thương” ......Tin tức đó lập tức khiến dư luận xôn xao.",
+      "jpname": "モノローグ",
+      "jptext": "『ダイイチルビー、故障発覚により年内休養』\n……その報は、瞬く間に世間を騒がせた。"
+    },
+    {
+      "name": "Phát thanh viên A",
+      "text": "“Nhắc tới Daiichi Ruby, với tư cách người kế thừa của ‘Gia tộc Lộng lẫy’ trứ danh, cô đã nhận được sự kỳ vọng và chú ý vô cùng lớn”",
+      "jpname": "アナウンサーA",
+      "jptext": "『ダイイチルビーといえば、かの\n“華麗なる一族”の後継として、\n相当な期待と注目を集めていましたから』"
+    },
+    {
+      "name": "Phát thanh viên A",
+      "text": "“Mọi người đều chờ đợi xem cô sẽ thể hiện dáng chạy ra sao khi nối bước bà và mẹ, những người từng lập nên chiến tích vĩ đại――”",
+      "jpname": "アナウンサーA",
+      "jptext": "『偉大な戦績を残した祖母、そして母の\n後を継ぎ、どんな走りを見せてくれるのかと\nいったところで――』"
+    },
+    {
+      "name": "Phát thanh viên A",
+      "text": "“Vậy mà tại các giải thuộc tuyến Triple Tiara cô gần như chẳng tạo được dấu ấn, rồi nay lại phát hiện chấn thương nữa”",
+      "jpname": "アナウンサーA",
+      "jptext": "『トリプルティアラ路線のレースでは\nほぼ見せ場なしに終わり、\nそのうえ今回の故障発覚ですから』"
+    },
+    {
+      "name": "Phát thanh viên A",
+      "text": "“Nói thẳng ra thì những tiếng thở dài ‘đáng thất vọng’ đang ngày một lớn dần hơn rồi đấy nhỉ”",
+      "jpname": "アナウンサーA",
+      "jptext": "『率直に言って、“期待外れ”という声が\n大きくなってしまっているようですね』"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビー……。"
+    },
+    {
+      "name": "Uma A",
+      "text": "Ôi trời ơi, cay nghiệt thật sự...... Tuy nghe bảo sắp xuất viện được rồi, nhưng nói thật liệu sang năm mới có quay lại đường đua nổi không?",
+      "jpname": "ウマ娘A",
+      "jptext": "いや～～～キッツ……\nもうすぐ退院はできるって話だけどさ、\nぶっちゃけ年明けても復帰できんのかな？"
+    },
+    {
+      "name": "Uma B",
+      "text": "Trong bầu không khí thế này thì, haizz...... khéo giải nghệ luôn cũng nên ấy chứ――",
+      "jpname": "ウマ娘B",
+      "jptext": "この空気の中じゃあ、ねぇ……\nそのまま引退ってのもあり得るかも――"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Này!!",
+      "jpname": "バンブーメモリー",
+      "jptext": "ちょっとッ！！"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Dù có lo lắng thì cũng có điều nên nói và điều không nên nói đấy nhé. Dừng lại ở đây ngay cho tôi!",
+      "jpname": "バンブーメモリー",
+      "jptext": "心配するにしても、\n言っていいことと悪いことがあるっスよ。\nそのへんにしておくっス！"
+    },
+    {
+      "name": "Các Uma",
+      "text": "Chị trưởng ban kỷ luật......! T-Tụi em xin lỗi ạ!!",
+      "jpname": "ウマ娘たち",
+      "jptext": "風紀委員長……！\nす、すみませ～ん！！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "................Hừ.",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "……………………ぅ。"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Ốôôôôôôôôôôôô----!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ぅおおぉおおおおっしゃらぁああーーーい！！",
+      "choice_data_list": [
+        "G-Giật cả mình......! Tự dưng làm sao thế!?",
+        "G-Giật cả mình......! Tự dưng làm sao thế!?"
+      ],
+      "jpchoice_data_list": [
+        "び、びっくりした……！急にどうした！？",
+        "び、びっくりした……！急にどうしたの！？"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Không thật sự, nãy tụt mood thảm hại muốn toang luôn nhưng mà!! Đâu phải lúc đó chứ? Chẳng phải ngay lúc này sao!?",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "いやマジ、サゲの萎えのオワだったケド！！\nそじゃなくね？　てか今じゃね！？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Muốn vực mood Ruby lên thì phải ngay lúc này chứ còn gì nữa?!?! Chỉ có ngay bây giờ thôi----!! Xông lên nàooo!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ルビーアゲんなら、今っしょ！？！？！？\n今しかっしょ～～～！！　うぉしゃーーー！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Tớ đi chạy đây!! Đi tập luyện đây!! Rồi sau đó!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ウチ、走ってくる！！　トレってくる！！\nんでんで！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Bằng một trận đua cực kỳ cháy hết nấc, tớ sẽ kéo mood tiểu thư lên tận mây xanh cho coi----!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "めっっっちゃアゲなレースで、\nウチがお嬢をアゲたらぁ～～～！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Helios......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ヘリオス……。",
+      "choice_data_list": [
+        "......Các em ấy đều là những đứa trẻ tốt thật đấy",
+        "......Các em ấy đều là những đứa trẻ tốt thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "……いい子たちだな、みんな",
+        "……いい子たちだね、みんな"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Vâng ạ. Đúng thật là vậy đấy anh.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……はい。\nそうなんです、本当に。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Đúng rồi, mình cũng...... đâu phải lúc ngồi hối tiếc kiểu “giá như mình nhận ra sớm hơn”)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（そうだ、おれも……\nもっと早く気づいてあげられてたら、\nなんて、悔いてる場合じゃない）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Mình cũng...... muốn làm điều gì đó cho Ruby, cho cậu――)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（おれも……ルビー、キミに、何か――）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "............ ......――A.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "…………。\n……――あっ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby. ......Mừng cậu về.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビー。……おかえり。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "! ......Miracle-san đứng đợi ở bên ngoài sao ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "！　……外に、いらしたのですか？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừ...... tại mình nóng lòng chờ cậu xuất viện quá.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん……キミの退院が、待ちきれなくって。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Chúng ta ở cùng phòng nên tính ra trước sau cũng chỉ chênh nhau vài phút thôi chứ nhỉ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "同室なのですから、お会いできるまでには\n数分程度の差しかないように存じますが。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hơn nữa hôm nay nhiệt độ cũng khá thấp nữa đấy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そのうえ本日は、気温も低めです。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì, mình cũng đâu có đứng đợi lâu lắm đâu, không sao mà.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ、そんなに長いことは\n待ってなかったから、大丈夫だよ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À đúng rồi, mình còn pha sẵn cả trà nóng mang theo nữa――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうだ、あと、あったかいお茶も、\n持ってきておいたし――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Xin phép Miracle-san.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……失礼いたします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ơ――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あっ――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Nguội ngắt mất rồi đấy ạ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……冷え切って、おりますが。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A ha ha...... hình như vậy thật nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あはは……みたい、だね。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "................",
+      "jpname": "ダイイチルビー",
+      "jptext": "………………。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Này, Ruby.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……ねえ、ルビー。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Có việc gì mình giúp được cho cậu không?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれにできること、あるかな？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "! ................",
+      "jpname": "ダイイチルビー",
+      "jptext": "！　………………。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Ngày mai.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……明日。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hửm?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Xin cho tôi một chút. ......Bạn có thể dành cho tôi chút thời gian không ạ?",
+      "jpname": "ダイイチルビー",
+      "jptext": "少々。\n……お時間、いただけますでしょうか。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(......Vẫn trang nghiêm như mọi khi. Nhà của Ruby lúc nào đặt chân tới cũng vậy)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（……相変わらず、厳かだ。\nルビーの家は、いつ来ても）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Kiến trúc lộng lẫy mà lại vô cùng uy nghi. Những ánh nhìn từ bao bức chân dung rọi xuống――)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（煌びやかで、でも、重々しいつくり。\n肖像画の数々から注がれるまなざし――）"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Xin mời đi lối này.",
+      "jpname": "ダイイチルビー",
+      "jptext": "どうぞ、こちらへ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi có điều muốn hỏi bạn. ......Đã muốn hỏi từ rất lâu rồi.",
+      "jpname": "ダイイチルビー",
+      "jptext": "貴方に、お訊ねしたいことがございます。\n……ずっと前から、ございました。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Miracle-san. Tôi đã có dịp theo dõi trận ra mắt của bạn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ミラクルさん。\n貴方のデビュー戦、拝見しておりました。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "! ......Ruby cũng đến xem à?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！　……ルビーも来てくれてたの？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Vâng. Tôi đã nhìn thấy. Hình ảnh bạn――",
+      "jpname": "ダイイチルビー",
+      "jptext": "ええ。観ておりました。\n貴方が――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Không chút mảy may do dự. Nhanh, thật nhanh, chỉ thuần túy băng về phía trước với tốc độ ấy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "迷いの、欠片さえなく。\n速く、速く、ただ速く、駆け抜けるところを。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Xin hãy cho tôi biết, Miracle-san. Tại sao――",
+      "jpname": "ダイイチルビー",
+      "jptext": "……教えてください、ミラクルさん。\nなぜ――"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tại sao bạn lại có thể chạy như thế được vậy?",
+      "jpname": "ダイイチルビー",
+      "jptext": "なぜ貴方には、あんな走りができるのですか？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Bởi vì đó chính là ý nghĩa tồn tại của mình.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "それが、おれの生きてる意味だから。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......!!",
+      "jpname": "ダイイチルビー",
+      "jptext": "……！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Ra thế. Nghĩ lại thì mình chưa từng kể rõ với cậu chuyện này bao giờ nhỉ. Tại cậu luôn giữ khoảng cách, không gặng hỏi sâu mà.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……そっか。そういえば、\nちゃんと話したことって、なかったよね。\nキミは踏み込まずにいてくれたから。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Tôi có được biết là trước kia thể trạng bạn rất yếu...... nhưng mà.",
+      "jpname": "ダイイチルビー",
+      "jptext": "以前は、お体が弱かった……とは、\n存じておりますが。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừ, đúng vậy. Yếu ớt, mong manh...... nếu không có mọi người, mình đã chẳng thể đứng dậy nổi. Đáng lẽ ra mình đã chẳng thể có mặt ở nơi như thế này.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "うん、そうだね。弱くて、脆くて……\nみんながいなくちゃ、立ち上がれなかった。\nおれ、こんなところにいなかったはずなんだ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Cơ thể khỏe mạnh này. Đôi chân có thể tự do chạy này. Tất cả những gì mình có đều là phép màu mọi người ban tặng.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "元気な体も。自由に走れる脚も。\nおれのは全部、みんながくれた奇跡。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Thế nên mình không có gì phải do dự cả. Những gì đã nhận, mình phải trả lại. ――Mình đã quyết tâm dùng toàn bộ bản thân cho điều đó rồi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "だから、迷いはないよ。\nもらったものは、返していく。\n――そのために全部使うって、決めてるから。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dẫu có phải vắt kiệt toàn bộ sức lực, cũng phải nhanh hơn. Nhanh hơn nữa. Để dâng hiến chiến thắng cho mọi người, phải nhanh hơn nữa. Nhanh hơn nữa.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれの全部、振り絞ってでも、速く。速く。\nみんなに勝利を捧げるために、速く。速く。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Ngay từ đầu. Mình đã quyết định như thế rồi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……最初から。そう、決めてるんだ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......................",
+      "jpname": "ダイイチルビー",
+      "jptext": "…………………………。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Thì ra đó chính là......",
+      "jpname": "ダイイチルビー",
+      "jptext": "……それが、貴方の……。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Quyết tâm của bạn――――",
+      "jpname": "ダイイチルビー",
+      "jptext": "覚悟――――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(......Sau đó. Mình cùng Ruby thong thả đi bộ trên con đường trở về học viện)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（……それから。ルビーと\nゆっくり、学園までの帰路をたどった）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Trên đường về―― thấy bờ biển hiện ra, Ruby chợt dừng chân. Thế là mình cũng cất bước đi về phía đó)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（たどってた、途中――浜辺が見えて、\nルビーが立ち止まって。\nだから、おれのほうから足を向けた）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Oa...... nhìn kìa, Ruby! Hoàng hôn hôm nay đẹp quá chừng.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "わあ……見て、ルビー！\n今日の夕焼け、すごい綺麗だ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Tôi cũng rất thích màu đỏ.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……私も、赤は好きな色です。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "! ......Ừ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！　……うん。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Nhất là sắc đỏ thắm rực rỡ đến bừng tỉnh ánh nhìn―― tôi đặc biệt yêu thích.",
+      "jpname": "ダイイチルビー",
+      "jptext": "目の醒めるような、鮮やかな紅は――特に。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Với tôi, sắc màu ấy chẳng khác nào biểu tượng của niềm kiêu hãnh.",
+      "jpname": "ダイイチルビー",
+      "jptext": "私にとってその色は、\n誇りの象徴に他なりません。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Đúng nhỉ. Thế nên...... sắc đỏ thắm đó hợp với cậu lắm đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そうだね。だから……\nキミには、紅がとってもよく似合うよ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Trước đây thì hoàn toàn không. Tuyệt nhiên không hề như vậy đâu.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……以前は、全く。\n一切、そのようではございませんでした。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Bản thân tôi cũng giống như bạn vậy. Bẩm sinh cấu trúc chân đã có khiếm khuyết―― vốn là cơ thể hoàn toàn không thích hợp để chạy đua.",
+      "jpname": "ダイイチルビー",
+      "jptext": "私もまた、貴方と同じです。\n生まれつき脚の形が悪く――\n走るには到底、向かない体でしたので。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......! Thì ra...... là vậy sao......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……！\nそう、だったんだ……。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Sinh ra là người kế thừa của “Gia tộc Lộng lẫy”, mang thân phận Mã Nương, vậy mà lại như thế. Thật không thể dung thứ. ――Không, chính tôi không thể tha thứ cho điều đó.",
+      "jpname": "ダイイチルビー",
+      "jptext": "“華麗なる一族”が後継として、\nウマ娘として、生を受けたというのに。\n許されざる。――いえ、許せぬことでした。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Một kẻ như tôi, vậy mà mẹ tôi...... cùng toàn thể gia tộc đã luôn ở bên nâng đỡ, chăm sóc. Tận tụy, chu toàn hết mực cho đến ngày tôi có thể chạy.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そんな私を、お母様が……一族の皆様が、\n寄り添い、支えてくださいました。\n走れるようになるまで、丁重に、万全に。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Vì lẽ đó, bản thân tôi cũng vậy. Có mọi người―― thì mới có tôi đứng ở đây ngày hôm nay.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ですから、私もまた。\n皆様あってこそ――ここに在ります。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ra vậy. ......Ra thế sao...... Tụi mình cũng hơi giống nhau một chút nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "そっか。……そうか……\nおれたち、少しだけ、似てるんだね。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Có lẽ...... là vậy thật. ......Không, nhưng chính vì lẽ đó.",
+      "jpname": "ダイイチルビー",
+      "jptext": "かも、しれません。\n……いえ、しかし、であればこそ。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Lúc này tôi chỉ cảm thấy vô cùng hổ thẹn về bản thân. ......Khi được chạm tới quyết tâm của bạn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "今は、己を恥じ入るばかりです。\n……貴方の覚悟に触れて。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hả...... của mình á?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ……おれの？"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Không thể dự “Oka Sho”, xuất phát chậm ở “Oaks”. Bệnh ở chân lại phát hiện ra, coi như bỏ phí cả năm Cấp Classic――",
+      "jpname": "ダイイチルビー",
+      "jptext": "……『桜花賞』は出られず、\n『オークス』は出遅れ。脚の病気も発覚し、\nクラシック級を棒に振り――",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Oaks"
+      ],
+      "jpcolor_text_info_list": [
+        "桜花賞",
+        "オークス"
+      ]
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Hơn thế nữa, sở trường của tôi không phải tuyến vương đạo cự ly trung bình như người ta kỳ vọng...... mà lại nằm ở cự ly ngắn.",
+      "jpname": "ダイイチルビー",
+      "jptext": "そのうえ、活躍を期待された\nいわゆる王道、中距離ではなく……\n私の適性は、短距離にございました。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Thế nhưng, dù là bất kỳ chuyện nào trong số đó. ――Tuyệt đối không thể trở thành cái cớ để vứt bỏ sứ mệnh của mình, vứt bỏ ý nghĩa sinh tồn của bản thân.",
+      "jpname": "ダイイチルビー",
+      "jptext": "ですが、そのいずれも。\n――己が使命を、生を受けた意味を\n投げ出してよい理由になど、決してならない。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Dẫu vậy, tôi vẫn sẽ hoàn thành sứ mệnh ấy. Với tư cách người kế thừa của “Gia tộc Lộng lẫy”.",
+      "jpname": "ダイイチルビー",
+      "jptext": "私は、それでも使命を果たします。\n“華麗なる一族”が後継として。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Dòng máu này. Danh tính này. Tôi nhất định sẽ khiến chúng tỏa sáng rực rỡ. ――Nhất định.",
+      "jpname": "ダイイチルビー",
+      "jptext": "この血を。この名を。\n輝かせてみせます。――必ず。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ruby......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ルビー……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Ừ. Quả nhiên là rất hợp với cậu đấy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……うん。やっぱり、似合うよ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Sắc đỏ thắm chói lòa rực rỡ nhất ấy, chắc chắn là dành cho cậu rồi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "とびっきり眩しい紅は、キミにこそ、きっと。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hộc...... á, chết rồi. Trời tối mịt mất rồi nhỉ......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "はぁっ……あ、いけない。\nもう暗くなってたんですね……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng mà...... xin lỗi anh, Trainer-san. Cho em tập thêm một chút nữa được không ạ?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "でも……すみません、トレーナーさん。\nもうちょっとだけ、いいですか？",
+      "choice_data_list": [
+        "Ừm, thì...... thêm một chút thôi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "うーん、まあ……もうちょっとなら！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em cảm ơn anh ạ! Nào, cố lên......!!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ありがとうございます！\nよしっ……！！",
+      "choice_data_list": [
+        "Cơ mà hôm nay em hăng hái hơn hẳn mọi khi nhỉ",
+        "Cơ mà hôm nay em hăng hái hơn hẳn mọi khi nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "にしても、いつも以上に張り切ってるな",
+        "にしても、いつも以上に張り切ってるね"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì...... vâng ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふっ……はい。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "――Em cũng tự nhủ mình phải cố gắng nhiều hơn nữa. Tự dưng, em được tiếp thêm động lực đấy ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "――おれも、もっと頑張らなきゃなって。\nなんだか、励まされちゃって。"
+    }
+  ]
+}

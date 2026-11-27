@@ -1,0 +1,630 @@
+{
+  "title": "Valentine",
+  "jptitle": "バレンタイン",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Nhân tiện, có một điều cứ khiến tôi hơi băn khoăn mãi từ lâu.",
+      "jpname": "モノローグ",
+      "jptext": "ところで、ずっと微妙に\n引っかかっていたことがある。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Trainer-san...... dịu dàng hơn nhiều so với những gì em từng nghĩ――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……トレーナーさん……\nおれが思ってたより、ずっと――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dịu dàng hơn...... rất nhiều, rất nhiều ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ずっとずっと、…………優しいんですね。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em hiểu mà, mọi người ai cũng dịu dàng cả. Anh cũng thế. Nếu em bị thương, chắc chắn anh sẽ buồn.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……わかってます、みんなが優しいこと。\nあなただってそうです。おれが傷つけば\nきっと、悲しんでくれる。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tại sao...... mọi người lại tốt bụng đến vậy nhỉ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "なんで……みんな、\nそんなに優しいんだろう。"
+    },
+    {
+      "name": "",
+      "text": "Là chuyện K.S.Miracle hay nói thế...... hay đúng hơn, là cái thói quen suy nghĩ đó của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルがよく口にするそれ……\nというか、考え方の\n癖のようなものについてだ。",
+      "choice_data_list": [
+        "(Em ấy cứ quy hết thành “tốt bụng” nhỉ......)",
+        "(Em ấy cứ quy hết thành “tốt bụng” nhỉ......)"
+      ],
+      "jpchoice_data_list": [
+        "（『優しい』って、受け取るんだよな……）",
+        "（『優しい』って、受け取るんだよね……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lần đầu tôi thấy cấn là hồi mới làm bữa phụ mang sang cho em ấy thì phải. Lúc đó em cũng bảo tôi “tốt bụng quá”.",
+      "jpname": "モノローグ",
+      "jptext": "最初に引っかかったのは、確か初めて補食を\n作って持っていった時のことだったか。\nあの時も彼女は自分に『優しい』と言った。"
+    },
+    {
+      "name": "",
+      "text": "Khi ấy dù thấy hơi gợn nhưng tôi chưa diễn tả thành lời được―― còn giờ đây, có lẽ tôi đã nắm bắt được phần nào gốc rễ của chuyện đó.",
+      "jpname": "モノローグ",
+      "jptext": "当時は、違和感こそ覚えたものの\n言語化できずにいたが――\n今ならその正体も少し掴めたように思う。",
+      "choice_data_list": [
+        "Hình như hơi lệch nhau rồi nhỉ",
+        "Hình như hơi lệch nhau rồi nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "ちょっと、食い違ってるんだよな",
+        "ちょっと、食い違ってるんだよね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lấy ví dụ về chuyện bữa phụ, lý do tôi chuẩn bị nó, nói ngắn gọn thì là “vì đó là K.S.Miracle”.",
+      "jpname": "モノローグ",
+      "jptext": "例えば補食の件についていうなら、\n自分がそれを用意した理由は、\n端的に言って『ケイエスミラクルだから』だ。"
+    },
+    {
+      "name": "",
+      "text": "Vì tôi muốn cổ vũ cho em. Vì tôi mong em có cơ thể khỏe mạnh để chạy tiếp thật vui vẻ. Vì em là người khiến tôi mong mỏi điều đó hơn bất kỳ ai, nên tôi mới hành động.",
+      "jpname": "モノローグ",
+      "jptext": "彼女を応援したいと思うから。\n丈夫な体で元気に走り続けてほしいから。\n誰よりそう願う相手だから、行動した。"
+    },
+    {
+      "name": "",
+      "text": "Thế nhưng em lại đón nhận điều đó là “vì Trainer-san tốt bụng”. ――Em tuyệt nhiên không nghĩ nguyên nhân nằm ở chính bản thân mình.",
+      "jpname": "モノローグ",
+      "jptext": "でもそれを、彼女は\n『トレーナーさんが優しいから』と受け取る。\n――要因が自分にあるとは、決して考えない。"
+    },
+    {
+      "name": "",
+      "text": "Phải chăng suy nghĩ “mình chẳng có gì, mình không nắm giữ thứ gì cả” được nuôi dưỡng trong em từ thuở nhỏ cũng đang tác động vào chuyện này――",
+      "jpname": "モノローグ",
+      "jptext": "幼少期から彼女の中で育まれてきてしまった、\n『自分には何もない、何も持っていない』\nという想いが、ここにも作用しているのか――"
+    },
+    {
+      "name": "",
+      "text": "Ngay cả trong ánh nhìn mà người khác hướng về phía mình, K.S.Miracle cũng triệt để gạt “chính mình” ra ngoài.",
+      "jpname": "モノローグ",
+      "jptext": "ケイエスミラクルは、\n他者が向けてくるまなざしの中にさえ、\n徹底的に『自分』を置かない。",
+      "choice_data_list": [
+        "Kể cả anh lẫn mọi người, đều đang nhìn “chính em” cơ mà",
+        "Kể cả anh lẫn mọi người, đều đang nhìn “chính em” cơ mà"
+      ],
+      "jpchoice_data_list": [
+        "俺もみんなも、『君を』見ているのに",
+        "私もみんなも、『貴方を』見ているのに"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cách nhìn nhận sự việc như thế của em, cuối cùng đã đẩy chính em vào bước đường cùng. Nghĩ lại biến cố năm ngoái mà xem――",
+      "jpname": "モノローグ",
+      "jptext": "彼女のそんなものの捉え方は、\n最終的に彼女自身を大きく追い詰めた。\nそんな昨年の事件を思うと――",
+      "choice_data_list": [
+        "(Từng chút một thôi cũng được, liệu mình có thể thay đổi nó không nhỉ)"
+      ],
+      "jpchoice_data_list": [
+        "（少しずつでいい、変えていけないかな）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chậm rãi thôi cũng được. Giá mà em nhận ra được rằng, có những tình cảm được trao đi không phải vì ai khác, mà chính vì em là chính em.",
+      "jpname": "モノローグ",
+      "jptext": "ゆっくりでいいから。他の誰でもない、\n彼女自身だからこそ向けられる気持ち\nというものがあるのだと、知ってくれたら。"
+    },
+    {
+      "name": "",
+      "text": "......Nghĩ đến đó, tôi chợt nảy ra một ý. Phải rồi, đúng dịp sắp tới là ngày trao gửi tâm tình cho nhau. Nói cách khác chính là――",
+      "jpname": "モノローグ",
+      "jptext": "……とまで考え、ふと思いつく。そうだ、\n折よくもうすぐ、気持ちを交わし合う日。\nつまり――",
+      "choice_data_list": [
+        "......“Valentine” chứ gì nữa!"
+      ],
+      "jpchoice_data_list": [
+        "……『バレンタイン』だ！"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "A...... em chào buổi sáng, Trainer-san! Buổi tập sáng, mong anh chỉ giáo ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ……おはようございます、トレーナーさん！\n朝練、よろしくお願いします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À mà trước đó...... xin lỗi anh, cho em xin một chút thôi. Em có món này muốn gửi anh.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "っと、その前に……すみません、少しだけ。\n渡したいものがあって。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Ừm...... Chúc mừng Valentine ạ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっと……ハッピーバレンタイン。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Chẳng phải thứ gì cao sang đâu ạ...... chỉ là sô-cô-la nấm trắng rất dễ làm thôi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "全然大したものじゃなくて……\n作るのもすごく簡単な、\nホワイトトリュフなんですけど。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nên nếu bảo là để cảm ơn anh suốt thời gian qua thì vẫn chẳng thấm vào đâu...... nhưng ít nhất, anh nhận cho em nhé?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "だから、普段のお礼の気持ち、っていうには\n全然足りないんですけど……\nせめて、受け取ってもらえますか？",
+      "choice_data_list": [
+        "Tất nhiên rồi! Cảm ơn em, anh vui lắm"
+      ],
+      "jpchoice_data_list": [
+        "もちろん！ありがとう、嬉しいよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trước hết cứ trân trọng đón lấy hộp quà, nhưng...... thật ra màn chính của tôi bây giờ mới bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "まずはしっかりと受け取りつつも……\n実のところ、\n自分にとっての本番はここからだ。",
+      "choice_data_list": [
+        "Hôm nay chắc Miracle sẽ nhận được nhiều lắm đây",
+        "Hôm nay chắc Miracle sẽ nhận được nhiều lắm đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "ミラクルは今日、たくさんもらいそうだよな",
+        "ミラクルは今日、たくさんもらいそうだよね"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hả? ......À, anh nói sô-cô-la ạ? Vâng...... có lẽ vậy thật......?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ？　……あ、チョコのことですか？\nそうですね……そうかも……？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Hì hì, năm nào em cũng thấy bất ngờ lắm. Ai cũng tốt bụng ghê――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ふふ、毎年ビックリしてますよ。\nみんな、優しいなぁって――",
+      "choice_data_list": [
+        "Không phải thế đâu"
+      ],
+      "jpchoice_data_list": [
+        "じゃ、なくて"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "？",
+      "choice_data_list": [
+        "Trong sô-cô-la vốn dĩ chứa đựng cả tấm lòng đấy"
+      ],
+      "jpchoice_data_list": [
+        "チョコには本来、想いが詰まってるはずだよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng vậy, không chỉ đơn thuần là sự tử tế hay lòng thương người đâu.",
+      "jpname": "モノローグ",
+      "jptext": "そう、ただの優しさ、\nただの『思いやり』だけではなくて。"
+    },
+    {
+      "name": "",
+      "text": "Mà là một “tấm lòng” có phương hướng hẳn hoi―― dành để trao tận tay một người cụ thể nào đó.",
+      "jpname": "モノローグ",
+      "jptext": "特定の誰かに手渡すための――\nなんらかの、ベクトルを持つ『想い』が。"
+    },
+    {
+      "name": "",
+      "text": "Nhìn K.S.Miracle vẫn đang ngơ ngác, tôi tiếp tục nhắn nhủ thật chậm rãi, từng lời cẩn trọng. “Nếu được, với những viên sô-cô-la nhận được hôm nay――”",
+      "jpname": "モノローグ",
+      "jptext": "きょとんとしたままのケイエスミラクルに、\n続けて告げる。ゆっくりと、丁寧に。\n『できれば、今日もらうチョコについて――』",
+      "choice_data_list": [
+        "Em hãy đón nhận cả tấm lòng gửi gắm trong đó nữa nhé"
+      ],
+      "jpchoice_data_list": [
+        "そこにある想いも、知ってあげて"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......................",
+      "jpname": "ケイエスミラクル",
+      "jptext": "…………………………。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(............“tấm lòng” ư?)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（…………『おもい』？）"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "A, Miracle-chan chào buổi sáng nha! Nào nào nào, qua đây qua đây♪",
+      "jpname": "アイネスフウジン",
+      "jptext": "あ、ミラクルちゃんおはようなの！\nさささ、こっちこっち～♪"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Đúng lúc bọn tớ đang mở hội trao đổi sô-cô-la đây! Tất nhiên là có phần của Miracle luôn rồi đấy.",
+      "jpname": "メジロライアン",
+      "jptext": "今ちょうど、チョコの交換会\nするところだったんだ！\nミラクルの分も、もちろんあるよっ。"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Đúng rồi, nhớ háo hức mong chờ đấy nha! Tại phần của Ryan-chan, năm nay cậu ấy mạnh dạn làm hình trái tim siêu dễ thương――",
+      "jpname": "アイネスフウジン",
+      "jptext": "そうそう、楽しみにしててほしいの！\nなんてったってライアンちゃんのは、\n今年は思いきってかわいいハートの――",
+      "color_text_info_list": [
+        "Ryan"
+      ],
+      "jpcolor_text_info_list": [
+        "ライアン"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Khoan khoan khoan, Ines!? Thôi mà, đừng nói ra chứ!!",
+      "jpname": "メジロライアン",
+      "jptext": "ちょちょちょ、アイネスっ！？\nいい、いい！　言わないでっ！！",
+      "color_text_info_list": [
+        "Ines"
+      ],
+      "jpcolor_text_info_list": [
+        "アイネス"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Bánh tart ngon lành của Ines khéo tay. Bánh cupcake của Ryan còn đính thêm trái tim nhỏ xíu xinh xắn trên đỉnh nữa)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（料理上手なアイネスのおいしそうなタルト。\nライアンの、ちっちゃくてかわいいハートが\nちょこんとのったカップケーキ）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Món nào cũng là quà Valentine tuyệt vời cả, nên là......)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（どっちも、すごく素敵な\nバレンタインの贈り物で、だから……）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Cảm ơn hai cậu nhé. Tặng cho cả em nữa, đúng là tốt――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ありがとう、2人とも。\nおれにもくれるなんて、や――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Tốt bụng, ư, ......hay không phải?)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（優しい、ん、……じゃなくて？）"
+    },
+    {
+      "name": "",
+      "text": "“Không phải thế đâu”",
+      "jpname": "モノローグ",
+      "jptext": "『じゃ、なくて』"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Không phải...... thế đâu......?)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（じゃ……なくて……？）"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hây hây Fuu-thần Rai-thần ơi----!! Không cho phép đánh lẻ chuồn lẹ đâu nhá? Nhớ đấy!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ヘイヘイフウ神ライ神～！！\n抜け駆け爆逃げは許さんかんね？　ゆーて！"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Đổi quà với tụi tôi nữa đi, Miracle☆ Nhận lấy cú trang trí siêu khủng này đây!!",
+      "jpname": "メジロパーマー",
+      "jptext": "私たちとも交換しようよ、ミラクル☆\n鬼デコインパクトをくらえ～いっ！"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Chuẩn luôn! Thật ra tiền gói ghém còn đắt hơn cả phần ruột bên trong đấy!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "それな！　実は中身より金かかってっから！！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "C-Cảm ơn hai cậu. Xin lỗi nhé, phần bọc quà của em lại đơn giản quá......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、ありがとう。ごめんね、\nおれのほうの包みはシンプルで……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Đúng như lời nói, gói quà hoành tráng thật. Giấy gói màu xanh da trời rực rỡ, ruy băng vàng nổi bật)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（言葉どおりの、ものすごいラッピング。\n目が覚めるような空色の包み、黄色いリボン）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(Dòng chữ “Gửi Miracle” được viết bằng tầm 4 màu bút khác nhau)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（4色くらいのペンで書かれた、\n『ミラクルへ』の文字）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Tặng cho em thật sao? ......Cho em á?",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……くれるの？　……おれに？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Hử? Miracle, sao thế??",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ん？　ミラクル、どしたん？？"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "À, không......――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "あ、いや……――"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "......Này, Helios. Lúc chuẩn bị cậu chẳng bảo có chuyện muốn nói khi trao quà còn gì?",
+      "jpname": "メジロパーマー",
+      "jptext": "……ね、ヘリオス。準備しながらさ、\n渡す時言いたいことあるって話してなかった？"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "A, đúng rồi ha!? Pamachin đúng là thần kiến tạo đỉnh nóc kịch trần----!!",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "あ、そだった！？\nパマちんマジアシスト神～～～！！",
+      "color_text_info_list": [
+        "Pama"
+      ],
+      "jpcolor_text_info_list": [
+        "パマ"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Miracle Miracle! Nghe này nha!! Hồi Mile Championship tớ cũng nói rồi đó!! Tớ――",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ミラクルミラクル！　あんね！！\nマイチャンの時も言ったケド！！\nウチ――"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Chạy cùng Miracle ấy! Được chạy cùng cậu mãi thế này ấy! Phảiiiii nói là vui hết sảy con bà bảy luôn nhá☆",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "ミラクルと走んの！　ずーっと走れてんの！\nマァ～～～～ジ、楽ピだかんねっ☆"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Sô-cô-la là để gửi gắm T-Â-M T-Ì-N-H kiểu như thế đó♡",
+      "jpname": "ダイタクヘリオス",
+      "jptext": "チョコは～、ってな感じのキ・モ・チ♡"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "!",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(......“Tâm tình”. ......“Tấm lòng”)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（……『きもち』。……『おもい』）"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "(“Tấm lòng”............)",
+      "jpname": "ケイエスミラクル",
+      "jptext": "（『想い』…………）"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Yo, Miracle!! Nhận lấy sô-cô-la tình bạn rực lửa này đi nào!",
+      "jpname": "バンブーメモリー",
+      "jptext": "よっス、ミラクル！！\n熱き友情の友チョコ、受け取ってほしいっス！"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Người ta bảo đồ ngọt tiếp thêm năng lượng mà. Sung sức hừng hực, sức khỏe là trên hết!! Thế nên cậu ăn thật nhiều vào nha!!",
+      "jpname": "バンブーメモリー",
+      "jptext": "甘いものは元気出るって言うっスからね。\n元気溌剌、健康第一！！\nそんなわけで、いっぱい食べてくれっス！！"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Là loại “có vị bạc hà” đấy ạ. Mong sao bạn có thể cảm nhận trọn vẹn làn gió qua tán lá.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "『ミント入り』、です。\n葉風を存分に感じていただけますように。"
+    },
+    {
+      "name": "Yamanin Zephyr",
+      "text": "Rồi chúng ta hãy cùng trò chuyện nhé. Về ngọn gió ấy, nhất định hãy kể bằng chính lời của bạn. ......Em mong chờ lắm đấy.",
+      "jpname": "ヤマニンゼファー",
+      "jptext": "そうして、語らいましょうね。\n風について、あなた自身の言葉で、ぜひ。\n……楽しみにしていますから。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Đây là tác phẩm mới của nghệ nhân làm sô-cô-la mà gia đình tôi vẫn thân quen từ lâu.",
+      "jpname": "ダイイチルビー",
+      "jptext": "長らく懇意にしていただいている\nショコラティエの新作です。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "......Thuở còn ở nhà, tôi cũng thường dùng bánh kẹo của vị này để thưởng trà.",
+      "jpname": "ダイイチルビー",
+      "jptext": "……実家におりました頃は、\n私もよくお茶請けに、\nこの方のお菓子をいただいておりました。"
+    },
+    {
+      "name": "Daiichi Ruby",
+      "text": "Về hương vị thì tôi xin lấy cả tấm lòng để bảo đảm. ......Nếu Miracle-san không ngại.",
+      "jpname": "ダイイチルビー",
+      "jptext": "味は、心より保証いたします。\n……よろしければ。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "................",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……………………。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......A, Trainer-san――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……あっ、トレーナーさん――",
+      "choice_data_list": [
+        "Miracle. Thế nào rồi?"
+      ],
+      "jpchoice_data_list": [
+        "ミラクル。どうだった？"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dạ, ừm......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "えっ、と……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "......Em xin lỗi. Em có cảm giác...... mình vẫn chưa hiểu thấu đáo được.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "……すみません。\nちゃんとは……わからなかった、気がします。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em xin lỗi anh, nhưng mà――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "ごめんなさい、でも――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em thấy mình...... cần phải suy nghĩ nhiều hơn nữa. ......Em sẽ suy nghĩ thật kỹ.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "もっと……考えようって、思いました。\n……考えます。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Vừa từ từ thưởng thức những gì mọi người tặng, em sẽ ngẫm nghĩ thêm nhiều hơn nữa......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "みんなにもらったもの、\nちゃんと味わいながら……もっと。"
+    },
+    {
+      "name": "",
+      "text": "Xem ra em vẫn chưa đi đến được kết luận. Thế nhưng K.S.Miracle đã cho thấy một sự thay đổi rõ rệt trong cách đối diện với tình cảm của mọi người......",
+      "jpname": "モノローグ",
+      "jptext": "結論は出せなかったようだ。\nだが確かな向き合い方の変化を、\nケイエスミラクルは見せたのだった……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không, ừm...... sao nhỉ. Chuyện đó thế nào đây...... em――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "いや、その……どうかな。\nどうなんだろう……おれ――",
+      "choice_data_list": [
+        "......Thật ra anh cũng có thứ muốn tặng em đấy",
+        "......Thật ra anh cũng có thứ muốn tặng em đấy"
+      ],
+      "jpchoice_data_list": [
+        "……実は俺も、君に渡したいんだけど",
+        "……実は私も、貴方に渡したいんだけど"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "!! Hả, ơ, ừm――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "！！　えっ、あっ、えっと――",
+      "choice_data_list": [
+        "Cảm ơn em vì lúc nào cũng cố gắng hết mình nhé, Miracle"
+      ],
+      "jpchoice_data_list": [
+        "いつも頑張ってくれてありがとう、ミラクル"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vừa nói, tôi vừa đặt gói quà vào tay em khi em còn đang sững người chưa kịp phản ứng. Chỉ là hộp sô-cô-la bình thường chẳng có gì đặc biệt, nhưng tôi đã gửi gắm hết tâm ý của mình vào đó.",
+      "jpname": "モノローグ",
+      "jptext": "言いながら、動ききれずにいる彼女の手に\n包みをしっかり握らせる。なんの変哲もない\nチョコだけれど、精一杯の想いをこめて。"
+    },
+    {
+      "name": "",
+      "text": "Thế rồi, K.S.Miracle bỗng――",
+      "jpname": "モノローグ",
+      "jptext": "すると、ケイエスミラクルは――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "K-Không...... không ổn rồi, thế này thì. Không được đâu, em...... sắp rối bời lên mất thôi.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "だ、……ダメだ、こんなの。\nダメです、おれ……変になる。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Tại vì Trainer-san nói vậy nên em...... em đã nghĩ mình phải suy nghĩ, phải thử ngẫm xem, đúng là đã nghĩ thế thật. Nhưng mà――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "その、トレーナーさんが言うから、おれ……\n考えなきゃ、考えようって、思った、\n思ったんです。でも――"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Nhưng mà, ......hức, không được đâu anh ơi, thế này thì.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "でも、……っ、ダメですよ、こんなの。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Bởi vì, từ Ines, Ryan, Palmer, Helios, Bamboo, Zephyr, đến Ruby nữa――",
+      "jpname": "ケイエスミラクル",
+      "jptext": "だって、アイネスもライアンも、\nパーマーもヘリオスも、バンブーも、\nゼファーも、ルビーも――",
+      "color_text_info_list": [
+        "Palmer",
+        "Bamboo"
+      ],
+      "jpcolor_text_info_list": [
+        "パーマー",
+        "バンブー"
+      ]
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Cả Trainer-san nữa. Tất cả, ......tất cả mọi người đều......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "トレーナーさん、も。\nみんな、……みんなが……。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Dành cho em...... cho một đứa như em thế này thì.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "おれの……おれなんかの、ために、なんて。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Không, ......không ổn thật rồi!! Chắc chắn là không ổn đâu, ừm, có lẽ vậy.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "いや、……ダメです！！\nダメだと、思います、その、多分。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Trong ngực em cứ...... ấm rực lên quá mức.",
+      "jpname": "ケイエスミラクル",
+      "jptext": "胸が、……ぽかぽか、しすぎて。"
+    },
+    {
+      "name": "K.S.Miracle",
+      "text": "Em sắp mất bình tĩnh mất thôi......",
+      "jpname": "ケイエスミラクル",
+      "jptext": "変になるよ、おれ……。"
+    }
+  ]
+}
