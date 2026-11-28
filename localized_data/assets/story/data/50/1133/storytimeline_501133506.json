@@ -1,0 +1,246 @@
+{
+  "title": "Buổi học nhảy",
+  "jptitle": "ダンスレッスン",
+  "text_block_list": [
+    {
+      "name": "Chrono Genesis",
+      "text": "……Một, hai…… một, hai……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "……ワン、ツー……ワン、ツー……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……không được rồi. Vẫn chưa thấy được lối đến\nchiến thắng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "……駄目だわ。\nまだ勝ち筋が見えない……。",
+      "choice_data_list": [
+        "Lối đến chiến thắng?"
+      ],
+      "jpchoice_data_list": [
+        "勝ち筋？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Là vậy đó…… em chưa có được sự chắc chắn rằng mình\ncó thể trình diễn một Winning Live khiến mọi người hài\nlòng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "その……みなさまに満足してもらえる\nライブができる確信が得られなくて……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Sự sôi nổi của Winning Live…… khi vượt qua một ngưỡng\nnhất định, sẽ phụ thuộc nhiều vào cá tính riêng.",
+      "jpname": "クロノジェネシス",
+      "jptext": "ウイニングライブの盛り上がりは……\n一定ラインを超えた先になると、\n属人性が高くなります。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "chẳng có sách lược có sẵn, cũng chẳng có khuynh hướng\nrõ ràng nào——",
+      "jpname": "クロノジェネシス",
+      "jptext": "定石や、明確な傾向があるわけでもなく――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "em cũng chẳng biết phải làm sao…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "どうしたものかと……。",
+      "choice_data_list": [
+        "Dù vậy, vẫn có những điều học hỏi được từ quá khứ đấy chứ.",
+        "Vậy thì cứ tự tạo theo cách của em không được à?"
+      ],
+      "jpchoice_data_list": [
+        "それでも過去に学べることはありそうだよ",
+        "自分なりに作ればいいんじゃない？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ý anh là……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "と言いますと……？",
+      "choice_data_list": [
+        "Chẳng hạn lấy một người mà em muốn hướng tới làm hình mẫu."
+      ],
+      "jpchoice_data_list": [
+        "自分が目指したい子を参考に、とか"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Ra vậy.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……なるほど。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vậy thì…… dù có phần tự tiện, em muốn lấy chị Grass\nWonder—— người đã đạt Tam Liên Bá Grand Prix—— làm\nhình mẫu.",
+      "jpname": "クロノジェネシス",
+      "jptext": "でしたら……おこがましいとは思いますが、\nグランプリ3連覇を果たした\nグラスワンダーさんを参考にしたいです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Dáng nhảy uyển chuyển tựa như hoa khoe sắc…… Winning\nLive của chị ấy mang điệu vũ dịu dàng như Yamato\nNadeshiko thật trang nhã——",
+      "jpname": "クロノジェネシス",
+      "jptext": "しなやかに踊るさまは花咲くが如し……\n彼女のライブは大和撫子然とした舞が雅で――",
+      "choice_data_list": [
+        "Vậy thì ngay bây giờ, đi học mẹo từ chính người ấy luôn nhé"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ早速、本人にコツを教わりに行こうか"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả……!?",
+      "jpname": "クロノジェネシス",
+      "jptext": "えっ……！？"
+    },
+    {
+      "name": "Glass Wonder",
+      "text": "——Ra vậy. Giờ tôi cũng đang rảnh, chẳng có gì ngại cả.",
+      "jpname": "グラスワンダー",
+      "jptext": "――なるほど。時間も空いていることですし、\n構いませんよ。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-thật không ạ……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "ほ、本当ですか……！"
+    },
+    {
+      "name": "Glass Wonder",
+      "text": "Nói thật thì…… được khen tràn trệ như vậy, tôi cũng hơi\nngượng ngùng đấy.",
+      "jpname": "グラスワンダー",
+      "jptext": "それにしても……そんなに手放しで\n褒められると、いささか照れくさいですね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nhưng mà…… đó là tấm lòng thật của em. Cứ mỗi lần xem\nWinning Live của chị Grass, lại như thấm đượm tinh thần\nu trầm tĩnh lặng vậy ạ…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "でも……本当の気持ちです。\nグラスさんのライブを観るたび、\n侘び寂びの精神が染み渡ると言いますか……。"
+    },
+    {
+      "name": "Glass Wonder",
+      "text": "Hi hi. Vì cả đứa hậu bối đáng yêu nữa, tôi phải thật\nnghiêm túc đóng vai người hướng dẫn mới được.",
+      "jpname": "グラスワンダー",
+      "jptext": "ふふ。可愛い後輩のためにも、しっかりと\n指導役を務めなければなりませんね。"
+    },
+    {
+      "name": "Glass Wonder",
+      "text": "Vậy thì, cùng đi tới phòng tập thôi. Trước hết, từ nền\ntảng cơ bản của vũ đạo Nhật——",
+      "jpname": "グラスワンダー",
+      "jptext": "では、スタジオに向かいましょう。\nまずはベースとなる、日本舞踊の基本から――"
+    },
+    {
+      "name": "",
+      "text": "Sau đó—— dưới sự chỉ dẫn nghiêm khắc mà dịu dàng\ncủa chị Grass Wonder, Chrono Genesis đã ngày càng tiến bộ\ntrong nhảy.",
+      "jpname": "モノローグ",
+      "jptext": "その後――グラスワンダーの厳しくも\n優しい指導のもと、クロノジェネシスは\nダンスを上達させていったのだった。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Theo cách của riêng em…… ạ?",
+      "jpname": "クロノジェネシス",
+      "jptext": "自分なりに……ですか？",
+      "choice_data_list": [
+        "Cậu thích kịch tính được sinh ra trong đường đua đúng không?",
+        "Cậu thích kịch tính sinh ra từ đường đua đúng không nào?"
+      ],
+      "jpchoice_data_list": [
+        "レースで生まれるドラマ、好きだろう？",
+        "レースで生まれるドラマ、好きでしょう？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng ạ…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい……。",
+      "choice_data_list": [
+        "Thì đem những gì cảm nhận được ở đó đưa vào điệu nhảy chẳng hạn."
+      ],
+      "jpchoice_data_list": [
+        "そこで感じたものをダンスに入れるとか"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……những gì cảm nhận được, ở đường đua.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……レースで、感じたもの。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Há…… lượt sau, thế này……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はっ……次は、こう……！",
+      "choice_data_list": [
+        "Xuất sắc! Tốt hơn lượt vừa rồi đấy!"
+      ],
+      "jpchoice_data_list": [
+        "すごい！さっきよりよくなってる！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……hi hi. Đều nhờ lời khuyên của Trainer-san cả ạ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……えへへ。\nトレーナーさんのアドバイスのおかげですね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……sau đó, em đã thử nhớ lại trận mô phỏng từng chạy\nhôm trước.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……あの後、前に走った模擬レースを\n思い出してみたんです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tâm trạng chẳng muốn thua trong màn tranh tài, niềm vui\nnắm lấy vai chính——",
+      "jpname": "クロノジェネシス",
+      "jptext": "競り合い中の負けたくない気持ち、\n主役を掴めた喜び――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nếu có thể diễn tả bằng điệu nhảy những cảm xúc sinh\nra hôm ấy, nó cũng sẽ trở thành một vở kịch nóng\nbỏng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "その日、生まれた感情をダンスで表現できる\nのなら、それもまた熱いドラマになる……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Khi đã ngộ ra điều đó, chỉ còn là miệt mài theo đuổi cách\ndiễn đạt…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "そう気づけたら、\nあとは表現を追い求めるだけ……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Dẫn dắt ánh mắt, kết hợp biểu cảm với việc phóng đại\nthu nhỏ động tác hay chỉnh nhịp độ…… em đã cố gắng\nliên kết chúng với cảm xúc.",
+      "jpname": "クロノジェネシス",
+      "jptext": "視線の誘導、振りの大小や速度の調整に\n表情を絡ませ……感情とリンクさせるよう\n努めてみたのです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Mỗi trận đua có diễn biến khác nhau…… nhưng nếu tính\ntoán sẵn nhiều kịch bản hơn, tích lũy từng chút một, nhất\nđịnh——",
+      "jpname": "クロノジェネシス",
+      "jptext": "レースごとに展開は異なりますが……\nより多くのパターンを想定し、\n積み重ねておけば、きっと――",
+      "choice_data_list": [
+        "Bất kể tấm lòng nào em cũng có thể truyền tải được đấy!",
+        "Bất kể tấm lòng nào em cũng có thể truyền tải được nha!"
+      ],
+      "jpchoice_data_list": [
+        "どんな想いも、伝えられるようになるな！",
+        "どんな想いも、伝えられるようになるね！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng ạ……! Cả ở Winning Live…… em nhất định dựng nên\nmột vở kịch nóng bỏng……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい……！　ライブでも……\n熱いドラマを作り上げてみせます……！"
+    },
+    {
+      "name": "",
+      "text": "Chrono Genesis với tấm lòng sáng tỏ không còn do dự, đã\nhăng hái miệt mài rèn luyện điệu nhảy.",
+      "jpname": "モノローグ",
+      "jptext": "迷いの晴れたクロノジェネシスは、\n生き生きとダンスの練習に取り組むのだった。"
+    }
+  ]
+}

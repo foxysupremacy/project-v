@@ -1,0 +1,336 @@
+{
+  "title": "Cây bút x Cây bút",
+  "jptitle": "ライター×ライター",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đang đi cùng Chrono Genesis trong khuôn viên học viện\nthì——",
+      "jpname": "モノローグ",
+      "jptext": "学園内をクロノジェネシスと歩いていると――"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Chị Chrono Genesis! Trainer-san!",
+      "jpname": "乙名史記者",
+      "jptext": "クロノジェネシスさん！\nトレーナーさん！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "P-Phóng viên Otonashi……! Em chào chị ạ. Chị đến lấy tư\nliệu ạ?",
+      "jpname": "クロノジェネシス",
+      "jptext": "お、乙名史記者……！\nこんにちは。取材ですか？"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Vâng! Vừa kết thúc lúc nãy. ……Gặp được hai người thật\ntốt quá! Vì tôi muốn gửi lời cảm ơn tới chị Chrono.",
+      "jpname": "乙名史記者",
+      "jptext": "はい！　ちょうど終わったところで。\n……お会いできてよかったです！\nクロノさんに、お礼をお伝えしたかったので。",
+      "choice_data_list": [
+        "Cảm ơn?"
+      ],
+      "jpchoice_data_list": [
+        "お礼？"
+      ]
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Vâng! Thật ra mới đây, chị Chrono đã cung cấp cho tôi ảnh\nđường đua!",
+      "jpname": "乙名史記者",
+      "jptext": "ええ！　実は先日、クロノさんから\nレース写真をご提供いただきまして！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Trong toà báo cũng được tán dương hết sức! Bảo là \"như\ncảm nhận được mạch đập của các Mã Nương\" đấy!",
+      "jpname": "乙名史記者",
+      "jptext": "社内でもとても好評でした！\n『ウマ娘の脈動が伝わってくるようだ』とっ！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "C-cảm ơn chị ạ! Em thật lấy làm ngại…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ、ありがとうございます！\n恐縮です……。"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Còn được nghe ý kiến quý giá về đường đua nữa, quả là\nmột khoảng thời gian ý nghĩa……!",
+      "jpname": "乙名史記者",
+      "jptext": "レースについて貴重な意見もお伺いでき、\n本当に有意義な時間でした……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-không đâu ạ! Em mới phải cảm ơn chị……! ……a, mà nói\nmới nhớ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "い、いえ！　こちらこそ……！\n……あ、そういえば。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "S-sự thật là về Mã Nương mà khi đó chúng ta có nhắc, hôm\nqua em vừa đúng lúc tìm được tài liệu mới…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "じ、実はその際に話していたウマ娘について、\n昨日ちょうど新しい資料を見つけまして……。"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "! Thật không ạ!? ……chuyện ấy, cho tôi nghe kỹ hơn với!",
+      "jpname": "乙名史記者",
+      "jptext": "！　本当ですか！？\n……そのお話、ぜひ詳しく！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "——tiểu luận của một người từng giải nghệ khỏi ghế\nhuấn luyện……! Đây là điểm mù thật sự!",
+      "jpname": "乙名史記者",
+      "jptext": "――トレーナーを引退した方のエッセイ……！\nこれは盲点でした！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đọc tiểu luận này thì…… thói quen nhảy trước mỗi trận\nđua của cô ấy, có vẻ là do anh ấy dạy từ thời còn ở CLB.",
+      "jpname": "クロノジェネシス",
+      "jptext": "このエッセイを読むに……\n彼女のレース前に踊るというルーティンは、\nクラブ時代に彼が教えたようでした。"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Ừm ừm. Tin đồn ảnh hưởng từ người thầy cũ tôi cũng\ntừng nghe…… mà hóa ra là sự thật!",
+      "jpname": "乙名史記者",
+      "jptext": "ふむふむ。恩師の影響という噂は\n聞いていましたが……真実だったんですね！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ngoài ra, trong các Trainer đã giải nghệ, vẫn còn mấy\nngười đang đăng tải tiểu luận…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "他にも引退したトレーナーさんで、\nエッセイを出している方は\n何名かいらっしゃって……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cuốn sách em đang đọc cũng là một trong số đó.\n……chắc là trang này——",
+      "jpname": "クロノジェネシス",
+      "jptext": "今ちょうど読んでいる本もそのひとつで。\n……たしかこのページに――"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Cho tôi chiêm ngưỡng với!",
+      "jpname": "乙名史記者",
+      "jptext": "拝見します！",
+      "choice_data_list": [
+        "(Giỏi thật, cung cấp tư liệu cho một phóng viên chuyên nghiệp vậy……)"
+      ],
+      "jpchoice_data_list": [
+        "（すごい、プロの記者に情報を……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mà thật ra, em ấy đang đăng chuyên mục \"Nhàn đàm Lịch\nsử\" trên báo trường, dưới tên \"Cây bút C\".",
+      "jpname": "モノローグ",
+      "jptext": "まあ実際、彼女は『ライターC』の名で、\n『徒然、歴史語り』というコラムを、\n校内新聞に掲載している。",
+      "choice_data_list": [
+        "(Nội dung cũng thuộc hàng chuyên nghiệp đấy chứ)"
+      ],
+      "jpchoice_data_list": [
+        "（内容もかなり本格的だし）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nghĩ vậy thì khó lòng không gật gù trước khí thế của cả\nhai. Đang còn dõi theo với tâm hồn êm đềm thì——",
+      "jpname": "モノローグ",
+      "jptext": "そう考えるとふたりの熱気にも頷ける。\nなんて和やかな気持ちで見守っていたら――"
+    },
+    {
+      "name": "",
+      "text": "——không hay biết từ bao, trời đã tối.",
+      "jpname": "モノローグ",
+      "jptext": "――いつの間にか日が暮れていた。",
+      "choice_data_list": [
+        "(Nhiệt huyết ghê thật……)"
+      ],
+      "jpchoice_data_list": [
+        "（情熱ってすごい……）"
+      ]
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Tôi thật lỗi quá! Vui vẻ mà quên mất thời gian……!",
+      "jpname": "乙名史記者",
+      "jptext": "申し訳ございません！\nつい長居をしてしまい……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-không đâu ạ! Phía em cũng rất ý nghĩa……! Được trò\nchuyện thế này với phóng viên từng viết những bài em vẫn\nluôn đọc cơ mà.",
+      "jpname": "クロノジェネシス",
+      "jptext": "い、いえ！　私もとても有意義でした……！\nいつも拝読している記事を書く記者さんと、\nこうして話せるなんて。"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Bài viết…… mà này chị Chrono, chị có xem qua cái đó\nkhông?",
+      "jpname": "乙名史記者",
+      "jptext": "記事……そういえばクロノさん、\nあれには目を通していらっしゃいますか？"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Chuyên mục trên báo trường Học viện Tracen, \"Nhàn đàm\nLịch sử\" đấy!",
+      "jpname": "乙名史記者",
+      "jptext": "トレセン学園の校内新聞コラム、\n『徒然、歴史語り』です！",
+      "choice_data_list": [
+        "!"
+      ],
+      "jpchoice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả!!!!",
+      "jpname": "クロノジェネシス",
+      "jptext": "え！！！！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "H-hả…… ừm…… d-dạ. Về cơ bản là em có đọc…… qua ạ!",
+      "jpname": "クロノジェネシス",
+      "jptext": "え、え……ええっと……あの、はい。\n一応、目は通しており……ます！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Quả nhiên! Chị đã xem kỹ rồi ạ!",
+      "jpname": "乙名史記者",
+      "jptext": "やはり！\nチェック済みでしたか！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Được một thầy cô giới thiệu nên tôi có đọc—— và tôi cực\nkỳ! Bị ấn tượng sâu sắc!",
+      "jpname": "乙名史記者",
+      "jptext": "職員の方にお勧めいただき読んだのですが、\n私、大っ変！　感銘を受けまして！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Chưa kể sự chính xác của tư liệu, thứ tuyệt vời nhất\nchính là tầm nhìn cao vời ấy!",
+      "jpname": "乙名史記者",
+      "jptext": "情報の正確さもさることながら、\nなにより素晴らしいのは、その視座の高さ！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Từ quá khứ đến hiện tại, rồi hướng về tương lai……! Cái\nnóng của vở kịch được dệt nên bền bỉ ấy……!",
+      "jpname": "乙名史記者",
+      "jptext": "過去から現在、そして未来へと……！\n連綿と紡がれるドラマの熱さたるや……！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Trên hết, tôi cảm nhận được niềm tin nơi chuyên mục\nấy! Niềm tin mãnh liệt rằng sẽ lưu lại lịch sử của các Mã\nNương……!",
+      "jpname": "乙名史記者",
+      "jptext": "何より、あのコラムには信念を感じます！\nウマ娘の歴史を残すという、強い信念を……！"
+    },
+    {
+      "name": "Phóng viên Otonashi",
+      "text": "Hừm…… nhưng mà, người chấp bút rốt cuộc là ai nhỉ?\nNếu có thể gửi bài cho toà chúng tôi thì tốt biết mấy——",
+      "jpname": "乙名史記者",
+      "jptext": "ふーむ……しかし、\n書いていらっしゃるのはどなたなのでしょう？\n弊社に寄稿していただけたらいいのですが――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-khiếp chết đi được…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "び、ビックリしました……。",
+      "choice_data_list": [
+        "May mà không xưng danh ra nhỉ?",
+        "May mà không xưng danh ra hả?"
+      ],
+      "jpchoice_data_list": [
+        "名乗らなくてよかったのか？",
+        "名乗らなくてよかったの？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Vâng. Bởi em viết cũng một nửa vì sở thích mà.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……はい。\n半分趣味で書いているものですし。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Với lại, cái đó…… n-nếu hơn thế nữa thì…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "それに、その……あ、あれ以上は……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "còn vượt quá công suất của em…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "キャパシティーオーバー、です……。",
+      "choice_data_list": [
+        "Nói thật thì còn chưa khen đủ nữa là khác",
+        "Chắc tại xài bút hiệu nên vậy đấy",
+        "Chắc tại xài bút hiệu nên vậy đó"
+      ],
+      "jpchoice_data_list": [
+        "褒めたりないくらいだけど……",
+        "ペンネーム使ってるくらいだもんな",
+        "ペンネーム使ってるくらいだもんね"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "còn vượt quá công suất của em…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "キャパシティーオーバー、です……。",
+      "choice_data_list": [
+        "Nói thật thì còn chưa khen đủ nữa là khác",
+        "Chắc tại xài bút hiệu nên vậy đấy",
+        "Chắc tại xài bút hiệu nên vậy đó"
+      ],
+      "jpchoice_data_list": [
+        "褒めたりないくらいだけど……",
+        "ペンネーム使ってるくらいだもんな",
+        "ペンネーム使ってるくらいだもんね"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "H-hả……!?",
+      "jpname": "クロノジェネシス",
+      "jptext": "え、ええ……！？",
+      "choice_data_list": [
+        "Trước hết là tên chuyên mục đã hay, sau nữa là……",
+        "Trước hết tên chuyên mục đã hay rồi, sau nữa là……"
+      ],
+      "jpchoice_data_list": [
+        "まずコラムタイトルがいいだろ、あと……",
+        "まずコラムタイトルがいいし、あと……"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-k-khoan đã ạ! Giờ…… tự dưng, tim em đầy ắp quá……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "ま、ま、待ってください！\n今は……もう、本当に胸がいっぱいで……！",
+      "choice_data_list": [
+        "Cách chọn lời cũng chuẩn xác mà mãnh liệt nữa——"
+      ],
+      "jpchoice_data_list": [
+        "言葉選びも正確かつ情熱的で――"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tr-trời ơi! Trainer-san……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "も、もう！　トレーナーさん……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "D-dạ vâng…… lý do em bắt đầu viết chuyên mục, chẳng\nphải vì muốn lưu lại tên mình.",
+      "jpname": "クロノジェネシス",
+      "jptext": "は、はい……記事を書き始めた理由は、\n私の名を残したかったからではなくて。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Là vì em muốn lưu lại…… lịch sử được dệt nên tại học\nviện này, thành một bức tranh cuộn.",
+      "jpname": "クロノジェネシス",
+      "jptext": "この学園で紡がれる歴史を……絵巻物を、\n残したかったから、なので。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……lịch sử trước khi khoe hoa rất mảnh mai, nếu chẳng\ncó ai tìm thấy, nó sẽ hóa mục nát mất.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……花咲く前の歴史は細やかで、\n誰かが見つけなければ朽ちてしまいますから。"
+    }
+  ]
+}

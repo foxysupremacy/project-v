@@ -1,0 +1,418 @@
+{
+  "title": "Giáng sinh",
+  "jptitle": "クリスマス",
+  "text_block_list": [
+    {
+      "name": "Khán giả A",
+      "text": "'Arima Kinen', đúng là trận tổng kết của năm nay, kỳ vọng\nlớn vào các Mã Nương Tiara nhỉ!",
+      "jpname": "観客A",
+      "jptext": "『有馬記念』、やっぱ今年の総決算らしく、\nティアラウマ娘に期待だよな！"
+    },
+    {
+      "name": "Khán giả A",
+      "text": "Đặc biệt là Chrono Genesis, người đứng đầu bình chọn\nfan! Lối chạy ở 'Takarazuka Kinen' đã quá ấn tượng rồi\nmà!",
+      "jpname": "観客A",
+      "jptext": "特に、ファン投票1位のクロノジェネシス！\n『宝塚記念』の走りは圧巻だったし！"
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Đúng vậy, nếu mọi thứ diễn ra suôn sẻ thì Chrono sẽ\nthắng thôi nhưng...... không biết có ổn không đây...... em\nấy.",
+      "jpname": "観客B",
+      "jptext": "確かに、順当にいけばクロノなんだけど……\n大丈夫かな……彼女。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Ổn thôi, ổn thôi mà…… em vẫn, thắng được………….",
+      "jpname": "クロノジェネシス",
+      "jptext": "…………大丈夫、大丈夫……\n私は、勝てる…………。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Thắng rồi…… để đáp lại kỳ vọng của cả người hâm mộ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "勝って……ファンのみんなの期待に応えて。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Và rồi…… em sẽ chứng minh lịch sử giữa em và Trainer-san,\ncả sợi dây ràng buộc—— cho anh thấy…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "そして……トレーナーさんとの歴史を、\n絆を――証明してみせる……。"
+    },
+    {
+      "name": "",
+      "text": "……Mở mắt ra, căn phòng bệnh quen thuộc hiện ra. Hóa ra\nmình đã nằm mơ…….",
+      "jpname": "モノローグ",
+      "jptext": "……目を開けると、見慣れた病室だった。\nどうやら夢を見ていたらしい……。"
+    },
+    {
+      "name": "",
+      "text": "Nét mặt của em ấy trong giấc mơ cứ đeo bám tâm trí. Dù\nđây chính là lần đầu được đứng đầu bình chọn fan để\nbước lên sân khấu 'Arima Kinen' cơ mà…….",
+      "jpname": "モノローグ",
+      "jptext": "夢の中の彼女の表情が頭から離れない。\n念願のファン投票1位で、\n『有馬記念』の舞台に挑むというのに……。",
+      "choice_data_list": [
+        "Vậy mà lại làm em ấy phải mang gương mặt bi thương đến thế……"
+      ],
+      "jpchoice_data_list": [
+        "あんな、悲愴な顔をさせてしまうなんて……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Có lẽ vì là ngày này nên tôi mới mơ giấc mơ đó chăng. Hôm\nnay là—— buổi bốc thăm công khai số hiệu xuất phát của\n'Arima Kinen'.",
+      "jpname": "モノローグ",
+      "jptext": "夢を見たのは、こんな日ゆえだろうか。\n今日は――『有馬記念』の枠順公開抽選会だ。"
+    },
+    {
+      "name": "Curren Bouquetd'or",
+      "text": "——Chrono, đến muộn thế nhỉ. Cậu ra khỏi ký túc xá sớm\nhơn cả cậu Loves nữa mà đúng không?",
+      "jpname": "カレンブーケドール",
+      "jptext": "――クロノさん、遅いですね。\nラヴズさんよりも、先に寮を出たのですよね？"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Ừ. Cậu dặn ghé Học viện Tracen, có gì đó phải báo cáo rồi\nmới đi mà——",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "ええ。トレセン学園に寄って、なにか\n報告してから行くって言ってたんだけど――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "X-xin lỗi. Tớ đến muộn quá……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "す、すみません。遅くなりました……！"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "A, cậu đến rồi! ——Ơ mà…… cái gì!?",
+      "jpname": "ラヴズオンリーユー",
+      "jptext": "あっ、来たわ！　――って……え！？"
+    },
+    {
+      "name": "",
+      "text": "——Đến giờ bắt đầu, tôi bật tivi lên. Khuôn trường của\nbuổi bốc thăm công khai hiện lên khiến lồng ngực như bị\nbóp nghẹt.",
+      "jpname": "モノローグ",
+      "jptext": "――開始時間になったので、テレビをつける。\n映し出された公開抽選会の会場に、\n胸が軋みを上げた。"
+    },
+    {
+      "name": "",
+      "text": "Chrono Genesis…… không biết em ấy có đang thấy bất an\nở nơi rộng lớn, lộng lẫy thế này không.",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスは……こんなに広く、\n華やかな場で心細い思いをしてないだろうか。"
+    },
+    {
+      "name": "MC",
+      "text": "'Arima Kinen' buổi bốc thăm công khai số hiệu xuất phát.\nVậy thì, xin giới thiệu các Mã Nương tham dự.",
+      "jpname": "司会者",
+      "jptext": "『有馬記念』公開枠順抽選会。\nそれでは、出走ウマ娘を紹介いたしましょう。"
+    },
+    {
+      "name": "",
+      "text": "Đầu tiên là Lucky Lilac, tiếp đến là Blast Onepiece lần lượt\nxuất hiện.",
+      "jpname": "モノローグ",
+      "jptext": "まずはラッキーライラック、\nブラストワンピースと続いて登場する。"
+    },
+    {
+      "name": "",
+      "text": "Loves Only You cùng Curren Bouquetd'or. Dưới ánh đèn sân\nkhấu, trang phục thi đấu lấp lánh chói ngời.",
+      "jpname": "モノローグ",
+      "jptext": "ラヴズオンリーユーとカレンブーケドール。\nスポットライトに照らされて、\n勝負服がまばゆいばかりに輝いている。"
+    },
+    {
+      "name": "MC",
+      "text": "——Người khép lại danh sách là người đứng đầu bình\nchọn fan. Chrono Genesis!",
+      "jpname": "司会者",
+      "jptext": "――トリを飾るのは、ファン投票1位。\nクロノジェネシスです！",
+      "choice_data_list": [
+        "C-Chrono……!?"
+      ],
+      "jpchoice_data_list": [
+        "ク、クロノ……！？"
+      ]
+    },
+    {
+      "name": "Trainer tầm trung",
+      "text": "Gì……!? Gì thế, bộ đồ đó……! Trông như thể là Trainer\nvậy……!",
+      "jpname": "中堅トレーナー",
+      "jptext": "なっ……！？　なに、あの服装……！\nあれじゃまるで、トレーナーよ……！"
+    },
+    {
+      "name": "",
+      "text": "Khuôn trường hiện lên bị bao bọc trong tiếng bàn tán xôn\nxao. Mã Nương có quy định phải mặc trang phục thi đấu.\nCũng chẳng thể trách được.",
+      "jpname": "モノローグ",
+      "jptext": "映し出された会場はどよめきに包まれていた。\nウマ娘は勝負服着用の規定だ。無理もない。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Xin phép vì đã đến trong bộ trang phục như thế này ạ.\nDo vài lý do, em đã nhận phép từ URA.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……このような服装で、失礼いたします。\n諸事情から、URAに許可を賜りました。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Trainer-san của em…… hiện đang nằm viện, nên không thể\ntham dự được…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "私のトレーナーさんは……現在、入院中で、\n出席が叶いませんでした……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Năm ngoái…… anh từng nói vậy. Rằng anh định tham dự\nbuổi bốc thăm công khai trong trang phục chỉnh tề, đeo cả\nkỷ niệm phẩm…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "昨年……仰っていたのです。\n公開抽選会には、正装で記念アイテムを\nつけて参加するつもりだと……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cho nên…… dù chỉ là tấm lòng ấy thôi. Bằng cách khoác bộ\nđồ này…… em muốn cùng anh——",
+      "jpname": "クロノジェネシス",
+      "jptext": "ですので……その、想いだけでも。\nこの服を纏うことで……私とともに――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "cùng Trainer-san……! Đối đầu với 'Arima Kinen'…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "トレーナーさんと一緒に……！\n『有馬記念』に、臨みたくて……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(……Vào ngày hôm đó…… dù Trainer-san không thể có mặt\nbên em……)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（……当日……トレーナーさんに、\n立ち会ってもらえなくても……）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Em vẫn…… muốn khắc vào lịch sử này. Vào dấu chân\ncủa em…… cả dấu ấn của Trainer-san nữa……!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（私は……この歴史に。私の蹄跡に……\nトレーナーさんも、刻みたいから……！）"
+    },
+    {
+      "name": "",
+      "text": "……Em ấy vẫn nhớ lời hứa kia, điều đó làm tôi vui. Nhưng\nmà——",
+      "jpname": "モノローグ",
+      "jptext": "……彼女があの約束を覚えていてくれたのは、\n嬉しかった。けれど――",
+      "choice_data_list": [
+        "……Giống hệt vẻ mặt trong giấc mơ……"
+      ],
+      "jpchoice_data_list": [
+        "……夢の中の表情と、同じ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Gương mặt đã quyết tâm đối đầu bằng một sự quyết\nliệt bi thương. Tôi muốn nói với em ấy rằng em không cô\nđơn, nhưng mà.",
+      "jpname": "モノローグ",
+      "jptext": "悲愴なる覚悟で挑むことを決めた表情。\nひとりじゃないと、言ってあげたいけれど。"
+    },
+    {
+      "name": "",
+      "text": "——Dù còn chưa chắc được đứng cạnh em ấy vào ngày\nhôm đó. Nếu làm em ấy kỳ vọng rồi lại phản bội, không gì\ntồi tệ hơn.",
+      "jpname": "モノローグ",
+      "jptext": "――当日、傍にいてやれる保証もないのに。\n期待をさせ、それを裏切ることになったら、\n最悪だ。",
+      "choice_data_list": [
+        "Làm sao đây…… có cách nào đó không……?",
+        "Phải làm sao đây…… không còn cách nào khác sao……?"
+      ],
+      "jpchoice_data_list": [
+        "何か……できることはないのか……？",
+        "何か……できることはないの……？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau buổi bốc thăm công khai, Chrono Genesis liền ghé thăm\nbệnh viện.",
+      "jpname": "モノローグ",
+      "jptext": "公開抽選会のあと、クロノジェネシスは、\nそのまま病院を訪れてくれた。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ấ-ấy mà...... Love-chan bảo, để mọi người được nếm\ncảm giác Giáng sinh ấy mà…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "え、えっと……ラヴちゃんが、\nクリスマス気分を味わえるようにって……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "B-bệnh viện vốn chán ngắt lắm…… n-nên em mong chỉ\ncần không khí sáng sủa lên một chút là được……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "びょ、病院って、殺風景ですし……\nす、少しでも、明るくなればいいなと……！",
+      "choice_data_list": [
+        "Giờ đây, anh đang nếm Giáng sinh mạnh mẽ lắm đó……!"
+      ],
+      "jpchoice_data_list": [
+        "今、すごくクリスマスを味わってるよ……！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Th-thật không ạ……? Vậy thì, tốt quá…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "ほ、本当ですか……？\nそれなら、よかったです……。"
+    },
+    {
+      "name": "",
+      "text": "Ở phòng bệnh cả ngày nên tôi đã quên bẵng đi cả chuyện\nGiáng sinh.",
+      "jpname": "モノローグ",
+      "jptext": "ずっと病室にいたので、\nクリスマスなんてすっかり忘れていた。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-thật ra…… cả phần quà…… e-em cũng đã, chuẩn bị……\nm-mời anh……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "じ、実は……プレゼントも……\nよ、用意、していて……ど、どうぞ！"
+    },
+    {
+      "name": "",
+      "text": "Mở phần quà đã nhận. Bên trong là cuốn cẩm nang nhỏ tự\nlàm.",
+      "jpname": "モノローグ",
+      "jptext": "受け取ったプレゼントを開封する。\n中身は手製のミニガイドブックだった。",
+      "choice_data_list": [
+        "Cái này…… Chrono làm cho anh hả?"
+      ],
+      "jpchoice_data_list": [
+        "これ……クロノが作ってくれたの？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng…… dựa trên kinh nghiệm của em…… em đã tổng hợp\nnhững điểm thú vị của trường đua.",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい……私の経験に基づき……\nレース場の見どころをまとめました。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-Trainer-san cũng…… thường xuyên, đến trường đua mà\nđúng không ạ…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "ト、トレーナーさんも……よく、\nレース場に行かれるようなので……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……N-nếu anh không ngại, hãy tận dụng nó nhé……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "……よ、よろしければ、ご活用ください……！",
+      "choice_data_list": [
+        "Cảm ơn em! Anh sẽ dùng hết mức!"
+      ],
+      "jpchoice_data_list": [
+        "ありがとう！使わせてもらうよ！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……À, a mà…… n-nếu anh muốn, còn cả tùy chọn hướng\ndẫn viên nữa…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "……ち、ちなみに……ご、ご希望でしたら、\nガイドオプションも……。",
+      "choice_data_list": [
+        "Hả? Hướng dẫn viên?"
+      ],
+      "jpchoice_data_list": [
+        "うん？ガイド？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-không có gì hết……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "な、なんでもございません……！",
+      "choice_data_list": [
+        "Khi vết thương lành, cùng đi một vòng xem sao?",
+        "Khi khỏi bệnh, cùng đi một vòng nhé?"
+      ],
+      "jpchoice_data_list": [
+        "ケガが治ったら、一緒に回ってみないか？",
+        "ケガが治ったら、一緒に回ってみない？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "V-vâng……! Sapporo, Hakodate hay Fukushima đều được!\nDù ở đâu em cũng thấy hào hứng……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "は、はい……！　札幌でも函館でも福島でも！\n私は、どこでも楽しみです……！"
+    },
+    {
+      "name": "",
+      "text": "Mở phần quà đã nhận. Bên trong là chiếc cà vạt ruy băng\nkỷ niệm của 'Arima Kinen'.",
+      "jpname": "モノローグ",
+      "jptext": "受け取ったプレゼントを開封する。\n中身は『有馬記念』の記念リボンタイだった。",
+      "choice_data_list": [
+        "Cái này…… em chuẩn bị cho anh à……"
+      ],
+      "jpchoice_data_list": [
+        "これ……用意してくれたんだ……"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng…… năm sau…… anh hãy đeo nó nhé. Em…… năm sau\ncũng sẽ, góp mặt ở đường đua……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい……来年……つけてください。\n私……来年も、出走しますので……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Buổi bốc thăm…… đầu tiên của Trainer-san…… mình cùng,\nchúc mừng nhau nhé……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "トレーナーさんの……初めての抽選会……\n一緒に、お祝いしましょう……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hôm nay em bốc thăm xong liền ra về…… nên với em…… năm\nsau cũng sẽ toàn những lần đầu tiên.",
+      "jpname": "クロノジェネシス",
+      "jptext": "今日は、抽選だけして出てきたので……\n私にとっても……来年は、初めてばかりです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vì thế…… cả hai mình, cùng nhau. Em muốn tận hưởng\nthật nhiều những 'lần đầu tiên'…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "なので……ふたりで、一緒に。\n初めてをたくさん、楽しみたいです……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Sau đó nữa…… ăn bánh Giáng sinh ở phòng trà trong sảnh\ncũng tuyệt nhỉ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "そのあとは……ロビーのティールームで、\nクリスマスケーキを食べるのもいいですね。",
+      "choice_data_list": [
+        "Ừ. Cùng biến tất cả thành hiện thực nhé!"
+      ],
+      "jpchoice_data_list": [
+        "うん。全部実現しよう！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Một lời hứa mới nữa nhỉ…… Khì khì, em mong chờ năm\nsau…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "……新しい約束ですね……\nうふふ、来年が楽しみです……。"
+    },
+    {
+      "name": "",
+      "text": "——Nhìn nụ cười của Chrono Genesis, tôi nghĩ. Quả nhiên,\nkhông muốn thấy gương mặt bi thương ấy lần nào nữa.",
+      "jpname": "モノローグ",
+      "jptext": "――クロノジェネシスの笑顔を見て、思う。\nやはり、あんな悲愴な顔はさせたくない。",
+      "choice_data_list": [
+        "Sáng ngày diễn ra 'Arima Kinen'…… anh sẽ gọi điện cho em"
+      ],
+      "jpchoice_data_list": [
+        "『有馬記念』当日の朝は……電話をするよ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Thật không ạ? R-rất mong…… anh nhé!",
+      "jpname": "クロノジェネシス",
+      "jptext": "本当ですか？\nぜ、ぜひ……お願いします！",
+      "choice_data_list": [
+        "Nói chuyện như những lần trước mỗi trận đua vẫn thế"
+      ],
+      "jpchoice_data_list": [
+        "いつものレース前と同じように、話をしよう"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Để em ấy không phải mang tâm thế đơn độc đối đầu.\nVào ngày hôm đó, hết mức có thể, tôi sẽ nói chuyện với em.",
+      "jpname": "モノローグ",
+      "jptext": "彼女がひとりで挑む気持ちにならないように。\n当日は、できる限り、声をかけてあげよう。"
+    },
+    {
+      "name": "",
+      "text": "Dù có xa cách nhau đi nữa. Với tư cách Trainer của em ấy,\ntôi muốn nâng đỡ em——",
+      "jpname": "モノローグ",
+      "jptext": "たとえ、離れていても。\n彼女のトレーナーとして、支えてあげたい――"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "title": "[Bản tiếp] Thử thách cấm nói chuyện đua!",
+  "jptitle": "【続報】レーストーク禁止チャレンジ！",
+  "text_block_list": [
+    {
+      "name": "Chrono Genesis",
+      "text": "(——Cái cớ để mời anh đi chơi, mình đã tạo được rồi.\nĐược...... k-khá, lên nào!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（――おでかけに誘うきっかけは作ってきた。\nよし……い、いざ！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tr-Trainer-san......! À này...... t-thật ra em có một nơi em\nmuốn đến——",
+      "jpname": "クロノジェネシス",
+      "jptext": "ト、トレーナーさん……！\nあの……じ、実は行きたいところが――"
+    },
+    {
+      "name": "",
+      "text": "——Và thế là. Tôi cùng em đã đến vườn thú.",
+      "jpname": "モノローグ",
+      "jptext": "――と、いうことで。\n動物園にやってきた。",
+      "choice_data_list": [
+        "Vườn thú thì lâu lắm rồi anh mới đến!",
+        "Lâu lắm rồi anh mới được đi vườn thú!"
+      ],
+      "jpchoice_data_list": [
+        "動物園なんて久しぶりだ！",
+        "動物園なんて久しぶり！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Em-em cũng vậy......! ...Phải cảm ơn tấm vé tình cờ trúng\nthưởng nhỉ!",
+      "jpname": "クロノジェネシス",
+      "jptext": "わ、私もです……！\n……たまたま当たったクジに感謝ですね！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(......Thật ra là mình đã quay số bằng hết sức mình đấy.\nDù sao, giờ chỉ cần dạo vườn thú theo đúng kế\nhoạch......!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（……本当は必死にくじを回したのだけど。\nとにかく、\nあとは計画通りに動物園を回るだけ……！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Để gắn kết bằng thứ gì ngoài đua. Cấm nói chuyện\nđua...... cấm nói chuyện đua chứ!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（レース以外で、絆を深めるため。\nレースの話は禁止……レースの話は禁止っ！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ô! N-nó ăn rồi......! Lưỡi hươu cao cổ dài thật đấy ạ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ！　た、食べてくれました……！\nキリンの舌って本当に長いですね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Fufu. Cà rốt ngon lắm đúng không ạ. Em cũng mê lắm.",
+      "jpname": "クロノジェネシス",
+      "jptext": "ふふ。にんじん、美味しいですよね。\n私も大好きです。",
+      "choice_data_list": [
+        "......Em ăn không?"
+      ],
+      "jpchoice_data_list": [
+        "……食べる？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả!? E-em không ăn đâu......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "へ！？　た、食べません……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tuyệt-tuyệt quá Trainer-san ơi! Trên tay, trên vai, cả trên\nđầu anh toàn là chim......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "す、すごいですねトレーナーさん！\n手にも肩にも頭にも鳥さんが……！",
+      "choice_data_list": [
+        "K-không nhúc nhích nổi......!"
+      ],
+      "jpchoice_data_list": [
+        "う、動けない……！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Đến đoạn này thì mọi thứ vẫn suôn sẻ...... đúng không\nnhỉ. Sau đó mình nghỉ ngơi một chút rồi hướng đến khu\ntiếp xúc chính——)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（ここまでは順調……だよね。\nこの後は少し休憩をとって、\nメインのふれあいコーナーに――）"
+    },
+    {
+      "name": "Nhân viên vườn thú",
+      "text": "Sắp bắt đầu \"Đua thú đa dạng\"! Mời mọi người đến\nkhu Savanna, Go!!",
+      "jpname": "動物園スタッフ",
+      "jptext": "まもなく『いろいろ動物レース』開始！\nサバンナエリアへ、Go～！！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "\"Đua thú đa dạng\"......",
+      "jpname": "クロノジェネシス",
+      "jptext": "『いろいろ動物レース』……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Khoan! Không được......! Hôm nay là ngày cấm đề tài đua\nmà——)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（は！　ダメダメ……！\n今日はレース禁止で――）",
+      "choice_data_list": [
+        "Nói đua cơ đấy. Nghe vui ghê, qua xem thử nhé?",
+        "Nói đua cơ đấy. Nghe vui ghê, qua xem thử không?"
+      ],
+      "jpchoice_data_list": [
+        "レースだって。面白そうだし行ってみるか？",
+        "レースだって。面白そうだし行ってみる？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả!?",
+      "jpname": "クロノジェネシス",
+      "jptext": "へ！？"
+    },
+    {
+      "name": "Nhân viên vườn thú",
+      "text": "——Vậy là trận thứ nhất! Các thí sinh của \"Moshi Moshi\nKame-san Cup\" xin xuất trận!",
+      "jpname": "動物園スタッフ",
+      "jptext": "――それでは第1レース！\n『もしもしカメさん杯』出走です！"
+    },
+    {
+      "name": "",
+      "text": "(Oa......!)",
+      "jpname": "モノローグ",
+      "jptext": "（わあ……！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Đ-đây cũng là một thú vui đặc trưng của vườn thú......\nđúng không nhỉ. ...Dù vậy mình vẫn cẩn thận lời ăn tiếng\nnói cho phải)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（こ、これも動物園の醍醐味、だよね。\n……でも一応気をつけてしゃべろう）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "R-Rùa chạy nhanh hơn em tưởng nhỉ. Em cứ nghĩ là chúng\nchậm hơn nhiều cơ......",
+      "jpname": "クロノジェネシス",
+      "jptext": "カ、カメって思ったより速いんですね。\nもっと遅いイメージだったんですけど……。",
+      "choice_data_list": [
+        "Do ấn tượng từ truyện cổ tích mà thôi",
+        "Ấn tượng từ truyện cổ tích gây ra cả đấy"
+      ],
+      "jpchoice_data_list": [
+        "昔話の印象がどうしてもな",
+        "昔話の印象がどうしてもね"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "À, anh xem này. Con rùa số 3 kìa! Từ phía sau nó bứt lên ào\nmột cái......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ、見てください。3番のカメさん！\n後方から一気に上がってきましたよ……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Fufu, con số 1 thì hụt hơi rồi. Cái mét cuối cùng quả nhiên\nvẫn là nước rút cuối quyết định——",
+      "jpname": "クロノジェネシス",
+      "jptext": "ふふっ、1番の子は垂れちゃってますね。\nラスト1mはやっぱり末脚が大事に――"
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Nước rút cuối quan trọng hả ạ? Nước rút cuối là gì vậy\nạ?",
+      "jpname": "男の子",
+      "jptext": "すえあしがだいじなの？\nすえあしってなぁに？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả?",
+      "jpname": "クロノジェネシス",
+      "jptext": "へ？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "............ À! D-dạ là...... là......",
+      "jpname": "クロノジェネシス",
+      "jptext": "…………あ！\nえ、えーと……ですね……その……。"
+    },
+    {
+      "name": "",
+      "text": "Không nỡ nhìn em ấy cuống quýt, tôi ngồi xổm xuống bên\ncậu bé. ...Muốn giải thích cho trẻ con thì——",
+      "jpname": "モノローグ",
+      "jptext": "慌てている様子を見かね、少年の横にかがむ。\n……小さい子に説明するなら――",
+      "choice_data_list": [
+        "Nước rút cuối là cú bứt tốc thần tốc cuối cùng đấy"
+      ],
+      "jpchoice_data_list": [
+        "末脚は、最後のスーパーダッシュのことだよ"
+      ]
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Cú bứt tốc thần tốc? ...À! Đúng rồi á! Rùa số 3 bứt tốc\nthần tốc!!",
+      "jpname": "男の子",
+      "jptext": "スーパーダッシュ？　……あ！　ほんとだぁ！\n3番のカメ、スーパーダッシュ！！",
+      "choice_data_list": [
+        "Đúng rồi đấy! Đó chính là nước rút cuối đấy"
+      ],
+      "jpchoice_data_list": [
+        "そうそう！あれが末脚だよ"
+      ]
+    },
+    {
+      "name": "Nhân viên vườn thú",
+      "text": "Tiếp theo là trận thứ hai! Trận thứ hai chính là, \"Pyon Pyon\nUsagi-san Cup\"!",
+      "jpname": "動物園スタッフ",
+      "jptext": "それでは第2レース！　第2レースは、\n『ぴょんぴょんウサギさん杯』です！"
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Này này! Lần này con nào sẽ thắng ạ? Cháu muốn xem\nnước rút cuối ạ!",
+      "jpname": "男の子",
+      "jptext": "ねーねー！　こんどはどの子がいちばんー？\nすえあし見たいー！",
+      "choice_data_list": [
+        "Ừm? ...Chrono em nghĩ là con nào nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "うーん？……クロノはどの子だと思う？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hả!? ......À thì. Đ-đúng là thế ạ...... có lẽ là con số 5,\nchăng?",
+      "jpname": "クロノジェネシス",
+      "jptext": "え！？　……ええっと。\nそっ、そうですね……5番の子、とか。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Paddo... à nhầm, nhìn kiểu đang chờ xuất phát ấy, nó cứ\nnhư đang...... nhìn chằm chằm vào cà rốt ở vạch đích......\nvậy.",
+      "jpname": "クロノジェネシス",
+      "jptext": "パド……待機中の様子を見る感じ、\nゴールのにんじんを、見ている……ような。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......Ừ. Quả nhiên...... con bé sẽ lao ra trước nhất, rồi cứ\nthế thoát đầu đến đích mất thôi.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……うん。やっぱり……真っ先に飛び出して、\nそのまま逃げ切りになりそう。",
+      "choice_data_list": [
+        "Biết đâu hướng vào cà rốt, còn được xem thêm nước rút cuối nữa đấy",
+        "Biết đâu hướng vào cà rốt, còn được xem thêm nước rút cuối nữa đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "にんじん目がけて末脚も見られるかもな",
+        "にんじん目がけて末脚も見られるかもね"
+      ]
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Nước rút cuối cố lên nào——!",
+      "jpname": "男の子",
+      "jptext": "すえあしがんばれー！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Quả nhiên con số 5 lao ra trước nhất. Cứ thế giữ vững vị\ntrí dẫn đầu. Đến giờ này vẫn đúng như dự đoán——",
+      "jpname": "クロノジェネシス",
+      "jptext": "やはり5番の子が真っ先に飛び出しましたね。\nそのまま先頭キープ。ここまでは予想通り――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Con thỏ số 4 bám chặt phía sau hơi có phần rờn rợn,\nnhưng mà chỉ còn cách đích 1m thôi mà......",
+      "jpname": "クロノジェネシス",
+      "jptext": "後ろにピッタリくっついている\n4番のうさぎさんがやや不気味ですが、\nもうあと1mですし……。",
+      "choice_data_list": [
+        "Chẹp khoan, số 4 lao ra ngoài rồi!"
+      ],
+      "jpchoice_data_list": [
+        "いや、4番が外に飛び出した！"
+      ]
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Oaa! Nước rút cuối của số 4——!",
+      "jpname": "男の子",
+      "jptext": "あー！　4ばんすえあしー！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Khoan mà! Con số 5 cũng có cú nước rút cuối đầy khí\nphách mà......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "いやでも！\n5番の子も根性の末脚が……！",
+      "choice_data_list": [
+        "Cố lên nào——! Thoát đầu lên nào——!"
+      ],
+      "jpchoice_data_list": [
+        "頑張れー！逃げきれー！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......Về rồi! Thắng rồi ạ! Thoát đầu thắng với cách biệt\nmột gang cổ......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "……いった！　勝ちましたよ！\nクビ差で逃げ切りです……！"
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Oaa—— đoán trúng rồi ạ! Nước rút cuối siêu quá ạ! Các\nchị siêu quá ạ!",
+      "jpname": "男の子",
+      "jptext": "わーあたったー！　すえあしすごーい！\nおねーさんたちすごーい！"
+    },
+    {
+      "name": "Cậu bé",
+      "text": "Nhưng mà gang cổ là gì vậy ạ?",
+      "jpname": "男の子",
+      "jptext": "でも、くびさってなぁに？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......À!",
+      "jpname": "クロノジェネシス",
+      "jptext": "……あ！"
+    },
+    {
+      "name": "",
+      "text": "Đường về sau khi đã vui hết buổi ở vườn thú. Nhưng\nmà...... em Chrono Genesis cứ đâu đó thiếu sức sống.",
+      "jpname": "モノローグ",
+      "jptext": "動物園を楽しみ終えた帰り道。\nなのだが……\nどこかクロノジェネシスは元気がない。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......Cái là...... h-hôm nay cảm ơn anh nhiều ạ. Dù anh phải\nmất công đi cùng em......",
+      "jpname": "クロノジェネシス",
+      "jptext": "……その……\nきょ、今日はありがとうございました。\nわざわざ付き合っていただいて……。",
+      "choice_data_list": [
+        "......Em mệt rồi à?",
+        "\"Đua thú đa dạng\" vui ghê đấy",
+        "\"Đua thú đa dạng\" vui ghê nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "……疲れちゃったかな？",
+        "『いろいろ動物レース』面白かったな",
+        "『いろいろ動物レース』面白かったね"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......Cái là...... h-hôm nay cảm ơn anh nhiều ạ. Dù anh phải\nmất công đi cùng em......",
+      "jpname": "クロノジェネシス",
+      "jptext": "……その……\nきょ、今日はありがとうございました。\nわざわざ付き合っていただいて……。",
+      "choice_data_list": [
+        "......Em mệt rồi à?",
+        "\"Đua thú đa dạng\" vui ghê đấy",
+        "\"Đua thú đa dạng\" vui ghê nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "……疲れちゃったかな？",
+        "『いろいろ動物レース』面白かったな",
+        "『いろいろ動物レース』面白かったね"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "! D-dạ em không sao......! Cái là...... vui lắm ạ, kiểu......",
+      "jpname": "クロノジェネシス",
+      "jptext": "！　だ、大丈夫です……！\nその……楽しかったな、と……。",
+      "choice_data_list": [
+        "Vậy hả, thế là tốt rồi"
+      ],
+      "jpchoice_data_list": [
+        "そっか、ならよかった"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(......Đến giữa chừng thì vẫn suôn sẻ mà. Cuối cùng lại\nhưởng thụ vì chuyện đua mất rồi)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（……途中まで上手くいっていたのに。\n結局レースの話で楽しんじゃったな）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Làm Trainer-san phải cẩn trọng thay mình nữa chứ......)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（トレーナーさんにも、\n気を使わせてしまって……）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(......K-khoan khoan! Mới chỉ là lần đầu thôi mà! Lần sau\nnhất định phải hoàn hảo......!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（……い、いやいや！　まだ1回目！\n次こそは完璧に……！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đ-đúng vậy...... ạ!",
+      "jpname": "クロノジェネシス",
+      "jptext": "そ！\nそうです……ね！",
+      "choice_data_list": [
+        "Chắc anh cũng muốn xem voi hay sư tử gì đó nữa"
+      ],
+      "jpchoice_data_list": [
+        "ゾウとかライオンとかでも見たかったかも"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Fufu, đúng vậy ạ. Sẽ là một màn đua hoành tráng, khác hẳn\nđua của các Mã Nương——",
+      "jpname": "クロノジェネシス",
+      "jptext": "ふふっ、そうですね。\nウマ娘のレースとはまた違った、\nダイナミックなレースになりそうです――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Aaaa! Mình lại......! Hôm nay là ngày cấm đề tài đua\nmà......!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（あああ！　私はまた……！\n今日はレース禁止なのに……！）"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(......K-khoan khoan! Mới chỉ là lần đầu thôi mà! Lần sau\nnhất định phải hoàn hảo......!)",
+      "jpname": "クロノジェネシス",
+      "jptext": "（……い、いやいや！　まだ1回目！\n次こそは完璧に……！）"
+    }
+  ]
+}

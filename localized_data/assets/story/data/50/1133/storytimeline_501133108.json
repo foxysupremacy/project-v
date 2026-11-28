@@ -1,0 +1,600 @@
+{
+  "title": "Lễ hội cảm ơn người hâm mộ",
+  "jptitle": "ファン感謝祭",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "'Lễ hội cảm ơn người hâm mộ' mùa xuân. Ban Tuyên\ntruyền mà Chrono Genesis tham gia đang tổ chức triển lãm\nbáo trường.",
+      "jpname": "モノローグ",
+      "jptext": "春の『ファン感謝祭』。\nクロノジェネシスたち広報委員会は、\n校内新聞の展示を行っていた。"
+    },
+    {
+      "name": "Fan A",
+      "text": "A, đây rồi! Triển lãm chuyên mục lịch sử của Học viện\nTracen!",
+      "jpname": "ファンA",
+      "jptext": "あっ、ここだよ！\nトレセン学園の歴史コラムの展示！"
+    },
+    {
+      "name": "Fan B",
+      "text": "Oa, hay quá! Không chỉ chuyên mục, còn cả ảnh liên quan\nlẫn bảng thời gian nữa! Cầu kỳ ghê luôn!",
+      "jpname": "ファンB",
+      "jptext": "わっ、すごい！　コラムだけじゃなくて、\n関連写真や年表まで！　凝ってる～！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "C-còn ở đây...... chuyên mục mới có bài đặc biệt về\n'Takarazuka Kinen' nữa ạ...... m-mời mọi người.",
+      "jpname": "クロノジェネシス",
+      "jptext": "こ、こちらに……『宝塚記念』を特集した\n新作コラムもございますので……ど、どうぞ。"
+    },
+    {
+      "name": "Fan A",
+      "text": "À, tụi em đến để nhận cái này đấy! Trông có vẻ hữu ích\ncho phần bình chọn của fan mà.",
+      "jpname": "ファンA",
+      "jptext": "あ、これをもらいにきたんです！\nファン投票の参考になりそうだなって。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "! M-mong mọi người...... dùng nó để tham gia bình\nchọn......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "！　ぜ、ぜひ……\n投票にお役立てください……！"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Chào cả nhà. Chrono-chan, phản hồi cho triển lãm thế nào\nrồi nhỉ?",
+      "jpname": "グラスワンダー",
+      "jptext": "こんにちは～。\nクロノちゃん、展示の反応はいかがですか？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nh-nhờ anh mà...... còn sôi động hơn mọi năm. Đặc\nbiệt...... phần triển lãm về các Mã Nương hoạt động rực\nrỡ năm ngoái được đọc rất chăm chú......",
+      "jpname": "クロノジェネシス",
+      "jptext": "お、おかげさまで……例年より盛況です。\n特に……昨年活躍したウマ娘の展示が\n熱心に読まれていますね……。",
+      "choice_data_list": [
+        "Cả chuyên mục mới phát miễn phí mọi người cũng nhận hết lấy luôn đó"
+      ],
+      "jpchoice_data_list": [
+        "配布の新作コラムもみんなもらって行くよ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tuy nhiên...... phần lớn đến đọc vẫn là những người vốn\ntheo dõi chuyên mục từ trước…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "ただ……もともとコラムを\n読んでくださっている方がほとんどで……。"
+    },
+    {
+      "name": "???",
+      "text": "Phát hiện Grass đét-xu!",
+      "jpname": "？？？",
+      "jptext": "グラス発見デース！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Trời đất, tưởng đâu biến mất một cách đột ngột, hóa ra\nlà đến chỗ đàn em đáng yêu đét-xu hả.",
+      "jpname": "エルコンドルパサー",
+      "jptext": "もー、急にいなくなったと思ったら、\nやっぱりかわいい後輩のとこデスか。"
+    },
+    {
+      "name": "",
+      "text": "Đây là El Condor Pasa. Mã Nương đặc trưng với nhịp\nđiệu Latin cùng chiếc mặt nạ.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はエルコンドルパサー。\nラテンのノリとマスクが特徴のウマ娘だ。",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ],
+      "jpcolor_text_info_list": [
+        "エルコンドルパサー"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Chúng tôi đang nói chuyện nghiêm túc mà. Chị ra ngoài đợi\nđi, El.",
+      "jpname": "グラスワンダー",
+      "jptext": "今、真剣な話をしているんです～。\n外で待っていてください、エル。",
+      "color_text_info_list": [
+        "El"
+      ],
+      "jpcolor_text_info_list": [
+        "エル"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bắt nạt đét-xu!!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "ひどいデース！！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Em nghe thấy hết rồi đét-xu, muốn kéo người đến triển\nlãm đúng không đét-xu?",
+      "jpname": "エルコンドルパサー",
+      "jptext": "聞こえましたよ、\n展示に人を呼びたいんデスよね？"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vậy thì cứ nổi bật lên mà PR là được đét-xu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "なら、目立ってPRすればいいデース！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tham gia một cuộc thi nào đó, cho khán giả vui vẻ! Như màn\ntrình diễn micro của wrestling ấy!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "何かの競技に出て、観客を楽しませる！\nプロレスのマイクパフォーマンスのように！"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Cười rụng rốn! Vô địch! Khách tăng vọt! Chắc chắn\nđét-xu!",
+      "jpname": "エルコンドルパサー",
+      "jptext": "爆笑！　優勝！　客足上昇！\n間違いないデース！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "R-ra thế......! Em sẽ tìm thử xem có cuộc thi nào dễ nổi bật\nkhông......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "な、なるほど……！\n私、目立てそうな競技を探してみます……！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Gi à, ai qua đây coi nè! 'Thử thách ăn nhiều' bắt đầu nè!",
+      "jpname": "タマモクロス",
+      "jptext": "さあ、寄ってらっしゃい見てらっしゃい！\n『大食いチャレンジ』始まるでー！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Luật chơi đơn giản, so sánh trọng lượng món đã ăn thôi!\nĂn gì là tùy ý người tham dự.",
+      "jpname": "タマモクロス",
+      "jptext": "ルールは単純、食べたもんの重さ比べや！\n何食べるかは参加者の自由。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "MC là tui, tia chớp trắng Tamamo Cross đó! Vậy, mời các thử\nthách nhân vào sân!",
+      "jpname": "タマモクロス",
+      "jptext": "司会はウチ、白い稲妻タマモクロスや！\nほな、チャレンジャー入場や！",
+      "color_text_info_list": [
+        "Tamamo Cross"
+      ],
+      "jpcolor_text_info_list": [
+        "タマモクロス"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cái ăn nhiều thì không thể thiếu con này. Quái vật dạ dày\nOguri Cap!",
+      "jpname": "タマモクロス",
+      "jptext": "大食いにコイツは外せん。\n食欲怪物オグリキャップや！",
+      "color_text_info_list": [
+        "Oguri Cap"
+      ],
+      "jpcolor_text_info_list": [
+        "オグリキャップ"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nghe nói ăn được nhiều nên tớ để bụng đói từ trước\nrồi. Đói meo meo đây.",
+      "jpname": "オグリキャップ",
+      "jptext": "たくさん食べられると聞いて、\nお腹を空かせてきた。ペコペコだ。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vào đúng trận lớn như thế này, phải có nó chứ! Lên nào\ncon bài lớn, Hishi Miracle!",
+      "jpname": "タマモクロス",
+      "jptext": "ここぞの大一番で、もってんで！\nくるか大穴、ヒシミラクル！",
+      "color_text_info_list": [
+        "Hishi Miracle"
+      ],
+      "jpcolor_text_info_list": [
+        "ヒシミラクル"
+      ]
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Ehe, bị phần thưởng tham dự dụ mà thôi. Mặc dù mình\nđâu ăn nổi nhiều như thế đâu.",
+      "jpname": "ヒシミラクル",
+      "jptext": "えへ、参加賞につられてきちゃいました～。\nそんなにたくさん食べられないんですけど。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Miễn là vui thì gì cũng được hết! Chứ mà càng làm rối càng\ntốt đó, Gold Ship!",
+      "jpname": "タマモクロス",
+      "jptext": "おもろくなるなら、なんでもアリや！\nむしろやらかしてくれ、ゴールドシップ！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bọn rảnh rang đến xem một cuộc thi mà kết quả đã rõ\nmười mươi! Để tớ làm các cậu vui nhộn luôn!",
+      "jpname": "ゴールドシップ",
+      "jptext": "こんな結果のわかりきった競技を見にきた\nヒマ人ども！　アタシが楽しませてやるぜぇ！"
+    },
+    {
+      "name": "",
+      "text": "Quái vật Oguri Cap, Mã Nương bình thường Hishi Miracle. Và\nGold Ship phá vỡ mọi thông lệ.",
+      "jpname": "モノローグ",
+      "jptext": "怪物オグリキャップに、\nふつ～のウマ娘、ヒシミラクル。\n常識破りのゴールドシップ、と。",
+      "choice_data_list": [
+        "(Người tham dự, ai cũng chất thật……)"
+      ],
+      "jpchoice_data_list": [
+        "（出場者、濃いなぁ……）"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Người cuối cùng, riêng nhiệt huyết là số một! Hãy cho tôi\nthấy quyết tâm đó, Chrono Genesis!",
+      "jpname": "タマモクロス",
+      "jptext": "ラストは、気合いだけはナンバーワン！\n根性みせたりや、クロノジェネシス！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-không, em là, Chrono Genesis, của Ban Tuyên truyền......\nBan Tuyên truyền đang tổ chức triển lãm chuyên mục với\nchủ đề lịch sử đường đua......",
+      "jpname": "クロノジェネシス",
+      "jptext": "こ、広報委員の、クロノジェネシスです……。\n広報委員会では、レース史をテーマにした\nコラムの展示を行っております……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Còn có cả phần giới thiệu những Mã Nương hữu ích cho\nbình chọn của fan. R-rất mong mọi người ghé thăm......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "ファン投票に役立つウマ娘の紹介もあります。\nぜ、ぜひ足をお運びください……！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Này em...... chỗ nào cũng chỉ để quảng cáo thôi á! Lộ rõ\nnhư thế mới phơi phới làm sao!",
+      "jpname": "タマモクロス",
+      "jptext": "オマ……宣伝目的かーい！\n清々しいほどあからさまやな！"
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng, thử thách ăn nhiều đã bắt đầu! Nhưng mà——",
+      "jpname": "モノローグ",
+      "jptext": "ついに、大食いチャレンジが始まった！\nが――"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Okonomiyaki của Hishi Miracle nguyên liệu đầy ắp, trông\nngon ghê.",
+      "jpname": "オグリキャップ",
+      "jptext": "ヒシミラクルのお好み焼きは\n具だくさんで美味しそうだな。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Khì khì, đây là okonomiyaki đặc biệt, đặt đủ mọi thứ mình\nthích lên trên hết đấy.",
+      "jpname": "ヒシミラクル",
+      "jptext": "うふふ、わたしの好きなもの全部のせ、\nスペシャルなお好み焼きなんですよ。"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Đặt hết lên trên à. Lần sau tôi cũng thử vậy.",
+      "jpname": "オグリキャップ",
+      "jptext": "全部のせか。今度私もやってみよう。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chom chom.",
+      "jpname": "クロノジェネシス",
+      "jptext": "もぐ、もぐ。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Món ăn của Chrono-chan cân bằng dinh dưỡng tốt, lý\ntưởng quá nha.",
+      "jpname": "ヒシミラクル",
+      "jptext": "クロノちゃんのお料理、\n栄養バランスもよくて理想的だ～。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đ-được dạy rằng đường chạy đẹp bắt nguồn từ bữa\năn...... nên em ăn chậm rãi, nhai kỹ từng miếng......",
+      "jpname": "クロノジェネシス",
+      "jptext": "い、いい走りは食事からと、教わりまして……\n味わいながら、よく噛んで食べることに\nしているのです……。",
+      "choice_data_list": [
+        "Hai người ăn nhẹ nhàng nhịp nhàng ghê……"
+      ],
+      "jpchoice_data_list": [
+        "すごく、ほのぼの食べてるな……"
+      ]
+    },
+    {
+      "name": "Người đàn ông đeo kính",
+      "text": "Thường thì sự kiện ăn nhiều có giới hạn thời gian, nhưng\nlần này không đặt. Vì không phải thi ăn nhanh nên đây là lối\nchơi đúng, nhưng diễn biến lại ngoài dự liệu.",
+      "jpname": "メガネの男性",
+      "jptext": "通常、大食いイベントは制限時間があるが、\n今回は設定がない。早食いではないため\n正しい姿なのだが、想定外の展開だ。"
+    },
+    {
+      "name": "Người đàn ông mặc áo hoodie",
+      "text": "Mình muốn hỏi 'sao lại đột nhiên thế' thật đấy......\nnhưng mà không nhịn nổi không tủm tỷm thôi.",
+      "jpname": "パーカーの男性",
+      "jptext": "どうした急にと言いたいところだが……\n突っ込まずにはいられないよな。"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ê ê ê! Đây là thủy cung à! Cả trùm biển cả cũng vui vẻ chơi\ntrò chơi hả!?",
+      "jpname": "ゴールドシップ",
+      "jptext": "おいおいおい！　ここは水族館かよ！\n海のギャングも楽しくお遊戯ってか！？"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Đùa gì thế! Cái chân hút vừa thò ra kia, tớ sẽ vung cho các\ncậu nếm hết!",
+      "jpname": "ゴールドシップ",
+      "jptext": "冗談じゃねぇ！\n出した吸盤、振るわせてもらうぜ！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nếm thử cái này đi! Tuyệt kỹ, kho báu vô tận của tàu\nhoàng kim!!",
+      "jpname": "ゴールドシップ",
+      "jptext": "これでも食らえ！\n奥義、黄金船の無限宝物！！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ôi trời, ra tay thủ đoạn cấm! Món ăn của Golshi di chuyển\nồ ạt sang đĩa của cả bọn!",
+      "jpname": "タマモクロス",
+      "jptext": "おーっと、出たな禁じ手！\nゴルシの料理が他の連中の皿に大移動や！",
+      "color_text_info_list": [
+        "Golshi"
+      ],
+      "jpcolor_text_info_list": [
+        "ゴルシ"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Cảm ơn Golshi! Tớ sẽ không khách sáo nữa.",
+      "jpname": "オグリキャップ",
+      "jptext": "ありがとう、ゴルシ！\n遠慮なくいただこう。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-khí này chính là...... tuyệt kỹ huyền thoại của chị Golshi\nlưu danh trong lịch sử đường đua......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "こ、これがレース史に残る……\nゴルシさんの伝説の技……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Trải nghiệm quý giá...... em vô cùng vinh dự. E-em cũng xin\nđáp lễ tương xứng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "貴重な体験……大変光栄です。\nわ、私からも同様にお返しを……。"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "A, mình cũng chứ!",
+      "jpname": "ヒシミラクル",
+      "jptext": "あ、わたしも～。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Lời đáp lễ thiện chí từ Chrono và Hishi Miracle! Trả gấp đôi\nnè!!",
+      "jpname": "タマモクロス",
+      "jptext": "クロノとヒシミラクルから善意のお返し！\n倍返しやー！！"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dừng lại luôn đi! Cái ân huệ thiện chí là khắc tinh với tớ\naaaa!",
+      "jpname": "ゴールドシップ",
+      "jptext": "やめろぉぉぉ！\n善意の施しはアタシ特効だぁあああ！"
+    },
+    {
+      "name": "Hishi Miracle",
+      "text": "Chrono-chan, phần ăn của mình, trao đổi một chút nhé?",
+      "jpname": "ヒシミラクル",
+      "jptext": "クロノちゃん、お料理、\n少し交換しない？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "V-vâng...... mỗi người 100g, thế có được không ạ……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "は、はい……\n100gずつで、よろしいでしょうか……？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "C-c-chị Oguri cũng...... thử nhé……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "オ、オグリさんも……どうですか……？"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Có thật không? Vui quá……. Tớ xin dùng bữa!",
+      "jpname": "オグリキャップ",
+      "jptext": "いいのか？　うれしい……。\nいただきます！"
+    },
+    {
+      "name": "Fan C",
+      "text": "Không biết sao...... thấy dễ chịu thật. Có cảm giác bữa\ntrưa ấm áp tình thân…….",
+      "jpname": "ファンC",
+      "jptext": "なんか……いいな。\nほのぼのランチって感じで……。"
+    },
+    {
+      "name": "Fan D",
+      "text": "Ừ. Trên đường đua thì luôn ngầu lòi...... nhưng lúc ngoài\nsân lại có mặt đáng yêu nữa nhỉ.",
+      "jpname": "ファンD",
+      "jptext": "うん。レースではいつもカッコイイけど……\nオフの時は、かわいい一面もあるんだね。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Dù chưa thấy sôi động lắm, nhưng mà có vẻ mọi người\nthích đó, vậy là ổn hết mọi thứ!",
+      "jpname": "タマモクロス",
+      "jptext": "イマイチ盛り上がっとらんけど、\nウケてるみたいやし、万事オッケーや！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Chứ đâu phải quên đặt giới hạn thời gian đâu nha! Là\nđúng ý đồ tui đó nha!",
+      "jpname": "タマモクロス",
+      "jptext": "決して制限時間決め忘れたわけやないで！\n狙いどおりやで！"
+    },
+    {
+      "name": "",
+      "text": "Thử thách ăn nhiều của Chrono Genesis dường như đã để\nlại ấn tượng tốt trong lòng người hâm mộ! Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスの大食いチャレンジは、\nしっかりとファンに好印象を残せたようだ！\nそして――"
+    },
+    {
+      "name": "Fan C",
+      "text": "Vì tò mò từ thử thách ăn nhiều nên mình đến xem......\nnhưng nội dung triển lãm, sâu nặng thật!",
+      "jpname": "ファンC",
+      "jptext": "大食いチャレンジでなんとなく気になって\n来てみたけど……展示の内容、濃いな！"
+    },
+    {
+      "name": "Fan C",
+      "text": "A! Là 'Takarazuka Kinen' của Mejiro Palmer! Cú tiên phong lớn\nở Arima thì nổi tiếng rồi, nhưng mà đó cũng là nhờ có\nTakarazuka mà nhỉ!",
+      "jpname": "ファンC",
+      "jptext": "あ！　メジロパーマーの『宝塚記念』だ！\n有馬の大逃げが有名だけど、それも\n宝塚があったからなんだよなぁ！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đ-đúng vậy ạ...... Chuyên mục này cũng chủ yếu kể về\nhành trình cho đến khi chị ấy chạm tới chiến thuật tiên\nphong…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "そ、そうなんです……。\nこのコラムも、逃げ戦法に辿り着くまでの\n過程をメインにしておりまして……。"
+    },
+    {
+      "name": "Fan C",
+      "text": "Là chị Chrono viết hả? Nói thật là, cú tiên phong lớn ấy——",
+      "jpname": "ファンC",
+      "jptext": "クロノさんが書いたんだ？\nやっぱさ、あの大逃げは――"
+    },
+    {
+      "name": "",
+      "text": "Câu chuyện giữa Chrono Genesis và fan đang rộn rã. Triển\nlãm này chắc chắn sẽ ảnh hưởng tốt đến phần bình\nchọn fan của 'Takarazuka Kinen'!",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスとファンの話が弾んでいる。\nこの展示はきっと『宝塚記念』の\nファン投票にいい影響をもたらすだろう！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ôi trời, ra tay thủ đoạn cấm! Món ăn của Golshi di chuyển\nồ ạt sang đĩa của Chrono!",
+      "jpname": "タマモクロス",
+      "jptext": "おーっと、出たな禁じ手！\nゴルシの料理がクロノの皿に大移動や！",
+      "color_text_info_list": [
+        "Golshi"
+      ],
+      "jpcolor_text_info_list": [
+        "ゴルシ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "K-khí này chính là...... tuyệt kỹ huyền thoại của chị Golshi\nlưu danh trong lịch sử đường đua……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "こ、これがレース史に残る……\nゴルシさんの伝説の技……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-trải nghiệm quý giá này...... cảm ơn chị ạ. Em sẽ nếm\ncho đúng vị......!",
+      "jpname": "クロノジェネシス",
+      "jptext": "き、貴重な体験を……ありがとうございます。\nしっかり味わいますね……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chom chom chom.",
+      "jpname": "クロノジェネシス",
+      "jptext": "もぐ、もぐ、もぐ。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Đây chính là, vị của huyền thoại…… Phanh phui, ngon\nvô cùng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "……これが、伝説の味……\nふふっ、すごく美味しいです……。"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "……D-Dừng lại…….",
+      "jpname": "ゴールドシップ",
+      "jptext": "……ヤ、ヤメロ……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chom chom chom.",
+      "jpname": "クロノジェネシス",
+      "jptext": "もぐ、もぐ、もぐ。"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dừng lại luôn đi! Lối đối xử bình thường trúng tớ mạnh\nquá……!",
+      "jpname": "ゴールドシップ",
+      "jptext": "やめろぉぉぉ！\n尋常な対応はアタシに効きすぎる……！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nghiêm túc cù lơ mà đập hoài chẳng đổ, Golshi cuối cùng\ncũng đầu hàng!",
+      "jpname": "タマモクロス",
+      "jptext": "打てども響かぬ生真面目さに、\nゴルシ、ついにギブアップ！"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ôi trời, đáp lời hài bằng câu nghiêm túc là nặng gánh ghê đó\nnha!",
+      "jpname": "タマモクロス",
+      "jptext": "いや～、ボケにマジレスはキツいわな～。"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Thật ra Chrono này...... ăn chậm rãi mà, khối lượng ăn cũng\nnhiều ghê ha!",
+      "jpname": "タマモクロス",
+      "jptext": "しっかしクロノ……淡々とやけど、\nぎょうさん食うとるなぁ。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ trại hè năm ngoái, Chrono Genesis đã tăng thêm lượng\nthức ăn như một phần của việc rèn luyện thể hình.",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスは昨年の夏合宿にて、\n体作りの一環で食事量も増やしていた。"
+    },
+    {
+      "name": "",
+      "text": "Giờ đây em ấy đã đến trình độ có thể tạo nên thân thể\ntối ưu, tùy theo từng giải đua!",
+      "jpname": "モノローグ",
+      "jptext": "今ではレースに合わせて、\n最適な体を作れる状態にまでなっているのだ！"
+    },
+    {
+      "name": "Fan C",
+      "text": "Dáng vẻ ăn ngon lành kia thật là đẹp mà......! Huống hồ em\nấy ăn ngon đến mức nhìn cũng thấy ngon!",
+      "jpname": "ファンC",
+      "jptext": "もりもり食べる姿って、いいよな……！\nしかもすげーおいしそうに食ってる！"
+    },
+    {
+      "name": "Fan D",
+      "text": "Ừ! Xem em ấy ăn mà mình thấy hạnh phúc ghê! Cảm giác\nnhư muốn nói 'cứ ăn nhiều vào nào' luôn ấy♡",
+      "jpname": "ファンD",
+      "jptext": "うん！　見てると幸せになるよね～！\nたくさんお食べ～って気分になっちゃう♡"
+    },
+    {
+      "name": "",
+      "text": "Thử thách ăn nhiều của Chrono Genesis dường như đã để\nlại ấn tượng tốt trong lòng người hâm mộ! Và rồi——",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスの大食いチャレンジは、\nしっかりとファンに好印象を残せたようだ！\nそして――"
+    },
+    {
+      "name": "Fan C",
+      "text": "Vì tò mò từ thử thách ăn nhiều nên mình đến xem......\nnhưng nội dung triển lãm, sâu nặng thật!",
+      "jpname": "ファンC",
+      "jptext": "大食いチャレンジで気になって\n来てみたけど……展示の内容、濃いな！"
+    },
+    {
+      "name": "Fan D",
+      "text": "A, 'Takarazuka Kinen' của chị Silence Suzuka! Chiến thắng\ntiên phong lộng lẫy ấy, mình còn nhớ rõ! Chạy mà nhìn thấy\nsự thăng hoa dễ chịu vậy đó.",
+      "jpname": "ファンD",
+      "jptext": "あ、サイレンススズカさんの『宝塚記念』！\n鮮やかな逃げ切り勝ち、覚えてるよ！\n気持ちよさそうに走ってたんだよねー。",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ],
+      "jpcolor_text_info_list": [
+        "サイレンススズカ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đ-đúng vậy ạ……. Dù đây là chiến thắng GI đầu tiên sau\n5 trận toàn thắng, lời chị ấy chia sẻ chỉ xoay quanh khung\ncảnh từ vị trí dẫn đầu mà thôi…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "そ、そうなんですよね……。\n5連勝で初のGⅠ勝利だったのに、\nコメントは先頭の景色についてだけで……。"
+    },
+    {
+      "name": "Fan D",
+      "text": "Là chị Chrono viết hả! Này, chị Suzuka ở Học viện Tracen\nthì——",
+      "jpname": "ファンD",
+      "jptext": "書いたの、クロノさんなんだ！\nねえ、スズカさんってトレセン学園でも――",
+      "color_text_info_list": [
+        "Suzuka"
+      ],
+      "jpcolor_text_info_list": [
+        "スズカ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Câu chuyện giữa Chrono Genesis và fan đang rộn rã. Triển\nlãm này chắc chắn sẽ ảnh hưởng tốt đến phần bình\nchọn fan của 'Takarazuka Kinen'!",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスとファンの話が弾んでいる。\nこの展示はきっと『宝塚記念』の\nファン投票にいい影響をもたらすだろう！"
+    }
+  ]
+}

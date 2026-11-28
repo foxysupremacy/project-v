@@ -1,0 +1,162 @@
+{
+  "title": "Tại phòng y tế",
+  "jptitle": "保健室にて",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Thấy em Chrono Genesis có vẻ phong độ sa sút, tôi đã đưa\nem đến phòng y tế.",
+      "jpname": "モノローグ",
+      "jptext": "クロノジェネシスの調子が悪そうなので、\n保健室に連れてきた。",
+      "choice_data_list": [
+        "Dù sao cứ nghỉ ngơi thong thả đã nhé"
+      ],
+      "jpchoice_data_list": [
+        "とにかくゆっくり休んで"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Dạ...... E-em làm anh phiền rồi......",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい……。\nご、ご迷惑をおかけします……。"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "Từ giờ phút này, màn đua trong mơ quy tụ toàn bộ các Tam\nMiện Mã Nương cùng các Mã Nương Triple Tiara của mọi\nthời đại——",
+      "jpname": "議長のクロノ",
+      "jptext": "これより、歴代の三冠ウマ娘と\nトリプルティアラウマ娘たちを\n集結させた夢のレース――"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "Hội nghị dự đoán \"Takarazuka Kinen\" phiên bản giả tưởng\nchính thức bắt đầu!",
+      "jpname": "議長のクロノ",
+      "jptext": "仮想『宝塚記念』の予想会議を始めます！"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "Nơi tổ chức là trường đua Hanshin. 2200m vòng trong, mặt\ncỏ tốt, trời quang. Sử dụng B Course.",
+      "jpname": "議長のクロノ",
+      "jptext": "開催場所は阪神レース場。2200m内回り、\n良バ場、晴れ。Bコース使用とします。"
+    },
+    {
+      "name": "Chrono phe thành tích",
+      "text": "Vâng. Có lẽ những Mã Nương quen thuộc với trường đua\nHanshin sẽ có lợi hơn.",
+      "jpname": "戦績重視派のクロノ",
+      "jptext": "はい。やはり阪神レース場に慣れている方が\n有利なのではないかと。"
+    },
+    {
+      "name": "Chrono phe thành tích",
+      "text": "Các Mã Nương Tiara đều đã chinh phục trường đua\nHanshin tại Oka Sho. Có khi chúng sẽ chen vào nhóm dẫn\nđầu.",
+      "jpname": "戦績重視派のクロノ",
+      "jptext": "ティアラウマ娘は、みなさん『桜花賞』で\n阪神レース場を制しています。\n上位に食い込んでくるのでは。"
+    },
+    {
+      "name": "Chrono phe thành tích",
+      "text": "Với lại trên sân khấu này, người được bình chọn số 1\ncũng nhiều lần bỏ lỡ chiến thắng, nên việc đánh giá điều\nkiện có đủ để bung hết thực lực cũng vô cùng quan trọng.",
+      "jpname": "戦績重視派のクロノ",
+      "jptext": "また、この舞台では1番人気が勝利を\n取りこぼすことも多く、実力を出し切れる\n条件が揃っているかを見極めるのも肝要かと。"
+    },
+    {
+      "name": "Chrono phe kịch tính",
+      "text": "Màn kịch cũng quan trọng chứ......! Các Mã Nương chưa\ntừng thắng Takarazuka Kinen còn có những người khác nữa.",
+      "jpname": "ドラマ重視派のクロノ",
+      "jptext": "ドラマも重要かと……！\n『宝塚記念』は勝利していない、という\nウマ娘は他にもいらっしゃいます。"
+    },
+    {
+      "name": "Chrono phe kịch tính",
+      "text": "Chính vì thế mà trong màn đua trong mơ này, việc ai sẽ chinh\nphục Takarazuka Kinen...... sự hăng máu này...... thật lòng mà\nnói, ai thắng cũng......!",
+      "jpname": "ドラマ重視派のクロノ",
+      "jptext": "故にこそ、この夢のレースで\n『宝塚記念』を制す……\nこのアツさ……正直、誰が勝っても……！"
+    },
+    {
+      "name": "Hai người Chrono",
+      "text": "Ừuuuumm...... không quyết nổi......! ......Không hiểu nổi......\nmà, lại thú vị thật......!",
+      "jpname": "2人のクロノ",
+      "jptext": "うう～～～ん……決まらない……！\n……わからない……でも、面白い……！"
+    },
+    {
+      "name": "???",
+      "text": "Hừm...... Mọi người còn non nớt quá đấy ạ. Câu trả lời\nđã hiện rõ rồi......",
+      "jpname": "？？？",
+      "jptext": "フッ……甘いですネェ、みなさん。\n答えはもう出ていますヨ……。"
+    },
+    {
+      "name": "Chrono phe xin chữ ký?",
+      "text": "Hôm nay...... các người đã nhìn vào phòng Ủy ban Hỗ trợ\nXuất chinh chưa? Bên cạnh cửa sổ có hai que bí ẩn——\nkhông, là chữ \"11\" đứng thẳng đơ......!",
+      "jpname": "サイン派のクロノ？",
+      "jptext": "今日……遠征支援委員会室を見ましたか？\n窓辺に謎のスティックが2本――否、\n『11』が立っていたところを……！"
+    },
+    {
+      "name": "Chrono phe xin chữ ký?",
+      "text": "Đây chắc chắn là một điềm báo!! Nghĩa là người chiến\nthắng chính là—— chị Orfevre mang số 11!",
+      "jpname": "サイン派のクロノ？",
+      "jptext": "これは明らかなサイン！！\nつまり勝利するのはァ――ウマ番『11』の\nオルフェーヴルさんなんですヨォ！"
+    },
+    {
+      "name": "Chrono phe thành tích",
+      "text": "Cái gì......!!!!",
+      "jpname": "戦績重視派のクロノ",
+      "jptext": "なっ……！！！！"
+    },
+    {
+      "name": "Chrono phe kịch tính",
+      "text": "Đ-đúng thật...... đây là điềm báo rõ ràng không thể chối\ncãi......!?",
+      "jpname": "ドラマ重視派のクロノ",
+      "jptext": "た、確かに……\nこれは紛れもないサイン……！？"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "——Khoan đã ạ! Việc cửa sổ phòng Ủy ban Hỗ trợ Xuất\nchinh được bày một vật trang trí bí ẩn, chẳng qua là\nchuyện cơm bữa mà......!",
+      "jpname": "議長のクロノ",
+      "jptext": "――待ってください！\n遠征支援委員会室の窓辺に謎のオブジェが\n飾られているのは、割と日常茶飯事です……！"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "Muốn gọi là điềm báo, lấy đâu ra căn cứ mà......!?",
+      "jpname": "議長のクロノ",
+      "jptext": "サインというには、\nいささか根拠が弱いのでは……！？"
+    },
+    {
+      "name": "Chrono phe kịch tính",
+      "text": "Quả thật, hơi bị ép cải một chút. ...Nhưng mà, việc hôm\nnay lại có đúng hai que, điều đó cũng khiến người ta lưu\ntâm......",
+      "jpname": "ドラマ重視派のクロノ",
+      "jptext": "確かに、ちょっとこじつけ感も否めませんね。\n……いえでも、あえて今日スティックが2本、\nというのが気にはなる……。"
+    },
+    {
+      "name": "Chrono phe xin chữ ký?",
+      "text": "Hihihi, còn nhiều điềm báo khác nữa đấy...... Màn đối\nđầu Tam Miện Mã Nương trong mơ mang số \"3\", số áo\ncủa cầu thủ bóng chày đang làm mưa làm gió là \"17\"......",
+      "jpname": "サイン派のクロノ？",
+      "jptext": "フッフッフ、他にもサインは出てますヨ……\n夢の三冠ウマ娘対決で『3』、\n話題の野球選手の背番号『17』……。"
+    },
+    {
+      "name": "Chủ tọa Chrono",
+      "text": "Hự...... c-cái nào cũng có vẻ trúng......!! Nhưng mà mà......!",
+      "jpname": "議長のクロノ",
+      "jptext": "うっ……ど、どれも来そう……！！\nでもでも……っ！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Màn kịch hay lịch sử, em đều không muốn bỏ qua!\nKh-khó xử quá————!!",
+      "jpname": "クロノジェネシス",
+      "jptext": "ドラマも歴史も無視したくないっ！\nな、悩ましい――――！！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "——À!",
+      "jpname": "クロノジェネシス",
+      "jptext": "――はっ！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "......Fufu. Dữ liệu, màn kịch, thêm cả điềm báo—— Việc\ndự đoán trận đua sâu sắc và thú vị thật......",
+      "jpname": "クロノジェネシス",
+      "jptext": "……ふふ。データにドラマ、それにサイン――\nレース予想は奥深くて、楽しい……。"
+    },
+    {
+      "name": "",
+      "text": "Tự em Chrono Genesis tận hưởng việc dự đoán trận đua\nngay cả trong giấc mơ. Có vẻ phong độ đã hoàn toàn hồi\nphục.",
+      "jpname": "モノローグ",
+      "jptext": "夢の中でもレース予想を楽しんだ\nクロノジェネシス。\n調子もすっかり取り戻したようだ。"
+    }
+  ]
+}

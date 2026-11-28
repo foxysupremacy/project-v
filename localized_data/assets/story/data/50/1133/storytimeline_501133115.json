@@ -1,0 +1,814 @@
+{
+  "title": "Trao giấc mơ vào từng lá phiếu",
+  "jptitle": "一票に夢を込めて",
+  "text_block_list": [
+    {
+      "name": "Chuyên mục lịch sử",
+      "text": "Nhìn khắp thế giới, có muôn vàn lễ hội đường đua Mã\nNương.",
+      "jpname": "ある歴史コラム",
+      "jptext": "世界を見渡すと、\n様々なウマ娘レースの祭典がある。"
+    },
+    {
+      "name": "Chuyên mục lịch sử",
+      "text": "'Prix de l'Arc de Triomphe' truyền thống, nơi các Mã Nương\nđỉnh cao các nước hội tụ tranh ngôi số một thế giới.",
+      "jpname": "ある歴史コラム",
+      "jptext": "各国のトップウマ娘が集い\n世界一を競う、伝統の『凱旋門賞』。"
+    },
+    {
+      "name": "Chuyên mục lịch sử",
+      "text": "Ở Mỹ, Dubai hay Hong Kong, các GI quốc tế được tổ chức\ngọn trong 1-2 ngày.",
+      "jpname": "ある歴史コラム",
+      "jptext": "アメリカやドバイ、香港では、\n各種国際GⅠレースを1～2日で実施する。"
+    },
+    {
+      "name": "Chuyên mục lịch sử",
+      "text": "Còn ở Nhật—— Grand Prix. Ngày mà Mã Nương phía người\nhâm mộ và Mã Nương phía vận động viên giao nhau.",
+      "jpname": "ある歴史コラム",
+      "jptext": "日本では――グランプリ。\nファンの彼女と競技者の彼女が、交錯する日。"
+    },
+    {
+      "name": "",
+      "text": "Ngày diễn ra 'Takarazuka Kinen'. Tôi cùng Chrono Genesis\nđang hướng về nơi tổ chức để xem trực tiếp.",
+      "jpname": "モノローグ",
+      "jptext": "『宝塚記念』当日。\nクロノジェネシスと現地観戦へ向かっていた。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Ấy, hôm nay vốn nói là anh xem lại buổi tự tập của em\nmà nhỉ……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "……あの、今日は自主トレを\n見てくださるという話だったかと……。",
+      "choice_data_list": [
+        "Xem đua cũng là một phần của huấn luyện mà"
+      ],
+      "jpchoice_data_list": [
+        "レース観戦もトレーニングの一環だよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mấy hôm trước, tôi đã sắp đặt một trận đua mô\nphỏng—— nhưng Chrono Genesis thua thảm hại.",
+      "jpname": "モノローグ",
+      "jptext": "先日、模擬レースを組んだのだが――\nクロノジェネシスは惨敗。"
+    },
+    {
+      "name": "",
+      "text": "Bị nhịp của Mã Nương tiên phong làm lóa mắt mà cạn\nkiệt sức, lối chạy chẳng giống em ấy chút nào.",
+      "jpname": "モノローグ",
+      "jptext": "逃げウマ娘のペースに惑わされて力尽きる、\n彼女らしくない走りだった。"
+    },
+    {
+      "name": "",
+      "text": "Từ đó, em ấy cắm đầu vào huấn luyện còn hơn cả\ntrước.",
+      "jpname": "モノローグ",
+      "jptext": "その後、彼女は以前にも増して、\nトレーニングに打ち込むようになった。"
+    },
+    {
+      "name": "",
+      "text": "Từ dáng vẻ ấy, rõ ràng lộ ra sự nôn nóng. Cuối cùng, đến\nthứ Sáu——",
+      "jpname": "モノローグ",
+      "jptext": "その様子からは、明らかな焦りが見て取れた。\nついには、金曜日――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cuối tuần, em sẽ hoàn thành các bài tập tự luyện được\ntrao……",
+      "jpname": "クロノジェネシス",
+      "jptext": "週末は、いただいた\n自主トレメニューをこなします……。",
+      "choice_data_list": [
+        "Hả? Nhưng cuối tuần này là 'Takarazuka Kinen' mà"
+      ],
+      "jpchoice_data_list": [
+        "え？だけど今週末は『宝塚記念』なのに"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Với em lúc này, chẳng còn dư dả để ưu tiên cho thú vui cá\nnhân đâu ạ…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "今の私には、趣味を優先できる余裕は\nありませんので……。"
+    },
+    {
+      "name": "",
+      "text": "Đến mức này thì đúng là không thể xem nhẹ nữa.",
+      "jpname": "モノローグ",
+      "jptext": "ここまでくると、さすがに見過ごせない。"
+    },
+    {
+      "name": "",
+      "text": "Thế mạnh của em ấy là khả năng bùng nổ cùng khả năng\nđọc diễn biến. Chính vì đã xem qua rất nhiều trận đua,\nem ấy tự nhiên đọc trọn được diễn biến tốt nhất.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の強みは瞬発力と、展開を読む力。\n多くのレースを観てきたがゆえ、\n彼女は自然とベストの展開を読み切れている。"
+    },
+    {
+      "name": "",
+      "text": "Nếu không thấy được xung quanh thì không thể dự đoán\ndiễn biến. Tình trạng nôn nóng khiến tầm nhìn thu hẹp lúc\nnày—— sẽ đè bẹp chính ưu điểm của em ấy.",
+      "jpname": "モノローグ",
+      "jptext": "周囲が見えていないと、展開予測はできない。\n今の焦って視野が狭まっている状況は――\n彼女のよさを潰してしまうことになる。"
+    },
+    {
+      "name": "",
+      "text": "Mong rằng qua việc xem 'Takarazuka Kinen', ngọn lửa đam\nmê lịch sử đường đua—— cùng chất 'Chrono' sẽ trở lại\nvới em.",
+      "jpname": "モノローグ",
+      "jptext": "『宝塚記念』を観ることで、\nレース史への情熱を――\n彼女らしさを取り戻してほしい。"
+    },
+    {
+      "name": "",
+      "text": "——Huống hồ tại 'Takarazuka Kinen' còn có chị ấy nữa.",
+      "jpname": "モノローグ",
+      "jptext": "――それに『宝塚記念』には、彼女がいる。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Quả nhiên nhỉ. Lại hẹn tập hợp thật sớm, nên em đã\ncó linh cảm điều đó.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……やはり……。\n朝早くの集合だったので、\nうすうす、そんな気はしていました。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nói vậy mà biết trước thế mà vẫn lên xe, đúng là em có\nkhác đâu.",
+      "jpname": "クロノジェネシス",
+      "jptext": "なんて、わかっていながら\n乗車している時点で、私も私ですけど。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Mà này, cái túi này là……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "ところで、こちらの袋は……？",
+      "choice_data_list": [
+        "Bánh và đồ uống đó. Em cứ chọn món em thích nhé!"
+      ],
+      "jpchoice_data_list": [
+        "お菓子や飲み物だよ。好きなもの、どうぞ！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "C-cảm ơn anh, em xin dùng ạ…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ、ありがとうございます、\nいただきます……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……A, cả báo đua nữa……?",
+      "jpname": "クロノジェネシス",
+      "jptext": "……あ、新聞も……？",
+      "choice_data_list": [
+        "Em thấy dàn mã tham dự 'Takarazuka Kinen' thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "『宝塚記念』の出走メンバー、どう思う？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Gương mặt thay đổi hẳn một lượt nhỉ. Lần này tập\ntrung vào thế hệ hơn tụi em hai bậc.",
+      "jpname": "クロノジェネシス",
+      "jptext": "顔ぶれが一気に入れ替わりましたね。\n今回は、私たちのふたつ上の世代に\n集中しています。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nhưng có điều, một nửa đều là Mã Nương từng thắng GI\nthì nóng bỏng thật.",
+      "jpname": "クロノジェネシス",
+      "jptext": "そのわりに、\n半数がGⅠウマ娘というのは熱いですね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Điểm chú ý đương nhiên là…… chị Lilie.",
+      "jpname": "クロノジェネシス",
+      "jptext": "注目はもちろん……リーリエさんです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Trong số mã tham dự lần này, chị ấy là người duy nhất\ntừng đi qua tuyến Tiara.",
+      "jpname": "クロノジェネシス",
+      "jptext": "今回の出走者の中では、\n唯一、ティアラ路線を経てきています。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cùng là Mã Nương Tiara, mong chị ấy đừng thua kém\ntuyến Tam Miện Classic!",
+      "jpname": "クロノジェネシス",
+      "jptext": "同じティアラウマ娘として、\nクラシック三冠路線には\n負けないでほしいですね！",
+      "choice_data_list": [
+        "Anh vẫn luôn để ý đến Schon Lilie mà",
+        "Anh vẫn luôn để ý đến Schon Lilie nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "シェーンリーリエにずっと注目してたものな",
+        "シェーンリーリエにずっと注目してたものね"
+      ],
+      "color_text_info_list": [
+        "Mã Nương Tiara"
+      ],
+      "jpcolor_text_info_list": [
+        "ティアラウマ娘"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng, nếu em cũng được phép bình chọn, chắc chắn em\nsẽ đặt lá phiếu cho chị Lilie……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい、もし私も投票ができたら、\nリーリエさんに入れていたと思います……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "'Queen Elizabeth II Cup' năm ngoái, khóc nức nở vì mừng rỡ\nsau vạch đích, em vẫn không thể quên……",
+      "jpname": "クロノジェネシス",
+      "jptext": "昨年の『エリザベス女王杯』、\nゴール後の歓喜の号泣は忘れられません……。",
+      "choice_data_list": [
+        "(Ừ, ở Arima lần trước em cũng nói đúng vậy)"
+      ],
+      "jpchoice_data_list": [
+        "（うん、前回の有馬でも同じこと言ってた）"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "A, xin lỗi vì cứ em nói suốt……! T-điểm chú ý của\nTrainer-san là gì ạ?",
+      "jpname": "クロノジェネシス",
+      "jptext": "あっ、私ばかり話してすみません……！\nト、トレーナーさんの注目は？",
+      "choice_data_list": [
+        "Chắc là màn đối đầu đồng khóa chia nhau Tam Miện Classic ấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "クラシック三冠を分け合った同期対決かな"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "E-e-em hiểu mà……! Là ba người đồng khóa với chị Lilie\nđúng không!",
+      "jpname": "クロノジェネシス",
+      "jptext": "わっ、わかります……！\nリーリエさんの同期の3人ですね！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Màn kịch Tam Miện Classic của các chị ấy, tuyệt đẹp\nbiết bao nhỉ……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "彼女たちのクラシック三冠のドラマ、\n素晴らしかったですものね……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ở 'Nippon Derby', một Trainer kỳ cựu sau mấy chục năm đã\nlần đầu trở thành Trainer vô địch Derby.",
+      "jpname": "クロノジェネシス",
+      "jptext": "『日本ダービー』では、\nベテラントレーナーが数十年目にして初めて、\nダービートレーナーに。",
+      "color_text_info_list": [
+        "Nippon Derby"
+      ],
+      "jpcolor_text_info_list": [
+        "日本ダービー"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "'Kikuka Sho', mặt đường xấu dưới mưa lớn, cuộc chiến\nlầy lội kéo dài 3000m……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "『菊花賞』、大雨の不良バ場、\n3000mに及ぶ泥まみれの激闘……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Trainer-san…… điểm nhìn của anh tinh tế quá.",
+      "jpname": "クロノジェネシス",
+      "jptext": "トレーナーさん……\n目の付けどころがいいですね。",
+      "choice_data_list": [
+        "Là nhờ chuyên mục báo trường đấy"
+      ],
+      "jpchoice_data_list": [
+        "校内新聞コラムのおかげだよ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Sao lại thế…… v-vinh dự của người viết bài quá……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "そんな……\nラ、ライター冥利に尽きます……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "…………. Nhìn lại như thế này mới thấy——",
+      "jpname": "クロノジェネシス",
+      "jptext": "…………。\nこうして、改めて見てみると――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Mã Nương được chọn qua bình chọn fan, đều mang\ntheo màn kịch trọn vẹn như thế nhỉ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "……ファン投票で選ばれるウマ娘は、\nそれだけのドラマを持っているんですよね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vậy mà em…… lại tiện miệng nói điều gì 'khắc dấu chân\nvào lịch sử'…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "なのに、私……歴史に蹄跡を残すだなんて、\n軽々しく言ったりして……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Quả là lên gấu quá đáng. Thật đáng xấu hổ……",
+      "jpname": "クロノジェネシス",
+      "jptext": "思い上がりも甚だしいですね。\n恥ずかしいです……。",
+      "choice_data_list": [
+        "Chẳng phải em đang nghĩ…… đến kết quả bình chọn fan đấy à?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして……ファン投票の結果のこと？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "!! ……Khụ, vâng…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "！！　……っ、はい……。"
+    },
+    {
+      "name": "",
+      "text": "Trong bình chọn fan của 'Takarazuka Kinen', Chrono Genesis\nđứng thấp hơn hẳn Gran Alegria lẫn Loves Only You.",
+      "jpname": "モノローグ",
+      "jptext": "『宝塚記念』のファン投票、\nクロノジェネシスはグランアレグリアや\nラヴズオンリーユーよりも、かなり下だった。"
+    },
+    {
+      "name": "",
+      "text": "Quả thật, nếu chỉ nhìn thứ hạng thì có thể không đẹp\nmắt. Nhưng mà——",
+      "jpname": "モノローグ",
+      "jptext": "確かに、順位だけを見れば\n芳しくなかったかもしれない。けれど――",
+      "choice_data_list": [
+        "Vẫn có rất nhiều người bỏ phiếu cho em mà thôi",
+        "Vẫn có rất nhiều người bỏ phiếu cho em cơ mà"
+      ],
+      "jpchoice_data_list": [
+        "多くの人が君に投票してくれたじゃないか",
+        "多くの人が貴方に投票してくれたじゃない"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Số phiếu của em chẳng ít tí nào. Đã có từng ấy người\nđặt kỳ vọng vào em.",
+      "jpname": "モノローグ",
+      "jptext": "票数は、決して少なくなかった。\nそれだけの人々が彼女に期待してくれている。",
+      "choice_data_list": [
+        "Tuy vậy, đối thủ cùng thời của em là đậm đặc thật đấy"
+      ],
+      "jpchoice_data_list": [
+        "同時代のライバルが濃いってのはあるけど"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Phanh phui…… cái 'đậm đặc' ấy nữa.",
+      "jpname": "クロノジェネシス",
+      "jptext": "ふふっ、……濃い、って。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Nhưng mà, đúng nhỉ…… thứ hạng là đánh giá tương đối,\nthứ cần nhìn là số phiếu mà.",
+      "jpname": "クロノジェネシス",
+      "jptext": "でも、そうですね……。\n順位は相対評価、見るべきは得票数でしたね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Người muốn xem lối chạy của em…… có rất nhiều…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "私の走りを見たいと思ってくださる方は、\nたくさんいる……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ừ…… cục thắt trong lòng đã tan rồi.",
+      "jpname": "クロノジェネシス",
+      "jptext": "うん……胸のつかえが取れました。"
+    },
+    {
+      "name": "",
+      "text": "Bầu trời sắp ủ mưa, nhưng em ấy không chịu nhượng\nbộ, nhất định xem 'Takarazuka Kinen' từ khán đài.",
+      "jpname": "モノローグ",
+      "jptext": "今にも雨が降り出しそうだが、彼女は\n『宝塚記念』はスタンドで観ると譲らない。",
+      "choice_data_list": [
+        "Hôm nay còn chẳng mang máy ảnh, sao nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "今日はカメラも持ってないのに、なんで？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vì đây có màn biểu diễn fanfare trực tiếp ạ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "ファンファーレの生演奏があるからです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Huống hồ 'Takarazuka Kinen' còn có fanfare riêng, một năm\nchỉ có một cơ hội được nghe thôi ạ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "それに『宝塚記念』は専用ファンファーレ、\n1年に1回しか聴く機会がありませんから。",
+      "choice_data_list": [
+        "Ơ, anh tưởng fanfare GI vùng Kansai chứ nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "あれ？関西GⅠファンファーレだと思ってた"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ơ thế à. Vậy hôm nay, anh cứ chậm rãi thưởng thức cho\nđầy đủ nhé.",
+      "jpname": "クロノジェネシス",
+      "jptext": "あら。では今日は、\nぜひじっくりとお聴きください。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "A, vào mặt đường chính rồi! Ảnh, chụp ảnh……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ、本バ場入場です！\n写真、写真……！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Ối trời! Schon Lilie vồ lên phía trước ngay từ sớm! Đây là\ndiễn biến ngoài dự đoán!",
+      "jpname": "実況",
+      "jptext": "おーっと！　シェーンリーリエ、早々と前へ！\nこれは予想外の展開です！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Không phải chứ, chị Lilie vị trí thứ hai!?",
+      "jpname": "クロノジェネシス",
+      "jptext": "うそ、リーリエさん2番手！？"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cho đến giờ, các trận của chị ấy gần như toàn nước rút\ntừ phía sau mà……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "これまでは、ほとんどが\n後ろからのレースだったのに……！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Vừa qua cột 1000m! Thời gian đúng 1 phút!",
+      "jpname": "実況",
+      "jptext": "今、1000mを通過！\nタイムは1分ちょうどです！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Với 'Takarazuka Kinen' thì là nhịp trung bình. Đây, biết đâu\nsẽ có chuyện……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "『宝塚記念』としては平均ペース。\nこれは、もしかするかも……！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Lên được…… lên được! Lần này, lần này chắc chắn……!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "いける……いけるわ！\n今日こそ、今日こそは……っ！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Không, tuyệt đối không chủ quan! Còn cả đoạn thẳng\ncuối nữa. Hãy giữ chân để sẵn sàng——!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "いや、油断しない！　まだ最終直線がある。\n脚をためて備える――！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Đoạn thẳng cuối…… nhịp của chị Lilie, chưa hề giảm!",
+      "jpname": "クロノジェネシス",
+      "jptext": "最終直線……\nリーリエさんのペース、まだ落ちない！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và bây giờ, dốc đến rồi! Sân khấu Nishinomiya từ đây là\ndốc!",
+      "jpname": "実況",
+      "jptext": "さあこれから坂！\n仁川の舞台はここから坂がある！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Khụ…… cú đáp rất tốt! Như thế này thì…… thắng\nđược——!",
+      "jpname": "クロノジェネシス",
+      "jptext": "っ……手応えはいい！\nこれなら……勝てる――！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Từ đây! Yaaaaaaaa!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "ここからっ！　やあああああああっ！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Dốc hết, tất cả! Tiến lên, đến mức không ai kịp dẫm\nlấy bóng chị!!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "出し切れ、全部！\n誰も影を踏めないくらいまで、前へ！！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "!! Vượt lên rồi!",
+      "jpname": "クロノジェネシス",
+      "jptext": "っ！！　加速した！",
+      "choice_data_list": [
+        "Lên đầu đoàn rồi!",
+        "Leo lên đầu đoàn rồi!"
+      ],
+      "jpchoice_data_list": [
+        "先頭に出たぞ！",
+        "先頭に出たよ！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Kinh khủng…… kinh khủng! Vẫn còn phóng tiếp……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "すごい……すごい！\nまだ伸びてく……っ！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Là Schon Lilie! Schon Lilie mở rộng cách biệt!",
+      "jpname": "実況",
+      "jptext": "シェーンリーリエだ！\nシェーンリーリエが突き放す！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cố lên, cố lên…… thêm chút nữa thôi……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "頑張れ、頑張れ……あと少し……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chị Lilieeeee! Cố lêêêêêêênn!!",
+      "jpname": "クロノジェネシス",
+      "jptext": "っっっ……リーリエさーーーーーん！\n頑張れぇぇぇぇぇえええっ！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Schon Lilie cán đích ở vị trí thứ nhất!",
+      "jpname": "実況",
+      "jptext": "シェーンリーリエ、1着でゴールイン！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Hự, hự………… t-thắng rồi……",
+      "jpname": "クロノジェネシス",
+      "jptext": "はぁ、はぁ…………か、勝った……。",
+      "choice_data_list": [
+        "Quán quân! Schon Lilie, mạnh thật đấy!",
+        "Quán quân! Schon Lilie, mạnh thật đấy nhỉ!"
+      ],
+      "jpchoice_data_list": [
+        "1着だ！シェーンリーリエ、強かったな！",
+        "1着だ！シェーンリーリエ、強かったね！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng! Mạnh thật…… thật sự…… mạnh thật……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい！　強かった……\n本当に……強かった……っ！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "A…… lòng bàn tay, để lại cả dấu cắn móng…… không biết\nbao giờ em đã quên cả trời đất…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "あ……掌、爪の跡、ついちゃいました……。\n気づいたら、無我夢中で……。"
+    },
+    {
+      "name": "",
+      "text": "Khi Schon Lilie bước vào Winners' Circle, tiếng vỗ tay của\ncả khán đài ôm lấy chị ấy.",
+      "jpname": "モノローグ",
+      "jptext": "シェーンリーリエがウイナーズ・サークルに\n立つと、満場の拍手が彼女を包んだ。"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Lần nữa…… được đứng ở đây, tôi thật hạnh phúc. Khì\nkhì, khung cảnh ở GI quả khác biệt……!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "また……ここに立つことができて嬉しいです。\nふふっ、GⅠでの景色は格別ですね……！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Winners' Circle của GI, đối với tôi từ lâu là một nơi xa xôi,\ntay không thể với tới…….",
+      "jpname": "シェーンリーリエ",
+      "jptext": "GⅠのウイナーズ・サークルは、私にとって\nずっと、手の届かない遠い場所でした……。"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "'Hanshin Juvenile Fillies', Triple Tiara. Nhìn các người cùng\nkhóa lên ngôi, tôi cứ lặp đi lặp lại tự vấn cùng hối tiếc.",
+      "jpname": "シェーンリーリエ",
+      "jptext": "『阪神JF』、トリプルティアラ。\n戴冠する同期を見ながら、\n反省と後悔を繰り返して。"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Dù vậy tôi vẫn không muốn bỏ cuộc. Cả cách huấn luyện\nkiểu nước ngoài, những gì có thể làm, tôi đã làm hết.",
+      "jpname": "シェーンリーリエ",
+      "jptext": "それでも諦めたくなくて。\n外国式トレーニングを取り入れたり、\nやれることは、全部やった。"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Và điều cuối cùng tôi nắm được, chính là chiến thắng tại\n'Queen Elizabeth II Cup'!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "そしてようやく掴んだのが、\n『エリザベス女王杯』での勝利でした！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "May thay đã không tự đóng khung giới hạn của mình, mà\ntheo đuổi khả năng không ngừng……!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "自分の限界を決めつけず、\n可能性を追求し続けてよかった……！"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Những lúc gần gãy đổ, tiếng cổ vũ ấm áp cùng động viên\nlà chỗ dựa của tôi.",
+      "jpname": "シェーンリーリエ",
+      "jptext": "心が折れそうになった時は、\n温かく励ましてくれる声援が支えでした。"
+    },
+    {
+      "name": "Schon Lilie",
+      "text": "Hôm nay cũng vậy, tiếng cổ vũ đã trao cho tôi sức mạnh vô\ntận! Xin chân thành cảm ơn!!",
+      "jpname": "シェーンリーリエ",
+      "jptext": "今日も、応援が私に無限の力をくれました！\nありがとうございました！！"
+    },
+    {
+      "name": "Đám khán giả",
+      "text": "'Chúc mừng vô địch Grand Prix!' 'Đây là chiến thắng em tự\nvươn tới bằng nỗ lực đó!' 'Cảm ơn đã cho thấy một lối\nthắng mạnh mẽ!'",
+      "jpname": "観客たち",
+      "jptext": "『グランプリ優勝おめでとう！』\n『あなたの努力で掴んだ勝利だよ！』\n『強い勝ち方を見せてくれてありがとう！』"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "………… Khụ! ……Khụ…… hít, hự……",
+      "jpname": "クロノジェネシス",
+      "jptext": "…………っ！\n……っふ……ひっく、ぐす……。",
+      "choice_data_list": [
+        "Chrono!?"
+      ],
+      "jpchoice_data_list": [
+        "クロノ！？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "M-mong anh tha thứ…… em nhớ lại đủ thứ, xúc động mất\nrồi…….",
+      "jpname": "クロノジェネシス",
+      "jptext": "も、申し訳ございません……\nいろいろと思い出して、感極まって……。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Thật sự…… chúc mừng chị, chị Lilie……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "本当に……おめでとうございます、\nリーリエさん……！"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Hôm nay đến xem, thật là tốt. Được chứng kiến\nchiến thắng của chị Lilie——",
+      "jpname": "クロノジェネシス",
+      "jptext": "……今日は観にきて、よかったです。\nリーリエさんの勝利に立ち会えましたし――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "và cũng quay trở lại với khởi điểm ban đầu.",
+      "jpname": "クロノジェネシス",
+      "jptext": "初心に立ち返ることができました。",
+      "choice_data_list": [
+        "Khởi điểm?"
+      ],
+      "jpchoice_data_list": [
+        "初心に？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng. Giấc mơ của em là—— sinh ra những màn kịch lịch\nsử, để lại dấu chân.",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい。私の夢は――\n歴史的なドラマを生み、蹄跡を残すこと。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Em có suy nghĩ đó, là bởi bị cuốn hút bởi những màn kịch\nlịch sử của các Mã Nương.",
+      "jpname": "クロノジェネシス",
+      "jptext": "そう思ったのは、ウマ娘たちの\n数々の歴史ドラマに魅せられたからです。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Cái đánh thấu trái tim em, khiến em rơi lệ—— là dáng hình\ncủa những Mã Nương một lòng phấn chấn vươn lên.",
+      "jpname": "クロノジェネシス",
+      "jptext": "私が胸を打たれ、涙したのは――\nひたむきに奮励するウマ娘の姿。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chị Mejiro Ryan, suýt bị đè bẹp bởi kỳ vọng khổng lồ mà\nchẳng trốn tránh, vẫn mãi đối đầu.",
+      "jpname": "クロノジェネシス",
+      "jptext": "大きな期待に潰れそうになりながら、\n逃げず挑み続けたメジロライアンさん。",
+      "color_text_info_list": [
+        "Mejiro Ryan"
+      ],
+      "jpcolor_text_info_list": [
+        "メジロライアン"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Chị Meisho Doto, dù đã gục gặc bao lần trước bá vương\nmang sức mạnh tuyệt đối, vẫn không từ bỏ……",
+      "jpname": "クロノジェネシス",
+      "jptext": "絶対的な強さを誇る覇王の前に、\n何度膝をつこうと諦めなかった\nメイショウドトウさんなど……。",
+      "color_text_info_list": [
+        "Meisho Doto"
+      ],
+      "jpcolor_text_info_list": [
+        "メイショウドトウ"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Tất cả những trăn trở cùng niềm vui mà các chị ấy trải\nqua cho đến khi nắm được giấc mơ, đều đáng yêu vô\ncùng.",
+      "jpname": "クロノジェネシス",
+      "jptext": "夢を掴むまでに生じた\n彼女たちの苦悩や歓喜のすべてが、愛おしい。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Em cũng muốn trở thành Mã Nương khiến người khác nghĩ\nvậy……",
+      "jpname": "クロノジェネシス",
+      "jptext": "私も、そう思ってもらえるような\nウマ娘になりたい……。",
+      "choice_data_list": [
+        "Ra thế. Vậy…… em đã thấy điều cần làm chưa?",
+        "Vậy. Thì…… em đã thấy điều cần làm chưa?"
+      ],
+      "jpchoice_data_list": [
+        "そうか。なら……為すべきことも見えた？",
+        "そう。なら……為すべきことも見えた？"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng. ……Em đã khiến anh lo lắng rồi.",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい。\n……ご心配をおかけしました。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Em từng nghĩ mình chẳng có tài năng đặc biệt nào để\ntạo nên màn kịch lịch sử——",
+      "jpname": "クロノジェネシス",
+      "jptext": "……自分には、歴史ドラマを作れるような\n特別な素質がないと思っていたのですが――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "hóa ra chẳng cần gì cả nhỉ.",
+      "jpname": "クロノジェネシス",
+      "jptext": "なにも、必要ないんですよね。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Để trở thành Mã Nương mà ai nhìn thấy dáng hình một lòng\nphấn đấu cũng muốn cổ vũ……",
+      "jpname": "クロノジェネシス",
+      "jptext": "ひたむきな姿を応援したくなる……\nそんなウマ娘になるためには。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Không vội vàng…… em sẽ bước tiếp theo cách của em.",
+      "jpname": "クロノジェネシス",
+      "jptext": "焦らず……私らしく進んでいきます。"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Và tin rằng, một ngày nào đó…… em sẽ trở thành người\nđược lịch sử chọn lựa……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "いつか……歴史に選ばれる私に、\nなれると信じて……！"
+    },
+    {
+      "name": "",
+      "text": "Và rồi mấy ngày sau đó——",
+      "jpname": "モノローグ",
+      "jptext": "それから数日後――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Haaaaaaa!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はぁあああああっ！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Chrono Genesis đã thoát lên! Thứ nhất, là Chrono Genesis!",
+      "jpname": "実況",
+      "jptext": "クロノジェネシスが抜けた！\n1着、クロノジェネシスです！"
+    },
+    {
+      "name": "",
+      "text": "Trận mô phỏng, Chrono Genesis giành thắng lợi với diễn\nbiến hoàn hảo.",
+      "jpname": "モノローグ",
+      "jptext": "模擬レース、クロノジェネシスは\n完璧なレース展開で勝利を収めた。",
+      "choice_data_list": [
+        "Hoàn hảo, không tí phàn nàn nào!"
+      ],
+      "jpchoice_data_list": [
+        "バッチリ文句なしだったよ！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng! Em cũng cảm nhận được chắc chắn rằng hôm nay\nem đã có được lối chạy tốt……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "はい！　私も、今日はいい走りができた\n手応えがありました……！",
+      "choice_data_list": [
+        "Giữ nguyên phong độ này chạy xuyên đến mùa thu nào!"
+      ],
+      "jpchoice_data_list": [
+        "秋までこの調子で突っ走ろう！"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Vâng. Mùa hè này sẽ rèn cả tâm lẫn thể——",
+      "jpname": "クロノジェネシス",
+      "jptext": "ええ。\nこの夏は心身ともに鍛えて――"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "để 'Shuka Sho' đến với một Chrono Genesis trưởng thành\nmạnh mẽ……!",
+      "jpname": "クロノジェネシス",
+      "jptext": "逞しくなったクロノジェネシスで\n『秋華賞』を迎えたいです……！"
+    }
+  ]
+}
