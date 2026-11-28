@@ -1,0 +1,674 @@
+{
+  "title": "Vì sao tôn vinh vĩ nghiệp của bậc Vương",
+  "jptitle": "王の偉業を称える星",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Orfevre đã trở thành Tam Miện Mã Nương vĩ đại. Những thành tựu cô ấy để lại, thật đỗi to lớn――",
+      "jpname": "モノローグ",
+      "jptext": "偉大なる三冠ウマ娘となったオルフェーヴル。\n彼女の残した功績は、実に偉大だ――",
+      "choice_data_list": [
+        "(Thứ Mã Nương như thế này, đâu còn ai nữa!)"
+      ],
+      "jpchoice_data_list": [
+        "（こんなウマ娘、他にいない！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Muốn làm gì đó để tôn vinh vĩ nghiệp của Orfevre... đang nghĩ vậy thì tôi nhận được lời triệu gọi từ chính Orfevre――",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの偉業を称えるため、\n何かしたい……そう考えていたところ、\nオルフェーヴルから呼び出しを受けた――",
+      "choice_data_list": [
+        "(Cơ hội rồi! Cố hết sức đáp ứng thôi...!)"
+      ],
+      "jpchoice_data_list": [
+        "（チャンスだ！頑張って応えよう……！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy mang về đây một vì sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "星をもって参れ。",
+      "choice_data_list": [
+        "............Hả?"
+      ],
+      "jpchoice_data_list": [
+        "…………え？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vì sao đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "星だ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trên trời có bao nhiêu là. Chọn vì sao sáng nhất mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "空に、いくらでもあろう。\n一等光るものがいい。",
+      "choice_data_list": [
+        "(Quả thật là vì sao thật...!)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり本物の星……！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Mau bắt đầu. Ta sẽ trang hoàng thành lũy của ta bằng những vì sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "疾く始めよ。\n余の居城を、星で飾るのだ。"
+    },
+    {
+      "name": "",
+      "text": "Ủy ban Hỗ trợ Viễn chinh nơi Dream Journey công tác... phòng làm việc của ủy ban ấy đã hóa thành căn cứ của Orfevre.",
+      "jpname": "モノローグ",
+      "jptext": "ドリームジャーニーの所属する\n遠征支援委員会……その委員会室は、\nオルフェーヴルの根城と化している。",
+      "choice_data_list": [
+        "(Bảo mang vì sao đến đây cơ à...!？)"
+      ],
+      "jpchoice_data_list": [
+        "（ここに、星を持ってこいと……！？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cô ngày nào cũng buông đủ loại yêu cầu quá quắt... nhưng lần này quy mô đã vượt quá giới hạn. Mà nhìn biểu cảm thì――",
+      "jpname": "モノローグ",
+      "jptext": "彼女は日々、様々な無茶を言うが……\n今回のスケールは度を越している。\nしかも、表情を見る限り――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sao thế. Đi đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "どうした。\n行け。",
+      "choice_data_list": [
+        "(Nghiêm túc thật rồi...!)"
+      ],
+      "jpchoice_data_list": [
+        "（本気だ……！）"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Trainer-san. ――Khoan đã.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "トレーナーさん。\n――ちょっと。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Như bạn thấy đấy, hôm nay là... \"Ngày Vương quyền chuyên chế siêu tuyệt đối\".",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ご覧の通り、本日は……\n『超絶対王政の日』でして。",
+      "choice_data_list": [
+        "\"Ngày Vương quyền chuyên chế siêu tuyệt đối\"!?"
+      ],
+      "jpchoice_data_list": [
+        "『超絶対王政の日』！？"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Or vốn là Vương nên ngày thường đã tự do tung tăng rồi.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "オルは王ですから、常日頃から\nのびのびと振る舞っております。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Cộng thêm cái tài làm nũng của \"người em gái\" vốn bẩm sinh nằm trong con bé ấy thì――",
+      "jpname": "ドリームジャーニー",
+      "jptext": "そこに、あの子に本質的に備わっている、\n“妹”としての甘え上手が重なると――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sau vì sao thì... sẽ ngủ trong dải ngân hà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "星の次は……\n銀河で眠るか。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Phù phù... Này, hoành tráng lắm đúng không?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ふふ……\nねえ、壮大でしょう？"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ngày Or vui hơn mọi ngày, tôi đùa gọi là \"Ngày Vương quyền chuyên chế siêu tuyệt đối\" đấy.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "オルがいつも以上にご機嫌になる日を、\n戯れに『超絶対王政の日』と呼んでいます。",
+      "choice_data_list": [
+        "(...Trả lời đâu có kịp!)"
+      ],
+      "jpchoice_data_list": [
+        "（……ツッコミが追いつかない！）"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ngày xưa, con bé còn đòi cả ngai vàng bằng vàng. Tôi cùng cha con đã phấp phỏng chạy đôn đáo để thực hiện đấy.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "過去には、黄金の玉座を望まれまして。\n実現に向け、父と奔走したものです。",
+      "choice_data_list": [
+        "Khốn khổ thật...",
+        "Khốn khổ thật đấy..."
+      ],
+      "jpchoice_data_list": [
+        "大変だったな……",
+        "大変だったね……"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Không hề đâu. Ngược lại, tôi còn thấy biết ơn nữa.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "いいえ、そんなことは。\nむしろ、ありがたいですよ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vì có thể nghe được cái đòi hỏi cấp độ tối thượng của Or mà.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "オルの最上級の、\nわがままを聞けるのですから。",
+      "choice_data_list": [
+        "Ừ-Ừ, ra là vậy à?"
+      ],
+      "jpchoice_data_list": [
+        "な、なるほど？"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Nào, đây là lúc khoe tay nghề đã rèn giũa suốt ba năm qua rồi.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "さあ、この3年間で鍛え上げた\n腕の見せ所ですよ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vì sao mà vị Vương mong muốn... Xin hãy dâng lên.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "王の望む星を……\nどうぞ、捧げてください。"
+    },
+    {
+      "name": "",
+      "text": "Dù được nói thế... về mặt vật lý, mang một vì sao thật đến ngay bây giờ là bất khả thi. Nhưng trong tôi có một ý muốn đáp ứng hết mức có thể.",
+      "jpname": "モノローグ",
+      "jptext": "とは言われても……物理的に、今すぐ\n本物の星を持ってくることは不可能だ。\nだが、可能な限り応えたい思いがある。",
+      "choice_data_list": [
+        "(Vì Orfevre, cô ấy quá đỗi phi thường mà!)"
+      ],
+      "jpchoice_data_list": [
+        "（だってオルフェは、すごすぎる！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Với tư cách Tam Miện Mã Nương, cô đã lập nên thành tích sánh vai những Mã Nương danh tiếng của quá khứ. Cô ấy đúng nghĩa―― một truyền thuyết.",
+      "jpname": "モノローグ",
+      "jptext": "三冠ウマ娘として、\n過去の名ウマ娘たちと並ぶ功績を打ち立てた。\n彼女はまさしく――伝説だ。",
+      "choice_data_list": [
+        "(Truyền thuyết... nếu vậy thì!)"
+      ],
+      "jpchoice_data_list": [
+        "（伝説……だったら！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lúc này ở \"chỗ ấy\" chắc chắn đang có buổi chuyên đề về các Mã Nương truyền thuyết. Đương nhiên ở đó... cũng có Vương.",
+      "jpname": "モノローグ",
+      "jptext": "ちょうど今、“あの場所”で――\n伝説のウマ娘の特集が行われているはずだ。\n無論そこには……王もいる。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Vậy ra.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――それで。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta đã truyền rằng mang vì sao về thành lũy của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余は、星を居城へと伝えたが。",
+      "choice_data_list": [
+        "Nơi đây chính là thành lũy của cô",
+        "Nơi đây chính là thành lũy của cô đấy"
+      ],
+      "jpchoice_data_list": [
+        "ここが、君の居城だ",
+        "ここが、貴方の居城だよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nơi chúng tôi đến là... nơi Orfevre cùng tôi lần đầu tiên cùng nhau hướng tới. Bảo tàng nơi cô từng hùng hổ tuyên bố sẽ trở thành Tam Miện Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "やってきたのは、オルフェーヴルと……\n初めてともに向かった場所。彼女が、\n三冠ウマ娘になると豪語したミュージアムだ。"
+    },
+    {
+      "name": "",
+      "text": "Lần ấy, tôi đã cùng cô ngắm nhìn gian trưng bày của các Mã Nương truyền thuyết. Nhưng giờ đây, cô không còn ở phía người nhìn nữa―― cô ấy thuộc phía \"được nhìn\".",
+      "jpname": "モノローグ",
+      "jptext": "あの時、伝説のウマ娘たちの展示を見た。\nしかし、今はもう見る側ではない――\n彼女は、“見られる”側だ。",
+      "choice_data_list": [
+        "Và đây chính là... vì sao đấy",
+        "Và đây chính là... vì sao đấy nhé"
+      ],
+      "jpchoice_data_list": [
+        "そしてこれが……星だ",
+        "そしてこれが……星だよ"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "!",
+      "jpname": "オルフェーヴル",
+      "jptext": "！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Tượng bán thân của ta sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……余の、胸像か。"
+    },
+    {
+      "name": "",
+      "text": "Những Mã Nương truyền thuyết mà Orfevre từng nhìn xuống bằng con mắt kiêu hãnh xưa kia... giờ trong hàng ngũ ấy, tượng bán thân của chính cô cũng được xếp vào.",
+      "jpname": "モノローグ",
+      "jptext": "かつて、オルフェーヴルが睥睨した\n伝説のウマ娘たち……その並びに、\n彼女自身の胸像も加わっていた。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Quả nhiên. Đã vắt óc để nghĩ ra đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "なるほど。\n頭を捻ったな。",
+      "choice_data_list": [
+        "Sáng nhất đấy, đúng không?",
+        "Sáng nhất đấy, đúng không nào?"
+      ],
+      "jpchoice_data_list": [
+        "一等、光ってるだろう？",
+        "一等、光ってるでしょう？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Phù...",
+      "jpname": "オルフェーヴル",
+      "jptext": "フ……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Tên khôn lỏi. Nhưng―― cũng chẳng tệ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "狡猾な奴め。\nだが――悪くない。"
+    },
+    {
+      "name": "",
+      "text": "Cười như thế, Orfevre nhìn vĩ nghiệp của mình. Vết sáng cô in lại sẽ còn tiếp tục tỏa sáng trên chặng đường phía trước――",
+      "jpname": "モノローグ",
+      "jptext": "そう笑って、自身の偉業を見つめる\nオルフェーヴル。彼女の光跡は、\nこの先も輝き続けるだろう――"
+    },
+    {
+      "name": "",
+      "text": "Orfevre ngoài Tam Miện Classic... còn chiến thắng cả chuỗi Tam Miện của cấp Senior, vẻ vang trở thành Tam Miện Mã Nương kép.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは、クラシック三冠の他に……\nシニア級にもある三冠レースを勝利し、\n見事ふたつの三冠ウマ娘となったのだ。"
+    },
+    {
+      "name": "",
+      "text": "Muốn tôn vinh cô ấy như thế, có lẽ chỉ vì sao thôi mới đủ sức.",
+      "jpname": "モノローグ",
+      "jptext": "そんな彼女を称えるには、\nやはり星くらいのものではないと\n足りないのかもしれない。",
+      "choice_data_list": [
+        "(Vì sao trên trời, mang xuống đất thế nào đây――)"
+      ],
+      "jpchoice_data_list": [
+        "（空にある星を、どう地上へ――）"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Haaa-hahaha!!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "はぁーっはっはー！！"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Nào, Rob Roy-kun!! Nhiều hơn nữa! Hãy càng lúc càng trơn tru như dòng chảy nhé!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "さあ、ロブロイ君！！\nもっとだ！　もーっと流れるように頼むよ！"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Đây là tái hiện ngôi sao chổi! Vì là cảnh trọng yếu báo tin anh hùng đã khuất cho thần dân mà!",
+      "jpname": "テイエムオペラオー",
+      "jptext": "彗星の再現だ！　英雄の死を\n民衆に告げる、重要なシーンだからね！"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "V-Vâng...! Ừm, như ngôi sao ấy...!",
+      "jpname": "ゼンノロブロイ",
+      "jptext": "は、はい……！\nええと、星のように……！",
+      "choice_data_list": [
+        "...!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhìn hai người, tôi bỗng nảy ra ý nghĩ. Vì sao đâu phải chỉ có trên trời――",
+      "jpname": "モノローグ",
+      "jptext": "ふたりを見ていて思いついた。星は何も、\n空ばかりにあるのではない――",
+      "choice_data_list": [
+        "(Hãy nhờ mọi người giúp sức!)"
+      ],
+      "jpchoice_data_list": [
+        "（みんなに協力してもらおう！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Vậy ra, vì sao ở đâu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――それで、星はどこにある。",
+      "choice_data_list": [
+        "Nhìn ra ngoài đi",
+        "Nhìn ra ngoài đi nhé"
+      ],
+      "jpchoice_data_list": [
+        "外を見てくれ",
+        "外を見て"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngoài kia?",
+      "jpname": "オルフェーヴル",
+      "jptext": "外？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...! Cái này là――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……！\nこれは――"
+    },
+    {
+      "name": "Các bầy tôi và fan",
+      "text": "Ngài Orfevre ơi!! Orfevreeee!!",
+      "jpname": "臣下やファンたち",
+      "jptext": "オルフェーヴル様～～！！\nオルフェーーーー！！"
+    },
+    {
+      "name": "",
+      "text": "Lắc lư dưới chân là vô số đèn penlight của các bầy tôi và fan của Orfevre. Trông như thể những vì sao lấp lánh trên mặt đất.",
+      "jpname": "モノローグ",
+      "jptext": "眼下で揺れるのは、オルフェーヴルの臣下や\nファンのたくさんのペンライトだ。\nまるで地上に輝く、星々のように見えた。"
+    },
+    {
+      "name": "",
+      "text": "Tôn vinh vĩ nghiệp của Orfevre, đồng thời muốn thực hiện ước nguyện của cô ấy... lời cầu xin ấy đã nhận được sự ủng hộ của rất nhiều người yêu mến cô.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの偉業を称え、\nかつ彼女の望みを叶えたい……そのお願いに、\n彼女を慕う多くの人が賛同してくれたのだ。",
+      "choice_data_list": [
+        "Tất cả là những vì sao được dâng cho cô",
+        "Tất cả là những vì sao được dâng lên cho cô"
+      ],
+      "jpchoice_data_list": [
+        "全て君に捧げられた星だ",
+        "全て貴方に捧げられた星だよ"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ra là vậy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……なるほど。",
+      "choice_data_list": [
+        "Từng tấm lòng từng tấm lòng đều đang lấp lánh đấy, đúng không?",
+        "Từng tấm lòng từng tấm lòng đều đang lấp lánh đấy, đúng không nào?"
+      ],
+      "jpchoice_data_list": [
+        "ひとつひとつの想いが輝いてるだろう？",
+        "ひとつひとつの想いが輝いてるでしょう？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ý tưởng tầm thường đấy. Nhưng...",
+      "jpname": "オルフェーヴル",
+      "jptext": "……凡な着想だ。\nだが……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Muốn ngắm cảnh nhìn từ thành nữa. Đi thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "居城からの眺めも見たい。\n行くぞ。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre vẫn kiêu ngạo càn rỡ. Tuy nhiên, những vì sao chất chứa tấm lòng thần dân này... dường như đã là món quà thỏa mãn với cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは傍若無人だ。しかし、\nこの臣民の想いの詰まった星々は……\n彼女にとって十分な贈り物だったようだ。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre chẳng riêng gì Tam Miện Classic... còn có Tam Miện Senior mùa xuân gồm \"Osaka Cup\", \"Tenno Sho (Mùa Xuân)\", \"Takarazuka Kinen\", và hơn thế nữa――",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルはクラシック三冠のみならず、\n『大阪杯』『天皇賞（春）』『宝塚記念』の\n春シニア三冠、さらに――",
+      "color_text_info_list": [
+        "Osaka Cup",
+        "Tam Miện Senior mùa xuân"
+      ],
+      "jpcolor_text_info_list": [
+        "大阪杯",
+        "春シニア三冠"
+      ]
+    },
+    {
+      "name": "",
+      "text": "...còn gặt kỳ tích siêu việt vô song, hoàn thành cả Tam Miện Senior mùa thu gồm \"Tenno Sho (Mùa Thu)\", \"Japan Cup\", \"Arima Kinen\"...!",
+      "jpname": "モノローグ",
+      "jptext": "『天皇賞（秋）』『ジャパンカップ』\n『有馬記念』の秋シニア三冠を達成する、\n比類なき超偉業を成し遂げたのだから……！",
+      "choice_data_list": [
+        "(Muốn dâng lên vì sao xứng đáng với cô ấy!)"
+      ],
+      "jpchoice_data_list": [
+        "（彼女に相応しい星を、捧げたい！）"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho (Mùa Thu)",
+        "Tam Miện Senior mùa thu"
+      ],
+      "jpcolor_text_info_list": [
+        "天皇賞（秋）",
+        "秋シニア三冠"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Khoảnh khắc ấy, tôi chợt nghĩ. Một vì sao xứng đáng với cô ấy, người đã lập nên thành tích phi thường đến thế. ...Có thứ như thế tồn tại sao?",
+      "jpname": "モノローグ",
+      "jptext": "――その時、ふと考える。ここまでの、\nとんでもない実績を作った彼女に相応しい星。\n……そんなものが、あるのだろうか？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nhanh ghê.",
+      "jpname": "オルフェーヴル",
+      "jptext": "早いな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trời còn chưa sập tối, ngươi đã có vì sao bằng cách nào?",
+      "jpname": "オルフェーヴル",
+      "jptext": "まだ日のあるうちに、\nどう星を手にした？",
+      "choice_data_list": [
+        "Vì sao sáng nhất, ở ngay đây"
+      ],
+      "jpchoice_data_list": [
+        "一等光る星は、ここにある"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Là ta sao?",
+      "jpname": "オルフェーヴル",
+      "jptext": "余か。",
+      "choice_data_list": [
+        "!"
+      ],
+      "jpchoice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngươi nói đúng. Chẳng có vì sao nào sáng hơn ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様は正しい。\n私より光る星はない。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nhưng ta đã bảo \"mang về\" vì sao. Ngươi định làm gì?",
+      "jpname": "オルフェーヴル",
+      "jptext": "だが、私は星を“持ってこい”と言った。\nどうする？",
+      "choice_data_list": [
+        "...Vì vậy, tôi đã chuẩn bị thứ mang cùng giá trị"
+      ],
+      "jpchoice_data_list": [
+        "……だから、同じ価値のものを用意した"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Hô?",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ほう？"
+    },
+    {
+      "name": "",
+      "text": "Nói tiếp phần sau quả là ngại hết sức. Nhưng nếu là vì sao ngoài Orfevre ra... tôi chỉ nghĩ đến được mỗi một thứ này.",
+      "jpname": "モノローグ",
+      "jptext": "この先を言うのは、かなり恥ずかしい。\nしかし、オルフェーヴル以外の星……\nとなると、これしか思い浮かばなかった。",
+      "choice_data_list": [
+        "............Tôi, ạ!",
+        "............Là tôi, ạ!"
+      ],
+      "jpchoice_data_list": [
+        "…………俺、です！",
+        "…………私、です！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sánh vai Orfevre trên đỉnh cao... nếu có một vì sao xứng đáng với cô ấy―― thì chỉ có duy nhất bản thân tôi với tư cách Trainer.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルと、頂点に並び立てる……\n彼女に相応しい星があるとすれば――\nトレーナーとしての、自分だけだ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Phù...",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふっ……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hahahahaha...!",
+      "jpname": "オルフェーヴル",
+      "jptext": "ははははは……っ！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hạ. Lời to miệng thật đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "はぁ。\n大きく出たものよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngươi là vì sao à. Vậy thì...",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様が星か。\nならば……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Ta sẽ cho ngươi rực sáng muôn đời trong vũ trụ của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――私の宇宙で、永劫に輝かせてやる。",
+      "choice_data_list": [
+        "...!!"
+      ],
+      "jpchoice_data_list": [
+        "……！！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đổi lại, dâng lên gió. Dâng lên bầu trời. Dâng lên ánh sáng―― xếp hàng trước mặt ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "代わりに、風を。空を。光を――\n余の前に並べよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy cúng dường. Đưa chúng quỳ xuống!",
+      "jpname": "オルフェーヴル",
+      "jptext": "捧げよ。\nひれ伏させるのだ！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bởi vì tất cả―― đều tồn tại để làm ta vui sướng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "すべては――私を愉しませるために、\n存在するのだから。",
+      "choice_data_list": [
+        "(Thứ Mã Nương như thế này, đâu còn ai nữa...!)"
+      ],
+      "jpchoice_data_list": [
+        "（こんなウマ娘、他にいない……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhưng cũng chính vì thế―― tôi lại không thể nào không bị Orfevre hút hồn.",
+      "jpname": "モノローグ",
+      "jptext": "だがそれ故に――オルフェーヴルに\nどうしようもなく惹かれるのだ。",
+      "choice_data_list": [
+        "...Xin vâng lệnh!"
+      ],
+      "jpchoice_data_list": [
+        "……仰せのままに！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Được.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よい。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cố gắng và lấp lánh thật nhiều―― như một vì sao sánh vai bên ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よく励め、よく閃け――\n余と並ぶ、星として。"
+    }
+  ]
+}

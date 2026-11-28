@@ -1,0 +1,48 @@
+{
+  "title": "Mệt mỏi sau trận đua",
+  "jptitle": "レース疲れ",
+  "text_block_list": [
+    {
+      "name": "Orfevre",
+      "text": "Phì......! ......Tiếp theo, rèn sức chạy trên dốc nhỉ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふっ……！\n……次は坂路で走り込み、だな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đã hiểu. Cứ ra lệnh cho ta. Ta sẽ xử lý cho thỏa đáng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "心得た。私に指示をするがいい。\n善処してやろう。",
+      "choice_data_list": [
+        "(Hình như hôm nay cô ngoan ngoãn lạ thường......)"
+      ],
+      "jpchoice_data_list": [
+        "（なんか、今日はやけに素直なような……）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sao vậy. Nhanh, đi lên dốc thôi. ......Ngươi muốn ta ra trận đua, đúng không?",
+      "jpname": "オルフェーヴル",
+      "jptext": "どうした。疾く、坂路へ向かうぞ。\n……私にレースに出てほしいのだろう？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta sẽ đáp lại mong mỏi của ngươi. Vương miện của bất cứ trận đua nào, ta cũng sẽ nắm trong tay cho xem. ......Nào――!",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様の期待に応えてやる。\n如何なるレースの栄冠も手にしてみせよう。\n……さあ――！",
+      "choice_data_list": [
+        "(C, cô đang giận đấy thôi......!?)"
+      ],
+      "jpchoice_data_list": [
+        "（お、怒ってるっ……！？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Orfevre đã tích tụ mệt mỏi qua các trận đua, có vẻ đang nổi nóng. Có lẽ cần xem lại lịch trình từ nay về sau.",
+      "jpname": "モノローグ",
+      "jptext": "レースで疲労が溜まったオルフェーヴルは、\n立腹しているようだ。\n今後の予定を見直す必要がありそうだ。"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "title": "Sức hút của Vua",
+  "jptitle": "王様のカリスマ",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Chuyện xảy ra khi ghé một nhà hàng trên đường trở về sau buổi đi chơi.",
+      "jpname": "モノローグ",
+      "jptext": "お出かけの帰りに\nレストランに立ち寄った時のこと。"
+    },
+    {
+      "name": "Nhân viên",
+      "text": "Xin lỗi đã để quý khách chờ. Mời dùng món thịt vịt quay phong cách hoàng gia, hoàn thiện bằng lớp phủ mật rỉ đường ạ.",
+      "jpname": "スタッフ",
+      "jptext": "お待たせいたしました。\nこちら糖蜜のグレーズで仕上げた\n王室風・鴨肉のローストでございます。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "うむ。"
+    },
+    {
+      "name": "",
+      "text": "Bàn tay gõ gõ lưỡi trước món ăn ngon. Nhưng mà, Orfevre thì......",
+      "jpname": "モノローグ",
+      "jptext": "美味しい料理に舌鼓を打つ。\nしかし、オルフェーヴルは……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "......Ơ? Orfevre?"
+      ],
+      "jpchoice_data_list": [
+        "……？オルフェ？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Nhân viên kia. Gọi đầu bếp đã chế biến món này đến đây.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……そこのスタッフ。\nこの料理を作ったシェフを呼べ。"
+    },
+    {
+      "name": "Nhân viên",
+      "text": "Đầu bếp ạ? À, món ăn có vấn đề gì sao ạ?",
+      "jpname": "スタッフ",
+      "jptext": "シェフをですか？\nあの、料理に何かございましたか？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta bảo gọi mà. ――Đừng hỏi nhiều.",
+      "jpname": "オルフェーヴル",
+      "jptext": "呼べと言ったのだ。\n――煩わせるな。"
+    },
+    {
+      "name": "Nhân viên",
+      "text": "――Khuỵa!! D-dạ......!",
+      "jpname": "スタッフ",
+      "jptext": "――っ！！　は、はい……！"
+    },
+    {
+      "name": "",
+      "text": "Đầu bếp đứng trước Orfevre. Bị khí sắc nặng nề cô ấy tỏa ra chụp phủ, đầu bếp hình như thu mình hoàn toàn......",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルの前にシェフが立つ。\nシェフは彼女の放つ重々しい空気にあてられ、\n完全に萎縮しているようだ……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kẻ đã chế biến món này, là ngươi đúng không?",
+      "jpname": "オルフェーヴル",
+      "jptext": "この料理を作ったのは、貴様だな？"
+    },
+    {
+      "name": "Đầu bếp",
+      "text": "D-dạ, đúng là vậy ạ......!! Ơ...... à, à, thế món ăn có sơ suất gì không ạ......?",
+      "jpname": "シェフ",
+      "jptext": "は、はいっ、左様でございます……！！\nあ……ああ、あの、何か粗相でも……？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Món thịt vịt quay này...... mỗi miếng nhai, vị ngọt đặc trưng của vịt cùng lớp mỡ lan tỏa trong miệng, rồi tan dần. Thời gian lửa chính xác đến tuyệt hảo.",
+      "jpname": "オルフェーヴル",
+      "jptext": "この鴨肉のロースト……噛むほどに鴨独特の\n旨味と脂が口の中に広がり、やがて溶ける。\n絶妙な火加減だ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Điểm đỉnh là lớp phủ mật rỉ. Vị ngọt dịu mang đến độ sâu quyến rũ cho thịt, khiến người ăn thích thú.",
+      "jpname": "オルフェーヴル",
+      "jptext": "極めつきは糖蜜のグレーズ。ほのかな甘みが\n肉に深いコクを与え、楽しませてくれる。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kỹ nghệ khiến lưỡi ta phải thán phục, ta khen thưởng. Từ nay, cứ tiếp tục theo đuổi những đĩa tuyệt hảo đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余の舌を唸らせたその腕前、褒めて遣わす。\n今後も至極の一皿を追い求めるがよい。"
+    },
+    {
+      "name": "Đầu bếp",
+      "text": "......! K-khoái lạc đến cực điểm ạ! Bề thân này sẽ hết sức, hướng đến tầm cao hơn nữa của ẩm thực, hết lòng rèn luyện ạ......!",
+      "jpname": "シェフ",
+      "jptext": "～～……ッ！　きょ、恐悦至極にございます！\nこの身を尽くし、料理の更なる高みを目指し、\n精進して参る所存でございます……！"
+    },
+    {
+      "name": "",
+      "text": "Đầu bếp ngước lệ sung sướng, cúi mũ bếp rồi quỳ xuống. Có lẽ bị cảm hóa, các nhân viên khác cũng cung kính cúi đầu.",
+      "jpname": "モノローグ",
+      "jptext": "シェフは歓喜の涙を浮かべながら、\nコック帽子を脱いで跪いた。感化されたのか、\n他のスタッフたちも恭しく首を垂れる。",
+      "choice_data_list": [
+        "(C-cảnh tượng này bá đạo quá......)"
+      ],
+      "jpchoice_data_list": [
+        "（す、すごい光景だな……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Sau đó, trên đường trở về học viện sau bữa ăn......",
+      "jpname": "モノローグ",
+      "jptext": "その後、食事を終えて学園に戻る途中……。",
+      "choice_data_list": [
+        "......Ơ? Cái ví đâu......!"
+      ],
+      "jpchoice_data_list": [
+        "……あれ？財布がない……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Lúc thanh toán còn có. Vậy chắc là ở quán.",
+      "jpname": "オルフェーヴル",
+      "jptext": "支払いの時は持っていた。\nならば店であろう。",
+      "choice_data_list": [
+        "Chắc thế! Để tôi chạy về lấy!"
+      ],
+      "jpchoice_data_list": [
+        "そうかも！ちょっと取ってくる！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "May mắn, cái ví nhanh chóng được tìm thấy. Vội vàng trở lại chỗ đã chia tay với Orfevre, thì ở đó đã hình thành một đám đông.",
+      "jpname": "モノローグ",
+      "jptext": "幸い、財布はすぐに見つかった。\n急いでオルフェーヴルと別れた場所に戻ると、\nそこには人だかりができていた。"
+    },
+    {
+      "name": "",
+      "text": "(Xi xì xộn xào......!)",
+      "jpname": "モノローグ",
+      "jptext": "（ザワザワザワ……！）",
+      "choice_data_list": [
+        "Cái, đám đông này là sao......?",
+        "Gì thế, đám đông này......?"
+      ],
+      "jpchoice_data_list": [
+        "なんだ、この人だかり……？",
+        "なに、この人だかり……？"
+      ]
+    },
+    {
+      "name": "Fan của Orfevre",
+      "text": "Được gặp ngài ở nơi như thế này, quả là vinh hạnh tột cùng......! Cái dáng vẻ tôn quý kia, xin cho phép tôi khắc ghi vào mắt ạ......?",
+      "jpname": "オルフェのファン",
+      "jptext": "このような場所で貴方様にお会いできるとは、\n幸甚の至りでございます……！　その御姿、\n目に焼き付けてもよろしいでしょうか……？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Được. Ta cho phép.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よい。許す。"
+    },
+    {
+      "name": "Fan của Orfevre",
+      "text": "D...... dạ vâng!! Lòng bao dung rộng lượng, niềm hạnh phúc tột cùng ạ......!",
+      "jpname": "オルフェのファン",
+      "jptext": "は……ははーーっ！　寛大なるお心遣い、\nこの上ない幸せにございます……！"
+    },
+    {
+      "name": "Người phụ nữ A",
+      "text": "Mái tóc vàng tôn quý đang lấp lánh chói lóa......! Dáng vẻ thần thánh đến mức nào nữa cơ chứ......!",
+      "jpname": "女性A",
+      "jptext": "黄金の御髪が眩く輝いているわ……！\nなんと神々しい御姿であられるのかしら……！"
+    },
+    {
+      "name": "Người phụ nữ B",
+      "text": "Ôi, ngay cả việc ngước mặt lên cũng đáng sợ quá! Chỉ được ở trong cùng không gian đã là vinh dự quá sức ạ......!",
+      "jpname": "女性B",
+      "jptext": "ああ、面を上げることさえ恐れ多い！\n同じ空間にいるだけで身に余る光栄よ……！"
+    },
+    {
+      "name": "",
+      "text": "Những người tụ tập hoàn toàn bị mê hoặc bởi sức hấp dẫn của Orfevre. Trước sức quyến rũ ấy, một lần nữa mình thán phục.",
+      "jpname": "モノローグ",
+      "jptext": "集まった人々はオルフェーヴルの魅力に\nすっかり惹かれている。\nそのカリスマ性に改めて感心する。",
+      "choice_data_list": [
+        "(Quả nhiên Orfevre bá đạo thật......!)",
+        "(Quả nhiên Orfevre bá đạo......!)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱりオルフェはすごいな……！）",
+        "（やっぱりオルフェはすごい……！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Cuối cùng cũng trở về à. Trainer.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……やっと戻ったか。\nトレーナー。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đứng đấy làm cái gì? Mau, đến cạnh ta đây.",
+      "jpname": "オルフェーヴル",
+      "jptext": "そこで何をしている？\n疾く、私の下へ参れ。"
+    },
+    {
+      "name": "Mọi người",
+      "text": "――Ơ? Người đó, được gọi ạ? ――Người bình thường kia cơ á......?",
+      "jpname": "人々",
+      "jptext": "――え？　あの人、呼ばれているの？\n――あの普通の人が……？"
+    },
+    {
+      "name": "",
+      "text": "Mọi ánh nhìn đổ dồn vào mình cùng lúc. Cảm giác đứng ở đó như kẻ lạc chỗ, vô thức căng thẳng......",
+      "jpname": "モノローグ",
+      "jptext": "人々の視線が一斉に自分に向かう。\nそこにいるのが場違いなように感じ、\n思わず緊張してしまうが……。",
+      "choice_data_list": [
+        "(Dù vậy vẫn được gọi, vậy cứ đi thôi)",
+        "(Mình có được đứng cạnh cô ấy không nhỉ......?)",
+        "(Mình có thể đứng cạnh cô ấy được không nhỉ......?)"
+      ],
+      "jpchoice_data_list": [
+        "（それでも呼ばれているのだから、行こう）",
+        "（俺が隣に立っていいのかな……？）",
+        "（私が隣に立っていいのかな……？）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mọi ánh nhìn đổ dồn vào mình cùng lúc. Cảm giác đứng ở đó như kẻ lạc chỗ, vô thức căng thẳng......",
+      "jpname": "モノローグ",
+      "jptext": "人々の視線が一斉に自分に向かう。\nそこにいるのが場違いなように感じ、\n思わず緊張してしまうが……。",
+      "choice_data_list": [
+        "(Dù vậy vẫn được gọi, vậy cứ đi thôi)",
+        "(Mình có được đứng cạnh cô ấy không nhỉ......?)",
+        "(Mình có thể đứng cạnh cô ấy được không nhỉ......?)"
+      ],
+      "jpchoice_data_list": [
+        "（それでも呼ばれているのだから、行こう）",
+        "（俺が隣に立っていいのかな……？）",
+        "（私が隣に立っていいのかな……？）"
+      ]
+    },
+    {
+      "name": "Mọi người",
+      "text": "――U kìa, ghen tị chết đi được! ――Lại còn được đứng cạnh người tôn quý đó nữa cơ......!",
+      "jpname": "人々",
+      "jptext": "――ウギギ、羨ましいったらありゃしないわ！\n――あの御方のお側に立てるだなんて……！"
+    },
+    {
+      "name": "",
+      "text": "Quyết tâm, tiến về phía cô ấy. Trong lúc đó, mỗi tiếng ghen tị nổi lên từ xung quanh, mình lại cảm nhận sâu sắc.",
+      "jpname": "モノローグ",
+      "jptext": "意を決して、彼女の下へ近づく。\nその間、周囲から羨望の声があがるたびに\nしみじみと実感する。",
+      "choice_data_list": [
+        "(Mã Nương mà mình đảm nhận là một Mã Nương đặc biệt nhỉ)",
+        "(Mã Nương mình đảm nhận, thật sự là một Mã Nương đặc biệt)"
+      ],
+      "jpchoice_data_list": [
+        "（俺が担当するのは特別なウマ娘なんだな）",
+        "（私が担当するのは特別なウマ娘なんだ）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Cái thái độ khiếp sợ ấy. Thật khiến người bực bội.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……その恐々とした態度。\n腹立たしいな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy chứng minh bằng cả thân này. Vinh dự được hầu hạ ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "その身で示せ。\n私に仕える誉れを。",
+      "choice_data_list": [
+        "......! À, à ừm......!",
+        "......! U-ừ......!"
+      ],
+      "jpchoice_data_list": [
+        "……！あ、ああ……！",
+        "……！う、うん……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "'Mình là Trainer đảm nhận Orfevre' ――Ôm chặt vinh dự ấy vào lòng, mình đứng cạnh cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "『自分はオルフェーヴルの担当トレーナーだ』\n――その誉れを強く胸に抱いて、\n彼女の隣に立つのだった。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Còn do dự cái gì.",
+      "jpname": "オルフェーヴル",
+      "jptext": "何を躊躇している。",
+      "choice_data_list": [
+        "Cô chói lóa quá nên, vô tình......",
+        "Cô lóa mắt quá nên, cứ thế......"
+      ],
+      "jpchoice_data_list": [
+        "君が眩しすぎて、つい……",
+        "貴方が眩しすぎて、つい……"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Câu chuyện phi lý.",
+      "jpname": "オルフェーヴル",
+      "jptext": "異なことを。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ngươi, là kẻ tồn tại để hầu bên hạ của ta mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様は、\n余の傍らに控えるための存在であろう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đừng làm ta phiền lòng. ――Lại đây.",
+      "jpname": "オルフェーヴル",
+      "jptext": "私を煩わせるな。\n――来い。",
+      "choice_data_list": [
+        "――......Ừm!",
+        "――......Ok!"
+      ],
+      "jpchoice_data_list": [
+        "――……ああ！",
+        "――……うん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Là Trainer đảm nhận cô ấy, phải tự tin hơn nữa...... Vừa thề với lòng như thế, mình bước đến gần.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の担当としてもっと堂々としよう……。\nそう心に誓いながら、歩み寄るのだった。"
+    }
+  ]
+}

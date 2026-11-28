@@ -1,0 +1,42 @@
+{
+  "title": "Do thiếu ngủ......",
+  "jptitle": "寝不足で……",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Buổi họp đầu tiên sau kỳ nghỉ――",
+      "jpname": "モノローグ",
+      "jptext": "休み明け一発目のミーティングにて――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Ta sẽ chợp mắt trưa.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――午睡をとる。",
+      "choice_data_list": [
+        "Ơ!? Còn buổi họp thì......!?"
+      ],
+      "jpchoice_data_list": [
+        "えっ！？ミーティングは……！？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Dời sang ngày khác đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――日を改めろ。"
+    },
+    {
+      "name": "",
+      "text": "......Có lẽ trong kỳ nghỉ cô ấy đã không ngủ được ngon. Dù sao thì, buổi họp lúc nào cũng làm được, nên cứ ưu tiên tình trạng sức khỏe của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "……休み中、よく眠れなかったのだろうか。\n何にせよ、ミーティングはいつでも\nできるので、体調を優先してもらおう。"
+    }
+  ]
+}

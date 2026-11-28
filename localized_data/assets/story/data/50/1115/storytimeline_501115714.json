@@ -1,0 +1,196 @@
+{
+  "title": "Tuyệt đối không liều!",
+  "jptitle": "無茶は厳禁！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Tôi vội vã đưa Orfevre bị chấn thương lao thẳng vào phòng y tế.",
+      "jpname": "モノローグ",
+      "jptext": "ケガをしたオルフェーヴルを連れて、\n急いで保健室に駆け込んだ。"
+    },
+    {
+      "name": "",
+      "text": "Theo bác sĩ, đây là chấn thương cần nghỉ ngơi một thời gian......",
+      "jpname": "モノローグ",
+      "jptext": "医者の話では、しばらくは安静にすべき\nケガとのことだが……。",
+      "choice_data_list": [
+        "Cô có đau lắm không!?"
+      ],
+      "jpchoice_data_list": [
+        "痛みは大丈夫！？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "................",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Quả là bất kính đấy. Kẻ này biết ta là ai chứ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "不敬であるぞ。\n私を誰と心得るか。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta sẽ đi. Nếu thận trọng từng chút, việc rèn luyện chẳng có gì vướng víu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "征くぞ。細心の注意を払えば、\n鍛錬に支障はない。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sâm la vạn tượng, chẳng gì chặn nổi bá đạo của ta. ...... đó chính là chân lý.",
+      "jpname": "オルフェーヴル",
+      "jptext": "森羅万象、我が覇道を阻めはしない。\n……それが真理だ。",
+      "choice_data_list": [
+        "Giờ đây hãy ưu tiên khỏi hẳn đã",
+        "...... Nếu thấy nguy hiểm dù chỉ một chút, tôi sẽ thẳng thắn góp ý đấy",
+        "...... Có chút nguy hiểm nào thì tôi sẽ góp ý ngay đấy nhé"
+      ],
+      "jpchoice_data_list": [
+        "今は完治を最優先にしよう",
+        "……少しでも危なかったら、提言するぞ",
+        "……少しでも危なかったら、提言するよ"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sâm la vạn tượng, chẳng gì chặn nổi bá đạo của ta. ...... đó chính là chân lý.",
+      "jpname": "オルフェーヴル",
+      "jptext": "森羅万象、我が覇道を阻めはしない。\n……それが真理だ。",
+      "choice_data_list": [
+        "Giờ đây hãy ưu tiên khỏi hẳn đã",
+        "...... Nếu thấy nguy hiểm dù chỉ một chút, tôi sẽ thẳng thắn góp ý đấy",
+        "...... Có chút nguy hiểm nào thì tôi sẽ góp ý ngay đấy nhé"
+      ],
+      "jpchoice_data_list": [
+        "今は完治を最優先にしよう",
+        "……少しでも危なかったら、提言するぞ",
+        "……少しでも危なかったら、提言するよ"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... lời ấy. Kẻ này đang khinh miệt ta đấy à?",
+      "jpname": "オルフェーヴル",
+      "jptext": "……その言葉。\n私を侮蔑しているのか？"
+    },
+    {
+      "name": "",
+      "text": "Tuyệt nhiên không phải vậy. Nhưng, chỉ riêng việc để chấn thương trầm trọng thêm là điều bắt buộc phải tránh.",
+      "jpname": "モノローグ",
+      "jptext": "決してそんなことはない。\nだが、ケガが深刻になってしまうことだけは、\n避けなければならない。",
+      "choice_data_list": [
+        "Chính vì cô là Vua nên tôi không thể để cô liều lĩnh",
+        "Càng vì cô là Vua, tôi càng không thể để cô liều lĩnh"
+      ],
+      "jpchoice_data_list": [
+        "君が王だからこそ、無理はさせられない",
+        "貴方が王だからこそ、無理はさせられない"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――――――",
+      "jpname": "オルフェーヴル",
+      "jptext": "――――――",
+      "choice_data_list": [
+        "(Chỗ này, tuyệt đối không nhượng bộ......!)"
+      ],
+      "jpchoice_data_list": [
+        "（ここは、絶対に譲れない……！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――――――...... Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――――――……フン。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta ngủ. Ngươi chuyên tâm chăm sóc ta đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "寝る。\n貴様は私の世話に専念せよ。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre đã nghỉ ngơi thật kỹ, và vết thương lành lặn an toàn.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルはしっかりと体を休め、\n無事ケガを完治させるのだった。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, Orfevre thực hiện lịch luyện nhẹ nhàng, nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "その後、オルフェーヴルは負荷の軽い\nメニューを行ったが――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... Ưp――――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ッ――――",
+      "choice_data_list": [
+        "Orfevre......!"
+      ],
+      "jpchoice_data_list": [
+        "オルフェ……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Không ngờ ta lại đánh giá sai......!",
+      "jpname": "オルフェーヴル",
+      "jptext": "よもや、読み違えるとは……！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... nỗi nhục này...... ta nhất định không quên......!",
+      "jpname": "オルフェーヴル",
+      "jptext": "……この屈辱……\n決して忘れん……！"
+    },
+    {
+      "name": "",
+      "text": "Vết thương của Orfevre lại trầm trọng hơn, khiến cô ấy đành phải nghỉ ngơi bắt buộc......",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは更にケガが深刻になって\nしまい、安静を余儀なくされるのだった……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――HAAAaaa!!",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ハアアァァァ！！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... Phù――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……フゥ――",
+      "choice_data_list": [
+        "Khí thế thật mãnh liệt......!"
+      ],
+      "jpchoice_data_list": [
+        "すごい気迫だ……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vương không khuất phục. ...... trước bất kỳ ai, bất kỳ thứ gì.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王は屈せず。\n……何者にも、何物にも。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ở mức này thì chẳng có gì đáng ngại. Tiếp tục.",
+      "jpname": "オルフェーヴル",
+      "jptext": "この程度であれば仔細ない。\n続行するぞ。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre hoàn thành huấn luyện với cả khí phách của bậc Vương, hướng tới sự khỏi hẳn trong phạm vi vừa sức.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは王の貫禄をもって\nトレーニングをこなし、無理のない範囲で\n完治を目指すのだった。"
+    }
+  ]
+}

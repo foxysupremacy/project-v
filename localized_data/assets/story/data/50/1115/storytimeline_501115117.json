@@ -1,0 +1,296 @@
+{
+  "title": "Để nói lời tạm biệt với giấc mơ",
+  "jptitle": "夢にさよならを告げるため",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày hôm ấy, Orfevre hướng đến suất dự Prix de l'Arc de Triomphe... ――một mình lên đường.",
+      "jpname": "モノローグ",
+      "jptext": "この日、オルフェーヴルは\n『凱旋門賞』出走に向け……\n――ひとり、出立する。"
+    },
+    {
+      "name": "",
+      "text": "Tiễn đi là các bầy tôi cùng Dream Journey... và cả tôi nữa.",
+      "jpname": "モノローグ",
+      "jptext": "見送りは臣下たちと、ドリームジャーニー……\nそして自分だ。"
+    },
+    {
+      "name": "Bầy tôi của Orfe A",
+      "text": "Ngài Orfevre... Chúng thần sẽ chờ đợi nơi đất này niềm vui vĩ đại mà vị Vương mang về.",
+      "jpname": "オルフェの臣下A",
+      "jptext": "オルフェーヴル様……\n王のもたらす大いなる喜びを、\nこの地でお待ちしております。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Or. ...Cứ tận hưởng đi nhé.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "オル。\n……楽しんでおいで。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ああ。"
+    },
+    {
+      "name": "",
+      "text": "Kể từ ngày tôi quyết định chia lìa, tôi vẫn cư xử với Orfevre như vẫn thường... nhưng đến tận hôm nay, chưa từng chạm đến chuyện cốt lõi.",
+      "jpname": "モノローグ",
+      "jptext": "離別を決めたあの日から、\nオルフェーヴルとは普通に接しているが……\n今日まで、核心に迫る話はしていない。"
+    },
+    {
+      "name": "Trainer nước ngoài",
+      "text": "――Hello!",
+      "jpname": "海外のトレーナー",
+      "jptext": "――Hello!"
+    },
+    {
+      "name": "",
+      "text": "Người xuất hiện tại cửa lên máy bay chính là Trainer nước ngoài sẽ trông nom Orfevre lần này. Dù bận rộn, ông vẫn cất công bay sang Nhật để đón cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "搭乗口に現れたのは、今回オルフェーヴルを\n預ける海外のトレーナーだ。忙しいなか、\nわざわざ彼女を迎えに日本まで来てくれた。",
+      "choice_data_list": [
+        "(Ông thật sự rất coi trọng chuyện này)"
+      ],
+      "jpchoice_data_list": [
+        "（それほど重要視してくれてるんだ）"
+      ]
+    },
+    {
+      "name": "Trainer nước ngoài",
+      "text": "Orfevre. Rất mong được chỉ giáo.",
+      "jpname": "海外のトレーナー",
+      "jptext": "Orfevre.\nよろしく、お願いします。",
+      "color_text_info_list": [
+        "Orfevre"
+      ],
+      "jpcolor_text_info_list": [
+        "Orfevre"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ああ。",
+      "choice_data_list": [
+        "(Orfevre cũng chẳng cảnh giác gì... may quá)"
+      ],
+      "jpchoice_data_list": [
+        "（オルフェも警戒してない……よかった）"
+      ]
+    },
+    {
+      "name": "Trainer nước ngoài",
+      "text": "Hi, bạn là Trainer của cô ấy... đúng không ạ.",
+      "jpname": "海外のトレーナー",
+      "jptext": "Hi, あなたが、\n彼女のトレーナー……ですね。",
+      "choice_data_list": [
+        "Lần đầu gặp anh. Mạn phép vào việc luôn..."
+      ],
+      "jpchoice_data_list": [
+        "初めまして。早速ですが……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vừa bắt tay, tôi vừa trao lại thêm các chi tiết về Orfevre. Thói quen, tính cách, và những điều vụn vặt mà tôi lo lắng cho giải đua――",
+      "jpname": "モノローグ",
+      "jptext": "握手を交わしつつ、オルフェーヴルについて\n改めて補足事項を伝える。彼女の癖、性格、\nそして拙いながらレースへ向けた懸念事項――"
+    },
+    {
+      "name": "",
+      "text": "――Khi tôi đang nói dài, lực bắt tay bỗng nhiên siết chặt lại.",
+      "jpname": "モノローグ",
+      "jptext": "――滔々と述べていると、\n不意に手を握る力が強くなった。"
+    },
+    {
+      "name": "Trainer nước ngoài",
+      "text": "Cảm ơn. Vì đã gửi gắm cho tôi.",
+      "jpname": "海外のトレーナー",
+      "jptext": "ありがとう。\n私に、託してくれて。"
+    },
+    {
+      "name": "Trainer nước ngoài",
+      "text": "Tôi sẽ giúp giấc mơ của nước Nhật thành hiện thực.",
+      "jpname": "海外のトレーナー",
+      "jptext": "日本の夢を、叶えます。"
+    },
+    {
+      "name": "",
+      "text": "Lời nói đầy nhiệt ấy khiến lồng ngực nóng lên. Ông hiểu rất rõ Prix de l'Arc de Triomphe mang ý nghĩa gì đối với những người chúng tôi.",
+      "jpname": "モノローグ",
+      "jptext": "その熱のこもった言葉に、胸が熱くなった。\n彼は自分たちにとって、『凱旋門賞』が\nどんなレースであるか、よく理解している。",
+      "choice_data_list": [
+        "...Mong anh chiếu cố nhiều!"
+      ],
+      "jpchoice_data_list": [
+        "……よろしくお願いします！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Đi thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……往くか。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "K-Khoan đã...!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "ま、待って……！！",
+      "choice_data_list": [
+        "Win Variation!?"
+      ],
+      "jpchoice_data_list": [
+        "ウインバリアシオン！？"
+      ]
+    },
+    {
+      "name": "Win Variation",
+      "text": "Hạa... hạa...! Khốn kiếp, vẫn kịp...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "はぁっ……はぁっ……！\nくそ、間に合った……！"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Lại còn kịp nữa...! A trời ơi, sao cứ đúng lúc thế này chứ...!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "間に合っちゃった……！\nああもう、なんでこんな時ばっか……！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ồn ào. Ta sắp đi rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "うるさい。\n余はもう、往く。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Thắng đi, Orfevre!!",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……っ、勝てよ、オルフェーヴル！！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "!",
+      "jpname": "オルフェーヴル",
+      "jptext": "！"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Người đầu tiên đội chiếc vương miện ấy... dù ấm ức, nhưng ngươi vẫn là người xứng đáng nhất.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "初めて、あの冠を被るのは……\n悔しいけど、あんたがいい。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "...Dù sao cả đời, tôi cũng sẽ bị nhắc đến cùng ngươi mà.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……どうせあたしは、\n一生あんたと一緒に語られるんだ。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Vậy thì, nếu đã thế... hãy trở thành Mã Nương vĩ đại nhất đi.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "なら、どうせなら……\n一番偉大なウマ娘に、なってくれよ。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Thắng đi. ...Cho tôi thấy ánh sáng ấy.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "勝てよ。\n……光を、見せてくれ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...Ừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ああ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đương nhiên rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "無論だ。"
+    },
+    {
+      "name": "Các bầy tôi",
+      "text": "Ngài Orfevre...! Cậy ngài xuất hành bình an ạ!!",
+      "jpname": "オルフェの臣下たち",
+      "jptext": "オルフェーヴル様……！\nいってらっしゃいませ！！"
+    },
+    {
+      "name": "",
+      "text": "Bất chợt, tôi chạm phải ánh mắt Orfevre. Muốn nói còn ngàn vạn điều... nhưng đa số đều thừa. Điều tôi muốn gửi chỉ có một――",
+      "jpname": "モノローグ",
+      "jptext": "不意に、オルフェーヴルと目が合う。\n言いたいことは山ほどあったが……\n多くは不要だ。自分の想いはひとつ――",
+      "choice_data_list": [
+        "Bởi vì tôi tin cô mà"
+      ],
+      "jpchoice_data_list": [
+        "信じてるから"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta biết.",
+      "jpname": "オルフェーヴル",
+      "jptext": "知っている。"
+    },
+    {
+      "name": "",
+      "text": "Và như thế, Orfevre... gánh trên vai kỳ vọng của cả nước Nhật, lên đường sang Pháp.",
+      "jpname": "モノローグ",
+      "jptext": "こうしてオルフェーヴルは……\n日本中の期待を背負い、\nフランスへ旅立っていった。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Trainer-san, quyết định như thế có thực sự ổn không ạ?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "トレーナーさんは、\nこれでよろしかったのですか？",
+      "choice_data_list": [
+        "Đương nhiên trong lòng tôi cũng có nhiều suy nghĩ. Nhưng――"
+      ],
+      "jpchoice_data_list": [
+        "もちろん思うところはある。でも――"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Là lựa chọn chắc chắn nhất, và tốt nhất... đúng không ạ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "最も確実で、\nベストな選択を……ですよね。",
+      "choice_data_list": [
+        "...Với bạn, đây có là lựa chọn non nớt không",
+        "...Với bạn thì đây là lựa chọn non nớt nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "……君からすれば、未熟な選択かな",
+        "……貴方からすれば、未熟な選択かな"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Không.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……いいえ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Lựa chọn của bạn, chính là lựa chọn của con bé. Tôi sẽ chẳng nói gì hết.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "貴方の選択は、あの子の選択です。\n私は何も、言いませんよ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "...Cùng dõi theo nhé. Giây phút con bé ấy thay đổi lịch sử――",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……ともに見届けましょう。\nあの子が、歴史を変えるところを――"
+    }
+  ]
+}

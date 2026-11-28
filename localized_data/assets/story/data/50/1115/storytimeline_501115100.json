@@ -1,0 +1,808 @@
+{
+  "title": "Orfevre xuất hiện!",
+  "jptitle": "オルフェーヴル登場！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "\"Vua\" - tức là danh hiệu của bậc quân chủ. Chỉ chủ quyền tối cao của một quốc gia hay một dân tộc.",
+      "jpname": "モノローグ",
+      "jptext": "“王”――即ち、君主の称号である。\nいち国家やいち民族などの、\n最高主権者を指す。"
+    },
+    {
+      "name": "",
+      "text": "Trong các từ điển thông thường, người ta ghi chép như vậy. Nhưng trong từ điển của cô ấy, chỉ có đúng một ý nghĩa duy nhất.",
+      "jpname": "モノローグ",
+      "jptext": "一般的な辞書には、そう記載されている。\nしかし、彼女の辞書には――\nただひとつの意味しか載っていない。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――\"Vua\", nghĩa là gì? Nghĩa là ta đây.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――“王”とは。\n即ち、余である。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Những ghi chép còn lại, vứt bỏ hết. Hoặc là, đốt sạch toàn bộ. Hoặc là――",
+      "jpname": "オルフェーヴル",
+      "jptext": "他の記述は捨てよ。\nあるいは、遍く燃やせ。あるいは――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy dùng chính cái tên Orfevre vĩ đại này, sơn đè lên hết!",
+      "jpname": "オルフェーヴル",
+      "jptext": "この偉大なるオルフェーヴルの名で、\n塗り潰すのだ！",
+      "color_text_info_list": [
+        "Orfevre"
+      ],
+      "jpcolor_text_info_list": [
+        "オルフェーヴル"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Orfevre. Trong thế giới mà cô ấy trị vì, nhà vua chỉ có một.",
+      "jpname": "モノローグ",
+      "jptext": "――オルフェーヴル。\n彼女の君臨する世界に、王はただひとり。"
+    },
+    {
+      "name": "",
+      "text": "Cũng ngay sau khi ký hợp đồng phụ trách với Orfevre và lịch trình trận ra mắt của cô ấy được ấn định――",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルと担当契約を交わし、\n彼女のメイクデビュー日程が決まって、\nすぐのこと――",
+      "color_text_info_list": [
+        "ra mắt"
+      ],
+      "jpcolor_text_info_list": [
+        "メイクデビュー"
+      ]
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Bạn là Trainer-san của Orfevre-san... đúng không ạ? Về phần phỏng vấn hôm nay, mong bạn giúp đỡ!",
+      "jpname": "記者",
+      "jptext": "オルフェーヴルさんのトレーナーさん……\nですよね？\n本日は取材のほう、よろしくお願いします！",
+      "choice_data_list": [
+        "Đ-được chứ, mong bạn chiếu cố!"
+      ],
+      "jpchoice_data_list": [
+        "よ、よろしくお願いします！"
+      ]
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Nhân tiện, tôi hỏi luôn nhé...... ...Orfevre-san đang ở đâu vậy?",
+      "jpname": "記者",
+      "jptext": "ところで、早速なのですが……\n……オルフェーヴルさんは、いずこに？",
+      "choice_data_list": [
+        "Thì, ừm cái đó là......"
+      ],
+      "jpchoice_data_list": [
+        "その、ええとですね……"
+      ]
+    },
+    {
+      "name": "Bầy tôi của Orfe A",
+      "text": "Vị khách đằng kia kìa! \"Vua\" đang ngang qua đây! Xin hãy nhường đường!",
+      "jpname": "オルフェの臣下A",
+      "jptext": "そこの御仁！\n“王”のお通りです！　退いてください！"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "......!? C-chuyện gì thế này......!?",
+      "jpname": "記者",
+      "jptext": "……！？\nな、何事……！？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。",
+      "choice_data_list": [
+        "Orfevre! Suốt từ nãy giờ cô đi đâu――"
+      ],
+      "jpchoice_data_list": [
+        "オルフェ！今までどこに――"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Là ngươi à.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様が。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trước mặt nhà vua, dám còn nói năng hay sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王に、\n物を申すか。",
+      "choice_data_list": [
+        "......!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Từ đôi mắt sáng như bảo thạch truyền đến là cơn thịnh nộ―― Với thế áp ấy, tôi vô thức lùi nửa bước. Luồng khí chất cô ấy tỏa ra thật áp đảo.",
+      "jpname": "モノローグ",
+      "jptext": "宝石のように輝く瞳から伝わるのは、\n怒り――その迫力に、思わずたじろぐ。\n彼女から発せられるオーラは、絶大だ。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "V-vua... là sao...?",
+      "jpname": "記者",
+      "jptext": "お、王って……？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Gã kia. Ngươi chính là kẻ phụ trách quảng bá lần này nhỉ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……男。\n貴様が、此度の広報だな。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Hả? A, không, tôi là phóng viên chứ không phải quảng bá―― ...lần này á?",
+      "jpname": "記者",
+      "jptext": "へ？　あ、いや、\n私は広報ではなく記者――……こたびの？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đó là mệnh lệnh của vua. Con đường bá đạo của ta bắt đầu từ nay, hãy truyền cho khắp nơi cùng biết đến.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王命である。これより始まる、\n余の覇道を大いに知らしめよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vì đám thần dân mù mẫn, chẳng biết gì cả.",
+      "jpname": "オルフェーヴル",
+      "jptext": "無知蒙昧な、\n民草のために。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Hô...... .......à ừm, Trainer-san, cho tôi hỏi chút.",
+      "jpname": "記者",
+      "jptext": "た……。\n……あ、あの、トレーナーさん、ちょっと。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Vậy... vua là ý gì ạ? Cả thần dân...... nữa, chẳng hiểu gì cả......",
+      "jpname": "記者",
+      "jptext": "あの、王ってどういうことでしょうか？\n民草……とかも、なんのことやら……。",
+      "choice_data_list": [
+        "T-thì chuyện đó là......"
+      ],
+      "jpchoice_data_list": [
+        "そ、それはですね……"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Nghĩa theo đúng nghĩa đen đấy thôi ạ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "そのままの意味ですよ。",
+      "choice_data_list": [
+        "Dream Journey......!"
+      ],
+      "jpchoice_data_list": [
+        "ドリームジャーニー……！"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Chào Trainer-san. Tôi đột ngột xen vào, thật lòng xin lỗi ạ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "こんにちは、トレーナーさん。\n突然割り込んでしまい、申し訳ございません。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy là Dream Journey. Mã Nương đẳng cấp siêu việt với thực lực tuyệt vời, người đã chinh phục cả 'Takarazuka Kinen' lẫn 'Arima Kinen' năm ngoái.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はドリームジャーニー。\n昨年、『宝塚記念』『有馬記念』を制覇した、\n素晴らしい実力を持つ、超一線級のウマ娘だ。",
+      "color_text_info_list": [
+        "Dream Journey",
+        "Takarazuka Kinen",
+        "Arima Kinen"
+      ],
+      "jpcolor_text_info_list": [
+        "ドリームジャーニー",
+        "宝塚記念",
+        "有馬記念"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và―― cô ấy còn là chị ruột của Orfevre.",
+      "jpname": "モノローグ",
+      "jptext": "そして――\nオルフェーヴルの実の姉でもある。"
+    },
+    {
+      "name": "",
+      "text": "Việc phóng viên đến phỏng vấn Orfevre trước trận ra mắt, cũng là nhờ có người chị này cả.",
+      "jpname": "モノローグ",
+      "jptext": "デビュー前のオルフェーヴルに\n取材が来たのも、\nこの姉あってこそというわけだ。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Vậy ạ... Journey-san, câu vừa rồi nghĩa là thế nào...?",
+      "jpname": "記者",
+      "jptext": "あの、ジャーニーさん。\n先ほどの言葉はどういう……？",
+      "color_text_info_list": [
+        "Journey"
+      ],
+      "jpcolor_text_info_list": [
+        "ジャーニー"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Em gái tôi, Orfevre ấy là...... một vị vua sinh ra đã như thế đấy ạ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "我が妹、オルフェーヴルは……\n生まれながらの王なのです。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "......Không, để tôi nói lại. Cô ấy là thực thể được lựa chọn, người được ban cho cái vỏ xứng đáng của bậc đế vương đấy ạ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……いえ、言い直しましょう。\n王の器を与えられた、\n選ばれし存在なのですよ。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Hả――",
+      "jpname": "記者",
+      "jptext": "え――"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "......Ơ kìa. Có vẻ như bạn đã hiểu ngay rồi đấy.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……おや。どうやら、\nすぐご理解いただけそうだ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Hôm nay bầu trời cao vợi. Cơn gió hợp gu của đứa bé đó đang thổi――",
+      "jpname": "ドリームジャーニー",
+      "jptext": "今日は空が高い。\nあの子好みの風が吹く――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Người nào đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "誰か。"
+    },
+    {
+      "name": "Bầy tôi của Orfe B",
+      "text": "! ...Cả đoàn, vào vị trí xuất phát! ――Bắt đầu cuộc đua!",
+      "jpname": "オルフェの臣下B",
+      "jptext": "！　……各員、スタート位置につけ！\n――レースを始める！",
+      "choice_data_list": [
+        "(Hả?...... t-tôi chưa nghe báo trước nào!)"
+      ],
+      "jpchoice_data_list": [
+        "（！？……き、聞いてない！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một cuộc đua tự phát, hoàn toàn không nằm trong kế hoạch, bỗng chốc bắt đầu. Nhưng sự ngỡ ngàng ấy lập tức bị xóa nhòa bởi một cú sốc khác――",
+      "jpname": "モノローグ",
+      "jptext": "全く予定になかった野良レースが、\n突如始まった。しかし驚きはすぐに、\n別の衝撃によって塗り替えられる――"
+    },
+    {
+      "name": "Bầy tôi của Orfe B",
+      "text": "Ngài Orfe...! Xin lỗi vì đã vượt trước ngài...! Thần sẽ không để ngài đi trước đâu......!",
+      "jpname": "オルフェの臣下B",
+      "jptext": "オルフェ様……！\n御前失礼！　先には行かせませぬ……！",
+      "color_text_info_list": [
+        "Orfe"
+      ],
+      "jpcolor_text_info_list": [
+        "オルフェ"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vậy à. ――Thế thì, xuất chiến thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "そうか。\n――では、征こう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Hừ...! Haaaaaaaaa!!",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ふっ……！\nはぁあああああああっ！",
+      "choice_data_list": [
+        "......!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Những bầy tôi dẫn đầu...... bức tường kiên cố ấy, Orfevre đâm xuyên qua một cách không khoan nhượng. Trong nháy mắt đã vươn lên dẫn đầu, và tiếp tục tăng tốc――",
+      "jpname": "モノローグ",
+      "jptext": "先行する臣下たち……その堅牢な壁を、\nオルフェーヴルは強引にぶち抜いていく。\nあっという間に先頭に立ち、加速し続け――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ... ha ha ha...! ――Cả gió cũng không theo kịp!",
+      "jpname": "オルフェーヴル",
+      "jptext": "フッ……はははッ……！\n――風も及ばぬ！"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "......!! M-mạnh quá...! Này là...... c-chuyện này là......!",
+      "jpname": "記者",
+      "jptext": "……っ！！　つ、強い……！\nなんという……こ、これは……！"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "! Vậy ra, đây chính là―― ...nhà vua......!!",
+      "jpname": "記者",
+      "jptext": "！\nそうか、これが――……王……！！"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "――Orfevre-san! Một cú chạy tuyệt vời......!",
+      "jpname": "記者",
+      "jptext": "――オルフェーヴルさん！\n素晴らしい走りでした……！"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "......Tôi đã quyết định rồi! Dù nguyên kế hoạch là đăng chung với những Mã Nương khác chưa ra mắt......",
+      "jpname": "記者",
+      "jptext": "……私、決めました！\n他のデビュー前のウマ娘たちと、\n併せて掲載予定でしたが……。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Tôi sẽ thuyết phục tổng biên tập xin giành nguyên một trang! Dùng để giới thiệu Orfevre-san! Xin hãy cho phép tôi được quảng bá cô trên tạp chí của chúng tôi!",
+      "jpname": "記者",
+      "jptext": "編集長にかけあって、1ページまるまる！\nオルフェーヴルさんのご紹介にあてます！\n弊誌に、貴方を広報させてください！",
+      "choice_data_list": [
+        "(Ghê, đãi ngộ siêu hạng thật......!)"
+      ],
+      "jpchoice_data_list": [
+        "（すごい、破格の扱いだ……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mã Nương trước trận ra mắt vì thực lực còn là ẩn số nên thường được đối xử như nhau. Giữa đám đông đó mà được đãi ngộ này...... là bằng chứng họ đặt kỳ vọng lớn vào sức mạnh của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "デビュー前のウマ娘は実力が未知数のため、\n通常同列に扱われる。その中でこの扱い……\n彼女の力に、大きな期待を抱いた証拠だ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Nói năng chẳng đến đâu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……愚にもつかんな。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Hả.",
+      "jpname": "記者",
+      "jptext": "え。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Có vẻ ngươi không thấy được đâu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様には見えておらぬようだ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ba chiếc vương miện lơ lửng trên đầu này cơ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "この頭上にある、\n三つの冠が。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "! Ý người là......!",
+      "jpname": "記者",
+      "jptext": "！\nそれって……！",
+      "choice_data_list": [
+        "(Tam Miện Classic――)"
+      ],
+      "jpchoice_data_list": [
+        "（クラシック三冠――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tam Miện Classic...... đó là bộ ba gồm 'Satsuki Sho', 'Nippon Derby' và 'Kikuka Sho', vinh quang đỉnh cao mà chỉ những ai ở Cấp Classic mới có thể chạm tới.",
+      "jpname": "モノローグ",
+      "jptext": "クラシック三冠……それは『皐月賞』\n『日本ダービー』『菊花賞』から成る、\nクラシック級で手にできる最高峰の輝き。",
+      "color_text_info_list": [
+        "Tam Miện Classic",
+        "Satsuki Sho",
+        "Nippon Derby",
+        "Kikuka Sho",
+        "Cấp Classic"
+      ],
+      "jpcolor_text_info_list": [
+        "クラシック三冠",
+        "皐月賞",
+        "日本ダービー",
+        "菊花賞",
+        "クラシック級"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Trong quá khứ, Symboli Rudolf, Narita Brian và những người khác... tổng cộng 6 Mã Nương mạnh nhất đã từng nắm giữ vinh quang ấy.",
+      "jpname": "モノローグ",
+      "jptext": "過去にはシンボリルドルフ、\nナリタブライアンなど、\n6人の最強のウマ娘たちが手にしている。",
+      "color_text_info_list": [
+        "Symboli Rudolf",
+        "Narita Brian"
+      ],
+      "jpcolor_text_info_list": [
+        "シンボリルドルフ",
+        "ナリタブライアン"
+      ]
+    },
+    {
+      "name": "Phóng viên",
+      "text": "――Là định \"thử sức\" với Tam Miện Classic ấy à......!",
+      "jpname": "記者",
+      "jptext": "――あのクラシック三冠に、\n“挑む”というわけですね……！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Vẫn còn nói dại thêm à.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……まだ、\n愚を重ねるか。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thử sức? Không, là lấy lại đấy. Cái đó từ lâu lắm rồi, đã là của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "挑む？　否、取り戻すのだ。\nあれは疾うに、余のものである。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "N-nhưng đó là Tam Miện Classic đấy!? Làm gì có dễ dàng như――",
+      "jpname": "記者",
+      "jptext": "く、クラシック三冠ですよ！？\nそんな簡単には――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Lắm lời.",
+      "jpname": "オルフェーヴル",
+      "jptext": "くどい。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thu hút những gì thuộc về mình. Chuyện đó có gì là khó?",
+      "jpname": "オルフェーヴル",
+      "jptext": "己のものを引き寄せる。\nそれの何が、難しい？",
+      "choice_data_list": [
+        "......!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Độ khó ấy cũng được minh chứng qua thực tế rằng trong lịch sử dài đằng đẵng, chỉ có 6 Mã Nương đạt được. Nhưng với cô ấy―― đó là số phận đương nhiên.",
+      "jpname": "モノローグ",
+      "jptext": "その難しさは、長い歴史の中で達成した\nウマ娘が6人しかいないことも物語っている。\nしかし彼女にとっては――当然の運命なのだ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Phần quảng bá thế là đủ. Đi khỏi đây.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……広報はもういい。\n去れ。"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Hả!? ...Tức là buổi phỏng vấn, kết thúc ở đây luôn luôn hả!?",
+      "jpname": "記者",
+      "jptext": "えっ！？\n……取材、おしまいってことですか！？",
+      "choice_data_list": [
+        "Khoan đã, Orfevre......!"
+      ],
+      "jpchoice_data_list": [
+        "ちょ、オルフェ……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi vội vàng đuổi theo phóng viên thì...... Orfevre đang ở bên chị của mình. Hóa ra là bị chị giữ lại......",
+      "jpname": "モノローグ",
+      "jptext": "記者と慌てて追いかけると……\nオルフェーヴルは姉と一緒にいた。\nどうやら引き留められていたらしいが……。",
+      "choice_data_list": [
+        "(Journey, từ lúc nào thế......?)"
+      ],
+      "jpchoice_data_list": [
+        "（ジャーニー、いつの間に……？）"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vừa nãy tôi có trò chuyện với Or một chút. Tôi cũng có thể góp chút sức được không nhỉ?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "今、オルと話していたのですがね。\n私にも少し、\nお手伝いさせていただけませんか？",
+      "choice_data_list": [
+        "Giúp đỡ?"
+      ],
+      "jpchoice_data_list": [
+        "手伝い？"
+      ],
+      "color_text_info_list": [
+        "Or"
+      ],
+      "jpcolor_text_info_list": [
+        "オル"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vâng. Là một phương án làm lớn tên tuổi của Or, tôi nghĩ việc mượn cái tên của người đang thi đấu và gây chú ý như mình cũng là một lựa chọn.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ええ。オルの扱いを大きくする手段として、\n話題性のある……つまり、現役で走っている\n私の名を出すのもありかと思いまして。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "À, nhưng mà...... với thành tích của tôi, có lẽ các bạn sẽ không hài lòng chăng?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ああ、でも……私の経歴では、\nご納得いただけないでしょうか？"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "K-không không! Với một người tầm cỡ bạn thì......! Đâu chừng tôi còn muốn nhờ bạn lên trang bìa trước nữa đấy!",
+      "jpname": "記者",
+      "jptext": "い、いえいえ！　貴方ほどの方であれば……！\nこちらから表紙をお願いしたいくらいですよ！",
+      "choice_data_list": [
+        "A! Vậy thì...... hai người cùng lên bìa, đại khái vậy?"
+      ],
+      "jpchoice_data_list": [
+        "あ！なら……ふたりで表紙、とか？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đó là cơ hội lớn mà thông thường những Mã Nương Cấp Junior không thể nào được trao. Chắc Orfevre cũng sẽ chấp nhận thôi.",
+      "jpname": "モノローグ",
+      "jptext": "まずもってジュニア級の\nウマ娘には与えられない大きなチャンスだ。\nオルフェーヴルも納得するのではないか。",
+      "color_text_info_list": [
+        "Cấp Junior"
+      ],
+      "jpcolor_text_info_list": [
+        "ジュニア級"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ra vậy. Tuy khiêm nhường thật...... nhưng nếu được trao cơ hội ấy, đó là hạnh phúc trời cho của tôi.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "なるほど。恐縮ですが……\nもしその機会を頂けるのならば、僥倖です。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Or thấy sao? Sẽ thành kỷ niệm giữa cô và Trainer-san...... chị cũng vui mà.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "オルはどうかな？\nお前との記念になるし……私も嬉しいよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Vậy thì, cho phép.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……。\nであれば、許す。",
+      "choice_data_list": [
+        "Vậy còn phía phóng viên, sao nhỉ......"
+      ],
+      "jpchoice_data_list": [
+        "あの、記者さんはどうでしょうか……"
+      ]
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Với tôi, đây là điều mong ước còn gì hơn! Để tôi xác nhận với cấp trên――",
+      "jpname": "記者",
+      "jptext": "私としては、願ってもないことです！\n上に確認しま――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Xác nhận?",
+      "jpname": "オルフェーヴル",
+      "jptext": "確認？"
+    },
+    {
+      "name": "Phóng viên",
+      "text": "Trang bìa! Tôi xin nhận việc này!!",
+      "jpname": "記者",
+      "jptext": "表紙で！\nやらせていただきます！！"
+    },
+    {
+      "name": "",
+      "text": "Buổi phỏng vấn được tiếp tục. Nhìn Orfevre hoàn toàn bình thản bước vào buổi chụp, trong lòng tôi chỉ có một ý nghĩ......",
+      "jpname": "モノローグ",
+      "jptext": "取材は続行となった。すっかり落ち着き、\n撮影に臨むオルフェーヴルを見て、\n思うことはひとつ……。",
+      "choice_data_list": [
+        "(......Khó chịu thật!)"
+      ],
+      "jpchoice_data_list": [
+        "（……悔しい！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Từ lúc Orfevre xuất hiện cho đến cả sau đó...... tôi cứ lùi sau một bước, để lộ những dáng vẻ đáng hổ thẹn không xứng danh Trainer. Cứ thế này thì không được.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルが現れるまでも、その後も……\n後手に回り、トレーナーとして情けない\n醜態を晒してしまった。このままでは駄目だ。"
+    },
+    {
+      "name": "",
+      "text": "......Tôi nắm chặt bàn tay phải đang cảm nhận được cơn run rẩy. Cơn đau khắc ở nơi đó là lời thề trung thành với nhà vua――",
+      "jpname": "モノローグ",
+      "jptext": "……震えを感じる右手を強く、握りしめる。\nそこに刻まれた痛みは、王への忠誠の誓い――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Hãy nhận lấy. Cơn gió mà kẻ muốn trở thành \"vua\", nương theo giấc mơ của ngươi, tạo ra. Đó chính là sức mạnh của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……拝受せよ。貴様の夢を糧とし、\n“王”たらんとする者が起こす風。\n我が力である。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Khắc vào lòng mãi mãi, và nỗ lực cho tử tế. ――Cố mà ngang hàng với tôi đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "永久に刻み、励むがいい。\n――私に並び立てるようにな。",
+      "choice_data_list": [
+        "(Tôi sẽ trở thành Trainer xứng đáng với nhà vua!)"
+      ],
+      "jpchoice_data_list": [
+        "（王に相応しいトレーナーになるんだ！）"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――Muốn tôi... chỉ dạy về Or...... chắc không?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "――私に、\nオルのことを教わりたい……と？",
+      "choice_data_list": [
+        "Ừ!",
+        "Đúng vậy!"
+      ],
+      "jpchoice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giống như Dream Journey, tôi muốn trở thành sức mạnh của Orfevre. Thời gian trước trận ra mắt không còn bao nhiêu, phải học nhanh nhất có thể――",
+      "jpname": "モノローグ",
+      "jptext": "ドリームジャーニーのように、\nオルフェーヴルの力になりたい。\nデビューまで猶予はない、最速で学ぶのだ――",
+      "choice_data_list": [
+        "Để lộ trình bá đạo của nhà vua không còn chút lo lắng nào!"
+      ],
+      "jpchoice_data_list": [
+        "王の覇道に、少しの不安もないように！"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "......",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Bạn đúng là một người thật thà thật.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "本当に、素直な方だ。",
+      "choice_data_list": [
+        "V-vậy hả?"
+      ],
+      "jpchoice_data_list": [
+        "そ……そうかな？"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vâng. ...Đương nhiên, miễn là việc tôi làm được thì dù là gì tôi cũng sẽ hợp tác hết mình.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "はい。……勿論、私にできることならば\nなんでも協力させていただきますよ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Vậy nhé. Trước hết là...... ――",
+      "jpname": "ドリームジャーニー",
+      "jptext": "そうですね。まずは……――"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "――Or thấy sao? Trà hôm nay thế nào?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "――どうだい、オル。\n今日のお茶は？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Đắng. Chẳng giống Chị chút nào.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……苦い。\n姉上らしくないな。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Hì hì, bởi vì...... Trainer-san của Or pha mà.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ふふ、だって……\nオルのトレーナーさんが淹れたからね。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Gu thẩm mỹ chẳng có tí nào.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……センスのない。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Hì hì. Thế mà Or vẫn...... có thiện cảm với người đó đấy nhỉ.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "ふふ。それでもお前は……\nあの方を、気に入ったわけだ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……――"
+    },
+    {
+      "name": "",
+      "text": "'――Và rồi, sẽ đứng song song trên đỉnh cao cùng em!'",
+      "jpname": "モノローグ",
+      "jptext": "『――そして君と、頂点で並び立つ！』"
+    },
+    {
+      "name": "",
+      "text": "'――Và rồi, sẽ đứng song song trên đỉnh cao cùng bạn!'",
+      "jpname": "モノローグ",
+      "jptext": "『――そして貴方と、頂点で並び立つ！』"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Hừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……フ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cặp mắt đó ưa nhìn. Phun trào khí phách...... một màn diễn hay đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "あの目はいい。\n気焔を吐く……よい見世物であった。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trở thành chiếc gậy, hay chỉ dừng lại ở vai trò chú hề...... Cố mà làm ta được vui lòng nhé.",
+      "jpname": "オルフェーヴル",
+      "jptext": "杖となるか、道化に留まるか……。\nせいぜい、愉しませてもらおう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Điều tất định sẽ đến. Vậy thì chơi đùa một chút cũng chẳng sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "成るは必定。\nなれば、戯れもよかろう。"
+    },
+    {
+      "name": "",
+      "text": "Trên Twinkle Series―― con đường bá đạo mà Orfevre sẽ bước đi, bắt đầu.",
+      "jpname": "モノローグ",
+      "jptext": "トゥインクル・シリーズで――\nオルフェーヴルと歩む覇道が、始まる。",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ],
+      "jpcolor_text_info_list": [
+        "トゥインクル・シリーズ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Thử thách máy gắp!",
+  "jptitle": "クレーンゲームに挑戦！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, ở nơi tôi đi chơi cùng Orfevre――",
+      "jpname": "モノローグ",
+      "jptext": "ある日、\nオルフェーヴルと出かけた先で――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ほう。",
+      "choice_data_list": [
+        "Có gì khiến cô chú ý à?"
+      ],
+      "jpchoice_data_list": [
+        "気になるものでも見つけた？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nhìn kìa.",
+      "jpname": "オルフェーヴル",
+      "jptext": "見よ。"
+    },
+    {
+      "name": "",
+      "text": "Theo hướng Orfevre chỉ, tôi thấy có một chiếc máy gắp đặt đầy những thú bông mô phỏng hình dáng các Mã Nương.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルが示すほうを見てみると、\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Tay gắp mảnh khảnh tóm lấy chú bông, rồi đưa nó đến đích giữa muôn vàn nguy cơ rơi xuống――",
+      "jpname": "オルフェーヴル",
+      "jptext": "細いアームで人形を捕らえ、\n落下する危うさのなかでゴールまで運ぶ――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Phì, chẳng khác gì màn đi dây nhào lộn của gánh xiếc chứ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "フ、さながら曲芸の綱渡りよな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Này kẻ đó. Hãy lấy món này mà làm ta vui.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様。\nこれで私を愉しませろ。",
+      "choice_data_list": [
+        "Ơ, để tôi chơi cơ à?",
+        "Ơ, tôi chơi sao?"
+      ],
+      "jpchoice_data_list": [
+        "えっ、俺がやるのか？",
+        "えっ、私がやるの？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy lấy đó làm vinh hạnh đi. Vì được hầu hạ Vua cơ mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "光栄に思うがいい。\n王に尽くせるのだからな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trách nhiệm của bầy tôi, hãy chu toàn cho trọn vẹn. ...... Đừng có làm ta chán đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "臣下の責務、全うせよ。\n……私を退屈させるな。",
+      "choice_data_list": [
+        "Được rồi, để tôi thử!",
+        "Ừ, để tôi thử!"
+      ],
+      "jpchoice_data_list": [
+        "よし、やってみる！",
+        "うん、やってみる！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "――Trò này, tôi không được phép thua!!",
+      "jpname": "モノローグ",
+      "jptext": "――このゲーム、負けられない！！"
+    }
+  ]
+}

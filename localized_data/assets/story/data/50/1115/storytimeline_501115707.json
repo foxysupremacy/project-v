@@ -1,0 +1,176 @@
+{
+  "title": "Cầu nguyện ở đền thờ!",
+  "jptitle": "神社でお祈り！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Để Orfevre đang sa sút triền miên có thể đổi gió, tôi đã nghĩ vậy và rủ cô ấy ghé đền thờ.",
+      "jpname": "モノローグ",
+      "jptext": "不調の続くオルフェーヴルと、\nリフレッシュになるかと考えて\n神社を訪れた。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... Hừm, cái này thì――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……ほう、これは――",
+      "choice_data_list": [
+        "Cánh cửa đền có vấn đề gì sao?",
+        "Cánh cửa đền có chuyện gì đấy à?"
+      ],
+      "jpchoice_data_list": [
+        "神社の扉がどうかした？",
+        "神社の扉がどうかしたの？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... những phụ tùng kim khí màu vàng kim.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……金色の錺金具。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hoa văn tinh xảo, ánh lấp lánh cao quý. Bàn tay nghệ nhân hiện rõ trước mắt.",
+      "jpname": "オルフェーヴル",
+      "jptext": "精緻な文様、高貴な煌めき。\n職人の技巧が見て取れよう。"
+    },
+    {
+      "name": "???",
+      "text": "...... hi hi. Không ngờ lại gặp được Or ở đây.",
+      "jpname": "？？？",
+      "jptext": "……ふふ。\nまさか、オルと出会うなんて。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... Chị. Gặp nhau đúng lúc thật.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……姉上。\n奇遇であるな。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Đang để tâm trí lan man thì đi tới đây ấy. ...... Em đang ngắm phụ tùng kim khí đấy à?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "思案を巡らせていたら、ここにね。\n……錺金具、見ていたのかい？"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Tính bị đồ kim hoàn hớp hồn của em, so với xưa chẳng đổi chút nào.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "金細工に心を惹かれるところは、\n昔と変わらないね。",
+      "choice_data_list": [
+        "Từ nhỏ cô đã thấy mê thứ này rồi nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "小さい頃から興味があったんだ"
+      ]
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Bố tôi là thợ kim hoàn, nên hồi nhỏ có nhiều dịp được nhìn ngắm lắm.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "父が金細工職人でして、\n目にする機会も多かったもので。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Mà nói mới nhớ, hồi bé tôi cũng từng tặng quà cho Or...... chắc em chẳng nhớ nổi đâu.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "そういえば、幼いころ私からオルに\n贈り物をしたこともあった……\nさすがに覚えていないだろうけどね。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "................",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... chiếc nhẫn mạ vàng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……鍍金の指輪。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "!...... Or......!?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "！　……オル……！？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Chắc là vật Chị tiến tặng. ...... ta có nhớ đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "姉上からの献上品であろう。\n……覚えがある。"
+    },
+    {
+      "name": "Orfevre nhỏ",
+      "text": "――Chiếc nhẫn này, là quà tặng cho ta.",
+      "jpname": "幼いオルフェ",
+      "jptext": "――このゆびわが、余への贈り物。"
+    },
+    {
+      "name": "Journey nhỏ",
+      "text": "Làm ở lớp học thủ công đấy. Không phải vàng thật, nhưng đẹp phải không?",
+      "jpname": "幼いジャーニー",
+      "jptext": "工作教室で作ったんだ。\n本物の金じゃないけど、きれいだろう？"
+    },
+    {
+      "name": "Orfevre nhỏ",
+      "text": "...... một ánh lấp lánh đích thực xứng với bậc Vương. Ta xin tạ ơn, Chị.",
+      "jpname": "幼いオルフェ",
+      "jptext": "……まさに王にふさわしい輝き。\n礼を言おう、姉上。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... cho đến khi Chị kể lại, thì ta đã quên mất rồi đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……姉上が語るまで、\n忘れていたがな。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Mà em vẫn nhớ được...... đúng là kinh ngạc.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "覚えていたとは……驚きだ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Sau này chị sẽ tặng lại. Bộ đồ ăn dát vàng, cúc áo đồng thau...... một sắc vàng kim hợp với em nhất đấy.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "いずれまた、プレゼントするよ。\n金箔の食器、真鍮の釦……\nお前によく似合う金色をね。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "...... chuyện đó thật thỏa mãn. Ta trông chờ vào Chị đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……それは重畳。\n期待しているぞ、姉上。"
+    },
+    {
+      "name": "",
+      "text": "Chẳng biết ký ức cùng chị gái có giúp cô ấy đổi gió không. Từ ngày ấy, Orfevre bắt đầu hồi phục trở lại.",
+      "jpname": "モノローグ",
+      "jptext": "姉との思い出が気分転換になったのだろうか。\nこの日から、オルフェーヴルは\n復調するのだった。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "................ Ta chẳng có ký ức về chuyện đó.",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。\n記憶にないな。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Cũng phải thôi. Chuyện đó là của rất lâu rồi mà.",
+      "jpname": "ドリームジャーニー",
+      "jptext": "無理はないよ。\nもう随分と昔の話だからね。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "................ Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………フン。"
+    },
+    {
+      "name": "",
+      "text": "Chẳng biết vì nhớ không ra ký ức cùng chị mà trong lòng cô ấy cứ bứt rứt. Sa sút của Orfevre vẫn chẳng thuyên giảm......",
+      "jpname": "モノローグ",
+      "jptext": "姉との記憶が思い出せず、もやもやするの\nだろうか。オルフェーヴルの\n不調は治らないのだった……。"
+    }
+  ]
+}

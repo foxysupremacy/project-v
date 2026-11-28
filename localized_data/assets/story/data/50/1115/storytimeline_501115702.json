@@ -1,0 +1,374 @@
+{
+  "title": "Lòng dạ của bậc Vương",
+  "jptitle": "王の御心",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Sau khi đi chơi cùng Orfevre và mua một đống sách.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルとのお出かけで、\n本を買い込んだあと。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đọc ngay bây giờ. Chuẩn bị chỗ cho ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "今すぐ読む。場を手配せよ。",
+      "choice_data_list": [
+        "Thế thì, ghé quán cà phê kia nhé"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、そこのカフェに寄ろう"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre trải mình thư thả, chìm đắm vào cuốn tiểu thuyết. Tôi vừa cố không làm phiền, vừa nhấp trà thư giãn――",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは、ゆったりと寛ぎながら\n小説に熱中している。邪魔しないように\nしつつ、自分もお茶を飲んで寛いでいると――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Hừm. Không ngờ cuốn này đọc lại có vị đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………ふむ。\n存外、読み応えがあったな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Phần tiếp theo thì―― Ơ...... thôi, kệ vậy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "続きは――\nああ……まぁ、よいか。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy suy nghĩ chốc lát, rồi với lấy một cuốn sách huấn luyện trong đống sách vừa mua. Có vẻ định cứ thế tiếp tục đọc.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は少し考えたあと、購入した本の中から\n適当にトレーニング本を手に取った。\nこのまま読書を続けるつもりのようだ。"
+    },
+    {
+      "name": "",
+      "text": "......Cuốn tiểu thuyết lúc nãy cô ấy đọc, là mình thử mua đúng một tập thôi. Có thể thấy cô ấy hơi tiếc vì không mua sẵn phần tiếp theo.",
+      "jpname": "モノローグ",
+      "jptext": "……先ほど彼女が読んでいた小説は、\n試しに1巻だけ購入したもの。続巻を買って\nおかなかったことへの落胆が少し見えた。",
+      "choice_data_list": [
+        "(Thôi thì mình chạy đi mua ngay cho rồi nhỉ)",
+        "(Hay là mình chạy đi mua cho rồi nhỉ)"
+      ],
+      "jpchoice_data_list": [
+        "（俺がサッと買ってこようかな）",
+        "（私がサッと買ってこようかな）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Để cô ấy tiếp tục cắm mặt vào sách, tôi lén lút rời ghế.",
+      "jpname": "モノローグ",
+      "jptext": "また本に集中し始めた彼女をおいて、\nこっそり席を立った。"
+    },
+    {
+      "name": "",
+      "text": "Chạy nhỏ chân đến tiệm sách, nhanh gọn mua hết toàn bộ các tập đã phát hành. Phải trở về quán cà phê ngay.",
+      "jpname": "モノローグ",
+      "jptext": "小走りで本屋を再訪し、手早く既刊をすべて\n購入した。すぐにカフェへ戻ろう。"
+    },
+    {
+      "name": "",
+      "text": "――Định là thế, nhưng mà......",
+      "jpname": "モノローグ",
+      "jptext": "――と、思ったが……。"
+    },
+    {
+      "name": "Nhân viên tiệm trang sức",
+      "text": "Sự kiện trò chuyện về bộ sưu tập trang sức, đây là cuối hàng phát phiếu vào cổng nàyy!",
+      "jpname": "宝石店のスタッフ",
+      "jptext": "ジュエリーコレクションのトークイベント、\n入場整理券の配布最後尾はこちらでーす！",
+      "choice_data_list": [
+        "(Hàng xếp dài khủng khiếp......!!)"
+      ],
+      "jpchoice_data_list": [
+        "（すっごい行列……！！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bị chặn đường bởi hàng dài bí ẩn mà lúc đi tới chẳng hề gặp. Cố hết sức chen qua từng đám đông, chen lách thoát ra――",
+      "jpname": "モノローグ",
+      "jptext": "往路では遭遇しなかった謎の大行列に、\n行く手を阻まれてしまった。人垣をなんとか\nかき分け、かき分け抜け出して――"
+    },
+    {
+      "name": "Người qua đường ôm táo",
+      "text": "Áaaa! Xin lỗi!!",
+      "jpname": "りんごを抱えた通行人",
+      "jptext": "わっ、きゃーー！\nごめんなさい！！",
+      "choice_data_list": [
+        "Aaa!! Táo đâyyy!!"
+      ],
+      "jpchoice_data_list": [
+        "わーー！！りんごが！！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đống táo trên tay người phụ nữ vừa va phải lăn lóc thê thảm trên sàn...... Không đành lòng bỏ mặc, tôi cùng bới nhặt――",
+      "jpname": "モノローグ",
+      "jptext": "ぶつかった女性が抱えていた大量のりんごが\n無情にも床を転がっていく……。\nさすがに無視できず、一緒に拾って――"
+    },
+    {
+      "name": "",
+      "text": "Trễ mất đến mức này rồi. Có sách thì Orfevre chắc cũng chẳng ngồi chơi, nhưng mà vì lén đi ra mà trễ thế này thì đúng là có lỗi.",
+      "jpname": "モノローグ",
+      "jptext": "すっかり遅くなってしまった。本があるから\nオルフェーヴルも暇はしていないと思うが、\n黙って出てきた手前、申し訳ない。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "....................",
+      "jpname": "オルフェーヴル",
+      "jptext": "………………………………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "..................Đi đâu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "………………何処で。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đã làm, cái gì.",
+      "jpname": "オルフェーヴル",
+      "jptext": "何を、していた。",
+      "choice_data_list": [
+        "(Cô ấy đang rất tức giận......!!)"
+      ],
+      "jpchoice_data_list": [
+        "（すごく、怒ってる……！！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Kể cho ta nghe. Chắc phải có chuyện gì đại sự lắm chứ nhỉ?",
+      "jpname": "オルフェーヴル",
+      "jptext": "――申してみよ。\nさぞ、大層な経緯があるのだろうな？",
+      "choice_data_list": [
+        "......Khuỵa!! X-xin lỗi, thật ra là......"
+      ],
+      "jpchoice_data_list": [
+        "……っ！！ご、ごめん、実は……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Giải thích rằng vì tưởng là tốt nên mình chạy đi mua phần tiếp theo của tiểu thuyết, nhưng trên đường quay về gặp rắc rối nên bị trễ.",
+      "jpname": "モノローグ",
+      "jptext": "よかれと思って小説の続巻を買いに\n走ったこと。戻る際、トラブルに見舞われ\n遅くなってしまったことを説明する。",
+      "choice_data_list": [
+        "Đại khái là đoàn xếp dài gì đó cực kỳ......"
+      ],
+      "jpchoice_data_list": [
+        "とにかく行列とかすごくて……"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Khạch, nhảm nhí. Loại đó thì đạp bay đi là được.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ハッ、くだらん。\nそんなものは蹴散らしてこい。",
+      "choice_data_list": [
+        "Thế thì hơi quá thô bạo rồi......!?"
+      ],
+      "jpchoice_data_list": [
+        "それはちょっと乱暴かと……！？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hô―― Ngươi dám cự tuyệt sao. Mệnh lệnh của ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ほう――拒むと申すか。余の命令を。",
+      "choice_data_list": [
+        "............!!"
+      ],
+      "jpchoice_data_list": [
+        "…………！！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": ".................... Chẹp, chậm hiểu thật.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……………………チッ、愚鈍な。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre vẫn giữ gương mặt cau có, thoăn thoắt bước ra khỏi tiệm. Tạm thời cứ đuổi theo đã......!",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは険しい表情のまま、\nさっさと店を出ていってしまう。\nひとまず追いかけよう……！"
+    },
+    {
+      "name": "",
+      "text": "Im lặng thật nặng nề...... Nhưng mà, kẻ khiến cô ấy phải chờ lâu đến thế là mình.",
+      "jpname": "モノローグ",
+      "jptext": "沈黙が重い……。\nだが、長時間待たせてしまったのは自分だ。",
+      "choice_data_list": [
+        "Phải đền bù gì đó cho cô......",
+        "Phải làm gì đó đền bù cho cô......"
+      ],
+      "jpchoice_data_list": [
+        "何か埋め合わせを……",
+        "何か埋め合わせを……"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Vậy thì, diễn một màn giải trí cho ta xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――では、余興をせよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừ nhỉ...... hát một bản nhạc gì vui vẻ nghe thử xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "そうだな……\n何ぞ愉快な音楽でも歌って聴かせろ。"
+    },
+    {
+      "name": "",
+      "text": "Hát ngay tại đây......!? Cái này, ngại cực kỳ. Ngại thì ngại...... nhưng bụng đói thì không chấp nhận sự cứng đầu.",
+      "jpname": "モノローグ",
+      "jptext": "この場で歌を……！？\nこれは、かなり恥ずかしい。\n恥ずかしいが……背に腹は代えられない。",
+      "choice_data_list": [
+        "A... a-làm-là-làm, xoay-quay-lộn-nhộn-một-chút-đê ♪"
+      ],
+      "jpchoice_data_list": [
+        "あ……あーばれまーわれっ回しちゃって～♪"
+      ]
+    },
+    {
+      "name": "Nhạc nền phố",
+      "text": "(Chààng chààng lààà lììì lààà ♪)",
+      "jpname": "街頭BGM",
+      "jptext": "（チャ～ンチャ～ラ～リ～ラ～～♪）"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Tiếng lẫn vào nhau rồi. Ngứa tai quá.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……音が混ざるな。耳障りだ。",
+      "choice_data_list": [
+        "(Cô còn bảo hát mà......!)",
+        "(Rõ ràng là cô bảo hát mà......!)"
+      ],
+      "jpchoice_data_list": [
+        "（君が歌えって言ったのに……！）",
+        "（貴方が歌えって言ったのに……！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Ta có bảo dừng lại đâu. Hãy hát hay nhảy theo nhạc điệu này đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……やめてよいとは言っておらんぞ。\nこの音に合わせて歌うなり踊るなりせよ。",
+      "choice_data_list": [
+        "Ừ...... l, làà-laà-laà......!!"
+      ],
+      "jpchoice_data_list": [
+        "う……ら、ラ～ンラ～ラ～……！！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "Hắc, hắc......"
+      ],
+      "jpchoice_data_list": [
+        "ぜぇ、ぜぇ……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kể từ đó một lúc, hát rồi nhảy, hết sức cố gắng với màn giải trí. Có lẽ nhờ vậy, tâm trạng cô ấy dường như cũng dần tốt lên......",
+      "jpname": "モノローグ",
+      "jptext": "あれからしばらく、歌って踊って必死に\n余興を頑張った。そのおかげか、少しずつ\n彼女の機嫌もよくなってきたような……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Được rồi. Về thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――もうよい。帰るぞ。"
+    },
+    {
+      "name": "",
+      "text": "......Có lẽ, có thể cho rằng cô ấy đã nguôi giận rồi chăng. Dù sao thì, chuyện hôm nay mình cũng đã tự trách mình rất nhiều.",
+      "jpname": "モノローグ",
+      "jptext": "……なんとか、機嫌を直してもらえたと\n思ってよさそうだろうか。\n何にせよ、今日のことは大いに反省した。",
+      "choice_data_list": [
+        "Lần sau mình sẽ xử lý tinh tế hơn",
+        "Có lẽ nên tìm quán cà phê sách thì hay hơn nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "次はもっとスマートにやるよ",
+        "ブックカフェがあるといいのかな"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lần sau khi lại phải chạy đi mua sắm kiểu thế này, sẽ luyện cho mình nghệ thuật đi mua sắm thông minh để không làm ai phải chờ đợi.",
+      "jpname": "モノローグ",
+      "jptext": "次にさっきのような買い出しに走る時は、\n待たせることのないようスマートな\nおつかい術を身につけよう。",
+      "choice_data_list": [
+        "Mình sẽ cố gắng......!"
+      ],
+      "jpchoice_data_list": [
+        "精進するよ……！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sự cố gắng của ngươi thỉnh thoảng, hơi lệch hướng đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様の努力は時折、些か的外れだな。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre thở dài đầy bất lực. Nhưng mà, tâm trạng có vẻ đã nguôi đi khá nhiều. ――Dù sao thì, hãy cố gắng hơn nữa!",
+      "jpname": "モノローグ",
+      "jptext": "呆れたようにため息をつくオルフェーヴル。\nだが、機嫌はだいぶ直ったように見える。\n――とにかく、精進しよう！"
+    },
+    {
+      "name": "",
+      "text": "Book cafe thì vừa đọc sách vừa có thể với ngay thứ mình thích. Thử tìm một tiệm có hàng hóa lẫn không khí đều ổn xem sao.",
+      "jpname": "モノローグ",
+      "jptext": "ブックカフェならば、本を読みながら\n気に入ったものを追加でパッと手に取れる。\n品揃えも雰囲気もよい店を探してみようか。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......――Tốt thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……――よかろう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nhanh chóng tìm ra và dắt ta đến. Việc hộ tống, ta giao cho ngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "疾く探し出し、案内せよ。\n供は貴様に命じる。"
+    },
+    {
+      "name": "",
+      "text": "Được tiếp tục giao việc dắt dẫn nghĩa là sự tin tưởng của cô ấy có vẻ không bị tổn hại. Để lần này làm cô ấy hài lòng, phải cố gắng lên!",
+      "jpname": "モノローグ",
+      "jptext": "引き続き案内を任せてもらえるということは\n彼女の信頼を損ねたわけではなさそうだ。\n次こそ満足してもらえるよう、頑張ろう！"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "title": "Thư fan",
+  "jptitle": "ファンレター",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ, khi tôi báo cho Orfevre biết có thư fan gửi đến――",
+      "jpname": "モノローグ",
+      "jptext": "ある日、ファンから手紙が届いたことを\nオルフェーヴルに伝えると――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Làm tốt lắm. Đưa qua đây cho ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ご苦労。\nこちらへ渡すがよい。"
+    },
+    {
+      "name": "",
+      "text": "Trên phong bì ghi dòng chữ \"Kính gửi ngài Orfevre\". Lá thư thoáng nhìn qua, nội dung lại toàn chữ hiragana.",
+      "jpname": "モノローグ",
+      "jptext": "封筒に書かれた『オルフェーヴルさま』と\nいう文字。そして、わずかに見えた便箋は\nひらがなが多い内容だった。",
+      "choice_data_list": [
+        "Chẳng lẽ là thư fan từ một đứa trẻ?"
+      ],
+      "jpchoice_data_list": [
+        "もしかして、子どもからのファンレター？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Chính xác. ......Phẩm nhẩm, nét chữ này. Là đứa trẻ năm đó sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "然り。……ふむ、この文面。\nあの時の幼子か。",
+      "choice_data_list": [
+        "Cô quen người đó sao?",
+        "Cô quen người đó hả?"
+      ],
+      "jpchoice_data_list": [
+        "知ってる相手なのか？",
+        "知ってる相手なの？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Chỉ là một cuộc gặp tình cờ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……偶然の出会いだ。"
+    },
+    {
+      "name": "Bé trai",
+      "text": "Hức......! Mẹ ơi...... mẹ đang ở đâu......?",
+      "jpname": "男の子",
+      "jptext": "ぐすっ……！\nおかーさん……どこぉ……？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "............",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Này cậu bé. ......Lạc mất mẹ rồi sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "そこの。\n……母親と逸れたか。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đừng lo. Chỉ cần đợi cùng tôi là được. Chắc chắn mẹ của cậu cũng sẽ chạy đến thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "案ずるな。私と共に待つだけでいい。\nいずれ母親も駆けつける。"
+    },
+    {
+      "name": "Bé trai",
+      "text": "............Chị sẽ......?",
+      "jpname": "男の子",
+      "jptext": "…………おねーちゃんが……？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Nhưng, hãy hứa với tôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……だが、私と約束しろ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Xoá nước mắt, nhìn thẳng về phía trước. Nếu muốn đứng cạnh Vương, hãy trở thành kẻ dũng mãnh.",
+      "jpname": "オルフェーヴル",
+      "jptext": "涙を拭い、前を見よ。\n王の隣に立つのならば、豪胆な器であれ。"
+    },
+    {
+      "name": "Bé trai",
+      "text": "! ............V, vâng......!",
+      "jpname": "男の子",
+      "jptext": "！\n…………う、うん……！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Chỉ đơn giản vậy thôi mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ただ、それだけのことよ。",
+      "choice_data_list": [
+        "Cứu đứa trẻ lạc đường thế, cô thật lòng tốt"
+      ],
+      "jpchoice_data_list": [
+        "迷子の子を助けてあげるなんて、優しいね"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kẻ này, dám chế giễu ta đấy à.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様、私を愚弄するか。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trẻ con là thần dân sẽ kiến tạo tương lai. Không dẫn dắt được chúng, còn xứng là Vương sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "幼子とは未来を築く民である。\nそれを導かずして、何が王か。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sự sùng bái Vương, rồi sẽ trở thành cuộc chuyển đổi của thần dân. ......Giống như đứa trẻ này đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王への崇拝は、いずれ民の変革となる。\n……この幼子のようにな。"
+    },
+    {
+      "name": "",
+      "text": "\"――Lần đầu tiên em đi xem trận đua của Orfevre-san...... Cực kỳ ngầu, và tim em đập thình thịch suốt!\"",
+      "jpname": "モノローグ",
+      "jptext": "『――オルフェーヴルさんのレースを、\n初めて観に行って……カッコよくて、\nずっとどきどきしてました！』"
+    },
+    {
+      "name": "",
+      "text": "\"Vượt mặt hết mọi người xung quanh. Vậy mà lúc cán đích, chị vẫn hiên ngang đường hoàng.\"",
+      "jpname": "モノローグ",
+      "jptext": "『周りのみんなをぶっちぎって。\nゴールをしても、あなたは堂々としていて』"
+    },
+    {
+      "name": "",
+      "text": "Giống như ngày đó chị đã cứu em vậy...... Orfevre-san lấp lánh tỏa sáng rực rỡ.",
+      "jpname": "モノローグ",
+      "jptext": "『あの日、ぼくを助けてくれたみたいに……\nオルフェーヴルさんは、\nキラキラにかがやいていました』"
+    },
+    {
+      "name": "",
+      "text": "Em cũng muốn mạnh lên để được Orfevre-san công nhận. Vì thế...... lần sau, dù có lạc đường, em nhất định không khóc!",
+      "jpname": "モノローグ",
+      "jptext": "『ぼくも、オルフェーヴルさんに認められる\nくらい強くなりたい。だから……\n次は、迷子になってもぜったい泣きません！』"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy ghi nhớ cho kỹ. Chính vì còn non nớt, cảm xúc ấy mới thuần khiết.",
+      "jpname": "オルフェーヴル",
+      "jptext": "覚えておくがよい。\n幼気であるからこそ、その感情は純粋。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vì thế, ta phải tiếp tục chứng tỏ sức mạnh. ......Với tư cách ngôi \"Vua\" tuyệt đối.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ゆえに、私は力を示し続けねばならん。\n……絶対的な“王”として。"
+    }
+  ]
+}

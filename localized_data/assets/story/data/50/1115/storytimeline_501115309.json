@@ -1,0 +1,412 @@
+{
+  "title": "Sau Arima Kinen - Thông báo thời đại vàng son",
+  "jptitle": "有馬記念の後に・黄金時代を告げる",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Ngày hôm ấy, tiếng hoan hô chia cắt khán trường…… giờ đây đã trở thành một cơn sóng lớn cuộn trào.",
+      "jpname": "モノローグ",
+      "jptext": "その日、場内を二分していた歓声は……\n今や、ひとつの大きなうねりとなっていた。"
+    },
+    {
+      "name": "Khán giả",
+      "text": "Orfevre! Orfevre! Orfe——!! Orfevre……!!!!",
+      "jpname": "観客たち",
+      "jptext": "オルフェーヴル！　オルフェーヴル！\nオルフェ～～～～！！\nオルフェーヴル……！！！！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Mạnh! Không thể nhầm lẫn, rất mạnh! Trước vua, bức tường thế hệ chẳng là gì!! Người chiến thắng chính là Orfevre——!!",
+      "jpname": "実況",
+      "jptext": "強い！　間違いなく強かった！\n王に世代の壁はなし！！\n勝ったのはオルフェーヴルだーーーー！！"
+    },
+    {
+      "name": "",
+      "text": "(Oaàààààààà……!)",
+      "jpname": "モノローグ",
+      "jptext": "（わあああああああ……！）"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――…….",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nghe đây!",
+      "jpname": "オルフェーヴル",
+      "jptext": "聞け！",
+      "choice_data_list": [
+        "……!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Một tiếng quát xé toạc tiếng hoan hô, lập tức vẫy gọi sự tĩnh lặng. Orfevre như thấy hài lòng, ung dung nhìn quanh rồi nói tiếp――",
+      "jpname": "モノローグ",
+      "jptext": "歓声を切り裂く一喝が、瞬時に静寂を招いた。\nオルフェーヴルは満足したようにゆったりと\nあたりを見回し、続ける――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thời yến tiệc đã qua. Đám dân ngu cũng đã hiểu rồi chứ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "饗宴の時は過ぎた。\n愚民どもも、理解したであろう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Từ nay về sau, đỉnh cao chỉ có ta thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これより頂点は、\n余のみである。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hãy vứt bỏ lòng trung thành với kẻ khác. Hãy phục tùng vua của vạn dân.",
+      "jpname": "オルフェーヴル",
+      "jptext": "他への忠誠は捨てよ。\n万民の王に従え。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đây là màn mở màn cho thời đại vàng son. Hãy chào đón bằng tiếng hoan hô!",
+      "jpname": "オルフェーヴル",
+      "jptext": "黄金時代の幕開けだ。\n歓呼で迎えよ！"
+    },
+    {
+      "name": "",
+      "text": "(Oôôôôô……!)",
+      "jpname": "モノローグ",
+      "jptext": "（おおおおお……！）"
+    },
+    {
+      "name": "",
+      "text": "Ngay khoảnh khắc sau khi Orfevre hô to, tiếng hoan hô lớn nhất ngày đó đã dậy lên――",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルが叫んだ次の瞬間、\nその日一番の大歓声が上がった――"
+    },
+    {
+      "name": "Win Variation",
+      "text": "……――",
+      "jpname": "ウインバリアシオン",
+      "jptext": "……――"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Chẳng nên đến cơ đấy.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "来るんじゃ、なかった。"
+    },
+    {
+      "name": "Win Variation",
+      "text": "Quá chói lóa…… ――đã không còn nhìn thấy nữa.",
+      "jpname": "ウインバリアシオン",
+      "jptext": "眩しすぎて……\n――もう、見えない。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre mỗi trận lại mạnh hơn, ánh sáng càng lúc càng rực rỡ. Cái lo lắng về “phao vạn nhất” như hồi Cấp Junior giờ đã chẳng còn trong đầu nữa.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは一戦ごとに強くなり、\n輝きの増すばかりだ。もうジュニア級の頃に\n感じたような、万が一の懸念も思いつかない。",
+      "choice_data_list": [
+        "(Orfevre…… mạnh quá!)"
+      ],
+      "jpchoice_data_list": [
+        "（オルフェ……強すぎる！）"
+      ]
+    },
+    {
+      "name": "Khán giả A",
+      "text": "――Nghe nói việc hai chị em cùng đăng quang Arima Kinen là lần đầu tiên trong lịch sử…… kinh khủng thật.",
+      "jpname": "観客A",
+      "jptext": "――『有馬記念』を、姉妹で制覇するのは\n史上初なんだって……すごいなぁ。"
+    },
+    {
+      "name": "Khán giả A",
+      "text": "Với đối thủ top một hàng một bậc của Cấp Senior mà vẫn ra cước như thế…… chắc ở Nhật không còn đối thủ nữa rồi!",
+      "jpname": "観客A",
+      "jptext": "シニア級の、超一線級の相手に\nあの立ち回り……もう日本に敵なしだろ！"
+    },
+    {
+      "name": "Khán giả B",
+      "text": "……. ……Vậy thì…….",
+      "jpname": "観客B",
+      "jptext": "……。\n……だったら……。"
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Nếu là Orfevre…… có khi cả thế giới cũng sẽ thống lĩnh được……?",
+      "jpname": "観客B",
+      "jptext": "オルフェーヴルなら……\n世界さえ、統べられるんじゃないか……？"
+    },
+    {
+      "name": "Khán giả B",
+      "text": "Với vị vua ấy……! Chẳng lẽ sẽ……!!",
+      "jpname": "観客B",
+      "jptext": "あの王なら……！\nもしかすると……！！"
+    },
+    {
+      "name": "",
+      "text": "Orfevre quay về, chỉ nói đúng một câu―― nói một cách trầm lặng.",
+      "jpname": "モノローグ",
+      "jptext": "戻ってきたオルフェーヴルは、\nただひとこと――静かに告げた。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Chuẩn bị hành trang đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "支度を進めよ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ta sẽ tiến về đất ấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "余は、\n彼の地へ向かう。",
+      "choice_data_list": [
+        "(Đất ấy, nghĩa là……!)"
+      ],
+      "jpchoice_data_list": [
+        "（彼の地、ってことは……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chiếc mặt dây chuyền kim treo trước ngực lay động. Điều tôi nhớ lại là chuyện năm ngoái――",
+      "jpname": "モノローグ",
+      "jptext": "胸にぶら下げた、\n金細工のペンダントが揺れた。\n思い起こすのは、去年のこと――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đất ấy…… đã trở nên quá xa.",
+      "jpname": "オルフェーヴル",
+      "jptext": "彼の地は……\n遠くなりすぎた。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Sự khao khát đã quá đà, giấc mơ đã chín muồi…….",
+      "jpname": "オルフェーヴル",
+      "jptext": "過ぎた憧憬、\n熟れた夢……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Tất cả, ta sẽ phá nát.",
+      "jpname": "オルフェーヴル",
+      "jptext": "すべて、\n私が打ち壊す。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Thời khắc đã đầy đủ. Prix de l'Arc de Triomphe, ta sẽ tự ban vinh dự đến đó.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――時は満ちた。\n『凱旋門賞』へ、招かれてやろう。"
+    },
+    {
+      "name": "",
+      "text": "Prix de l'Arc de Triomphe…… đỉnh cao nhất mà Orfevre đã nhắm ngay từ đầu Cấp Junior, không, ngay cả trước đó nữa……!",
+      "jpname": "モノローグ",
+      "jptext": "『凱旋門賞』……ジュニア級の初めから、\nいやその前からオルフェーヴルが\n見据えていた、最高峰の頂……！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Lại có kẻ ngu nghĩ rằng…… đất ấy lại càng xa thêm…… thì phải.",
+      "jpname": "オルフェーヴル",
+      "jptext": "また彼の地が遠のいた……\nと、考える愚か者がいるようだが。"
+    },
+    {
+      "name": "",
+      "text": "Năm ngoái, trong số các thử thách của Nhật cho đến nay, Nakayama Festa đã kết thúc với vị trí thứ hai, gần với chiến thắng nhất…….",
+      "jpname": "モノローグ",
+      "jptext": "昨年、これまでの日本の挑戦の中で、\n最も勝利に近い2着に終わった\nナカヤマフェスタ……。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy năm nay lại thử sức với đỉnh cao nhất ấy…… nhưng chìm ở thứ 11, quay về trong thất vọng. Trong giới fan, không khí cho rằng thêm nữa là không thể thắng đã lan tỏa――",
+      "jpname": "モノローグ",
+      "jptext": "その彼女が今年も最高峰の頂に挑んだが……\n11着に沈み、失意の帰国。ファンの間では、\nもう勝利は無理だという空気が漂うが――",
+      "choice_data_list": [
+        "Nếu là cô…… chắc chắn sẽ đứng trên đỉnh cao ấy!",
+        "Nếu là cô…… sẽ đứng được trên đỉnh cao ấy!"
+      ],
+      "jpchoice_data_list": [
+        "君なら……あの頂に立てる！",
+        "貴方なら……あの頂に立てる！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……Hơi khác đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……少し、違うな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Là chính ta cơ. Chính ta―― sẽ đứng trên đỉnh cao ấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "私こそが、だ。\n私こそが――あの頂に立つ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Việc cho đến nay chưa từng có kẻ chiến thắng hiện lên, chính là bằng chứng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これまで勝者の現れなかったことが、\nその証よ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cái vương miện ấy đấy. ――Nó đang chờ ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "あの冠はな。\n――私を待っている。",
+      "choice_data_list": [
+        "……Đi đón nó thôi!"
+      ],
+      "jpchoice_data_list": [
+        "……迎えに行こう！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Ừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ああ。"
+    },
+    {
+      "name": "",
+      "text": "Prix de l'Arc de Triomphe là vào tháng 10. Việc chọn trận đua xuất chiến trước đó được cô ấy giao cho tôi, nên tôi suy nghĩ về trận đua xứng đáng với Orfevre.",
+      "jpname": "モノローグ",
+      "jptext": "『凱旋門賞』は10月だ。それまでの間に\n出走するレース選びは任せてもらえたので、\nオルフェーヴルに相応しいレースを考える。",
+      "choice_data_list": [
+        "Trước tiên là Tenno Sho Mùa Xuân!",
+        "Trước hết là Tenno Sho Mùa Xuân!"
+      ],
+      "jpchoice_data_list": [
+        "まずは『天皇賞（春）』だな！",
+        "まずは『天皇賞（春）』だね！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tenno Sho Mùa Xuân là trận đua dài 3200m chỉ dành cho Cấp Senior. Tenno Sho đẳng nghi thức chắc chắn là nơi Orfevre khao khát.",
+      "jpname": "モノローグ",
+      "jptext": "『天皇賞（春）』はシニア級のみ出走できる、\n3200mの長距離レース。格式ある天皇賞は、\nオルフェーヴルの求めるところだろう。",
+      "choice_data_list": [
+        "(Tuy nhiên, lại là Prix de l'Arc de Triomphe……!)"
+      ],
+      "jpchoice_data_list": [
+        "（しかし、『凱旋門賞』か……！）"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho Mùa Xuân"
+      ],
+      "jpcolor_text_info_list": [
+        "天皇賞（春）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cảm giác nổi hưng phấn. Chiến thắng trận đua ấy là nguyện vọng bừng bừng của những người làm đua Nhật Bản. Nếu Orfevre chiến thắng―― đó là kỳ tích.",
+      "jpname": "モノローグ",
+      "jptext": "高揚する。そのレースを勝利することは、\n日本のレース関係者の悲願だ。もし、\nオルフェーヴルが勝利すれば――偉業だ。",
+      "choice_data_list": [
+        "(……Tuyệt đối, muốn chống đỡ cô ấy!)"
+      ],
+      "jpchoice_data_list": [
+        "（……絶対に、支えたい！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Orfevre từ nay sẽ làm nên kỳ tích đi vào lịch sử…… nghĩ về số phận ấy, tôi bỗng cảm nhận sự hiện diện của chiếc mặt dây chuyền―― và chạm vào nó.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルはこれから、\n歴史に残る偉業を成す……その運命を考え、\nふとペンダントの存在を感じて――触れた。",
+      "choice_data_list": [
+        "Được rồi, hãy bung hết mình thôi!!"
+      ],
+      "jpchoice_data_list": [
+        "よしっ、気合いを入れていこう！！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "……Phù.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……フ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Kẻ si dại mà. Phấn khích dội ra cả đây rồi đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "痴れ者が。\n響き渡っておるぞ。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Ồ, không vào cùng à?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "おや、\n入らないのか？"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nó đang hứng chí đấy. Cứ để nó làm việc đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "興がのっているのだろう。\n働かせておけ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vì nó là gã nam nhi thẳng tính một lòng mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "あれは、\n一本気な男だからな。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vì nó là cô gái thẳng tính một lòng mà.",
+      "jpname": "オルフェーヴル",
+      "jptext": "あれは、\n一本気な女だからな。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "……Này Or. Bây giờ thì sao nhỉ?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "……ねえオル。\n今はどうかな？"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Anh ấy là gã hề, hay thực sự là chiếc gậy chống?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "彼は道化か、正しく杖か。"
+    },
+    {
+      "name": "Dream Journey",
+      "text": "Cô ấy là gã hề, hay thực sự là chiếc gậy chống?",
+      "jpname": "ドリームジャーニー",
+      "jptext": "彼女は道化か、正しく杖か。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "……Hừ. Giờ này chắc vẫn là gã hề thôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……フン。\nいまだ道化であろう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cho nên, nó phải hóa thân. Thành cả gậy chống…… ấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "故に、化けるのだ。\n杖にも……な。"
+    },
+    {
+      "name": "",
+      "text": "――Tôi đã thấy một giấc mơ.",
+      "jpname": "モノローグ",
+      "jptext": "――夢を見た。"
+    },
+    {
+      "name": "",
+      "text": "Một giấc mơ kỳ lạ…… khác với trước giờ, chẳng có dáng hình. Nhưng có một cảm xúc còn in đậm lại――",
+      "jpname": "モノローグ",
+      "jptext": "不思議な夢だった……\nこれまでと違い、形はない。\nしかし、ある感情が強く残った――"
+    },
+    {
+      "name": "",
+      "text": "Một sự tuyệt vọng, khiến máu rút về tận óc.",
+      "jpname": "モノローグ",
+      "jptext": "血の気の引くような、絶望が。"
+    }
+  ]
+}

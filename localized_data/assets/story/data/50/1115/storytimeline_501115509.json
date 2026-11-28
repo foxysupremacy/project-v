@@ -1,0 +1,50 @@
+{
+  "title": "Vì liên tục xuất chiến......",
+  "jptitle": "連続出走で……",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Một ngày nọ. Nhận được tin nhắn từ Orfevre bảo \"Mau đến đây ngay\", tôi lập tức chạy đến.",
+      "jpname": "モノローグ",
+      "jptext": "ある日のこと。オルフェーヴルから\n『早急に来い』という連絡を受け取り、\n駆けつけた。",
+      "choice_data_list": [
+        "Cô gọi tôi tới, chẳng lẽ có việc gì――",
+        "Cô gọi tôi tới là có việc gì sao――"
+      ],
+      "jpchoice_data_list": [
+        "俺に何か用事でも――",
+        "私に何か用事でも――"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Kẻ non nớt.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――未熟者が。"
+    },
+    {
+      "name": "",
+      "text": "Tức khắc, tôi bị Orfevre trừng trừng nhìn chằm chằm! Đôi mắt như xuyên thấu con người, khiến tôi run rẩy không dứt......!",
+      "jpname": "モノローグ",
+      "jptext": "瞬間、オルフェーヴルに睨めつけられた！\n射貫くような双眸に、震えが止まらない……！",
+      "choice_data_list": [
+        "(O, Orfevre......!?)"
+      ],
+      "jpchoice_data_list": [
+        "（お、オルフェーヴル……！？）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đây là lời khuyến giới. Vô ích mà đổ hết sức lực, là đỉnh điểm của ngu dại. ......Việc ngu dại của kẻ này, hãy tự ghi nhớ cho mà xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "これは訓戒である。\n徒に死力を尽くすは、愚の骨頂。\n……己の愚行、自戒するがよい。"
+    },
+    {
+      "name": "",
+      "text": "......Có vẻ như do chạy trận này đến trận khác, cô ấy đã tích tụ mệt mỏi đáng kể. Phải xem lại lịch rotation sớm thôi......!",
+      "jpname": "モノローグ",
+      "jptext": "……どうやら、レース続きで\n相当な疲労が溜まっているようだ。\n早急にローテを見直そう……！"
+    }
+  ]
+}

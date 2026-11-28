@@ -1,0 +1,558 @@
+{
+  "title": "Khát vọng năm mới",
+  "jptitle": "新年の抱負",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Năm mới sang, Orfevre đã trở thành Mã Nương Cấp Classic. Năm nay cuối cùng cũng...... sẽ thử sức với Tam Miện Classic như kế hoạch ban đầu.",
+      "jpname": "モノローグ",
+      "jptext": "年が明け、オルフェーヴルは\nクラシック級となった。今年はいよいよ……\n当初の予定通り、クラシック三冠に挑む。",
+      "choice_data_list": [
+        "(Trước đó thì...... phải bắt đầu từ chuyện đó đã)",
+        "(Trước đó thì...... trước tiên phải là chuyện đó đã)"
+      ],
+      "jpchoice_data_list": [
+        "（その前に……まずはアレから、だな）",
+        "（その前に……まずはアレから、だね）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Những buổi tập một mình cũng tiến triển thuận lợi, sau khi hoàn thành lịch cuối cùng của năm và tiễn Orfevre về ký túc xá......",
+      "jpname": "モノローグ",
+      "jptext": "ひとりきりのトレーニングも順調に進み、\n年内最後の日程を終えて、オルフェーヴルを\n寮まで送った時のこと……。",
+      "choice_data_list": [
+        "Lần gặp tiếp theo là sau năm mới rồi",
+        "Lần gặp tiếp phải là sau năm mới rồi nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "次に会うのは年明けだな",
+        "次に会うのは年明けだね"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Này, lời mời đâu rồi?",
+      "jpname": "オルフェーヴル",
+      "jptext": "……時に、\n招待状はまだか。",
+      "choice_data_list": [
+        "......Ờ?"
+      ],
+      "jpchoice_data_list": [
+        "……ん？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bữa tiệc năm mới đấy. Chắc chắn là ngươi sẽ đứng ra chủ trì nhỉ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "新年の宴だ。\n貴様が主催するであろう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cuối cùng cũng sẽ trả vương miện về bên ta...... Chắc sẽ được tổ chức long trọng lắm chứ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "いよいよ、我がもとに冠を戻す……。\nさぞ、盛大に執り行われるのであろうな。",
+      "choice_data_list": [
+        "........................Tất nhiên rồi!"
+      ],
+      "jpchoice_data_list": [
+        "……………………もちろん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và như thế, tôi hủy luôn kỳ nghỉ cuối năm, để chuẩn bị bữa tiệc năm mới dâng tặng Orfevre.",
+      "jpname": "モノローグ",
+      "jptext": "というわけで、年末年始の休みを返上し、\nオルフェーヴルに捧げる、\n新年のパーティーの準備を進めていた。"
+    },
+    {
+      "name": "",
+      "text": "Dù khởi nguồn là do cô ấy bảo...... nhưng nghĩ rằng nó sẽ tiếp thêm động lực cho Orfevre, tôi càng quyết tâm hơn.",
+      "jpname": "モノローグ",
+      "jptext": "きっかけこそ言われたからだが……\nオルフェーヴルのモチベーションに\n繋がると考えたら、気合いも入った。",
+      "choice_data_list": [
+        "(Mong cô ấy thích thú......!)"
+      ],
+      "jpchoice_data_list": [
+        "（楽しんでくれるといいな……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và đến ngày diễn ra bữa tiệc. Tôi trang trí phòng Trainer, chuẩn bị mọi thứ rồi mời Orfevre bước vào.",
+      "jpname": "モノローグ",
+      "jptext": "そしてパーティー当日。\nトレーナー室を飾りつけ、準備を整えて\nオルフェーヴルを招き入れた。",
+      "choice_data_list": [
+        "Chúc mừng năm mới!"
+      ],
+      "jpchoice_data_list": [
+        "明けましておめでとう！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Ừm. Cầu mong năm nay cũng hanh thông.",
+      "jpname": "オルフェーヴル",
+      "jptext": "うむ。\n今年もよきにはからえ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vậy. Đây chính là bữa tiệc mà ngươi chuẩn bị à.",
+      "jpname": "オルフェーヴル",
+      "jptext": "で。\nこれが、貴様の拵えた宴か。",
+      "choice_data_list": [
+        "Ừ, đồ ăn ở đằng kia!",
+        "Ừm, đồ ăn ở đằng kia!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、食事はあっちに！",
+        "うん、食事はあっちに！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Tôi đã hỏi nhóm chat của các bầy tôi về khẩu vị của cô ấy, rồi học và nấu những món ăn vừa rực rỡ vừa xa xỉ đúng chất năm mới.",
+      "jpname": "モノローグ",
+      "jptext": "臣下のグループLANEで彼女の好き嫌いを\n確認し、なるべく新年らしい華やか\nかつ豪勢な料理を覚え、調理した。",
+      "choice_data_list": [
+        "Trang trí cũng phải thật lộng lẫy nữa!"
+      ],
+      "jpchoice_data_list": [
+        "飾りもなるべく派手に！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Đỏ, vàng...... quả thật, rất bắt mắt.",
+      "jpname": "オルフェーヴル",
+      "jptext": "赤、金……\n確かに、目を惹く。",
+      "choice_data_list": [
+        "Đó là màu của vua, mang đến may mắn chứ?",
+        "Đó là màu của vua mà, mang đến may mắn đấy chứ?"
+      ],
+      "jpchoice_data_list": [
+        "王の色だ、めでたいだろう？",
+        "王の色だよ、めでたいでしょう？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふぅん。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "A, không tệ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ああ、\n悪くない。",
+      "choice_data_list": [
+        "(......! Tốt quá!)"
+      ],
+      "jpchoice_data_list": [
+        "（……！よかった！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế rồi, định dâng thứ gì?",
+      "jpname": "オルフェーヴル",
+      "jptext": "それで、\n何を献上する。",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "へ？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bữa tiệc của nhà vua, đương nhiên phải có màn biểu diễn.",
+      "jpname": "オルフェーヴル",
+      "jptext": "王の宴に、\n見世物はつきもの。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Với trình độ của ngươi, hẳn có thể trưng ra thứ gì kỳ dị nhỉ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "貴様ならば、\n珍奇なものを見られよう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Cố mà đáp ứng kỳ vọng cho thỏa đáng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "存分に、\n期待に応えよ。",
+      "choice_data_list": [
+        "(L-làm sao đây......!)"
+      ],
+      "jpchoice_data_list": [
+        "（ど、どうする……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Màn diễn ư, đương nhiên chẳng chuẩn bị gì. Giờ đây chỉ còn cách ngay tại chỗ, phô bày cái gì đó theo phong cách ứng biến......!",
+      "jpname": "モノローグ",
+      "jptext": "見世物など、もちろん用意はない。\n今この場で、即興的に\n何かをやってみせるしかない……！",
+      "choice_data_list": [
+        "Khoe sức mạnh",
+        "Dâng món ăn gì đó",
+        "Múa hát"
+      ],
+      "jpchoice_data_list": [
+        "力を示す",
+        "料理などを捧げる",
+        "舞い踊る"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Orfevre thỉnh thoảng lại bảo khoe sức mạnh. Nếu có thể phô bày năng lực của mình, có lẽ sẽ làm cô ấy thích thú.",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは、力を示せと言う時がある。\n自分が持つ能力を見せられれば、\n楽しんでもらえるかもしれない。",
+      "choice_data_list": [
+        "Để tôi phô bày sức mạnh của mình",
+        "Tôi sẽ phô diễn sức mạnh của mình"
+      ],
+      "jpchoice_data_list": [
+        "俺の力を示そう",
+        "私の力を示そう"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hô.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ほう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thôi nào, để vua mở mắt xem.",
+      "jpname": "オルフェーヴル",
+      "jptext": "どれ、\n王が見てやろう。"
+    },
+    {
+      "name": "",
+      "text": "Tôi đảo mắt tìm xem quanh đây có món gì dùng được không. Bỗng nhiên một vật dụng đã chuẩn bị để làm không khí thêm rộn ràng lọt vào tầm mắt.",
+      "jpname": "モノローグ",
+      "jptext": "周囲に何か使えそうなものがないか見回す。\nすると、賑やかしで用意した\nあるアイテムが目に入った。",
+      "choice_data_list": [
+        "Tôi sẽ biểu diễn kendama!"
+      ],
+      "jpchoice_data_list": [
+        "けん玉をやります！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừm...... Thôi thì, diễn thử xem sao.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふぅん……。\nまあ、やってみせよ。",
+      "choice_data_list": [
+        "Vâng!",
+        "Được!"
+      ],
+      "jpchoice_data_list": [
+        "ああ！",
+        "うん！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kendama là món tôi từng chơi từ thuở nhỏ. Đây là trò đòi hỏi phải khéo léo dùng cả cơ thể, là môn kỹ thuật cao đòi hỏi sự kiểm soát lực tinh tế.",
+      "jpname": "モノローグ",
+      "jptext": "けん玉は子どもの頃に経験がある。\n全身をうまく使わねばならず、繊細な力の\nコントロールが求められる高度な競技だ。",
+      "choice_data_list": [
+        "Thế nào, đã chưa!"
+      ],
+      "jpchoice_data_list": [
+        "どうだっ！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Hừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……フ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ... ha ha ha.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふっ……ははは。",
+      "choice_data_list": [
+        "(Cô ấy cười rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（笑った！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Orfevre là vua. Nghĩ như vậy thì chẳng phải những nghi thức đậm chất vua chúa sẽ làm cô ấy thích thú hay sao......?",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルは王だ。となると、\n王らしい儀式のようなものが\n喜ばれるのではないだろうか……？",
+      "choice_data_list": [
+        "Tôi sẽ...... dâng một vật, lên nhà vua!"
+      ],
+      "jpchoice_data_list": [
+        "王に……何かを、捧げます！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふぅん。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Thế, định dâng cái gì?",
+      "jpname": "オルフェーヴル",
+      "jptext": "して、何を捧げる？",
+      "choice_data_list": [
+        "(Làm ngay một món ăn ra trò――)"
+      ],
+      "jpchoice_data_list": [
+        "（それらしい料理を即興で――）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Không. Quyết định rồi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……いや。\n決めた。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Chính ngươi, là vật hiến tế.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――貴様が、贄だ。"
+    },
+    {
+      "name": "",
+      "text": "Khoảnh khắc ấy, Orfevre áp sát thật gần. Bị cô ấy nhìn thẳng từ khoảng cách sát nút mà rùng mình, chẳng lẽ―― là bởi đôi mắt ấy, đẹp đến mức quá đỗi?",
+      "jpname": "モノローグ",
+      "jptext": "瞬間、オルフェーヴルがぐっと距離を詰める。\n間近で見つめられると、ぞっとするのは――\nその瞳が、美しすぎるからだろうか。",
+      "choice_data_list": [
+        "O-Orfevre......?"
+      ],
+      "jpchoice_data_list": [
+        "お、オルフェ……？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Hừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……フ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ... ha ha ha.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふっ……ははは。",
+      "choice_data_list": [
+        "(Cô ấy cười rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（笑った！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Màn diễn ư...... nghĩ đến ngay là kịch hay điệu nhảy dành để thưởng thức. Nếu tính những thứ có thể làm ngay bây giờ......",
+      "jpname": "モノローグ",
+      "jptext": "見世物……というと、すぐに思い浮かぶのは、\nやはり観賞するもの……演劇やダンスなどだ。\n今すぐにできるものと考えたら……。",
+      "choice_data_list": [
+        "Múa hát...... sao?"
+      ],
+      "jpchoice_data_list": [
+        "舞い踊る……？"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hô.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ほう。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nói cách khác, ngươi có tự tin là đẹp mắt trong đôi mắt thẩm mỹ của ta à.",
+      "jpname": "オルフェーヴル",
+      "jptext": "つまり、余の審美眼に\n適う自信があると。",
+      "choice_data_list": [
+        "Đ-đó là......"
+      ],
+      "jpchoice_data_list": [
+        "そ、それは"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Diễn đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "やれ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Múa đi, nhảy lên. Vì tôi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "舞え、踊れ。\n私のために。",
+      "choice_data_list": [
+        "(......Ờ, đ-được rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（……よ、よーし！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Là mình tự nói ra mà. Không còn đường lùi nữa. Nhớ lại vũ đạo của trận ra mắt từng thấy trong buổi luyện tập của cô ấy, tôi nhảy hết sức mình!",
+      "jpname": "モノローグ",
+      "jptext": "自分から言い出したことだ。後には退けない。\n彼女のレッスンで見ていたメイクデビュー……\nその振りつけを思い出しながら、全力で踊る！",
+      "choice_data_list": [
+        "Xuýt...... Hô......! Há!"
+      ],
+      "jpchoice_data_list": [
+        "よっ……ほっ……！はぁっ！"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "――......Hừ.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――……フ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hừ... ha ha ha.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ふっ……ははは。",
+      "choice_data_list": [
+        "(Cô ấy cười rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（笑った！）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Hay lắm, hay lắm. Một màn diễn kỳ dị đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "よい、よい。\n奇怪な見世物であった。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "――Nhận đi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――受け取れ。"
+    },
+    {
+      "name": "",
+      "text": "Orfevre ném cho tôi thứ...... một cái túi nhỏ. Trong đó đựng thứ gì đó như lá cây, thơm dịu kỳ lạ......",
+      "jpname": "モノローグ",
+      "jptext": "オルフェーヴルが投げて寄こしたのは……\n小さな袋だった。葉っぱのようなものが\n詰まっており、とてもいい香りがする……。",
+      "choice_data_list": [
+        "Cái này......"
+      ],
+      "jpchoice_data_list": [
+        "これ……"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "Bảo Chị làm ra đấy. Là túi thơm đấy.",
+      "jpname": "オルフェーヴル",
+      "jptext": "姉上に作らせた。\n香り袋だ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Nghe nói có công hiệu an thần. Để cạnh gối mà dùng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "安らぐ効能があるという。\n枕元にでも置いておけ。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "......Mai nghỉ một ngày. Bù lại thì phải làm việc tử tế hơn nữa.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……明日は休め。\nその分、また励めよ。"
+    },
+    {
+      "name": "",
+      "text": "Hóa ra Orfevre cũng có cách quan tâm riêng của mình. Tôi cảm thấy lòng tin tăng thêm một chút.",
+      "jpname": "モノローグ",
+      "jptext": "どうやらオルフェーヴルなりに、\n気を使ってくれているようだ。\nほんの少し、信頼が増したのを感じる。",
+      "choice_data_list": [
+        "Rõ rồi, cảm ơn cô!"
+      ],
+      "jpchoice_data_list": [
+        "わかった、ありがとう！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhân dịp này, để thưởng thức không khí năm mới, tôi đến ngắm bình minh. Chắc vì không phải là lần \"đầu tiên\" nên không một bóng người――",
+      "jpname": "モノローグ",
+      "jptext": "せっかくなので、新年らしい雰囲気を\n味わおうと日の出を見に来た。\n“初”ではないためか、人は全くいない――",
+      "choice_data_list": [
+        "(......Không, có ai đó kìa......?)"
+      ],
+      "jpchoice_data_list": [
+        "（……いや、誰かいる……？）"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "――Hê, đẹp đấy. ...Là nó gọi tôi đến à.",
+      "jpname": "？？？",
+      "jptext": "――へえ、きれいなもんだ。\n……私を呼んだのは、こいつか。"
+    },
+    {
+      "name": "",
+      "text": "Cô ấy nhặt thứ gì đó từ bãi biển lên...... rồi đang nói chuyện. Đôi mắt lấp lánh bí ẩn lay động―― chợt, ánh mắt chúng tôi chạm nhau.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、浜辺から何かを拾い上げて……\n話しかけている。不思議な輝きの瞳が揺れ――\n不意に、目が合った。"
+    },
+    {
+      "name": "???",
+      "text": "Ừm? Cậu là...... ―― ...a, hóa ra vậy.",
+      "jpname": "？？？",
+      "jptext": "ん？　あんたは……――\n……ああ、なるほど。"
+    },
+    {
+      "name": "???",
+      "text": "Chào chào, chúc mừng năm mới. ――Và, món này...... là của cậu đấy.",
+      "jpname": "？？？",
+      "jptext": "やあやあ、あけましておめでとう。\n――そして、こいつは……あんたのものだ。",
+      "choice_data_list": [
+        "Hả――"
+      ],
+      "jpchoice_data_list": [
+        "え――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Theo lời đó, thứ cô ấy trao cho tôi là...... một chiếc vòng cổ kim hoàn nhỏ xinh. Ánh sáng phát ra từ đường nét chạm khắc tinh xảo khiến tâm trí tôi say đắm......",
+      "jpname": "モノローグ",
+      "jptext": "そう言って彼女から手渡されたのは……\n小さな美しい、金細工のペンダントだった。\n繊細な細工が放つ輝きに、心を奪われる……。",
+      "choice_data_list": [
+        "Này, món này là――",
+        "Này, cái này là――"
+      ],
+      "jpchoice_data_list": [
+        "なあ、これって――",
+        "ねえ、これって――"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Khi ngẩng đầu lên, bóng dáng Mã Nương ấy...... đã không còn nữa.",
+      "jpname": "モノローグ",
+      "jptext": "顔を上げると、\nそのウマ娘の姿は……すでになかった。"
+    }
+  ]
+}
