@@ -1,0 +1,780 @@
+{
+  "title": "Cơ hội bốc thăm trúng thưởng!",
+  "jptitle": "福引チャンス！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Cùng Almond Eye đi mua sắm ngoài phố, trên đường quay về Học Viện\nTracen――",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイと外で買い出しをして、\nトレセン学園へと戻る帰り道――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ? Nơi đó......",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら？\nあそこ……。"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Nào nào, Lễ Hội Bốc Thăm Trúng Thưởng Lớn Đầu Xuân đang diễn ra đấy\nnhé! Giải đặc biệt là thứ này —— “Phiếu du lịch suối nước nóng”!",
+      "jpname": "商店街の人",
+      "jptext": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "color_text_info_list": [
+        "Phiếu du lịch suối nước nóng"
+      ],
+      "jpcolor_text_info_list": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Giải Nhất là “Hamburger cà rốt thượng hạng”, Giải Nhì là “Cà rốt xếp cả núi”,\nGiải Ba là “1 cây cà rốt”!",
+      "jpname": "商店街の人",
+      "jptext": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Nào nào, trò bốc thăm may mắn vui tươi rực rỡ đây! Ai tham gia cũng được\nhết nhé!",
+      "jpname": "商店街の人",
+      "jptext": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Bốc thăm trúng thưởng cơ đấy! Trông vui quá!",
+      "jpname": "アーモンドアイ",
+      "jptext": "福引ですって！\n面白そう！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Ô, Ai-chan đang phong độ cực đỉnh dạo này mà! Hạng nhất của bốc\nthăm―― giải đặc biệt cũng ôm luôn chứ sao nhỉ!?",
+      "jpname": "商店街の人",
+      "jptext": "おっ、最近絶好調のアイちゃんじゃねぇか！\n福引の1着――特賞もとっちまわねぇか！？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......! Hạng nhất, của trò bốc thăm.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……！\n福引の、1着。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Trainer!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……トレーナー！",
+      "choice_data_list": [
+        "Chỉ có đúng một tấm vé bốc thăm thôi đấy",
+        "Chỉ có đúng một tấm vé bốc thăm thôi nhé"
+      ],
+      "jpchoice_data_list": [
+        "福引券、1枚だけあるぞ",
+        "福引券、1枚だけあるよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cơ hội chỉ có duy nhất một lần...... điều kiện y như trận đua. Có gì không hay\nđâu!",
+      "jpname": "アーモンドアイ",
+      "jptext": "チャンスはたった一度きり……\nレースと同じ条件ね。いいじゃない！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em đi thắng đây!",
+      "jpname": "アーモンドアイ",
+      "jptext": "わたし、勝ってくるわ！"
+    },
+    {
+      "name": "",
+      "text": "Almond Eye hết sức hăng hái quay cần máy bốc thăm!",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイがとても張り切って\n抽選器のレバーを回した！"
+    },
+    {
+      "name": "",
+      "text": "Và kết quả là――",
+      "jpname": "モノローグ",
+      "jptext": "その結果は――"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Ôi không tin được! Xin chúc mừng nhaaaa!! Giải đặc biệt “Phiếu du lịch suối\nnước nóng”, đã xuất hiện roiii!!",
+      "jpname": "商店街の人",
+      "jptext": "なんとっ！　おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！"
+    },
+    {
+      "name": "",
+      "text": "Đã giành được “<itemname>”",
+      "jpname": "モノローグ",
+      "jptext": "『<itemname>』を獲得した",
+      "color_text_info_list": [
+        "<itemname>"
+      ],
+      "jpcolor_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer! Em thắng rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー！\n勝ったわ！",
+      "choice_data_list": [
+        "Làm tốt lắm!",
+        "Làm tốt lắm đấy!"
+      ],
+      "jpchoice_data_list": [
+        "やったな！",
+        "やったね！"
+      ]
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Quả nhiên danh bất hư truyền! Ông đây thua sạch sành sanh rồi. Nào, mang\ntheo đi!",
+      "jpname": "商店街の人",
+      "jptext": "いやぁ、さすがだよ！\nこりゃおじさんの完敗だ。さ、持っていきな！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả? Mang theo là sao......",
+      "jpname": "アーモンドアイ",
+      "jptext": "へ？\n持っていくって……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“Phiếu du lịch suối nước nóng”!",
+      "jpname": "アーモンドアイ",
+      "jptext": "『温泉旅行券』！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Cảm ơn bác! Em xin nhận trọn vẹn nhé.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ありがとうございます！\nありがたく頂きますね。",
+      "choice_data_list": [
+        "(Quả nhiên em quên mất chuyện giải thưởng......)",
+        "(Quả nhiên em quên mất chuyện giải thưởng đấy......)"
+      ],
+      "jpchoice_data_list": [
+        "（さては景品のこと、忘れてたな……）",
+        "（さては景品のこと、忘れてたね……）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Ôi, bồn tắm lộ thiên cũng đầy đủ nữa! Hẳn là một nhà trọ suối nước\nnóng hoành tráng lắm!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――へえ、露天風呂も充実してるわね！\nかなり立派な温泉旅館みたい！",
+      "choice_data_list": [
+        "Mong chờ thật, định đi khi nào đấy?",
+        "Mong chờ thật, định đi khi nào nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "楽しみだな、いつ行くんだ？",
+        "楽しみだね、いつ行くの？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng vậy...... ngày nghỉ dưỡng kế tiếp em có lịch rồi, đầu tháng sau thì sao\nnhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "そうね……次の休養日は予定があるし、\n来月の頭なんかはどうかしら？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tinh thần sảng khoái, rồi nhắm tới “Osaka Cup” cũng hay đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "リフレッシュして、\n『大阪杯』を目指すのもいいわね！",
+      "choice_data_list": [
+        "Được rồi, anh sẽ xếp vào lịch trình."
+      ],
+      "jpchoice_data_list": [
+        "わかった、スケジュールに組み込んでおく"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn anh!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとう！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thời điểm tận hưởng suối nước nóng tuyệt nhất, chắc chắn là khi mệt lử\nngười nhỉ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "温泉を一番楽しめるのは、\nきっと疲れきった時よね。",
+      "choice_data_list": [
+        "Được rồi, anh sẽ rèn nặng tay hơn một chút nhé?"
+      ],
+      "jpchoice_data_list": [
+        "よし、強めに鍛えていこうか"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, em đang chờ anh nói câu đó đấy! Còn anh cũng tăng cường chạy bộ thì\nsao nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふ、そう言ってほしかったのよ！\n貴方も走り込み、増やしたらどうかしら？",
+      "choice_data_list": [
+        "Haha, sao đến cả anh nữa thế",
+        "Haha, sao đến cả anh nữa thế nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "はは、どうして俺まで",
+        "ふふ、どうして私まで"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ, tại vì................",
+      "jpname": "アーモンドアイ",
+      "jptext": "え、だって………………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "..........Không phải, thôi đúng rồi. Em chưa từng hỏi gì cả.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……………………。\nいえ、そうよね。わたし、聞かなかったもの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer. Anh có ngày nào trống rảnh hẳn trong thời gian gần đây không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー。\n貴方、直近でガッツリ空いている日はある？",
+      "choice_data_list": [
+        "Một thời gian nữa chắc anh toàn bận các lớp bồi dưỡng thì phải"
+      ],
+      "jpchoice_data_list": [
+        "しばらくは講習とかでいっぱいかなぁ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "................",
+      "jpname": "アーモンドアイ",
+      "jptext": "………………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Quả nhiên lịch suối nước nóng, không cần xếp vào nữa đâu!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……やっぱり温泉のスケジュール、\n入れなくていい！",
+      "choice_data_list": [
+        "Hả?"
+      ],
+      "jpchoice_data_list": [
+        "え？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tạm để trắng cả! Em sẽ tập trung huấn luyện. Phiếu du lịch, anh giữ giúp em\nnhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "いったん白紙よ！　トレーニングに集中する。\n旅行券は預かっておいてくれる？",
+      "choice_data_list": [
+        "Cái đó thì được thôi nhưng――"
+      ],
+      "jpchoice_data_list": [
+        "それはいいけど――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chuyện này thế là thôi được nói nữa rồi đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "もうこのお話はおしまいっ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Sẽ có một ngày―― nhất định! Em sẽ đi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……いつか――必ず！　行くわよ！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Xin chúc mừng, Giải Nhất nhaa! Phần thưởng là “Hamburger cà rốt thượng\nhạng”!",
+      "jpname": "商店街の人",
+      "jptext": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！"
+    },
+    {
+      "name": "",
+      "text": "Đã giành được “<itemname>”",
+      "jpname": "モノローグ",
+      "jptext": "『<itemname>』を獲得した",
+      "color_text_info_list": [
+        "<itemname>"
+      ],
+      "jpcolor_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Giải Nhất......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "1等……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Giải Nhất. ..........Giải Nhất..........",
+      "jpname": "アーモンドアイ",
+      "jptext": "……1等。\n…………1等…………。"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Trainer-san...... Ai-chan, bị làm sao thế? Giải Nhất, chẳng làm em ấy vui\nà......?",
+      "jpname": "商店街の人",
+      "jptext": "トレーナーさん……アイちゃん、\nどうしちまったんだい？\n1等、嬉しくなかったのかねぇ……？",
+      "choice_data_list": [
+        "Không, có lẽ không phải vậy đâu――"
+      ],
+      "jpchoice_data_list": [
+        "いや、恐らくそうではなくて――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Này, Trainer. Giải Nhất, vẫn là Giải Nhất đúng không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ねえ、トレーナー。\n1等って、1等よね？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng...... giải đặc biệt chính là hạng nhất của trò bốc thăm đúng không?\nVậy thì, em là......――",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも……特賞が、福引の1着なんでしょう？\nだったら、わたしは……――",
+      "choice_data_list": [
+        "Không thua đâu! Ai không thua đâu!!"
+      ],
+      "jpchoice_data_list": [
+        "負けてない！アイは負けてない！！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "！！",
+      "choice_data_list": [
+        "Đúng rồi chứ bác! ....Giải Nhất cũng chính là Nhất hạng mà!"
+      ],
+      "jpchoice_data_list": [
+        "ですよね、おじさん！……1等は1着！"
+      ]
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Hả!? À, Ơ...... à đúng rồi! Ai-chan không thua đâu! Giải Nhất cũng chính là\nNhất hạng mà!",
+      "jpname": "商店街の人",
+      "jptext": "えっ！？　あ、えぁ～～……ああ、もちろん！\nアイちゃんは負けてない！　1等は1着！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Thật sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……本当に？"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Thật! “Hamburger cà rốt thượng hạng” mới chính là vinh quang tối thượng\nnhất sử sách! Đỉnh cao chỉ dành riêng cho Ai-chan!",
+      "jpname": "商店街の人",
+      "jptext": "本当に！　『特上にんじんハンバーグ』こそ、\n史上最高の栄誉！　アイちゃんだけの頂点さ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "........",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "(Thình thịch thình thịch......)"
+      ],
+      "jpchoice_data_list": [
+        "（ドキドキドキドキ……）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em làm được rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "やったわ！",
+      "choice_data_list": [
+        "(Phù!!)"
+      ],
+      "jpchoice_data_list": [
+        "（ほっ！！）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Em xin dùng món——!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――いただきまーす！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ừmm! Ngon quá!",
+      "jpname": "アーモンドアイ",
+      "jptext": "んん～！　美味しい！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hương vị của chiến thắng...... khác biệt tuyệt đối! Trainer cũng nếm thử đi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "勝利の味わい……格別ね！\nトレーナーも食べてみて！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Giải Nhì neee!! Phần thưởng là “Cà rốt xếp cả núi”!",
+      "jpname": "商店街の人",
+      "jptext": "2等賞～！！\n賞品は『にんじん山盛り』です！"
+    },
+    {
+      "name": "",
+      "text": "Đã giành được “<itemname>”",
+      "jpname": "モノローグ",
+      "jptext": "『<itemname>』を獲得した",
+      "color_text_info_list": [
+        "<itemname>"
+      ],
+      "jpcolor_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Giải Nhì......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "2等……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Aa, cay cú quá! Chỉ thiếu một chút nữa là thắng được rồi......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ああ、悔しい！\nもう少しで勝てたのに……！",
+      "choice_data_list": [
+        "(Thế à......?)",
+        "(Thế hả......?)"
+      ],
+      "jpchoice_data_list": [
+        "（そうなのか……？）",
+        "（そうなの……？）"
+      ]
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Tiếc thật đấy! Nhưng mà nhìn này, còn có con nói giải này mới là số 1 cơ\nđấy!",
+      "jpname": "商店街の人",
+      "jptext": "いやぁ、残念だったな！　でもほら、\nこの賞が1番って言う子もいるくらいだから！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Cà rốt xếp cả núi này, hoành tráng chứ nhỉ? Tất cả đều có bảo chứng từ cửa\nhàng rau, toàn là cà rốt nghiêm túc đấy!",
+      "jpname": "商店街の人",
+      "jptext": "山盛りにんじん、すごいだろうっ？\n全部八百屋のお墨付き、本気にんじんだ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cà rốt nghiêm túc......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "本気にんじん……！",
+      "choice_data_list": [
+        "(A, có vẻ hết hụt hẫng rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（あ、ちょっと元気になった！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Muốn ăn sạch trước khi mất độ ngon―― tính theo ý kiến của Almond Eye,\ntôi quyết định cũng sẽ phát cà rốt ngay tại Học Viện.",
+      "jpname": "モノローグ",
+      "jptext": "美味しいうちに食べきりたい――\nアーモンドアイの意見を踏まえ、\n学園でもにんじんを配ることにした。"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "―― Cà rốt.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "――にんじん。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A! Ramonu-san cũng có hứng thú ạ? Xin mời chị, cứ tự nhiên lấy ạ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ！　ラモーヌさんもご興味ありますか？\n是非、どうぞ！",
+      "color_text_info_list": [
+        "Ramonu"
+      ],
+      "jpcolor_text_info_list": [
+        "ラモーヌ"
+      ]
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "........――",
+      "jpname": "メジロラモーヌ",
+      "jptext": "…………――"
+    },
+    {
+      "name": "Mejiro Ramonu",
+      "text": "......Chẳng bao lâu nữa, chị sẽ nhận lấy.",
+      "jpname": "メジロラモーヌ",
+      "jptext": "……近いうちに、頂くわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả? ......A! Cà rốt, chị còn chưa nhận mà——nè!",
+      "jpname": "アーモンドアイ",
+      "jptext": "へっ？　……あ！\nにんじん、受け取ってないですよー！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cà rốt xin mời——nè! Ngon lắm——nè!",
+      "jpname": "アーモンドアイ",
+      "jptext": "にんじんどうぞー！\n美味しいですよー！"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Đáng yêu làm sao, cô bán hàng nhỏ. Cho chị xin một cây được không?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "愛らしい売り子だこと。\n1本頂戴できる？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Dĩ nhiên rồi ạ! Gentildonna-san định dùng thế nào ạ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "もちろんです！\nジェンティルさんはどう召し上がるんですか？"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Chị sẽ dùng cùng với protein. Nhằm nhận được sức mạnh tốt hơn nữa――",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "タンパク質と合わせて頂くわ。\nよりよい力を得るために――"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Nhằm nghiền nát những viên ngọc quý phải bị nghiền nát. Hô hô hô......",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "打ち砕くべき宝石を、砕くために。\nほほほ……。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Ai-senpai, em cũng...... xin nhận một phần ạ.",
+      "jpname": "デアリングタクト",
+      "jptext": "アイ先輩、私も……\n頂いていきます。"
+    },
+    {
+      "name": "Daring Tact",
+      "text": "Vì em sắp đến Trận ra mắt rồi―― em định nhận lấy sức mạnh của senpai,\ndùng làm lương thực ạ.",
+      "jpname": "デアリングタクト",
+      "jptext": "もうすぐ、メイクデビューなので――\n先輩の力をもらうつもりで、糧にしますね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Chẳng hiểu sao, khoảnh khắc nổi da gà hình như nhiều ghê......",
+      "jpname": "アーモンドアイ",
+      "jptext": "……なんだか、\nゾクッとくる瞬間が多かったような……。",
+      "choice_data_list": [
+        "Ừ, đúng là vậy......",
+        "Ừ, đúng là vậy......"
+      ],
+      "jpchoice_data_list": [
+        "ああ、そうだな……",
+        "うん、そうだね……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Mà khoan, ơ? Trong hộp có một lá thư.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……って、あら？\n箱に手紙が入ってる。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“Xin phép nhận một cây cà rốt”......",
+      "jpname": "アーモンドアイ",
+      "jptext": "『にんじん、1本頂戴します』……。"
+    },
+    {
+      "name": "Still in Love",
+      "text": "....Fufu. Hãy làm thành bánh cà rốt nào......",
+      "jpname": "スティルインラブ",
+      "jptext": "……ふふ。\nキャロットケーキにしましょう……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phần còn lại, chúng mình chia nhau hưởng! Đương nhiên―― là sau buổi\nhuấn luyện!",
+      "jpname": "アーモンドアイ",
+      "jptext": "残ったものは、わたしたちで頂きましょ！\nもちろん――トレーニングのあとに！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Giải Ba nee! Phần thưởng là “1 cây cà rốt”!",
+      "jpname": "商店街の人",
+      "jptext": "3等賞～！\n賞品は『にんじん1本』です！"
+    },
+    {
+      "name": "",
+      "text": "Đã giành được “<itemname>”",
+      "jpname": "モノローグ",
+      "jptext": "『<itemname>』を獲得した",
+      "color_text_info_list": [
+        "<itemname>"
+      ],
+      "jpcolor_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đã đưa lên bảng thông báo rồi đấy nhưng......",
+      "jpname": "アーモンドアイ",
+      "jptext": "掲示板には、入れたけれど……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......! Cay cú quá......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っっ！\n悔しい……！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "X-xin lỗi nhé. Tại ông đây lỡ khích lệ thừa...... khiến em buồn vì chuyện\nchẳng liên quan gì tới bốc thăm cả.",
+      "jpname": "商店街の人",
+      "jptext": "ご、ごめんなぁ。おじさんが、\n余計な煽りをしたばっかりに……。\n福引と関係ないことで落ち込ませちまって。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em đã đối phó với tâm thế một trận so tài nên rất vui ạ! Cho nên em, hoàn\ntoàn không buồn chút nào!",
+      "jpname": "アーモンドアイ",
+      "jptext": "勝負のつもりで挑めて楽しかったです！\nだからわたし、全然落ち込んでませんっ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn bác nhiều ạ! Hẹn gặp lại―― năm sau!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとうございました！\nまた――来年！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Haa......",
+      "jpname": "アーモンドアイ",
+      "jptext": "はぁ……。",
+      "choice_data_list": [
+        "Ai.... Này em"
+      ],
+      "jpchoice_data_list": [
+        "アイ。……ほら"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cái này......",
+      "jpname": "アーモンドアイ",
+      "jptext": "これ……。",
+      "choice_data_list": [
+        "Anh vừa nướng đây. Hẳn ngọt và ngon lắm!",
+        "Anh vừa nướng rồi. Hẳn ngọt và ngon lắm!"
+      ],
+      "jpchoice_data_list": [
+        "焼いてきたぞ。甘くて美味しいはず！",
+        "焼いてきたよ。甘くて美味しいはず！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer......",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー……。",
+      "choice_data_list": [
+        "Lúc nãy cay cú lắm đúng không",
+        "Lúc nãy cay cú lắm đúng không nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "悔しかったなぁ",
+        "悔しかったねぇ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": ".... .........Vâng.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ。\n…………ええ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Năm sau nhất định―― em sẽ thắng!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "来年こそ、必ず――\n勝つわよ！！"
+    },
+    {
+      "name": "Người bán hàng khu phố",
+      "text": "Tiếc quá, trật rồi! Giải thưởng tham gia là “Khăn giấy” đấy nhé.",
+      "jpname": "商店街の人",
+      "jptext": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。"
+    },
+    {
+      "name": "",
+      "text": "Đã giành được “<itemname>”",
+      "jpname": "モノローグ",
+      "jptext": "『<itemname>』を獲得した",
+      "color_text_info_list": [
+        "<itemname>"
+      ],
+      "jpcolor_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......, trật rồi......",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ、はずれ……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em, đã thua rồi nhỉ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……わたしは、負けたのね。",
+      "choice_data_list": [
+        "Dù vậy, đây chỉ là trò bốc thăm mà......"
+      ],
+      "jpchoice_data_list": [
+        "とはいえ、福引だから……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không đâu, em không cần an ủi! Không sao, em hiểu mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ううん、慰めはいらないわ！\n大丈夫、わかってるもの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng vậy, em chỉ trật trong trò bốc thăm thôi. Chuyện đó, em hiểu rõ mà......",
+      "jpname": "アーモンドアイ",
+      "jptext": "そう、わたしは福引に外れただけ。\nそんなの、わかっているわ……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em hiểu chứ——em hiểu màaa!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……～～っっ、\nわかっているわよ～～！！"
+    },
+    {
+      "name": "",
+      "text": "Có lẽ vì ngay từ đầu đã nghĩ đến chuyện thắng thua, Almond Eye lại cay cú\nhơn mức cần thiết.",
+      "jpname": "モノローグ",
+      "jptext": "最初に勝ち負けで考えてしまったせいか、\n必要以上に悔しがってしまう\nアーモンドアイだった。"
+    }
+  ]
+}

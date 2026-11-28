@@ -1,0 +1,320 @@
+{
+  "title": "Cái bẫy trong mê cung",
+  "jptitle": "迷宮の落とし穴",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hôm nay, anh đang cùng Almond Eye tham gia một trò chơi thoát hiểm thực\ntế.",
+      "jpname": "モノローグ",
+      "jptext": "今日は、アーモンドアイと一緒に\n体験型の脱出ゲームに参加している。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Ừm ừm. Để đi tiếp từ đây, phải “Gặp ẩn sĩ đang đuổi theo củ cà rốt”.\nNghĩa là――",
+      "jpname": "アーモンドアイ",
+      "jptext": "――ふんふん。ここから先に進むには、\n『にんじんを追う隠者を訪ねよ』。\nということは――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Bức tranh nằm đối diện bức tranh tĩnh vật rau củ...... chính là phần người\nđang quay mặt hướng thẳng về phía trước――",
+      "jpname": "アーモンドアイ",
+      "jptext": "野菜の静物画の、ちょうど向かい側の絵……\n真正面を向いている人の部分に――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tuyệt vời! Tìm được công tắc rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "やった！　スイッチを見つけたわ！",
+      "choice_data_list": [
+        "Em giải mượt như trôi nước thật đấy",
+        "Em giải mượt như trôi nước thật nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "すらすら解くなぁ",
+        "すらすら解くねぇ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, mức này thì, tất nhiên rồi. Giữ nhịp này mà lao tiếp sang phòng kế tiếp\nnào!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふっ、これぐらいは、ね。\nこの調子でどんどん次の部屋へ\n進んでいきましょう！"
+    },
+    {
+      "name": "",
+      "text": "Về sau, sự sắc bén suy luận của Almond Eye càng nổi bật, cứ thế vượt qua\ntừng phòng một cách nhẹ nhàng.",
+      "jpname": "モノローグ",
+      "jptext": "その後もアーモンドアイの推理の鋭さは\n際立ち、難なく部屋を突破していった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hóa ra là vậy. Đọc ngược chiều kim đồng hồ, “Yo” “Ba” “N” “L”―― ngọn\nnến thứ tư từ trái tính chính là công tắc nhỉ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "なるほど。反時計周りに読んで、\n『ヨ』『バ』『ン』『L』――\n左から4番目の燭台がスイッチね！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đâm ghim vào lỗ này với lỗ kia là...... à, mở ra rồi! Hôm nay đầu óc em thật\nsắc bén!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ここと、ここの穴にピンを打ち込めば……\nあ、開いた！　今日のわたし、冴えてるわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng, xin lỗi anh nhé. Từ nãy đến giờ cứ vô tình, tự mình giải một mình\nmãi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも、ごめんね。さっきからついつい、\nひとりで解いていっちゃって。",
+      "choice_data_list": [
+        "Chuyện đó, miễn em vui là được mà",
+        "Chuyện đó, miễn em vui là được rồi"
+      ],
+      "jpchoice_data_list": [
+        "そんなの、君が楽しめているならいいよ",
+        "そんなの、貴方が楽しめているならいいよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, cảm ơn anh! Vậy thì―― hôm nay giữ nhịp này, em nhắm luôn việc phá\nđảo toàn bộ câu hỏi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふっ、ありがとう！\nなら――今日はこの調子で、\n全問突破、目指しちゃうわよ！"
+    },
+    {
+      "name": "",
+      "text": "Và thế―― cuối cùng cũng tới được căn phòng cuối cùng――",
+      "jpname": "モノローグ",
+      "jptext": "そして――最後の部屋に\n辿り着いたのだが――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Hưmmm. Mật mã thì đã giải, câu chữ gợi ý cũng đã hoàn thành rồi,\nnhưng――",
+      "jpname": "アーモンドアイ",
+      "jptext": "――う～ん。暗号は解いて、\nヒントになる文章は完成したんだけど――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Không, có gì đó sai sai. Vậy thì khẩu lệnh mở cửa sẽ thành “Cà Tím\nVương Quốc” mất...... sao lại đùa cợt kiểu này vào lúc này――",
+      "jpname": "アーモンドアイ",
+      "jptext": "……いえ、おかしいわね。これだと\n扉を開く合言葉が『ナスビ・キングダム』に\nなっちゃう……急にそんなおふざけは――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hưmmm, đợi chút nhé. Lẽ nào ngay từ đầu em đã giải sai cách mật mã......?",
+      "jpname": "アーモンドアイ",
+      "jptext": "う～、ちょっと待ってね。まさか、\n暗号の解き方をそもそも間違えて……？"
+    },
+    {
+      "name": "",
+      "text": "Nói thì cay cú, nhưng ngay trước vạch đích, suy nghĩ của Almond Eye lại rơi\nvào ngõ cụt...... thời gian còn lại cứ thế cạn dần.",
+      "jpname": "モノローグ",
+      "jptext": "皮肉にも、クリア目前にして、\nアーモンドアイの思考は袋小路に入り\n……じわじわと、残り時間は減っていく。"
+    },
+    {
+      "name": "",
+      "text": "Và rồi...... còn cay cú hơn nữa: từ trước tới giờ, mọi câu đố đều được giao\ntrọn cho Almond Eye, vậy mà――",
+      "jpname": "モノローグ",
+      "jptext": "そして……もっと皮肉なことに、\nこれまで謎解きはアーモンドアイに\n任せっきりだったというのに――",
+      "choice_data_list": [
+        "(......Chỉ riêng câu này, anh lại biết được đáp án mất rồi)"
+      ],
+      "jpchoice_data_list": [
+        "（……この問題だけ、答えわかっちゃった）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nhưng―― vừa mới thúc đẩy em phá đảo toàn bộ câu hỏi xong. Nếu giờ, chỉ\nriêng câu cuối cùng lại là anh đáp thì――",
+      "jpname": "モノローグ",
+      "jptext": "しかし――先ほど全問クリアを後押しした\nばかりだ。それで、よりによって\n最終問題だけ自分が答えてしまうのは――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......? Sao thế, Trainer. Từ nãy đến giờ, anh cứ ngọ ngọi thế――",
+      "jpname": "アーモンドアイ",
+      "jptext": "……？　どうしたの、トレーナー。\nさっきから、むずむずしているけど――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... Lẽ nào. Anh đã biết đáp án rồi?",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………もしかして。\n答え、わかっちゃった？",
+      "choice_data_list": [
+        "Hả...... không...... làm gì có chuyện đó......"
+      ],
+      "jpchoice_data_list": [
+        "えっ……いやっ……そんなことは……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Biết thật rồi còn gì!?",
+      "jpname": "アーモンドアイ",
+      "jptext": "わかってるじゃない！？",
+      "choice_data_list": [
+        "......Vậy thì, cho anh thử đáp được không?"
+      ],
+      "jpchoice_data_list": [
+        "……じゃあ、答えてみてもいいかな？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả...... xin lỗi, anh chờ đã, đừng đáp vội! Thêm chút nữa...... chỉ thêm chút\nnữa thôi mà......! Để em nghĩ xem......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "えっ……ごめん、まだ答えないで！\nもう少し……もう少しなんだから……！\nええと……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......À!? Phải rồi! Chữ trong mật mã được chia theo màu...... nối theo màu\nmàu thì―― chỉ cần sắp xếp lại chỗ này là......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……あっ！？　なんだ！　暗号の文字は\n色分けされてるから……こうこうで――\nここを並び替えれば……！",
+      "choice_data_list": [
+        "(Đúng rồi đúng rồi!)"
+      ],
+      "jpchoice_data_list": [
+        "（そうそう！）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em hiểu ra rồi! Đáp án chính là――",
+      "jpname": "アーモンドアイ",
+      "jptext": "わかった！　答えは――"
+    },
+    {
+      "name": "Loa phát thanh",
+      "text": "―― Hết giờ! Tại đây, trò chơi đã kết thúc!",
+      "jpname": "放送",
+      "jptext": "『――タイムアップ！\nここで、ゲームオーバーです！』"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。",
+      "choice_data_list": [
+        "......Cuối cùng, đáp án của hai ta vẫn đúng mà",
+        "......Cuối cùng, đáp án của hai ta vẫn đúng nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "……結局、俺たちの答えで合ってたな",
+        "……結局、私たちの答えで合ってたね"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... . À này. Em có một điều muốn nhờ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。\nあの。お願いがあるの。",
+      "choice_data_list": [
+        "L-là...... chuyện gì vậy?"
+      ],
+      "jpchoice_data_list": [
+        "な……なんでしょう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một chỗ càng vắng người càng tốt...... anh có gợi ý được không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "なるべく人気のないところに、\n心当たりはないかしら。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... . ......Hít vào......",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。\n……すぅ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Không cam tâm quáiiiii――!!!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――悔しいぃぃぃーーーっ！！！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em tưởng là đã làm được rồi mà......! Chỉ cần thêm vài giây nữa...... là đã\nphá đảo được rồi màaaa!",
+      "jpname": "アーモンドアイ",
+      "jptext": "できた、って思ったのに……！\nあと数秒あれば……クリアできたのにぃ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Còn nữa. Trainer thì rõ ràng đã biết đáp án rồi mà. Nếu cứ thẳng thắn\nhợp sức với nhau...... thì.",
+      "jpname": "アーモンドアイ",
+      "jptext": "――それに。トレーナーはわかってたのに。\n素直に力を合わせてれば……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vậy mà lại cương quyết tự mình giải, cứ cứng đầu cứng cổ......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "なのに、絶対ひとりで解くんだって、\n意地になって……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Thề rồi...... sẽ không thua! Với chính mình như thế ấy...... nhất định sẽ\nkhông thua nữa nàaaaa!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……もう……負けない！　あんな自分に……\n絶対負けたりしないんだからああぁぁ！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Hà...... Hà...... ......Hà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………はぁ……はぁ……\n……はぁ。",
+      "choice_data_list": [
+        "Này...... dùng chút đồ uống nhé?",
+        "Cũng hãy biến nỗi bực bội này thành dưỡng chất chứ"
+      ],
+      "jpchoice_data_list": [
+        "あの……飲み物でも",
+        "こういう悔しさも糧にしていこう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em biết ơn tấm lòng đó, nhưng em không cần đâu. Loại an ủi đó――",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ありがたいけど、要らないわ。\nそんな慰め――",
+      "choice_data_list": [
+        "Nhưng...... hét toáng thế, chắc cổ khát lắm rồi chứ"
+      ],
+      "jpchoice_data_list": [
+        "でも……叫んで喉が渇いたんじゃ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... Khụ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………けほん。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em xin lỗi. Tính ra em vẫn nên nhận lấy lòng tốt của anh. Vì một khi cứng\nđầu, thì lại thành như lúc nãy thôi mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ごめんなさい。\nやっぱり好意に甘えさせてもらうわ。\n意地になったら、さっきと同じだもの。"
+    },
+    {
+      "name": "",
+      "text": "Đó là ngày cho phép anh lờ mờ thấy một khía cạnh rất đúng lứa tuổi, nơi\nAlmond Eye vốn ngày thường vững vàng.",
+      "jpname": "モノローグ",
+      "jptext": "普段はしっかりしているアーモンドアイの、\nやや年相応な面が垣間見えた日だった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Hà. Xấu hổ thật đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……はぁ。恥ずかしいわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em cứ ngỡ bản thân đã đủ vững vàng. Nhưng hóa ra, vẫn chỉ là gồng gánh\nmà thôi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "自分ではしっかりしているつもりでいたけど。\nまだ、背伸びだったみたい。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phải vững vàng hơn nữa mới được. Đứng vững chân trên mặt đất―― để có\nthể vượt qua mọi bức tường.",
+      "jpname": "アーモンドアイ",
+      "jptext": "もっとしっかりしないとね。地に足をつけて\n――壁を乗り越えられるように。"
+    }
+  ]
+}

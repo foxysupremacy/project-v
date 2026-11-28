@@ -1,0 +1,882 @@
+{
+  "title": "Hít lấy một hơi, thêm một lượt nữa!",
+  "jptitle": "息をついて、もう一本！",
+  "text_block_list": [
+    {
+      "name": "Almond Eye",
+      "text": "Hự.... hự.... Hảaaaaaa....!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "はっ……はっ……。\nはあああああ……！！",
+      "choice_data_list": [
+        "Còn một lượt cuối! Đừng có lơ là nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ラスト一本！気を抜かずにー！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hà.... hà....",
+      "jpname": "アーモンドアイ",
+      "jptext": "はぁっ……はぁっ……。",
+      "choice_data_list": [
+        "....Em ổn không?",
+        "....Em ổn chứ?"
+      ],
+      "jpchoice_data_list": [
+        "……大丈夫か？",
+        "……大丈夫？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Buổi huấn luyện bài bản với Almond Eye bắt đầu rồi.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイとの、\n本格的なトレーニングが始まった。"
+    },
+    {
+      "name": "",
+      "text": "Chương trình được soạn cho trận ra mắt là một chương trình tải nặng, nhằm\nphát huy thêm nữa khả năng thể chất vốn đã xuất sắc của cô ấy――",
+      "jpname": "モノローグ",
+      "jptext": "メイクデビューに向けて作成したメニューは、\n彼女の高い身体能力をもっと伸ばすための、\n負荷の大きいものだったが――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Hự. Phù....!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っっ。\nふー……！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không có vấn đề gì! Tiếp tục nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "問題ないわ！\n続けましょう！"
+    },
+    {
+      "name": "",
+      "text": "Almond Eye ngoan ngoãn tuân theo chỉ dẫn, dốc toàn lực cho từng bài huấn\nluyện một. Hơn nữa――",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイはこちらの指示によく従い、\nひとつひとつのトレーニングに\n全力で取り組んでくれている。更に――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "――Vậy mai cũng 3 giờ chiều nhé. Anh vất vả rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――じゃあ、明日も15時に。\nお疲れさまでした！",
+      "choice_data_list": [
+        "Hôm nay nặng đô lắm, em nghỉ ngơi cho kỹ nhé."
+      ],
+      "jpchoice_data_list": [
+        "今日はハードだったし、よく休んで"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ừ, em sẽ nghỉ ngơi sau. Em xin phép đi trước nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ、あとで休んでおくわ。\nお先に失礼します！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phù.... phù....",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふぅ……ふぅ……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Ừ, vẫn chạy tiếp được. Thêm một vòng nữa với tốc độ này!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……うん、まだいける。\n同じペースであと一周！",
+      "choice_data_list": [
+        "(Quả nhiên là em lén chạy thêm....)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり走ってたか……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cô ấy không bỏ sót buổi tự tập nào, cả thời gian rảnh cũng miệt mài tôi\nluyện bản thân. Một người nỗ lực đáng kinh ngạc.",
+      "jpname": "モノローグ",
+      "jptext": "彼女は自主トレも欠かさず行い、\n自由時間にも己を磨き続けている。\nとんでもない努力家だ。",
+      "choice_data_list": [
+        "(Chính vì vậy.... anh mới băn khoăn――)"
+      ],
+      "jpchoice_data_list": [
+        "（だからこそ……気にかかる――）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Và hình như điều ấy không chỉ riêng mình tôi nhận ra――",
+      "jpname": "モノローグ",
+      "jptext": "そしてそれは、自分だけではないようで――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Gừ.... hự, gừừừừừ....!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ぐぬ……っ、ぐぬぬぬぬ……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Uuu....!! ....Đã đến mức cường độ MAX thì lực cản ghê gớm thật.",
+      "jpname": "アーモンドアイ",
+      "jptext": "～～……！！\n……MAX強度ともなると、すごい抵抗ね。",
+      "choice_data_list": [
+        "Giảm xuống một nấc nhé?"
+      ],
+      "jpchoice_data_list": [
+        "もう一段階下げようか？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không, không có vấn đề gì! Nghỉ xong rồi cho em thử lại lần nữa.",
+      "jpname": "アーモンドアイ",
+      "jptext": "いいえ、問題ないわ！\n休憩したら、もう一度挑戦させて。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phù....",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふぅ……。",
+      "choice_data_list": [
+        "....Này, Ai――",
+        "....Này, Ai này――"
+      ],
+      "jpchoice_data_list": [
+        "……なあ、アイ――",
+        "……ねえ、アイ――"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "B! C! A! A!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "B！　C！　A！　A！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Uống ngay đi! Phải chăm chút cái thân này cẩn thận lắm lắm đó!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "すぐ飲んでっ！\n体、だいじだいじして～～っ！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Sao nào? Cố hết sức xong uống liền thì tốt đúng không nè? Mệt mỏi bay\nchưa? Ai-chan đã hóa siêu cấp chưa?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ど？　がんばったらすぐ飲むといいんだよね？\nダルみとれた？　ハイパーアイちゃんなった？",
+      "choice_data_list": [
+        "(Cô bé này hiểu nhầm công dụng mất rồi....)"
+      ],
+      "jpchoice_data_list": [
+        "（なんか効果を勘違いしてる……）"
+      ],
+      "color_text_info_list": [
+        "Ai-chan"
+      ],
+      "jpcolor_text_info_list": [
+        "アイ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Fusaichi Pandora. Mã Nương GⅠ từng giành chiến thắng\n“Queen Elizabeth II Cup”... nói cách khác, là một cô bé siêu tuyệt vời――",
+      "jpname": "モノローグ",
+      "jptext": "フサイチパンドラ。かつて、\n『エリザベス女王杯』を勝利した\nGⅠウマ娘……つまり、すごい娘なのだが――",
+      "color_text_info_list": [
+        "Fusaichi Pandora",
+        "Queen Elizabeth II Cup"
+      ],
+      "jpcolor_text_info_list": [
+        "フサイチパンドラ",
+        "エリザベス女王杯"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mà hay là ăn trái cây chuẩn chất sẽ khỏe hơn nhỉ? Để con năn nỉ papa mua\ndưa lưới nhé!?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "てか、ガチフルーツのが元気なるか！？\nパパにメロンおねだりする～！？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "K-, không sao đâu!",
+      "jpname": "アーモンドアイ",
+      "jptext": "だ、大丈夫よ！"
+    },
+    {
+      "name": "",
+      "text": "Dạo gần đây không hiểu sao cô ấy lại canh chừng buổi huấn luyện của\nAlmond Eye, thi thoảng lại mang quà đến thế này.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はここ最近、アーモンドアイの\nトレーニングをなぜか見守っており、\nたまにこうして差し入れをしてくれる。",
+      "choice_data_list": [
+        "Hôm nay cô ấy cũng đến rồi đấy.",
+        "Hôm nay cô ấy cũng đến rồi đấy nhỉ."
+      ],
+      "jpchoice_data_list": [
+        "今日も来てくれたんだな",
+        "今日も来てくれたんだね"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Tất nhiên rồi! Vì mình lo mà!!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "もちっ！\nだって心配だし！！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Vì mà vì, Ai-chan là chuyên gia cố hết sức siêu cấp mà còn gì?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "だってだって、アイちゃんってさ、\nちょーがんばり屋じゃん？"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Cố quá hóa kiệt sức thì làm sao!? Hu hu hu....!!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "がんばりすぎてヘトヘトなっちゃうじゃん！？\nふえぇ～ん……！！",
+      "choice_data_list": [
+        "(Cô ấy để ý kỹ thật đấy....)"
+      ],
+      "jpchoice_data_list": [
+        "（よく見てるなぁ……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Mặt tinh thần của Almond Eye cực kỳ mạnh mẽ, và chính vì thế cô ấy có thể\ngồng hết mình quá mức. Do đó, trong quá khứ cũng từng có lúc gục ngã.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイはメンタル面が非常に強く、\nその分頑張りすぎることができてしまう。\n故に、過去には倒れることもあった。",
+      "choice_data_list": [
+        "(Anh cũng đang băn khoăn chuyện đó, nhưng――)",
+        "(Anh cũng đang băn khoăn chuyện đó, nhưng――)"
+      ],
+      "jpchoice_data_list": [
+        "（俺もそれが、気にかかってるけど――）",
+        "（私もそれが、気にかかってるけど――）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Pandora-san đừng lo! Em ổn mà!",
+      "jpname": "アーモンドアイ",
+      "jptext": "パンドラさん、心配しないで！\nわたしは大丈夫だから！",
+      "color_text_info_list": [
+        "Pandora"
+      ],
+      "jpcolor_text_info_list": [
+        "パンドラ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chuyện của bản thân thì em hiểu rõ nhất mà. Xử lý cũng quen rồi, không sao\nkhông sao!",
+      "jpname": "アーモンドアイ",
+      "jptext": "自分のことは、自分がよくわかっているもの。\n対処にも慣れているし、大丈夫大丈夫！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hệe.... nhưng mà....",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ふぇ～……。\nでもぉ……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vậy em sẽ chứng minh cho Pandora-san thấy em ổn! Trainer, em tiếp tục\nnhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "だったら、大丈夫なところを見せてあげる！\nトレーナー、再開するわよ！",
+      "choice_data_list": [
+        "A.... ừ",
+        "U.... ừm"
+      ],
+      "jpchoice_data_list": [
+        "あ……ああ",
+        "う……うん"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ơ! ....Ai-chan khắc kỷ quá mức rồi đó nha!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "あっ！\n……アイちゃん、ストイックすぎるよ～！"
+    },
+    {
+      "name": "",
+      "text": "Đúng vậy, Almond Eye cực kỳ khắc kỷ. Về chuyện chăm sóc, cô ấy cũng có\nđáp án riêng của mình.",
+      "jpname": "モノローグ",
+      "jptext": "そう、アーモンドアイはとてもストイックだ。\nケアについて、自分なりの正解も持っている。"
+    },
+    {
+      "name": "",
+      "text": "Nhưng hướng tới trận ra mắt, tải sẽ tăng dần. Nếu cứ như trước, có khi\nnhững tình huống ngoài dự kiến sẽ xảy ra....",
+      "jpname": "モノローグ",
+      "jptext": "だがデビューに向けて、負荷は増していく。\n今まで通りでは、予想外の事態も\n起こりうるかもしれない……。",
+      "choice_data_list": [
+        "(Vậy thì, điều anh cần phải làm là――)"
+      ],
+      "jpchoice_data_list": [
+        "（となると、自分がとるべきは――）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "――Cả những buổi tự tập, anh cũng sẽ theo dõi giùm em à?",
+      "jpname": "アーモンドアイ",
+      "jptext": "――自主トレも、\n貴方が見てくれるの？",
+      "choice_data_list": [
+        "Ừ, từ giờ anh muốn đồng hành cùng em hết mức có thể.",
+        "Ừm, từ giờ anh muốn đồng hành cùng em hết mức có thể."
+      ],
+      "jpchoice_data_list": [
+        "ああ、これからは可能な限り付き合いたい",
+        "うん、これからは可能な限り付き合いたい"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hết mức có thể...... nghĩa là tất cả từ nay về sau? Tại sao anh lại đến mức\nđó....",
+      "jpname": "アーモンドアイ",
+      "jptext": "可能な限り……って。この先全部、ってこと？\nどうしてそこまで……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Aa, ý Pandora-san vừa nãy đúng không! Cả hai người bao bọc quá đà thì\nphải?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ああ、さっきのパンドラさんのお話ね！\nふたりとも、ちょっと過保護じゃない？",
+      "choice_data_list": [
+        "Vì em là “chuyên gia cố hết sức siêu cấp” mà.",
+        "Vì em là “chuyên gia cố hết sức siêu cấp” mà."
+      ],
+      "jpchoice_data_list": [
+        "君が“ちょーがんばり屋さん”だから",
+        "貴方が“ちょーがんばり屋さん”だから"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nếu luôn tự mình theo dõi, tôi có thể vạch giới hạn bằng phán đoán tổng\nthể. Chuyện chăm sóc, nếu tôi đảm nhiệm thì cô ấy có thể tập trung trọn vẹn\nvào huấn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "常に自分が見ておけば、総合判断でラインを\n引くことができる。ケアのことも、自分が\nやれば彼女はトレーニングに集中できる。",
+      "choice_data_list": [
+        "Anh còn có thể tư vấn cho em nữa cơ."
+      ],
+      "jpchoice_data_list": [
+        "アドバイスだってできるよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Thế thì đâu còn gọi là tự tập nữa, chẳng phải là huấn luyện bình thường\nrồi sao.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……それじゃ自主トレっていうか、\nもはや普通のトレーニングじゃない。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hơn nữa.... chắc anh hiểu thôi, nếu đi cùng em thì thời gian của anh, sẽ biến\nmất sạch cả đấy?",
+      "jpname": "アーモンドアイ",
+      "jptext": "それに……わかると思うけど、\nわたしに付き合ったら、貴方の時間、\n全部なくなっちゃうわよ？",
+      "choice_data_list": [
+        "Anh biết. Thà thế anh còn muốn thế cơ.",
+        "Anh biết. Thà thế anh còn muốn thế đấy."
+      ],
+      "jpchoice_data_list": [
+        "わかってる。むしろ、そうしたいんだ",
+        "わかってる。むしろ、そうしたいの"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cô ấy tràn đầy tiềm năng. Thế nhưng, tôi lại là một Trainer tân binh chẳng có\nlấy một kỹ năng.",
+      "jpname": "モノローグ",
+      "jptext": "彼女はポテンシャルに満ちている。しかし、\n自分はなんのスキルもない新人トレーナーだ。"
+    },
+    {
+      "name": "",
+      "text": "Vậy thì, thứ có thể dành cho cô ấy.... hiện giờ chỉ còn có thời gian của tôi. Và\nviệc dâng hiến điều đó cho cô ấy――",
+      "jpname": "モノローグ",
+      "jptext": "となると、彼女のために使えるのは……\n現状、自分の時間くらいしかない。\nそしてそれを彼女に捧げることは――",
+      "choice_data_list": [
+        "(Cũng là vì sự trưởng thành của chính anh)"
+      ],
+      "jpchoice_data_list": [
+        "（自分の成長のためでもある）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Bởi tôi phải theo kịp cô ấy — người mà từ nay sẽ còn lớn lên từng ngày.",
+      "jpname": "モノローグ",
+      "jptext": "この先、どんどん成長していくであろう\n彼女に追いつかなければならないのだから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……….",
+      "jpname": "アーモンドアイ",
+      "jptext": "………………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hiểu rồi! Vậy thì, khi tự tập em sẽ kêu anh!",
+      "jpname": "アーモンドアイ",
+      "jptext": "わかったわ！　それじゃあ、\n自主トレをする時は声をかける！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đừng trách em, nhưng thời gian riêng tư thì tạm coi như không có nhé.",
+      "jpname": "アーモンドアイ",
+      "jptext": "申し訳ないけれど、プライベートな時間は\nしばらくないと思ってね。",
+      "choice_data_list": [
+        "Không sao! Mong em chiếu cố nhiều.",
+        "Không sao đâu! Mong em chiếu cố nhiều nhé."
+      ],
+      "jpchoice_data_list": [
+        "構わない！よろしくな",
+        "構わないよ！よろしくね"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ừ. Hôm nay em đi thay đồ luôn nhé. Anh vất vả rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ。今日はもう着替えるわ。\nお疲れさま！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Nhìn chằm chằm............",
+      "jpname": "フサイチパンドラ",
+      "jptext": "じ～～～～…………。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Sao Trainer nhìn căng thẳng dữ vậy? Chẳng lẽ Ai-chan sắp đến bước ngoặt gì\nrồi hả?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "なぁんかトレーナー、気ィ張ってそ？\nもしかしてアイちゃん、正念場？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em thì chẳng phải...... mà có khi lại là Trainer thì phải?",
+      "jpname": "アーモンドアイ",
+      "jptext": "わたしというか……\nトレーナーが、なのかも？"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hồo.... ....Lo lắng hả?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ほぉ～……。\n……心配？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không đâu. Vì chắc chắn lúc này.... chính là thời khắc ấy rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "いいえ。きっと今が……\nその時なんだろうから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chào buổi sáng, Trainer! Hôm nay se se lạnh ghê....!",
+      "jpname": "アーモンドアイ",
+      "jptext": "おはよう、トレーナー！\n今日は肌寒いわね……！",
+      "choice_data_list": [
+        "Vì mới 5 giờ 40 mà đấy........",
+        "Vì mới 5 giờ 40 mà nhỉ........"
+      ],
+      "jpchoice_data_list": [
+        "まだ5時40分だからな…………",
+        "まだ5時40分だからね…………"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A, buồn ngủ kìa! Anh còn phải đạp xe mà chứ? Nào, tỉnh táo lên!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ、眠そう！　自転車に乗るんでしょ？\nほら、シャキッとする！"
+    },
+    {
+      "name": "",
+      "text": "Almond Eye khẽ vỗ lưng, tôi phải cố hết sức mới mở cho được đôi mắt. Và\nthế là, buổi tự tập của cô ấy bắt đầu từ tít màn sương sớm――",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイに背中を軽く叩かれて、\n必死に目をこじ開ける。こうして、\n早朝から彼女の自主トレは始まり――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "――Anh vất vả rồi! Sáng đến đây là hết nhé.",
+      "jpname": "アーモンドアイ",
+      "jptext": "――お疲れさま！\n朝はここまでよ。",
+      "choice_data_list": [
+        "Hà.... a-, anh cũng vất vả...."
+      ],
+      "jpchoice_data_list": [
+        "はぁ……お、お疲れ様……"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dậy sớm chưa quen, lại đạp xe rát chân, chẳng hiểu tại sao đầu óc quay mù\nmịt....",
+      "jpname": "モノローグ",
+      "jptext": "慣れない早起きをしたうえに、\n自転車をこぎまくったせいか、\nうまく頭が回らない……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……….",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chườm lạnh, anh làm cho em với chứ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "アイシング、してくれないの？",
+      "choice_data_list": [
+        "! Xin lỗi, làm ngay đây....!"
+      ],
+      "jpchoice_data_list": [
+        "！ごめん、すぐやる……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Hự, phù.... Ừm.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ、ふー……。\nうん。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn anh về buổi huấn luyện hôm nay!",
+      "jpname": "アーモンドアイ",
+      "jptext": "今日もトレーニング、\nありがとうございました！",
+      "choice_data_list": [
+        "Anh vất vả rồi. Sau này em còn tự tập nữa à?",
+        "Anh vất vả rồi. Sau này em còn tự tập nữa không?"
+      ],
+      "jpchoice_data_list": [
+        "お疲れ様。この後は自主トレするのか？",
+        "お疲れ様。この後は自主トレする？"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Huấn luyện hôm nay được đặt tải nhẹ. Đó là để cân đối cả tuần, nhưng nhìn\ntình hình thì thêm vào cũng được.",
+      "jpname": "モノローグ",
+      "jptext": "今日のトレーニングは負荷を軽くしてある。\n一週間のバランスを見てのことだが、\n様子を見るに、追加してもいいかもしれない。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Không, thôi bỏ đi! Em thấy chân hơi mỏi nhừ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……いえ、やめておく！\n少し脚がだるい気がするの。",
+      "choice_data_list": [
+        "Hả.... em ổn không!?",
+        "Hả.... em ổn đấy!?"
+      ],
+      "jpchoice_data_list": [
+        "え……大丈夫か！？",
+        "え……大丈夫！？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ngâm bồn tắm và ngủ một giấc thật sâu là ổn. Không ảnh hưởng gì đến huấn\nluyện ngày mai, chắc cũng chẳng cần điều chỉnh gì nữa!",
+      "jpname": "アーモンドアイ",
+      "jptext": "お風呂に浸かって、よく眠れば大丈夫よ。\n明日のトレーニングに支障はないから、\n調整もいらないはず！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A, nhưng mà...... hay là anh có biết phương pháp chăm sóc chuyên nghiệp\nnào không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ、でも……もしかして、\n専門的なケア方法を知っていたりする？",
+      "choice_data_list": [
+        "Ừ, nếu là chuyện đó thì....!"
+      ],
+      "jpchoice_data_list": [
+        "ああ、それなら……！"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Từ khi ký hợp đồng phụ trách với Almond Eye, trong lúc tìm hiểu về chăm\nsóc cơ thể, tôi đã tìm thấy một kiểu massage có vẻ rất tốt.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイと担当契約を結んでから、\n体のケアについて勉強を進めている中で、\nよさそうなマッサージを見つけていた。",
+      "choice_data_list": [
+        "――Cách đó anh có đọc trong một bài nghiên cứu.",
+        "――Cách đó anh có đọc trong một bài nghiên cứu."
+      ],
+      "jpchoice_data_list": [
+        "――っていうやり方を論文で読んだんだ",
+        "――っていうやり方を論文で読んだの"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Aa, cách đó em đã thử rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ああ、それなら試したことがあるわ！",
+      "choice_data_list": [
+        "!"
+      ],
+      "jpchoice_data_list": [
+        "！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Là bài nghiên cứu học thuật về sinh lý học ứng dụng của châu Âu đúng\nkhông? Quả thật, em thấy nó hợp với mình.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ヨーロッパの応用生理学の学術論文よね。\n確かに、わたしに合っていた気がする。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng tự mình làm thì cực lắm. Nếu anh phụ em, thử lại lần nữa xem sao\nnhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも、ひとりでやるのが大変だったの。\n貴方が手伝ってくれるなら、\nまた試してみようかしら？",
+      "choice_data_list": [
+        "(....Anh vẫn còn kém cỏi quá mà.)",
+        "(....Anh vẫn còn kém cỏi quá mà.)"
+      ],
+      "jpchoice_data_list": [
+        "（……俺って、まだまだだなぁ）",
+        "（……私って、まだまだだなぁ）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Chỉ “dành thời gian” thôi thì vẫn chưa đủ chút nào. Vừa theo kịp sự dẻo dai\ncủa Mã Nương, vừa tích lũy kiến thức chuyên môn, lại vừa phải tiến gần đến\ngiác quan của cô ấy.",
+      "jpname": "モノローグ",
+      "jptext": "『時間を使う』だけでは全く足りない。\nウマ娘のタフさについていきつつ、専門的な\n知識を身につけ、彼女の感覚にも近づく。",
+      "choice_data_list": [
+        "(Vừa song song ôn luyện kiến thức Trainer....)"
+      ],
+      "jpchoice_data_list": [
+        "（トレーナーの勉強も並行して進めて……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Đúng là thời gian riêng tư chẳng còn chút nào. Có khi còn phải cắt bớt cả giờ\nngủ.... nhưng, để theo kịp cô ấy――",
+      "jpname": "モノローグ",
+      "jptext": "確かにプライベートな時間は全くない。\n睡眠時間を削る必要もあるだろう……\nだが、彼女に追いつくには――",
+      "choice_data_list": [
+        "Chỉ còn cách dốc hết sức thôi!!"
+      ],
+      "jpchoice_data_list": [
+        "やるしかない！！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ồ? Chào buổi sáng, hôm nay anh đến sớm ghê.",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら？\nおはよう、今日は早いじゃない。",
+      "choice_data_list": [
+        "Ừ, anh chạy thêm vài vòng thôi.",
+        "Ừm, anh chạy thêm vài vòng thôi đấy."
+      ],
+      "jpchoice_data_list": [
+        "ああ、ちょっと走ってたんだ",
+        "うん、ちょっと走ってたんだ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "A! Vi phạm giờ giới nghiêm.... mà à, Trainer thì đâu có giờ giới nghiêm nhỉ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "あ！　門限破り……って、そっか、\nトレーナーにはないんだっけ。",
+      "choice_data_list": [
+        "Khởi động xong từ trước rồi đấy nhé!",
+        "Khởi động xong từ trước rồi nhé!"
+      ],
+      "jpchoice_data_list": [
+        "ウォーミングアップはもう終わってるぞ！",
+        "ウォーミングアップはもう終わってるよ！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Fufu. Xem ra quyết tâm đầy ắp nhỉ! Vậy thì, bám theo cho chắc nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふ。気合い充分なのね！\nそれじゃ、しっかりついてきて！"
+    },
+    {
+      "name": "",
+      "text": "Thế rồi những ngày cuồn cuộn như sóng dữ cứ thế trôi qua.... cuối cùng ngày\nnghỉ dưỡng cũng đến. Hôm qua rõ ràng đã ngủ no giấc mà――",
+      "jpname": "モノローグ",
+      "jptext": "そんな風にして、怒濤の日々が過ぎていき……\nようやく休養日がやってきた。\n前日はたっぷり眠ったはずだったが――",
+      "choice_data_list": [
+        "(N-, nhưng cơn mệt vẫn chưa tan hết....!)"
+      ],
+      "jpchoice_data_list": [
+        "（つ、疲れが取れてない……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Theo hộ những buổi tự tập, chuẩn bị cho việc huấn luyện mỗi ngày.... lại còn\nhăng hái tham gia các lớp bồi dưỡng, những ngày không nghỉ ngơi cứ kéo\ndài mãi.",
+      "jpname": "モノローグ",
+      "jptext": "自主トレへの付き添いに、日々の\nトレーニングの準備……講習会にも積極的に\n参加していて、休まらない日々が続いていた。",
+      "choice_data_list": [
+        "(....Có khi anh đang quá lao đầu rồi nhỉ.)"
+      ],
+      "jpchoice_data_list": [
+        "……ちょっと、がむしゃらすぎるかな"
+      ]
+    },
+    {
+      "name": "",
+      "text": "(Rung rung rung....)",
+      "jpname": "モノローグ",
+      "jptext": "（ブルブルブル……）",
+      "choice_data_list": [
+        "Hừm? Ai nhắn tin LANE rồi――"
+      ],
+      "jpchoice_data_list": [
+        "ん？アイからLANEだ――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer, qua đây này!",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー、こっちよ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Này, ghi tên vào đây nhé. ―–Đơn đăng ký tham gia lớp yoga đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "はい、ここに名前を書いて。\n――ヨガクラスへの参加用紙よ！",
+      "choice_data_list": [
+        "Hả...."
+      ],
+      "jpchoice_data_list": [
+        "え……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hú.... phù....! Đúng mùa chồi non xanh biếc mà....",
+      "jpname": "アーモンドアイ",
+      "jptext": "すぅ……ふー……！\n新緑の季節ね……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vận động giữa không gian này thì nhất định sẽ sảng khoái lắm!",
+      "jpname": "アーモンドアイ",
+      "jptext": "この中で体を動かしたら、\n絶対に気持ちいいわね！",
+      "choice_data_list": [
+        "Nhưng mà anh――",
+        "Nhưng mà anh――"
+      ],
+      "jpchoice_data_list": [
+        "でも、俺――",
+        "でも、私――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đã đến rồi thì cứ tận hưởng hết mình! Nào, bắt đầu rồi đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "もう来ちゃったんだから、思いきり楽しんで！\nほら、始まるわよ！"
+    },
+    {
+      "name": "Cô giáo yoga",
+      "text": "――Vừa hít thở sâu, vừa kéo giãn hai bên sườn thật tốt nào. Hít thật sâu\nvào.... rồi thở ra....",
+      "jpname": "ヨガの先生",
+      "jptext": "――深呼吸をしながら、\n体側をよく伸ばしましょう。\n大きく息を吸って……吐いて……。",
+      "choice_data_list": [
+        "Phù.... Hà...."
+      ],
+      "jpchoice_data_list": [
+        "ふぅ……。はぁ……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phù.... Hà....",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふぅ……。はぁ……。"
+    },
+    {
+      "name": "",
+      "text": "Hơi thở hòa vào cô ấy bên cạnh. Giữa màu xanh hít thở sâu, giãn dần từng\ncơ căng cứng.... đến cả trái tim cũng thấy nhẹ nhõm.",
+      "jpname": "モノローグ",
+      "jptext": "隣の彼女と、吐息が重なる。\n緑の中で深呼吸をして、凝り固まった体を\n伸ばしていくと……心まですっきりしてくる。",
+      "choice_data_list": [
+        "(Quả thật, sảng khoái thật....――)",
+        "(Quả thật, thoải mái thật....――)"
+      ],
+      "jpchoice_data_list": [
+        "（確かに、気持ちいいな……――）",
+        "（確かに、気持ちいい……――）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Ừm. Nhìn gương mặt này, chắc hẳn em đã thư giãn hết mức rồi nhỉ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……うん。\nその顔、よくリフレッシュできたみたいね！",
+      "choice_data_list": [
+        "....Ai, chẳng lẽ em cũng....",
+        "....Ai, chẳng lẽ em cũng...."
+      ],
+      "jpchoice_data_list": [
+        "……アイ、君はもしかして……",
+        "……アイ、貴方はもしかして……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Này, Trainer. Bây giờ cơ thể em nhẹ bẫng hẳn đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ねえ、トレーナー。\nわたし今、体がとっても軽いの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một chút xíu thôi, thì em tập thêm cũng được đúng không nào?",
+      "jpname": "アーモンドアイ",
+      "jptext": "少しくらいなら、\nトレーニングしてもいいわよね？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vì là―― em muốn cố gắng mà. Lúc thế này, phải làm đến cùng chứ nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "だって――頑張りたいんだもの。\nそういう時は、とことんやるべきでしょ？",
+      "choice_data_list": [
+        "....!"
+      ],
+      "jpchoice_data_list": [
+        "……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đây là tấm lòng quý giá mà! Trái tim đã muốn thế, thì phải tôn trọng.",
+      "jpname": "アーモンドアイ",
+      "jptext": "大事な気持ち、だものね！\n心がそういうなら、尊重しなくちゃ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thư giãn cũng xong rồi, em lại có thể cố gắng tiếp! Anh cũng cùng huấn luyện\nvới em nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "リフレッシュもしたし、また頑張れるわ！\n貴方もトレーニング、付き合ってくれる？",
+      "choice_data_list": [
+        "....Ừ, tất nhiên!",
+        "....Ừm, tất nhiên!"
+      ],
+      "jpchoice_data_list": [
+        "……ああ、もちろん！",
+        "……うん、もちろん！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn anh!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとう！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chỉ còn ít chút nữa là ra mắt! Em sẽ băng vút qua hết mình nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "デビューまであともう少し！\n駆け抜けるわよ～！"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "title": "Cầu nguyện ở đền thờ!",
+  "jptitle": "神社でお祈り！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Hình như Almond Eye đã lỡ đánh rơi chiếc móc khóa quý giá, nên anh đã\ncùng em đến đền thờ để tìm.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイが大切なキーホルダーを\n落としてしまったらしく、\n神社まで捜しにやってきた。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Lúc chạy vòng ngoài, em có ghé qua đây...... Lúc đó chắc chắn nó còn đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "外周の時にここに寄って……。\nその時は確かにあったわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Dạo này thể trạng cũng không tốt, đúng là xui xẻo thật. ......Biết đâu tìm lại\nđược thì tốt.",
+      "jpname": "アーモンドアイ",
+      "jptext": "最近調子もよくないし、ついてないわね。\n……見つかってくれるといいのだけれど。",
+      "choice_data_list": [
+        "Chia nhau tìm thôi"
+      ],
+      "jpchoice_data_list": [
+        "手分けして捜そう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Cảm ơn anh. Là cái em luôn mang theo bên mình, chiếc con Kyu-maru\nôm trái tim ấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ありがとう。いつも持ち歩いている、\nキューまるがハートを抱えているやつよ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Không biết em có kể với anh chưa nhỉ. Cái này, ......là vật em thật sự gắn bó\nsâu sắc đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "前に話したことあったかしら。\nその、……本当に思い入れがある物なの。"
+    },
+    {
+      "name": "",
+      "text": "Vừa chia nhau tìm khắp trong đền, anh vừa nhớ lại. Quả thật trước kia, em\ntừng kể như thế này――",
+      "jpname": "モノローグ",
+      "jptext": "神社の中を手分けして捜しながら、思い出す。\nたしか以前、彼女はこう話していた――",
+      "choice_data_list": [
+        "(Em từng nói nó là cùng bộ với bố em mà)"
+      ],
+      "jpchoice_data_list": [
+        "（お父さんとお揃いって言ってたっけ）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đây, vào lần đầu tiên em phải ở nhà trông nhà một mình, bố đã mua cho em\nnó đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "それね、初めてひとりでお留守番する時に、\nお父さんが買ってきてくれたの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“Bố cũng buồn lắm, nhưng nhìn cái này bố sẽ cố gắng, nên Ai cũng phải cố\ngắng nhé!” là thế. ......Mà chỉ vì có 30 phút trông nhà thôi đó nhé? Fufu!",
+      "jpname": "アーモンドアイ",
+      "jptext": "『お父さんも寂しいけど、\nこれ見て頑張るからアイも頑張れ！』って。\n……30分のお留守番のためによ？　ふふ！"
+    },
+    {
+      "name": "",
+      "text": "Phần kim loại cũng đã mòn vẹt, em từng nói nó hay tuột ra. Vậy mà vẫn\nmang theo bên mình, chắc hẳn là vật vô cùng quý giá.",
+      "jpname": "モノローグ",
+      "jptext": "金具の部分もボロボロで、\nよく外れると言っていた。\nそれでも持ち歩くぐらい、大切なのだろう。",
+      "choice_data_list": [
+        "(......Dù thế nào cũng phải tìm lại được cho em)"
+      ],
+      "jpchoice_data_list": [
+        "（……なんとしても、見つけてあげたい）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "......Nhưng dù cố gắng, chiếc móc khóa vẫn không tìm thấy trong đền.",
+      "jpname": "モノローグ",
+      "jptext": "……けれど思いむなしく、\n神社の中でキーホルダーは見つからなかった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer, cảm ơn anh đã cùng em tìm. Trời cũng sắp tối rồi, lúc này nên\nvề――",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー、一緒に捜してくれてありがとう。\n日も暮れてきたし、そろそろ帰りま――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......! À, xin lỗi. Hóa ra anh đang lạy thần cầu nguyện à.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……！　っと、ごめんなさい。\nお参りしていたのね。",
+      "choice_data_list": [
+        "Ừ, anh cầu cho móc khóa của Ai tìm được thôi",
+        "Ừ, anh cầu cho móc khóa của Ai tìm được thôi"
+      ],
+      "jpchoice_data_list": [
+        "ああ、アイのキーホルダーが見つかるように",
+        "うん、アイのキーホルダーが見つかるように"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!",
+      "jpname": "アーモンドアイ",
+      "jptext": "！"
+    },
+    {
+      "name": "",
+      "text": "Nhờ cậy thần linh thì thật chẳng ra gì, nhưng...... mọi thứ có thể làm được,\nanh đều muốn làm cho em.",
+      "jpname": "モノローグ",
+      "jptext": "神頼みなんて情けないが……\nできることは何でもしてあげたかった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer......",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Được rồi, em cũng lạy luôn!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……よし、わたしもするわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Thần linh, chào ngài ạ. Con là Mã Nương đang theo học Học Viện Tracen, xin\nđược tự xưng tên là Almond Eye.)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（神さま、こんにちは。\nトレセン学園に通っているウマ娘で、\nアーモンドアイと申します）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Thật ra dạo gần đây con đã lỡ làm mất chiếc móc khóa quý giá vì bất cẩn\ncủa chính mình.)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（実は最近大切なキーホルダーを、\n自分の不注意でなくしてしまいました）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Con đã làm phiền đến thần linh, thật sự vô cùng xin lỗi...... nhưng xin ngài\nhãy trợ giúp để con tìm lại được nó.)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（神さまにはご迷惑をおかけして、\n本当に申し訳ないのですが……\nどうか見つけるために、お力をお貸し下さい）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Còn việc lấy lại phong độ hay thắng trong trận đua, con sẽ tự mình cố\ngắng―― vậy nên chuyện này, cúi xin ngài.)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（調子を戻したり、レースで勝つのは\n自力で頑張ります――どうか、お願いします）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Được rồi. Lúc đi về, vừa đi vừa tìm thêm chút nữa nhé.",
+      "jpname": "アーモンドアイ",
+      "jptext": "――よし。\n帰りながらも、もう少し捜してみましょうか。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó, khi vừa tìm móc khóa vừa trên đường về thì......",
+      "jpname": "モノローグ",
+      "jptext": "その後、キーホルダーを捜しながら\n帰路についていると……。"
+    },
+    {
+      "name": "Bà cụ đi dạo",
+      "text": "―― Ôi chao, ông ạ. Chả phải con bé đó hay sao? Nè, cái đồ đánh rơi đó!",
+      "jpname": "散歩中のおばあさん",
+      "jptext": "――あれまぁ、おじいさん。\nあの子じゃないかい？　ほれ、落としものの！"
+    },
+    {
+      "name": "Ông cụ đi dạo",
+      "text": "Ô! Đúng rồi đúng rồi! ......Cháu gái này, có phải cháu đánh rơi cái này không?",
+      "jpname": "散歩中のおじいさん",
+      "jptext": "おお！　そうだそうだ！\n……お嬢ちゃん、これ落とさんかったかい？",
+      "choice_data_list": [
+        "À, đó là móc khóa của Ai......!"
+      ],
+      "jpchoice_data_list": [
+        "あ、それはアイの……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "! Kyu-maru ôm trái tim......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "！　ハートのキューまる……！"
+    },
+    {
+      "name": "Ông cụ đi dạo",
+      "text": "Ô, đúng thật rồi! Chàaa, sáng đi bộ lão thấy cháu đánh rơi nó đấy? Nhưng\nchân cháu nhanh quá, lão đuổi chẳng kịp......",
+      "jpname": "散歩中のおじいさん",
+      "jptext": "おお、やっぱり！　いやぁ～朝の散歩中に\n落とすところを見たんだけどね？\nまあ脚が速くて、追いつけなくてなぁ……。"
+    },
+    {
+      "name": "Bà cụ đi dạo",
+      "text": "Thấy cháu quý nó như báu vật nên bà đã giữ lại từ đấy. Tốt quá, tốt quá.",
+      "jpname": "散歩中のおばあさん",
+      "jptext": "大事にしてるみたいだったから、\n取っておいたんだよ。よかったよかった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em cảm ơn hai bác nhiều lắm......! Thật sự thật sự, em cảm ơn hai bác ạ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "っありがとうございます……！\n本当に本当に、ありがとうございます！"
+    },
+    {
+      "name": "",
+      "text": "Báu vật trở lại trong tay, nỗi buồn tan biến, Almond Eye đã lấy lại được\nphong độ vốn có.",
+      "jpname": "モノローグ",
+      "jptext": "宝物が手の中に戻ったことで、憂いが晴れ、\n調子を取り戻したアーモンドアイだった。"
+    },
+    {
+      "name": "",
+      "text": "Nhưng hôm đó, cuối cùng nó vẫn chẳng được tìm thấy. Phong độ của\nAlmond Eye cũng mãi không có dấu hiệu đi lên.",
+      "jpname": "モノローグ",
+      "jptext": "しかし、その日はついに見つかることなく。\nアーモンドアイの調子は\nなかなか上向かなかったのだった。"
+    }
+  ]
+}

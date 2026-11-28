@@ -1,0 +1,544 @@
+{
+  "title": "Trại hè (năm thứ 2) kết thúc",
+  "jptitle": "夏合宿（2年目）終了",
+  "text_block_list": [
+    {
+      "name": "Almond Eye",
+      "text": "......Haaaa......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っっはあああ……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Haa...... Hôm nay tập luyện tròn trịa ghê! Anh vất vả rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "はあ……今日はみっちりできたわね！\nお疲れさま。",
+      "choice_data_list": [
+        "Nghỉ ngơi thật đã nhé",
+        "Nghỉ ngơi thật đã nhé đấy"
+      ],
+      "jpchoice_data_list": [
+        "たっぷり休むんだぞ",
+        "たっぷり休むんだよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đương nhiên rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "もちろん！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Dành cho ngày bị đẩy tải nặng nề hết mức, em đã mang theo chiếc gối tắm\nyêu thích rồi! Hãy thư giãn thật đã nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "とびきり負荷をかけられた日のために、\nお気に入りのバスピローを持ってきたの！\nゆっくりするわよ～！",
+      "choice_data_list": [
+        "Ngâm bồn lâu thì vừa vừa thôi nhé",
+        "Ngâm bồn lâu thì vừa vừa thôi đấy"
+      ],
+      "jpchoice_data_list": [
+        "長風呂はほどほどにな",
+        "長風呂はほどほどにね"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Vừa tiễn Almond Eye quay về khu nhà trại hè, tôi chợt đưa mắt về phía bãi\nbiển. Trại hè đã vào chặng cuối, hầu hết các Mã Nương đang vào giai đoạn\nhoàn thiện nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "合宿所に戻るアーモンドアイを見送りつつ、\nふとビーチに目を向ける。合宿も終盤に入り、\nほとんどのウマ娘が仕上げに入っているが――",
+      "choice_data_list": [
+        "(Cô bé ấy, vẫn còn tập tiếp sao......)"
+      ],
+      "jpchoice_data_list": [
+        "（あの子、まだやっていくのか……）"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Phù........ Còn thêm, một lượt........",
+      "jpname": "ラッキーライラック",
+      "jptext": "ふー…………っ。\nもう、1本…………。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "............Còn thêm, một lượt......",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………もう、1本……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“―― Vì mình nhất định phải thắng! Còn cậu thì sao?”",
+      "jpname": "アーモンドアイ",
+      "jptext": "『――絶対に勝ちたいから！\n貴方は違うの？』"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "........Không khác đâu. ....Nhưng mà......",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………違わんよ。\n……せやけど……。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Bị nghiền nát một cách nhẹ tênh thế kia..........",
+      "jpname": "ラッキーライラック",
+      "jptext": "あんだけあっさり、\n散らされたら…………。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "―― Theo ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――余に続け。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hả!? ....Orfevre-san――",
+      "jpname": "ラッキーライラック",
+      "jptext": "へっ！？\n……オルフェさん――"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Chết!? À........ k-khoan đã ạ!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……っ！？\nあ…………ま、待って下さい！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "....Dám cắn chặt lấy ta đấy hả. Vậy thì――",
+      "jpname": "オルフェーヴル",
+      "jptext": "……食らいつくか。\nならば――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "―― Phù......! Haaaaaa......!!",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ふっ……！\nはあああああ……！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Chết!? K-không đời nào........!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……っっ！？\nう、嘘やろ…………っ！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Haa.... haa....!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "はあ……っ、はあ……っ！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "S-sao lại thế...... Orfevre-san, vừa nãy, nghiêm túc――",
+      "jpname": "ラッキーライラック",
+      "jptext": "ど、どうして……オルフェさん、\nさっき、本気で――"
+    },
+    {
+      "name": "Orfevre",
+      "text": "―― Ta không có hứng thú với kẻ yếu.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――余は、弱い者に興味はない。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "..........!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………っっ！！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Trả lời. ―― Ngươi, là kẻ bại trận sao?",
+      "jpname": "オルフェーヴル",
+      "jptext": "答えよ。\n――貴様は、敗者か？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "........Tớ, thì. Tớ thì........――",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………うち、は。\nうちは…………――"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "――...Có khi, tớ là kẻ bại trận. Nhưng......, nhưng......",
+      "jpname": "ラッキーライラック",
+      "jptext": "――……敗者かも、しれません。\nでも……、でも……。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "―― Giấc mơ Triple Tiara của tớ, đã tan biến. Cả chuyện không thể thắng, tớ\ncũng hiểu rất rõ rồi......",
+      "jpname": "ラッキーライラック",
+      "jptext": "――トリプルティアラの夢は、消えました。\n敵わんのも、もう十分わかっとる……。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Vậy thì ngươi, quả nhiên là kẻ bại trận. ―― Không có tư cách ngồi lên ngai\nvàng.",
+      "jpname": "オルフェーヴル",
+      "jptext": "ならば貴様は、やはり敗者だ。\n――玉座に座る資格はない。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "..........",
+      "jpname": "ラッキーライラック",
+      "jptext": "…………っっ。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Không phải!!!! Tớ thì――...... chính tớ mới là, Nữ hoàng!",
+      "jpname": "ラッキーライラック",
+      "jptext": "ちゃう！！！！\nうちは――……うちこそが、女王や！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Aaaaaaaaa......!! Aaaa—— tất cả đều rối loạn hết rồi!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "あぁぁぁあああああ……！！\nあーーもう、全部狂った！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Almond Eye......! Rốt cuộc là thế nào chứ!?",
+      "jpname": "ラッキーライラック",
+      "jptext": "アーモンドアイ……ッッ！\nほんまになんやねん！？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Cậu đã thắng rồi còn gì! Thắng là của cậu rồi! Vậy mà vẫn còn muốn thắng tớ\nnữa à? Không hiểu nổi!",
+      "jpname": "ラッキーライラック",
+      "jptext": "もう勝っとんねん！　あんたの勝ちやねん！\nやのにまだうちに勝ちたい？　わけわからん！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Mà khoan! Cái “nói mới nhớ” là cái gì vậy hả! Đây là Triple Tiara đấy nhé!?\nSân khấu lộng lẫy mà cả đời chỉ được thử một lần duy nhất!",
+      "jpname": "ラッキーライラック",
+      "jptext": "ちゅーか！　『そういえば』ってなんやねん！\nトリプルティアラやで！？\n生涯一度きりしか挑めへん、華やかな舞台！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Vậy mà―― “mục tiêu là chiến thắng”, nói nghe như thể chẳng hề hứng thú!\nCái thứ đó...... tớ khao khát đến, mức chết cũng không quản! Thế mà, thế\nmà...... tớ lại......――",
+      "jpname": "ラッキーライラック",
+      "jptext": "やのに――『狙うは勝利』って、興味なしか！\nうちはそれが……死ぬほど、欲しかったんや！\nなのに、なのに……うちが……――"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "―― Nếu tớ mạnh hơn nữa......! Thì đã không để Ai-san tùy ý hành\nđộng......!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "――うちが、もっと強かったら……！\nアイさんに、好きにさせへんかった……！！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "........",
+      "jpname": "オルフェーヴル",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Orfevre-san, tớ, cay cú quá......! Người xứng đáng với―― Triple Tiara, phải\nlà tớ mới đúng!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "オルフェさん、うち、悔しい……！\nうちの方が――\nトリプルティアラに、相応しかった！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Tớ muốn thắng! Đội lên đầu vương miện! Tớ muốn trở thành Nữ\nhoàng......!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……勝ちたい！\n冠を戴いて！　女王になりたい……！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Cả mọi thứ đều bị hớt sạch mất―― đời nào chịu kết thúc như vậy, đồ\nngu————!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "なんもかんも、かっさらわれたまま――\n終われるかボケェーーーー！！"
+    },
+    {
+      "name": "Orfevre",
+      "text": "....Hừm.",
+      "jpname": "オルフェーヴル",
+      "jptext": "……フン。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "―― Vậy thì, đuổi theo ta.",
+      "jpname": "オルフェーヴル",
+      "jptext": "――ならば、余を追え。"
+    },
+    {
+      "name": "Orfevre",
+      "text": "Theo đuổi vị vua mạnh nhất này, thì sẽ không có bất kỳ ai sánh ngang nổi với\nngươi.",
+      "jpname": "オルフェーヴル",
+      "jptext": "この最強の王を追えば、\n何人たりとも貴様に並ぶことはない。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Haha. Nghĩa là, phải bắt kịp được Orfevre-san...... đúng không nào?",
+      "jpname": "ラッキーライラック",
+      "jptext": "……はは。オルフェさんに、\n追いつけ……ゆうことやんな？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Quả thật, nếu đạt đến tầm ấy―― sẽ chẳng ai, thắng nổi tớ. ....Có thể ngự trị\ntrên đỉnh cao. Vậy thì, tớ――!",
+      "jpname": "ラッキーライラック",
+      "jptext": "確かに、そうなれれば――誰も、敵わん。\n……君臨できる。やったら、うちは――！"
+    },
+    {
+      "name": "",
+      "text": "Buổi sáng ngày cuối của trại hè. Chỉ ít tiếng nữa thôi, mọi người sẽ quay về\nHọc Viện.",
+      "jpname": "モノローグ",
+      "jptext": "夏合宿も最終日の朝。\nあと数時間後には、学園へと戻っている。",
+      "choice_data_list": [
+        "Vậy thì, bắt đầu tổng kết nhé"
+      ],
+      "jpchoice_data_list": [
+        "じゃあ、振り返りを始めよう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng......! ....Trước tiên, em muốn nghe phần đánh giá của anh.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ……！\n……まずは貴方の評価を聞きたいわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em...... có trưởng thành đàng hoàng được không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "わたし……ちゃんと、成長できたかしら？"
+    },
+    {
+      "name": "",
+      "text": "Trông Almond Eye thoáng vẻ bất an. Trại hè lần này, chẳng thể nói là đối phó\ntrong trạng thái hoàn hảo. Thế nhưng――",
+      "jpname": "モノローグ",
+      "jptext": "どことなく不安げなアーモンドアイ。\n今回の夏合宿は、万全に挑めたとは言えない。\nそれでも――",
+      "choice_data_list": [
+        "―― Mục tiêu đã hoàn thành. Tuyệt đối ổn!",
+        "―― Mục tiêu đã hoàn thành. Tuyệt đối ổn nhé!"
+      ],
+      "jpchoice_data_list": [
+        "――目標はクリアした。ばっちりだ！",
+        "――目標はクリアした。ばっちりだよ！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ！",
+      "choice_data_list": [
+        "Em đã vượt qua được rồi!",
+        "Em đã vượt qua được rồi đấy!"
+      ],
+      "jpchoice_data_list": [
+        "乗り越えられたな！",
+        "乗り越えられたね！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng!",
+      "jpname": "アーモンドアイ",
+      "jptext": "うんっ！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Uhh—— Aaaaaaa......!!!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……っっ、あああああああ……！！！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!? Tiếng vừa nãy kia――",
+      "jpname": "アーモンドアイ",
+      "jptext": "っ！？\n今の――"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Chưa đâu, còn chưa...... đến bóng của cậu cũng chưa chạm nổi......!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……まだや、まだ……\n影すら踏めてへん……！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Phải khắc cốt ghi tâm. Lối chạy bậc nhất...... vào cặp chân này......!",
+      "jpname": "ラッキーライラック",
+      "jptext": "……叩き込むんや。\n最高峰の走りを……この脚に……！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Nữa...... nữa...... nữa chứ......!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "もっと……もっと……もっと……っっ！！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Aaa...... Haaaaaaaa......!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "ああぁ……はぁあああああああ……っ！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Lần đầu em thấy Lala như thế ấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……あんなララ、初めて見た。",
+      "choice_data_list": [
+        "Cô ấy đang tự đẩy mình đến cực hạn quá......",
+        "Cô ấy đang tự đẩy mình đến cực hạn quá nhỉ......"
+      ],
+      "jpchoice_data_list": [
+        "相当追い込んでるな……",
+        "相当追い込んでるね……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "........Trainer. Cứ đến khi xe buýt đến, em tập thêm được không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………トレーナー。\nやっぱりバスが来るまで、\nトレーニングしてもいいかしら？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em sẽ không gồng đâu. ....Xin anh mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "無理はしないから。\n……お願い。",
+      "choice_data_list": [
+        "Được rồi. Đi đổi đồ đi nào"
+      ],
+      "jpchoice_data_list": [
+        "わかった。着替えておいで"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn anh!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとう！",
+      "choice_data_list": [
+        "(....Ra là vậy)"
+      ],
+      "jpchoice_data_list": [
+        "（……なるほど）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Lucky Lilac là một Mã Nương tuyệt vời. Dù vậy, vì sao Almond Eye lại dồn\ntâm tới cô ấy đến vậy, tôi có phần không hiểu――",
+      "jpname": "モノローグ",
+      "jptext": "ラッキーライラックは素晴らしいウマ娘だ。\nそれでも、アーモンドアイがなぜここまで\n彼女にこだわるのか、少し不思議だったが――",
+      "choice_data_list": [
+        "(Cái ý chí không chịu thua kia, có chút giống em――)"
+      ],
+      "jpchoice_data_list": [
+        "（あの負けん気は、少し似てる――）"
+      ]
+    },
+    {
+      "name": "Ai & Lala",
+      "text": "―― À.",
+      "jpname": "アイ＆ララ",
+      "jptext": "――あ。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Ai-san cũng vất vả rồi nhỉ. Cả hai đều vừa kịp chót thì phải.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……アイさんも、お疲れ様やね。\nお互い、ギリギリになってしもたなぁ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Kịp là được rồi! Thế trại hè của cậu diễn ra thuận lợi không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "間に合ったからいいのよ！\nそれで、合宿はうまくいったのかしら？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Cũng nhờ có phúc. Rốt cuộc cũng ra được một thành tích đẹp.",
+      "jpname": "ラッキーライラック",
+      "jptext": "おかげさまで。\nええ記録が、ようやっと出たんよ。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "―― Tại “Shuka Sho”, có khi...... tớ sẽ khiến Ai-san phải giật mình đấy.",
+      "jpname": "ラッキーライラック",
+      "jptext": "――『秋華賞』では、アイさんのこと……\n驚かしてまうかもしれへんね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ! Thế thì mong chờ quá! Em háo hức cho trận đua này quá......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら！　それは楽しみだわ！\nレースが待ち遠しい……！"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Hihi. Tớ cũng vậy.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……ほほ。\nうちもや。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Hình như sắp khởi hành rồi đấy. Này, Trainer......",
+      "jpname": "アーモンドアイ",
+      "jptext": "――そろそろ出るみたいよ。\nねえ、トレーナー……。",
+      "choice_data_list": [
+        "..............Khò......"
+      ],
+      "jpchoice_data_list": [
+        "………………すぅ……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ.... ....Fufu.",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら。……ふふ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cũng đã cùng em cố gắng mà nhỉ. ....Cảm ơn anh.",
+      "jpname": "アーモンドアイ",
+      "jptext": "一緒に、頑張ってくれたものね。\n……ありがとう。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(....Cùng nhau, à......)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（……一緒に、かぁ）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“Shuka Sho”, phải thắng chứ! ―― Cũng vì anh nữa mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "『秋華賞』、勝たなくちゃね！\n――貴方のためにも。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Em đó, quả thật―― đã giật mình lắm đấy)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（わたしね、本当に――ビックリしたのよ）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "(Rằng sẽ “muốn thắng” vì cả một ai đó nữa cơ đấy)",
+      "jpname": "アーモンドアイ",
+      "jptext": "（誰かのためにも、“勝ちたい”なんて）"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Anh cứ yên tâm. Em, nhất định sẽ――",
+      "jpname": "アーモンドアイ",
+      "jptext": "安心していいわよ。\nわたし、絶対に――"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Lần tới, sẽ là tớ. Nhất định――",
+      "jpname": "ラッキーライラック",
+      "jptext": "……次こそは、うちが。\n絶対に――"
+    },
+    {
+      "name": "Ai & Lala",
+      "text": "Thắng......!!",
+      "jpname": "アイ＆ララ",
+      "jptext": "勝つ……！！"
+    },
+    {
+      "name": "",
+      "text": "Hai ý chí mạnh mẽ―― cùng hướng về “Shuka Sho”.",
+      "jpname": "モノローグ",
+      "jptext": "ふたつの強い想いが――『秋華賞』に向かう。"
+    }
+  ]
+}

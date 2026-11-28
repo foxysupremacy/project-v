@@ -1,0 +1,418 @@
+{
+  "title": "Cô Mã Nương ấy dịu dàng quá đỗi",
+  "jptitle": "そのウマ娘は淑やかに",
+  "text_block_list": [
+    {
+      "name": "Almond Eye",
+      "text": "Tiếp theo là.... bơi vài đường với 70% công suất, đúng không nào?",
+      "jpname": "アーモンドアイ",
+      "jptext": "この後は……\n全力の70％で、何本か泳ぐんだったわね。",
+      "choice_data_list": [
+        "Ừ, duy trì nhịp tim ở mức cao nhé.",
+        "Ừm, duy trì nhịp tim ở mức cao nhé."
+      ],
+      "jpchoice_data_list": [
+        "ああ、高い脈拍を維持しよう",
+        "うん、高い脈拍を維持しよう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "“Để nâng khả năng hấp thụ oxy tối đa, cải thiện sức bền”....",
+      "jpname": "アーモンドアイ",
+      "jptext": "『最大酸素摂取量を引き上げて、\n持久力を向上させるため』……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hiểu rồi! Mà này, số đường bơi ghi ra có vẻ đại khái quá thì phải?",
+      "jpname": "アーモンドアイ",
+      "jptext": "わかったわ！　ところで、\n本数がかなりざっくりしているけれど？",
+      "choice_data_list": [
+        "Anh muốn điều chỉnh linh hoạt theo số liệu và tình trạng của em.",
+        "Anh muốn điều chỉnh linh hoạt theo số liệu và tình trạng của em."
+      ],
+      "jpchoice_data_list": [
+        "数値と、君の様子を見て適宜調整したい",
+        "数値と、貴方の様子を見て適宜調整したい"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Quả thật, cách đó hiệu quả hơn nhỉ. Vậy.... giao hết cho anh, thật sự ổn chứ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "確かに、その方が効率はいいわね。\nなら……任せて、大丈夫なのかしら？",
+      "choice_data_list": [
+        "Ừ. Anh theo dõi kỹ mà!",
+        "Ừm. Anh theo dõi kỹ mà!"
+      ],
+      "jpchoice_data_list": [
+        "ああ。ちゃんと見ているから！",
+        "うん。ちゃんと見ているから！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Fufu. Vậy nhờ anh nhé! Em sẽ tập trung toàn tâm vào bơi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふ。なら、よろしくね！\nわたしは泳ぎに集中するわ！"
+    },
+    {
+      "name": "",
+      "text": "Huấn luyện cùng Almond Eye tiến triển thuận lợi. Cả sự tương giao, cũng\ncảm giác như thông suốt hơn trước nhiều....",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイとのトレーニングは、\n順調に進んでいた。コミュニケーションも、\nこれまで以上によくとれている……気がする。",
+      "choice_data_list": [
+        "(Thể chất cũng càng ngày càng mạnh hơn....)"
+      ],
+      "jpchoice_data_list": [
+        "（体も更に強くなってきているし……）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù vẫn theo dõi thêm một chút, nhưng từ cấp Classic trở đi cho cô ấy ra trận\nnghiêm túc hẳn hoi chắc cũng chẳng vấn đề. Vậy thì, điều cần quyết định lúc\nnày chính là――",
+      "jpname": "モノローグ",
+      "jptext": "もう少し様子は見るが、クラシック級からは\n本格的にレースに出ても問題はないだろう。\nであれば、そろそろ決めておきたいのは――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nói xa hơn cả “Sinzan Kinen”.... là chuyện “mục tiêu lớn” của cấp Classic,\nđúng không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "『シンザン記念』のさらに先……。\nクラシック級の“大目標”のこと、よね。",
+      "choice_data_list": [
+        "Cự ly phù hợp nhất với em, nhiều khả năng là cự ly trung.",
+        "Cự ly phù hợp nhất với em, nhiều khả năng là cự ly trung."
+      ],
+      "jpchoice_data_list": [
+        "君に最も適しているのは、恐らく中距離だ",
+        "貴方に最も適しているのは、恐らく中距離"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hơn nữa, nhìn lại số liệu, xem ra cũng khá linh hoạt được. Vậy thì đường\nchính đạo, Chuỗi Tam Miện Classic hay đường Triple Tiara――",
+      "jpname": "モノローグ",
+      "jptext": "しかも、データを振り返ってみると、\nそこそこ融通も利きそうだ。であれば王道の、\nクラシック三冠路線あるいはティアラ路線――",
+      "choice_data_list": [
+        "Cả Tam Miện nào cũng có thể chinh phục....!"
+      ],
+      "jpchoice_data_list": [
+        "どちらの三冠だって成せる……！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ừmmm.... Chuỗi Tam Miện Classic, đường Triple Tiara....",
+      "jpname": "アーモンドアイ",
+      "jptext": "うーん……。\nクラシック三冠路線、ティアラ路線……。",
+      "choice_data_list": [
+        "....Hình như vẫn chưa quyết được à?",
+        "....Hình như vẫn chưa quyết được nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "……まだ、決まらなさそうか？",
+        "……まだ、決まらなさそう？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng vậy. Chuyện xuất phát lỡ đà, chuyện đua tài.... vì em cứ tập trung mãi\nvào từng việc trước mắt.",
+      "jpname": "アーモンドアイ",
+      "jptext": "そうね。出遅れとか、レースとか……\n目の前のことに、ずっと集中していたから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng tiêu chí chọn thì em đã chốt rồi. Là những cuộc đua khiến em “muốn\nthắng”!",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも、選ぶ条件は決まってるわ。\nわたしが“勝ちたい”と思えるレース！"
+    },
+    {
+      "name": "",
+      "text": "Tôi nhớ trước đây cũng từng nói chuyện này. Nghĩa là, chỉ cần tìm được điều\ngì khiến trái tim cô ấy rung động――",
+      "jpname": "モノローグ",
+      "jptext": "以前もそんな話をした覚えがある。\nつまり、彼女の心が動くような、\n何かが見つかれば――"
+    },
+    {
+      "name": "???",
+      "text": "――Xin phép chen vào tí, được không nè?",
+      "jpname": "？？？",
+      "jptext": "――ちょっと前、ええですか？"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Xin lỗi vì đã cắt ngang chuyện trò. Vô tình quên lại cái khăn ở đó mất rồi.",
+      "jpname": "ラッキーライラック",
+      "jptext": "お話し中、失礼しました。\nそこにタオルを置き忘れてしもて。",
+      "choice_data_list": [
+        "(Cô bé này là―― Lucky Lilac)"
+      ],
+      "jpchoice_data_list": [
+        "（この子は――ラッキーライラック）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Cách ứng xử đằm thắm, phong thái thong dong. Cô ấy cùng thế hệ với\nAlmond Eye――",
+      "jpname": "モノローグ",
+      "jptext": "たおやかな物腰に、余裕ある佇まい。\nアーモンドアイと同世代の彼女は――"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Lucky Lilac thoát hẳn lên dẫn đầu! Guồng chạy khác biệt rõ rệt với các Mã\nNương khác! Cán đích với khoảng cách hơn một thân ngựa so với hạng nhì!!",
+      "jpname": "実況",
+      "jptext": "ラッキーライラック完全に抜け出した！\n他のウマ娘とは明らかに違う脚色でッ！\n2着に1バ身以上の差をつけてゴールッッ！",
+      "color_text_info_list": [
+        "Lucky Lilac"
+      ],
+      "jpcolor_text_info_list": [
+        "ラッキーライラック"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hô hô hô.... Các vị, cám ơn những tiếng reo hò đã dành cho em.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ほほほ……。\nみなさま、ご声援ありがとうございました。"
+    },
+    {
+      "name": "",
+      "text": "Dù bị chen chúc giữa đám đông cũng chẳng nao núng, dũng khí cùng giác\nquan đua tài chọn được tuyến đường điềm đạm, cùng lối chạy mẫu mực đã\nđẹp đẽ ghi chiến thắng đầu tiên.",
+      "jpname": "モノローグ",
+      "jptext": "バ群にもまれても動揺することなく、\n冷静に進路を取れる度胸とレースセンスと、\n優等生的な走りで見事、初勝利を飾った。"
+    },
+    {
+      "name": "",
+      "text": "Sau đó cũng chạy an toàn vững vàng, ngay lập tức thắng cả\nTrận đua Trọng Thưởng. Là một trong những Mã Nương đang nhận nhiều kỳ\nvọng nhất hiện giờ.",
+      "jpname": "モノローグ",
+      "jptext": "その後も危なげない走りで、\n早速重賞にも勝っている。\n今、最も期待を集めているウマ娘のひとりだ。",
+      "color_text_info_list": [
+        "Trận đua Trọng Thưởng"
+      ],
+      "jpcolor_text_info_list": [
+        "重賞"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Thế thì, em xin phép đi nha. ....Ai-san, gặp lại em trong lớp nha.",
+      "jpname": "ラッキーライラック",
+      "jptext": "ほな、お邪魔しました。\n……アイさん、また教室で。",
+      "choice_data_list": [
+        "(Nhắc mới nhớ, hai cô ấy cùng lớp mà đúng không.)"
+      ],
+      "jpchoice_data_list": [
+        "（そういえば、ふたりは同じクラスだっけ）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Lala hình như tăng thêm chút lượng cơ bắp. Nhìn dáng bước cũng khác\nhẳn rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ララ、少し筋肉量が増えたみたい。\n歩き方が違ってみえるわ。",
+      "color_text_info_list": [
+        "Lala"
+      ],
+      "jpcolor_text_info_list": [
+        "ララ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Trainer. Buổi huấn luyện của cô bé ấy, em quan sát một chút được không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナー。あの子のトレーニング、\n少し見ていてもいいかしら？",
+      "choice_data_list": [
+        "Ừ, không sao đâu.",
+        "Ừm, không sao đâu."
+      ],
+      "jpchoice_data_list": [
+        "ああ、構わないよ",
+        "うん、構わないよ"
+      ]
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "....Thế thì, mình đi nha.",
+      "jpname": "ラッキーライラック",
+      "jptext": "……ほな、行きましょか。"
+    },
+    {
+      "name": "Lucky Lilac",
+      "text": "Hự....!!",
+      "jpname": "ラッキーライラック",
+      "jptext": "ふっ……！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "........Giữ nhịp, hoàn hảo ghê.",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。\nペースキープ、完璧ね。"
+    },
+    {
+      "name": "Trainer A",
+      "text": "....A! Này. Nhìn bên kia kìa.",
+      "jpname": "トレーナーA",
+      "jptext": "……あ！　おい。あっち、見てみろよ。",
+      "choice_data_list": [
+        "(....Hừm? Bên kia, ý cậu là....)"
+      ],
+      "jpchoice_data_list": [
+        "（……ん？あっち、って……）"
+      ]
+    },
+    {
+      "name": "Orfevre",
+      "text": "..........",
+      "jpname": "オルフェーヴル",
+      "jptext": "………………。",
+      "choice_data_list": [
+        "(“Bạo chúa” Orfevre....!)"
+      ],
+      "jpchoice_data_list": [
+        "（“暴君”オルフェーヴル……！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hiện nay đã có 7 Mã Nương chinh phục trọn Chuỗi Tam Miện Classic. Trong\nđó, “vua” mới nhất chính là cô ấy. Vì thái độ ngạo mạn mà bị gọi là “bạo\nchúa”.",
+      "jpname": "モノローグ",
+      "jptext": "クラシック三冠を達成したウマ娘は現在7人。\nその中で一番新しい“王”が彼女だ。\n尊大なる態度から“暴君”と呼ばれている。"
+    },
+    {
+      "name": "Trainer A",
+      "text": "Nhìn chằm chằm vào Lucky Lilac.... Hóa ra lời đồn đó là thật.",
+      "jpname": "トレーナーA",
+      "jptext": "ラッキーライラックのことを見てる……。\nあのウワサ、本当だったんだな。"
+    },
+    {
+      "name": "Trainer B",
+      "text": "Được chính Orfevre để mắt ưu ái.... là chuyện đó đó. Mà, tài năng có thật\nmà.",
+      "jpname": "トレーナーB",
+      "jptext": "あのオルフェーヴルから目をかけられてる……\nってやつな。ま、才能あるもんなぁ。",
+      "color_text_info_list": [
+        "Orfevre"
+      ],
+      "jpcolor_text_info_list": [
+        "オルフェーヴル"
+      ]
+    },
+    {
+      "name": "Trainer B",
+      "text": "Lần tới là “Hanshin Juvenile Fillies” đúng không? GⅠ cấp Junior nối tiếp vào\nđường Triple Tiara.... GⅠ đầu tiên của thế hệ, chắc sẽ về tay cô bé đó nhỉ?",
+      "jpname": "トレーナーB",
+      "jptext": "次は『阪神ジュベナイルフィリーズ』だっけ？\nティアラ路線に繋がるジュニア級のGⅠ……\n世代最初のGⅠは、あの子のものかなぁ。",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ],
+      "jpcolor_text_info_list": [
+        "阪神ジュベナイルフィリーズ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……….",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。"
+    },
+    {
+      "name": "",
+      "text": "Chẳng để tâm lời bàn tán của các Trainer, Almond Eye chăm chú nhìn mãi\nkhông rời buổi huấn luyện của Lucky Lilac.",
+      "jpname": "モノローグ",
+      "jptext": "トレーナーたちの噂話を気にも留めず、\nアーモンドアイはラッキーライラックの\nトレーニングを一心に見つめている。",
+      "choice_data_list": [
+        "....Cô ấy đáng chú ý đến vậy à?"
+      ],
+      "jpchoice_data_list": [
+        "……彼女が、そんなに気になる？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "....Còn trước khi ký hợp đồng với anh, em đã xem cô bé ấy chạy biết bao lần\nrồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……貴方と契約する前から、\n何度もあの子の走りは見ていたわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một cô bé nghiêm túc, nghe lời cô giáo rất ngoan.... chuyện gì cũng xử lý\ntrọn vẹn không khuyết sót!",
+      "jpname": "アーモンドアイ",
+      "jptext": "真面目で、先生の言うことをよく聞いて……\nなんでもそつなくこなせる子なの！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Có khi Lala còn là hình mẫu để cả lớp noi theo đấy. Nhưng, so với thời\nđó――",
+      "jpname": "アーモンドアイ",
+      "jptext": "ララがお手本になる場面も多かったくらい。\nでも、あの頃より――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Bây giờ còn trưởng thành hơn nhiều nữa. ....",
+      "jpname": "アーモンドアイ",
+      "jptext": "今はもっと、成長している。\n……。",
+      "choice_data_list": [
+        "Ai?"
+      ],
+      "jpchoice_data_list": [
+        "アイ？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Này. “Hanshin Juvenile Fillies”, em đi quan sát học hỏi được không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ねえ。『阪神ジュベナイルフィリーズ』、\n見学に行ってもいいかしら？"
+    },
+    {
+      "name": "",
+      "text": "....Hơi bất ngờ. Vì tôi cứ tưởng với Almond Eye, cô ấy sẽ nói “muốn đối\nđầu”.",
+      "jpname": "モノローグ",
+      "jptext": "……少し意外だった。\nアーモンドアイならば、“対決したい”と\n言うと思っていたからだ。",
+      "choice_data_list": [
+        "Tất nhiên là được, nhưng quan sát thôi hả?",
+        "Tất nhiên là được, nhưng chỉ quan sát thôi à?"
+      ],
+      "jpchoice_data_list": [
+        "もちろん大丈夫だけど、見学でいいのか？",
+        "もちろん大丈夫だけど、見学でいいの？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ừ. Em tự tin là hiểu rõ tình hình của mình. Phong độ đang lên trông thấy....",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ。自分の状況はわかっているつもり。\n調子は上がっているけれど……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chính vì vậy mới không thể liều lĩnh vội vàng. “Sinzan Kinen” là tháng 1,\nkhoảng cách giữa các lần ra trận cũng sẽ bị rút ngắn.",
+      "jpname": "アーモンドアイ",
+      "jptext": "だからこそ、無理をするわけにはいかないわ。\n『シンザン記念』は1月、\n出走間隔も短くなってしまう。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cho nên.............",
+      "jpname": "アーモンドアイ",
+      "jptext": "だから………………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "........Quan sát, là đủ rồi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "………………見学で、いい！",
+      "choice_data_list": [
+        "(Nhịn được, giỏi lắm đó, Ai!)",
+        "(Nhịn được, giỏi lắm đó nha, Ai!)"
+      ],
+      "jpchoice_data_list": [
+        "（耐えて偉いぞ、アイ！）",
+        "（耐えて偉いよ、アイ！）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Để xem Lucky Lilac chạy, việc đi quan sát “Hanshin Juvenile Fillies” đã được\nquyết định.",
+      "jpname": "モノローグ",
+      "jptext": "ラッキーライラックの走りを見るため、\n『阪神ジュベナイルフィリーズ』を\n見学することが決まった。"
+    }
+  ]
+}

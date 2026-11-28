@@ -1,0 +1,154 @@
+{
+  "title": "Mau khỏe nhé!",
+  "jptitle": "お大事に！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Anh đã đưa Almond Eye bị thương nhẹ đến phòng y tế.",
+      "jpname": "モノローグ",
+      "jptext": "軽いケガをしてしまったアーモンドアイを、\n保健室に連れてきた。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chẳng nghiêm trọng gì đâu. Cơn đau cũng chẳng là bao.",
+      "jpname": "アーモンドアイ",
+      "jptext": "大したことないわ。\n痛みもほとんどないし。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Xong sơ cứu rồi thì, quay lại huấn luyện luôn nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "応急処置が終わったら、\nトレーニングに戻りましょ？",
+      "choice_data_list": [
+        "Không, hôm nay dừng ở đây thôi đấy"
+      ],
+      "jpchoice_data_list": [
+        "いや、今日はもうおしまいにしよう"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả? ......Được anh quan tâm em rất vui, nhưng nó thực sự chẳng nghiêm\ntrọng gì đâu đấy?",
+      "jpname": "アーモンドアイ",
+      "jptext": "え？　……心配してくれるのは嬉しいけれど、\n本当に大したことないのよ？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nè, nhìn thẳng vào mắt em này? Em có trông như đang nói dối không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ほら、わたしの目を見て？\n嘘をついているように見える？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......――",
+      "jpname": "アーモンドアイ",
+      "jptext": "……――",
+      "choice_data_list": [
+        "Hừm...... thì chẳng thấy đâu, nhưng mà"
+      ],
+      "jpchoice_data_list": [
+        "うーん、見えないけども"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thấy chưa? Chẳng sao mà, tiếp tục huấn luyện nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ほら、ね？\n大丈夫だから、トレーニング続けましょ？",
+      "choice_data_list": [
+        "Vì muốn thắng tiếp từ giờ về sau, anh mong em nghỉ ngơi bây giờ",
+        "Anh điều chỉnh bài tập một chút chứ?"
+      ],
+      "jpchoice_data_list": [
+        "これからも勝つために、今は休んでほしい",
+        "多少、メニューは調整するよ？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vì để thắng...... Nhưng nếu thế thì, càng phải――",
+      "jpname": "アーモンドアイ",
+      "jptext": "勝つために……。\nでも、それならなおさら――",
+      "choice_data_list": [
+        "Nhìn vào mắt anh đi, Ai",
+        "Nhìn vào mắt anh đi, Ai"
+      ],
+      "jpchoice_data_list": [
+        "俺の目を見て、アイ",
+        "私の目を見て、アイ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!",
+      "jpname": "アーモンドアイ",
+      "jptext": "！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em hiểu rồi. Em sẽ tin vào phán đoán của anh. Quả thật, em còn thiếu sự\nbình tĩnh.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……わかった。貴方の判断を信じるわ。\nたしかに、冷静さに欠けてた。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Việc quyết định hôm nay chẳng hề sai, chúng ta sẽ chứng minh bằng chiến\nthắng trong trận đua nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "今日の決断が間違ってなかったこと、\nレースに勝って、証明しましょうね！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Được, em hiểu rồi! Vậy thì ngay bây giờ――",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ、わかったわ！\nそれじゃあすぐにでも――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Úi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "いっ！",
+      "choice_data_list": [
+        "Ai!?"
+      ],
+      "jpchoice_data_list": [
+        "アイ！？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "X-xin lỗi. Cơn đau có vẻ hơn lúc nãy chút......",
+      "jpname": "アーモンドアイ",
+      "jptext": "ご、ごめんなさい。\nちょっとさっきより痛みが……。"
+    },
+    {
+      "name": "",
+      "text": "Cuối cùng, để vết thương không tệ hơn nữa, anh đã cho dừng sớm phần\nhuấn luyện.",
+      "jpname": "モノローグ",
+      "jptext": "結局、これ以上悪化しないよう、\nトレーニングを切り上げたのだった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tuyệt quá! Cảm ơn anh, Trainer!",
+      "jpname": "アーモンドアイ",
+      "jptext": "やった！\nありがとう、トレーナー！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Ừ, ở mức này thì có vẻ ổn rồi đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――うん、これぐらいなら大丈夫そうよ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng là đỉnh cao đấy, Trainer! ......Được rồi, cố thêm chút nữa nào!",
+      "jpname": "アーモンドアイ",
+      "jptext": "さすがね、トレーナー！\n……よし、あと少し頑張りましょ！"
+    },
+    {
+      "name": "",
+      "text": "Và thế là, phần huấn luyện đã được tiếp tục ở mức không quá sức.",
+      "jpname": "モノローグ",
+      "jptext": "こうして無理のない範囲で、\nトレーニングを続けたのだった。"
+    }
+  ]
+}

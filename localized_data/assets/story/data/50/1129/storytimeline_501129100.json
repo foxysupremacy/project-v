@@ -1,0 +1,618 @@
+{
+  "title": "Almond Eye xuất hiện!",
+  "jptitle": "アーモンドアイ登場！",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Twinkle Series đang “tiến hóa”.",
+      "jpname": "モノローグ",
+      "jptext": "トゥインクル・シリーズは“進化”する。",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ],
+      "jpcolor_text_info_list": [
+        "トゥインクル・シリーズ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kỷ lục đã được xác lập trong quá khứ, sẽ có người của tương lai xé toạc thay\nthế ―― bằng vòng lặp ấy, cuộc đua đã từng bước tiến về phía trước, không\nngừng nghỉ.",
+      "jpname": "モノローグ",
+      "jptext": "過去に成し遂げられた記録を、\n未来の誰かが塗り替える――\nその繰り返しで、前へ前へと進み続けてきた。"
+    },
+    {
+      "name": "",
+      "text": "Chẳng hạn như Tam Miện Classic. Người đầu tiên chiến thắng trọn bộ\n“Satsuki Sho”, “Nippon Derby”, “Kikuka Sho” chính là ――",
+      "jpname": "モノローグ",
+      "jptext": "たとえば、クラシック三冠。\n『皐月賞』『日本ダービー』『菊花賞』\n全てを初めて勝利したのは――",
+      "color_text_info_list": [
+        "Tam Miện Classic",
+        "Satsuki Sho",
+        "Nippon Derby",
+        "Kikuka Sho"
+      ],
+      "jpcolor_text_info_list": [
+        "クラシック三冠",
+        "皐月賞",
+        "日本ダービー",
+        "菊花賞"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Saint Lite. Kỷ lục của cô ấy trở thành một chuẩn mực ―― mục tiêu mới của\ncả giới đua.",
+      "jpname": "モノローグ",
+      "jptext": "セントライト。\n彼女の記録は、ひとつの基準――\nレース界の新たな目標となったのだ。",
+      "color_text_info_list": [
+        "Saint Lite"
+      ],
+      "jpcolor_text_info_list": [
+        "セントライト"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Hành trình thử thách và sánh vai cùng kỷ lục ấy…… sẽ dẫn đường đến những\nkỳ tích kế tiếp.",
+      "jpname": "モノローグ",
+      "jptext": "その記録に挑み、並ぶ過程は……\n次なる偉業に繋がる。"
+    },
+    {
+      "name": "",
+      "text": "“Hoàng đế” Symboli Rudolf. Mã Nương đầu tiên trong lịch sử hoàn thành\ntrọn Tam Miện Classic với thành tích bất bại. Và trên hết, thành tựu vĩ đại\nnhất của chị ấy là ――",
+      "jpname": "モノローグ",
+      "jptext": "“皇帝”シンボリルドルフ。史上初、\n無敗でクラシック三冠を成したウマ娘。\nそのうえで、彼女の最大の功績は――",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ],
+      "jpcolor_text_info_list": [
+        "シンボリルドルフ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "―― Người đầu tiên trong lịch sử giành 7 chiến thắng GⅠ trên cỏ. Lịch sử đua\ntính đến hôm nay đã chứng minh số chiến thắng ấy vĩ đại đến nhường\nnào……",
+      "jpname": "モノローグ",
+      "jptext": "――史上初の芝GⅠ7勝達成。\nこの勝利数が、どれほど偉大な記録か……\n今日までのレースの歴史が物語っている。",
+      "color_text_info_list": [
+        "GⅠ"
+      ],
+      "jpcolor_text_info_list": [
+        "GⅠ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phá kỷ lục, chiến thắng đầu tiên trong lịch sử, liên bá…… Kể từ khi “Hoàng\nđế” giành 7 chiến thắng GⅠ trên cỏ, vô vàn kỷ lục đã ra đời, bị phá vỡ…… rồi\ntiếp tục được vượt lên.",
+      "jpname": "モノローグ",
+      "jptext": "レコード更新、史上初の勝利、連覇……\n“皇帝”が芝GⅠ7勝を達成してから、\n様々な記録が生まれ、破られ……更新された。"
+    },
+    {
+      "name": "",
+      "text": "Nhưng 7 chiến thắng GⅠ trên cỏ ―― dù đã có người sánh ngang, kẻ bước\nđược xa hơn nữa ―― cho đến tận bây giờ, vẫn chưa hề có.",
+      "jpname": "モノローグ",
+      "jptext": "しかし、芝GⅠ7勝――並んだ者はいても、\nその先に進んだものは――いまだ、いない。",
+      "choice_data_list": [
+        "(―― Muốn vượt qua, phải làm cách nào?)"
+      ],
+      "jpchoice_data_list": [
+        "（――超えるには、どうすればよいのか？）"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "……Đúng vậy nhỉ. Dù ta đã đạt được thất quan, nhưng kẻ chưa thể tiến xa\nhơn cột mốc ấy như ta cũng không cách nào biết được.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "『……そうですね。七冠は達成したものの、\nその先まで行けなかった私には\nわかりようもありません』"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Thế nhưng―― nếu là một Mã Nương có thể làm nên kỳ tích ấy, hẳn em ấy\nsẽ tự khắc thấu tỏ mà thôi.",
+      "jpname": "シンボリルドルフ",
+      "jptext": "『ですが――それを果たしうるウマ娘ならば、\n自然と知っているのでしょう』"
+    },
+    {
+      "name": "",
+      "text": "Vị Mã Nương vĩ đại đã trả lời như thế. Vậy thì…… một Mã Nương có thể\nhoàn thành được điều đó sẽ nói gì nhỉ?",
+      "jpname": "モノローグ",
+      "jptext": "偉大なウマ娘は、そう答えた。\nでは……それを成しうるウマ娘は、\n何と言うのだろう？"
+    },
+    {
+      "name": "",
+      "text": "“Hãy mạnh hơn bất kỳ ai”? “Hãy chạy xa hơn bất kỳ ai”, “hãy biến may mắn\nthành đồng minh”? …… Tôi mơ tưởng đủ kiểu câu trả lời, rồi lại lắc đầu.",
+      "jpname": "モノローグ",
+      "jptext": "『誰よりも強くなればいい』？\n『誰よりも長く走る』『運を味方につける』？\n……様々な答えを夢想しては、首を振った。"
+    },
+    {
+      "name": "",
+      "text": "―― Có vẻ đáp án nào cũng chẳng hợp. Với nghi vấn bám chặt trong một góc\nđầu ấy…… một hôm nọ, đã có một luồng sáng lấp lánh mà nhẹ nhàng chiếu\nrọi vào.",
+      "jpname": "モノローグ",
+      "jptext": "――どんな答えも相応しくないように思えた。\n頭の片隅にこびりついたその疑問に……\nある日、いとも鮮やかで軽やかな光が射した。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "…… Phương pháp à, em đâu có biết. Em chẳng biết gì cả.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……方法なんてわからないわ。\nわたしにはわからない。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng mà ngược lại, từ đầu thì vì sao lại cho rằng không làm được cơ chứ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも、逆に、\nそもそもどうしてできないって思うの？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tận hết sức mà chiến, nhất định phải thắng là được. Làm điều đó 8 lần là\nxong. Thắng 7 hay thắng 8 cũng chẳng khác gì nhau.",
+      "jpname": "アーモンドアイ",
+      "jptext": "全力で戦って、必ず勝てばいいのよ。\nそれを8回やればいい。\n7勝も8勝も変わらないわ。"
+    },
+    {
+      "name": "",
+      "text": "Tên của cô ấy là Almond Eye. Trong đôi mắt cô ánh lên khả năng tràn bờ, đủ\nđể biến mọi giấc mơ thành hiện thực ―― một Mã Nương mạnh mẽ đầy\nchính khí.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の名前は、アーモンドアイ。\nどんな夢だって叶えられる、溢れんばかりの\n可能性を瞳に宿した――勝ち気なウマ娘。",
+      "color_text_info_list": [
+        "Almond Eye"
+      ],
+      "jpcolor_text_info_list": [
+        "アーモンドアイ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Nuôi giấc mơ lớn về tương lai mà cô ấy sẽ tự tay mở ra ―― tôi đã ký kết\nhợp đồng làm Trainer chủ quản.",
+      "jpname": "モノローグ",
+      "jptext": "彼女の切り開く未来に、大きな夢を抱き――\n担当トレーナー契約を結んだのだった。"
+    },
+    {
+      "name": "",
+      "text": "Đã một khoảng thời gian trôi qua kể từ ngày ký hợp đồng với em…… ngày\nTrận ra mắt tại Twinkle Series cũng đã được quyết định.",
+      "jpname": "モノローグ",
+      "jptext": "彼女と契約を結んでからしばらくが経ち……\nトゥインクル・シリーズへの\nメイクデビューの日が決まった。",
+      "color_text_info_list": [
+        "Trận ra mắt"
+      ],
+      "jpcolor_text_info_list": [
+        "メイクデビュー"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Sắp đến rồi……! Cuối cùng em cũng được chạy ở Twinkle Series!",
+      "jpname": "アーモンドアイ",
+      "jptext": "いよいよね……！\nやっと、トゥインクル・シリーズで走れる！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một lần nữa mong anh chiếu cố, Trainer! Ngay bây giờ…… mình nên bắt đầu\ntừ đâu đây?",
+      "jpname": "アーモンドアイ",
+      "jptext": "改めてよろしく、トレーナー！\n早速……なにから始めましょう？",
+      "choice_data_list": [
+        "Đúng rồi, trước tiên là――",
+        "Đúng vậy, trước tiên là――"
+      ],
+      "jpchoice_data_list": [
+        "そうだな、まずは――",
+        "そうだね、まずは――"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phù…… phù……! …… Phư!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふっ……ふっ……！\n……ふぅ！"
+    },
+    {
+      "name": "",
+      "text": "Việc đầu tiên là kiểm tra năng lực hiện tại của em. Để từ đó soạn ra menu\nluyện tập chuẩn nhất hướng đến Trận ra mắt ――",
+      "jpname": "モノローグ",
+      "jptext": "まずは今の彼女の能力をテストしていた。\nメイクデビューに向けた、\nベストなメニューを作成するためだが――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "…… Như vậy là 15 hiệp! Tiếp theo là test cơ trung tâm nhé.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……これで15セット！\n次は体幹のテストね。",
+      "choice_data_list": [
+        "(Dễ dàng vượt qua…… lực cơ đáng kinh ngạc)",
+        "(Dễ dàng vượt qua…… lực cơ thật đáng kinh ngạc!)"
+      ],
+      "jpchoice_data_list": [
+        "（軽々とクリア……素晴らしい筋力だ）",
+        "（軽々とクリア……素晴らしい筋力！）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Nếu em mang số 12, em sẽ chạy bám dẫn đầu ở vị trí thứ hai!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――わたしが12番だったら、\n2番手で先行するわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Rồi tung đòn quyết đấu từ ngay trước khúc cua thứ ba. Vì theo diễn biến\nđến đoạn đó, dọc hàng rào trong sẽ bị chen chúc ――",
+      "jpname": "アーモンドアイ",
+      "jptext": "そして第3コーナーの手前から仕掛ける。\nここまでの展開で、\n内ラチ沿いがごちゃついているから――",
+      "choice_data_list": [
+        "(Tư duy sắc bén, khả năng phán đoán cũng tuyệt vời)"
+      ],
+      "jpchoice_data_list": [
+        "（思考も明晰で、判断力も素晴らしい）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Còn điều quan trọng nhất, lối chạy của em thì――",
+      "jpname": "モノローグ",
+      "jptext": "そして、肝心の走りはというと――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phù……!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふっ……！"
+    },
+    {
+      "name": "",
+      "text": "Em điều khiển toàn cơ thể một cách mềm mại, lao đi với những sải bước\ndài. Chưa hết, sức bật tại quyết đoạn còn điên rồ ――",
+      "jpname": "モノローグ",
+      "jptext": "彼女は、体全体を柔らかく使い、\n一歩の大きいストライドで駆けていく。\n更に、勝負どころでの瞬発力が凄まじく――",
+      "choice_data_list": [
+        "Giờ là lúc tăng tốc!",
+        "Tăng tốc ngay!"
+      ],
+      "jpchoice_data_list": [
+        "ここで加速だ！",
+        "ここで加速！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng! ―― Haaaaah!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "はいっ！\n――はああああ！！"
+    },
+    {
+      "name": "",
+      "text": "Như thể chẳng hề có giới hạn, tốc độ cứ thế vươn dài mãi không ngừng……\nSở hữu một cặp chân bùng nổ sắc bén hiếm có.",
+      "jpname": "モノローグ",
+      "jptext": "まるで限界などないかのように、\nぐんぐんと、どこまでも伸びていく……。\n非常にキレる脚を持っている。",
+      "choice_data_list": [
+        "(Nhưng điều tuyệt vời nhất lại là――)"
+      ],
+      "jpchoice_data_list": [
+        "（でも、一番素晴らしいのは――）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Vậy phần anh có hài lòng chưa? Năng lực của em đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "――それで、満足いくものだったかしら？\nわたしの能力は。",
+      "choice_data_list": [
+        "Sao chỉ dừng ở mức hài lòng được chứ"
+      ],
+      "jpchoice_data_list": [
+        "満足……どころじゃないよ"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kết quả kiểm tra toàn ở mức siêu xuất sắc. Em là một tuyệt phẩm trọn vẹn\n―― ẩn giấu khả năng biến mọi giấc mơ thành hiện thực.",
+      "jpname": "モノローグ",
+      "jptext": "テスト結果は、全て超優秀なものだった。\n彼女は全てが一級品――どんな夢だって\n叶えられる可能性を秘めている。",
+      "choice_data_list": [
+        "…… Này, giấc mơ của em là gì?",
+        "…… Em à, giấc mơ của em là gì?"
+      ],
+      "jpchoice_data_list": [
+        "……なあ、君の夢は？",
+        "……ねえ、貴方の夢は？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Là chiến thắng!",
+      "jpname": "アーモンドアイ",
+      "jptext": "勝つことよ！"
+    },
+    {
+      "name": "",
+      "text": "Không chần chừ lấy một giây, em đã đáp. Thẳng tắp, chẳng vòng vo ――\ntrong đôi mắt ấy, giấc mơ đầy ắp.",
+      "jpname": "モノローグ",
+      "jptext": "間髪入れずに、彼女は答えた。\nただ真っすぐ――その瞳に、夢を湛えて。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thắng cuộc đua ngay trước mắt! Bất kể đối thủ là ai, cũng phải thắng!",
+      "jpname": "アーモンドアイ",
+      "jptext": "目の前のレースに勝つ！\nどんな相手にだって、勝つ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Nhất định phải thắng! Đó chính là giấc mơ của em!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――絶対に、勝つこと！\nそれがわたしの夢よ！",
+      "choice_data_list": [
+        "(Đúng rồi. …… Chính ý chí ấy)"
+      ],
+      "jpchoice_data_list": [
+        "（これだ。……この、意志だ）"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Điều tuyệt vời nhất của Almond Eye. Không phải năng lực xuất chúng, cũng\nchẳng phải tài năng bẩm sinh. Mà là ―― ý chí mãnh liệt hướng về chiến\nthắng.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイの、一番素晴らしいところ。\nそれは優れた能力でも、素質でもない。\nそれは――勝利への、強い意志だ。"
+    },
+    {
+      "name": "",
+      "text": "Vì chiến thắng, em sẵn sàng cố gắng đến mức nào. Nếu đối thủ đang ở hải\nngoại, em sẽ chẳng ngần ngại bay thẳng đến tận nơi……",
+      "jpname": "モノローグ",
+      "jptext": "勝つためならば、どんな努力もする。\n相手が海外にいるならば、\nためらわずそこまで飛んでいく……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Còn anh thì sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "――貴方は？",
+      "choice_data_list": [
+        "…… Hả?"
+      ],
+      "jpchoice_data_list": [
+        "……え？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Giấc mơ của anh là gì?",
+      "jpname": "アーモンドアイ",
+      "jptext": "貴方の夢は、なに？"
+    },
+    {
+      "name": "",
+      "text": "Bị em nhìn thẳng vào mắt, suy nghĩ của tôi chết lặng mất một khoảnh khắc.\nĐôi mắt ánh sáng của em…… đỏ rực lên trong hoàng hôn.",
+      "jpname": "モノローグ",
+      "jptext": "ひたと見据えられ、思考が一瞬止まった。\n光を宿した彼女の瞳が……夕日で赤く、輝く。"
+    },
+    {
+      "name": "",
+      "text": "Được soi rõ. Kỳ vọng thuở ký hợp đồng cùng em mà tôi đã ôm trong tim ――",
+      "jpname": "モノローグ",
+      "jptext": "照らし出される。\n彼女と契約した時、胸に抱いた希望が――"
+    },
+    {
+      "name": "",
+      "text": "Ý chí hướng về chiến thắng mạnh hơn bất kỳ ai sẽ vươn xa đến đâu ―― kỳ\nvọng về tương lai bắt đầu rạng rỡ……!",
+      "jpname": "モノローグ",
+      "jptext": "誰より強い勝利への意志が、どこまで\n届くのか――未来への期待が、輝きだす……！",
+      "choice_data_list": [
+        "Giấc mơ của anh là―― em giành chiến thắng",
+        "Giấc mơ của anh là―― em giành chiến thắng"
+      ],
+      "jpchoice_data_list": [
+        "俺の夢は――君が勝つこと",
+        "私の夢は――貴方が勝つこと"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Phía sau những chiến thắng nối tiếp nhau, một tương lai như thế nào đang\ntrải rộng…… tôi chỉ muốn được chứng kiến tận mắt.",
+      "jpname": "モノローグ",
+      "jptext": "勝利を重ねた先に、どんな未来が\n広がっているのか……見届けたい。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "…… Hì hì. Ra là thế.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふっ。\nなるほど。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Giấc mơ của anh, chính là em mà đúng không?",
+      "jpname": "アーモンドアイ",
+      "jptext": "貴方の夢は、\nわたしそのものなのね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Được thôi, em sẽ giúp anh thực hiện! Đổi lại, anh cũng tuyệt đối đừng thua\ncuộc đấy nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "いいわ、叶えてあげる！\nそのかわり、貴方も決して負けないこと！",
+      "choice_data_list": [
+        "Ơ……"
+      ],
+      "jpchoice_data_list": [
+        "え……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Từ giờ anh sẽ tỉ mỉ xây dựng menu luyện tập cho em chứ? Nhất định là đến\nkhi em thực lòng tâm phục khẩu phục.",
+      "jpname": "アーモンドアイ",
+      "jptext": "これからトレーニングメニュー、\n作りこむんでしょう？\nきっと、心から納得できるまで。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vì anh là người không muốn thua chính mình mà. Nên em mới chọn anh\nđấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "自分に負けたくない人、だものね。\nだから貴方を選んだの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Từ nay về sau cũng đừng bỏ cuộc. Đừng thỏa hiệp.",
+      "jpname": "アーモンドアイ",
+      "jptext": "――この先も諦めないで。妥協しないで。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Anh có thể thề với chính trái tim mình chứ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "貴方自身の心に、誓ってくれる？",
+      "choice_data_list": [
+        "…… Được, anh thề"
+      ],
+      "jpchoice_data_list": [
+        "……わかった、誓うよ"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cảm ơn anh. Em đang kỳ vọng lắm đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ありがとう。\n期待しているわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Được rồi, vậy tiếp theo là…… đến lượt anh!",
+      "jpname": "アーモンドアイ",
+      "jptext": "はい、じゃあ次は……\n貴方の番！",
+      "choice_data_list": [
+        "Hả? …… Cái gì cơ?"
+      ],
+      "jpchoice_data_list": [
+        "ん？……何が？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Bắt anh thề một mình một ngựa thì bất công lắm chứ? Anh chẳng có điều gì\nmuốn nhờ em sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "誓わせっぱなしじゃ悪いでしょう？\n貴方はわたしにお願いしたいこと、ないの？"
+    },
+    {
+      "name": "",
+      "text": "…… Để tôi nghĩ đã. Con đường sắp cùng em bước tiếp…… sẽ có vô vàn\nchuyện xảy ra. Ở từng khoảnh khắc ấy, tôi muốn truyền đạt thật rõ tình cảm\ncủa mình.",
+      "jpname": "モノローグ",
+      "jptext": "……考える。彼女と歩んでいく先には……\n様々なことが起こるだろう。その時々で、\n自分の気持ちをしっかりと伝えていきたい。"
+    },
+    {
+      "name": "",
+      "text": "Dù chỉ là những lời nhỏ nhặt đến đâu…… tôi cũng tin chúng sẽ trở thành sức\nmạnh cho em.",
+      "jpname": "モノローグ",
+      "jptext": "どんなに些細な言葉でも……\n彼女の力になると信じて。",
+      "choice_data_list": [
+        "Hãy cho anh thấy khung cảnh chưa từng có",
+        "Hãy cho anh thấy khung cảnh chưa từng có",
+        "Hãy biến giấc mơ của em thành hiện thực",
+        "Hãy biến giấc mơ của em thành hiện thực",
+        "Hãy để anh luôn ở bên ủng hộ em",
+        "Hãy để anh luôn ở bên ủng hộ em"
+      ],
+      "jpchoice_data_list": [
+        "見たことのない景色を見せてくれ",
+        "見たことのない景色を見せて",
+        "君の夢を叶えてくれ",
+        "貴方の夢を叶えて",
+        "ずっと支えさせてくれ",
+        "ずっと支えさせて"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dù chỉ là những lời nhỏ nhặt đến đâu…… tôi cũng tin chúng sẽ trở thành sức\nmạnh cho em.",
+      "jpname": "モノローグ",
+      "jptext": "どんなに些細な言葉でも……\n彼女の力になると信じて。",
+      "choice_data_list": [
+        "Hãy cho anh thấy khung cảnh chưa từng có",
+        "Hãy cho anh thấy khung cảnh chưa từng có",
+        "Hãy biến giấc mơ của em thành hiện thực",
+        "Hãy biến giấc mơ của em thành hiện thực",
+        "Hãy để anh luôn ở bên ủng hộ em",
+        "Hãy để anh luôn ở bên ủng hộ em"
+      ],
+      "jpchoice_data_list": [
+        "見たことのない景色を見せてくれ",
+        "見たことのない景色を見せて",
+        "君の夢を叶えてくれ",
+        "貴方の夢を叶えて",
+        "ずっと支えさせてくれ",
+        "ずっと支えさせて"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ưm, dù em cũng chẳng biết liệu mình có đến được nơi đó hay không……",
+      "jpname": "アーモンドアイ",
+      "jptext": "うーん、そこに辿りつくかは\nわからないけれど……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng ở nơi em chạy tới, nhất định…… sẽ có thứ khiến trái tim anh rộn\nràng!",
+      "jpname": "アーモンドアイ",
+      "jptext": "わたしが走る先に、きっと……\n貴方の心を躍らせるものがあるわ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vậy thì, ta về trước khi trời tối nhé――",
+      "jpname": "アーモンドアイ",
+      "jptext": "さて、それじゃあ\n暗くなる前に帰りましょうか――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……? Đó là điều anh muốn nhờ em sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……？\nそれがわたしへのお願いなの？",
+      "choice_data_list": [
+        "Có hơi lạ nhỉ?"
+      ],
+      "jpchoice_data_list": [
+        "変かな？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Lạ lắm, là lạ lắm luôn ấy! Nhưng…… em hiểu rồi, sẽ ghi nhớ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "変よ、と～っても！\nでも……わかったわ、覚えておく！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vậy thì, ta về trước khi trời tối nhé――",
+      "jpname": "アーモンドアイ",
+      "jptext": "さて、それじゃあ\n暗くなる前に帰りましょうか――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cái “mãi mãi”…… là đến tận đâu thì em cũng chẳng biết được.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ずっと……が、\nどこまでかはわからないけれど。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em mới là người phải mong anh chiếu cố đó! Em đang mong chờ xem anh\nlàm việc thế nào đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "こちらこそ、よろしくお願いします！\n貴方のお仕事ぶり、楽しみにしているわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vậy thì, ta về trước khi trời tối nhé――",
+      "jpname": "アーモンドアイ",
+      "jptext": "さて、それじゃあ\n暗くなる前に帰りましょうか――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……っ！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vừa nãy――",
+      "jpname": "アーモンドアイ",
+      "jptext": "今の――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "…… Hì hì. Bay lên nào, bay đến tận chân trời!",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふ。\nどこまでも、飛んでいっちゃえ！"
+    },
+    {
+      "name": "",
+      "text": "Chú bướm đón hoàng hôn vỗ cánh bay đi ―― hướng về tương lai trải rộng\nvô tận.",
+      "jpname": "モノローグ",
+      "jptext": "蝶が、夕日を浴びて羽ばたいていく――\n無限に広がる、未来に向かって。"
+    }
+  ]
+}

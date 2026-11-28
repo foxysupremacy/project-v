@@ -1,0 +1,348 @@
+{
+  "title": "Học sinh gương mẫu, và cao thủ làm nũng",
+  "jptitle": "優等生と、甘え上手と",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Đó là chuyện vào ngày cùng Almond Eye đi mua sắm dụng cụ luyện tập......",
+      "jpname": "モノローグ",
+      "jptext": "それは、アーモンドアイと\nトレーニング用品の買い出しを\nしていた日のこと……。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "À phải, Trainer. Cho em ghé đường vòng một chút, được không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "そうだ、トレーナー。\n少しだけ、寄り道をしてもいいかしら。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em có món đồ muốn mua cho riêng mình. Thế nào anh?",
+      "jpname": "アーモンドアイ",
+      "jptext": "個人的に買いたいものがあるの。\nどう？",
+      "choice_data_list": [
+        "Phải, anh đâu có ngại đâu",
+        "Ừm, anh đâu có ngại đâu"
+      ],
+      "jpchoice_data_list": [
+        "ああ、構わないぞ",
+        "うん、構わないよ"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "A! A-i-chaaaan♡ Ehehee, nè nè, có chuyện gì thế nàooo?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "あっ！　アーイーちゃん♡\nえっへへ～、なになにどしたん～？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!? Pandora-san......! Không có gì, em chỉ mua sắm tí thôi mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "！？　パンドラさん……！\nううん、ちょっと買い物してただけなの。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mua sắm cơ àaa!? Hay quá hay quá! Mình cũng đi cùng cho nè♡",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ショッピング～！？　いいねいいね～！\nあたしも付き合ったげる♡"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Nào, đi thôi đi nào☆",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ほら、行こ行こっ☆"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả......!? ......U, ừm. Cũng được......",
+      "jpname": "アーモンドアイ",
+      "jptext": "えっ……！？\n……う、うん。そうね……。",
+      "choice_data_list": [
+        "(Hửm, sao em nói chuyện cứ ấp úng thế nhỉ?)"
+      ],
+      "jpchoice_data_list": [
+        "（……なんかアイ、歯切れが悪い？）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hmm, hình như ở đây không có đâu......",
+      "jpname": "アーモンドアイ",
+      "jptext": "んー、ここにはなさそうね……。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ai-chan đang tìm quần áo hả? Vậy giao cho mình! Cái mix đồ chuẩn khớp, để\nmình tìm cho nhaaa♡",
+      "jpname": "フサイチパンドラ",
+      "jptext": "アイちゃん、お洋服探してるの？\nだったら任せて！\nぴったりのコーデ、あたしが見つけたげる～♡"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, cảm ơn chị. Nhưng hôm nay, em không tìm quần áo đâu.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふ、ありがと。\nでも、今日は服を探してるわけじゃないの。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Vậy hả......? A, vậy phụ kiện chẳng hạn!? Bên đó cũng được hết đóaaa, mình\nkể cho nghe xu hướng mới nhất nha☆",
+      "jpname": "フサイチパンドラ",
+      "jptext": "そうなん……？　あっ、じゃあアクセとか！？\nそっちでも大丈夫だよっ、\n最近の流行り教えたげるから☆",
+      "choice_data_list": [
+        "Không hiểu sao, em lại được chăm bẵm đến thế cơ đấy",
+        "Không hiểu sao, em lại được chăm bẵm đến thế cơ đấy nhỉ"
+      ],
+      "jpchoice_data_list": [
+        "なんか、やけに世話を焼かれてるな",
+        "なんか、やけに世話を焼かれてるね"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng thế đấy. Pandora-san ấy, luôn luôn để tâm chăm sóc cho em mà.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ、そうなの。パンドラさんって、\nいつもわたしを気にかけてくれるのよ？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Phùu...... vẫn còn dài lắm. Tiếp theo, là bài vận dụng hàm bậc nhất......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふうっ……まだまだ。\n次は、一次関数の応用問題ね……！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ôo! Ai-chan, thấy em rồi đó☆ Chuyện gì thế, sao trông cháy bỏng thế nèaa?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "お！　アイちゃん、みーっけ☆\nどしたの、なんか燃えてな～い？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đúng, một chút thôi...... bài kiểm tra lần trước, em chỉ đứng thứ hai khối\nmà. Lần này nhất định phải lấy vị trí thứ nhất......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ、ちょっとね……\nこの前のテスト、学年2位だったもの。\n次こそ絶対1位を取るんだから……！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Trời đất, chỉ vì mới đứng thứ hai thôi á!? Giỏi quá đi mất......!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "やば、2位になっただけで！？\nちょ～えらすぎなんですけど……！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ốskeee! Vậy thì mình phụ luôn☆ Mình ngồi làm bài tập bên cạnh, có gì không\nhiểu cứ hỏi thoải mái hết nha.",
+      "jpname": "フサイチパンドラ",
+      "jptext": "よーし！　だったらあたしも手伝う☆\n隣で宿題してるからさ、\nわかんないことあったらなんでも聞いてっ。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Uhuuu, chẳng muốn nhìn thấy bài tập nữa rồiii. Nè nè, mình muốn đi cafe\nquáá......?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ぴえ～ん、もう宿題見たくな～い～。\nねね、あたしカフェ行きたいな～……？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "P-Pandora-san!? Mới có 10 phút trôi qua thôi còn gì?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ぱ、パンドラさんっ！？\nまだ10分しか経ってないわよ？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nè, em sẽ đi cùng chị mà. Làm xong bài rồi hẵng đi, nhé?",
+      "jpname": "アーモンドアイ",
+      "jptext": "ほら、わたしも付き合ってあげるから。\n終わらせてから行きましょ。ねっ？",
+      "choice_data_list": [
+        "(Sao ấy, rốt cuộc lại thành em chăm sóc người ta rồi còn gì......?)"
+      ],
+      "jpchoice_data_list": [
+        "なんか、最終的にアイが面倒見てない……？"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hảaa, vậy à? Mà, chuyện Ai-chan hiền lành thì là thật chuẩn đấy☆",
+      "jpname": "フサイチパンドラ",
+      "jptext": "えぇ～、そお？　まあ、アイちゃんが\nやさし～のはガチそれって感じだけど☆"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Ai-chan là đứa trẻ cực kỳ ngoan mà♡ Luôn luôn cảm ơn nhaaa,\nlubiuuuuuu♡♡♡",
+      "jpname": "フサイチパンドラ",
+      "jptext": "アイちゃん、ちょ～いい子なんだもん♡\nいつもありがとっ、らびゅ～～～♡♡♡"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Không đâu. Chừng này có gì đâu.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ううん。\nいいのよ、これくらい。",
+      "choice_data_list": [
+        "(Quả nhiên, cứ cảm giác dáng em có gì đó...... chẳng ổn nhỉ?)"
+      ],
+      "jpchoice_data_list": [
+        "（やっぱり、様子がおかしい気が……？）"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Cửa hàng lúc nãy là hỏng bét rồi...... Cầu mong, hãy để món này có mặt ở\nđây......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "さっきのお店、ダメだったわね……\nお願い、ここで見つかって……！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Nè nè! Ai-chan đang tìm cái gì thế? Nói cho mình biết nhaaa, mình cũng phụ\ntìm cho nè☆",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ねね！　アイちゃんなに探してるん～？\n教えてよ～、あたしも手伝ったげるから☆"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hả!? Ờm, cái đó thì......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "えっ！？　えっと、それは……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ kìa......? À, có rồi! May thật, tìm thấy rồi......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あれ……？　あっ、あった！\nよかったぁ、見つけた……！"
+    },
+    {
+      "name": "",
+      "text": "Điểm dừng của ánh mắt Almond Eye, là chiếc vòng cổ con bướm lấp lánh sắc\nvàng.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイの視線の先にあるのは、\n金色に輝く蝶のネックレス。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Aaaaaaa! Cái vòng cổ đó là hàng mới về đó! Đẹp cực kỳ luôn á, cái đó!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "あ～～～っ！　そのネックレス、新商品の！\nめっちゃいいよね～、それ！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Mà nè, Ai-chan cũng ưng cái này từ trước á? Ehehee, tự nhiên thấy vui ghê\nấy♪",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ってか、アイちゃんもお気にだったん？\nえっへへ、なんかうれし～かも♪"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Không phải đâu. Cái này, không phải của em đâu.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ううん。\nこれはね、わたしのじゃないの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Pandora-san. Món quà dành tặng chị...... chị có nhận lấy được không nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "パンドラさん。貴方へのプレゼント\n……受け取ってくれるかしら。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "......Hả?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "……へ？"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hả? Hả? Hảaaaaaa!? Khoan đã khoan đã, vì sao!? Tại sao thế!?!?",
+      "jpname": "フサイチパンドラ",
+      "jptext": "え？　え？　ええ～～～っ！？\n待って待って、なんで！？　どうして！？！？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vì em biết ơn chị mà――",
+      "jpname": "アーモンドアイ",
+      "jptext": "だって、貴方には感謝してるもの――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhờ Pandora-san mà em mới có thể tiếp tục nỗ lực, mà chẳng phải gồng\nmình quá sức đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "無理をせずに努力を続けられてるのは、\nパンドラさんのおかげだから！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Này, em vốn cực ghét thất bại mà đúng không? Nên là, hay lỡ tay gồng mình\nnỗ lực quá đà――",
+      "jpname": "アーモンドアイ",
+      "jptext": "ほら、わたしって負けるのが大嫌いでしょ？\nだから、つい頑張りすぎちゃって――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng nè, nhờ Pandora-san mà em đã được hít thở thong dong bao nhiêu\nlần rồi đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "でもね、パンドラさんのおかげで、\n何度も息抜きできたから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một mình thì dễ cứ gồng mãi như thế...... Nhưng chị, đã giúp đỡ em qua bao\nnhiêu lần rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ひとりだと、ずっと無理をしちゃうけど……\n貴方に、何度も助けてもらってるもの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Với chị, em muốn nói lời cảm ơn thật đàng hoàng. Cảm ơn chị, Pandora-san!",
+      "jpname": "アーモンドアイ",
+      "jptext": "貴方には、ちゃんと感謝を伝えたいの。\nありがとう、パンドラさん！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hựt......! Ai-chan......!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "～～っ！\nアイちゃん……っ！",
+      "choice_data_list": [
+        "Hai người thật sự đang nâng đỡ lẫn nhau đấy mà",
+        "Hai người thật sự đang nâng đỡ lẫn nhau đấy nhỉ",
+        "Lần này, đổi lại để em chủ động rủ chị đi thư giãn thì thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "お互いに支え合ってるんだな",
+        "お互いに支え合ってるんだね",
+        "今度はアイが息抜きに誘うのはどう？"
+      ]
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hựt......! Ai-chan......!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "～～っ！\nアイちゃん……っ！",
+      "choice_data_list": [
+        "Hai người thật sự đang nâng đỡ lẫn nhau đấy mà",
+        "Hai người thật sự đang nâng đỡ lẫn nhau đấy nhỉ",
+        "Lần này, đổi lại để em chủ động rủ chị đi thư giãn thì thế nào?"
+      ],
+      "jpchoice_data_list": [
+        "お互いに支え合ってるんだな",
+        "お互いに支え合ってるんだね",
+        "今度はアイが息抜きに誘うのはどう？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu, chắc thế. ......Cũng có khi, hai người là những hiện tồn cần thiết cho\nnhau đấy nhỉ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふ、そうかも。……もしかしたら、\nお互いに必要な存在、かもしれないわね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vì thế, Pandora-san. Từ nay về sau, lại mong chị chiếu cố nhiều đấy nhé!",
+      "jpname": "アーモンドアイ",
+      "jptext": "だから、パンドラさん。\nこれからもよろしくねっ。"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Hít hít......! Ừ, tất nhiên rồiii! Mãi mãi là Ai-chan love, đấy♡",
+      "jpname": "フサイチパンドラ",
+      "jptext": "ぐすっ……！　うん、もっちろん！\nずっとアイちゃんラブ、だもん♡"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ơ, hay đấy! Nếu thế thì, quán cafe em tình cờ thấy hôm trước có khi hợp\nđấy. Em vẫn nghĩ, chắc Pandora-san sẽ thích thôi!",
+      "jpname": "アーモンドアイ",
+      "jptext": "あら、いいわね！　それなら、\nこの前見かけたカフェとかいいかも。\nパンドラさん好きそうだな、って思ってたの！"
+    },
+    {
+      "name": "Fusaichi Pandora",
+      "text": "Đi ngay đi ngay! Nếu là cùng Ai-chan, thì đâu cũng cứ đi hết thôi nàaaa!",
+      "jpname": "フサイチパンドラ",
+      "jptext": "行く行く！　アイちゃんと一緒なら、\nどこだって行っちゃうよぉ～！"
+    }
+  ]
+}

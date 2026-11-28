@@ -1,0 +1,324 @@
+{
+  "title": "Trận quyết chiến đỉnh cao trên bãi biển",
+  "jptitle": "浜辺の頂上決戦",
+  "text_block_list": [
+    {
+      "name": "",
+      "text": "Điểm đến cùng Almond Eye hôm nay, có vẻ như đang tổ chức một sự kiện gì\nđó.",
+      "jpname": "モノローグ",
+      "jptext": "アーモンドアイと出かけた先で、\n何やらイベントが開かれているようだ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Ô, nhìn kìa! Nghĩa là “Chào đón cả cao thủ ghé tham gia! Đại hội kéo co Mã\nNương” đấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "へえ、見て！\n『飛び入り猛者も歓迎！\nウマ娘綱引き大会』ですって！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Một trận đấu quy tụ các Mã Nương tự hào về sức mạnh, à―― em thử thách\nxem sao nhỉ?",
+      "jpname": "アーモンドアイ",
+      "jptext": "パワー自慢のウマ娘が集まる勝負、か――\nチャレンジしてみてもいいかしら？",
+      "choice_data_list": [
+        "Cố lên nhé!"
+      ],
+      "jpchoice_data_list": [
+        "頑張って！"
+      ]
+    },
+    {
+      "name": "Người tham gia",
+      "text": "Hừ. Để tôi dạy cho cô bạn nghiệp dư đây cái thú vị của kéo co......!",
+      "jpname": "参加者",
+      "jptext": "ふっ。素人さんに、\n綱引きの妙味というものを教えてやるよ……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fufu. Mong được chỉ giáo ạ!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ふふっ。どうぞ、よろしくお願いしますっ！"
+    },
+    {
+      "name": "Người tham gia",
+      "text": "Guoooo!?!? ......Uệ, c-cát vào tận miệng......!",
+      "jpname": "参加者",
+      "jptext": "ぐぁぁ～～～～！？！？\n……げべっ、す、砂が口に入っちゃった……！"
+    },
+    {
+      "name": "",
+      "text": "Quả đúng là một chạm đã đủ―― Almond Eye với khí thế như tre đốt, tiến\nthẳng qua giải kéo co loại trực tiếp.",
+      "jpname": "モノローグ",
+      "jptext": "まさに鎧袖一触――\nアーモンドアイは破竹の勢いで\n綱引きトーナメントを駆けあがっていった。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Tiếp theo chính là chung kết rồi! Ừm, em thuộc bảng A, vậy bên bảng B\nlà――",
+      "jpname": "アーモンドアイ",
+      "jptext": "いよいよ次は決勝ね！\nええと、わたしはAブロックだったから、\nBブロックの方は――"
+    },
+    {
+      "name": "Tiếng than tuyệt vọng",
+      "text": "Gyaaaaaa――!!!!",
+      "jpname": "断末魔",
+      "jptext": "ギャァァァァァーーーーッ！！！！"
+    },
+    {
+      "name": "Người theo dõi",
+      "text": "V-vừa cho cả đội bảng B vào trận một lượt―― chỉ một khoảnh khắc đã càn\nquét tất cả!?!?",
+      "jpname": "観戦者",
+      "jptext": "び、Bブロックの選手たちを、\n一度に全員相手にして――\n一瞬で屠ったぁ！？！？"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ôi chao...... thất lễ thật. Phải chăng như một quý cô―― chị lẽ ra nên kéo\nmột cách thanh lịch, dịu dàng hơn nhỉ?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あらあら……失礼。\n淑女らしく――もっと優雅に、優しく\n引いてあげればよかったかしら？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đối thủ chung kết là...... Gentildonna-san!? Phải đấu sức mạnh với chị......!?",
+      "jpname": "アーモンドアイ",
+      "jptext": "決勝の相手って……ジェンティルさん！？\n貴方と、パワーで勝負……！？"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Ồ―― em không hài lòng à?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "あら――ご不満？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em đùa thôi! Trận này, em nhất định sẽ không thua!",
+      "jpname": "アーモンドアイ",
+      "jptext": "冗談！\nこの勝負、絶対負けません！"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "Và đây, hai Mã Nương tiến vào chung kết!! Trận này, quân cờ sẽ nghiêng về\nđâu!? Bắt đầu ngay bây giờ!!",
+      "jpname": "実況",
+      "jptext": "さぁ、決勝に上がってきたふたりのウマ娘！！\nこの勝負、どちらに軍配が上がるか！？\nいよいよスタート！！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "!?!? Gu, uuuuuu......!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ッッッ！？！？！？\nぐ、ぅぅぅぅぅぅぅ……！！"
+    },
+    {
+      "name": "",
+      "text": "Và trận đấu bắt đầu―― cả hai đều không nhượng bộ, phải tái khởi động vì\nhết giờ đến tận hai lần.",
+      "jpname": "モノローグ",
+      "jptext": "そして、始まった勝負は――\n両者どちらも譲らず、時間切れによる\n仕切り直しを、二度までも繰り返した。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Hà, hà......! Khố......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "はぁ、はぁ……！\nく……！",
+      "choice_data_list": [
+        "Em ổn không?"
+      ],
+      "jpchoice_data_list": [
+        "大丈夫？"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng...... quả thật chẳng giấu nổi mỏi mệt...... Nhưng...... phía đó――",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ……さすがに、疲労は否めないけれど。\n……でも……向こうは――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "...... . Không muốn, thua...... sao có thể chấp nhận thua......!",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………っ。負けたく、ない……\n負けてなるものですか……！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Nhưng...... để làm được điều đó, phải làm sao――",
+      "jpname": "アーモンドアイ",
+      "jptext": "でも……そのためには、どうすれば――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......",
+      "jpname": "アーモンドアイ",
+      "jptext": "…………。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Trainer. Em có một điều muốn nhờ.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……トレーナー。\nお願いが、あるの。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "―― Ồ. Lần này, phía sau em có Trainer đứng cùng đấy à?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "――あら。今度は、後ろに\n貴方のトレーナーがついているのね？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em chỉ nhờ chị đứng cạnh thôi ạ...... Không được sao?",
+      "jpname": "アーモンドアイ",
+      "jptext": "あくまで、ついていてもらうだけです。\n……ダメですか？"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Dĩ nhiên, chị không có ý kiến gì. Chỉ có điều―― nghĩ là vì thế mà thắng được\nchị sao?",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "無論、構いませんわ。ただし――\nそれで、私に勝てるとでも？"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Em chỉ là―― không muốn nuối tiếc mà thôi. Không muốn để chính mình\nthua theo cách y như lần trước nữa.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……わたしは、ただ――後悔したくないだけ。\n自分自身に、前と同じ負け方をしたくない。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Để thắng chị, em sẽ dốc trọn vẹn mọi thứ. Vì điều đó, điều em thấy cần nhất\nlúc này. Điều cần thiết, để có thể mạnh mẽ hơn.",
+      "jpname": "アーモンドアイ",
+      "jptext": "貴方に勝つために、ベストを尽くします。\nそのために、今一番必要だと思うこと。\n強くあるために、必要なこと。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đó chính là―― có người này ở ngay cạnh mình.",
+      "jpname": "アーモンドアイ",
+      "jptext": "それが――この人に、傍にいてもらうこと。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Phù. Chẳng hiểu sao lại thành lời tuyên bố đầy khí thế mất rồi...... nhưng\nem tin tưởng vào anh. Trainer.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふぅ。なんだか啖呵を切るような形に\nなっちゃったけど……\n頼りにしているわ。トレーナー。",
+      "choice_data_list": [
+        "......Anh hiểu rồi"
+      ],
+      "jpchoice_data_list": [
+        "……わかった"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Gật đầu, đưa ra lời khuyên hết mức có thể. Điều quan sát được: thời điểm\nGentildonna đổ lực mạnh nhất. Thói quen cách nắm dây.",
+      "jpname": "モノローグ",
+      "jptext": "頷きつつ、可能な限り助言をする。\n見ていて気づいた、ジェンティルドンナが\n最も力を入れるタイミング。握り方の癖。",
+      "choice_data_list": [
+        "Cố lên nhé...... không. Cùng cố lên thôi!"
+      ],
+      "jpchoice_data_list": [
+        "頑張れ……いや。頑張ろう！"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Vâng!!",
+      "jpname": "アーモンドアイ",
+      "jptext": "ええ！！"
+    },
+    {
+      "name": "",
+      "text": "Và thế―― kết cục của trận đấu, hai người cùng nhau khiêu chiến là.",
+      "jpname": "モノローグ",
+      "jptext": "そして――ふたりで挑んだ、\n勝負の行方は。"
+    },
+    {
+      "name": "Bình luận viên",
+      "text": "―― Sao đâyyy...... dây...... dây đặc biệt gia công, cường lực siêu cấp đã đứt\nroàiiii!! Đứt đúng, đúng chính giữa......!!",
+      "jpname": "実況",
+      "jptext": "――なッ……縄が……特注の、\n強靭性マシマシ綱が千切れたぁ～～！！\nちょッ、ちょうど、真ん中で……！！"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "......Nghĩa là giải tán, đúng không nhỉ. Người ta dường như đã chuẩn bị một\nsợi dây kém lịch sự quá đấy.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "……つまりはお開き、ということかしら。\nずいぶんと無粋な綱を用意してくれたようね。"
+    },
+    {
+      "name": "Gentildonna",
+      "text": "Fufu. Hẹn một dịp khác―― chị sẽ háo hức mong chờ.",
+      "jpname": "ジェンティルドンナ",
+      "jptext": "ふふ。またの機会を――\n心待ちにしておりますわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Hà. Là một trận đấu hay đấy, nhưng―― “chiến thắng” thì, em chẳng\nnhận được.",
+      "jpname": "アーモンドアイ",
+      "jptext": "……はぁ。いい勝負だったけど――\n“勝ち”は、もらえなかったわ。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đã mượn cả sức mạnh của Trainer nữa mà...... Em vẫn còn, chưa vững vàng\ngì đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナーの力も借りちゃったのに。\n……まだまだ、頼りないわね。わたし。",
+      "choice_data_list": [
+        "Dám dựa vào người khác chính là bằng chứng của một người “vững vàng” đấy!",
+        "Anh rất vui vì được em dựa vào đấy",
+        "Cơ bắp cũng phải rèn thêm rắn chắc nữa nhỉ......",
+        "Cơ bắp cũng phải rèn thêm rắn chắc nữa chứ......"
+      ],
+      "jpchoice_data_list": [
+        "誰かを頼れたことが“しっかり者”の証！",
+        "頼ってもらえて嬉しかった",
+        "筋肉もさらにしっかりさせていくか……",
+        "筋肉もさらにしっかりさせていかなきゃ……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Đã mượn cả sức mạnh của Trainer nữa mà...... Em vẫn còn, chưa vững vàng\ngì đấy.",
+      "jpname": "アーモンドアイ",
+      "jptext": "トレーナーの力も借りちゃったのに。\n……まだまだ、頼りないわね。わたし。",
+      "choice_data_list": [
+        "Dám dựa vào người khác chính là bằng chứng của một người “vững vàng” đấy!",
+        "Anh rất vui vì được em dựa vào đấy",
+        "Cơ bắp cũng phải rèn thêm rắn chắc nữa nhỉ......",
+        "Cơ bắp cũng phải rèn thêm rắn chắc nữa chứ......"
+      ],
+      "jpchoice_data_list": [
+        "誰かを頼れたことが“しっかり者”の証！",
+        "頼ってもらえて嬉しかった",
+        "筋肉もさらにしっかりさせていくか……",
+        "筋肉もさらにしっかりさせていかなきゃ……"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "......Fufu. Có thể coi là tiến thêm một bước rồi, đúng không anh?",
+      "jpname": "アーモンドアイ",
+      "jptext": "……ふふ。一歩進めた、\nとは思っていいわよね。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Em còn tiến xa hơn nữa. Lòng em, thân em, đôi chân em. Nếu là em, nếu là\nchúng ta, nhất định làm được.",
+      "jpname": "アーモンドアイ",
+      "jptext": "まだまだ進むわ。心も、体も、脚も。\nわたしなら、\nわたしたちなら、それができるもの。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Thế là tốt rồi. Nhưng này, đây là chuyện hai bên đều như nhau đấy nhé?\nVì――",
+      "jpname": "アーモンドアイ",
+      "jptext": "それならよかったわ。\nでもね、お互いさまなのよ？\nだって――"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Có một người để dựa vào là niềm vui và sự vững tâm lớn đến mức nào――\nhôm nay, em đã hiểu ra rồi.",
+      "jpname": "アーモンドアイ",
+      "jptext": "頼れる人がいることが、どれだけ嬉しくて\n心強いことか――今日、わかったから。"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "―― Đúng vậy. Em muốn thắng người đó. Thắng ngay ở phần mạnh nhất của\nngười đó!",
+      "jpname": "アーモンドアイ",
+      "jptext": "――そうね。あの人に勝ちたい。\nあの人の、もっとも強い部分で！"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Chẳng có thời gian mà thất vọng về những điều “bây giờ chưa làm được”.\nDù là “một ngày nào” ở đâu, em cũng sẽ chạm tới. Đó, chính là Almond Eye\nđấy!",
+      "jpname": "アーモンドアイ",
+      "jptext": "“今できない”ことにがっかりする\n暇なんてない。どんな“いつか”へも\n辿り着く。それが、アーモンドアイよ！"
+    }
+  ]
+}
